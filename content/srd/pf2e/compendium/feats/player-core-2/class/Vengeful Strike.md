@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Barbarian`  `Rage`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/come-and-get-me|Come and Get Me]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Come and Get Me|Come and Get Me]]
 - **Trigger**: A creature within your reach succeeds at an attack against you.
 - **Requirements**: You’re under the effect of Come and Get Me.
 

@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/captain|Captain]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/experienced-follower|Experienced Follower]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Captain|Captain]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Experienced Follower|Experienced Follower]]
 
-Your followers' training has made them veterans of battle. They all become veteran followers.
+Your followers' training has made them veterans of battle. They all become [veteran followers.](https://2e.aonprd.com/Followers.aspx)
 
 ### Veteran Follower leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/archetype/exceptional-follower|Exceptional Follower]]
+[[srd/pf2e/compendium/feats/battlecry/archetype/Exceptional Follower|Exceptional Follower]]
 
 *Source: Battlecry! p. 83*

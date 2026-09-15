@@ -24,24 +24,24 @@ Constitution or Intelligence
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/bladed-scarf|Bladed Scarf]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/Bladed Scarf|Bladed Scarf]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/domains#Magic|Magic]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/Domains#Magic|Magic]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Glyph|Glyph]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Glyph|Glyph]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/illusory-disguise|Illusory Disguise]]
+[[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|Illusory Disguise]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/blur|Blur]]
+[[srd/pf2e/compendium/spells/rank-2/Blur|Blur]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/mislead|Mislead]]
+[[srd/pf2e/compendium/spells/rank-6/Mislead|Mislead]]
 
 ### Divine Intercession
 
@@ -53,10 +53,10 @@ The Seventh Veil abhors the use of illusion to cause harm and detests anyone who
 
 **Major Boon** You spread your illusions over a larger area. You can designate an area to permanently gain the effects of _hallucinatory terrain_. All creatures within this area gain the effects of _illusory disguise_, changing their forms as you wish. You can designate a new area as a 1-minute activity, but doing so dismisses any previously designated areas.
 
-**Minor Curse** Your hair becomes a wild variety of colors, which cannot be altered with mundane or magical means, and it somehow grows out from under any cap, scarf, or other headwear intended to disguise it. You gain a –2 status penalty to [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] skill checks to Impersonate anyone else.
+**Minor Curse** Your hair becomes a wild variety of colors, which cannot be altered with mundane or magical means, and it somehow grows out from under any cap, scarf, or other headwear intended to disguise it. You gain a –2 status penalty to [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] skill checks to Impersonate anyone else.
 
 **Moderate Curse** Those who betray the secrets of others find their own secrets laid bare. Each person from whom you are keeping a secret immediately learns one of your secrets involving that person. This curse doesn’t give away other people’s secrets you are keeping, only your own.
 
-**Major Curse** Mirrors break whenever you cross their paths. You cannot be concealed by [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]] magic of any kind (the spell automatically fails), and all creatures that see you know your true identity
+**Major Curse** Mirrors break whenever you cross their paths. You cannot be concealed by [[srd/pf2e/compendium/rules-elements/traits/player-core/Illusion|illusion]] magic of any kind (the spell automatically fails), and all creatures that see you know your true identity
 
 *Source: Divine Mysteries p. 158*

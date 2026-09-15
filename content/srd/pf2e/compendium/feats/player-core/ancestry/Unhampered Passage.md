@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Halfling`
 
-You won't allow others to restrain you. You can cast [[srd/pf2e/compendium/spells/rank-4/unfettered-movement|_unfettered movement_]] on yourself as a primal innate spell once per day.
+You won't allow others to restrain you. You can cast [[srd/pf2e/compendium/spells/rank-4/Unfettered Movement|_unfettered movement_]] on yourself as a primal innate spell once per day.
 
 *Source: Player Core p. 61*

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/psychic|Psychic]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/expert-psychic-spellcasting|Expert Psychic Spellcasting]]; Legendary in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Psychic|Psychic]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Expert Psychic Spellcasting|Expert Psychic Spellcasting]]; Legendary in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-You gain the master [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|spellcasting benefits]].
+You gain the master [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Spellcasting Archetypes|spellcasting benefits]].
 
 *Source: Dark Archives (Remastered) p. 48*

@@ -32,7 +32,7 @@ A large, stylized symbol of an eye adorns the top of this wooden staff, represen
 
 ---
 
-**Cantrip** [[srd/pf2e/compendium/spells/cantrips/guidance|_guidance_]]**1st** [[srd/pf2e/compendium/spells/rank-1/bless|_bless_]], [[srd/pf2e/compendium/spells/rank-1/create-water|_create water_]]**2nd** [[srd/pf2e/compendium/spells/rank-2/augury|_augury_]], [[srd/pf2e/compendium/spells/rank-2/create-food|_create food_]], [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]], [[srd/pf2e/compendium/spells/rank-2/status|_status_]]
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/Guidance|_guidance_]]**1st** [[srd/pf2e/compendium/spells/rank-1/Bless|_bless_]], [[srd/pf2e/compendium/spells/rank-1/Create Water|_create water_]]**2nd** [[srd/pf2e/compendium/spells/rank-2/Augury|_augury_]], [[srd/pf2e/compendium/spells/rank-2/Create Food|_create food_]], [[srd/pf2e/compendium/spells/rank-2/See the Unseen|_see the unseen_]], [[srd/pf2e/compendium/spells/rank-2/Status|_status_]]
 
 ### Staff of Providence (Greater)
 
@@ -42,7 +42,7 @@ A large, stylized symbol of an eye adorns the top of this wooden staff, represen
 
 ---
 
-**3rd** [[srd/pf2e/compendium/spells/rank-3/safe-passage|_safe passage_]], _wanderer's guide_**4th** [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|_cleanse affliction_]], [[srd/pf2e/compendium/spells/rank-4/dispelling-globe|_dispelling globe_]], _status_
+**3rd** [[srd/pf2e/compendium/spells/rank-3/Safe Passage|_safe passage_]], _wanderer's guide_**4th** [[srd/pf2e/compendium/spells/rank-2/Cleanse Affliction|_cleanse affliction_]], [[srd/pf2e/compendium/spells/rank-4/Dispelling Globe|_dispelling globe_]], _status_
 
 ### Staff of Providence (Major)
 
@@ -52,7 +52,7 @@ A large, stylized symbol of an eye adorns the top of this wooden staff, represen
 
 ---
 
-**5th** _dispelling globe_, [[srd/pf2e/compendium/spells/rank-5/scouting-eye|_scouting eye_]], _see the unseen_**6th** _dispelling globe_, _scintillating safeguard_, [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]]
+**5th** _dispelling globe_, [[srd/pf2e/compendium/spells/rank-5/Scouting Eye|_scouting eye_]], _see the unseen_**6th** _dispelling globe_, _scintillating safeguard_, [[srd/pf2e/compendium/spells/rank-6/Truesight|_truesight_]]
 
 ### Staff of Providence (True)
 
@@ -62,6 +62,6 @@ A large, stylized symbol of an eye adorns the top of this wooden staff, represen
 
 ---
 
-**7th** _dispelling globe_, [[srd/pf2e/compendium/spells/rank-7/energy-aegis|_energy aegis_]]**8th** _dispelling globe_, [[srd/pf2e/compendium/spells/rank-8/divine-inspiration|_divine inspiration_]]**9th** _dispelling globe_, [[srd/pf2e/compendium/spells/rank-9/foresight|_foresight_]], [[srd/pf2e/compendium/spells/rank-9/overwhelming-presence|_overwhelming presence_]]
+**7th** _dispelling globe_, [[srd/pf2e/compendium/spells/rank-7/Energy Aegis|_energy aegis_]]**8th** _dispelling globe_, [[srd/pf2e/compendium/spells/rank-8/Divine Inspiration|_divine inspiration_]]**9th** _dispelling globe_, [[srd/pf2e/compendium/spells/rank-9/Foresight|_foresight_]], [[srd/pf2e/compendium/spells/rank-9/Overwhelming Presence|_overwhelming presence_]]
 
 *Source: Player Core 2 p. 308*

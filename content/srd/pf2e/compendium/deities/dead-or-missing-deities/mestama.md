@@ -24,23 +24,23 @@ Wisdom or Charisma
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/katar|Katar]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Katar|Katar]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Magic|Magic]], [[srd/pf2e/compendium/character/domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/domains#Pain|Pain]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Magic|Magic]], [[srd/pf2e/compendium/character/Domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/Domains#Pain|Pain]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Passion|Passion]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Passion|Passion]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/ill-omen|Ill Omen]]
+[[srd/pf2e/compendium/spells/rank-1/Ill Omen|Ill Omen]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/threefold-aspect|Threefold Aspect]]
+[[srd/pf2e/compendium/spells/rank-3/Threefold Aspect|Threefold Aspect]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/cursed-metamorphosis|Cursed Metamorphosis]]
+[[srd/pf2e/compendium/spells/rank-6/Cursed Metamorphosis|Cursed Metamorphosis]]
 
 *Source: Divine Mysteries p. 312*

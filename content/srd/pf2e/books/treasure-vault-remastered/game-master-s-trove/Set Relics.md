@@ -1,6 +1,7 @@
 ---
 title: "Set Relics"
 aliases: ["Set Relics"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,18 +10,17 @@ tags:
 source: "Treasure Vault (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1970"
 citation: "Treasure Vault (Remastered) pg. 200"
-socialImage: og-image.png
 ---
 
 # Set Relics
 
 <sup>TV p. 200</sup>
 
-Some permanent magic items are strongly attuned to one another, forming a relic seed called a set relic or item set. Such items fit a theme, empowering a specific type of character. A set relic grants gifts and benefits based on its items working and growing more powerful in concert.
+Some permanent magic items are strongly attuned to one another, forming a [relic seed](https://2e.aonprd.com/Rules.aspx?ID=1096) called a set relic or item set. Such items fit a theme, empowering a specific type of character. A set relic grants gifts and benefits based on its items working and growing more powerful in concert.
 
 ## Set Relics in the Campaign
 
-Set relics are more powerful than typical relic seeds, but they also make acquiring treasure more exciting. To balance things, ensure each character has access to a set relic suited to their abilities. Also, consider what it takes for characters to acquire this considerable power. Seeking the items or materials to craft them should lead to specific quests and challenges, or even whole adventures. Strongly consider adjusting treasure to account for these valuable items.
+Set relics are more powerful than typical relic seeds, but they also make acquiring treasure more exciting. To balance things, ensure each character has access to a set relic suited to their abilities. Also, consider what it takes for characters to acquire this considerable power. Seeking the items or materials to craft them should lead to specific quests and challenges, or even whole adventures. Strongly consider [adjusting treasure](https://2e.aonprd.com/Rules.aspx?ID=1102) to account for these valuable items.
 
 ## Starting a Set Relic
 
@@ -28,13 +28,13 @@ A character starts a set relic when they acquire one item from the set, usually 
 
 ## Utilizing a Set Relic
 
-A user must carry or wear items comprising a set relic to gain their benefits as part of the set. Any item the set relic's wielder fails to wear or carry, as well as any item stowed in an extradimensional space, doesn't count toward the gifts and item-number features the set relic can grant. The character must also invest any item that has the invested trait, or that item doesn't count for the power of the set relic. Consequently, if a user loses an item that's part of the set relic, any benefits that item brought to the set relic disappear until the item is recovered, invested if necessary, and carried or worn again.
+A user must carry or wear items comprising a set relic to gain their benefits as part of the set. Any item the set relic's wielder fails to wear or carry, as well as any item stowed in an extradimensional space, doesn't count toward the gifts and item-number features the set relic can grant. The character must also invest any item that has the [invested](https://2e.aonprd.com/Traits.aspx?ID=98) trait, or that item doesn't count for the power of the set relic. Consequently, if a user loses an item that's part of the set relic, any benefits that item brought to the set relic disappear until the item is recovered, invested if necessary, and carried or worn again.
 
 ## Advancing a Set Relic
 
 Each part of a set relic that a character collects further empowers the relic's gifts and provides additional features.
 
-**Gifts**: A set relic grants you gifts based on the number of items properly utilized as part of the set relic, as well as a minimum level, which the wielder's level must equal or exceed. This progression matches that detailed on the *Gamemastery Guide's* Table 2–22: Relic Gifts in terms of number of gifts, minimum level, gift type, and gp equivalent. Each known set relic (see the sets presented below) shows a number before listing a gift. This number corresponds with the number of gifts on Table 2–22, as well as the number of items in the set relic that must be properly utilized to access the indicated gift.
+**Gifts**: A set relic grants you gifts based on the number of items properly utilized as part of the set relic, as well as a minimum level, which the wielder's level must equal or exceed. This progression matches that detailed on the *Gamemastery Guide's* [Table 2–22: Relic Gifts](https://2e.aonprd.com/Rules.aspx?ID=1101) in terms of number of gifts, minimum level, gift type, and gp equivalent. Each known set relic (see the sets presented below) shows a number before listing a gift. This number corresponds with the number of gifts on Table 2–22, as well as the number of items in the set relic that must be properly utilized to access the indicated gift.
 
 **Collective Features**: A set relic also grants its user features, boosting to the relic's gifts, based on the number of items properly utilized in the relic. Such features are cumulative. Once a character has four items from a set, for instance, that wielder gains the features for having two, three, and four items. Each known set relic lists the number of items and the feature linked with properly utilizing that number of items as part of the set relic.
 

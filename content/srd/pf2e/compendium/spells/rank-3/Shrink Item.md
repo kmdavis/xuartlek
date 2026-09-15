@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Polymorph`
 
-- **Tradition**: Arcane
+- **Tradition**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1)
 - **Cast**: 10 minutes
 - **Range**: touch
 - **Target**: 1 non-magical object up to 20 cubic feet in volume and up to 80 Bulk

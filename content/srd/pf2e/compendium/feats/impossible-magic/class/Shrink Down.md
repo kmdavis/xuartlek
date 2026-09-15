@@ -21,6 +21,6 @@ Your eidolon can shrink to fit into small spaces. Your eidolon reduces to a smal
 
 ### Shrink Down leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/miniaturize|Miniaturize]]
+[[srd/pf2e/compendium/feats/impossible-magic/class/Miniaturize|Miniaturize]]
 
 *Source: Impossible Magic p. 81*

@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
 You elude and evade attempts to uncover your true nature or intentions. When a spell or magical effect tries to read your mind, detect whether you are lying, or reveal your identity, you can attempt a Deception check against the spell or effect’s DC. If you succeed, the effect reveals nothing.
 

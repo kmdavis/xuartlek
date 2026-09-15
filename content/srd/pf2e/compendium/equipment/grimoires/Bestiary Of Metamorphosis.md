@@ -5,13 +5,13 @@ tags:
 - trait/grimoire
 - trait/magical
 - equipment/level/6
-aliases: ["Bestiary Of Metamorphosis"]
+aliases: ["Bestiary of Metamorphosis"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5120"
 source: "Impossible Magic"
 socialImage: og-image.png
 ---
 
-# Bestiary Of Metamorphosis  *Item 6*
+# Bestiary of Metamorphosis  *Item 6*
 
 `Grimoire`  `Magical`
 
@@ -20,6 +20,6 @@ socialImage: og-image.png
 
 This grimoire fancifully illustrates the spells you inscribe within it with illuminated drawings of creatures that have never existed, the pictures changing to depict new ones from time to time. 
 
-**Activate—Shifting Form** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]]) **Frequency** once per day; **Requirements** You’re under the effect of a polymorph spell that offers a choice of multiple forms; **Effect** You transform into a different form allowed by the polymorph by bending and molding the spell’s energy. This reduces the spell’s remaining duration by half.
+**Activate—Shifting Form** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]]) **Frequency** once per day; **Requirements** You’re under the effect of a polymorph spell that offers a choice of multiple forms; **Effect** You transform into a different form allowed by the polymorph by bending and molding the spell’s energy. This reduces the spell’s remaining duration by half.
 
 *Source: Impossible Magic p. 228*

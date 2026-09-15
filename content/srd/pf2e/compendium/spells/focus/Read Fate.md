@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Prediction`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Fate|Fate]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Fate|Fate]]
 - **Range**: 30 feet
 - **Target**: 1 creature other than you
 

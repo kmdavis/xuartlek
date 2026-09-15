@@ -21,11 +21,11 @@ socialImage: og-image.png
 
 `Auditory`  `Cleric`  `Concentrate`  `Emotion`  `Focus`  `Manipulate`  `Mental`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Sorrow|Sorrow]]
-- **Range**: 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]]
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] will
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Sorrow|Sorrow]]
+- **Range**: 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Cone|cone]]
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] will
 
-You let out your negative emotions in a guttural wail that shakes your enemies’ hearts and deals 1d8 [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] damage (basic Will save) to each creature in the area. If you have any harmful conditions imposed by [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effects, lament deals additional mental damage equal to the [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] rank of the highest-level effect. 
+You let out your negative emotions in a guttural wail that shakes your enemies’ hearts and deals 1d8 [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] damage (basic Will save) to each creature in the area. If you have any harmful conditions imposed by [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]] effects, lament deals additional mental damage equal to the [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions#Counteracting|counteract]] rank of the highest-level effect. 
 
 ---
 **Heightened (+1)** The damage increases by 1d8.

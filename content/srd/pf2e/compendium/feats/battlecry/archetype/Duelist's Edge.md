@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/aldori-duelist|Aldori Duelist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/aldori-duelist-dedication|Aldori Duelist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Aldori Duelist|Aldori Duelist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Aldori Duelist Dedication|Aldori Duelist Dedication]]
 - **Trigger**: You roll initiative, and you are observing at least one opponent.
 
-You hone your reaction time through duels and learn to draw your weapon seamlessly as you begin a fight. You gain a +2 circumstance bonus to the triggering initiative roll, and you can immediately Interact to draw an [[srd/pf2e/compendium/equipment/weapons/sword/aldori-dueling-sword|Aldori dueling sword]].
+You hone your reaction time through duels and learn to draw your weapon seamlessly as you begin a fight. You gain a +2 circumstance bonus to the triggering initiative roll, and you can immediately Interact to draw an [[srd/pf2e/compendium/equipment/weapons/sword/Aldori Dueling Sword|Aldori dueling sword]].
 
 *Source: Battlecry! p. 54*

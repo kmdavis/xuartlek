@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Curse`  `Death`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Aesir|Aesir]]
 - **Range**: touch
 - **Target**: 1 living creature
 - **Defense**: Fortitude

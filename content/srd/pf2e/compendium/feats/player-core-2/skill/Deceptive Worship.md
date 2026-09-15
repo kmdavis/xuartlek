@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-Members of your cult frequently pass themselves off as worshippers of other religions. You can use Occultism instead of [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]] a typical worshipper of another faith or to [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]] specifically to claim you are a member of the faith you are Impersonating. You still need to use the Deception skill to Impersonate a specific worshipper or to perform other deceptive actions, such as attempting to Lie about any other matter.
+Members of your cult frequently pass themselves off as worshippers of other religions. You can use Occultism instead of [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]] a typical worshipper of another faith or to [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]] specifically to claim you are a member of the faith you are Impersonating. You still need to use the Deception skill to Impersonate a specific worshipper or to perform other deceptive actions, such as attempting to Lie about any other matter.
 
 *Source: Player Core 2 p. 229*

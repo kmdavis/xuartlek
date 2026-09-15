@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], Expert in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], Expert in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], or Expert in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], Expert in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], Expert in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], or Expert in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
 Learning spells comes easily to you. When you succeed at Learning a Spell, it takes 10 minutes regardless of the spell’s rank. If you would succeed on the check, you critically succeed instead. If you fail, you can try again after a week or after you gain a level, whichever is first.
 

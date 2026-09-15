@@ -17,7 +17,7 @@ socialImage: og-image.png
 - **Cast**: 1 day
 - **Cost**: alchemical herbs and components worth a total of 1, 000 gp × the target’s level
 - **Secondary Casters**: 2
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] (expert)
 - **Secondary Checks**: Religion, Society
 - **Range**: 20 feet
 - **Target(s)**: 1 living creature of a level no greater than double the bathe in blood ritual's rank
@@ -32,6 +32,6 @@ This old ritual is illegal in nearly every corner of Golarion and requires that 
 
 **Failure** The ritual has no effect.
 
-**Critical Failure** You die. Casters killed this way frequently return as undead, often as [[srd/pf2e/compendium/gm/creature-families/ghost|ghosts]] or [[srd/pf2e/compendium/gm/creature-families/vampire|vampires]].
+**Critical Failure** You die. Casters killed this way frequently return as undead, often as [[srd/pf2e/compendium/gm/creature-families/Ghost|ghosts]] or [[srd/pf2e/compendium/gm/creature-families/Vampire|vampires]].
 
 *Source: Impossible Magic p. 189*

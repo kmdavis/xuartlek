@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Barbarian`  `Rage`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/fury|fury instinct]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/Fury|fury instinct]]
 - **Trigger**: An enemy within your melee reach critically hits you with a melee [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]].
 
 Your enemy's blow fuels your rage and provokes your immediate retaliation. Make a melee Strike against the triggering enemy.

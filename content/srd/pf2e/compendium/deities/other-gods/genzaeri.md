@@ -24,23 +24,23 @@ Constitution or Intelligence
 
 **Divine Sanctification** can choose holy or unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
 **Favored Weapon** Bladed Gauntlet
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Perfection|Perfection]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Perfection|Perfection]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Might|Might]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Might|Might]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]]
+[[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/hypercognition|Hypercognition]]
+[[srd/pf2e/compendium/spells/rank-3/Hypercognition|Hypercognition]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/weapon-storm|Weapon Storm]]
+[[srd/pf2e/compendium/spells/rank-4/Weapon Storm|Weapon Storm]]
 
 *Source: Divine Mysteries p. 140*

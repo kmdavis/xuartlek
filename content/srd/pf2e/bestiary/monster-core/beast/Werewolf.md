@@ -32,16 +32,16 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; low-light vision, scent (imprecise) 30 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; wolf empathy"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]; wolf empathy"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +10"
 abilityMods: [4, 2, 2, -1, 2, 1]
 abilities_top:
   - name: "Wolf Empathy"
     desc: "The werewolf can communicate with canine creatures."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/axe/battle-axe|battle axe]], Composite Shortbow (20 arrows), Studded Leather Armor"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/axe/Battle Axe|battle axe]], Composite Shortbow (20 arrows), Studded Leather Armor"
 ac: 17
 armorclass:
   - name: "AC"
@@ -56,22 +56,22 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ battle axe +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d8+8 slashing"
+    desc: "⬻ battle axe +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|Sweep]]) __Damage__ 1d8+8 slashing"
   - name: "Melee"
-    desc: "⬻ claw +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+8 slashing"
+    desc: "⬻ claw +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d6+8 slashing"
   - name: "Melee"
     desc: "⬻ jaws +11 __Damage__ 1d8+8 piercing plus curse of the werewolf"
   - name: "Ranged"
-    desc: "⬻ composite shortbow +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], range increment 60 feet, reload 0) __Damage__ 1d6+4 piercing"
+    desc: "⬻ composite shortbow +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d10]], range increment 60 feet, reload 0) __Damage__ 1d6+4 piercing"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) Human with fist +11 for 1d4+8 bludgeoning, or wolf with Speed 40 feet and jaws with Knockdown."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|Polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|Primal]]) Human with fist +11 for 1d4+8 bludgeoning, or wolf with Speed 40 feet and jaws with Knockdown."
   - name: "Curse of the Werewolf"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|Primal]])"
   - name: "Saving Throw"
     desc: "DC 17 Fortitude"
   - name: "Moon Frenzy"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|Polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|Primal]])"
   - name: "Pack Attack"
     desc: "The werewolf's Strikes deal 1d6 extra damage to creatures within reach of at least two of the werewolf's allies."
 sourcebook: "_Monster Core_, page 346."

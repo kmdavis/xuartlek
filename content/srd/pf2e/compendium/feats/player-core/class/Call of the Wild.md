@@ -18,6 +18,6 @@ You call upon the creatures of nature to come to your aid. You can spend 10 minu
 
 ### Call of the Wild leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/primal-summons|Primal Summons]]
+[[srd/pf2e/compendium/feats/player-core/class/Primal Summons|Primal Summons]]
 
 *Source: Player Core p. 129*

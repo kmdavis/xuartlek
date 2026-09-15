@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Magical`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/spellshot|Spellshot]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/spellshot-dedication|Spellshot Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Spellshot|Spellshot]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Spellshot Dedication|Spellshot Dedication]]
 
 You combine your own magic with that of your magical crossbow or firearm. You gain the Spell-Woven Shot activity.
 

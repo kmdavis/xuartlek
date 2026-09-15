@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Primal
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Elemental|Elemental]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Elemental|Elemental]]
 - **Range**: touch
 - **Target**: 1 creature touched
 - **Duration**: 10 minutes
 
-You repel hindrances that would affect a creature. While under this spell's effect, the target ignores effects that would give them a circumstance penalty to Speed. When they attempt to Escape an effect that has them [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]], [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]], or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]], they automatically succeed unless the effect is [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] and of a higher rank than the _unfettered movement_ spell.
+You repel hindrances that would affect a creature. While under this spell's effect, the target ignores effects that would give them a circumstance penalty to Speed. When they attempt to Escape an effect that has them [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]], [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]], or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]], they automatically succeed unless the effect is [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]] and of a higher rank than the _unfettered movement_ spell.
 
 *Source: Player Core p. 365*

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/munitions-master|Munitions Master]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/munitions-master-dedication|Munitions Master Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Munitions Master|Munitions Master]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Munitions Master Dedication|Munitions Master Dedication]]
 
-You tune your [[srd/pf2e/compendium/character/innovations#Light Mortar|light mortar]] to maximize penetration into hard surfaces. You Launch your light mortar, dealing half the normal amount of damage to creatures in the area of the blast but double damage to objects and structures.
+You tune your [[srd/pf2e/compendium/character/Innovations#Light Mortar|light mortar]] to maximize penetration into hard surfaces. You Launch your light mortar, dealing half the normal amount of damage to creatures in the area of the blast but double damage to objects and structures.
 
 *Source: Battlecry! p. 65*

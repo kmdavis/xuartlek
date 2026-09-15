@@ -28,16 +28,16 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+6"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +6, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +6, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +7, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +4"
 abilityMods: [0, 3, 4, 0, 1, 1]
 abilities_top:
   - name: "Don't Shoot the Messenger"
-    desc: "Messengers get a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks to convince another creature not to blame them for any news they deliver."
+    desc: "Messengers get a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] checks to convince another creature not to blame them for any news they deliver."
   - name: "Road Runner"
-    desc: "Messengers can use [[srd/pf2e/compendium/rules-elements/skills/society|Society]] in place of [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Direction|Sense Direction]] when they're on a road."
+    desc: "Messengers can use [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] in place of [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Direction|Sense Direction]] when they're on a road."
   - name: "Items"
     desc: "Dagger, satchel of mail, Sling (10 bullets)"
 ac: 16
@@ -51,13 +51,13 @@ health:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+2 piercing"
+    desc: "⬻ dagger +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+2 piercing"
   - name: "Melee"
-    desc: "⬻ fist +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ fist +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dagger +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+2 piercing"
+    desc: "⬻ dagger +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+2 piercing"
   - name: "Ranged"
-    desc: "⬻ sling +8 (range increment 50 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]]) __Damage__ 1d6+2 bludgeoning"
+    desc: "⬻ sling +8 (range increment 50 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/Propulsive|Propulsive]]) __Damage__ 1d6+2 bludgeoning"
 abilities_bot:
   - name: "Express Messenger"
     desc: "Allies traveling with the messenger gain a +5-foot circumstance bonus to travel Speed, to a maximum of the messenger's travel Speed. If they use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Hustle|Hustle]] activity, they can Hustle for a minimum of 1 hour instead of the usual amount."

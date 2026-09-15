@@ -18,8 +18,8 @@ socialImage: og-image.png
 
 `Animist`  `Apparition`  `Divine`  `Misfortune`  `Wandering`
 
-- **Trigger**: You would be detected by an enemy [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seeking]] you, or an enemy would succeed at a [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] check against a spell making you [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]].
-- **Requirements**: Your attuned apparition grants Hunting [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] or Underworld Lore as one of its apparition skills.
+- **Trigger**: You would be detected by an enemy [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seeking]] you, or an enemy would succeed at a [[srd/pf2e/books/player-core/chapter-7-spells/Counteracting|counteract]] check against a spell making you [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]], [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]], or [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]].
+- **Requirements**: Your attuned apparition grants Hunting [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] or Underworld Lore as one of its apparition skills.
 
 Your apparition possesses a furtive and elusive nature that can influence and blend with your spiritual energy to form a protective and nearly impenetrable shroud of nondetection around you. The enemy must reroll the triggering check and take the lower result.
 

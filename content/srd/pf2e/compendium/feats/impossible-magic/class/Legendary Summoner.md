@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Summoner`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/master-summoner|Master Summoner]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/Master Summoner|Master Summoner]]
 
-Your ability to summon extends past your other spellcasting. When you sacrifice a 9th-rank spell slot to gain two summoning slots using Master Summoner, you can use those slots to cast [[srd/pf2e/compendium/rules-elements/traits/player-core/summon|summon]] or [[srd/pf2e/compendium/rules-elements/traits/howl-of-the-wild/incarnate|incarnate]] spells heightened to 10th rank. You can’t use these spell slots for any purpose other than casting the summon or incarnate spells, and you don’t count as having 10th-rank spell slots for other abilities or rules.
+Your ability to summon extends past your other spellcasting. When you sacrifice a 9th-rank spell slot to gain two summoning slots using Master Summoner, you can use those slots to cast [[srd/pf2e/compendium/rules-elements/traits/player-core/Summon|summon]] or [[srd/pf2e/compendium/rules-elements/traits/howl-of-the-wild/Incarnate|incarnate]] spells heightened to 10th rank. You can’t use these spell slots for any purpose other than casting the summon or incarnate spells, and you don’t count as having 10th-rank spell slots for other abilities or rules.
 
 *Source: Impossible Magic p. 85*

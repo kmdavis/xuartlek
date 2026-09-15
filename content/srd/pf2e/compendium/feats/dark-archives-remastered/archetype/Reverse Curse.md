@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/curse-maelstrom|Curse Maelstrom]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/counter-curse|Counter Curse]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Curse Maelstrom|Curse Maelstrom]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Counter Curse|Counter Curse]]
 
-When you counter a [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] effect, you send it back to destroy its originator. Whenever you succeed at the counteract check to Counter Curse, the creature is affected by its own curse or misfortune effect, attempting a saving throw against its own DC if the effect allows a saving throw. In the case of a constant ability, such as a misfortune aura, the creature is affected only until the beginning of its next turn, when the ability reasserts itself.
+When you counter a [[srd/pf2e/compendium/rules-elements/traits/player-core/Curse|curse]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|misfortune]] effect, you send it back to destroy its originator. Whenever you succeed at the counteract check to Counter Curse, the creature is affected by its own curse or misfortune effect, attempting a saving throw against its own DC if the effect allows a saving throw. In the case of a constant ability, such as a misfortune aura, the creature is affected only until the beginning of its next turn, when the ability reasserts itself.
 
 *Source: Dark Archives (Remastered) p. 169*

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Halfling`
 
-You favor traditional halfling weapons, so you've learned how to use them more effectively. You gain access to all uncommon weapons with the [[srd/pf2e/compendium/rules-elements/traits/player-core/halfling|halfling]] trait. You have familiarity with weapons with the halfling trait plus the sling and shortsword— for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
+You favor traditional halfling weapons, so you've learned how to use them more effectively. You gain access to all uncommon weapons with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Halfling|halfling]] trait. You have familiarity with weapons with the halfling trait plus the sling and shortsword— for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 
 At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 

@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/necromancer|Necromancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/basic-necromancer-spellcasting|Basic Necromancer Spellcasting]]; Master in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Necromancer|Necromancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Basic Necromancer Spellcasting|Basic Necromancer Spellcasting]]; Master in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-You gain the [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|expert spellcasting benefits]].
+You gain the [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Spellcasting Archetypes|expert spellcasting benefits]].
 
 ### Expert Necromancer Spellcasting leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/archetype/master-necromancer-spellcasting|Master Necromancer Spellcasting]]
+[[srd/pf2e/compendium/feats/impossible-magic/archetype/Master Necromancer Spellcasting|Master Necromancer Spellcasting]]
 
 *Source: Impossible Magic p. 89*

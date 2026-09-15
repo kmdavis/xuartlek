@@ -15,13 +15,13 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/weapon-improviser|Weapon Improviser]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Weapon Improviser|Weapon Improviser]]
 - **Prerequisites**: trained in martial weapons
 
-You don't take the normal –2 penalty to attack rolls with [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Improvised Weapons|improvised weapons]]. Improvised weapons you use have a minimum weapon damage die of 1d6, or 1d4 if the improvised weapon is [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]].
+You don't take the normal –2 penalty to attack rolls with [[srd/pf2e/books/player-core/chapter-6-equipment/Weapons#Improvised Weapons|improvised weapons]]. Improvised weapons you use have a minimum weapon damage die of 1d6, or 1d4 if the improvised weapon is [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]].
 
 ### Weapon Improviser Dedication leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/improvised-critical|Improvised Critical]], [[srd/pf2e/compendium/feats/player-core-2/archetype/improvised-pummel|Improvised Pummel]], [[srd/pf2e/compendium/feats/player-core-2/archetype/makeshift-strike|Makeshift Strike]], [[srd/pf2e/compendium/feats/player-core-2/archetype/surprise-strike|Surprise Strike]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Improvised Critical|Improvised Critical]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Improvised Pummel|Improvised Pummel]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Makeshift Strike|Makeshift Strike]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Surprise Strike|Surprise Strike]]
 
 *Source: Player Core 2 p. 221*

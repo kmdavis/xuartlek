@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: touch
 - **Target**: up to 5 willing creatures
 - **Duration**: up to 24 hours

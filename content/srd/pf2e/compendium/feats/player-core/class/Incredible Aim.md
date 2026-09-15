@@ -19,6 +19,6 @@ By spending a moment to focus, you can ensure your attack strikes true. Make a r
 
 ### Incredible Aim leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/incredible-ricochet|Incredible Ricochet]]
+[[srd/pf2e/compendium/feats/player-core/class/Incredible Ricochet|Incredible Ricochet]]
 
 *Source: Player Core p. 146*

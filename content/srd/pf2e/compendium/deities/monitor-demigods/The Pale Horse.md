@@ -24,23 +24,23 @@ Strength or Constitution
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/trident|Trident]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/Trident|Trident]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Pain|Pain]], [[srd/pf2e/compendium/character/domains#Repose|Repose]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Pain|Pain]], [[srd/pf2e/compendium/character/Domains#Repose|Repose]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Travel|Travel]], [[srd/pf2e/compendium/character/domains#Water|Water]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Travel|Travel]], [[srd/pf2e/compendium/character/Domains#Water|Water]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/phantom-pain|Phantom Pain]]
+[[srd/pf2e/compendium/spells/rank-1/Phantom Pain|Phantom Pain]]
 
 - **2nd**
 Feral Shades
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/ghostly-weapon|Ghostly Weapon]]
+[[srd/pf2e/compendium/spells/rank-3/Ghostly Weapon|Ghostly Weapon]]
 
 *Source: Divine Mysteries p. 316*

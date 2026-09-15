@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/bastion|Bastion]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/bastion-dedication|Bastion Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Bastion|Bastion]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Bastion Dedication|Bastion Dedication]]
 
-You can protect yourself more effectively, at the expense of your shield. When you [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]], you can reduce the damage to yourself by double the shield’s Hardness, but if you do, the shield takes double the normal amount of damage it would have taken (before applying its Hardness). You can’t use Destructive Block if your shield can’t typically be broken or destroyed, such as if you’re using an indestructible shield.
+You can protect yourself more effectively, at the expense of your shield. When you [[srd/pf2e/compendium/feats/player-core/general/Shield Block|Shield Block]], you can reduce the damage to yourself by double the shield’s Hardness, but if you do, the shield takes double the normal amount of damage it would have taken (before applying its Hardness). You can’t use Destructive Block if your shield can’t typically be broken or destroyed, such as if you’re using an indestructible shield.
 
 *Source: Player Core 2 p. 187*

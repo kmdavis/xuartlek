@@ -17,6 +17,6 @@ socialImage: og-image.png
 - **Frequency**: once per hour
 - **Trigger**: Your turn begins.
 
-Divine battle instincts take over your body, letting you move and lash out with instinctive speed. You become [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] until the end of your turn and can use the extra action only to Strike or Stride.
+Divine battle instincts take over your body, letting you move and lash out with instinctive speed. You become [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]] until the end of your turn and can use the extra action only to Strike or Stride.
 
 *Source: War of Immortals p. 37*

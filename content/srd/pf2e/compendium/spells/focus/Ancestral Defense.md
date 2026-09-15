@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Focus`  `Fortune`  `Manipulate`  `Mental`  `Oracle`  `Uncommon`
 
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Ancestors|Ancestors]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Ancestors|Ancestors]]
 - **Trigger**: You are about to attempt a Will save.
 
 Your ancestor protects you against those who would bend your will. You roll the triggering save twice and use the better result.

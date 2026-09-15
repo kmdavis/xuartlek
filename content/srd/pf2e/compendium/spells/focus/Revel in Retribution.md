@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Focus`  `Manipulate`  `Mental`  `Oracle`  `Uncommon`
 
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Battle|Battle]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Battle|Battle]]
 - **Duration**: 1 minute
 
 Time seems to slow for you, allowing you to strike your opponents mid-move. You gain the Reactive Strike ability, and you immediately gain a second reaction that you can use only to use Reactive Strike. At the start of each of your subsequent turns when you regain your actions, you gain an additional reaction that can be used only to attempt a Reactive Strike.

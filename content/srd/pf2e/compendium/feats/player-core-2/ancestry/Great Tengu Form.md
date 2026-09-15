@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Tengu`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/long-nosed-form|Long-Nosed Form]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Long-Nosed Form|Long-Nosed Form]]
 
-You take on the imposing form of a large, winged spirit. Once per day, as part of using Long-Nosed Form, you also gain the benefits of 4th-rank [[srd/pf2e/compendium/spells/rank-2/enlarge|_enlarge_]] and fly. This lasts for 5 minutes or until you shift out of your Long-Nosed Form, whichever happens first.
+You take on the imposing form of a large, winged spirit. Once per day, as part of using Long-Nosed Form, you also gain the benefits of 4th-rank [[srd/pf2e/compendium/spells/rank-2/Enlarge|_enlarge_]] and fly. This lasts for 5 minutes or until you shift out of your Long-Nosed Form, whichever happens first.
 
 *Source: Player Core 2 p. 35*

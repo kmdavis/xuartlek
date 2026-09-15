@@ -18,10 +18,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Illusion`  `Manipulate`  `Mental`  `Nonlethal`
 
-- **Tradition**: Occult
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]]
-- **Deities**: Camazotz, [[srd/pf2e/compendium/deities/vudrani-gods/diomazul|Diomazul]], [[srd/pf2e/compendium/deities/queens-of-the-night/doloras|Doloras]], Enkaar, Eyes That Watch, Grasping Iovett, [[srd/pf2e/compendium/deities/other-gods/groetus|Groetus]], Husk, Lady Razor, [[srd/pf2e/compendium/deities/infernal-dukes/nergal|Nergal]], Otilaz, Reshmit of the Heavy Voice, [[srd/pf2e/compendium/deities/demon-lords/shax|Shax]], [[srd/pf2e/compendium/deities/sarkorian-gods/stag-mother-of-the-forest-of-stones|Stag Mother of the Forest of Stones]], Thalaphyrr, The Godclaw, [[srd/pf2e/compendium/deities/monitor-demigods/the-pale-horse|The Pale Horse]], [[srd/pf2e/compendium/deities/goblin-gods/venkelvore|Venkelvore]], [[srd/pf2e/compendium/deities/empyreal-lords/vildeis|Vildeis]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/zon-kuthon|Zon-Kuthon]]
-- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Vengeance|Lesson of Vengeance]]
+- **Tradition**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Aberrant|Aberrant]]
+- **Deities**: Camazotz, [[srd/pf2e/compendium/deities/vudrani-gods/Diomazul|Diomazul]], [[srd/pf2e/compendium/deities/queens-of-the-night/Doloras|Doloras]], Enkaar, Eyes That Watch, Grasping Iovett, [[srd/pf2e/compendium/deities/other-gods/Groetus|Groetus]], Husk, Lady Razor, [[srd/pf2e/compendium/deities/infernal-dukes/Nergal|Nergal]], Otilaz, Reshmit of the Heavy Voice, [[srd/pf2e/compendium/deities/demon-lords/Shax|Shax]], [[srd/pf2e/compendium/deities/sarkorian-gods/Stag Mother of the Forest of Stones|Stag Mother of the Forest of Stones]], Thalaphyrr, The Godclaw, [[srd/pf2e/compendium/deities/monitor-demigods/The Pale Horse|The Pale Horse]], [[srd/pf2e/compendium/deities/goblin-gods/Venkelvore|Venkelvore]], [[srd/pf2e/compendium/deities/empyreal-lords/Vildeis|Vildeis]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Zon-Kuthon|Zon-Kuthon]]
+- **Lesson**: [[srd/pf2e/compendium/character/Lessons#Lesson of Vengeance|Lesson of Vengeance]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

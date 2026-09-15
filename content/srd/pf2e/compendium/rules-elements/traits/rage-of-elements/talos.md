@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Talos`
 
-Taloses are planar scions descended from [[srd/pf2e/bestiary/rage-of-elements/elemental/zuhra|zuhras]].
+Taloses are planar scions descended from [[srd/pf2e/bestiary/rage-of-elements/elemental/Zuhra|zuhras]].
 
 *Source: Rage of Elements p. 238*

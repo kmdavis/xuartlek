@@ -21,6 +21,6 @@ You regularly create convoluted plans and contingencies, using your resources to
 
 ### Prescient Planner leads to...
 
-[[srd/pf2e/compendium/feats/player-core/general/prescient-consumable|Prescient Consumable]]
+[[srd/pf2e/compendium/feats/player-core/general/Prescient Consumable|Prescient Consumable]]
 
 *Source: Player Core p. 260*

@@ -24,13 +24,13 @@ Intelligence or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
 **Favored Weapon** Bola
 
-**Domains** [[srd/pf2e/compendium/character/domains#Fate|Fate]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/domains#Star|Star]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Fate|Fate]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/Domains#Star|Star]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Moon|Moon]], [[srd/pf2e/compendium/character/domains#Travel|Travel]], [[srd/pf2e/compendium/character/domains#Water|Water]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Moon|Moon]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]], [[srd/pf2e/compendium/character/Domains#Water|Water]]
 
 **Cleric Spells**
 
@@ -38,7 +38,7 @@ Intelligence or Wisdom
 Gravitational Pull
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/feet-to-fins|Feet to Fins]]
+[[srd/pf2e/compendium/spells/rank-3/Feet to Fins|Feet to Fins]]
 
 - **4th**
 Variable Gravity

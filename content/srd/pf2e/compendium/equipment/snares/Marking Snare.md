@@ -25,6 +25,6 @@ This snare is often used to mark intruders for later tracking or identification.
 
 **Failure** The snare marks the creature.
 
-**Critical Failure** The snare marks the creature, and the creature is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] until the end of its next turn.
+**Critical Failure** The snare marks the creature, and the creature is [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] until the end of its next turn.
 
 *Source: Player Core 2 p. 299*

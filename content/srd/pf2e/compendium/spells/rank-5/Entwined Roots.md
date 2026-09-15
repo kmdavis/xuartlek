@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Wood`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Cast**: 1 minute
 - **Area**: 20-foot burst
 - **Target**: up to 5 willing living creatures

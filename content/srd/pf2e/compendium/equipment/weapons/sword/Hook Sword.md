@@ -1,7 +1,7 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/treasure-vault-remastered
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/disarm
 - trait/monk
 - trait/parry
@@ -11,7 +11,7 @@ tags:
 - weapon/level/0
 aliases: ["Hook Sword"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=287"
-source: "Treasure Vault (Remastered)"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -26,7 +26,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Advanced
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 This long sword has a hook near the tip, making it easy to snag an opponent or their weapons.
 
@@ -34,4 +34,4 @@ This long sword has a hook near the tip, making it easy to snag an opponent or t
 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
 
-*Source: Treasure Vault (Remastered) p. 27*
+*Source: Tian Xia Character Guide p. 127*

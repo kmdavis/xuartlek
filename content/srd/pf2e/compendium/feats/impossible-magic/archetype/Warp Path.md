@@ -17,10 +17,10 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`  `Magical`  `Teleportation`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/veil-dancer|Veil Dancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/veil-dancer-dedication|Veil Dancer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Veil Dancer|Veil Dancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Veil Dancer Dedication|Veil Dancer Dedication]]
 - **Requirements**: You are veiled.
 
-You fold space around you, transporting yourself to an unoccupied space you can see within 30 feet. When you arrive, make a melee Strike against one creature within your weapon’s reach. On a critical success, you remain veiled until the end of your next turn or until you take another [[srd/pf2e/books/player-core/chapter-7-spells/hostile-actions|hostile action]].
+You fold space around you, transporting yourself to an unoccupied space you can see within 30 feet. When you arrive, make a melee Strike against one creature within your weapon’s reach. On a critical success, you remain veiled until the end of your next turn or until you take another [[srd/pf2e/books/player-core/chapter-7-spells/Hostile Actions|hostile action]].
 
 *Source: Impossible Magic p. 104*

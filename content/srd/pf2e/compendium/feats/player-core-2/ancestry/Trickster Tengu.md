@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Tengu`
 
-You can transform yourself or the bodies of others to express your displeasure. Once per day, you can cast either [[srd/pf2e/compendium/spells/rank-4/aerial-form|_aerial form_]] or [[srd/pf2e/compendium/spells/rank-6/cursed-metamorphosis|_cursed metamorphosis_]] as a 7th-rank primal innate spell. You must take the form of a bird when casting this _aerial form_.
+You can transform yourself or the bodies of others to express your displeasure. Once per day, you can cast either [[srd/pf2e/compendium/spells/rank-4/Aerial Form|_aerial form_]] or [[srd/pf2e/compendium/spells/rank-6/Cursed Metamorphosis|_cursed metamorphosis_]] as a 7th-rank primal innate spell. You must take the form of a bird when casting this _aerial form_.
 
 *Source: Player Core 2 p. 37*

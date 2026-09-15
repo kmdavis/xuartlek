@@ -14,11 +14,11 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/pistol-phenom|Pistol Phenom]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/pistol-phenom-dedication|Pistol Phenom Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Pistol Phenom|Pistol Phenom]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Pistol Phenom Dedication|Pistol Phenom Dedication]]
 - **Requirements**: You're wielding a loaded one-handed firearm.
 
-Your flair keeps foes' attention, as your motions with your gun draw your foes into a deadly game. As you toy with them and performatively brandish your weapon, you build their tunnel vision, leaving them trapped in a perceptual gauntlet of your own making. Attempt a [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check against the Will DC of a single target within your one-handed firearm's first range increment.
+Your flair keeps foes' attention, as your motions with your gun draw your foes into a deadly game. As you toy with them and performatively brandish your weapon, you build their tunnel vision, leaving them trapped in a perceptual gauntlet of your own making. Attempt a [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] check against the Will DC of a single target within your one-handed firearm's first range increment.
 
 **Critical Success** The target takes a –2 status penalty to attack rolls against creatures other than you until the beginning of your next turn.
 

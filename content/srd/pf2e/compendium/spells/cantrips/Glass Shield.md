@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Earth`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Defense**: basic Reflex
 - **Duration**: until the start of your next turn
 

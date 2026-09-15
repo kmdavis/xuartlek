@@ -28,14 +28,14 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+6"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +6, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +6, [[srd/pf2e/compendium/rules-elements/skills/lore|Sailing Lore]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +6, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +6, [[srd/pf2e/compendium/rules-elements/skills/Lore|Sailing Lore]] +8"
 abilityMods: [2, 3, 1, 0, 2, 2]
 abilities_top:
   - name: "Items"
-    desc: "cutlass (functions as a [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]), Dagger, Padded Armor"
+    desc: "cutlass (functions as a [[srd/pf2e/compendium/equipment/weapons/sword/Scimitar|scimitar]]), Dagger, Padded Armor"
 ac: 17
 armorclass:
   - name: "AC"
@@ -46,19 +46,19 @@ health:
     desc: "32"
 abilities_mid:
   - name: "Bravery"
-    desc: "When the pirate rolls a success on a Will save against a [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] effect, they get a critical success instead. In addition, anytime they gain the [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition, reduce its value by 1."
+    desc: "When the pirate rolls a success on a Will save against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]] effect, they get a critical success instead. In addition, anytime they gain the [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] condition, reduce its value by 1."
   - name: "Reactive Strike"
     desc: "⬲"
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ cutlass +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d6+5 slashing"
+    desc: "⬻ cutlass +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|Sweep]]) __Damage__ 1d6+5 slashing"
   - name: "Melee"
-    desc: "⬻ dagger +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+5 piercing"
+    desc: "⬻ dagger +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+5 piercing"
   - name: "Melee"
-    desc: "⬻ fist +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+4 bludgeoning"
+    desc: "⬻ fist +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dagger +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+5 piercing"
+    desc: "⬻ dagger +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+5 piercing"
 abilities_bot:
   - name: "Boarding Action"
     desc: "⬺ The pirate swings on a rope or Strides, moving up to double their Speed. If the pirate boarded or disembarked a boat during this movement, they can make a melee Strike at the end of their movement that deals one extra damage die on a hit."

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Tengu`
 
-Wind and lightning have always been friends to you. You can cast the [[srd/pf2e/compendium/spells/cantrips/electric-arc|_electric arc_]] cantrip as a primal innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
+Wind and lightning have always been friends to you. You can cast the [[srd/pf2e/compendium/spells/cantrips/Electric Arc|_electric arc_]] cantrip as a primal innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
 
 *Source: Player Core 2 p. 34*

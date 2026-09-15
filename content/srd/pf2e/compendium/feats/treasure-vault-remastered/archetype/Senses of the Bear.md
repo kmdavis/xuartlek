@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ursine-avenger-hood|Ursine Avenger Hood]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ursine Avenger Hood|Ursine Avenger Hood]]
 
 While in ursine form, you gain low-light vision and scent (imprecise) 30 feet. If you already had low-light vision, you instead gain darkvision.
 

@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Earth`  `Impulse`  `Kineticist`  `Manipulate`  `Overflow`  `Primal`
 
-Drawing on your connection to the [[srd/pf2e/compendium/gm/planes#Plane of Earth|Plane of Earth]], you form a wall of rock and earth. This has the effect of _wall of stone_, but the wall's maximum length is 40 feet. The wall lasts until the end of your next turn, but you can Sustain it up to 1 minute.
+Drawing on your connection to the [[srd/pf2e/compendium/gm/Planes#Plane of Earth|Plane of Earth]], you form a wall of rock and earth. This has the effect of _wall of stone_, but the wall's maximum length is 40 feet. The wall lasts until the end of your next turn, but you can Sustain it up to 1 minute.
 
 ---
 **Level (+4)** The maximum length of the wall increases by 10 feet, and the Hit Points of each section increase by 5.

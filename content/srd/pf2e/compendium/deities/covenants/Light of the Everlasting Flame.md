@@ -24,23 +24,23 @@ Dexterity or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|Scimitar]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Scimitar|Scimitar]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Sun|Sun]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Fire|Fire]], [[srd/pf2e/compendium/character/Domains#Sun|Sun]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Passion|Passion]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Passion|Passion]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/breathe-fire|Breathe Fire]]
+[[srd/pf2e/compendium/spells/rank-1/Breathe Fire|Breathe Fire]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/wall-of-fire|Wall of Fire]]
+[[srd/pf2e/compendium/spells/rank-4/Wall of Fire|Wall of Fire]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/volcanic-eruption|Volcanic Eruption]]
+[[srd/pf2e/compendium/spells/rank-7/Volcanic Eruption|Volcanic Eruption]]
 
 *Source: Divine Mysteries p. 239*

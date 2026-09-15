@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/dwarven-gods/angradd|Angradd]], Chohar, Dahak, [[srd/pf2e/compendium/deities/queens-of-the-night/eiseth|Eiseth]], [[srd/pf2e/compendium/deities/infernal-dukes/furcas|Furcas]], [[srd/pf2e/compendium/deities/monitor-demigods/inna|Inna]], [[srd/pf2e/compendium/deities/pantheons/radiant-prism|Radiant Prism]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], The Freeing Flame, Walkena, [[srd/pf2e/compendium/deities/goblin-gods/zarongel|Zarongel]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/dwarven-gods/Angradd|Angradd]], Chohar, Dahak, [[srd/pf2e/compendium/deities/queens-of-the-night/Eiseth|Eiseth]], [[srd/pf2e/compendium/deities/infernal-dukes/Furcas|Furcas]], [[srd/pf2e/compendium/deities/monitor-demigods/Inna|Inna]], [[srd/pf2e/compendium/deities/pantheons/Radiant Prism|Radiant Prism]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Sarenrae|Sarenrae]], The Freeing Flame, Walkena, [[srd/pf2e/compendium/deities/goblin-gods/Zarongel|Zarongel]]
 - **Range**: 500 feet
 - **Area**: 20-foot burst
 - **Defense**: basic Reflex

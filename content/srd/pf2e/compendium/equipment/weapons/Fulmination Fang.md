@@ -18,12 +18,12 @@ socialImage: og-image.png
 - **Price**: 115 gp
 - **Usage**: held in 2 hands
 - **Bulk**: 2
-- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/sword/gun-sword-melee|Gun Sword]]
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/sword/Gun Sword (Melee)|Gun Sword]]
 
-The stock and barrel of this _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/gun-sword-melee|gun sword]]_ are lined with scales from a [[srd/pf2e/bestiary/howl-of-the-wild/beast/storm-snake|storm snake]]. Their insulating properties grant their wielder some protection against electricity.
+The stock and barrel of this _+1 [[srd/pf2e/compendium/equipment/runes/Striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/Gun Sword (Melee)|gun sword]]_ are lined with scales from a [[srd/pf2e/bestiary/howl-of-the-wild/beast/Storm Snake|storm snake]]. Their insulating properties grant their wielder some protection against electricity.
 
-**Activate—Lightning Rod** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ; **Trigger** You take electricity damage; **Effect** You gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] 5 to the triggering damage, and the _fulmination fang_ crackles with the absorbed energy. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] to change between the gun sword’s current usage (melee to ranged, or ranged to melee). The next melee [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] you make with the fulmination fang within the next minute deals an additional 1d6 electricity damage. After a minute, the absorbed energy dissipates.
+**Activate—Lightning Rod** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ; **Trigger** You take electricity damage; **Effect** You gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistance]] 5 to the triggering damage, and the _fulmination fang_ crackles with the absorbed energy. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] to change between the gun sword’s current usage (melee to ranged, or ranged to melee). The next melee [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] you make with the fulmination fang within the next minute deals an additional 1d6 electricity damage. After a minute, the absorbed energy dissipates.
 
-**Craft Requirements** The initial raw materials must include the scales of a [[srd/pf2e/bestiary/howl-of-the-wild/beast/storm-snake|storm snake]].
+**Craft Requirements** The initial raw materials must include the scales of a [[srd/pf2e/bestiary/howl-of-the-wild/beast/Storm Snake|storm snake]].
 
 *Source: Howl of the Wild p. 104*

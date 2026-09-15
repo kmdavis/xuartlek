@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: Attempt to bridge the gap between feuding sides, maintain just treaties, maintain relations with neighbors
 - **Anathema**: Sow discord among friends and allies, attack during parley
 - **Area of Concern**: Alliance, family, friendship, truth
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/stones-blood|Stone's Blood]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Stone's Blood|Stone's Blood]]
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Constitution or Charisma
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/light-hammer|Light Hammer]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/Light Hammer|Light Hammer]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Truth|Truth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Truth|Truth]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Repose|Repose]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Repose|Repose]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/anticipate-peril|Anticipate Peril]]
+[[srd/pf2e/compendium/spells/rank-1/Anticipate Peril|Anticipate Peril]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/containment|Containment]]
+[[srd/pf2e/compendium/spells/rank-4/Containment|Containment]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/wall-of-force|Wall of Force]]
+[[srd/pf2e/compendium/spells/rank-6/Wall of Force|Wall of Force]]
 
 *Source: Divine Mysteries p. 312*

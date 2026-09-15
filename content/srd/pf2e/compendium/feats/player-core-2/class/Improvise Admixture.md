@@ -17,9 +17,9 @@ socialImage: og-image.png
 `Alchemist`  `Concentrate`  `Manipulate`
 
 - **Frequency**: once per day
-- **Requirements**: You have fewer than your maximum number of versatile vials, and you’re either holding or wearing an [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|alchemist's toolkit]].
+- **Requirements**: You have fewer than your maximum number of versatile vials, and you’re either holding or wearing an [[srd/pf2e/compendium/equipment/adventuring-gear/Alchemist's Toolkit|alchemist's toolkit]].
 
-You scrounge together enough ingredients from what's left in your alchemist's toolkit to produce a few more versatile vials on the fly. Attempt a [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check. The DC is usually a [[srd/pf2e/books/gm-core/chapter-1-running-the-game/difficulty-classes#Level-Based DCs|standard-difficulty DC for your level]], but the GM can assign a different DC based on the circumstances. The number of vials you regain depends on the result of your check (up to your maximum).
+You scrounge together enough ingredients from what's left in your alchemist's toolkit to produce a few more versatile vials on the fly. Attempt a [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] check. The DC is usually a [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Difficulty Classes#Level-Based DCs|standard-difficulty DC for your level]], but the GM can assign a different DC based on the circumstances. The number of vials you regain depends on the result of your check (up to your maximum).
 
 **Critical Success** You regain 3 versatile vials.
 

@@ -18,13 +18,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Shadow`  `Teleportation`  `Uncommon`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: Camazotz, [[srd/pf2e/compendium/deities/eldest/count-ranalc|Count Ranalc]], Enkaar, Eyes That Watch, Grasping Iovett, Husk, Lady Razor, Luhar, Reshmit of the Heavy Voice, Thalaphyrr, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/zon-kuthon|Zon-Kuthon]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: Camazotz, [[srd/pf2e/compendium/deities/eldest/Count Ranalc|Count Ranalc]], Enkaar, Eyes That Watch, Grasping Iovett, Husk, Lady Razor, Luhar, Reshmit of the Heavy Voice, Thalaphyrr, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Zon-Kuthon|Zon-Kuthon]]
 - **Cast**: 1 minute
 - **Range**: touch
 - **Target**: you and up to 10 willing creatures touched
 - **Duration**: 8 hours
 
-You move partially into the Netherworld, using its warped nature to speed your travels. Each hour, you cover roughly as much ground as you [[srd/pf2e/books/player-core/chapter-8-playing-the-game/exploration-mode#Travel Speed|normally would in 3 days]]. The landmarks are vague and symbolic rather than concrete, leaving you within a mile of your intended destination when you Dismiss the spell or its duration ends.
+You move partially into the Netherworld, using its warped nature to speed your travels. Each hour, you cover roughly as much ground as you [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Exploration Mode#Travel Speed|normally would in 3 days]]. The landmarks are vague and symbolic rather than concrete, leaving you within a mile of your intended destination when you Dismiss the spell or its duration ends.
 
 *Source: Player Core p. 364*

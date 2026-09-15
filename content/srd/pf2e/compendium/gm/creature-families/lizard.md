@@ -14,7 +14,7 @@ Lizards have a wide range of appearances and abilities, but most share a basic r
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core-2/animal/giant-chameleon|Giant Chameleon]] (Creature 3), [[srd/pf2e/bestiary/monster-core/animal/giant-frilled-lizard|Giant Frilled Lizard]] (Creature 5), [[srd/pf2e/bestiary/monster-core/animal/giant-gecko|Giant Gecko]] (Creature 1), [[srd/pf2e/bestiary/monster-core/animal/giant-monitor-lizard|Giant Monitor Lizard]] (Creature 2), [[srd/pf2e/bestiary/monster-core-2/animal/megalania|Megalania]] (Creature 7), Python (Creature 1), Young Monitor Lizard (Creature 1)
+[[srd/pf2e/bestiary/monster-core-2/animal/Giant Chameleon|Giant Chameleon]] (Creature 3), [[srd/pf2e/bestiary/monster-core/animal/Giant Frilled Lizard|Giant Frilled Lizard]] (Creature 5), [[srd/pf2e/bestiary/monster-core/animal/Giant Gecko|Giant Gecko]] (Creature 1), [[srd/pf2e/bestiary/monster-core/animal/Giant Monitor Lizard|Giant Monitor Lizard]] (Creature 2), [[srd/pf2e/bestiary/monster-core-2/animal/Megalania|Megalania]] (Creature 7), Python (Creature 1), Young Monitor Lizard (Creature 1)
 
 ### Lizard Locations
 
@@ -22,7 +22,7 @@ Giant lizards can be found in all temperate or tropical climates, often in relat
 
 ### Lizards and Lizardfolk
 
-Giant lizards are often used as mounts and guardians, or kept as pets, but they are most often and traditionally kept by [[srd/pf2e/compendium/gm/creature-families/lizardfolk|lizardfolk]]. The kinship these people share with giant lizards is unmistakable, valuing their companionship to an extent that equals or even exceeds that which other societies have for popular animal companions like dogs and horses.
+Giant lizards are often used as mounts and guardians, or kept as pets, but they are most often and traditionally kept by [[srd/pf2e/compendium/gm/creature-families/Lizardfolk|lizardfolk]]. The kinship these people share with giant lizards is unmistakable, valuing their companionship to an extent that equals or even exceeds that which other societies have for popular animal companions like dogs and horses.
 
 ### Other Giant Lizards
 

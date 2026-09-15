@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/oracle|Oracle]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/basic-mysteries|Basic Mysteries]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Oracle|Oracle]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Basic Mysteries|Basic Mysteries]]
 
-You gain one oracle feat. For meeting its prerequisites, your oracle level is equal to half your level.
+You gain one [oracle feat](https://2e.aonprd.com/Feats.aspx?Traits=319). For meeting its prerequisites, your oracle level is equal to half your level.
 
 **Special** You can select this feat more than once. Each time, you gain another oracle feat.
 

@@ -18,6 +18,6 @@ You have learned to remain hidden by using larger folk as a distraction to avoid
 
 ### Distracting Shadows leads to...
 
-[[srd/pf2e/compendium/feats/player-core/ancestry/ceaseless-shadows|Ceaseless Shadows]]
+[[srd/pf2e/compendium/feats/player-core/ancestry/Ceaseless Shadows|Ceaseless Shadows]]
 
 *Source: Player Core p. 60*

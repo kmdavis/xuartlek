@@ -27,8 +27,8 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Firearm
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
 This flintlock breech-loader has two side-by-side barrels. Though less accurate than a standard musket, a double-barreled musket offers versatility in firing options. Many of Alkenstar's famous shield marshals save their earnings to buy a double-barreled musket as their first personal firearm.
 

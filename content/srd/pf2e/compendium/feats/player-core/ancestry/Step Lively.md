@@ -20,6 +20,6 @@ You are an expert at avoiding the lumbering footsteps of larger creatures. You S
 
 ### Step Lively leads to...
 
-[[srd/pf2e/compendium/feats/player-core/ancestry/dance-underfoot|Dance Underfoot]]
+[[srd/pf2e/compendium/feats/player-core/ancestry/Dance Underfoot|Dance Underfoot]]
 
 *Source: Player Core p. 61*

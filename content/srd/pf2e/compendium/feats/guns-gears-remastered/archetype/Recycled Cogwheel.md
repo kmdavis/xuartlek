@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/trapsmith|Trapsmith]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/trapsmith-dedication|Trapsmith Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Trapsmith|Trapsmith]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Trapsmith Dedication|Trapsmith Dedication]]
 
-You're able to scavenge the cogwheels from your daily quick-deploy snares that use gears. This allows you to deconstruct a snare that didn't trigger in order to set the snare up somewhere else. Doing so takes the same number of actions as setting the snare did. When you do, you recover the snare and can deploy it in another location.
+You're able to scavenge the cogwheels from your daily quick-deploy [snares](https://2e.aonprd.com/Equipment.aspx?Category=31) that use gears. This allows you to deconstruct a snare that didn't trigger in order to set the snare up somewhere else. Doing so takes the same number of actions as setting the snare did. When you do, you recover the snare and can deploy it in another location.
 
 *Source: Guns & Gears (Remastered) p. 54*

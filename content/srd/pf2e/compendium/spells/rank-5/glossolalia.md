@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Incapacitation`  `Manipulate`  `Mental`
 
-- **Traditions**: Divine, Occult
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 120 feet
 - **Target**: 1 creature
 - **Defense**: Will
@@ -27,9 +27,9 @@ You scramble the ability of the target to use language, causing them to speak in
 
 **Critical Success** The creature is unaffected.
 
-**Success** For 1 round, the target's language becomes unintelligible, they're unable to communicate ideas with other creatures, and any action they take with the [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|linguistic]] trait fails.
+**Success** For 1 round, the target's language becomes unintelligible, they're unable to communicate ideas with other creatures, and any action they take with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Linguistic|linguistic]] trait fails.
 
-**Failure** As success, and the target can't cast spells that require incantations for the duration. Spells with the [[srd/pf2e/compendium/rules-elements/traits/player-core/subtle|subtle]] trait don't require incantations.
+**Failure** As success, and the target can't cast spells that require incantations for the duration. Spells with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Subtle|subtle]] trait don't require incantations.
 
 **Critical Failure** As failure, except the duration is 1 minute.
 

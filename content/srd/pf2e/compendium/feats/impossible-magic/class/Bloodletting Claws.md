@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Evolution`  `Summoner`
 
-Your eidolon inflicts bleeding wounds on a telling blow. If your eidolon critically hits with a melee unarmed Strike that deals slashing or piercing damage, their target takes 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]]. Your eidolon gains an item bonus to this bleed damage equal to the unarmed attack’s item bonus to attack rolls. This is a [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Specialization|critical specialization]] effect.
+Your eidolon inflicts bleeding wounds on a telling blow. If your eidolon critically hits with a melee unarmed Strike that deals slashing or piercing damage, their target takes 1d6 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent bleed damage]]. Your eidolon gains an item bonus to this bleed damage equal to the unarmed attack’s item bonus to attack rolls. This is a [[srd/pf2e/books/player-core/chapter-6-equipment/Weapons#Critical Specialization|critical specialization]] effect.
 
 ### Bloodletting Claws leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/blood-frenzy|Blood Frenzy]]
+[[srd/pf2e/compendium/feats/impossible-magic/class/Blood Frenzy|Blood Frenzy]]
 
 *Source: Impossible Magic p. 80*

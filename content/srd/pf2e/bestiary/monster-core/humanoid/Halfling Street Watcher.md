@@ -28,14 +28,14 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Halfling|Halfling]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +4, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +3, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +4, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +3, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +5, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] +5"
 abilityMods: [-1, 3, 1, 0, 3, 1]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/club/frying-pan|Frying Pan]], Halfling Sling Staff, Leather Armor"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/club/Frying Pan|Frying Pan]], Halfling Sling Staff, Leather Armor"
 ac: 15
 armorclass:
   - name: "AC"
@@ -47,12 +47,12 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ frying pan +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d8]]) __Damage__ 1d4–1 bludgeoning"
+    desc: "⬻ frying pan +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fatal|fatal d8]]) __Damage__ 1d4–1 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ halfling sling staff +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 80 feet, reload 1) __Damage__ 1d10–1 bludgeoning"
+    desc: "⬻ halfling sling staff +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Propulsive|Propulsive]], range increment 80 feet, reload 1) __Damage__ 1d10–1 bludgeoning"
 abilities_bot:
   - name: "Keen Eyes"
-    desc: "The halfling gains a +2 circumstance bonus when using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] action to find [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] creatures within 30 feet of it. Whenever the halfling targets a creature that is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] or hidden from them, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one."
+    desc: "The halfling gains a +2 circumstance bonus when using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] action to find [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]] creatures within 30 feet of it. Whenever the halfling targets a creature that is [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] or hidden from them, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one."
 sourcebook: "_Monster Core_, page 192."
 ```
 

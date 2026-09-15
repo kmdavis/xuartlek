@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Attack`  `Cantrip`  `Concentrate`  `Fire`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Diabolic|Diabolic]]
-- **Mysteries**: [[srd/pf2e/compendium/character/mysteries#Ash|Ash]], [[srd/pf2e/compendium/character/mysteries#Flames|Flames]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Diabolic|Diabolic]]
+- **Mysteries**: [[srd/pf2e/compendium/character/Mysteries#Ash|Ash]], [[srd/pf2e/compendium/character/Mysteries#Flames|Flames]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: AC

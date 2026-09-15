@@ -30,7 +30,7 @@ perception:
     desc: "+11; darkvision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +7"
 abilityMods: [-2, 4, 4, -5, 2, -4]
 ac: 21
 armorclass:
@@ -39,7 +39,7 @@ armorclass:
 hp: 55
 health:
   - name: "HP"
-    desc: "55; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]], precision, [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]], swarm mind; __Resistances__ bludgeoning 2, piercing 5, slashing 5; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
+    desc: "55; __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]], precision, [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]], [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]], swarm mind; __Resistances__ bludgeoning 2, piercing 5, slashing 5; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 5"
 abilities_mid:
   - name: "Cling"
     desc: "⬲"
@@ -50,7 +50,7 @@ abilities_mid:
 speed: "30 feet, climb 30 feet"
 abilities_bot:
   - name: "Swarming Bites"
-    desc: "⬻ Each enemy in the swarm's space takes 3d6 piercing damage (DC 21 basic Fortitude save). A creature that fails its save against Swarming Bites becomes [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]] for 1 round. If the creature attempts a [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] action while affected, it must succeed at a DC 5 flat check or the action is lost; roll the check after spending the action, but before any effects are applied."
+    desc: "⬻ Each enemy in the swarm's space takes 3d6 piercing damage (DC 21 basic Fortitude save). A creature that fails its save against Swarming Bites becomes [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy 1]] for 1 round. If the creature attempts a [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]] action while affected, it must succeed at a DC 5 flat check or the action is lost; roll the check after spending the action, but before any effects are applied."
 sourcebook: "_Monster Core_, page 21."
 ```
 

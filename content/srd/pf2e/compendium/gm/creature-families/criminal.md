@@ -14,7 +14,7 @@ In the underbelly of society, the lawless reign supreme.
 
 ### Members
 
-[[srd/pf2e/bestiary/npc-core/humanoid/assassin|Assassin]] (Creature 8), [[srd/pf2e/bestiary/npc-core/humanoid/bandit|Bandit]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/bandit-gang|Bandit Gang]] (Creature 7), [[srd/pf2e/bestiary/npc-core/humanoid/burglar|Burglar]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/charlatan|Charlatan]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/crime-kingpin|Crime Kingpin]] (Creature 12), [[srd/pf2e/bestiary/npc-core/humanoid/fence|Fence]] (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/flamboyant-thief|Flamboyant Thief]] (Creature 15), [[srd/pf2e/bestiary/npc-core/humanoid/grave-robber|Grave Robber]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/legbreaker|Legbreaker]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/loan-shark|Loan Shark]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/master-of-disguise|Master Of Disguise]] (Creature 7), [[srd/pf2e/bestiary/npc-core/humanoid/ruffian|Ruffian]] (Creature 2)
+[[srd/pf2e/bestiary/npc-core/humanoid/Assassin|Assassin]] (Creature 8), [[srd/pf2e/bestiary/npc-core/humanoid/Bandit|Bandit]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/Bandit Gang|Bandit Gang]] (Creature 7), [[srd/pf2e/bestiary/npc-core/humanoid/Burglar|Burglar]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/Charlatan|Charlatan]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/Crime Kingpin|Crime Kingpin]] (Creature 12), [[srd/pf2e/bestiary/npc-core/humanoid/Fence|Fence]] (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/Flamboyant Thief|Flamboyant Thief]] (Creature 15), [[srd/pf2e/bestiary/npc-core/humanoid/Grave Robber|Grave Robber]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/Legbreaker|Legbreaker]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/Loan Shark|Loan Shark]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/Master Of Disguise|Master Of Disguise]] (Creature 7), [[srd/pf2e/bestiary/npc-core/humanoid/Ruffian|Ruffian]] (Creature 2)
 
 ### Corruption For Hire
 
@@ -26,7 +26,7 @@ Common criminal scams include fake collectors for nonexistent charities for the 
 
 ### Crossover Ancestry NPCs
 
-Several of the NPCs elsewhere in NPC Core can fit well in this group: [[srd/pf2e/bestiary/npc-core/humanoid/gnome-daredevil|Gnome daredevil]] (level 2), [[srd/pf2e/bestiary/npc-core/humanoid/halfling-smuggler|halfling smuggler]] (level 6), [[srd/pf2e/bestiary/npc-core/humanoid/leaping-thief|leaping thief]] (level 3)
+Several of the NPCs elsewhere in NPC Core can fit well in this group: [[srd/pf2e/bestiary/npc-core/humanoid/Gnome Daredevil|Gnome daredevil]] (level 2), [[srd/pf2e/bestiary/npc-core/humanoid/Halfling Smuggler|halfling smuggler]] (level 6), [[srd/pf2e/bestiary/npc-core/humanoid/Leaping Thief|leaping thief]] (level 3)
 
 ### Fantasy Crimes
 
@@ -46,7 +46,7 @@ Criminal organizations often find it easier to demand protection money from loca
 
 ### Sanctuary
 
-Adventurers or those they rescue might be able to find sanctuary in sacred places to buy time against pursuers or disappear from those hunting them. These institutions range from simple rural shrines to monasteries to larger estates. The churches of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/cayden-cailean|Cayden Cailean]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Irori]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]] are the most likely to grant sanctuary—though some of these ask much in exchange for their protections.
+Adventurers or those they rescue might be able to find sanctuary in sacred places to buy time against pursuers or disappear from those hunting them. These institutions range from simple rural shrines to monasteries to larger estates. The churches of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Asmodeus|Asmodeus]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Cayden Cailean|Cayden Cailean]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Iomedae|Iomedae]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Irori|Irori]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Sarenrae|Sarenrae]], and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Shelyn|Shelyn]] are the most likely to grant sanctuary—though some of these ask much in exchange for their protections.
 
 ### Walking The Walk
 

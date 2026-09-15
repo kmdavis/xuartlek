@@ -15,6 +15,8 @@ socialImage: og-image.png
 
 `Exemplar`  `Ikon`
 
+- **Usage**: imbued into a worn ikon
+
 You demand a battle against your chosen enemy. The imbued ikon gains the following abilities.
 
 **Immanence** Whenever an enemy successfully Strikes you with a melee weapon, you gain a +2 status bonus to your AC against the next attack from that enemy before the start of your next turn.

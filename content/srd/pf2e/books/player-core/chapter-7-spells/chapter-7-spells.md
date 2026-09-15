@@ -1,6 +1,7 @@
 ---
 title: "Chapter 7: Spells"
 aliases: ["Chapter 7: Spells"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2221"
 citation: "Player Core pg. 297"
-socialImage: og-image.png
 ---
 
 # Chapter 7: Spells
@@ -66,19 +66,19 @@ With special gestures and utterances, a spellcaster can call forth mystic energi
 
 ## Contents
 
-- [[srd/pf2e/books/player-core/chapter-7-spells/spell-slots|Spell Slots]]
-- [[srd/pf2e/books/player-core/chapter-7-spells/cantrips|Cantrips]]
-- [[srd/pf2e/books/player-core/chapter-7-spells/focus-spells|Focus Spells]]
-- [[srd/pf2e/books/player-core/chapter-7-spells/innate-spells|Innate Spells]]
-- [[srd/pf2e/books/player-core/chapter-7-spells/casting-spells|Casting Spells]]
-- [[srd/pf2e/books/player-core/chapter-7-spells/ranges-areas-and-targets|Ranges, Areas, and Targets]]
-- [[srd/pf2e/books/player-core/chapter-7-spells/durations|Durations]]
-- [[srd/pf2e/books/player-core/chapter-7-spells/defenses|Defenses]]
-- [[srd/pf2e/books/player-core/chapter-7-spells/spell-attacks|Spell Attacks]]
-- [[srd/pf2e/books/player-core/chapter-7-spells/identifying-spells|Identifying Spells]]
-- [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|Counteracting]]
-- [[srd/pf2e/books/player-core/chapter-7-spells/hostile-actions|Hostile Actions]]
-- [[srd/pf2e/books/player-core/chapter-7-spells/setting-triggers|Setting Triggers]]
-- [[srd/pf2e/books/player-core/chapter-7-spells/walls|Walls]]
-- [[srd/pf2e/books/player-core/chapter-7-spells/reading-spells|Reading Spells]]
-- [[srd/pf2e/books/player-core/chapter-7-spells/rituals|Rituals]]
+- [[srd/pf2e/books/player-core/chapter-7-spells/Spell Slots|Spell Slots]]
+- [[srd/pf2e/books/player-core/chapter-7-spells/Cantrips|Cantrips]]
+- [[srd/pf2e/books/player-core/chapter-7-spells/Focus Spells|Focus Spells]]
+- [[srd/pf2e/books/player-core/chapter-7-spells/Innate Spells|Innate Spells]]
+- [[srd/pf2e/books/player-core/chapter-7-spells/Casting Spells|Casting Spells]]
+- [[srd/pf2e/books/player-core/chapter-7-spells/Ranges, Areas, and Targets|Ranges, Areas, and Targets]]
+- [[srd/pf2e/books/player-core/chapter-7-spells/Durations|Durations]]
+- [[srd/pf2e/books/player-core/chapter-7-spells/Defenses|Defenses]]
+- [[srd/pf2e/books/player-core/chapter-7-spells/Spell Attacks|Spell Attacks]]
+- [[srd/pf2e/books/player-core/chapter-7-spells/Identifying Spells|Identifying Spells]]
+- [[srd/pf2e/books/player-core/chapter-7-spells/Counteracting|Counteracting]]
+- [[srd/pf2e/books/player-core/chapter-7-spells/Hostile Actions|Hostile Actions]]
+- [[srd/pf2e/books/player-core/chapter-7-spells/Setting Triggers|Setting Triggers]]
+- [[srd/pf2e/books/player-core/chapter-7-spells/Walls|Walls]]
+- [[srd/pf2e/books/player-core/chapter-7-spells/Reading Spells|Reading Spells]]
+- [[srd/pf2e/books/player-core/chapter-7-spells/Rituals|Rituals]]

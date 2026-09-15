@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Dwarf`
 
-Your hardiness lets you withstand more punishment than most. Increase your maximum Hit Points by your level. When you have the [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] condition, the DC of your recovery checks is equal to 9 + your dying value (instead of 10 + your dying value).
+Your hardiness lets you withstand more punishment than most. Increase your maximum Hit Points by your level. When you have the [[srd/pf2e/compendium/rules-elements/Conditions#Dying|dying]] condition, the DC of your recovery checks is equal to 9 + your dying value (instead of 10 + your dying value).
 
 If you also have the Toughness feat, the Hit Points gained from it and this feat are cumulative, and the DC of your recovery checks is equal to 6 + your dying value.
 

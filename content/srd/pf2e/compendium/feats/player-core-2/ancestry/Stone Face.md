@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Hobgoblin`
 
-You've mastered the art of composure, even in the face of fear. You gain a +1 circumstance bonus to saves against effects with the [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] trait and a +2 circumstance bonus to your Will DC against [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] skill actions, such as [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]].
+You've mastered the art of composure, even in the face of fear. You gain a +1 circumstance bonus to saves against effects with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]] trait and a +2 circumstance bonus to your Will DC against [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] skill actions, such as [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]].
 
 *Source: Player Core 2 p. 14*

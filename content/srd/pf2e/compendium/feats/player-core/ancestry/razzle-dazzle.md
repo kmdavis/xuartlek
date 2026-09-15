@@ -17,6 +17,6 @@ socialImage: og-image.png
 - **Frequency**: once per hour
 - **Trigger**: You blind or dazzle a creature
 
-You've spent considerable time practicing the manipulation of light, weaponizing your blade's reflection or bolstering the luminosity of magical displays to unconventional heights. Extend the duration of the [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] or [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] condition you give the target by 1 round.
+You've spent considerable time practicing the manipulation of light, weaponizing your blade's reflection or bolstering the luminosity of magical displays to unconventional heights. Extend the duration of the [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] or [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] condition you give the target by 1 round.
 
 *Source: Player Core p. 52*

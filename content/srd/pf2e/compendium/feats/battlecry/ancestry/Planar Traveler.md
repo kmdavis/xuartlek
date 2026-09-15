@@ -15,9 +15,9 @@ socialImage: og-image.png
 `Jotunborn`
 
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/ancestry/plane-hop|Plane Hop]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/ancestry/Plane Hop|Plane Hop]]
 - **Trigger**: Your turn begins.
 
-You concentrate on the spaces between planes, allowing you to enhance your movement for a short period. Your Strides become augmented until the end of your turn, allowing you to instantly teleport to any point you could reach with your Speed instead of traversing normally to the location. While augmented, your Strides gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]] trait. Your augmented Strides don’t trigger reactions that can be triggered by move actions or upon leaving or entering a square, unless those reactions are specifically triggered by teleportation.
+You concentrate on the spaces between planes, allowing you to enhance your movement for a short period. Your Strides become augmented until the end of your turn, allowing you to instantly teleport to any point you could reach with your Speed instead of traversing normally to the location. While augmented, your Strides gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/Teleportation|teleportation]] trait. Your augmented Strides don’t trigger reactions that can be triggered by move actions or upon leaving or entering a square, unless those reactions are specifically triggered by teleportation.
 
 *Source: Battlecry! p. 15*

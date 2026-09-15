@@ -24,9 +24,9 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Sling
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sling|Sling]]
 
-The kestros is a type of [[srd/pf2e/compendium/equipment/weapons/sling/sling|sling]] that fires special ammunition with wing-shaped fins and a pointed end. The thongs of the sling are of uneven length, one shorter and one several inches longer, around an open loop to cradle the ammunition as the sling is spun.
+The kestros is a type of [[srd/pf2e/compendium/equipment/weapons/sling/Sling|sling]] that fires special ammunition with wing-shaped fins and a pointed end. The thongs of the sling are of uneven length, one shorter and one several inches longer, around an open loop to cradle the ammunition as the sling is spun.
 
 ### Critical Specialization Effects
 

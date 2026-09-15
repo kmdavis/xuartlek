@@ -19,6 +19,6 @@ socialImage: og-image.png
 - **Frequency**: once per day
 - **Trigger**: An adjacent and willing ally would be reduced to 0 HP but not killed.
 
-You physically help an ally remain standing and encourage them to push through their pain against dire odds. Your ally doesn't fall [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] and remains at 1 Hit Point. The ally also gains a number of temporary Hit Points equal to your level that last for 1 minute. Fighting onward with such an injury isn't without consequence; your ally's [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] condition increases by 1.
+You physically help an ally remain standing and encourage them to push through their pain against dire odds. Your ally doesn't fall [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]] and remains at 1 Hit Point. The ally also gains a number of temporary Hit Points equal to your level that last for 1 minute. Fighting onward with such an injury isn't without consequence; your ally's [[srd/pf2e/compendium/rules-elements/Conditions#Wounded|wounded]] condition increases by 1.
 
 *Source: Player Core 2 p. 15*

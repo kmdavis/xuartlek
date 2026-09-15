@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Frequency**: once per round
 
-Your senses have become so sharp that you notice changes subconsciously. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]]. If you use one of your senses from [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/natural-senses|Natural Senses]], you gain a +2 circumstance bonus to the check.
+Your senses have become so sharp that you notice changes subconsciously. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]]. If you use one of your senses from [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Natural Senses|Natural Senses]], you gain a +2 circumstance bonus to the check.
 
 *Source: Howl of the Wild p. 27*

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/runesmith|Runesmith]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/runesmith-dedication|Runesmith Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Runesmith|Runesmith]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Runesmith Dedication|Runesmith Dedication]]
 
-You have gained extensive knowledge in the art of creating runes. Add [[srd/pf2e/compendium/character/runesmith-runes|two runes]] of 9th level or lower to your runic repertoire. You choose these from the common runes on the rune list as well as [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] or rarer runes you have access to.
+You have gained extensive knowledge in the art of creating runes. Add [[srd/pf2e/compendium/character/Runesmith Runes|two runes]] of 9th level or lower to your runic repertoire. You choose these from the common runes on the rune list as well as [[srd/pf2e/compendium/rules-elements/traits/player-core/Uncommon|uncommon]] or rarer runes you have access to.
 
 *Source: Impossible Magic p. 90*

@@ -19,8 +19,8 @@ socialImage: og-image.png
 - **Price**: 160 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-When you drink the thick, slate-colored _immovable potion_, you become anchored in place, even defying gravity, rendering you [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] for 1 minute or until you Dismiss the activation. While you are immobilized this way, the DC to move you from your place, including knocking you [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], is 40.
+When you drink the thick, slate-colored _immovable potion_, you become anchored in place, even defying gravity, rendering you [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] for 1 minute or until you Dismiss the activation. While you are immobilized this way, the DC to move you from your place, including knocking you [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]], is 40.
 
 *Source: Treasure Vault (Remastered) p. 90*

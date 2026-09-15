@@ -24,7 +24,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Flail
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Flail|Flail]]
 
 A scourge—also known as a cat-o'-nine tails—is a set of several knotted cords made from cotton or leather and attached to a handle. While most scourges are more suitable for torture than combat, when fashioned into a weapon, a scourge can have metal barbs woven into the cords to pierce clothing and armor.
 

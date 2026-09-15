@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Monk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/monastic-archer-stance|Monastic Archer Stance]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Monastic Archer Stance|Monastic Archer Stance]]
 - **Requirements**: You are in Monastic Archer Stance.
 
-You achieve a state of perfect calm before unleashing your attack, opening your mind to the minute movements of the world around you to increase your accuracy. Make a ranged weapon Strike against a target within your weapon's first range increment. This Strike ignores the target's [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition and all cover.
+You achieve a state of perfect calm before unleashing your attack, opening your mind to the minute movements of the world around you to increase your accuracy. Make a ranged weapon Strike against a target within your weapon's first range increment. This Strike ignores the target's [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition and all cover.
 
 *Source: Player Core 2 p. 124*

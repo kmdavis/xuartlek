@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Exemplar
 
-At 3rd level and every 4 levels thereafter, you gain a general feat.
+At 3rd level and every 4 levels thereafter, you gain a [general feat](https://2e.aonprd.com/Feats.aspx?Traits=615).
 
 *Source: War of Immortals p. 28*

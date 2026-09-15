@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Summoner`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/magical-understudy|Magical Understudy]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/Magical Understudy|Magical Understudy]]
 
-Your eidolon shares innate spells with you. You can cast the [[srd/pf2e/books/player-core/chapter-7-spells/innate-spells|innate spells]] your eidolon gained from Magical Understudy, Magical Adept, and Magical Master. You and your eidolon share the same daily uses of these innate spells.
+Your eidolon shares innate spells with you. You can cast the [[srd/pf2e/books/player-core/chapter-7-spells/Innate Spells|innate spells]] your eidolon gained from Magical Understudy, Magical Adept, and Magical Master. You and your eidolon share the same daily uses of these innate spells.
 
 *Source: Impossible Magic p. 84*

@@ -20,7 +20,7 @@ socialImage: og-image.png
 
 `Composite`  `Impulse`  `Kineticist`  `Plant`  `Primal`  `Water`  `Wood`
 
-You plant the seed of a giant bladderwort in an unoccupied square of ground or water within 30 feet. It lasts for 10 minutes. Using this impulse again ends any previous one. If a creature enters its square, the seed erupts into a voluminous, translucent plant that seals tight around the triggering creature and fills with water. Unless the creature succeeds at a Reflex save against your class DC, it's [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] within the bladderwort and must hold its breath or begin drowning. The Escape DC is also your class DC. The plant has AC 10 and 50 Hit Points.
+You plant the seed of a giant bladderwort in an unoccupied square of ground or water within 30 feet. It lasts for 10 minutes. Using this impulse again ends any previous one. If a creature enters its square, the seed erupts into a voluminous, translucent plant that seals tight around the triggering creature and fills with water. Unless the creature succeeds at a Reflex save against your class DC, it's [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] within the bladderwort and must hold its breath or begin drowning. The Escape DC is also your class DC. The plant has AC 10 and 50 Hit Points.
 
  If a creature dies inside it, the plant shrinks down, converting itself and the remains into a watery fruit. A creature can eat this consumable to regain 1d8+4 HP, after which that creature is temporarily immune for 10 minutes. This fruit rots after 1 hour.
 

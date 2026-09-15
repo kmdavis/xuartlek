@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Swashbuckler`
 
-You knock weapons from the hands of your foes with style. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]], the action gains the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/bravado|bravado]] trait.
+You knock weapons from the hands of your foes with style. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]], the action gains the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Bravado|bravado]] trait.
 
 *Source: Player Core 2 p. 157*

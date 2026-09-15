@@ -24,23 +24,23 @@ Constitution or Dexterity
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/pick/pick|Pick]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/pick/Pick|Pick]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Sorrow|Sorrow]], [[srd/pf2e/compendium/character/domains#Soul|Soul]], [[srd/pf2e/compendium/character/domains#Undeath|Undeath]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Sorrow|Sorrow]], [[srd/pf2e/compendium/character/Domains#Soul|Soul]], [[srd/pf2e/compendium/character/Domains#Undeath|Undeath]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Pain|Pain]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Pain|Pain]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/ill-omen|Ill Omen]]
+[[srd/pf2e/compendium/spells/rank-1/Ill Omen|Ill Omen]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/shatter|Shatter]]
+[[srd/pf2e/compendium/spells/rank-2/Shatter|Shatter]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/phantasmal-calamity|Phantasmal Calamity]]
+[[srd/pf2e/compendium/spells/rank-6/Phantasmal Calamity|Phantasmal Calamity]]
 
 *Source: Divine Mysteries p. 163*

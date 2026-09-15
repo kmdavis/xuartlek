@@ -17,11 +17,11 @@ socialImage: og-image.png
 
 `Auditory`  `Concentrate`  `Manipulate`  `Mental`
 
-- **Tradition**: Primal
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Area**: 1-mile burst
 - **Duration**: until your next daily preparations
 
-You let loose a primal howl that incites animals and beasts to join in the chorus. Doing so gives you a general idea of how many creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beast]] trait are within the range of the spell, but significant creatures can attempt a Will save against your spell DC to resist responding to your call. You gain a +1 status bonus to your next Initiative roll in an encounter with an enemy creature that replies to your call. For purposes of using [[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]] during [[srd/pf2e/books/player-core/chapter-8-playing-the-game/exploration-mode|exploration mode]], you can communicate with a creature that responds to your call for the duration of the spell. You can only make simple commands, such as approach or hide, and only understand simple ideas, such as compliance with the order or the presence of natural hazards.
+You let loose a primal howl that incites animals and beasts to join in the chorus. Doing so gives you a general idea of how many creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animal]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Beast|beast]] trait are within the range of the spell, but significant creatures can attempt a Will save against your spell DC to resist responding to your call. You gain a +1 status bonus to your next Initiative roll in an encounter with an enemy creature that replies to your call. For purposes of using [[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]] during [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Exploration Mode|exploration mode]], you can communicate with a creature that responds to your call for the duration of the spell. You can only make simple commands, such as approach or hide, and only understand simple ideas, such as compliance with the order or the presence of natural hazards.
 
 ---
 **Heightened (+2)** The status bonus increases by 1.

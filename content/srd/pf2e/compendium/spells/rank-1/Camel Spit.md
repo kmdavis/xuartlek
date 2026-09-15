@@ -18,13 +18,13 @@ socialImage: og-image.png
 
 `Acid`  `Attack`  `Concentrate`  `Manipulate`  `Morph`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Defense**: AC
 - **Duration**: 1 minute
 
-You alter your stomach, esophagus, and tongue to be able to spit partially digested food with force. You can spit at a foe once you finish Casting the Spell and can repeat the attack once on each of your subsequent turns by taking a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] traits. After your third spit attack, the spell ends.
+You alter your stomach, esophagus, and tongue to be able to spit partially digested food with force. You can spit at a foe once you finish Casting the Spell and can repeat the attack once on each of your subsequent turns by taking a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] traits. After your third spit attack, the spell ends.
 
-When you attack with camel spit, make a ranged spell attack roll against a creature within 15 feet, dealing 1d6 acid damage and causing the target to be [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round if you hit. On a critical hit, you deal double damage and the target takes 1 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent acid damage]].
+When you attack with camel spit, make a ranged spell attack roll against a creature within 15 feet, dealing 1d6 acid damage and causing the target to be [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] for 1 round if you hit. On a critical hit, you deal double damage and the target takes 1 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent acid damage]].
 
 ---
 **Heightened (+1)** The damage increases by 1d6, and the persistent damage on a critical hit is increased by 1.

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Ardande`
 
-Your connection to the [[srd/pf2e/compendium/gm/planes#Plane of Wood|Plane of Wood]] allows you to summon elemental allies. Once per day, you can cast _summon elemental_ as a 5th-rank primal innate spell, but the elemental must be a [[srd/pf2e/compendium/gm/creature-families/elemental-wood|wood elemental]].
+Your connection to the [[srd/pf2e/compendium/gm/Planes#Plane of Wood|Plane of Wood]] allows you to summon elemental allies. Once per day, you can cast _summon elemental_ as a 5th-rank primal innate spell, but the elemental must be a [[srd/pf2e/compendium/gm/creature-families/Elemental, Wood|wood elemental]].
 
 *Source: Rage of Elements p. 49*

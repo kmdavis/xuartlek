@@ -24,23 +24,23 @@ Constitution or Charisma
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/staff|Staff]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Staff|Staff]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Magic|Magic]], [[srd/pf2e/compendium/character/domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/domains#Repose|Repose]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Magic|Magic]], [[srd/pf2e/compendium/character/Domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/Domains#Repose|Repose]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Decay|Decay]], [[srd/pf2e/compendium/character/domains#Soul|Soul]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Decay|Decay]], [[srd/pf2e/compendium/character/Domains#Soul|Soul]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/ill-omen|Ill Omen]]
+[[srd/pf2e/compendium/spells/rank-1/Ill Omen|Ill Omen]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/paralyze|Paralyze]]
+[[srd/pf2e/compendium/spells/rank-3/Paralyze|Paralyze]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/wave-of-despair|Wave of Despair]]
+[[srd/pf2e/compendium/spells/rank-5/Wave of Despair|Wave of Despair]]
 
 *Source: Divine Mysteries p. 320*

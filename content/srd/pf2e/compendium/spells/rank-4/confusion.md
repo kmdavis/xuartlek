@@ -17,9 +17,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Emotion`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Occult
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]]
-- **Deities**: [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/hastur|Hastur]], [[srd/pf2e/compendium/deities/vudrani-gods/lahkgya|Lahkgya]], Musagani, [[srd/pf2e/compendium/deities/monitor-demigods/narriseminek|Narriseminek]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Aberrant|Aberrant]]
+- **Deities**: [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Hastur|Hastur]], [[srd/pf2e/compendium/deities/vudrani-gods/Lahkgya|Lahkgya]], Musagani, [[srd/pf2e/compendium/deities/monitor-demigods/Narriseminek|Narriseminek]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will
@@ -31,7 +31,7 @@ You befuddle your target with strange impulses, causing it to act randomly. The 
 
 **Success** The target babbles incoherently and is stunned 1.
 
-**Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 minute. It can attempt a new save at the end of each of its turns to end the confusion.
+**Failure** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]] for 1 minute. It can attempt a new save at the end of each of its turns to end the confusion.
 
 **Critical Failure** The target is confused for 1 minute, with no save to end early.
 

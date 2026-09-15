@@ -1,14 +1,14 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/monster-core
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/deadly
 - trait/trip
 - trait/uncommon
 - weapon/level/0
 aliases: ["Ogre Hook"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=495"
-source: "Monster Core"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -22,7 +22,7 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Pick
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Pick|Pick]]
 
 Ogres are known for using immense, curved picks called ogre hooks.
 
@@ -32,6 +32,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/gut-ripper|Gut-Ripper]]
+[[srd/pf2e/compendium/equipment/weapons/Gut-Ripper|Gut-Ripper]]
 
-*Source: Monster Core p. 251*
+*Source: Tian Xia Character Guide p. 127*

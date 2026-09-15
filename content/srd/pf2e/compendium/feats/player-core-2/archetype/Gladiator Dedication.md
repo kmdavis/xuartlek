@@ -15,15 +15,15 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/gladiator|Gladiator]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/skill/impressive-performance|Impressive Performance]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Gladiator|Gladiator]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/skill/Impressive Performance|Impressive Performance]]
 
-You know how to turn combat into a form of entertainment. You gain the [[srd/pf2e/compendium/feats/player-core/skill/additional-lore|Additional Lore]] general feat for [[srd/pf2e/compendium/rules-elements/skills/lore|Gladiatorial Lore]]. If you were already trained in Gladiatorial Lore, you also become trained in a Lore skill of your choice.
+You know how to turn combat into a form of entertainment. You gain the [[srd/pf2e/compendium/feats/player-core/skill/Additional Lore|Additional Lore]] general feat for [[srd/pf2e/compendium/rules-elements/skills/Lore|Gladiatorial Lore]]. If you were already trained in Gladiatorial Lore, you also become trained in a Lore skill of your choice.
 
  At the start of a combat encounter, if you have spectators, you gain a number of temporary HP equal to your character level for 1 minute and you can roll Performance for your initiative. If there are sapient creatures observing a combat encounter, and these onlookers are neither engaged in the combat themselves nor directly assisting any participants, the combatants have spectators. The GM is the final arbiter of whether or not a combat has spectators.
 
 ### Gladiator Dedication leads to...
 
-Costume Change, [[srd/pf2e/compendium/feats/player-core-2/archetype/fancy-moves|Fancy Moves]], Fight Choreography, Gladiator's Roar, It's Not Over, More Real than Real, Operatic Adventurer, [[srd/pf2e/compendium/feats/player-core-2/archetype/performative-weapons-training|Performative Weapons Training]], [[srd/pf2e/compendium/feats/player-core-2/archetype/play-to-the-crowd|Play to the Crowd]], [[srd/pf2e/compendium/feats/player-core-2/archetype/stage-fighting|Stage Fighting]], Tempo Shift
+Costume Change, [[srd/pf2e/compendium/feats/player-core-2/archetype/Fancy Moves|Fancy Moves]], Fight Choreography, Gladiator's Roar, It's Not Over, More Real than Real, Operatic Adventurer, [[srd/pf2e/compendium/feats/player-core-2/archetype/Performative Weapons Training|Performative Weapons Training]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Play to the Crowd|Play to the Crowd]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Stage Fighting|Stage Fighting]], Tempo Shift
 
 *Source: Player Core 2 p. 200*

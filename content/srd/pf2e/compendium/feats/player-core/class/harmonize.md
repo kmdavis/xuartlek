@@ -20,10 +20,10 @@ socialImage: og-image.png
 
 - **Prerequisites**: maestro muse
 
-You can perform multiple compositions simultaneously, typically by performing in multiple ways at the same time, using special vocal techniques to double your voice, or creating occult magic that replicates your song or speech. If your next action is to cast a [[srd/pf2e/compendium/rules-elements/traits/player-core/composition|composition]], it becomes a harmonized composition. Unlike a normal composition, a harmonized composition doesn’t end if you cast another composition, and you can cast another composition on the same turn as a harmonized one. Casting another harmonized composition ends any harmonized composition you already have in effect.
+You can perform multiple compositions simultaneously, typically by performing in multiple ways at the same time, using special vocal techniques to double your voice, or creating occult magic that replicates your song or speech. If your next action is to cast a [[srd/pf2e/compendium/rules-elements/traits/player-core/Composition|composition]], it becomes a harmonized composition. Unlike a normal composition, a harmonized composition doesn’t end if you cast another composition, and you can cast another composition on the same turn as a harmonized one. Casting another harmonized composition ends any harmonized composition you already have in effect.
 
 ### Harmonize leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/symphony-of-the-muse|Symphony of the Muse]]
+[[srd/pf2e/compendium/feats/player-core/class/Symphony of the Muse|Symphony of the Muse]]
 
 *Source: Player Core p. 103*

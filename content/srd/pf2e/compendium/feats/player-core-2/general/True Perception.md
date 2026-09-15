@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: Legendary in Perception
 
-Your perceptive abilities and ability to process sensory information are so far beyond the pale that you notice minute discrepancies in all sorts of illusions and physical transformations. You are constantly under the effects of a 6th rank [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight spell_]], using your Perception modifier for the counteract check.
+Your perceptive abilities and ability to process sensory information are so far beyond the pale that you notice minute discrepancies in all sorts of illusions and physical transformations. You are constantly under the effects of a 6th rank [[srd/pf2e/compendium/spells/rank-6/Truesight|_truesight spell_]], using your Perception modifier for the counteract check.
 
 *Source: Player Core 2 p. 234*

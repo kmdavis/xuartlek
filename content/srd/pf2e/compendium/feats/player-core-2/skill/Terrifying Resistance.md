@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
 The spells of those you have [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralized]] are less effective on you. If you succeed in Demoralizing a creature, for the next 24 hours you gain a +1 circumstance bonus to saving throws against that creature's spells.
 

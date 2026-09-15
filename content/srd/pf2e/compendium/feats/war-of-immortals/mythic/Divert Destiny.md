@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 - **Trigger**: An attack or effect would reduce you to 0 Hit Points or kill you outright.
 
-You defy the fate before you, calling on wells of mythic vitality to sustain your life and allow you to persevere. You expend 1 [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] and survive the triggering attack or effect, lose the [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] or [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] conditions entirely, don’t increase your [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] condition, and are conscious and standing with a number of Hit Points equal to 10 + your level, regardless of how many Hit Points you had before.
+You defy the fate before you, calling on wells of mythic vitality to sustain your life and allow you to persevere. You expend 1 [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] and survive the triggering attack or effect, lose the [[srd/pf2e/compendium/rules-elements/Conditions#Wounded|wounded]] or [[srd/pf2e/compendium/rules-elements/Conditions#Dying|dying]] conditions entirely, don’t increase your [[srd/pf2e/compendium/rules-elements/Conditions#Doomed|doomed]] condition, and are conscious and standing with a number of Hit Points equal to 10 + your level, regardless of how many Hit Points you had before.
 
 *Source: War of Immortals p. 82*

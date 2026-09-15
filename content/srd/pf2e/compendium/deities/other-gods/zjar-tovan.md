@@ -24,23 +24,23 @@ Strength or Dexterity
 
 **Divine Sanctification** can choose holy or unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/greatsword|Greatsword]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Greatsword|Greatsword]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/domains#Metal|Metal]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/Domains#Metal|Metal]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Creation|Creation]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Creation|Creation]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]]
+[[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/ghostly-weapon|Ghostly Weapon]]
+[[srd/pf2e/compendium/spells/rank-3/Ghostly Weapon|Ghostly Weapon]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/weapon-storm|Weapon Storm]]
+[[srd/pf2e/compendium/spells/rank-4/Weapon Storm|Weapon Storm]]
 
 *Source: Divine Mysteries p. 162*

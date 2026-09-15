@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `Monk`  `Stance`
 
-You enter a tightly coiled stance, with your hands poised as venomous fangs. While in this stance, the only Strikes you can make are cobra fang unarmed attacks. These deal 1d4 piercing damage; are in the brawling group; and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]], and [[srd/pf2e/compendium/rules-elements/traits/player-core-2/venomous|venomous]] traits.
+You enter a tightly coiled stance, with your hands poised as venomous fangs. While in this stance, the only Strikes you can make are cobra fang unarmed attacks. These deal 1d4 piercing damage; are in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group; and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]], and [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Venomous|venomous]] traits.
 
  While in Cobra Stance, you gain a +1 circumstance bonus to Fortitude saves and your Fortitude DC, and you gain poison resistance equal to half your level.
 
 ### Cobra Stance leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/cobra-envenom|Cobra Envenom]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Cobra Envenom|Cobra Envenom]]
 
 *Source: Player Core 2 p. 121*

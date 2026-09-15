@@ -20,7 +20,7 @@ socialImage: og-image.png
 - **Price**: 80 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 Properly harvested, distilled, and preserved, the poison from a wyvern's sting is effective and direct. 
 

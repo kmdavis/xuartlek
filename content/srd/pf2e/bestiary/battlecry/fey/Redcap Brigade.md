@@ -28,10 +28,10 @@ modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; low-light vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +22, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +22, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +22, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +22, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +22, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +22, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +17"
 abilityMods: [4, 6, 4, 2, 2, 3]
 ac: 29
 armorclass:
@@ -40,14 +40,14 @@ armorclass:
 hp: 165
 health:
   - name: "HP"
-    desc: "165 (4 segments, fast healing 20); __Weaknesses__ area damage 10, [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 10, divine revulsion, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 10"
+    desc: "165 (4 segments, fast healing 20); __Weaknesses__ area damage 10, [[srd/pf2e/compendium/equipment/materials/Cold Iron|cold iron]] 10, divine revulsion, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 10"
 abilities_mid:
   - name: "Divine Revulsion"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) If a redcap brigade sees a creature brandish a religious symbol of a deity (which requires an Interact action by that creature) or cast a divine spell while wearing a religious symbol, the troop must attempt a DC 26 Will save. They then become temporarily immune to all brandished religious symbols for 10 minutes."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]]) If a redcap brigade sees a creature brandish a religious symbol of a deity (which requires an Interact action by that creature) or cast a divine spell while wearing a religious symbol, the troop must attempt a DC 26 Will save. They then become temporarily immune to all brandished religious symbols for 10 minutes."
   - name: "Critical Success"
     desc: "The troop is unaffected."
   - name: "Success"
-    desc: "The troop is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1."
+    desc: "The troop is [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] 1."
   - name: "Failure"
     desc: "The troop is frightened 2."
   - name: "Critical Failure"
@@ -65,13 +65,13 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The redcaps in the brigade wildly swing their halberds and sickles at each enemy in a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]], with a DC 26 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. The damage depends on the number of actions. ⬻ 1d10+2 slashing ⬺ 2d10+9 slashing ⬽ 3d10+10 slashing"
+    desc: "The redcaps in the brigade wildly swing their halberds and sickles at each enemy in a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]], with a DC 26 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save. The damage depends on the number of actions. ⬻ 1d10+2 slashing ⬺ 2d10+9 slashing ⬽ 3d10+10 slashing"
   - name: "Bowl Over and Stomp"
     desc: "⬺ The redcap brigade Strides; they can pass through spaces of Medium or smaller creatures, but can't end their movement in them. All enemies whose spaces the redcap brigade passed through take 4d8 bludgeoning damage and must attempt a DC 26 Fortitude save. Bowl Over and Stomp damages each creature only once."
   - name: "Critical Success"
     desc: "The creature takes no damage."
   - name: "Success"
-    desc: "The creature takes half damage. If it is [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], it also takes 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]]."
+    desc: "The creature takes half damage. If it is [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]], it also takes 1d6 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent bleed damage]]."
   - name: "Failure"
     desc: "The creature takes full damage, is knocked prone, and takes 2d6 persistent bleed damage."
   - name: "Critical Failure"

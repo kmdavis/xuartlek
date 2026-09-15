@@ -14,14 +14,14 @@ socialImage: og-image.png
 
 `Thrown`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/monitor-demigods/barzahk|Barzahk]], [[srd/pf2e/compendium/deities/green-man-faiths/green-man|Green Man]], Halcamora, [[srd/pf2e/compendium/deities/elemental-lords/shumunue|Shumunue]], [[srd/pf2e/compendium/deities/empyreal-lords/valani|Valani]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/monitor-demigods/Barzahk|Barzahk]], [[srd/pf2e/compendium/deities/green-man-faiths/Green Man|Green Man]], Halcamora, [[srd/pf2e/compendium/deities/elemental-lords/Shumunue|Shumunue]], [[srd/pf2e/compendium/deities/empyreal-lords/Valani|Valani]]
 - **Price**: —
 - **Damage**: 1d6 B
 - **Bulk**: 1
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Simple
-- **Group**: Club
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|Club]]
 
 This is a piece of stout wood shaped or repurposed to bludgeon an enemy. Clubs can be intricately carved pieces of martial art or as simple as a tree branch or piece of wood.
 

@@ -23,8 +23,8 @@ socialImage: og-image.png
 - **Reload**: 0
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Bow
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/bow/arrows|Arrows]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bow|Bow]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/bow/Arrows|Arrows]]
 
 This shortbow is made from horn, wood, and sinew laminated together to increase the power of its pull and the force of its projectile. Its compact size and power make it a favorite of mounted archers. Any time an ability is specifically restricted to a shortbow, it also applies to composite shortbows unless otherwise stated.
 
@@ -34,6 +34,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Bow of Sun Slaying, Dragonfire Halfbow, [[srd/pf2e/compendium/equipment/weapons/singing-shortbow|Singing Shortbow]], Wintershot
+[[srd/pf2e/compendium/equipment/weapons/Bow of Sun Slaying|Bow of Sun Slaying]], Dragonfire Halfbow, [[srd/pf2e/compendium/equipment/weapons/Singing Shortbow|Singing Shortbow]], Wintershot
 
 *Source: Player Core p. 280*

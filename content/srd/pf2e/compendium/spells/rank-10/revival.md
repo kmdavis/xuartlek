@@ -18,11 +18,11 @@ socialImage: og-image.png
 
 `Concentrate`  `Healing`  `Manipulate`  `Vitality`  `Positive`
 
-- **Traditions**: Divine, Primal
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Target**: dead creatures and living creatures of your choice within range
 - **Duration**: sustained up to 1 minute
 
-A burst of healing energy soothes living creatures and temporarily rouses those recently slain. All living targets regain 10d8+40 Hit Points. You return any number of dead targets to life temporarily, with the same effects and limitations as _raise dead_. The raised creatures have a number of temporary Hit Points equal to the Hit Points you gave living creatures, but no normal Hit Points. The raised creatures can't regain Hit Points or gain temporary Hit Points in other ways, and once _revival's_ duration ends, they lose all temporary Hit Points and die. _Revival_ can't resurrect creatures killed by _disintegrate_ or a [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effect. It has no effect on [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]].
+A burst of healing energy soothes living creatures and temporarily rouses those recently slain. All living targets regain 10d8+40 Hit Points. You return any number of dead targets to life temporarily, with the same effects and limitations as _raise dead_. The raised creatures have a number of temporary Hit Points equal to the Hit Points you gave living creatures, but no normal Hit Points. The raised creatures can't regain Hit Points or gain temporary Hit Points in other ways, and once _revival's_ duration ends, they lose all temporary Hit Points and die. _Revival_ can't resurrect creatures killed by _disintegrate_ or a [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]] effect. It has no effect on [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]].
 
 *Source: Player Core p. 353*

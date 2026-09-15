@@ -22,8 +22,8 @@ socialImage: og-image.png
 
 `Acid`  `Air`  `Cold`  `Concentrate`  `Earth`  `Electricity`  `Fire`  `Manipulate`  `Water`
 
-- **Traditions**: Arcane, Primal
-- **Spell Lists**: Elemental
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
 - **Range**: 1, 000 feet
 - **Area**: 60-foot burst
 - **Defense**: basic Reflex

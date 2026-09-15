@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/thaumaturge|Thaumaturge]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/basic-thaumaturgy|Basic Thaumaturgy]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Thaumaturge|Thaumaturge]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Basic Thaumaturgy|Basic Thaumaturgy]]
 
-You gain one thaumaturge feat. For the purpose of meeting its prerequisites, your thaumaturge level is equal to half your character level.
+You gain one [thaumaturge feat](https://2e.aonprd.com/Feats.aspx?Traits=895). For the purpose of meeting its prerequisites, your thaumaturge level is equal to half your character level.
 
 **Special** You can select this feat more than once. Each time you select it, you gain another thaumaturge feat.
 

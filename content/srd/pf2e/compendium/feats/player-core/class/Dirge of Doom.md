@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Bard`
 
-You learn the [[srd/pf2e/compendium/spells/cantrips/dirge-of-doom|_dirge of doom_]] composition cantrip, which frightens your enemies and keeps them from fully recovering from their fear.
+You learn the [[srd/pf2e/compendium/spells/cantrips/Dirge of Doom|_dirge of doom_]] composition cantrip, which frightens your enemies and keeps them from fully recovering from their fear.
 
 *Source: Player Core p. 103*

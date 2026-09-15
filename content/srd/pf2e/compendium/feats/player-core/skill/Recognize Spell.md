@@ -17,7 +17,7 @@ socialImage: og-image.png
 `General`  `Secret`  `Skill`
 
 - **PFS Note**: The DC to Recognize an Uncommon or Rare spell should be the normal DC +2 or +5 based on rarity and spell level.
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], Trained in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], Trained in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], or Trained in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], Trained in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], Trained in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], or Trained in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 - **Trigger**: A creature within line of sight casts a spell that you don’t have prepared or in your spell repertoire, or a trap or similar object casts such a spell. You must be aware of the casting.
 
 If you are trained in the appropriate skill for the spell’s tradition and it’s a common spell of 2nd rank or lower, you automatically identify it (you still roll to attempt to get a critical success, but can’t get a worse result than success). The highest rank of spell you automatically identify increases to 4 if you’re an expert, 6 if you’re a master, and 10 if you’re legendary. The GM rolls a secret Arcana, Nature, Occultism, or Religion check, whichever corresponds to the tradition of the spell being cast. If you’re not trained in the skill, you can’t get a result better than failure.
@@ -32,6 +32,6 @@ If you are trained in the appropriate skill for the spell’s tradition and it�
 
 ### Recognize Spell leads to...
 
-[[srd/pf2e/compendium/feats/player-core/skill/quick-recognition|Quick Recognition]]
+[[srd/pf2e/compendium/feats/player-core/skill/Quick Recognition|Quick Recognition]]
 
 *Source: Player Core p. 261*

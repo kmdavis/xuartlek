@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/summoner|Summoner]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/basic-synergy|Basic Synergy]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Summoner|Summoner]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Basic Synergy|Basic Synergy]]
 
 You gain one summoner feat. For the purpose of meeting its prerequisites, your summoner level is equal to half your character level.
 

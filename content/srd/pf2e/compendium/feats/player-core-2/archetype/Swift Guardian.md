@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/beastmaster|Beastmaster]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/beastmaster-dedication|Beastmaster Dedication]]; Call Companion
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Beastmaster|Beastmaster]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Beastmaster Dedication|Beastmaster Dedication]]; Call Companion
 - **Trigger**: You roll initative.
 
-When danger appears, you quickly send away your active companion and call in a different animal ally. You use Call Companion. The new animal companion typically arrives in the same location as the one that departed, though the GM might adjust this depending on the circumstances and Speeds of the animals. If you have [[srd/pf2e/compendium/feats/player-core-2/archetype/lead-the-pack|Lead the Pack]], you can swap one of your two active companions for an inactive companion.
+When danger appears, you quickly send away your active companion and call in a different animal ally. You use Call Companion. The new animal companion typically arrives in the same location as the one that departed, though the GM might adjust this depending on the circumstances and Speeds of the animals. If you have [[srd/pf2e/compendium/feats/player-core-2/archetype/Lead the Pack|Lead the Pack]], you can swap one of your two active companions for an inactive companion.
 
 *Source: Player Core 2 p. 188*

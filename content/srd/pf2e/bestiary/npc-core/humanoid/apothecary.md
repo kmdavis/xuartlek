@@ -28,10 +28,10 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "+5"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +5, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +10, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +5, [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] +10, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +8"
 abilityMods: [0, 1, 1, 3, 3, 1]
 abilities_top:
   - name: "Medical Specialist"
@@ -39,23 +39,23 @@ abilities_top:
   - name: "Medical Wisdom"
     desc: "The apothecary can identify the effect of any alchemical composition or medical ingredient using only their senses. This typically takes 1 minute."
   - name: "Items"
-    desc: "lesser acid flask (2), Dagger, minor elixir of life (2), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|Healer's Toolkit]], leather apron (functions as [[srd/pf2e/compendium/equipment/armor#Padded Armor|padded armor]]), mortar and pestle"
+    desc: "lesser acid flask (2), Dagger, minor elixir of life (2), [[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit|Healer's Toolkit]], leather apron (functions as [[srd/pf2e/compendium/equipment/Armor#Padded Armor|padded armor]]), mortar and pestle"
 ac: 14
 armorclass:
   - name: "AC"
-    desc: "14; __Fort__: +8; __Ref__: +3; __Will__: +5 +1 circumstance to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poisons]]"
+    desc: "14; __Fort__: +8; __Ref__: +3; __Will__: +5 +1 circumstance to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poisons]]"
 hp: 8
 health:
   - name: "HP"
-    desc: "8; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] 2"
+    desc: "8; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] 2"
 speed: "25 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ stone pestle +4 __Damage__ 1d6 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4 bludgeoning"
+    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ acid flask +5 (range increment 20 feet, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|Splash]]) __Damage__ 1 acid plus 1d6 persistent acid and 1 [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] acid"
+    desc: "⬻ acid flask +5 (range increment 20 feet, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|Splash]]) __Damage__ 1 acid plus 1d6 persistent acid and 1 [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] acid"
 sourcebook: "_NPC Core_, page 60."
 ```
 

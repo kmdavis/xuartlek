@@ -18,6 +18,6 @@ As long as you are Small, you can end your movement in the same square as a Smal
 
 ### Overcrowd leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/ancestry/shinstabber|Shinstabber]]
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Shinstabber|Shinstabber]]
 
 *Source: Player Core 2 p. 31*

@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/barbarian|Barbarian]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/basic-fury|Basic Fury]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Barbarian|Barbarian]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Basic Fury|Basic Fury]]
 
-You gain one barbarian feat. For the purpose of meeting its prerequisites, your barbarian level is equal to half your character level.
+You gain one [barbarian feat](https://2e.aonprd.com/Feats.aspx?Traits=18). For the purpose of meeting its prerequisites, your barbarian level is equal to half your character level.
 
 **Special** You can select this feat more than once. Each time you select it, you gain another barbarian feat.
 

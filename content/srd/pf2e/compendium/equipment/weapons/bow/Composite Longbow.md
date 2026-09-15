@@ -1,14 +1,14 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/player-core
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/deadly
 - trait/propulsive
 - trait/volley
 - weapon/level/1
 aliases: ["Composite Longbow"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=434"
-source: "Player Core"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -24,8 +24,8 @@ socialImage: og-image.png
 - **Reload**: 0
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Bow
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/bow/arrows|Arrows]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bow|Bow]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/bow/Arrows|Arrows]]
 
 This projectile weapon is made from horn, wood, and sinew laminated together to increase the power of its pull and the force of its projectile. Like all longbows, its great size also increases the bow's range and power. You must use two hands to fire it, and it cannot be used while mounted. Any time an ability is specifically restricted to a longbow, such as Erastil's favored weapon, it also applies to composite longbows unless otherwise stated.
 
@@ -33,4 +33,4 @@ This projectile weapon is made from horn, wood, and sinew laminated together to 
 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
 
-*Source: Player Core p. 280*
+*Source: Tian Xia Character Guide p. 128*

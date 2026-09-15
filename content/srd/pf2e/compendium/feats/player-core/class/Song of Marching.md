@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Bard`
 
-You learn the [[srd/pf2e/compendium/spells/cantrips/song-of-marching|_song of marching_]] composition cantrip, which enables you and your allies to cross vast distances without strain.
+You learn the [[srd/pf2e/compendium/spells/cantrips/Song of Marching|_song of marching_]] composition cantrip, which enables you and your allies to cross vast distances without strain.
 
 *Source: Player Core p. 103*

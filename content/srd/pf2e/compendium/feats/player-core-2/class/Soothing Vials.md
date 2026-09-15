@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Alchemist`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/research-fields#Chirurgeon|chirurgeon research field]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Research Fields#Chirurgeon|chirurgeon research field]]
 
-The healing chemicals in your versatile vials also help calm a patient's mind. When a living creature affected by a [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effect regains Hit Points from one of your versatile vials, it can immediately attempt a new Will saving throw to end one mental effect of its choice. It gains a +1 item bonus to the saving throw.
+The healing chemicals in your versatile vials also help calm a patient's mind. When a living creature affected by a [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effect regains Hit Points from one of your versatile vials, it can immediately attempt a new Will saving throw to end one mental effect of its choice. It gains a +1 item bonus to the saving throw.
 
 *Source: Player Core 2 p. 63*

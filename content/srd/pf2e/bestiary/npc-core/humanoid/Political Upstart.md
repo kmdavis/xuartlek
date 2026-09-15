@@ -28,16 +28,16 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; (11 to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]])"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +8, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +10, [[srd/pf2e/compendium/rules-elements/skills/lore|Legal Lore]] +11, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +10, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +8, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +10, [[srd/pf2e/compendium/rules-elements/skills/Lore|Legal Lore]] +11, [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] +10, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +11"
 abilityMods: [0, 1, 0, 2, 2, 3]
 abilities_top:
   - name: "Rhetoric Specialist"
     desc: "For social encounters involving debate and legal logic, the political upstart is a 3rd-level challenge."
   - name: "Items"
-    desc: "long coat (functions as [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]), political pamphlets, soapbox, Writing Set"
+    desc: "long coat (functions as [[srd/pf2e/compendium/equipment/Armor#Leather Armor|leather armor]]), political pamphlets, soapbox, Writing Set"
 ac: 14
 armorclass:
   - name: "AC"
@@ -56,16 +56,16 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4 bludgeoning"
+    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4 bludgeoning"
 abilities_bot:
   - name: "Fiery Rhetoric"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The upstart rattles off talking points at an enemy within 30 feet. The target takes a –2 status penalty to Perception and Will saves for 1 minute."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]]) The upstart rattles off talking points at an enemy within 30 feet. The target takes a –2 status penalty to Perception and Will saves for 1 minute."
   - name: "Fascinating Speech"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The political upstart begins a rousing speech which they can Sustain up to 1 minute. Any creature within 30 feet that can hear the speech, must attempt a DC 17 Will save."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]]) The political upstart begins a rousing speech which they can Sustain up to 1 minute. Any creature within 30 feet that can hear the speech, must attempt a DC 17 Will save."
   - name: "Success"
     desc: "The creature is unaffected."
   - name: "Failure"
-    desc: "The creature is [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] with the upstart for 1 round."
+    desc: "The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Fascinated|fascinated]] with the upstart for 1 round."
   - name: "Critical Failure"
     desc: "The creature is fascinated with the upstart as long as the speech lasts."
 sourcebook: "_NPC Core_, page 76."

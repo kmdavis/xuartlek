@@ -18,6 +18,6 @@ socialImage: og-image.png
 
 - **Frequency**: once per day
 
-You conjure forth a massive stone forge within 30 feet that occupies a 15-foot cube in empty spaces on the ground. The forge lasts for 1 minute before crumbling into dust. The forge amplifies the power of runes in a 60-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]. The duration of a traced rune doesn’t elapse while it’s within the emanation but resumes once the rune is outside the emanation. Additionally, runes invoked within the forge’s emanation don’t fade, but instead become faint. Faint runes maintain their passive benefits but can’t be invoked again.
+You conjure forth a massive stone forge within 30 feet that occupies a 15-foot cube in empty spaces on the ground. The forge lasts for 1 minute before crumbling into dust. The forge amplifies the power of runes in a 60-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]]. The duration of a traced rune doesn’t elapse while it’s within the emanation but resumes once the rune is outside the emanation. Additionally, runes invoked within the forge’s emanation don’t fade, but instead become faint. Faint runes maintain their passive benefits but can’t be invoked again.
 
 *Source: Impossible Magic p. 54*

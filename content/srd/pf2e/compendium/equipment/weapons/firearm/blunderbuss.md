@@ -26,10 +26,10 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Firearm
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
-This weapon fires pellets from a trumpet-shaped barrel, making it an excellent choice for hunting brush fowl or dealing damage within a short, broad area. Adventuring [[srd/pf2e/compendium/character/classes/gunslinger|gunslingers]] often carry a blunderbuss to deal with swarms of vermin and similar threats.
+This weapon fires pellets from a trumpet-shaped barrel, making it an excellent choice for hunting brush fowl or dealing damage within a short, broad area. Adventuring [[srd/pf2e/compendium/character/classes/Gunslinger|gunslingers]] often carry a blunderbuss to deal with swarms of vermin and similar threats.
 
 ### Critical Specialization Effects
 
@@ -37,6 +37,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Arboreal's Revenge, Black King, Breath Blaster, [[srd/pf2e/compendium/equipment/weapons/leydroth-spellbreaker|Leydroth Spellbreaker]], [[srd/pf2e/compendium/equipment/weapons/thundercrasher|Thundercrasher]], Thundercrasher
+Arboreal's Revenge, Black King, Breath Blaster, [[srd/pf2e/compendium/equipment/weapons/Leydroth Spellbreaker|Leydroth Spellbreaker]], [[srd/pf2e/compendium/equipment/weapons/Thundercrasher|Thundercrasher]], Thundercrasher
 
 *Source: Guns & Gears (Remastered) p. 152*

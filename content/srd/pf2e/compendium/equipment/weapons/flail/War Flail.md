@@ -16,14 +16,14 @@ socialImage: og-image.png
 
 `Disarm`  `Sweep`  `Trip`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/sarkorian-gods/alglenweis|Alglenweis]], [[srd/pf2e/compendium/deities/infernal-dukes/bifrons|Bifrons]], [[srd/pf2e/compendium/deities/qlippoth-lords/chavazvug|Chavazvug]], [[srd/pf2e/compendium/deities/archdevils/geryon|Geryon]], [[srd/pf2e/compendium/deities/other-gods/groetus|Groetus]], Iapholi, [[srd/pf2e/compendium/deities/eldest/imbrex|Imbrex]], [[srd/pf2e/compendium/deities/demon-lords/shivaska|Shivaska]], [[srd/pf2e/compendium/deities/monitor-demigods/vale|Vale]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/sarkorian-gods/Alglenweis|Alglenweis]], [[srd/pf2e/compendium/deities/infernal-dukes/Bifrons|Bifrons]], [[srd/pf2e/compendium/deities/qlippoth-lords/Chavazvug|Chavazvug]], [[srd/pf2e/compendium/deities/archdevils/Geryon|Geryon]], [[srd/pf2e/compendium/deities/other-gods/Groetus|Groetus]], Iapholi, [[srd/pf2e/compendium/deities/eldest/Imbrex|Imbrex]], [[srd/pf2e/compendium/deities/demon-lords/Shivaska|Shivaska]], [[srd/pf2e/compendium/deities/monitor-demigods/Vale|Vale]]
 - **Price**: 2 gp
 - **Damage**: 1d10 B
 - **Bulk**: 2
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Flail
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Flail|Flail]]
 
 This large flail has a long shaft connected to a shorter piece of stout wood or metal that's sometimes inlaid with spikes.
 
@@ -33,6 +33,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/chimera-flail|Chimera Flail]], [[srd/pf2e/compendium/equipment/weapons/ouroboros-flail|Ouroboros Flail]]
+[[srd/pf2e/compendium/equipment/weapons/Chimera Flail|Chimera Flail]], [[srd/pf2e/compendium/equipment/weapons/Ouroboros Flail|Ouroboros Flail]]
 
 *Source: Player Core p. 278*

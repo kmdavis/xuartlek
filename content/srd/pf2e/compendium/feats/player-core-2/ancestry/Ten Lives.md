@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Catfolk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/evade-doom|Evade Doom]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Evade Doom|Evade Doom]]
 
-When your character would die, you can attempt a DC 17 flat check. On a success, you're instead reduced to 0 HP and a [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] value 1 less than what would normally kill you (typically dying 3). This doesn't change the result for any other creature affected.
+When your character would die, you can attempt a DC 17 flat check. On a success, you're instead reduced to 0 HP and a [[srd/pf2e/compendium/rules-elements/Conditions#Dying|dying]] value 1 less than what would normally kill you (typically dying 3). This doesn't change the result for any other creature affected.
 
 *Source: Player Core 2 p. 11*

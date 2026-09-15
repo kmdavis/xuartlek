@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Centaur`
 
-You're accustomed to long days filled with hard physical labor. You gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]], and to Fortitude saving throws to resist becoming [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]]. When you roll a success on an Athletics check to Shove, you get a critical success instead.
+You're accustomed to long days filled with hard physical labor. You gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]], and to Fortitude saving throws to resist becoming [[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|fatigued]]. When you roll a success on an Athletics check to Shove, you get a critical success instead.
 
 *Source: Howl of the Wild p. 31*

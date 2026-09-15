@@ -24,24 +24,24 @@ Strength or Constitution
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/spiked-gauntlet|Spiked Gauntlet]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/Spiked Gauntlet|Spiked Gauntlet]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Dragon|Dragon]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Nature|Nature]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Dragon|Dragon]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/pest-form|Pest Form]]
+[[srd/pf2e/compendium/spells/rank-1/Pest Form|Pest Form]]
 (reptile only)
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/dinosaur-form|Dinosaur Form]]
+[[srd/pf2e/compendium/spells/rank-4/Dinosaur Form|Dinosaur Form]]
 
 - **8th**
-[[srd/pf2e/compendium/spells/rank-8/earthquake|Earthquake]]
+[[srd/pf2e/compendium/spells/rank-8/Earthquake|Earthquake]]
 
 *Source: Divine Mysteries p. 304*

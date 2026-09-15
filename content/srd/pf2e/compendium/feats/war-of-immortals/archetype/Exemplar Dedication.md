@@ -17,13 +17,13 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`  `Multiclass`  `Rare`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/exemplar|Exemplar]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Exemplar|Exemplar]]
 - **Prerequisites**: Strength +2 or Dexterity +2
 
-A spark of inherent divine power has lit itself within you. You become trained in martial weapons. You gain one ikon from those listed on [[srd/pf2e/compendium/character/ikons|here]], the ability to use the ikon’s immanence and transcendence actions and effects, and the Shift Immanence action. Because you have only a single ikon, when you Spark Transcendence, your divine spark recedes back to the depths of your soul and must be recalled with Shift Immanence to re-empower your ikon. You become trained in exemplar class DC.
+A spark of inherent divine power has lit itself within you. You become trained in martial weapons. You gain one ikon from those listed on [[srd/pf2e/compendium/character/Ikons|here]], the ability to use the ikon’s immanence and transcendence actions and effects, and the Shift Immanence action. Because you have only a single ikon, when you Spark Transcendence, your divine spark recedes back to the depths of your soul and must be recalled with Shift Immanence to re-empower your ikon. You become trained in exemplar class DC.
 
 ### Exemplar Dedication leads to...
 
-[[srd/pf2e/compendium/feats/war-of-immortals/archetype/basic-glory|Basic Glory]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/exemplar-expertise|Exemplar Expertise]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/exemplar-resilency|Exemplar Resilency]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/second-ikon|Second Ikon]]
+[[srd/pf2e/compendium/feats/war-of-immortals/archetype/Basic Glory|Basic Glory]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Exemplar Expertise|Exemplar Expertise]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Exemplar Resilency|Exemplar Resilency]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Second Ikon|Second Ikon]]
 
 *Source: War of Immortals p. 57*

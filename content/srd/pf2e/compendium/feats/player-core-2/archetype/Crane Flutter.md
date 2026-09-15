@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Monk`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]] (Level 8), [[srd/pf2e/compendium/character/archetypes/wild-mimic|Wild Mimic]] (Level 8)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/crane-stance|Crane Stance]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Martial Artist|Martial Artist]] (Level 8), [[srd/pf2e/compendium/character/archetypes/Wild Mimic|Wild Mimic]] (Level 8)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Crane Stance|Crane Stance]]
 - **Trigger**: You are targeted with an attack by an observed attacker.
 - **Requirements**: You are in Crane Stance.
 

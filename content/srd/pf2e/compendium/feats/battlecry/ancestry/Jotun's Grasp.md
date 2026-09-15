@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Jotunborn`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-You’ve mastered a technique that allows you to close the gap on foes and wrestle them into submission. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]] and attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] a creature.
+You’ve mastered a technique that allows you to close the gap on foes and wrestle them into submission. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]] and attempt an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] a creature.
 
 *Source: Battlecry! p. 14*

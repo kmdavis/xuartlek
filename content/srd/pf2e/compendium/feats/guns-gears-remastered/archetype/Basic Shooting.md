@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/gunslinger|Gunslinger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/gunslinger-dedication|Gunslinger Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Gunslinger|Gunslinger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Gunslinger Dedication|Gunslinger Dedication]]
 
-You gain a 1st- or 2nd-level gunslinger feat of your choice.
+You gain a 1st- or 2nd-level [gunslinger feat](https://2e.aonprd.com/Feats.aspx?Traits=406) of your choice.
 
 ### Basic Shooting leads to...
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/advanced-shooting|Advanced Shooting]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Advanced Shooting|Advanced Shooting]]
 
 *Source: Guns & Gears (Remastered) p. 127*

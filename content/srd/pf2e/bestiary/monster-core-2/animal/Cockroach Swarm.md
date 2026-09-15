@@ -30,7 +30,7 @@ perception:
     desc: "+7; darkvision, scent (imprecise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +8"
 abilityMods: [2, 4, 3, -5, 0, -4]
 ac: 18
 armorclass:
@@ -39,7 +39,7 @@ armorclass:
 hp: 26
 health:
   - name: "HP"
-    desc: "26; __Immunities__ precision, swarm mind; __Resistances__ bludgeoning 2, piercing 5, slashing 5; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
+    desc: "26; __Immunities__ precision, swarm mind; __Resistances__ bludgeoning 2, piercing 5, slashing 5; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 5"
 speed: "20 feet, climb 20 feet, fly 15 feet"
 abilities_bot:
   - name: "Swarming Bites"

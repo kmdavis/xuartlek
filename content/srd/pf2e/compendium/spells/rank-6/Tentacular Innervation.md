@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Morph`
 
-- **Traditions**: Arcane, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Duration**: 1 minute
 
-One of your limbs blisters and your muscles extend to create a nestling assemblage of tentacles. This visceral mass is a short-lived magical parasite that seeks to connect to an unfortunate foe’s nervous system. Make an unarmed melee Strike. Your reach increases by 10 feet for this Strike. If the Strike hits, in addition to dealing its normal damage, the target becomes [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 and is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by the mass of tentacles. The target isn’t [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]], but it can’t move beyond the reach of the unarmed melee Strike that has grabbed it. If the target [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] from the mass of tentacles (using your spell DC as the Escape DC), the spell ends. The mass of tentacles can be severed before the spell’s duration ends; it has AC 10 and 60 Hit Points, and it’s immune to critical hits and precision damage.
+One of your limbs blisters and your muscles extend to create a nestling assemblage of tentacles. This visceral mass is a short-lived magical parasite that seeks to connect to an unfortunate foe’s nervous system. Make an unarmed melee Strike. Your reach increases by 10 feet for this Strike. If the Strike hits, in addition to dealing its normal damage, the target becomes [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] 1 and is [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] by the mass of tentacles. The target isn’t [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]], but it can’t move beyond the reach of the unarmed melee Strike that has grabbed it. If the target [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] from the mass of tentacles (using your spell DC as the Escape DC), the spell ends. The mass of tentacles can be severed before the spell’s duration ends; it has AC 10 and 60 Hit Points, and it’s immune to critical hits and precision damage.
 
 ---
 **Heightened (+1)** The Hit Points of the tentacles increases by 10.

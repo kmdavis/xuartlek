@@ -19,6 +19,6 @@ You adopt a stance to rebound your thrown weapons toward you. While you are in t
 
 ### Ricochet Stance (Rogue) leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/ricochet-feint|Ricochet Feint]]
+[[srd/pf2e/compendium/feats/player-core/class/Ricochet Feint|Ricochet Feint]]
 
 *Source: Player Core p. 174*

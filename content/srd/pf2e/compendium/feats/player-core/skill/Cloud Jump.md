@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Legendary in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Legendary in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
 Your unparalleled athletic skill allows you to jump impossible distances. Triple the distance you jump on a successful [[srd/pf2e/compendium/rules-elements/actions/player-core#Long Jump|Long Jump]] (so you could jump 90 feet with an Athletics result of 30). When you successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#High Jump|High Jump]], use the distance jumped and distance limit for a Long Jump but don’t triple the distance.
 

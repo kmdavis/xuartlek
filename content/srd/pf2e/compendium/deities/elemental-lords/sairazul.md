@@ -24,23 +24,23 @@ Constitution or Charisma
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/pick/pick|Pick]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/pick/Pick|Pick]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Earth|Earth]], [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Toil|Toil]], [[srd/pf2e/compendium/character/domains#Wealth|Wealth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Earth|Earth]], [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Toil|Toil]], [[srd/pf2e/compendium/character/Domains#Wealth|Wealth]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/shattering-gem|Shattering Gem]]
+[[srd/pf2e/compendium/spells/rank-1/Shattering Gem|Shattering Gem]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/expeditious-excavation|Expeditious Excavation]]
+[[srd/pf2e/compendium/spells/rank-2/Expeditious Excavation|Expeditious Excavation]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/mountain-resilience|Mountain Resilience]]
+[[srd/pf2e/compendium/spells/rank-4/Mountain Resilience|Mountain Resilience]]
 
 *Source: Divine Mysteries p. 306*

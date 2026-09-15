@@ -1,6 +1,7 @@
 ---
 title: "NPC Advancement"
 aliases: ["NPC Advancement"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3412"
 citation: "NPC Core pg. 228"
-socialImage: og-image.png
 ---
 
 # NPC Advancement
@@ -28,17 +28,17 @@ Some milestones an NPC might achieve to advance their level or abilities include
 
 - The NPC accomplishes a significant goal. This might be a business milestone for a merchant, a major performance for an actor, or a lucrative kidnapping for a villainous rogue.
 - The NPC survives a major crisis. Usually this advancement also comes with a major change in their attitude and capabilities. Examples include a treacherous journey, a natural disaster, or a bloody battle. For enemy NPCs, this can include a battle against the PCs, after which it's usually best to both have the NPC level up and wait at least 1 level for the rematch so both sides come to the encounter with new abilities and counterplay tactics.
-- PCs help the NPC improve. This could involve doing a specific task for the NPC, helping them gain admittance to an institution, personally training them, or helping them realize their true potential. If you're using the [[srd/pf2e/books/npc-core/relationships-and-advancement/connection-subsystem|connections system]], these types of tasks usually overlap with favors, so you can use increasing their Connection Tier as a good point to advance the NPC.
+- PCs help the NPC improve. This could involve doing a specific task for the NPC, helping them gain admittance to an institution, personally training them, or helping them realize their true potential. If you're using the [[srd/pf2e/books/npc-core/relationships-and-advancement/Connection Subsystem|connections system]], these types of tasks usually overlap with favors, so you can use increasing their Connection Tier as a good point to advance the NPC.
 
 ## Numerical Advancement
 
-You can upgrade an NPC's statistics and level using the [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures|Building Creatures]] rules. Usually you can find the creature's new level on the relevant stats tables and increase their stats by the difference between the current level and the next. However, you might want to add new abilities if the NPC started out at a low level and is now much higher, and you can update spells, items, and the like to suit the new level. You might also want to add [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Extreme Increases|more extreme increases]] at 11th level or higher.
+You can upgrade an NPC's statistics and level using the [[srd/pf2e/books/gm-core/chapter-2-building-games/Building Creatures|Building Creatures]] rules. Usually you can find the creature's new level on the relevant stats tables and increase their stats by the difference between the current level and the next. However, you might want to add new abilities if the NPC started out at a low level and is now much higher, and you can update spells, items, and the like to suit the new level. You might also want to add [[srd/pf2e/books/gm-core/chapter-2-building-games/Building Creatures#Extreme Increases|more extreme increases]] at 11th level or higher.
 
-If you expect the NPC will continue leveling up, you might save yourself some work by using the elite adjustments the first time they level up. Then you can level them up by 3 levels the next time and temporarily use the weak adjustments. Then repeat the process. For example, you'd use the following progression for an NPC as they advance from 1st level: **1st** starting stat block, **2nd** starting stat block with elite adjustments, **3rd** creature increased to 4th level with the weak adjustments, **4th** the 4th-level stat block.
+If you expect the NPC will continue leveling up, you might save yourself some work by using the [elite](https://2e.aonprd.com/Rules.aspx?ID=790) adjustments the first time they level up. Then you can level them up by 3 levels the next time and temporarily use the [weak adjustments](https://2e.aonprd.com/Rules.aspx?ID=791). Then repeat the process. For example, you'd use the following progression for an NPC as they advance from 1st level: **1st** starting stat block, **2nd** starting stat block with elite adjustments, **3rd** creature increased to 4th level with the weak adjustments, **4th** the 4th-level stat block.
 
 ### Social Advancement
 
-You can follow the same process to increase an NPC's [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Non-Combat Level|non-combat level]] to improve their social or skill-based abilities. Each time you advance such an NPC, decide whether the story better suits increasing their combat level, non-combat level, or both at the same time.
+You can follow the same process to increase an NPC's [[srd/pf2e/books/gm-core/chapter-2-building-games/Building Creatures#Non-Combat Level|non-combat level]] to improve their social or skill-based abilities. Each time you advance such an NPC, decide whether the story better suits increasing their combat level, non-combat level, or both at the same time.
 
 ## Special Perks
 
@@ -56,4 +56,4 @@ The story of your game will often suggest other types of advancement beyond stat
 | A wealthy enemy colludes with merchants. | The price of all goods in the settlement increase by 10% for the PCs. |
 | A warrior enemy escapes a battle with the PCs. | The enemy chooses one PC, trains against their techniques, and gains a +1 circumstance bonus to all defenses against any of that PC's abilities they're aware of. |
 | A plotting enemy frames the PCs. | The attitude of all residents of a settlement or district worsens by one step for the PCs. |
-| The PCs show off their spells in a public place where the enemy's spies can see. | The enemy gains resistance to the spells that were witnessed, using the [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Immunities, Weaknesses, and Resistances\|minimum value]]. |
+| The PCs show off their spells in a public place where the enemy's spies can see. | The enemy gains resistance to the spells that were witnessed, using the [[srd/pf2e/books/gm-core/chapter-2-building-games/Building Creatures#Immunities, Weaknesses, and Resistances\|minimum value]]. |

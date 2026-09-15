@@ -20,6 +20,6 @@ You have retained your sharp animal senses even after awakening. Choose one of t
 
 ### Natural Senses leads to...
 
-[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/true-senses|True Senses]]
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/True Senses|True Senses]]
 
 *Source: Howl of the Wild p. 25*

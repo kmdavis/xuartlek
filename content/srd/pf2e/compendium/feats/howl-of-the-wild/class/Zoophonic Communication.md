@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Bard`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/muses#Zoophonia|zoophonia muse]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Muses#Zoophonia|zoophonia muse]]
 
-Your studies have expanded your ability to parley and negotiate into the animal realm. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Request|Request]] from [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]] using [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] instead of [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] as though you shared a language, although this gives you no special ability to understand their responses. You can also use Performance instead of [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]].
+Your studies have expanded your ability to parley and negotiate into the animal realm. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Request|Request]] from [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animals]] using [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] instead of [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] as though you shared a language, although this gives you no special ability to understand their responses. You can also use Performance instead of [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]].
 
 *Source: Howl of the Wild p. 65*

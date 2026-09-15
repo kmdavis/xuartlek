@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Commander`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/class/adaptive-stratagem|Adaptive Stratagem]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/class/Adaptive Stratagem|Adaptive Stratagem]]
 
 You know that even the best-laid plans rarely survive contact with the enemy, and you have prepared your allies to adapt with a wide array of contingencies. When you use Adaptive Stratagem, you can replace any master tactics or legendary tactics you have prepared with any other tactics in your folio.
 

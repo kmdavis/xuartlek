@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Fighter`  `Stance`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/archer|Archer]] (Level 18)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/triple-shot|Triple Shot]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Archer|Archer]] (Level 18)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Triple Shot|Triple Shot]]
 - **Requirements**: You are wielding a ranged weapon with reload 0
 
 You lock yourself in a stable position so you can fire swiftly and accurately. While you are in this stance, your penalty for Double Shot is reduced to –1. If you move from your position, this stance ends.

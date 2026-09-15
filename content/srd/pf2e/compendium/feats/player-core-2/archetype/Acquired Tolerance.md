@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Archetype`  `Fortune`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/poisoner|Poisoner]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/poisoner-dedication|Poisoner Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Poisoner|Poisoner]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Poisoner Dedication|Poisoner Dedication]]
 - **Trigger**: You fail a save against a poison.
 
-A small amount of poison taken at nonlethal doses, can help the body build up resistance against a more deadly dosage. Reroll the triggering check and use the second result. Once you use Acquired Tolerance, you can continue to use it against the same type of poison that day, but you can't use it against a different type of poison until after you make your next daily preparations. For instance, if you used the reaction on a save against [[srd/pf2e/compendium/equipment/alchemical-items/giant-scorpion-venom|giant scorpion venom]], you could use it again against giant scorpion venom even if it came from a different source, but you couldn't use it against [[srd/pf2e/compendium/equipment/alchemical-items/wyvern-poison|wyvern poison]].
+A small amount of poison taken at nonlethal doses, can help the body build up resistance against a more deadly dosage. Reroll the triggering check and use the second result. Once you use Acquired Tolerance, you can continue to use it against the same type of poison that day, but you can't use it against a different type of poison until after you make your next daily preparations. For instance, if you used the reaction on a save against [[srd/pf2e/compendium/equipment/alchemical-items/Giant Scorpion Venom|giant scorpion venom]], you could use it again against giant scorpion venom even if it came from a different source, but you couldn't use it against [[srd/pf2e/compendium/equipment/alchemical-items/Wyvern Poison|wyvern poison]].
 
 *Source: Player Core 2 p. 210*

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/gelid-shard|Gelid Shard]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Gelid Shard|Gelid Shard]]
 
-You are as much a creature of cold as whatever ancestry you were born to. You are immune to cold damage and gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] trait. You automatically succeed on saving throws against effects that have the cold trait.
+You are as much a creature of cold as whatever ancestry you were born to. You are immune to cold damage and gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]] trait. You automatically succeed on saving throws against effects that have the cold trait.
 
 *Source: Treasure Vault (Remastered) p. 185*

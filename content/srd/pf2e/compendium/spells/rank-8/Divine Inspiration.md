@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Mental`
 
-- **Tradition**: Divine
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Diabolic|Diabolic]]
+- **Tradition**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Diabolic|Diabolic]]
 - **Range**: touch
 - **Target**: 1 willing creature
 

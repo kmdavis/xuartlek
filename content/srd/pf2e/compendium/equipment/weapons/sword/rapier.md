@@ -16,14 +16,14 @@ socialImage: og-image.png
 
 `Deadly`  `Disarm`  `Finesse`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/arazni|Arazni]], [[srd/pf2e/compendium/deities/other-gods/besmara|Besmara]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/cayden-cailean|Cayden Cailean]], [[srd/pf2e/compendium/deities/pantheons/children-of-the-night|Children of the Night]], [[srd/pf2e/compendium/deities/eldest/count-ranalc|Count Ranalc]], [[srd/pf2e/compendium/deities/sakhil-tormentors/dachzerul|Dachzerul]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/hastur|Hastur]], Seafarer's Hope, Sigek, [[srd/pf2e/compendium/deities/giant-gods/skrymir|Skrymir]], Touch of the Sun, Zura
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Arazni|Arazni]], [[srd/pf2e/compendium/deities/other-gods/Besmara|Besmara]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Cayden Cailean|Cayden Cailean]], [[srd/pf2e/compendium/deities/pantheons/Children of the Night|Children of the Night]], [[srd/pf2e/compendium/deities/eldest/Count Ranalc|Count Ranalc]], [[srd/pf2e/compendium/deities/sakhil-tormentors/Dachzerul|Dachzerul]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Hastur|Hastur]], Seafarer's Hope, Sigek, [[srd/pf2e/compendium/deities/giant-gods/Skrymir|Skrymir]], Touch of the Sun, Zura
 - **Price**: 2 gp
 - **Damage**: 1d6 P
 - **Bulk**: 1
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 The rapier is a long and thin piercing blade with a basket hilt. It is prized among many as a dueling weapon.
 
@@ -33,6 +33,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/artifacts/final-stand|Final Stand]], Protector's Final Gift, Rime Foil, [[srd/pf2e/compendium/equipment/weapons/storm-flash|Storm Flash]], Viper Rapier
+[[srd/pf2e/compendium/equipment/artifacts/Final Stand|Final Stand]], Protector's Final Gift, Rime Foil, [[srd/pf2e/compendium/equipment/weapons/Storm Flash|Storm Flash]], Viper Rapier
 
 *Source: Player Core p. 278*

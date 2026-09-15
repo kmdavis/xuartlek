@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/firework-technician|Firework Technician]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/firework-technician-dedication|Firework Technician Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Firework Technician|Firework Technician]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Firework Technician Dedication|Firework Technician Dedication]]
 
 This multi-sequence rocket blasts confetti at a series of altitudes. While the design is intended to delight children of all ages, you've found it has an unexpected side effect of confounding enemy fliers. You gain the Jumping Jenny fireworks display.
 

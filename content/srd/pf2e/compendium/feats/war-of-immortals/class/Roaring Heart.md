@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Animist`  `Apparition`  `Divine`  `Wandering`
 
-- **Requirements**: Your attuned apparition grants Mountain [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] as an apparition skill.
+- **Requirements**: Your attuned apparition grants Mountain [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] as an apparition skill.
 
-You surge forward inexorably. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] twice. At any point during this movement, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] up to two creatures you pass adjacent to. When you end the movement, the turbulent spirits you’re attuned to reward you for acting in an appropriately fierce manner: you and each ally in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] gain temporary Hit Points equal to half your level if you successfully Shoved at least one enemy, or equal to your level if you succeeded at Shoving both. These temporary Hit Points last until the beginning of your next turn.
+You surge forward inexorably. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] twice. At any point during this movement, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] up to two creatures you pass adjacent to. When you end the movement, the turbulent spirits you’re attuned to reward you for acting in an appropriately fierce manner: you and each ally in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] gain temporary Hit Points equal to half your level if you successfully Shoved at least one enemy, or equal to your level if you succeeded at Shoving both. These temporary Hit Points last until the beginning of your next turn.
 
 *Source: War of Immortals p. 25*

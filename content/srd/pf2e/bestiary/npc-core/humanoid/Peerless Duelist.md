@@ -28,16 +28,16 @@ modifier: 24
 perception:
   - name: "Perception"
     desc: "+24; (27 for initiative) tremorsense 30 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +25, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +23, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +22, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +24, [[srd/pf2e/compendium/rules-elements/skills/lore|Dueling Lore]] +25, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +26"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +25, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +23, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +22, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +24, [[srd/pf2e/compendium/rules-elements/skills/Lore|Dueling Lore]] +25, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +26"
 abilityMods: [3, 5, 3, 0, 3, 2]
 abilities_top:
   - name: "I See You"
-    desc: "The peerless duelist's Perception checks and firearm Strikes ignore lesser cover and the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition."
+    desc: "The peerless duelist's Perception checks and firearm Strikes ignore lesser cover and the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/worn-items/obsidian-goggles|_obsidian goggles_]], _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/firearm/dueling-pistol|dueling pistol]]_ ( 2, 40 rounds)"
+    desc: "[[srd/pf2e/compendium/equipment/worn-items/Obsidian Goggles|_obsidian goggles_]], _+1 [[srd/pf2e/compendium/equipment/runes/Striking|striking]] [[srd/pf2e/compendium/equipment/weapons/firearm/Dueling Pistol|dueling pistol]]_ ( 2, 40 rounds)"
 ac: 33
 armorclass:
   - name: "AC"
@@ -48,7 +48,7 @@ health:
     desc: "200"
 abilities_mid:
   - name: "Threatening Aura"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 60 feet, Will DC 30. The duelist's presence makes foes hesitate. Any enemy that enters or starts its turn in the aura must succeed at the Will save or be [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]]. Regardless of the result of its save, the creature is temporarily immune for 1 day."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]]) 60 feet, Will DC 30. The duelist's presence makes foes hesitate. Any enemy that enters or starts its turn in the aura must succeed at the Will save or be [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned 1]]. Regardless of the result of its save, the creature is temporarily immune for 1 day."
   - name: "Shoot First"
     desc: "⬲"
   - name: "Trigger"
@@ -60,14 +60,14 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +25 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+11 bludgeoning"
+    desc: "⬻ fist +25 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+11 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ _dueling pistol_ +26 ([[srd/pf2e/compendium/rules-elements/traits/player-core/concealable|Concealable]], [[srd/pf2e/compendium/rules-elements/traits/npc-core/concussive|Concussive]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], range increment 60 feet, reload 1) __Damage__ 3d6+13 piercing"
+    desc: "⬻ _dueling pistol_ +26 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concealable|Concealable]], [[srd/pf2e/compendium/rules-elements/traits/npc-core/Concussive|Concussive]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fatal|fatal d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], range increment 60 feet, reload 1) __Damage__ 3d6+13 piercing"
 abilities_bot:
   - name: "Ace Shooter"
-    desc: "The peerless duelist deals an extra die of damage on any firearm Strike they attempt. This extra damage is already included in their dueling pistol Strike."
+    desc: "The peerless duelist deals an extra die of damage on any [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|firearm]] Strike they attempt. This extra damage is already included in their dueling pistol Strike."
   - name: "Disarming Shot"
-    desc: "⬻ The duelist fires a dueling pistol to attempt a [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]] an enemy at range with the bullet. The duelist attempts an attack roll with the dueling pistol instead of an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check, taking any penalty appropriate for the firearm's range increment. The duelist doesn't have to meet the requirements of the Disarm action. Instead of Disarming, the duelist can use Disarming Shot to attempt an [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] action for the benefit of themself or an ally within range."
+    desc: "⬻ The duelist fires a dueling pistol to attempt a [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]] an enemy at range with the bullet. The duelist attempts an attack roll with the dueling pistol instead of an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check, taking any penalty appropriate for the firearm's range increment. The duelist doesn't have to meet the requirements of the Disarm action. Instead of Disarming, the duelist can use Disarming Shot to attempt an [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] action for the benefit of themself or an ally within range."
   - name: "Double Reload"
     desc: "⬻"
   - name: "Requirements"

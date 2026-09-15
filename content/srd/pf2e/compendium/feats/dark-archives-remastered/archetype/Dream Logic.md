@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Archetype`  `Mental`  `Occult`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/sleepwalker|Sleepwalker]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/sleepwalker-dedication|Sleepwalker Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Sleepwalker|Sleepwalker]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Sleepwalker Dedication|Sleepwalker Dedication]]
 
 You can transmit a sense of dreamy nonchalance. If you do something especially strange or dangerous while you're in your Daydream Trance, such as entering a restricted area or fighting someone in the street, any creature that isn't one of your allies must attempt a Perception check against your class or spell DC, whichever is higher. On a success, it realizes something is amiss, and on a failure, it believes nothing is out of the ordinary. The creature can attempt a new check if you start doing something else strange, but not if you continue on the same course of action it already failed to notice was peculiar.
 

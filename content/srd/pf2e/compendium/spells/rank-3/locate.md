@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Detection`  `Manipulate`  `Uncommon`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Cast**: 10 minutes
 - **Range**: 500 feet
 - **Target**: 1 specific object or type of object

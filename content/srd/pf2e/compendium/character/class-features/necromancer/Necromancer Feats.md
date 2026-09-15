@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Necromancer
 
-At 2nd level and every even-numbered level thereafter, you gain a necromancer class feat.
+At 2nd level and every even-numbered level thereafter, you gain a [necromancer class feat.](https://2e.aonprd.com/Feats.aspx?Traits=950)
 
 *Source: Impossible Magic p. 27*

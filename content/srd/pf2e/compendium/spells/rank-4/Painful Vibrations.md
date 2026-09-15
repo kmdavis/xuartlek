@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Sonic`
 
-- **Traditions**: Divine, Occult
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 100 feet
 - **Target**: 1 living creature
 - **Defense**: Fortitude
@@ -27,7 +27,7 @@ You send powerful sound waves through an opponent’s body, vibrating its bones 
 
 **Success** The target takes half damage.
 
-**Failure** The target takes full damage, is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]], and is [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] for 1 round.
+**Failure** The target takes full damage, is [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened 1]], and is [[srd/pf2e/compendium/rules-elements/Conditions#Deafened|deafened]] for 1 round.
 
 **Critical Failure** The target takes double damage, is sickened 2, and is deafened for 1 minute.
 

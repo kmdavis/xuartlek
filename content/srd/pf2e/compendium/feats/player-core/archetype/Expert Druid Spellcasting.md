@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/druid|Druid]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/basic-druid-spellcasting|Basic Druid Spellcasting]]; Master in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Druid|Druid]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Basic Druid Spellcasting|Basic Druid Spellcasting]]; Master in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-You gain the expert [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|spellcasting benefits]].
+You gain the expert [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Spellcasting Archetypes|spellcasting benefits]].
 
 ### Expert Druid Spellcasting leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/master-druid-spellcasting|Master Druid Spellcasting]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Master Druid Spellcasting|Master Druid Spellcasting]]
 
 *Source: Player Core p. 218*

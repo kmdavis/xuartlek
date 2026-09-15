@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Jotunborn`
 
-You gain access to all uncommon weapons with the jotunborn trait. You have familiarity with weapons with the jotunborn trait plus the bola, [[srd/pf2e/compendium/equipment/weapons/axe/greataxe|greataxe]], [[srd/pf2e/compendium/equipment/weapons/polearm/halberd|halberd]], [[srd/pf2e/compendium/equipment/weapons/hammer/maul|maul]], [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]], and [[srd/pf2e/compendium/equipment/weapons/flail/war-flail|war flail]]—for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
+You gain access to all uncommon weapons with the jotunborn trait. You have familiarity with weapons with the jotunborn trait plus the bola, [[srd/pf2e/compendium/equipment/weapons/axe/Greataxe|greataxe]], [[srd/pf2e/compendium/equipment/weapons/polearm/Halberd|halberd]], [[srd/pf2e/compendium/equipment/weapons/hammer/Maul|maul]], [[srd/pf2e/compendium/equipment/weapons/spear/Longspear|longspear]], and [[srd/pf2e/compendium/equipment/weapons/flail/War Flail|war flail]]—for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 
 *Source: Battlecry! p. 13*

@@ -15,8 +15,10 @@ socialImage: og-image.png
 
 `Exemplar`  `Ikon`
 
+- **Usage**: imbued into a ranged weapon ikon, or a melee weapon ikon with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown]] trait
+
 As you prepare to shoot your weapon, you invoke divine serpents that bind your enemies. The imbued ikon gains the following ability.
 
-Transcendence—Coiling Serpents [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (transcendence) Make a ranged Strike with your ikon. If the Strike hits, the target must succeed at a Reflex save against your class DC or the arrow transforms into a multitude of ethereal snakes that coil around the target, immobilizing it until it succeeds at an [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] attempt against your class DC.
+**Transcendence—Coiling Serpents** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/war-of-immortals/Transcendence|transcendence]]) Make a ranged [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with your ikon. If the Strike hits, the target must succeed at a Reflex save against your class DC or the arrow transforms into a multitude of ethereal snakes that coil around the target, [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilizing]] it until it succeeds at an [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] attempt against your class DC.
 
 *Source: War of Immortals p. 36*

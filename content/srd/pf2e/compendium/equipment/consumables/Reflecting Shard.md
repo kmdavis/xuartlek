@@ -18,11 +18,11 @@ socialImage: og-image.png
 `Consumable`  `Magical`  `Talisman`  `Uncommon`
 
 - **Usage**: affixed to a shield
-- **Activate**: [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
+- **Activate**: [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]])
 - **Trigger**: You are targeted by a spell of 5th rank or lower
-- **Requirement**: You're a master in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], and you have the affixed shield raised.
+- **Requirement**: You're a master in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], and you have the affixed shield raised.
 
-This mirrored metal fragment is bolted or welded to the face of the affixed shield. When you Activate it, you attempt to reflect the triggering spell back at its caster with [[srd/pf2e/compendium/spells/rank-7/spell-riposte|_spell riposte_]], using your [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] modifier for the [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] check. The talisman’s counteract rank is 7th.
+This mirrored metal fragment is bolted or welded to the face of the affixed shield. When you Activate it, you attempt to reflect the triggering spell back at its caster with [[srd/pf2e/compendium/spells/rank-7/Spell Riposte|_spell riposte_]], using your [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] modifier for the [[srd/pf2e/books/player-core/chapter-7-spells/Counteracting|counteract]] check. The talisman’s counteract rank is 7th.
 
 ### Reflecting Shard
 

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Alchemist`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/extend-elixir|Extend Elixir]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Extend Elixir|Extend Elixir]]
 
-You've trained your physical form to remain stable. Once per day, when you consume an alchemical item with the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/infused|infused]] and [[srd/pf2e/compendium/rules-elements/traits/player-core-2/mutagen|mutagen]] traits, you can extend its duration to last until the next time you make your daily preparations instead of its normal duration. Unlike with the normal extension from Extend Elixir, this can exceed the duration of an item created with [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Quick Alchemy|Quick Alchemy]] beyond its normal 10-minute limit.
+You've trained your physical form to remain stable. Once per day, when you consume an alchemical item with the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Infused|infused]] and [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Mutagen|mutagen]] traits, you can extend its duration to last until the next time you make your daily preparations instead of its normal duration. Unlike with the normal extension from Extend Elixir, this can exceed the duration of an item created with [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Quick Alchemy|Quick Alchemy]] beyond its normal 10-minute limit.
 
 *Source: Player Core 2 p. 69*

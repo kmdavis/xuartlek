@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Champion`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/blessed-one|Blessed One]] (Level 20)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/mercy|Mercy]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Blessed One|Blessed One]] (Level 20)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Mercy|Mercy]]
 
-Your mercy transcends the bounds of life and death. Add ultimate mercy to the types of mercy you can provide. When you use Mercy, you can target a creature that died since your last turn to return it to life. The target returns to life with 1 Hit Point and becomes [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded 1]]. You can't return the target to life if it died from [[srd/pf2e/compendium/spells/rank-6/disintegrate|_disintegrate_]] or a [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effect. The creature gains the other benefits of _lay on hands_ after it returns to life.
+Your mercy transcends the bounds of life and death. Add ultimate mercy to the types of mercy you can provide. When you use Mercy, you can target a creature that died since your last turn to return it to life. The target returns to life with 1 Hit Point and becomes [[srd/pf2e/compendium/rules-elements/Conditions#Wounded|wounded 1]]. You can't return the target to life if it died from [[srd/pf2e/compendium/spells/rank-6/Disintegrate|_disintegrate_]] or a [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]] effect. The creature gains the other benefits of _lay on hands_ after it returns to life.
 
 *Source: Player Core 2 p. 99*

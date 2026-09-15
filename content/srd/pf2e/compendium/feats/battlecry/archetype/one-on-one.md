@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/aldori-duelist|Aldori Duelist]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Aldori Duelist|Aldori Duelist]]
 - **Frequency**: once per round
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/aldori-duelist-dedication|Aldori Duelist Dedication]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Aldori Duelist Dedication|Aldori Duelist Dedication]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-Your true skill can be seen in a one-on-one fight where you have room to dance around your opponent. You attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|Feint]] and then Strike an adjacent creature with an [[srd/pf2e/compendium/equipment/weapons/sword/aldori-dueling-sword|Aldori dueling sword]]. The Feint attempt must be against the same target as your Strike.
+Your true skill can be seen in a one-on-one fight where you have room to dance around your opponent. You attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|Feint]] and then Strike an adjacent creature with an [[srd/pf2e/compendium/equipment/weapons/sword/Aldori Dueling Sword|Aldori dueling sword]]. The Feint attempt must be against the same target as your Strike.
 
 *Source: Battlecry! p. 55*

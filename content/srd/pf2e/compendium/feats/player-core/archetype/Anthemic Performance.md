@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/bard|Bard]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/bard-dedication|Bard Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Bard|Bard]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Bard Dedication|Bard Dedication]]
 
-Your music, speech, or other performance inspires your allies to dive into battle. You gain the [[srd/pf2e/compendium/spells/cantrips/courageous-anthem|_courageous anthem_]] composition cantrip.
+Your music, speech, or other performance inspires your allies to dive into battle. You gain the [[srd/pf2e/compendium/spells/cantrips/Courageous Anthem|_courageous anthem_]] composition cantrip.
 
 *Source: Player Core p. 216*

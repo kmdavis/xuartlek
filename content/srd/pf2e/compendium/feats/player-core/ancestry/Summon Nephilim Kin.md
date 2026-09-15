@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Nephilim`
 
-- **Prerequisites**: any [[srd/pf2e/compendium/character/versatile-heritages/nephilim|nephilim]] lineage feat
+- **Prerequisites**: any [[srd/pf2e/compendium/character/versatile-heritages/Nephilim|nephilim]] lineage feat
 
-You have a connection to the Outer Planes, allowing you to summon a divine ally. Choose either _summon celestial_, _summon fiend_, or another 5th-rank spell capable of summoning an extraplanar creature appropriate to your lineage. Once per day, you can cast the chosen spell as a 5th-rank divine innate spell, but the creature summoned must be from the same category as your own lineage, such as a creature with the [[srd/pf2e/compendium/rules-elements/traits/player-core/angel|angel]] trait if you are an angelkin.
+You have a connection to the Outer Planes, allowing you to summon a divine ally. Choose either _summon celestial_, _summon fiend_, or another 5th-rank spell capable of summoning an extraplanar creature appropriate to your lineage. Once per day, you can cast the chosen spell as a 5th-rank divine innate spell, but the creature summoned must be from the same category as your own lineage, such as a creature with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Angel|angel]] trait if you are an angelkin.
 
 *Source: Player Core p. 81*

@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Rare`
 
 - **Usage**: varies by shield
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/orichalcum|Orichalcum]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/Orichalcum|Orichalcum]]
 
 Orichalcum shields' time-bending properties are particularly useful for keeping them intact. The first time each day an orichalcum shield would be destroyed, it's instead left with 1 Hit Point and the broken condition.
 

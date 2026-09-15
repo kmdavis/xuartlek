@@ -28,7 +28,7 @@ perception:
     desc: "+12; scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +10"
 abilityMods: [5, 5, 3, -2, 0, 2]
 ac: 21
 armorclass:
@@ -50,22 +50,22 @@ abilities_mid:
 speed: "25 feet (40 feet in Wheels Up)"
 attacks:
   - name: "Melee"
-    desc: "⬻ hookclaw +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile P]]) __Damage__ 1d4+5 slashing plus 3d6 persistent bleed"
+    desc: "⬻ hookclaw +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile P]]) __Damage__ 1d4+5 slashing plus 3d6 persistent bleed"
   - name: "Melee"
-    desc: "⬻ ridged tail +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 2d6+5 bludgeoning"
+    desc: "⬻ ridged tail +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|Sweep]]) __Damage__ 2d6+5 bludgeoning"
 abilities_bot:
   - name: "Wheels Up"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/stance|Stance]])"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Stance|Stance]])"
   - name: "Requirements"
     desc: "The hooplamander is Unfurled"
   - name: "Effect"
-    desc: "The hooplamander [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leaps]] and then rolls into its wheeled form. Any creature within 5 feet must succeed at a DC 22 Reflex save or be [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] for one round. While it's Wheels Up, the hooplamander can't make Strikes and its Speed increases to 40 feet."
+    desc: "The hooplamander [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leaps]] and then rolls into its wheeled form. Any creature within 5 feet must succeed at a DC 22 Reflex save or be [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] for one round. While it's Wheels Up, the hooplamander can't make Strikes and its Speed increases to 40 feet."
   - name: "Rollout Trample"
     desc: "⬽"
   - name: "Requirements"
     desc: "The hooplamander is Wheels Up"
   - name: "Effect"
-    desc: "As Trample (Large or smaller, ridged tail, DC 22), except targets that critically fail their Reflex save are [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]], and the hooplamander Unfurls at the end of its movement."
+    desc: "As Trample (Large or smaller, ridged tail, DC 22), except targets that critically fail their Reflex save are [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned 1]], and the hooplamander Unfurls at the end of its movement."
   - name: "Unfurl"
     desc: "⬻"
   - name: "Requirements"

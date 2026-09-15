@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 `Inventor`  `Manipulate`  `Unstable`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/innovations#Armor|armor]], [[srd/pf2e/compendium/character/innovations#Construct|construct]], or [[srd/pf2e/compendium/character/innovations#Weapon|weapon]] innovation
+- **Prerequisites**: [[srd/pf2e/compendium/character/Innovations#Armor|armor]], [[srd/pf2e/compendium/character/Innovations#Construct|construct]], or [[srd/pf2e/compendium/character/Innovations#Weapon|weapon]] innovation
 - **Trigger**: Your turn begins.
 
-You can use unstable clockwork devices in your innovation to push your invention to act more quickly. You are [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] for this turn. How you can use the extra action depends on your innovation. 
-**Armor** You can use the extra action to Step, Stride, or use another movement action granted by your innovation (such as Swim if you have the [[srd/pf2e/compendium/feats/guns-gears-remastered/class/diving-armor|Diving Armor]] feat).**Construct** You can use the extra action to Command your construct innovation (or to provide 1 of the actions if you spend 2 actions to Command your construct).**Weapon** You can use the extra action to Strike with your innovation or Reload your innovation.
+You can use unstable clockwork devices in your innovation to push your invention to act more quickly. You are [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]] for this turn. How you can use the extra action depends on your innovation. 
+**Armor** You can use the extra action to Step, Stride, or use another movement action granted by your innovation (such as Swim if you have the [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Diving Armor|Diving Armor]] feat).**Construct** You can use the extra action to Command your construct innovation (or to provide 1 of the actions if you spend 2 actions to Command your construct).**Weapon** You can use the extra action to Strike with your innovation or Reload your innovation.
 
 *Source: Guns & Gears (Remastered) p. 27*

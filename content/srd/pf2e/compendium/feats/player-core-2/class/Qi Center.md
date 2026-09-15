@@ -15,8 +15,8 @@ socialImage: og-image.png
 `Monk`
 
 - **Frequency**: once per minute
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/master-of-many-styles|Master of Many Styles]]; Qi Spells
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Master of Many Styles|Master of Many Styles]]; Qi Spells
 
-You center yourself with the universe and draw upon its vast power. You cast a single action qi spell with the [[srd/pf2e/compendium/rules-elements/traits/player-core/stance|stance]] trait, without spending a Focus Point.
+You center yourself with the universe and draw upon its vast power. You cast a single action qi spell with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Stance|stance]] trait, without spending a Focus Point.
 
 *Source: Player Core 2 p. 127*

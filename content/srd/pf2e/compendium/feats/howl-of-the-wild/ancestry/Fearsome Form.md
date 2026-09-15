@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Auditory`  `Awakened Animal`
 
-A fearsome illusion covers you, evoking the terror of the most dangerous animals. You can cast [[srd/pf2e/compendium/spells/rank-7/mask-of-terror|_mask of terror_]] as a primal innate spell once per day. You can target only yourself, and your appearance is always a monstrous version of yourself.
+A fearsome illusion covers you, evoking the terror of the most dangerous animals. You can cast [[srd/pf2e/compendium/spells/rank-7/Mask of Terror|_mask of terror_]] as a primal innate spell once per day. You can target only yourself, and your appearance is always a monstrous version of yourself.
 
 *Source: Howl of the Wild p. 27*

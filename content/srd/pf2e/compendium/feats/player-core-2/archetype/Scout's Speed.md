@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/scout|Scout]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/scout-dedication|Scout Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Scout|Scout]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Scout Dedication|Scout Dedication]]
 
-You move faster, especially when traveling, allowing you to scout out ahead and report back without slowing your allies. You gain a +10-foot status bonus to your Speed. When calculating your[[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Uneven Ground|travel speed]], this increases to a +20-foot status bonus.
+You move faster, especially when traveling, allowing you to scout out ahead and report back without slowing your allies. You gain a +10-foot status bonus to your Speed. When calculating your[[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Uneven Ground|travel speed]], this increases to a +20-foot status bonus.
 
 *Source: Player Core 2 p. 212*

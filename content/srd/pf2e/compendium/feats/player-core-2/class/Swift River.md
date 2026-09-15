@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Monk`
 
-- **Trigger**: Your turn ends and you have a status penalty to your Speed or are [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] or [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]].
+- **Trigger**: Your turn ends and you have a status penalty to your Speed or are [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] or [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]].
 
-You flow like water, avoiding all restraints. End one status penalty to your speed, or end one [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] or [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] condition affecting you.
+You flow like water, avoiding all restraints. End one status penalty to your speed, or end one [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] or [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]] condition affecting you.
 
 *Source: Player Core 2 p. 127*

@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/spiked-gauntlet|Spiked Gauntlet]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/Spiked Gauntlet|Spiked Gauntlet]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Decay|Decay]], [[srd/pf2e/compendium/character/domains#Dust|Dust]], [[srd/pf2e/compendium/character/domains#Earth|Earth]], [[srd/pf2e/compendium/character/domains#Nightmares|Nightmares]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Decay|Decay]], [[srd/pf2e/compendium/character/Domains#Dust|Dust]], [[srd/pf2e/compendium/character/Domains#Earth|Earth]], [[srd/pf2e/compendium/character/Domains#Nightmares|Nightmares]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/grease|Grease]]
+[[srd/pf2e/compendium/spells/rank-1/Grease|Grease]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/feast-of-ashes|Feast of Ashes]]
+[[srd/pf2e/compendium/spells/rank-2/Feast of Ashes|Feast of Ashes]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/acid-storm|Acid Storm]]
+[[srd/pf2e/compendium/spells/rank-5/Acid Storm|Acid Storm]]
 
 *Source: Divine Mysteries p. 300*

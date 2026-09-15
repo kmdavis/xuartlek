@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Druid
 
-At 2nd level and every even-numbered level, you gain a druid class feat.
+At 2nd level and every even-numbered level, you gain a [druid class feat](https://2e.aonprd.com/Feats.aspx?Traits=52).
 
 *Source: Player Core p. 122*

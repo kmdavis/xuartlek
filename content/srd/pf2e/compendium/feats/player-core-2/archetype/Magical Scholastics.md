@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/archaeologist|Archaeologist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/archaeologist-dedication|Archaeologist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Archaeologist|Archaeologist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Archaeologist Dedication|Archaeologist Dedication]]
 
-While study is key to your success, a bit of magic can be a helpful aid in discovering the secrets of the past. You can cast [[srd/pf2e/compendium/spells/cantrips/detect-magic|_detect magic_]], [[srd/pf2e/compendium/spells/cantrips/guidance|_guidance_]], and [[srd/pf2e/compendium/spells/cantrips/read-aura|_read aura_]] as occult innate cantrips.
+While study is key to your success, a bit of magic can be a helpful aid in discovering the secrets of the past. You can cast [[srd/pf2e/compendium/spells/cantrips/Detect Magic|_detect magic_]], [[srd/pf2e/compendium/spells/cantrips/Guidance|_guidance_]], and [[srd/pf2e/compendium/spells/cantrips/Read Aura|_read aura_]] as occult innate cantrips.
 
 ### Magical Scholastics leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/greater-magical-scholastics|Greater Magical Scholastics]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Greater Magical Scholastics|Greater Magical Scholastics]]
 
 *Source: Player Core 2 p. 184*

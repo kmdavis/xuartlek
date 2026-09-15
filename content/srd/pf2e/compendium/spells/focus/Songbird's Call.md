@@ -23,7 +23,7 @@ socialImage: og-image.png
 - **Defense**: basic Reflex
 - **Duration**: sustained up to 1 minute
 
-Your voice calls a storm of songbirds that whirl around you and peck at your enemies. All creatures within the area of whirling birds become [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], and all creatures outside the area become concealed to creatures within it. A creature other than you that enters or ends its turn in the area takes 1d6 piercing damage as the birds peck at it.
+Your voice calls a storm of songbirds that whirl around you and peck at your enemies. All creatures within the area of whirling birds become [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]], and all creatures outside the area become concealed to creatures within it. A creature other than you that enters or ends its turn in the area takes 1d6 piercing damage as the birds peck at it.
 
 ---
 **Heightened (+2)** The damage increases by 1d6.

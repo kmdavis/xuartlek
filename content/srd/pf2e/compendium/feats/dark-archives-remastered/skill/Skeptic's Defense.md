@@ -17,11 +17,11 @@ socialImage: og-image.png
 `General`  `Skill`  `Uncommon`
 
 - **Frequency**: one per day
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
-- **Trigger**: You are targeted by or are in the area of a [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] spell or effect.
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
+- **Trigger**: You are targeted by or are in the area of a [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] spell or effect.
 
-You don't believe in any mental twaddle, and you're certainly not afraid of it. You scoff and verbally refute the triggering effect, attempting a counteract check using your [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] modifier with a counteract rank of half your level rounded up. If you succeed, you ignore the triggering effect, though any other creatures that were also targeted or in the area are still affected.
+You don't believe in any mental twaddle, and you're certainly not afraid of it. You scoff and verbally refute the triggering effect, attempting a counteract check using your [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] modifier with a counteract rank of half your level rounded up. If you succeed, you ignore the triggering effect, though any other creatures that were also targeted or in the area are still affected.
 
- If the source of the effect you successfully counteracted has an Intelligence modifier of –3 or higher, that creature becomes [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] for 1 round. This is an auditory linguistic effect.
+ If the source of the effect you successfully counteracted has an Intelligence modifier of –3 or higher, that creature becomes [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] for 1 round. This is an auditory linguistic effect.
 
 *Source: Dark Archives (Remastered) p. 79*

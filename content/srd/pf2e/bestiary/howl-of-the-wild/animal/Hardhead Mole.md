@@ -28,7 +28,7 @@ perception:
     desc: "+6; low-light vision, tremorsense (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +5, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +6"
 abilityMods: [2, 3, 3, -4, 2, 0]
 ac: 15
 armorclass:
@@ -40,7 +40,7 @@ health:
     desc: "20; __Resistances__ bludgeoning 3"
 abilities_mid:
   - name: "Burrowing Retreat"
-    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]])"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]])"
   - name: "Trigger"
     desc: "The hardhead mole is hit by a Strike"
   - name: "Effect"
@@ -51,9 +51,9 @@ attacks:
     desc: "⬻ jaws +4 __Damage__ 1d6+2 piercing"
 abilities_bot:
   - name: "Shovel Earth"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) The hardhead mole leaves a burrow hole in its square or an adjacent square. The square becomes difficult terrain but can be flattened back into normal terrain with an Interact action."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|Manipulate]]) The hardhead mole leaves a burrow hole in its square or an adjacent square. The square becomes difficult terrain but can be flattened back into normal terrain with an Interact action."
   - name: "Unbalancing Burrow"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]]) The hardhead mole Burrows up to 20 feet in a straight line, displacing the earth on the surface. Any creature it passes through takes 1d6 bludgeoning damage (DC 14 basic Reflex save). On a failed save, a creature is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. This creates a burrow hole at the beginning and end of the line."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Move|Move]]) The hardhead mole Burrows up to 20 feet in a straight line, displacing the earth on the surface. Any creature it passes through takes 1d6 bludgeoning damage (DC 14 basic Reflex save). On a failed save, a creature is knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]. This creates a burrow hole at the beginning and end of the line."
 sourcebook: "_Howl of the Wild_, page 158."
 ```
 

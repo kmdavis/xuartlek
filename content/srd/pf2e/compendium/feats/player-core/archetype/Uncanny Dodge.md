@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/rogue|Rogue]], Shadowdancer (Level 10)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/rogue-dedication|Rogue Dedication]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Rogue|Rogue]], Shadowdancer (Level 10)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Rogue Dedication|Rogue Dedication]]
 
-You gain the [[srd/pf2e/compendium/character/classes/rogue|deny advantage]] class feature.
+You gain the [[srd/pf2e/compendium/character/classes/Rogue|deny advantage]] class feature.
 
 *Source: Player Core p. 221*

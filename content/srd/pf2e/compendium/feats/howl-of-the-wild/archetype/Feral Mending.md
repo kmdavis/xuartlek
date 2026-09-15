@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Archetype`  `Healing`  `Primal`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/werecreature|Werecreature]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Werecreature|Werecreature]]
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/werecreature-dedication|Werecreature Dedication]]; you were not afflicted with the curse of the werecreature
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Werecreature Dedication|Werecreature Dedication]]; you were not afflicted with the curse of the werecreature
 - **Requirements**: Your previous action was to Change Shape.
 
 You can heal your wounds while reshaping your flesh. You regain 1d6 Hit Points for every 2 levels you have (minimum 1d6).

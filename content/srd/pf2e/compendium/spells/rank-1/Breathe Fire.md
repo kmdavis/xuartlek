@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/dwarven-gods/angradd|Angradd]], [[srd/pf2e/compendium/deities/qlippoth-lords/chavazvug|Chavazvug]], Chohar, Dahak, Lady Nanbyo, [[srd/pf2e/compendium/deities/covenants/light-of-the-everlasting-flame|Light of the Everlasting Flame]], [[srd/pf2e/compendium/deities/orc-gods/mahja-firehair|Mahja Firehair]], Moloch, Nephthys, [[srd/pf2e/compendium/deities/demon-lords/nurgal|Nurgal]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/ra|Ra]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/rovagug|Rovagug]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], [[srd/pf2e/compendium/deities/apocalypse-riders/szuriel|Szuriel]], Walkena, [[srd/pf2e/compendium/deities/elemental-lords/ymeri|Ymeri]], [[srd/pf2e/compendium/deities/daemon-harbingers/zelishkar|Zelishkar]], [[srd/pf2e/compendium/deities/giant-gods/zursvaater|Zursvaater]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/dwarven-gods/Angradd|Angradd]], [[srd/pf2e/compendium/deities/qlippoth-lords/Chavazvug|Chavazvug]], Chohar, Dahak, Lady Nanbyo, [[srd/pf2e/compendium/deities/covenants/Light of the Everlasting Flame|Light of the Everlasting Flame]], [[srd/pf2e/compendium/deities/orc-gods/Mahja Firehair|Mahja Firehair]], Moloch, Nephthys, [[srd/pf2e/compendium/deities/demon-lords/Nurgal|Nurgal]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/Ra|Ra]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Rovagug|Rovagug]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Sarenrae|Sarenrae]], [[srd/pf2e/compendium/deities/apocalypse-riders/Szuriel|Szuriel]], Walkena, [[srd/pf2e/compendium/deities/elemental-lords/Ymeri|Ymeri]], [[srd/pf2e/compendium/deities/daemon-harbingers/Zelishkar|Zelishkar]], [[srd/pf2e/compendium/deities/giant-gods/Zursvaater|Zursvaater]]
 - **Area**: 15-foot cone
 - **Defense**: basic Reflex
 

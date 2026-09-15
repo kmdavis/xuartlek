@@ -10,7 +10,7 @@ socialImage: og-image.png
 
 # Mythic Striker  *Creature Adjustment*
 
-Add the listed [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-monster-templates#Basic Mythic Abilities|mythic abilities]] up to the creature's level.
+Add the listed [[srd/pf2e/books/war-of-immortals/mythic-rules/Mythic Monster Templates#Basic Mythic Abilities|mythic abilities]] up to the creature's level.
 
  Mythic strikers focus on dealing out damage in one or two big swings and then moving out of direct melee.
 
@@ -21,6 +21,6 @@ Add the listed [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-monster-tem
 
 ### Shadows And Teamwork
 
- Mythic strikers dart in and out of battle, but have a difficult time defending themselves. They often need allies to improve their defenses, heal them, or draw the attention of their foes. Mythic strikers designed from the ground up, instead of by applying the template to an existing creature, are typically built using the magical striker or skirmisher [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures|base road maps]].
+ Mythic strikers dart in and out of battle, but have a difficult time defending themselves. They often need allies to improve their defenses, heal them, or draw the attention of their foes. Mythic strikers designed from the ground up, instead of by applying the template to an existing creature, are typically built using the magical striker or skirmisher [[srd/pf2e/books/gm-core/chapter-2-building-games/Building Creatures|base road maps]].
 
 *Source: War of Immortals p. 169*

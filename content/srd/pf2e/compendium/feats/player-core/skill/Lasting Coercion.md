@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
 When you successfully Coerce someone, the maximum time they comply increases to a week, still determined by the GM. If you’re legendary, the maximum increases to a month.
 

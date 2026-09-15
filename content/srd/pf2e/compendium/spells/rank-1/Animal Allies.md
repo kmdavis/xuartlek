@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Tradition**: Primal
-- **Deities**: [[srd/pf2e/compendium/deities/giant-gods/tjasse|Tjasse]], [[srd/pf2e/compendium/deities/daemon-harbingers/tresmalvos|Tresmalvos]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/yig|Yig]]
-- **Area**: 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/giant-gods/Tjasse|Tjasse]], [[srd/pf2e/compendium/deities/daemon-harbingers/Tresmalvos|Tresmalvos]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Yig|Yig]]
+- **Area**: 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]]
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex
 
 You summon tiny, ordinary animals from the environment, such as insects, birds, or fish, to quickly lash out at nearby foes. The animals swarm around the creatures in the area, dealing 3d4 piercing damage to each creature with a basic Reflex save.
 

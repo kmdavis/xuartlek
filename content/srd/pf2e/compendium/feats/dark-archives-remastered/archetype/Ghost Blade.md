@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/mind-smith|Mind Smith]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Mind Smith|Mind Smith]]
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/mind-smith-dedication|Mind Smith Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Mind Smith Dedication|Mind Smith Dedication]]
 
-You alter your weapon's phase so it can more easily strike incorporeal creatures. Your mind weapon gains the effects of a [[srd/pf2e/compendium/equipment/runes/ghost-touch|ghost touch]] property rune for 1 minute.
+You alter your weapon's phase so it can more easily strike incorporeal creatures. Your mind weapon gains the effects of a [[srd/pf2e/compendium/equipment/runes/Ghost Touch|ghost touch]] property rune for 1 minute.
 
 *Source: Dark Archives (Remastered) p. 205*

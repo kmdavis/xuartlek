@@ -28,14 +28,14 @@ modifier: 25
 perception:
   - name: "Perception"
     desc: "+25"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +25, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +25, [[srd/pf2e/compendium/rules-elements/skills/lore|Martial Arts Lore]] +22, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +20"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +25, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +25, [[srd/pf2e/compendium/rules-elements/skills/Lore|Martial Arts Lore]] +22, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +20"
 abilityMods: [5, 4, 3, 1, 3, 0]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows|handwraps of mighty blows]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/club/bo-staff|bo staff]]_, _[[srd/pf2e/compendium/equipment/worn-items/bands-of-force|bands of force]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/Striking|striking]] [[srd/pf2e/compendium/equipment/worn-items/Handwraps of Mighty Blows|handwraps of mighty blows]]_, _+1 [[srd/pf2e/compendium/equipment/runes/Striking|striking]] [[srd/pf2e/compendium/equipment/weapons/club/Bo Staff|bo staff]]_, _[[srd/pf2e/compendium/equipment/worn-items/Bands of Force|bands of force]]_"
 ac: 32
 armorclass:
   - name: "AC"
@@ -54,9 +54,9 @@ abilities_mid:
 speed: "40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _bo staff_ +25 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/parry|Parry]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|Reach]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 2d8+9 bludgeoning"
+    desc: "⬻ _bo staff_ +25 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Parry|Parry]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|Reach]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip|Trip]]) __Damage__ 2d8+9 bludgeoning"
   - name: "Melee"
-    desc: "⬻ _fist_ +25 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 2d8+9 bludgeoning"
+    desc: "⬻ _fist_ +25 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 2d8+9 bludgeoning"
 abilities_bot:
   - name: "Flurry of Blows"
     desc: "⬻"
@@ -67,10 +67,10 @@ abilities_bot:
   - name: "Powerful Fists"
     desc: "The martial artist's fist Strikes don't take penalties when making lethal attacks, and their fist Strikes are treated as cold iron and silver."
   - name: "Rapid Barrage"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]]) The black belt pummels their fists in a fast onslaught. They make three fist Strikes against one target. If more than one Strike hits, combine damage for the purpose of resistances and weaknesses. Regardless of whether any Strikes hit, the target must succeed at a DC 32 Fortitude save or be [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]] until the end of their next turn and stunned 1 (clumsy 2 and [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 2]] on a critical failure)."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|Incapacitation]]) The black belt pummels their fists in a fast onslaught. They make three fist Strikes against one target. If more than one Strike hits, combine damage for the purpose of resistances and weaknesses. Regardless of whether any Strikes hit, the target must succeed at a DC 32 Fortitude save or be [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy 1]] until the end of their next turn and stunned 1 (clumsy 2 and [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned 2]] on a critical failure)."
 spellcasting:
   - name: "Monk Focus Spells"
-    desc: "DC 32, attack +23, 2 Focus Points - __6th__ [[srd/pf2e/compendium/spells/focus/inner-upheaval|Inner Upheaval]], [[srd/pf2e/compendium/spells/focus/qi-rush|Qi Rush]]"
+    desc: "DC 32, attack +23, 2 Focus Points - __6th__ [[srd/pf2e/compendium/spells/focus/Inner Upheaval|Inner Upheaval]], [[srd/pf2e/compendium/spells/focus/Qi Rush|Qi Rush]]"
 sourcebook: "_NPC Core_, page 73."
 ```
 

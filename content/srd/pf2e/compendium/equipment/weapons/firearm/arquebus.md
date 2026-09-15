@@ -27,10 +27,10 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Firearm
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
-This is a long rifle that offers more range than the average firearm, though the long barrel and ferocious kickback make the weapon particularly unsteady unless a [[srd/pf2e/compendium/equipment/adventuring-gear/tripod|tripod]] or other stand is used to stabilize it.
+This is a long rifle that offers more range than the average firearm, though the long barrel and ferocious kickback make the weapon particularly unsteady unless a [[srd/pf2e/compendium/equipment/adventuring-gear/Tripod|tripod]] or other stand is used to stabilize it.
 
 ### Critical Specialization Effects
 

@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Archetype`  `Fortune`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/archaeologist|Archaeologist]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Archaeologist|Archaeologist]]
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/archaeologist-dedication|Archaeologist Dedication]]
-- **Trigger**: You fail a check against a trap, such as a [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Disable a Device|Disable]] the trap or a Reflex save to avoid its effects.
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Archaeologist Dedication|Archaeologist Dedication]]
+- **Trigger**: You fail a check against a trap, such as a [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Disable a Device|Disable]] the trap or a Reflex save to avoid its effects.
 
 You are more than just skillful; your drive to find the secrets of the past manifests as a strange kind of luck. Reroll the failed check and use the new result.
 

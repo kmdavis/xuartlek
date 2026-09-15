@@ -18,8 +18,8 @@ socialImage: og-image.png
 `Concentrate`  `Fortune`  `Mental`  `Reflection`
 
 - **Frequency**: once per minute
-- **Trigger**: You're about to attempt a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effect.
+- **Trigger**: You're about to attempt a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effect.
 
-You feel a strong connection with your progenitor and can convince yourself an effect targeting your mind was meant for theirs instead, allowing you to shrug off harmful effects. Roll the saving throw twice, and take the higher result. However, subsuming your identity is disturbing, and you're [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1.
+You feel a strong connection with your progenitor and can convince yourself an effect targeting your mind was meant for theirs instead, allowing you to shrug off harmful effects. Roll the saving throw twice, and take the higher result. However, subsuming your identity is disturbing, and you're [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] 1.
 
 *Source: Dark Archives (Remastered) p. 120*

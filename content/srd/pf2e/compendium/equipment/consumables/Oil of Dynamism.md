@@ -18,10 +18,10 @@ socialImage: og-image.png
 `Consumable`  `Magical`  `Oil`  `Uncommon`
 
 - **Usage**: held in 2 hands
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-This fine golden oil comes in a small blue canister. Carefully spreading the oil over an object turns it into an [[srd/pf2e/compendium/gm/creature-families/animated-object|animated object]] of the same type. For example, sprinkling it on a statue makes an animated statue. If the animated object's level would be greater than 3, the oil struggles to animate it and ultimately fails. 
-This animated object has the [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]] trait, meaning it can use 2 actions when you Command it. You can issue a Command for the current turn as part of the activation. The object remains animated for 1 minute before falling inert. As usual, you can have a maximum of four minions under your control.
+This fine golden oil comes in a small blue canister. Carefully spreading the oil over an object turns it into an [[srd/pf2e/compendium/gm/creature-families/Animated Object|animated object]] of the same type. For example, sprinkling it on a statue makes an animated statue. If the animated object's level would be greater than 3, the oil struggles to animate it and ultimately fails. 
+This animated object has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Minion|minion]] trait, meaning it can use 2 actions when you Command it. You can issue a Command for the current turn as part of the activation. The object remains animated for 1 minute before falling inert. As usual, you can have a maximum of four minions under your control.
 
 ### Oil of Dynamism
 

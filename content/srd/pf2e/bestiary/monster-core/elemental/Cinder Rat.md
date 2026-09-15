@@ -30,11 +30,11 @@ perception:
     desc: "+9; darkvision, smoke vision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +10, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +9"
 abilityMods: [2, 3, 2, -4, 2, 0]
 abilities_top:
   - name: "Smoke Vision"
-    desc: "The cinder rat ignores the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition from smoke."
+    desc: "The cinder rat ignores the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition from smoke."
 ac: 18
 armorclass:
   - name: "AC"
@@ -42,14 +42,14 @@ armorclass:
 hp: 45
 health:
   - name: "HP"
-    desc: "45; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] 5"
+    desc: "45; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/Water|water]] 5"
 abilities_mid:
   - name: "Fetid Fumes"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]) 5 feet. A creature that enters the aura or begins its turn there must succeed at a DC 22 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]]. Everything within the aura, including the cinder rat, is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] by smoke."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]]) 5 feet. A creature that enters the aura or begins its turn there must succeed at a DC 22 Fortitude save or become [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened 1]]. Everything within the aura, including the cinder rat, is [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] by smoke."
 speed: "40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d8+4 fire plus 1d4 persistent fire"
+    desc: "⬻ jaws +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]]) __Damage__ 1d8+4 fire plus 1d4 persistent fire"
 sourcebook: "_Monster Core_, page 144."
 ```
 

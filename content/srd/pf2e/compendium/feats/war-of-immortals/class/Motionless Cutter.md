@@ -15,8 +15,10 @@ socialImage: og-image.png
 
 `Exemplar`  `Ikon`
 
+- **Usage**: imbued into a melee weapon ikon that deals slashing damage
+
 Your weapon is so sharp even an insect alighting upon its still blade would be severed. Your weapon ikon gains the following ability.
 
-**Transcendence—Sever Four Dragonfly Wings** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (transcendence) Make a Strike that deals slashing damage with your weapon ikon. If that Strike is successful, you can immediately make an additional Strike against a different target within your reach. You can continue making Strikes in this manner, each against a different target, until you have made a total of four Strikes or you miss with a Strike, whichever comes first. Each attack counts toward your multiple attack penalty, but you do not increase your penalty until you have made all your attacks.
+**Transcendence—Sever Four Dragonfly Wings** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/war-of-immortals/Transcendence|transcendence]]) Make a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] that deals slashing damage with your weapon ikon. If that Strike is successful, you can immediately make an additional Strike against a different target within your reach. You can continue making Strikes in this manner, each against a different target, until you have made a total of four Strikes or you miss with a Strike, whichever comes first. Each attack counts toward your multiple attack penalty, but you do not increase your penalty until you have made all your attacks.
 
 *Source: War of Immortals p. 37*

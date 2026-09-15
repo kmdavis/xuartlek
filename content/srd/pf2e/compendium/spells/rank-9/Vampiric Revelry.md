@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Death`  `Manipulate`  `Void`  `Negative`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Area**: varies
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Fortitude
 
 You steal the blood and life force of other creatures around you and sometimes share their energies with your allies. You deal 12d6 void damage to living enemies in the area with a basic Fortitude save. The number of actions you spend when Casting this Spell determines the area and other parameters. You gain temporary Hit Points equal to half the damage a single creature takes from this spell; calculate these temporary Hit Points using the creature that took the most damage. Any temporary Hit Points gained through this spell are lost after 1 minute.
 [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") The spell is a 20-foot emanation.

@@ -18,6 +18,6 @@ socialImage: og-image.png
 
 Your eye has been magically enhanced to pierce darkness. You gain darkvision.
 
-**Enhancement** Your eye can see [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] creatures in brief spurts. You can cast _see invisibility_ as an arcane innate spell once per hour.
+**Enhancement** Your eye can see [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]] creatures in brief spurts. You can cast _see invisibility_ as an arcane innate spell once per hour.
 
 *Source: Guns & Gears (Remastered) p. 40*

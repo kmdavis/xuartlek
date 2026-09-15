@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/dual-weapon-warrior|Dual-Weapon Warrior]], [[srd/pf2e/compendium/character/archetypes/crossbow-infiltrator|Crossbow Infiltrator]] (Level 6)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/dual-weapon-warrior-dedication|Dual-Weapon Warrior Dedication]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Dual-Weapon Warrior|Dual-Weapon Warrior]], [[srd/pf2e/compendium/character/archetypes/Crossbow Infiltrator|Crossbow Infiltrator]] (Level 6)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Dual-Weapon Warrior Dedication|Dual-Weapon Warrior Dedication]]
 
 You carry your ammunition in a way that allows you to reload while holding two weapons. While you're wielding two one-handed weapons, each in a different hand, you don't need a free hand to reload a one-handed ranged weapon you're wielding.
 

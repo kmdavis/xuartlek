@@ -1,6 +1,7 @@
 ---
 title: "Relationships and Advancement"
 aliases: ["Relationships and Advancement"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3397"
 citation: "NPC Core pg. 226"
-socialImage: og-image.png
 ---
 
 # Relationships and Advancement
@@ -22,10 +22,10 @@ Building NPC relationships is particularly appropriate for campaign-long arcs. I
 
 This chapter includes the following sections:
 
-- **[[srd/pf2e/books/npc-core/relationships-and-advancement/connection-subsystem|Connection Subsystem]]** tracks individual NPCs' relationships with the PCs as they gain favor or disfavor through their actions.
-- **[[srd/pf2e/books/npc-core/relationships-and-advancement/npc-advancement|NPC Advancement]]** provides advice and tools to advance NPCs alongside the PCs, so that reoccurring characters provide meaningful aid or threats throughout a multilevel campaign.
+- **[[srd/pf2e/books/npc-core/relationships-and-advancement/Connection Subsystem|Connection Subsystem]]** tracks individual NPCs' relationships with the PCs as they gain favor or disfavor through their actions.
+- **[[srd/pf2e/books/npc-core/relationships-and-advancement/NPC Advancement|NPC Advancement]]** provides advice and tools to advance NPCs alongside the PCs, so that reoccurring characters provide meaningful aid or threats throughout a multilevel campaign.
 
 ## Contents
 
-- [[srd/pf2e/books/npc-core/relationships-and-advancement/connection-subsystem|Connection Subsystem]]
-- [[srd/pf2e/books/npc-core/relationships-and-advancement/npc-advancement|NPC Advancement]]
+- [[srd/pf2e/books/npc-core/relationships-and-advancement/Connection Subsystem|Connection Subsystem]]
+- [[srd/pf2e/books/npc-core/relationships-and-advancement/NPC Advancement|NPC Advancement]]

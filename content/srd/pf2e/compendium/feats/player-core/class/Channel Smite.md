@@ -23,6 +23,6 @@ The spell is expended with no effect if your Strike fails or hits a creature tha
 
 ### Channel Smite leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/rebounding-smite|Rebounding Smite]]
+[[srd/pf2e/compendium/feats/player-core/class/Rebounding Smite|Rebounding Smite]]
 
 *Source: Player Core p. 116*

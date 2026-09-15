@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Dhampir`
 
-A creature with this trait has the [[srd/pf2e/compendium/character/versatile-heritages/dhampir|dhampir]] [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/versatile-heritages|versatile heritage]]. These humanoids are the offspring of [[srd/pf2e/compendium/gm/creature-families/vampire|vampires]] and members of other ancestries.
+A creature with this trait has the [[srd/pf2e/compendium/character/versatile-heritages/Dhampir|dhampir]] [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/Versatile Heritages|versatile heritage]]. These humanoids are the offspring of [[srd/pf2e/compendium/gm/creature-families/Vampire|vampires]] and members of other ancestries.
 
 *Source: Player Core 2 p. 316*

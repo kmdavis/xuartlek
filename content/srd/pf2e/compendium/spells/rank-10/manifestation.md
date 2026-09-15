@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 
 You spin secrets from the fundaments of magic, shaping them into a power with nearly unlimited potential. You duplicate a spell of 9th rank or lower of the tradition from which you cast manifestation, or a spell of 7th rank or lower from any tradition. Though you can normally choose only spells that are common or to which you have access, the GM might allow broader options.
 

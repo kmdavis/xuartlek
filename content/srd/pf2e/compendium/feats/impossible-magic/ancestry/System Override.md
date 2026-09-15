@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Automaton`
 
-When someone takes control of your consciousness or your body, you innately resist their domination with everything you have. At the beginning of your turn, if you have the [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]] condition, you must attempt a DC 11 flat check. On a success, you ignore the controlled condition for 1 round.
+When someone takes control of your consciousness or your body, you innately resist their domination with everything you have. At the beginning of your turn, if you have the [[srd/pf2e/compendium/rules-elements/Conditions#Controlled|controlled]] condition, you must attempt a DC 11 flat check. On a success, you ignore the controlled condition for 1 round.
 
 *Source: Impossible Magic p. 111*

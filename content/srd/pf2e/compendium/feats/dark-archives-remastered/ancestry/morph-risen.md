@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Lineage`  `Reflection`
 
-You were once a shapeshifter or spellcaster using polymorph magic, but something went wrong, and you became trapped in the form of the creature you were imitating. This accident might have drained your power, or you might have retained some of your skills, but either way, your form resists further forced transformation. You gain a +1 circumstance bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/morph|morph]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] effects, and if you roll a success on a saving throw against a hostile morph or polymorph effect, you get a critical success instead.
+You were once a shapeshifter or spellcaster using polymorph magic, but something went wrong, and you became trapped in the form of the creature you were imitating. This accident might have drained your power, or you might have retained some of your skills, but either way, your form resists further forced transformation. You gain a +1 circumstance bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/Morph|morph]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]] effects, and if you roll a success on a saving throw against a hostile morph or polymorph effect, you get a critical success instead.
 
 ### Morph-Risen leads to...
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/ancestry/warp-likeness|Warp Likeness]]
+[[srd/pf2e/compendium/feats/dark-archives-remastered/ancestry/Warp Likeness|Warp Likeness]]
 
 *Source: Dark Archives (Remastered) p. 120*

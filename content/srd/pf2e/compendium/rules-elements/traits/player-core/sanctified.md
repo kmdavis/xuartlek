@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Sanctified`
 
-If you are [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]], your sanctified actions and spells gain the same trait.
+If you are [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]], your sanctified actions and spells gain the same trait.
 
 *Source: Player Core p. 113*

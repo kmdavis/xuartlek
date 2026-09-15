@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/rogue|Rogue]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/rogue-dedication|Rogue Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Rogue|Rogue]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Rogue Dedication|Rogue Dedication]]
 
-You gain a 1st- or 2nd-level rogue feat.
+You gain a 1st- or 2nd-level [rogue feat](https://2e.aonprd.com/Feats.aspx?Traits=139).
 
 ### Basic Trickery leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/advanced-trickery|Advanced Trickery]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Advanced Trickery|Advanced Trickery]]
 
 *Source: Player Core p. 221*

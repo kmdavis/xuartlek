@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Ratfolk`
 
-You call upon the familial bonds you share with your allies and other ratfolk to become an overwhelming force in battle. You can cast [[srd/pf2e/compendium/spells/rank-2/enlarge|_enlarge_]] as a 6th-rank primal innate spell once per day.
+You call upon the familial bonds you share with your allies and other ratfolk to become an overwhelming force in battle. You can cast [[srd/pf2e/compendium/spells/rank-2/Enlarge|_enlarge_]] as a 6th-rank primal innate spell once per day.
 
 *Source: Player Core 2 p. 33*

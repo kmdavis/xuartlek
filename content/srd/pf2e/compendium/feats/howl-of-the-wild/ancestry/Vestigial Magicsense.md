@@ -18,6 +18,6 @@ While most surkis' ability to taste magic fades once they metamorphose into thei
 
 ### Vestigial Magicsense leads to...
 
-[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/magitaxis|Magitaxis]]
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Magitaxis|Magitaxis]]
 
 *Source: Howl of the Wild p. 50*

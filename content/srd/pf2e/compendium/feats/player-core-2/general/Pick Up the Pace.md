@@ -20,6 +20,6 @@ You lead by example and can help others push themselves beyond their normal limi
 
 ### Pick Up the Pace leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/general/caravan-leader|Caravan Leader]]
+[[srd/pf2e/compendium/feats/player-core-2/general/Caravan Leader|Caravan Leader]]
 
 *Source: Player Core 2 p. 232*

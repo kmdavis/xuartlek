@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/overwatch|Overwatch]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/overwatch-dedication|Overwatch Dedication]]; master in Perception
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Overwatch|Overwatch]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Overwatch Dedication|Overwatch Dedication]]; master in Perception
 - **Trigger**: You make a successful ranged attack against an opponent who is within your overwatch field, and who is within reach of one or more of your allies who is also within your overwatch field.
 
 Informing your ally of an opening created by your shot, you coordinate to set them up to hit the target at the same time. Your ally can make a melee Strike against the triggering foe as a reaction. This Strike doesn't count toward that ally's multiple attack penalty, and their multiple attack penalty doesn't apply to this Strike. If your ally's Strike is successful, combine the damage from your successful ranged attack with the damage from your ally's melee attack for the purpose of determining resistances and weaknesses.

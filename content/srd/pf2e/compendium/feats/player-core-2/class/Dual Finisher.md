@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 - **Requirements**: You wield two melee weapons, one in each hand.
 
-You split your attacks. Make two melee Strikes, one with each required weapon, each against a different foe. If the second Strike is made with a non-[[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] weapon, it takes a –2 penalty. Increase your multiple attack penalty only after attempting both Strikes.
+You split your attacks. Make two melee Strikes, one with each required weapon, each against a different foe. If the second Strike is made with a non-[[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]] weapon, it takes a –2 penalty. Increase your multiple attack penalty only after attempting both Strikes.
 
 *Source: Player Core 2 p. 167*

@@ -28,14 +28,14 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +5, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +5, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +7, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +5, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +5, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +7, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +4"
 abilityMods: [1, 2, -1, 1, 4, 2]
 abilities_top:
   - name: "Items"
-    desc: "Crossbow (10 bolts), Longsword, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]], [[srd/pf2e/compendium/equipment/adventuring-gear/religious-text|religious text]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]]"
+    desc: "Crossbow (10 bolts), Longsword, [[srd/pf2e/compendium/equipment/adventuring-gear/Religious Symbol|religious symbol]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Iomedae|Iomedae]], [[srd/pf2e/compendium/equipment/adventuring-gear/Religious Text|religious text]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Iomedae|Iomedae]]"
 ac: 15
 armorclass:
   - name: "AC"
@@ -47,14 +47,14 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ longsword +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile P]]) __Damage__ 1d8+1 slashing"
+    desc: "⬻ longsword +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile P]]) __Damage__ 1d8+1 slashing"
   - name: "Melee"
-    desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+1 bludgeoning"
+    desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+1 bludgeoning"
   - name: "Ranged"
     desc: "⬻ crossbow +7 (range increment 120 feet, reload 1) __Damage__ 1d8 piercing"
 spellcasting:
   - name: "Divine Prepared Spells"
-    desc: "DC 17, attack +9 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/read-aura|Read Aura]], [[srd/pf2e/compendium/spells/cantrips/shield|Shield]], [[srd/pf2e/compendium/spells/cantrips/void-warp|Void Warp]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/heal|Heal]] (×4), [[srd/pf2e/compendium/spells/rank-1/sanctuary|Sanctuary]], [[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]] __Cleric Domain Spells 1 Focus Point,__ DC 17 - __1st__ [[srd/pf2e/compendium/spells/focus/weapon-surge|Weapon Surge]]"
+    desc: "DC 17, attack +9 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/Light|Light]], [[srd/pf2e/compendium/spells/cantrips/Read Aura|Read Aura]], [[srd/pf2e/compendium/spells/cantrips/Shield|Shield]], [[srd/pf2e/compendium/spells/cantrips/Void Warp|Void Warp]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Heal|Heal]] (×4), [[srd/pf2e/compendium/spells/rank-1/Sanctuary|Sanctuary]], [[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]] __Cleric Domain Spells 1 Focus Point,__ DC 17 - __1st__ [[srd/pf2e/compendium/spells/focus/Weapon Surge|Weapon Surge]]"
 sourcebook: "_NPC Core_, page 29."
 ```
 

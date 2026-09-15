@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/beastmaster|Beastmaster]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Beastmaster|Beastmaster]]
 - **Prerequisites**: Beastmaster Dedication
 
 You've worked to sharpen your companions' instincts to supernatural levels. When one of your companions rolls a success on a saving throw, it gets a critical success instead.

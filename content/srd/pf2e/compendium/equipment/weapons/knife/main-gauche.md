@@ -18,14 +18,14 @@ socialImage: og-image.png
 
 `Agile`  `Disarm`  `Finesse`  `Parry`  `Versatile`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/sturovenen|Sturovenen]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/Sturovenen|Sturovenen]]
 - **Price**: 5 sp
 - **Damage**: 1d4 P
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Knife
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Knife|Knife]]
 
 This parrying dagger features a robust guard to protect the wielder's hand.
 
@@ -35,6 +35,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/spellguard-blade|Spellguard Blade]]
+[[srd/pf2e/compendium/equipment/weapons/Spellguard Blade|Spellguard Blade]]
 
 *Source: Player Core p. 278*

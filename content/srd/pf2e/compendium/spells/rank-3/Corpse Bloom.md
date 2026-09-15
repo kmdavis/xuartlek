@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Poison`
 
-- **Tradition**: Primal
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 60 feet
-- **Area**: three 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|bursts]] that don’t overlap
+- **Area**: three 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|bursts]] that don’t overlap
 - **Defense**: Fortitude
 - **Duration**: 1 minute
 
@@ -26,7 +26,7 @@ You conjure three deadly clusters of flesh-devouring fungi. Whenever a creature 
 
 **Critical Success** The target is unaffected.
 
-**Success** The target takes half damage and becomes [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]].
+**Success** The target takes half damage and becomes [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened 1]].
 
 **Failure** The target takes full damage and becomes sickened 1.
 

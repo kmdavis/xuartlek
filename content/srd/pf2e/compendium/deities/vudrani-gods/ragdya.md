@@ -24,23 +24,23 @@ Dexterity or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/mace|Mace]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Mace|Mace]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Air|Air]], [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Perfection|Perfection]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Air|Air]], [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Perfection|Perfection]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Family|Family]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Family|Family]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/shockwave|Shockwave]]
+[[srd/pf2e/compendium/spells/rank-1/Shockwave|Shockwave]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/mad-monkeys|Mad Monkeys]]
+[[srd/pf2e/compendium/spells/rank-3/Mad Monkeys|Mad Monkeys]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/vapor-form|Vapor Form]]
+[[srd/pf2e/compendium/spells/rank-4/Vapor Form|Vapor Form]]
 
 *Source: Divine Mysteries p. 322*

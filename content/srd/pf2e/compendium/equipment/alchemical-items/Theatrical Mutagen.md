@@ -20,13 +20,13 @@ socialImage: og-image.png
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 Developed and widely used by students at the Kitharodian Academy in Oppara, the theatrical mutagen stimulates the creative centers of your brain. This causes your movements to become exaggerated and your voice to become clear. However, the erratic surges of inspiration overload your senses, making it difficult to focus on mundane tasks.
 
- **Benefit** You gain the listed item bonus to [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] checks, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] checks, and [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks. If you're untrained in any of these skills, your proficiency bonus is equal to your level instead of +0. You also gain the listed status bonus to your Speed.
+ **Benefit** You gain the listed item bonus to [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] checks, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] checks, and [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] checks. If you're untrained in any of these skills, your proficiency bonus is equal to your level instead of +0. You also gain the listed status bonus to your Speed.
 
- **Drawback** You take a –1 penalty to Perception checks and Will saves. After any round where you don't spend at least 1 action to Interact with an object, Perform, Step, or Stride, you're [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the start of your next turn.
+ **Drawback** You take a –1 penalty to Perception checks and Will saves. After any round where you don't spend at least 1 action to Interact with an object, Perform, Step, or Stride, you're [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] until the start of your next turn.
 
 ### Theatrical Mutagen (Lesser)
 

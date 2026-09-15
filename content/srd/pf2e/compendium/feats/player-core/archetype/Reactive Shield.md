@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Fighter`  `Guardian`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/viking|Viking]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Viking|Viking]] (Level 4)
 - **Trigger**: An enemy hits you with a melee Strike
 - **Requirements**: You are wielding a shield
 

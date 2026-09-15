@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Ratfolk`
 
 - **Frequency**: once per round
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/cheek-pouches|Cheek Pouches]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Cheek Pouches|Cheek Pouches]]
 
 You Interact to store one item you're holding in your cheek pouches (provided it fits).
 

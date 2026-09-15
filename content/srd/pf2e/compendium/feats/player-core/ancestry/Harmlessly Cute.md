@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Leshy`
 
-Your size and demeanor make it easy for you to convince others that you mean no harm. You gain the Shameless Request skill feat. Additionally, you gain a +1 circumstance bonus to initiative checks when you roll [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] for initiative.
+Your size and demeanor make it easy for you to convince others that you mean no harm. You gain the Shameless Request skill feat. Additionally, you gain a +1 circumstance bonus to initiative checks when you roll [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] for initiative.
 
 *Source: Player Core p. 68*

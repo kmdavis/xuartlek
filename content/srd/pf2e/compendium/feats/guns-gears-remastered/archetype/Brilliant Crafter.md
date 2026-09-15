@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/inventor|Inventor]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/inventor-dedication|Inventor Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Inventor|Inventor]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Inventor Dedication|Inventor Dedication]]
 
-Your skill at crafting is unparalleled. You become an expert in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]. At 7th level you become a master in Crafting, and at 15th level, you become legendary in Crafting and you become an expert in your inventor class DC.
+Your skill at crafting is unparalleled. You become an expert in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]. At 7th level you become a master in Crafting, and at 15th level, you become legendary in Crafting and you become an expert in your inventor class DC.
 
 *Source: Guns & Gears (Remastered) p. 49*

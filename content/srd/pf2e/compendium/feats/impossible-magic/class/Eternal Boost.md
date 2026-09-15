@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Summoner`
 
-Your link with your eidolon is so intense that you continuously reinforce their abilities. You are permanently [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]]; you can use your extra action only to cast _boost eidolon_ or _reinforce eidolon_. While in [[srd/pf2e/books/player-core/chapter-1-introduction/playing-the-game#Exploration|exploration]] mode, you can declare that you are also continually casting _boost eidolon_ or _reinforce eidolon_ even while using a different exploration activity. If you do, even before your first turn in a combat encounter, that cantrip is active as if you had cast it on your previous turn.
+Your link with your eidolon is so intense that you continuously reinforce their abilities. You are permanently [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]]; you can use your extra action only to cast _boost eidolon_ or _reinforce eidolon_. While in [[srd/pf2e/books/player-core/chapter-1-introduction/Playing the Game#Exploration|exploration]] mode, you can declare that you are also continually casting _boost eidolon_ or _reinforce eidolon_ even while using a different exploration activity. If you do, even before your first turn in a combat encounter, that cantrip is active as if you had cast it on your previous turn.
 
 *Source: Impossible Magic p. 85*

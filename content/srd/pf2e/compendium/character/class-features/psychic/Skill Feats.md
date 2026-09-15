@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Psychic
 
-At 2nd level and every 2 levels thereafter, you gain a skill feat. You must be trained or better in the corresponding skill to select a skill feat.
+At 2nd level and every 2 levels thereafter, you gain a [skill feat](https://2e.aonprd.com/Feats.aspx?Traits=144). You must be trained or better in the corresponding skill to select a skill feat.
 
 *Source: Dark Archives (Remastered) p. 9*

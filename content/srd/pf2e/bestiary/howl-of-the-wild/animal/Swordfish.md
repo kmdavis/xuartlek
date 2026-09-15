@@ -30,7 +30,7 @@ perception:
     desc: "+11; low-light vision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +12"
 abilityMods: [5, 3, 1, -4, 2, 0]
 ac: 18
 armorclass:
@@ -52,7 +52,7 @@ abilities_mid:
 speed: "swim 60 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ bill +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d10+5 slashing"
+    desc: "⬻ bill +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|Sweep]]) __Damage__ 1d10+5 slashing"
 abilities_bot:
   - name: "Fast Sweep"
     desc: "⬻"

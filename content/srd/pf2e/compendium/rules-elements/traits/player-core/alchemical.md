@@ -13,7 +13,7 @@ socialImage: og-image.png
 
 `Alchemical`
 
-Alchemical items are powered by reactions of alchemical reagents. Unless otherwise noted, alchemical items aren’t [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] and don’t radiate a magical aura.
+Alchemical items are powered by reactions of alchemical reagents. Unless otherwise noted, alchemical items aren’t [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]] and don’t radiate a magical aura.
 
 Alchemical creatures are partially powered by alchemical reactions.
 

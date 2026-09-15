@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/psychic|Psychic]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/basic-thoughtform|Basic Thoughtform]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Psychic|Psychic]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Basic Thoughtform|Basic Thoughtform]]
 
-You gain one psychic feat. For the purpose of meeting its prerequisites, your psychic level is equal to half your character level.
+You gain one [psychic feat](https://2e.aonprd.com/Feats.aspx?Traits=894). For the purpose of meeting its prerequisites, your psychic level is equal to half your character level.
 
 **Special** You can select this feat more than once. Each time you select it, you gain another psychic feat.
 

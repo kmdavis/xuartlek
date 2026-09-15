@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-You temporarily possess of a creature's body. You learn the [[srd/pf2e/compendium/spells/focus/temporary-possession|_temporary possession_]] grave spell.
+You temporarily possess of a creature's body. You learn the [[srd/pf2e/compendium/spells/focus/Temporary Possession|_temporary possession_]] grave spell.
 
 *Source: Impossible Magic p. 40*

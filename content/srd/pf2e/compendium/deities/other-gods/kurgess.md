@@ -24,24 +24,24 @@ Strength or Constitution
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/dart/javelin|Javelin]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/dart/Javelin|Javelin]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Truth|Truth]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Truth|Truth]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/domains#Toil|Toil]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/Domains#Toil|Toil]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/ant-haul|Ant Haul]]
+[[srd/pf2e/compendium/spells/rank-1/Ant Haul|Ant Haul]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/enlarge|Enlarge]]
+[[srd/pf2e/compendium/spells/rank-2/Enlarge|Enlarge]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/haste|Haste]]
+[[srd/pf2e/compendium/spells/rank-3/Haste|Haste]]
 
 ### Divine Intercession
 
@@ -49,9 +49,9 @@ The Strong Man’s gifts reflect his mastery of might.
 
 **Minor Boon** The Strong Man blesses you with a measure of his strength. Increase your maximum and encumbered Bulk limits by 2.
 
-**Moderate Boon** You fear no exertion. You can employ exploration tactics normally while [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]].
+**Moderate Boon** You fear no exertion. You can employ exploration tactics normally while [[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|fatigued]].
 
-**Major Boon** You possess a true champion’s might. When you roll a critical failure on an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check, you get a failure instead, and when you roll a success, you instead get a critical success.
+**Major Boon** You possess a true champion’s might. When you roll a critical failure on an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check, you get a failure instead, and when you roll a success, you instead get a critical success.
 
 **Minor Curse** Difficulty lifting burdens is a sign of divine disapproval. Your maximum and encumbered Bulk limits decrease by 2.
 

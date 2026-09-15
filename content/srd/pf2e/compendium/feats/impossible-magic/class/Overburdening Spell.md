@@ -18,6 +18,6 @@ socialImage: og-image.png
 
 `Concentrate`  `Necromancer`  `Occult`  `Spellshape`  `Metamagic`
 
-You have learned how to weigh down your enemies’ life essence. If the next action you use is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] that targets a single creature, unless the target is unaffected by the spell, the target takes a –15-foot status penalty to its Speeds for 1 round (this penalty is doubled for [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Climb Speed|climb]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Fly Speed|fly]], and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Swim Speed|swim Speeds]]).
+You have learned how to weigh down your enemies’ life essence. If the next action you use is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] that targets a single creature, unless the target is unaffected by the spell, the target takes a –15-foot status penalty to its Speeds for 1 round (this penalty is doubled for [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Climb Speed|climb]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Fly Speed|fly]], and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Swim Speed|swim Speeds]]).
 
 *Source: Impossible Magic p. 37*

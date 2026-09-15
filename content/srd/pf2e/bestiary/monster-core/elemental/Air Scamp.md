@@ -28,14 +28,14 @@ modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; darkvision, fog vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Sussuran|Sussuran]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +7"
 abilityMods: [1, 4, 0, -2, 0, 0]
 abilities_top:
   - name: "Fog Vision"
-    desc: "The air scamp ignores the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition from fog and mist."
+    desc: "The air scamp ignores the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition from fog and mist."
 ac: 16
 armorclass:
   - name: "AC"
@@ -43,17 +43,17 @@ armorclass:
 hp: 12
 health:
   - name: "HP"
-    desc: "12 (fast healing 2 (in open air)); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
+    desc: "12 (fast healing 2 (in open air)); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]"
 speed: "20 feet, fly 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+1 piercing"
+    desc: "⬻ jaws +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]]) __Damage__ 1d6+1 piercing"
 abilities_bot:
   - name: "Sirocco Breath"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/air|Air]], [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]]) The air scamp creates cutting winds in a 15-foot cone that deal 2d6 slashing damage to each creature within the area (DC 17 basic Reflex save). A creature that fails its save is also pushed back 10 feet. The air scamp can't use Sirocco Breath again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Air|Air]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|Arcane]]) The air scamp creates cutting winds in a 15-foot cone that deal 2d6 slashing damage to each creature within the area (DC 17 basic Reflex save). A creature that fails its save is also pushed back 10 feet. The air scamp can't use Sirocco Breath again for 1d4 rounds."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 17 - __1st__ [[srd/pf2e/compendium/spells/rank-1/gust-of-wind|Gust of Wind]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/blur|Blur]]"
+    desc: "DC 17 - __1st__ [[srd/pf2e/compendium/spells/rank-1/Gust of Wind|Gust of Wind]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Blur|Blur]]"
 sourcebook: "_Monster Core_, page 146."
 ```
 

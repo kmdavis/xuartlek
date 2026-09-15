@@ -22,7 +22,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Club
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|Club]]
 
 This specialized club is designed for throwing and useful in both combat and hunting. Tripkees use them to take down creatures that hide high in treetops.
 

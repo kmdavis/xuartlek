@@ -24,23 +24,23 @@ Strength or Wisdom
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/warhammer|Warhammer]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/Warhammer|Warhammer]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Cities|Cities]], [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Might|Might]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Cities|Cities]], [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Might|Might]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Tyranny|Tyranny]], [[srd/pf2e/compendium/character/domains#Wealth|Wealth]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Tyranny|Tyranny]], [[srd/pf2e/compendium/character/Domains#Wealth|Wealth]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/endure|Endure]]
+[[srd/pf2e/compendium/spells/rank-1/Endure|Endure]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/enthrall|Enthrall]]
+[[srd/pf2e/compendium/spells/rank-3/Enthrall|Enthrall]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/mask-of-terror|Mask of Terror]]
+[[srd/pf2e/compendium/spells/rank-7/Mask of Terror|Mask of Terror]]
 
 *Source: Divine Mysteries p. 316*

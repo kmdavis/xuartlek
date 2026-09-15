@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Summoner
 
-A 2nd level and every even-numbered level thereafter, you gain a summoner class feat.
+A 2nd level and every even-numbered level thereafter, you gain a [summoner class feat.](https://2e.aonprd.com/Feats.aspx?Traits=954)
 
 *Source: Impossible Magic p. 63*

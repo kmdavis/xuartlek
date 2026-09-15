@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/aesocar|Aesocar]], Oathos, [[srd/pf2e/compendium/deities/dead-or-missing-deities/osiris|Osiris]], Qi Zhong, Touch of the Sun, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/Aesocar|Aesocar]], Oathos, [[srd/pf2e/compendium/deities/dead-or-missing-deities/Osiris|Osiris]], Qi Zhong, Touch of the Sun, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Urgathoa|Urgathoa]]
 - **Duration**: 8 hours
 
 You augment your flesh with the energies typically used to manipulate the undead. You gain 10 temporary Hit Points.

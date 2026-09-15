@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: be temperate, fight for justice and honor, hold valor in your heart
 - **Anathema**: abandon a companion in need, dishonor yourself, refuse a challenge from an equal
 - **Area of Concern**: honor, justice, rulership, and valor
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/talons-of-the-godclaw|Talons of the Godclaw]], The Godclaw
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Talons of the Godclaw|Talons of the Godclaw]], The Godclaw
 
 ### Devotee Benefits
 
@@ -25,24 +25,24 @@ Strength or Constitution
 
 **Divine Sanctification** must choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/longsword|Longsword]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Longsword|Longsword]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Truth|Truth]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Truth|Truth]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Duty|Duty]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Duty|Duty]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]]
+[[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/enlarge|Enlarge]]
+[[srd/pf2e/compendium/spells/rank-2/Enlarge|Enlarge]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/fire-shield|Fire Shield]]
+[[srd/pf2e/compendium/spells/rank-4/Fire Shield|Fire Shield]]
 
 ### Divine Intercession
 

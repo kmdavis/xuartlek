@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/commander|Commander]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/commander-dedication|Commander Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Commander|Commander]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Commander Dedication|Commander Dedication]]
 
-You add two new mobility or offensive tactics to your folio and increase your maximum number of [[srd/pf2e/compendium/character/tactics|tactics]] prepared by 1.
+You add two new mobility or offensive tactics to your folio and increase your maximum number of [[srd/pf2e/compendium/character/Tactics|tactics]] prepared by 1.
 
 **Special** You can select this feat a second time at 8th level; when you do, you may choose your new tactics from either mobility or offensive tactics you do not already know or from any of the expert tactics you have access to.
 

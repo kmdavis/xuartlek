@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Monk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/master-of-many-styles|Master of Many Styles]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Master of Many Styles|Master of Many Styles]]
 
-You flow from technique to technique, renewing yourself as you embrace each style you have mastered. The first time each round that you use an action that has both the [[srd/pf2e/compendium/rules-elements/traits/player-core/monk|monk]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/stance|stance]] traits, you gain 20 temporary Hit Points that last until the start of your next turn.
+You flow from technique to technique, renewing yourself as you embrace each style you have mastered. The first time each round that you use an action that has both the [[srd/pf2e/compendium/rules-elements/traits/player-core/Monk|monk]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Stance|stance]] traits, you gain 20 temporary Hit Points that last until the start of your next turn.
 
 *Source: Player Core 2 p. 127*

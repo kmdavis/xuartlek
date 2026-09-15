@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/wizard|Wizard]], [[srd/pf2e/compendium/character/archetypes/spellshot|Spellshot]] (Level 8)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/basic-wizard-spellcasting|Basic Wizard Spellcasting]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Wizard|Wizard]], [[srd/pf2e/compendium/character/archetypes/Spellshot|Spellshot]] (Level 8)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Basic Wizard Spellcasting|Basic Wizard Spellcasting]]
 
 Your thorough studies allow you to cast more arcane spells each day. Increase the spell slots you gain from wizard archetype feats by 1 for each spell rank other than your two highest wizard spell slots.
 

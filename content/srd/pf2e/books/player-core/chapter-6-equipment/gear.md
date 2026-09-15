@@ -1,6 +1,7 @@
 ---
 title: "Gear"
 aliases: ["Gear"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2204"
 citation: "Player Core pg. 287"
-socialImage: og-image.png
 ---
 
 # Gear
@@ -106,11 +106,11 @@ If you have a formula, you can Craft a copy of it using the Crafting skill. You 
 | 19 | 2,000 gp |
 | 20 | 3,500 gp |
 
-*Formulas for all 0-level common items from this chapter can be purchased collectively in a basic crafter's book.
+*Formulas for all 0-level common items from this chapter can be purchased collectively in a [basic crafter's book](https://2e.aonprd.com/Equipment.aspx?ID=6).
 
 ## Services
 
-The services listed on Basic Services and Cuisine describe expenditures that can come up during travels and time spent in settlements.
+The services listed on [Basic Services and Cuisine](https://2e.aonprd.com/Equipment.aspx?Category=2) describe expenditures that can come up during travels and time spent in settlements.
 
 ### Transportation
 
@@ -149,13 +149,13 @@ Cost of living provides a total cost to covers room and board, dues, taxes, and 
 | Fine | 30 gp | 130 gp | 1,600 gp |
 | Extravagant | 100 gp | 430 gp | 5,200 gp |
 
-* You can attempt to Subsist using Society or Survival for free.
+* You can attempt to Subsist using [[srd/pf2e/compendium/rules-elements/skills/skills|Society]] or [[srd/pf2e/compendium/rules-elements/skills/skills|Survival]] for free.
 
 ## Animals
 
 The Prices for animals are listed both for renting and for purchasing them outright. You usually need to pay for animal rentals up front, and if the vendor believes the animal might be put in danger, they typically require a deposit equal to the purchase Price.
 
-Most animals panic in battle unless specifically trained otherwise. When combat begins, they become [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 4 and [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] as long as they're frightened. If you successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] using [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], you can keep it from fleeing, though this doesn't remove its frightened condition. If the animal is attacked or damaged, it returns to frightened 4 and fleeing, with the same exceptions.
+Most animals panic in battle unless specifically trained otherwise. When combat begins, they become [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] 4 and [[srd/pf2e/compendium/rules-elements/Conditions#Fleeing|fleeing]] as long as they're frightened. If you successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] using [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], you can keep it from fleeing, though this doesn't remove its frightened condition. If the animal is attacked or damaged, it returns to frightened 4 and fleeing, with the same exceptions.
 
 Warhorses and warponies are combat trained. They don't become frightened or fleeing during encounters in this way.
 
@@ -194,146 +194,146 @@ You can purchase special armor for animals, called barding (shown on the Barding
 
 *Nethys Note: This page combines Player Core 1 and 2's quick equipment packages.*
 
-If you want to quickly decide how to spend your starting money when playing a class from this book, start with one of these kits. The Armor, Weapons, and Gear entries include the basics, and the Options entries suggest additional items you might purchase with your leftover money to fit your character. Note that an [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer’s pack]], which is included in each kit, is 1 Bulk and contains a [[srd/pf2e/compendium/equipment/adventuring-gear/backpack|backpack]], [[srd/pf2e/compendium/equipment/adventuring-gear/bedroll|bedroll]], 10 pieces of [[srd/pf2e/compendium/equipment/adventuring-gear/chalk|chalk]], [[srd/pf2e/compendium/equipment/adventuring-gear/flint-and-steel|flint and steel]], 50 feet of [[srd/pf2e/compendium/equipment/adventuring-gear/rope|rope]], 2 weeks’ [[srd/pf2e/compendium/equipment/adventuring-gear/rations|rations]], [[srd/pf2e/compendium/equipment/adventuring-gear/soap|soap]], 5 [[srd/pf2e/compendium/equipment/adventuring-gear/torch|torches]], and a [[srd/pf2e/compendium/equipment/adventuring-gear/waterskin|waterskin]].
+If you want to quickly decide how to spend your starting money when playing a class from this book, start with one of these kits. The Armor, Weapons, and Gear entries include the basics, and the Options entries suggest additional items you might purchase with your leftover money to fit your character. Note that an [[srd/pf2e/compendium/equipment/adventuring-gear/Adventurer's Pack|adventurer’s pack]], which is included in each kit, is 1 Bulk and contains a [[srd/pf2e/compendium/equipment/adventuring-gear/Backpack|backpack]], [[srd/pf2e/compendium/equipment/adventuring-gear/Bedroll|bedroll]], 10 pieces of [[srd/pf2e/compendium/equipment/adventuring-gear/Chalk|chalk]], [[srd/pf2e/compendium/equipment/adventuring-gear/Flint and Steel|flint and steel]], 50 feet of [[srd/pf2e/compendium/equipment/adventuring-gear/Rope|rope]], 2 weeks’ [[srd/pf2e/compendium/equipment/adventuring-gear/Rations|rations]], [[srd/pf2e/compendium/equipment/adventuring-gear/Soap|soap]], 5 [[srd/pf2e/compendium/equipment/adventuring-gear/Torch|torches]], and a [[srd/pf2e/compendium/equipment/adventuring-gear/Waterskin|waterskin]].
 
 ### Alchemist Kit
 
-**Source** Player Core 2 pg. 277
+**Source** [Player Core 2 pg. 277](https://2e.aonprd.com/Sources.aspx?ID=227)
 **Price** 8 gp, 3 sp, 2 cp; **Bulk** 3 Bulk, 7 light; **Money Left Over** 6 gp, 6 sp, 8 cp
-**Armor** [[srd/pf2e/compendium/equipment/armor#Studded Leather Armor|studded leather armor]]
-**Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]], [[srd/pf2e/compendium/equipment/weapons/sling/sling|sling with 20 bullets]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|alchemist's toolkit]], [[srd/pf2e/compendium/equipment/adventuring-gear/caltrops|caltrops (2 sets)]]
-**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|repair toolkit]] (2 gp)
+**Armor** [[srd/pf2e/compendium/equipment/Armor#Studded Leather Armor|studded leather armor]]
+**Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|dagger]], [[srd/pf2e/compendium/equipment/weapons/sling/Sling|sling with 20 bullets]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/Adventurer's Pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/Alchemist's Toolkit|alchemist's toolkit]], [[srd/pf2e/compendium/equipment/adventuring-gear/Caltrops|caltrops (2 sets)]]
+**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/Repair Toolkit|repair toolkit]] (2 gp)
 
 ### Barbarian Kit
 
-**Source** Player Core 2 pg. 277
+**Source** [Player Core 2 pg. 277](https://2e.aonprd.com/Sources.aspx?ID=227)
 **Price** 4 gp; **Bulk** 3 Bulk, 5 light; **Money Left Over** 11 gp
-**Armor** [[srd/pf2e/compendium/equipment/armor#Hide Armor|hide armor]]
-**Weapons** [[srd/pf2e/compendium/equipment/weapons/dart/javelin|javelins (4)]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/grappling-hook|grappling hook]]
-**Options** [[srd/pf2e/compendium/equipment/weapons/axe/greataxe|greataxe]] (2 gp), [[srd/pf2e/compendium/equipment/weapons/club/greatclub|greatclub]] (1 gp), [[srd/pf2e/compendium/equipment/weapons/sword/greatsword|greatsword]] (2 gp), or [[srd/pf2e/compendium/equipment/weapons/axe/battle-axe|battle axe]] and [[srd/pf2e/compendium/equipment/shields#Steel Shield|steel shield]] (3 gp)
+**Armor** [[srd/pf2e/compendium/equipment/Armor#Hide Armor|hide armor]]
+**Weapons** [[srd/pf2e/compendium/equipment/weapons/dart/Javelin|javelins (4)]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/Adventurer's Pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/Grappling Hook|grappling hook]]
+**Options** [[srd/pf2e/compendium/equipment/weapons/axe/Greataxe|greataxe]] (2 gp), [[srd/pf2e/compendium/equipment/weapons/club/Greatclub|greatclub]] (1 gp), [[srd/pf2e/compendium/equipment/weapons/sword/Greatsword|greatsword]] (2 gp), or [[srd/pf2e/compendium/equipment/weapons/axe/Battle Axe|battle axe]] and [[srd/pf2e/compendium/equipment/Shields#Steel Shield|steel shield]] (3 gp)
 
 ### Bard Kit
 
-**Source** Player Core pg. 268
+**Source** [Player Core pg. 268](https://2e.aonprd.com/Sources.aspx?ID=216)
 **Price** 7 gp, 5 sp, 2 cp; **Bulk** 4 Bulk, 4 light; **Money Left Over** 7 gp, 4 sp, 8 cp
-**Armor** [[srd/pf2e/compendium/equipment/armor#Studded Leather Armor|studded leather armor]]
-**Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]], [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]], [[srd/pf2e/compendium/equipment/weapons/sling/sling|sling with 20 bullets]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument|musical instrument (handheld)]]
+**Armor** [[srd/pf2e/compendium/equipment/Armor#Studded Leather Armor|studded leather armor]]
+**Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|dagger]], [[srd/pf2e/compendium/equipment/weapons/sword/Rapier|rapier]], [[srd/pf2e/compendium/equipment/weapons/sling/Sling|sling with 20 bullets]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/Adventurer's Pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/Musical Instrument|musical instrument (handheld)]]
 
 ### Champion Kit
 
-**Source** Player Core 2 pg. 277
+**Source** [Player Core 2 pg. 277](https://2e.aonprd.com/Sources.aspx?ID=227)
 **Price** 8 gp, 7 sp; **Bulk** 3 Bulk, 7 light; **Money Left Over** 6 gp, 3 sp
-**Armor** [[srd/pf2e/compendium/equipment/armor#Chain Mail|chain mail]]
-**Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]], [[srd/pf2e/compendium/equipment/weapons/dart/javelin|javelins (4)]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/crowbar|crowbar]], [[srd/pf2e/compendium/equipment/adventuring-gear/grappling-hook|grappling hook]]
-**Options** [[srd/pf2e/compendium/equipment/shields#Steel Shield|steel shield]] (2 gp), your deity's favored weapon (see your deities entry; use the Price listed in the weapon's entry)
+**Armor** [[srd/pf2e/compendium/equipment/Armor#Chain Mail|chain mail]]
+**Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|dagger]], [[srd/pf2e/compendium/equipment/weapons/dart/Javelin|javelins (4)]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/Adventurer's Pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/Crowbar|crowbar]], [[srd/pf2e/compendium/equipment/adventuring-gear/Grappling Hook|grappling hook]]
+**Options** [[srd/pf2e/compendium/equipment/Shields#Steel Shield|steel shield]] (2 gp), your deity's favored weapon (see your [deities entry](https://2e.aonprd.com/Deities.aspx); use the Price listed in the weapon's entry)
 
 ### Cleric Kit
 
-**Source** Player Core pg. 268
+**Source** [Player Core pg. 268](https://2e.aonprd.com/Sources.aspx?ID=216)
 **Price** 1 gp, 7 sp; **Bulk** 1 Bulk, 2 light; **Money Left Over** 13 gp, 3 sp
-**Armor** [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol (wooden)]]
-**Options** your deity's favored weapon (see your deities entry; use the Price listed in the weapon's entry), [[srd/pf2e/compendium/equipment/armor#Chain Mail|chain mail]] (6 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|healer's toolkit]] (5 gp)
+**Armor** [[srd/pf2e/compendium/equipment/Armor#Explorer's Clothing|explorer's clothing]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/Adventurer's Pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/Religious Symbol|religious symbol (wooden)]]
+**Options** your deity's favored weapon (see your [deities entry](https://2e.aonprd.com/Deities.aspx); use the Price listed in the weapon's entry), [[srd/pf2e/compendium/equipment/Armor#Chain Mail|chain mail]] (6 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit|healer's toolkit]] (5 gp)
 
 ### Druid Kit
 
-**Source** Player Core pg. 268
+**Source** [Player Core pg. 268](https://2e.aonprd.com/Sources.aspx?ID=216)
 **Price** 4 gp; **Bulk** 4 Bulk, 4 light; **Money Left Over** 11 gp
-**Armor** [[srd/pf2e/compendium/equipment/armor#Hide Armor|hide armor]]
-**Weapons** [[srd/pf2e/compendium/equipment/weapons/dart/javelin|4 javelins]], [[srd/pf2e/compendium/equipment/weapons/spear/spear|spear]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/primal-symbol|primal symbol]]
-**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|healer's toolkit]] (5 gp)
+**Armor** [[srd/pf2e/compendium/equipment/Armor#Hide Armor|hide armor]]
+**Weapons** [[srd/pf2e/compendium/equipment/weapons/dart/Javelin|4 javelins]], [[srd/pf2e/compendium/equipment/weapons/spear/Spear|spear]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/Adventurer's Pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/Primal Symbol|primal symbol]]
+**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit|healer's toolkit]] (5 gp)
 
 ### Fighter Kit
 
-**Source** Player Core pg. 268
+**Source** [Player Core pg. 268](https://2e.aonprd.com/Sources.aspx?ID=216)
 **Price** 5 gp, 8 sp; **Bulk** 2 Bulk, 2 light; **Money Left Over** 9 gp, 2 sp
-**Armor** [[srd/pf2e/compendium/equipment/armor#Scale Mail|scale mail]]
-**Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/grappling-hook|grappling hook]]
-**Options** [[srd/pf2e/compendium/equipment/weapons/sword/greatsword|greatsword]] (2 gp), [[srd/pf2e/compendium/equipment/weapons/bow/longbow|longbow]] with 20 [[srd/pf2e/compendium/equipment/weapons/bow/arrows|arrows]] (6 gp, 2 sp), or [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]] and [[srd/pf2e/compendium/equipment/shields#Steel Shield|steel shield]] (3 gp)
+**Armor** [[srd/pf2e/compendium/equipment/Armor#Scale Mail|scale mail]]
+**Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|dagger]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/Adventurer's Pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/Grappling Hook|grappling hook]]
+**Options** [[srd/pf2e/compendium/equipment/weapons/sword/Greatsword|greatsword]] (2 gp), [[srd/pf2e/compendium/equipment/weapons/bow/Longbow|longbow]] with 20 [[srd/pf2e/compendium/equipment/weapons/bow/Arrows|arrows]] (6 gp, 2 sp), or [[srd/pf2e/compendium/equipment/weapons/sword/Longsword|longsword]] and [[srd/pf2e/compendium/equipment/Shields#Steel Shield|steel shield]] (3 gp)
 
 ### Investigator Kit
 
-**Source** Player Core 2 pg. 277
+**Source** [Player Core 2 pg. 277](https://2e.aonprd.com/Sources.aspx?ID=227)
 **Price** 9 gp, 2 sp; **Bulk** 3 Bulk, 5 light; **Money Left Over** 5 gp, 8 sp
-**Armor** [[srd/pf2e/compendium/equipment/armor#Studded Leather Armor|studded leather armor]]
-**Weapons** [[srd/pf2e/compendium/equipment/weapons/crossbow/crossbow|crossbow with 20 bolts]], [[srd/pf2e/compendium/equipment/weapons/club/sap|sap]], [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|shortsword]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/crowbar|crowbar]]
-**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|alchemist’s toolkit]] (3 gp), simple [[srd/pf2e/compendium/equipment/adventuring-gear/manacles|manacles]] (3 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/writing-set|writing set]] (1 gp)
+**Armor** [[srd/pf2e/compendium/equipment/Armor#Studded Leather Armor|studded leather armor]]
+**Weapons** [[srd/pf2e/compendium/equipment/weapons/crossbow/Crossbow|crossbow with 20 bolts]], [[srd/pf2e/compendium/equipment/weapons/club/Sap|sap]], [[srd/pf2e/compendium/equipment/weapons/sword/Shortsword|shortsword]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/Adventurer's Pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/Crowbar|crowbar]]
+**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/Alchemist's Toolkit|alchemist’s toolkit]] (3 gp), simple [[srd/pf2e/compendium/equipment/adventuring-gear/Manacles|manacles]] (3 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/Writing Set|writing set]] (1 gp)
 
 ### Monk Kit
 
-**Source** Player Core 2 pg. 277
+**Source** [Player Core 2 pg. 277](https://2e.aonprd.com/Sources.aspx?ID=227)
 **Price** 5 gp, 3 sp; **Bulk** 3 Bulk, 3 light; **Money Left Over** 9 gp, 7 sp
-**Armor** [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]]
-**Weapons** [[srd/pf2e/compendium/equipment/weapons/dart/dart|darts (10)]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/climbing-kit|climbing kit]], [[srd/pf2e/compendium/equipment/adventuring-gear/grappling-hook|grappling hook]], [[srd/pf2e/compendium/equipment/alchemical-items/smoke-ball|smoke ball (lesser)]]
-**Options** [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]] (0 gp), [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]] (5 sp)
+**Armor** [[srd/pf2e/compendium/equipment/Armor#Explorer's Clothing|explorer's clothing]]
+**Weapons** [[srd/pf2e/compendium/equipment/weapons/dart/Dart|darts (10)]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/Adventurer's Pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/Climbing Kit|climbing kit]], [[srd/pf2e/compendium/equipment/adventuring-gear/Grappling Hook|grappling hook]], [[srd/pf2e/compendium/equipment/alchemical-items/Smoke Ball|smoke ball (lesser)]]
+**Options** [[srd/pf2e/compendium/equipment/weapons/club/Staff|staff]] (0 gp), [[srd/pf2e/compendium/equipment/weapons/spear/Longspear|longspear]] (5 sp)
 
 ### Oracle Kit
 
-**Source** Player Core 2 pg. 277
+**Source** [Player Core 2 pg. 277](https://2e.aonprd.com/Sources.aspx?ID=227)
 **Price** 5 gp, 5 sp, 2 cp; **Bulk** 3 Bulk, 3 light; **Money Left Over** 9 gp, 4 sp, 8 cp
-**Armor** [[srd/pf2e/compendium/equipment/armor#Studded Leather Armor|studded leather armor]]
-**Weapons** [[srd/pf2e/compendium/equipment/weapons/club/mace|mace]], [[srd/pf2e/compendium/equipment/weapons/sling/sling|sling with 20 bullets]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]]
-**Options** [[srd/pf2e/compendium/equipment/shields#Steel Shield|steel shield]] (2 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|healer’s toolkit]] (5 gp)
+**Armor** [[srd/pf2e/compendium/equipment/Armor#Studded Leather Armor|studded leather armor]]
+**Weapons** [[srd/pf2e/compendium/equipment/weapons/club/Mace|mace]], [[srd/pf2e/compendium/equipment/weapons/sling/Sling|sling with 20 bullets]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/Adventurer's Pack|adventurer's pack]]
+**Options** [[srd/pf2e/compendium/equipment/Shields#Steel Shield|steel shield]] (2 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit|healer’s toolkit]] (5 gp)
 
 ### Ranger Kit
 
-**Source** Player Core pg. 268
+**Source** [Player Core pg. 268](https://2e.aonprd.com/Sources.aspx?ID=216)
 **Price** 3 gp, 7 sp; **Bulk** 2 Bulk, 1 light; **Money Left Over** 11 gp, 3 sp
-**Armor** [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]
-**Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]]
-**Options** [[srd/pf2e/compendium/equipment/weapons/bow/longbow|longbow]] with 20 [[srd/pf2e/compendium/equipment/weapons/bow/arrows|arrows]] (6 gp, 2 sp), [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]] and [[srd/pf2e/compendium/equipment/shields#Steel Shield|steel shield]] (3 gp), 2 [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|shortswords]] (1 gp, 8 sp)
+**Armor** [[srd/pf2e/compendium/equipment/Armor#Leather Armor|leather armor]]
+**Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|dagger]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/Adventurer's Pack|adventurer's pack]]
+**Options** [[srd/pf2e/compendium/equipment/weapons/bow/Longbow|longbow]] with 20 [[srd/pf2e/compendium/equipment/weapons/bow/Arrows|arrows]] (6 gp, 2 sp), [[srd/pf2e/compendium/equipment/weapons/sword/Longsword|longsword]] and [[srd/pf2e/compendium/equipment/Shields#Steel Shield|steel shield]] (3 gp), 2 [[srd/pf2e/compendium/equipment/weapons/sword/Shortsword|shortswords]] (1 gp, 8 sp)
 
 ### Rogue Kit
 
-**Source** Player Core pg. 268
+**Source** [Player Core pg. 268](https://2e.aonprd.com/Sources.aspx?ID=216)
 **Price** 6 gp, 2 sp; **Bulk** 4 Bulk, 1 light; **Money Left Over** 8 gp, 8 sp
-**Armor** [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]
-**Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]], [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]]
-**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|thieves' toolkit (3 gp)]]
+**Armor** [[srd/pf2e/compendium/equipment/Armor#Leather Armor|leather armor]]
+**Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|dagger]], [[srd/pf2e/compendium/equipment/weapons/sword/Rapier|rapier]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/Adventurer's Pack|adventurer's pack]]
+**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/Thieves' Toolkit|thieves' toolkit (3 gp)]]
 
 ### Sorcerer Kit
 
-**Source** Player Core 2 pg. 277
+**Source** [Player Core 2 pg. 277](https://2e.aonprd.com/Sources.aspx?ID=227)
 **Price** 2 gp, 4 sp, 2 cp; **Bulk** 1 Bulk, 7 light; **Money Left Over** 12 gp, 5 sp, 8 cp
-**Armor** [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]]
-**Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]], [[srd/pf2e/compendium/equipment/weapons/sling/sling|sling with 20 bullets]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]]
-**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer’s pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/caltrops|caltrops]] (2 sets)
+**Armor** [[srd/pf2e/compendium/equipment/Armor#Explorer's Clothing|explorer's clothing]]
+**Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|dagger]], [[srd/pf2e/compendium/equipment/weapons/sling/Sling|sling with 20 bullets]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/Adventurer's Pack|adventurer's pack]]
+**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/Adventurer's Pack|adventurer’s pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/Caltrops|caltrops]] (2 sets)
 
 ### Swashbuckler Kit
 
-**Source** Player Core 2 pg. 277
+**Source** [Player Core 2 pg. 277](https://2e.aonprd.com/Sources.aspx?ID=227)
 **Price** 8 gp, 7 sp; **Bulk** 3 Bulk, 3 light; **Money Left Over** 6 gp, 3 sp
-**Armor** [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]
-**Weapons** [[srd/pf2e/compendium/equipment/weapons/crossbow/hand-crossbow|hand crossbow with 20 bolts]], [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]]
-**Options** [[srd/pf2e/compendium/equipment/shields#Buckler|buckler]] (1 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/dueling-cape|dueling cape]] (5 sp), fine [[srd/pf2e/compendium/equipment/adventuring-gear/clothing|clothing]] (2 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/grappling-hook|grappling hook]] (1 sp), [[srd/pf2e/compendium/equipment/weapons/knife/main-gauche|main-gauche]] (5 sp)
+**Armor** [[srd/pf2e/compendium/equipment/Armor#Leather Armor|leather armor]]
+**Weapons** [[srd/pf2e/compendium/equipment/weapons/crossbow/Hand Crossbow|hand crossbow with 20 bolts]], [[srd/pf2e/compendium/equipment/weapons/sword/Rapier|rapier]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/Adventurer's Pack|adventurer's pack]]
+**Options** [[srd/pf2e/compendium/equipment/Shields#Buckler|buckler]] (1 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/Dueling Cape|dueling cape]] (5 sp), fine [[srd/pf2e/compendium/equipment/adventuring-gear/Clothing|clothing]] (2 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/Grappling Hook|grappling hook]] (1 sp), [[srd/pf2e/compendium/equipment/weapons/knife/Main-gauche|main-gauche]] (5 sp)
 
 ### Witch Kit
 
-**Source** Player Core pg. 268
+**Source** [Player Core pg. 268](https://2e.aonprd.com/Sources.aspx?ID=216)
 **Price** 1 gp, 8 sp, 2 cp; **Bulk** 2 Bulk, 5 light; **Money Left Over** 13 gp, 1 sp, 8 cp
-**Armor** [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]]
-**Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/sickle|sickle]], [[srd/pf2e/compendium/equipment/weapons/sling/sling|sling with 20 bullets]], [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]]
-**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/cookware|cookware]] (1 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|healer's toolkit]] (5 gp)
+**Armor** [[srd/pf2e/compendium/equipment/Armor#Explorer's Clothing|explorer's clothing]]
+**Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/Sickle|sickle]], [[srd/pf2e/compendium/equipment/weapons/sling/Sling|sling with 20 bullets]], [[srd/pf2e/compendium/equipment/weapons/club/Staff|staff]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/Adventurer's Pack|adventurer's pack]]
+**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/Cookware|cookware]] (1 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit|healer's toolkit]] (5 gp)
 
 ### Wizard Kit
 
-**Source** Player Core pg. 268
+**Source** [Player Core pg. 268](https://2e.aonprd.com/Sources.aspx?ID=216)
 **Price** 2 gp, 6 sp; **Bulk** 2 Bulk, 2 light; **Money Left Over** 12 gp, 4 sp
-**Armor** [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]]
-**Weapons** [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/writing-set|writing set]]
-**Options** [[srd/pf2e/compendium/equipment/weapons/crossbow/crossbow|crossbow]] with 20 [[srd/pf2e/compendium/equipment/weapons/crossbow/bolts|bolts]] (3 gp, 2 sp)
+**Armor** [[srd/pf2e/compendium/equipment/Armor#Explorer's Clothing|explorer's clothing]]
+**Weapons** [[srd/pf2e/compendium/equipment/weapons/club/Staff|staff]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/Adventurer's Pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/Writing Set|writing set]]
+**Options** [[srd/pf2e/compendium/equipment/weapons/crossbow/Crossbow|crossbow]] with 20 [[srd/pf2e/compendium/equipment/weapons/crossbow/Bolts|bolts]] (3 gp, 2 sp)

@@ -21,7 +21,7 @@ socialImage: og-image.png
 - **Target**: 1 creature
 - **Defense**: Will
 
-You share some of your own temporal distortions with a foe, altering their mind and body unpredictably as they're thrown backward or forward in time. Roll 1d4. On a 1, the foe becomes [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]]; on a 2, it becomes [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]]; on a 3, it becomes [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]]; and on a 4, you choose which condition applies.
+You share some of your own temporal distortions with a foe, altering their mind and body unpredictably as they're thrown backward or forward in time. Roll 1d4. On a 1, the foe becomes [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]]; on a 2, it becomes [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]]; on a 3, it becomes [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]]; and on a 4, you choose which condition applies.
 
 **Critical Success** The target is unaffected.
 

@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Archetype`  `Class`  `Dedication`  `Uncommon`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/munitions-master|Munitions Master]]
-- **Prerequisites**: [[srd/pf2e/compendium/character/innovations#Light Mortar|light mortar innovation]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Munitions Master|Munitions Master]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Innovations#Light Mortar|light mortar innovation]]
 
 You have drilled enough with your light mortar to operate it with unrivaled efficiency. You gain the Engineer's Efficiency action. 
 
@@ -26,6 +26,6 @@ You have drilled enough with your light mortar to operate it with unrivaled effi
 
 ### Munitions Master Dedication leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/archetype/burrowing-shot|Burrowing Shot]], [[srd/pf2e/compendium/feats/battlecry/archetype/focused-fire|Focused Fire]], [[srd/pf2e/compendium/feats/battlecry/archetype/recoiling-relocation|Recoiling Relocation]], [[srd/pf2e/compendium/feats/battlecry/archetype/siege-celerity|Siege Celerity]], [[srd/pf2e/compendium/feats/battlecry/archetype/wrapped-in-smoke|Wrapped in Smoke]]
+[[srd/pf2e/compendium/feats/battlecry/archetype/Burrowing Shot|Burrowing Shot]], [[srd/pf2e/compendium/feats/battlecry/archetype/Focused Fire|Focused Fire]], [[srd/pf2e/compendium/feats/battlecry/archetype/Recoiling Relocation|Recoiling Relocation]], [[srd/pf2e/compendium/feats/battlecry/archetype/Siege Celerity|Siege Celerity]], [[srd/pf2e/compendium/feats/battlecry/archetype/Wrapped in Smoke|Wrapped in Smoke]]
 
 *Source: Battlecry! p. 65*

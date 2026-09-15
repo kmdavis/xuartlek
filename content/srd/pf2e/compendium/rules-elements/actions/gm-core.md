@@ -13,9 +13,9 @@ socialImage: og-image.png
 
 `Exploration`  `Manipulate`
 
-- **Requirements**: You must use a [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|repair toolkit]]
+- **Requirements**: You must use a [[srd/pf2e/compendium/equipment/adventuring-gear/Repair Toolkit|repair toolkit]]
 
-You spend 10 minutes affixing a [[srd/pf2e/compendium/rules-elements/traits/gm-core/talisman|talisman]] to an item, placing the item on a stable surface and using the repair toolkit with both hands. You can also use this activity to remove a talisman. Attaching more than one talisman to an item deactivates all the talismans. They must be removed and re-affixed before they can be used again.
+You spend 10 minutes affixing a [[srd/pf2e/compendium/rules-elements/traits/gm-core/Talisman|talisman]] to an item, placing the item on a stable surface and using the repair toolkit with both hands. You can also use this activity to remove a talisman. Attaching more than one talisman to an item deactivates all the talismans. They must be removed and re-affixed before they can be used again.
 
 *Source: GM Core p. 263*
 
@@ -27,7 +27,7 @@ You spend 10 minutes affixing a [[srd/pf2e/compendium/rules-elements/traits/gm-c
 
 - **Requirements**: You are adjacent to a point of entry on the vehicle you are attempting to board.
 
-You board a vehicle through an open top, a door, a portal, or a hatch; if you’re already on board, you can instead use this action to disembark into an empty space adjacent to the vehicle’s point of entry. Using this action while the vehicle is in motion is challenging, requiring a successful [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check with a DC equal to the vehicle’s AC.
+You board a vehicle through an open top, a door, a portal, or a hatch; if you’re already on board, you can instead use this action to disembark into an empty space adjacent to the vehicle’s point of entry. Using this action while the vehicle is in motion is challenging, requiring a successful [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check with a DC equal to the vehicle’s AC.
 
 *Source: GM Core p. 212*
 
@@ -89,9 +89,9 @@ You pilot your vehicle to move. Decide how many actions you intend to spend befo
 
  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") Attempt a piloting check. On a success, the vehicle moves up to its Speed and can turn normally. On a failure, the vehicle moves its Speed in a straight line. On a critical failure, the vehicle moves its Speed in a straight line and becomes uncontrolled.
 
- [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")([[srd/pf2e/compendium/rules-elements/traits/gm-core/reckless|reckless]]) The vehicle moves up to twice its Speed in a straight line at the vehicle’s current heading.
+ [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")([[srd/pf2e/compendium/rules-elements/traits/gm-core/Reckless|reckless]]) The vehicle moves up to twice its Speed in a straight line at the vehicle’s current heading.
 
- [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/gm-core/reckless|reckless]]) You take a –5 penalty on your piloting check to maintain control of the vehicle. The vehicle moves up to three times its Speed in a straight line at the vehicle’s current heading.
+ [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/gm-core/Reckless|reckless]]) You take a –5 penalty on your piloting check to maintain control of the vehicle. The vehicle moves up to three times its Speed in a straight line at the vehicle’s current heading.
 
 *Source: GM Core p. 212*
 
@@ -124,9 +124,9 @@ You attempt to make a favorable impression on an NPC to convince the NPC to supp
 
 ## Invest an Item
 
-Certain magic items convey their magical benefits only when invested using the Invest an Item activity, tying them to the PC's inner potential. These items have the [[srd/pf2e/compendium/rules-elements/traits/gm-core/invested|invested]] trait, and most are worn items. Once you've Invested the Item, you benefit from its constant magical abilities as long as you meet its other requirements (for most invested items, the only other requirement is that you must be wearing the item). This investiture lasts until you remove the item.
+Certain magic items convey their magical benefits only when invested using the Invest an Item activity, tying them to the PC's inner potential. These items have the [[srd/pf2e/compendium/rules-elements/traits/gm-core/Invested|invested]] trait, and most are worn items. Once you've Invested the Item, you benefit from its constant magical abilities as long as you meet its other requirements (for most invested items, the only other requirement is that you must be wearing the item). This investiture lasts until you remove the item.
 
-You can invest no more than 10 items per day. If you remove an invested item, it loses its investiture. The item still counts against your daily limit after it loses its investiture. You reset the limit during your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Daily Preparations|daily preparations]], at which point you Invest your Items anew. If you're still wearing items you had invested the previous day, you can typically keep them invested on the new day, but they still count against your limit.
+You can invest no more than 10 items per day. If you remove an invested item, it loses its investiture. The item still counts against your daily limit after it loses its investiture. You reset the limit during your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Running Exploration#Daily Preparations|daily preparations]], at which point you Invest your Items anew. If you're still wearing items you had invested the previous day, you can typically keep them invested on the new day, but they still count against your limit.
 
 *Source: GM Core p. 219*
 
@@ -140,7 +140,7 @@ You can invest no more than 10 items per day. If you remove an invested item, it
 
 You try to run over creatures with your vehicle, possibly also ramming one larger creature or object. If you maintain control of your vehicle, the vehicle moves up to twice its Speed in a straight line at the vehicle’s current heading. You attempt to run over any creatures in your path two sizes smaller than the vehicle or smaller, and you can attempt to ram one target creature or object in your path one size smaller than the vehicle or larger.
 
- Each creature in your path, including a rammed target, takes the vehicle’s collision damage ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save at vehicle’s collision DC). If the rammed target is a vehicle, its pilot can attempt a piloting check in place of this Reflex save, with the same results. If the target of your ram takes damage, you and your vehicle each take collision damage (no save) and your movement ends.
+ Each creature in your path, including a rammed target, takes the vehicle’s collision damage ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save at vehicle’s collision DC). If the rammed target is a vehicle, its pilot can attempt a piloting check in place of this Reflex save, with the same results. If the target of your ram takes damage, you and your vehicle each take collision damage (no save) and your movement ends.
 
 *Source: GM Core p. 212*
 

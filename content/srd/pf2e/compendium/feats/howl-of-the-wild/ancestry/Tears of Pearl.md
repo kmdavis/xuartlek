@@ -25,7 +25,7 @@ You weep, and your tears become gleaming pearls as they fall to the ground, so b
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] until the start of your next turn as it covets the pearls or reaches for them.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed 1]] until the start of your next turn as it covets the pearls or reaches for them.
 
 **Failure** The target is slowed 1 until the start of your next turn as it grabs for the pearls, and if it doesn't have a free hand (or similar appendage), it must spend its first action on its next turn to Release one item it's holding.
 

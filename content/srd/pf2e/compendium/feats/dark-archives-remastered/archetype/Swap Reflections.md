@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Archetype`  `Extradimensional`  `Incapacitation`  `Occult`  `Teleportation`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/alter-ego|Alter Ego]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Alter Ego|Alter Ego]]
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/alter-ego-dedication|Alter Ego Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Alter Ego Dedication|Alter Ego Dedication]]
 
 You've learned how to use even your reflection to your advantage. You send your own reflection to forcibly swap places with the reflection of an enemy, pulling each of you through opposite ends and switching places. The enemy must be within 120 feet, you must both be adjacent to reflective surfaces (such as glass, mirrors, or calm water), and you must be able to see the target's reflection and have line of effect to it. The target attempts a Will save against your spell DC or class DC, whichever is higher.
 

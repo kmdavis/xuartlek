@@ -30,7 +30,7 @@ This ornate metal staff shines with precious inlays of gold. When you Cast a Spe
 
 ---
 
-**Cantrip** [[srd/pf2e/compendium/spells/cantrips/figment|_figment_]]**1st** [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|_illusory disguise_]], [[srd/pf2e/compendium/spells/rank-1/illusory-object|_illusory object_]]**2nd** _illusory creature_, illusory object, [[srd/pf2e/compendium/spells/rank-1/item-facade|_item facade_]]
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/Figment|_figment_]]**1st** [[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|_illusory disguise_]], [[srd/pf2e/compendium/spells/rank-1/Illusory Object|_illusory object_]]**2nd** _illusory creature_, illusory object, [[srd/pf2e/compendium/spells/rank-1/Item Facade|_item facade_]]
 
 ### Staff of Phantasms (Greater)
 
@@ -46,6 +46,6 @@ This ornate metal staff shines with precious inlays of gold. When you Cast a Spe
 
 ---
 
-**5th** illusory creature, [[srd/pf2e/compendium/spells/rank-5/illusory-scene|_illusory scene_]]**6th** [[srd/pf2e/compendium/spells/rank-5/hallucination|_hallucination_]], [[srd/pf2e/compendium/spells/rank-6/mislead|_mislead_]]
+**5th** illusory creature, [[srd/pf2e/compendium/spells/rank-5/Illusory Scene|_illusory scene_]]**6th** [[srd/pf2e/compendium/spells/rank-5/Hallucination|_hallucination_]], [[srd/pf2e/compendium/spells/rank-6/Mislead|_mislead_]]
 
 *Source: GM Core p. 280*

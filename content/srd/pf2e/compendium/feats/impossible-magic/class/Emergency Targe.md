@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Magus`
 
-- **Prerequisites**: sparkling targe hybrid study
+- **Prerequisites**: [[srd/pf2e/compendium/character/Hybrid Studies#Sparkling Targe|sparkling targe hybrid study]]
 - **Trigger**: An enemy you’re aware of hits you with a Strike or a spell attack, or you fail a save against an enemy’s spell.
-- **Requirements**: You are wielding a [[srd/pf2e/compendium/character/implements/shield|shield]] or have the [[srd/pf2e/compendium/spells/cantrips/shield|_shield_]] spell prepared.
+- **Requirements**: You are wielding a [[srd/pf2e/compendium/character/implements/Shield|shield]] or have the [[srd/pf2e/compendium/spells/cantrips/Shield|_shield_]] spell prepared.
 
-You immediately [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise a Shield]] or cast [[srd/pf2e/compendium/spells/cantrips/shield|_shield_]]. The circumstance bonus applies to your defenses when determining the outcome of the triggering attack or spell.
+You immediately [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise a Shield]] or cast [[srd/pf2e/compendium/spells/cantrips/Shield|_shield_]]. The circumstance bonus applies to your defenses when determining the outcome of the triggering attack or spell.
 
 *Source: Impossible Magic p. 19*

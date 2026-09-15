@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
 You are adept at foiling creatures’ special senses and cautious enough to safeguard against them at all times. Whenever you use the Avoid Notice, Hide, or Sneak actions, you are always considered to be taking precautions against special senses (see the Detecting with Other Senses sidebar on page 433).
 

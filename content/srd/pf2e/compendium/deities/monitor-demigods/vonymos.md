@@ -24,18 +24,18 @@ Constitution or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|Scythe]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/Scythe|Scythe]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Sorrow|Sorrow]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Sorrow|Sorrow]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Soul|Soul]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Soul|Soul]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/endure|Endure]]
+[[srd/pf2e/compendium/spells/rank-1/Endure|Endure]]
 
 - **3rd**
 Blazing Dive

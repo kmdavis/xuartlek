@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Thaumaturge`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/class/talisman-esoterica|Talisman Esoterica]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Talisman Esoterica|Talisman Esoterica]]
 
 As you continue to collect talismanic esoterica, you improve your ability to create temporary talismans. You can create four temporary talismans each day instead of two.
 

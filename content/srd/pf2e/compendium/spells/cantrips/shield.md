@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Force`
 
-- **Traditions**: Arcane, Divine, Occult
-- **Spell Lists**: Elemental
-- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Draconic|Draconic]], [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Battle|Battle]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
+- **Bloodlines**: [[srd/pf2e/compendium/character/Bloodlines#Draconic|Draconic]], [[srd/pf2e/compendium/character/Bloodlines#Aesir|Aesir]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Battle|Battle]]
 - **Duration**: until the start of your next turn
 
 You raise a magical shield of force. This counts as using the Raise a Shield action, giving you a +1 circumstance bonus to AC until the start of your next turn, but it doesn't require a hand to use.

@@ -1,14 +1,14 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/treasure-vault-remastered
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/deadly
 - trait/sweep
 - trait/uncommon
 - weapon/level/0
 aliases: ["Urumi"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=306"
-source: "Treasure Vault (Remastered)"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -24,7 +24,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Flail
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Flail|Flail]]
 
 A bouquet of whiplike blades extends from the hilt of this sword, enabling deadly, sweeping attacks.
 
@@ -34,6 +34,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Caress of the Great Serpent
+[[srd/pf2e/compendium/equipment/weapons/Caress of the Great Serpent|Caress of the Great Serpent]]
 
-*Source: Treasure Vault (Remastered) p. 30*
+*Source: Tian Xia Character Guide p. 127*

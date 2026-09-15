@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Bard`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], Trained in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], or Trained in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]; [[srd/pf2e/compendium/feats/player-core/class/esoteric-polymath|Esoteric Polymath]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], Trained in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], or Trained in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]; [[srd/pf2e/compendium/feats/player-core/class/Esoteric Polymath|Esoteric Polymath]]
 
 Your esoteric formulas are so unusual that they allow you to dabble in magic from diverse traditions that other bards don’t understand. As long as you’re trained in Arcana, you can add arcane spells to your book from Esoteric Polymath; as long as you’re trained in Nature, you can add primal spells to your book; and as long as you are trained in Religion, you can add divine spells to your book.
 

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/gunslinger|Gunslinger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/gunslinger-dedication|Gunslinger Dedication]]; expert in Perception
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Gunslinger|Gunslinger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Gunslinger Dedication|Gunslinger Dedication]]; expert in Perception
 
 Your practice with crossbows and firearms has sharpened your attention to detail. You become a master in Perception.
 

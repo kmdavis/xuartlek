@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 - **Trigger**: An enemy you’re aware of fails its save against an emotion spell
 
-You prepare to take advantage of your enemy’s sudden change in emotions. The target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against your next attack before the end of your next turn.
+You prepare to take advantage of your enemy’s sudden change in emotions. The target is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] against your next attack before the end of your next turn.
 
 *Source: Player Core p. 101*

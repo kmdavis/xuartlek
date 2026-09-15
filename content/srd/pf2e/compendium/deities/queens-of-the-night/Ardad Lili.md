@@ -24,23 +24,23 @@ Intelligence or Charisma
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|Dagger]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|Dagger]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Dragon|Dragon]], [[srd/pf2e/compendium/character/domains#Passion|Passion]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Dragon|Dragon]], [[srd/pf2e/compendium/character/Domains#Passion|Passion]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/charm|Charm]]
+[[srd/pf2e/compendium/spells/rank-1/Charm|Charm]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/enthrall|Enthrall]]
+[[srd/pf2e/compendium/spells/rank-3/Enthrall|Enthrall]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]]
+[[srd/pf2e/compendium/spells/rank-4/Suggestion|Suggestion]]
 
 *Source: Divine Mysteries p. 320*

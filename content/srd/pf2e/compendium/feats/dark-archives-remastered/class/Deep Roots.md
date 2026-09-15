@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Psychic`
 
-Your mind-control spells send burrowing mental roots that tear at your target's mind when they're removed or run their course. When you Cast a Spell that imposes the [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]] condition or otherwise forces the target to take certain actions (such as [[srd/pf2e/compendium/spells/rank-1/command|_command_]]), you can choose one target that critically failed its save. When that target finishes fulfilling any commands issued by your spell, or when the spell is dispelled or counteracted, the target takes 1d6 mental damage per rank of the spell.
+Your mind-control spells send burrowing mental roots that tear at your target's mind when they're removed or run their course. When you Cast a Spell that imposes the [[srd/pf2e/compendium/rules-elements/Conditions#Controlled|controlled]] condition or otherwise forces the target to take certain actions (such as [[srd/pf2e/compendium/spells/rank-1/Command|_command_]]), you can choose one target that critically failed its save. When that target finishes fulfilling any commands issued by your spell, or when the spell is dispelled or counteracted, the target takes 1d6 mental damage per rank of the spell.
 
 *Source: Dark Archives (Remastered) p. 28*

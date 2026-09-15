@@ -24,21 +24,21 @@ Constitution or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/meteor-hammer|Meteor Hammer]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/Meteor Hammer|Meteor Hammer]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Repose|Repose]], [[srd/pf2e/compendium/character/domains#Water|Water]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Healing|Healing]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Repose|Repose]], [[srd/pf2e/compendium/character/Domains#Water|Water]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Family|Family]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Family|Family]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/endure|Endure]]
+[[srd/pf2e/compendium/spells/rank-1/Endure|Endure]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/haste|Haste]]
+[[srd/pf2e/compendium/spells/rank-3/Haste|Haste]]
 
 - **5th**
 Geyser

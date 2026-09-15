@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Inventor`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/class/incredible-construct-companion|Incredible Construct Companion]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Incredible Construct Companion|Incredible Construct Companion]]
 
-Your construct companion has reached the pinnacle of form and function. Your construct companion becomes a [[srd/pf2e/books/guns-gears-remastered/gears-characters/construct-companions#Paragon Construct Companions|paragon construct companion]].
+Your construct companion has reached the pinnacle of form and function. Your construct companion becomes a [[srd/pf2e/books/guns-gears-remastered/gears-characters/Construct Companions#Paragon Construct Companions|paragon construct companion]].
 
 *Source: Guns & Gears (Remastered) p. 30*

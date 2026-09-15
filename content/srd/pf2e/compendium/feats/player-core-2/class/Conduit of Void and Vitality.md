@@ -17,8 +17,8 @@ socialImage: og-image.png
 `Cursebound`  `Divine`  `Oracle`
 
 - **Prerequisites**: any oracle mystery
-- **Requirements**: You have [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]] or [[srd/pf2e/compendium/spells/rank-1/harm|_harm_]] as a signature spell and an available spell slot to cast it with.
+- **Requirements**: You have [[srd/pf2e/compendium/spells/rank-1/Heal|_heal_]] or [[srd/pf2e/compendium/spells/rank-1/Harm|_harm_]] as a signature spell and an available spell slot to cast it with.
 
-You use the unstable energy of your [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]] to manipulate the most basic of divine magic. You cast a 3-action [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]] or [[srd/pf2e/compendium/spells/rank-1/harm|_harm_]] spell, expending the slot as normal. If the spell restores Hit Points to one or more creatures, then one creature healed by this spell regains a number of additional Hit Points equal to 1d8 × your [[srd/pf2e/compendium/rules-elements/traits/player-core-2/cursebound|cursebound]] value; if the spell damages one or more creatures, then one creature harmed by this spell takes additional damage equal to 1d8 × your cursebound value.
+You use the unstable energy of your [[srd/pf2e/compendium/rules-elements/traits/player-core/Curse|curse]] to manipulate the most basic of divine magic. You cast a 3-action [[srd/pf2e/compendium/spells/rank-1/Heal|_heal_]] or [[srd/pf2e/compendium/spells/rank-1/Harm|_harm_]] spell, expending the slot as normal. If the spell restores Hit Points to one or more creatures, then one creature healed by this spell regains a number of additional Hit Points equal to 1d8 × your [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Cursebound|cursebound]] value; if the spell damages one or more creatures, then one creature harmed by this spell takes additional damage equal to 1d8 × your cursebound value.
 
 *Source: Player Core 2 p. 143*

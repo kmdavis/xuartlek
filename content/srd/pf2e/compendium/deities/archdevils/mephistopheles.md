@@ -24,23 +24,23 @@ Intelligence or Charisma
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/trident|Trident]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/Trident|Trident]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/domains#Tyranny|Tyranny]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/Domains#Tyranny|Tyranny]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Soul|Soul]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Soul|Soul]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/message-rune|Message Rune]]
+[[srd/pf2e/compendium/spells/rank-1/Message Rune|Message Rune]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/blistering-invective|Blistering Invective]]
+[[srd/pf2e/compendium/spells/rank-2/Blistering Invective|Blistering Invective]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/subconscious-suggestion|Subconscious Suggestion]]
+[[srd/pf2e/compendium/spells/rank-5/Subconscious Suggestion|Subconscious Suggestion]]
 
 *Source: Divine Mysteries p. 300*

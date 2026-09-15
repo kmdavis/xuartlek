@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: Protect the weak, pass your knowledge on to future generations, defend Sarkoris
 - **Anathema**: Ally with demons, harm a member of the Farheavens Clan except in delivering fair justice
 - **Area of Concern**: Guardians, family, preservation of culture
-- **Pantheons**: [[srd/pf2e/compendium/deities/sarkorian-covenants/the-spirit-wall|The Spirit Wall]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/sarkorian-covenants/The Spirit Wall|The Spirit Wall]]
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/fist|claw]] or [[srd/pf2e/compendium/equipment/weapons/club/war-gavel|War Gavel]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/Fist|claw]] or [[srd/pf2e/compendium/equipment/weapons/club/War Gavel|War Gavel]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Nature|Nature]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/ant-haul|Ant Haul]]
+[[srd/pf2e/compendium/spells/rank-1/Ant Haul|Ant Haul]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/enlarge|Enlarge]]
+[[srd/pf2e/compendium/spells/rank-2/Enlarge|Enlarge]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/moon-frenzy|Moon Frenzy]]
+[[srd/pf2e/compendium/spells/rank-5/Moon Frenzy|Moon Frenzy]]
 
 *Source: Divine Mysteries p. 322*

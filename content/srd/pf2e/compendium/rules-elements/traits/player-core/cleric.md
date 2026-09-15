@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Cleric`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/cleric|cleric]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Cleric|cleric]] class.
 
 *Source: Player Core p. 454*

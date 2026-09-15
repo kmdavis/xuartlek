@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/werecreature|Werecreature]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/werecreature-dedication|Werecreature Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Werecreature|Werecreature]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Werecreature Dedication|Werecreature Dedication]]
 - **Trigger**: You roll initiative.
 
 When danger threatens, your instincts kick in, and you can assume a different shape at a moment's notice. You use Change Shape to enter your hybrid shape.

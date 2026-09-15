@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Kholo`  `Gnoll`
 
-Your diet has strengthened you against diseases and poisons. You gain a +1 circumstance bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|diseases]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poisons]]. If you roll a success on a saving throw against a disease or poison, you get a critical success instead. If you have a different ability that would improve the save in this way (such as the battle hardened fighter class feature), if you roll a critical failure on the save you get a failure instead.
+Your diet has strengthened you against diseases and poisons. You gain a +1 circumstance bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|diseases]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poisons]]. If you roll a success on a saving throw against a disease or poison, you get a critical success instead. If you have a different ability that would improve the save in this way (such as the battle hardened fighter class feature), if you roll a critical failure on the save you get a failure instead.
 
 *Source: Player Core 2 p. 18*

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Nephilim`
 
-The long and complicated history of your bloodline manifests in your ability to draw power from more planar sources than most other nephilim. Choose one nephilim lineage feat that you do not already possess; you gain that feat and all of its benefits, even if you already took a [[srd/pf2e/compendium/rules-elements/traits/player-core/lineage|lineage]] feat at 1st level.
+The long and complicated history of your bloodline manifests in your ability to draw power from more planar sources than most other nephilim. Choose one nephilim lineage feat that you do not already possess; you gain that feat and all of its benefits, even if you already took a [[srd/pf2e/compendium/rules-elements/traits/player-core/Lineage|lineage]] feat at 1st level.
 
 *Source: Player Core p. 80*

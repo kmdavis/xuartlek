@@ -17,11 +17,11 @@ socialImage: og-image.png
 
 `Concentrate`  `Detection`  `Manipulate`  `Mental`
 
-- **Traditions**: Divine, Occult
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Area**: 30-foot emanation
 - **Duration**: 10 minutes
 
-You open your mind to the metaphysical, enabling you to sense nearby spirits. Even if you aren't [[srd/pf2e/compendium/rules-elements/actions/player-core#Search|Searching]], you get a check to find [[srd/pf2e/compendium/rules-elements/traits/gm-core/haunt|haunts]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirits]] in the area. You gain a +1 status bonus to the following checks regarding haunts or spirits: Perception checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]], attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]], skill checks to determine the reason for their existence, and skill checks to disable a haunt. You also gain a +1 status bonus to AC and saving throws against haunts and spirits.
+You open your mind to the metaphysical, enabling you to sense nearby spirits. Even if you aren't [[srd/pf2e/compendium/rules-elements/actions/player-core#Search|Searching]], you get a check to find [[srd/pf2e/compendium/rules-elements/traits/gm-core/Haunt|haunts]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirits]] in the area. You gain a +1 status bonus to the following checks regarding haunts or spirits: Perception checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]], attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]], skill checks to determine the reason for their existence, and skill checks to disable a haunt. You also gain a +1 status bonus to AC and saving throws against haunts and spirits.
 
 ---
 **Heightened (6th)** The spell's duration lasts until the next time you make your daily preparations.

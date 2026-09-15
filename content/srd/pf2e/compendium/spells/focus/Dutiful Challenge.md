@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Duty|Duty]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Duty|Duty]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

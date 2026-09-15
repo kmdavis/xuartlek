@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ranger|Ranger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/basic-hunters-trick|Basic Hunter's Trick]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ranger|Ranger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Basic Hunter's Trick|Basic Hunter's Trick]]
 
 You gain one ranger feat. For the purpose of meeting its prerequisites, your ranger level is equal to half your character level.
 

@@ -23,8 +23,8 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Crossbow
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/crossbow/repeating-heavy-crossbow-magazine|Repeating Heavy Crossbow Magazine]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Crossbow|Crossbow]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/crossbow/Repeating Heavy Crossbow Magazine|Repeating Heavy Crossbow Magazine]]
 
 This large crossbow has an internal chamber that can be loaded with up to five bolts. While it uses the same automated catch mechanism as other repeating crossbows, a repeating heavy crossbow's design has significant trade-offs. It has increased range and damage and is easier to learn how to use, but requires a small amount of effort to reload.
 

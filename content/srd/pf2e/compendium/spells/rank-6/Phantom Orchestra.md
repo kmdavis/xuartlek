@@ -17,12 +17,12 @@ socialImage: og-image.png
 
 `Air`  `Concentrate`  `Manipulate`  `Sonic`
 
-- **Traditions**: Arcane, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 120 feet
 - **Defense**: basic Fortitude
 - **Duration**: sustained up to 1 minute
 
-You orchestrate an invisible ensemble of lost sounds captured inside errant breezes across the [[srd/pf2e/compendium/gm/planes#Plane of Air|Plane of Air]], and you can direct this symphony to attack foes within range. The sounds materialize and manifest as directed, appearing as silhouetted instruments and musicians that dance and bob in the wind.
+You orchestrate an invisible ensemble of lost sounds captured inside errant breezes across the [[srd/pf2e/compendium/gm/Planes#Plane of Air|Plane of Air]], and you can direct this symphony to attack foes within range. The sounds materialize and manifest as directed, appearing as silhouetted instruments and musicians that dance and bob in the wind.
 
  When you Cast the Spell, a captured breath of ephemeral music explodes in a great crescendo, appearing in a space you choose within range. On subsequent rounds, the first time you Sustain the Spell each round, you can move your conjured melody to a space within range (if needed) and create another explosion of music.
 

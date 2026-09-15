@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Dragonblood`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/arcane-dragonblood|Arcane Dragonblood]], [[srd/pf2e/compendium/feats/player-core-2/ancestry/divine-dragonblood|Divine Dragonblood]], [[srd/pf2e/compendium/feats/player-core-2/ancestry/occult-dragonblood|Occult Dragonblood]], or [[srd/pf2e/compendium/feats/player-core-2/ancestry/primal-dragonblood|Primal Dragonblood]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Arcane Dragonblood|Arcane Dragonblood]], [[srd/pf2e/compendium/feats/player-core-2/ancestry/Divine Dragonblood|Divine Dragonblood]], [[srd/pf2e/compendium/feats/player-core-2/ancestry/Occult Dragonblood|Occult Dragonblood]], or [[srd/pf2e/compendium/feats/player-core-2/ancestry/Primal Dragonblood|Primal Dragonblood]]
 
-Due to your blood, you have some resistance to certain types of magic. You gain a +1 status bonus to AC and saves against spells and other magical effects from the same tradition as your lineage. This bonus increases to +2 against [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]] and [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralysis]] effects.
+Due to your blood, you have some resistance to certain types of magic. You gain a +1 status bonus to AC and saves against spells and other magical effects from the same tradition as your lineage. This bonus increases to +2 against [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]] and [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralysis]] effects.
 
 *Source: Player Core 2 p. 47*

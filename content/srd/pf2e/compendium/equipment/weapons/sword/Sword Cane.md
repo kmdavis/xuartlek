@@ -1,14 +1,14 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/player-core
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/agile
 - trait/concealable
 - trait/finesse
 - weapon/level/0
 aliases: ["Sword Cane"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=400"
-source: "Player Core"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -16,14 +16,14 @@ socialImage: og-image.png
 
 `Agile`  `Concealable`  `Finesse`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/faiths-philosophies/esoteric-order-of-the-palatine-eye|Esoteric Order Of The Palatine Eye]], Nin, The Freeing Flame
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/faiths-philosophies/Esoteric Order Of The Palatine Eye|Esoteric Order Of The Palatine Eye]], Nin, The Freeing Flame
 - **Price**: 5 gp
 - **Damage**: 1d6 P
 - **Bulk**: 1
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 This slender, rapier-like sword is concealed within a wooden or metal cane that serves as a sheath, making it an inconspicuous weapon easy to slip past inspections or into high-society events. A sword cane is typically 4 feet long when sheathed, and its hilt is usually capped with a wooden or metal decoration.
 
@@ -33,6 +33,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/infiltrators-accessory|Infiltrator's Accessory]]
+[[srd/pf2e/compendium/equipment/weapons/Infiltrator's Accessory|Infiltrator's Accessory]]
 
-*Source: Player Core p. 278*
+*Source: Tian Xia Character Guide p. 127*

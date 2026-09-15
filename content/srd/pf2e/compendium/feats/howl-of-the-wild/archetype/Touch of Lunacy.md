@@ -17,9 +17,9 @@ socialImage: og-image.png
 
 `Archetype`  `Curse`  `Morph`  `Primal`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/werecreature|Werecreature]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/werecreature-dedication|Werecreature Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Werecreature|Werecreature]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Werecreature Dedication|Werecreature Dedication]]
 
-In moments of viciousness, your curse can partially infect your prey. Whenever you critically succeed with an [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack from the werecreature archetype, the target must attempt a Fortitude save against the higher of your class DC or spell DC, or become [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 2]] until the beginning of your next turn as their bones elongate and form warps. On a critical failure, the target is also clumsy 1 for one minute as the transformation lingers.
+In moments of viciousness, your curse can partially infect your prey. Whenever you critically succeed with an [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack from the werecreature archetype, the target must attempt a Fortitude save against the higher of your class DC or spell DC, or become [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy 2]] until the beginning of your next turn as their bones elongate and form warps. On a critical failure, the target is also clumsy 1 for one minute as the transformation lingers.
 
 *Source: Howl of the Wild p. 79*

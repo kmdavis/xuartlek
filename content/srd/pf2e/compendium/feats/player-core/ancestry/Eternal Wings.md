@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Nephilim`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/divine-wings|Divine Wings]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/Divine Wings|Divine Wings]]
 
 Your wings are now a permanent part of your body. You gain the effects of Divine Wings at all times, rather than just once per day for 10 minutes.
 

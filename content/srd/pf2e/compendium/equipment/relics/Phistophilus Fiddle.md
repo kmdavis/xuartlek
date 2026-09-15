@@ -23,8 +23,8 @@ Made of pure gold with platinum strings, the _phistophilus fiddle_ shouldn't be 
 
 ---
 
-**Minor Gifts**: little helper, [[srd/pf2e/compendium/equipment/relics#Muse|muse]] ([[srd/pf2e/compendium/rules-elements/skills/performance|Performance]])
- **Major Gifts**: [[srd/pf2e/compendium/equipment/relics#Charming|charming]], fiendish bargain
- **Grand Gift**: [[srd/pf2e/compendium/equipment/relics#Artistic Perfection|artistic perfection]] (Performance)
+**Minor Gifts**: little helper, [[srd/pf2e/compendium/equipment/Relics#Muse|muse]] ([[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]])
+ **Major Gifts**: [[srd/pf2e/compendium/equipment/Relics#Charming|charming]], fiendish bargain
+ **Grand Gift**: [[srd/pf2e/compendium/equipment/Relics#Artistic Perfection|artistic perfection]] (Performance)
 
 *Source: Treasure Vault (Remastered) p. 205*

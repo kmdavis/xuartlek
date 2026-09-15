@@ -26,10 +26,10 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +8, [[srd/pf2e/compendium/rules-elements/skills/lore|Dwelling Lore]] +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +8, [[srd/pf2e/compendium/rules-elements/skills/Lore|Dwelling Lore]] +10"
 abilityMods: [4, 1, 3, 0, 1, 0]
 ac: 20
 armorclass:
@@ -51,14 +51,14 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +14 __Damage__ 2d8+4 piercing plus Improved Grab"
   - name: "Melee"
-    desc: "⬻ pseudopod +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d8+4 bludgeoning"
+    desc: "⬻ pseudopod +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 1d8+4 bludgeoning"
 abilities_bot:
   - name: "Mimic Object"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]]) The mimic assumes the shape of any Medium object. This doesn't change the mimic's texture or overall size but can alter their coloration and visual appearance. They have an automatic result of 28 on [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks and DCs to pass as the object that they're mimicking."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]]) The mimic assumes the shape of any Medium object. This doesn't change the mimic's texture or overall size but can alter their coloration and visual appearance. They have an automatic result of 28 on [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] checks and DCs to pass as the object that they're mimicking."
   - name: "Mobile Morph"
-    desc: "⬻ The mimic transforms part of their body into climbing claws, wings, or paddles. Until the end of their turn, they gain a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Climb Speed|climb]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Fly Speed|fly]], or [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Swim Speed|swim Speed]] of 40 feet. This speed is halved if the mimic has a creature swallowed. If they're in the air at the end of their turn, they fall as normal."
+    desc: "⬻ The mimic transforms part of their body into climbing claws, wings, or paddles. Until the end of their turn, they gain a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Climb Speed|climb]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Fly Speed|fly]], or [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Swim Speed|swim Speed]] of 40 feet. This speed is halved if the mimic has a creature swallowed. If they're in the air at the end of their turn, they fall as normal."
   - name: "Swallow Whole"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]]) Medium, 2d8 acid, Rupture 13 Creative Mimics The older the mimic, the more creative its guise, but within practical limits. For example, a mimic can appear as a neatly organized bookshelf with a single book out of place, a dried-up cistern with something glittering at its center, or an inconspicuous wooden door with a conveniently placed peephole."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|Attack]]) Medium, 2d8 acid, Rupture 13 Creative Mimics The older the mimic, the more creative its guise, but within practical limits. For example, a mimic can appear as a neatly organized bookshelf with a single book out of place, a dried-up cistern with something glittering at its center, or an inconspicuous wooden door with a conveniently placed peephole."
 sourcebook: "_Monster Core 2_, page 223."
 ```
 

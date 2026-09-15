@@ -24,23 +24,23 @@ Intelligence or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]]
 
 **Favored Weapon** Bola
 
-**Domains** [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Repose|Repose]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Repose|Repose]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/sleep|Sleep]]
+[[srd/pf2e/compendium/spells/rank-1/Sleep|Sleep]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]]
+[[srd/pf2e/compendium/spells/rank-2/Invisibility|Invisibility]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/illusory-scene|Illusory Scene]]
+[[srd/pf2e/compendium/spells/rank-5/Illusory Scene|Illusory Scene]]
 
 *Source: Divine Mysteries p. 312*

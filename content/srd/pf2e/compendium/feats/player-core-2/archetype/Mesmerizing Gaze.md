@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`  `Emotion`  `Mental`  `Visual`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/celebrity|Celebrity]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/celebrity-dedication|Celebrity Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Celebrity|Celebrity]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Celebrity Dedication|Celebrity Dedication]]
 
-When you meet someone's gaze, they're unable to look away from you. Choose one target creature you can see and that can see you. That creature must succeed at a Will save or be [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] with you until the end of your next turn; the DC is the higher of your class DC or spell DC. If the creature succeeds at its save or its fascination ends due to a hostile action, it becomes temporarily immune to your Mesmerizing Gaze for 1 day.
+When you meet someone's gaze, they're unable to look away from you. Choose one target creature you can see and that can see you. That creature must succeed at a Will save or be [[srd/pf2e/compendium/rules-elements/Conditions#Fascinated|fascinated]] with you until the end of your next turn; the DC is the higher of your class DC or spell DC. If the creature succeeds at its save or its fascination ends due to a hostile action, it becomes temporarily immune to your Mesmerizing Gaze for 1 day.
 
 *Source: Player Core 2 p. 194*

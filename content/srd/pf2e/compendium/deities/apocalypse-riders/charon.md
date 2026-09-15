@@ -24,23 +24,23 @@ Constitution or Intelligence
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/staff|Staff]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Staff|Staff]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Soul|Soul]], [[srd/pf2e/compendium/character/domains#Water|Water]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Soul|Soul]], [[srd/pf2e/compendium/character/Domains#Water|Water]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/grim-tendrils|Grim Tendrils]]
+[[srd/pf2e/compendium/spells/rank-1/Grim Tendrils|Grim Tendrils]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/wave-of-despair|Wave of Despair]]
+[[srd/pf2e/compendium/spells/rank-5/Wave of Despair|Wave of Despair]]
 
 - **9th**
-[[srd/pf2e/compendium/spells/rank-9/phantasmagoria|Phantasmagoria]]
+[[srd/pf2e/compendium/spells/rank-9/Phantasmagoria|Phantasmagoria]]
 
 *Source: Divine Mysteries p. 300*

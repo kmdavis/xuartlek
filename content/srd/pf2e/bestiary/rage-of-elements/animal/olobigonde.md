@@ -34,7 +34,7 @@ perception:
     desc: "+7; scent (imprecise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +9, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +7"
 abilityMods: [3, 1, 4, -4, 1, -5]
 abilities_top:
   - name: "Camouflage"
@@ -53,13 +53,13 @@ abilities_mid:
   - name: "Trigger"
     desc: "A target creature passes within 20 feet of the olobigonde's hiding place and has not detected the olobigonde"
   - name: "Effect"
-    desc: "The olobigonde lunges out of its hiding place, Swims directly toward the triggering creature, and makes a jaws Strike against it. The target creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to this attack."
+    desc: "The olobigonde lunges out of its hiding place, Swims directly toward the triggering creature, and makes a jaws Strike against it. The target creature is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to this attack."
   - name: "Reactive Grab"
     desc: "⬲"
   - name: "Trigger"
-    desc: "A creature within the olobigonde's reach leaves a square during a [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action it's using"
+    desc: "A creature within the olobigonde's reach leaves a square during a [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] action it's using"
   - name: "Requirements"
-    desc: "The olobigonde doesn't have a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]"
+    desc: "The olobigonde doesn't have a creature [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]]"
   - name: "Effect"
     desc: "The olobigonde attempts to Grapple the triggering creature with its jaws. On a success, the target also takes 3 piercing damage (doubled on a critical success)."
 speed: "5 feet, swim 30 feet"
@@ -68,7 +68,7 @@ attacks:
     desc: "⬻ jaws +11 __Damage__ 1d8+3 piercing plus decomposing toxin"
 abilities_bot:
   - name: "Decomposing Toxin"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]]) A living creature struck by an olobigonde's jaws Strike must succeed at a DC 15 Fortitude save or become enfeebled 1 and take 1d6 persistent poison damage (or enfeebled 2 with 2d6 persistent poison damage on a critical failure). The enfeebled condition ends when the persistent damage does. A creature currently affected by decomposing toxin doesn't need to save again. Olobigonde Toxin Alchemists who travel the planes have discovered how readily an olobigonde's toxin can decompose flesh, and some have discovered ways to incorporate it into their creations. An olobigonde's corpse yields approximately 1 gp worth of raw materials when harvested with a successful DC 16 [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] or [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] check (2 gp worth on a critical success). This material can be used only to craft alchemical bombs with the [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] trait."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]]) A living creature struck by an olobigonde's jaws Strike must succeed at a DC 15 Fortitude save or become enfeebled 1 and take 1d6 persistent poison damage (or enfeebled 2 with 2d6 persistent poison damage on a critical failure). The enfeebled condition ends when the persistent damage does. A creature currently affected by decomposing toxin doesn't need to save again. Olobigonde Toxin Alchemists who travel the planes have discovered how readily an olobigonde's toxin can decompose flesh, and some have discovered ways to incorporate it into their creations. An olobigonde's corpse yields approximately 1 gp worth of raw materials when harvested with a successful DC 16 [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] or [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] check (2 gp worth on a critical success). This material can be used only to craft alchemical bombs with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] trait."
 sourcebook: "_Rage of Elements_, page 184."
 ```
 

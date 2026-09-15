@@ -20,6 +20,6 @@ You notice spirits that inhabit objects, learning which bring good fortune and w
 
 ### Leshy Superstition leads to...
 
-[[srd/pf2e/compendium/feats/player-core/ancestry/lucky-keepsake|Lucky Keepsake]]
+[[srd/pf2e/compendium/feats/player-core/ancestry/Lucky Keepsake|Lucky Keepsake]]
 
 *Source: Player Core p. 68*

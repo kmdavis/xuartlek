@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/overwatch|Overwatch]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/overwatch-dedication|Overwatch Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Overwatch|Overwatch]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Overwatch Dedication|Overwatch Dedication]]
 - **Trigger**: An ally within your overwatch field fails in their attempt to Arrest a Fall, Balance, Grab a Ledge, or Maneuver in Flight.
 - **Requirements**: You are wielding a ranged weapon.
 

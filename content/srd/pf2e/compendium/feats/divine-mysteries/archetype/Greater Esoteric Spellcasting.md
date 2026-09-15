@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/palatine-detective|Palatine Detective]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/esoteric-spellcasting|Esoteric Spellcasting]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Palatine Detective|Palatine Detective]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Esoteric Spellcasting|Esoteric Spellcasting]]
 
-Your understanding of magic has evolved, and so has your spellcasting. You become an expert in the spell attack modifier and spell DC statistics. Also, choose a tradition from which you can cast innate spells due to the [[srd/pf2e/compendium/feats/divine-mysteries/archetype/esoteric-spellcasting|Esoteric Spellcasting]] feat. You also gain a 4th-rank spell of that tradition as an innate spell you can cast once a day. At 12th level, you gain a 5th-rank spell, and at 14th level, you gain a 6th-rank spell, both of the same tradition.
+Your understanding of magic has evolved, and so has your spellcasting. You become an expert in the spell attack modifier and spell DC statistics. Also, choose a tradition from which you can cast innate spells due to the [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Esoteric Spellcasting|Esoteric Spellcasting]] feat. You also gain a 4th-rank spell of that tradition as an innate spell you can cast once a day. At 12th level, you gain a 5th-rank spell, and at 14th level, you gain a 6th-rank spell, both of the same tradition.
 
 **Special** You can take this feat a second time, choosing a different eligible tradition.
 

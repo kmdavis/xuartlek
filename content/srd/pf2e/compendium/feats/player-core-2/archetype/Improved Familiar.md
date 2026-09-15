@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/familiar-master|Familiar Master]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/familiar-master-dedication|Familiar Master Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Familiar Master|Familiar Master]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Familiar Master Dedication|Familiar Master Dedication]]
 
 You find it easy to attract a powerful and unusual familiar to your side. The number of abilities required to make your familiar a specific familiar is two lower than normal.
 

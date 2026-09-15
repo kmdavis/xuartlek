@@ -28,18 +28,18 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; (15 to smell and taste) keen eyes, scent (imprecise) 30 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Halfling|Halfling]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/lore|Baking Lore]] +15, [[srd/pf2e/compendium/rules-elements/skills/lore|Cooking Lore]] +17, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +7, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Lore|Baking Lore]] +15, [[srd/pf2e/compendium/rules-elements/skills/Lore|Cooking Lore]] +17, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +7, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +6"
 abilityMods: [1, 3, 2, 2, 1, 1]
 abilities_top:
   - name: "Culinary Specialist"
     desc: "For encounters involving cooking and taste, the head chef is a 7th-level challenge."
   - name: "Keen Eyes"
-    desc: "The halfling gains a +2 circumstance bonus when using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] action to find [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] creatures within 30 feet of them. Whenever the halfling targets a creature that is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] or hidden from them, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one."
+    desc: "The halfling gains a +2 circumstance bonus when using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] action to find [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]] creatures within 30 feet of them. Whenever the halfling targets a creature that is [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] or hidden from them, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one."
   - name: "Items"
-    desc: "chef's hat, Filcher's Fork, [[srd/pf2e/compendium/equipment/weapons/club/frying-pan|Frying Pan]], herbs and spices"
+    desc: "chef's hat, Filcher's Fork, [[srd/pf2e/compendium/equipment/weapons/club/Frying Pan|Frying Pan]], herbs and spices"
 ac: 17
 armorclass:
   - name: "AC"
@@ -58,26 +58,26 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ hot frying pan +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d8]]) __Damage__ 1d4+3 bludgeoning plus 1d4 fire"
+    desc: "⬻ hot frying pan +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fatal|fatal d8]]) __Damage__ 1d4+3 bludgeoning plus 1d4 fire"
   - name: "Melee"
-    desc: "⬻ filcher's fork +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/backstabber|Backstabber]], [[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d6]]) __Damage__ 1d4+3 piercing"
+    desc: "⬻ filcher's fork +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Backstabber|Backstabber]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d6]]) __Damage__ 1d4+3 piercing"
   - name: "Melee"
-    desc: "⬻ fist +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+3 bludgeoning"
+    desc: "⬻ fist +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+3 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ filcher's fork +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/backstabber|Backstabber]], [[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d6]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d4+3 piercing"
+    desc: "⬻ filcher's fork +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Backstabber|Backstabber]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d6]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 20 feet]]) __Damage__ 1d4+3 piercing"
 abilities_bot:
   - name: "Angry Rant"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]])"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]])"
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
     desc: "The chef shouts a flurry of insults and criticisms at either an ally or enemy within 30 feet with the following effects:"
   - name: "Ally"
-    desc: "The chef's assistant is shaken by the barrage of criticism but is determined to work faster and harder. The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] for 1 round but is also [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]]. They can use the extra action to Interact, Step, or Stride, or as part of an action or activity to prepare, cook, or serve food."
+    desc: "The chef's assistant is shaken by the barrage of criticism but is determined to work faster and harder. The target becomes [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]] for 1 round but is also [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened 1]]. They can use the extra action to Interact, Step, or Stride, or as part of an action or activity to prepare, cook, or serve food."
   - name: "Enemy"
     desc: "The target must succeed a DC 18 Will save or take 1d6 mental damage and become frightened 1 (or 2d6 mental damage and frightened 2 on a critical failure)."
   - name: "Spice Mix"
-    desc: "⬻ The head chef throws a mixture of irritating spices into an adjacent creature's eyes, causing the creature to be [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] until it Interacts to clear its vision. Chef's Menu A halfling head chef crafts exquisite dishes that tantalize the taste buds. Delights like honeyblossom pudding (honey, cream, and flower petals), stuffed burrow rolls (meat and vegetables wrapped in flaky pastry), sunberry glazed roast (meat marinated in sunberry sauce), and root medley gratin (layers of root vegetables and cheese) showcase their prowess."
+    desc: "⬻ The head chef throws a mixture of irritating spices into an adjacent creature's eyes, causing the creature to be [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] until it Interacts to clear its vision. Chef's Menu A halfling head chef crafts exquisite dishes that tantalize the taste buds. Delights like honeyblossom pudding (honey, cream, and flower petals), stuffed burrow rolls (meat and vegetables wrapped in flaky pastry), sunberry glazed roast (meat marinated in sunberry sauce), and root medley gratin (layers of root vegetables and cheese) showcase their prowess."
 sourcebook: "_NPC Core_, page 190."
 ```
 

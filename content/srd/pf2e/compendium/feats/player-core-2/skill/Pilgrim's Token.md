@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]; follower of a specific religion
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]; follower of a specific religion
 
-You carry a small token of protection from a site holy to your faith. You gain a [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|wooden religious symbol]] for your deity for free. As long as this religious symbol is in your possession, when you tie an adversary's initiative roll, you go first. 
+You carry a small token of protection from a site holy to your faith. You gain a [[srd/pf2e/compendium/equipment/adventuring-gear/Religious Symbol|wooden religious symbol]] for your deity for free. As long as this religious symbol is in your possession, when you tie an adversary's initiative roll, you go first. 
 
 If you lose this religious symbol, you must purchase or [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] a replacement and attune it. Such a token usually costs at least 1 sp, and the attunement takes 10 minutes of prayer. You can also attune a different religious symbol with the same amount of time, but you lose the benefit of the previous religious symbol.
 

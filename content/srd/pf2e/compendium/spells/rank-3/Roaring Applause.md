@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Emotion`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Deity**: Marishi
 - **Range**: 60 feet
 - **Target**: 1 creature
@@ -30,9 +30,9 @@ Your flamboyant flourish invokes such powerful feelings in your audience that yo
 
 **Success** The target becomes mildly distracted and applauds while it isn’t fully occupied. It can’t use reactions.
 
-**Failure** The target applauds you so vigorously that it can’t use reactions and is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1. The applause is so involved that it has the [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] trait. This triggers reactions based on the manipulate trait at the start of the target’s turn.
+**Failure** The target applauds you so vigorously that it can’t use reactions and is [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]] 1. The applause is so involved that it has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]] trait. This triggers reactions based on the manipulate trait at the start of the target’s turn.
 
-**Critical Failure** As failure, plus the target is so distracted by its vigorous applauding of you that it’s [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] with you.
+**Critical Failure** As failure, plus the target is so distracted by its vigorous applauding of you that it’s [[srd/pf2e/compendium/rules-elements/Conditions#Fascinated|fascinated]] with you.
 
 ---
 **Heightened (6th)** You can target up to 10 creatures.

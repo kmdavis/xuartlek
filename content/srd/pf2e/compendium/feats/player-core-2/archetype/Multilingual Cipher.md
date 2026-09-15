@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/linguist|Linguist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/linguist-dedication|Linguist Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Linguist|Linguist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Linguist Dedication|Linguist Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
 You use multiple languages to create and break codes. You gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/actions/player-core#Decipher Writing|Decipher Writing]]. If another creature attempts to Decipher Writing you encoded, they take a –2 circumstance penalty unless they speak all the languages you used when you created the writing.
 

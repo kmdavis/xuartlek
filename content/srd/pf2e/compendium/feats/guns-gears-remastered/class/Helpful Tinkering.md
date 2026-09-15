@@ -16,9 +16,9 @@ socialImage: og-image.png
 `Inventor`  `Manipulate`
 
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: [[srd/pf2e/compendium/character/classes/inventor|offensive boost]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/classes/Inventor|offensive boost]]
 
-You don't just tinker with your own innovation, you fiddle with your allies' weapons as well (for their benefit, of course). Choose an ally in your reach and one of their weapons. Attempt a [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check against a high DC for your level.
+You don't just tinker with your own innovation, you fiddle with your allies' weapons as well (for their benefit, of course). Choose an ally in your reach and one of their weapons. Attempt a [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] check against a high DC for your level.
 
 **Success** For 1 minute, the chosen ally's Strikes with the chosen weapon gain the same offensive boost your innovation has.
 

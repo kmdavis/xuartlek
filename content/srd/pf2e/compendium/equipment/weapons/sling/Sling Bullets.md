@@ -15,7 +15,7 @@ socialImage: og-image.png
 - **Bulk**: L
 - **Type**: Ranged
 - **Category**: Ammunition
-- **Group**: Sling
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sling|Sling]]
 
 These are small metal balls, typically either iron or lead, designed to be used as ammunition in slings.
 

@@ -1,6 +1,7 @@
 ---
 title: "Chapter 2: Ancestry NPCs"
 aliases: ["Chapter 2: Ancestry NPCs"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3367"
 citation: "NPC Core pg. 167"
-socialImage: og-image.png
 ---
 
 # Chapter 2: Ancestry NPCs
@@ -20,4 +20,4 @@ This chapter presents entries for every ancestry appearing in *Pathfinder Player
 
 ## Contents
 
-- [[srd/pf2e/books/npc-core/chapter-2-ancestry-npcs/crossover-ancestry-npcs|Crossover Ancestry NPCs]]
+- [[srd/pf2e/books/npc-core/chapter-2-ancestry-npcs/Crossover Ancestry NPCs|Crossover Ancestry NPCs]]

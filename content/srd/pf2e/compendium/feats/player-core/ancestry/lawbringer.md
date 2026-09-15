@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Lineage`  `Nephilim`
 
-You trace your lineage to archons, guardians of the seventiered mountain of [[srd/pf2e/compendium/gm/planes#Heaven|Heaven]] and nurturers of law and virtue within mortals. You gain a +1 circumstance bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effects, and if you roll a success on a save against an emotion effect, you get a critical success instead.
+You trace your lineage to archons, guardians of the seventiered mountain of [[srd/pf2e/compendium/gm/Planes#Heaven|Heaven]] and nurturers of law and virtue within mortals. You gain a +1 circumstance bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]] effects, and if you roll a success on a save against an emotion effect, you get a critical success instead.
 
 ### Lawbringer leads to...
 
-[[srd/pf2e/compendium/feats/player-core/ancestry/celestial-magic|Celestial Magic]]
+[[srd/pf2e/compendium/feats/player-core/ancestry/Celestial Magic|Celestial Magic]]
 
 *Source: Player Core p. 79*

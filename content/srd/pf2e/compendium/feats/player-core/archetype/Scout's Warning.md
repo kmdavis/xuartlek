@@ -18,6 +18,6 @@ socialImage: og-image.png
 - **Archetype**: Knight Reclaimant (Level 8)
 - **Trigger**: You are about to roll a Perception or Survival check for initiative
 
-You visually or audibly warn your allies of danger, granting them each a +1 circumstance bonus to their initiative rolls, or a +2 circumstance bonus if you're using the Scout exploration activity. Depending on whether you use gestures or call out, this action gains either the [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] or the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] trait, respectively.
+You visually or audibly warn your allies of danger, granting them each a +1 circumstance bonus to their initiative rolls, or a +2 circumstance bonus if you're using the Scout exploration activity. Depending on whether you use gestures or call out, this action gains either the [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]] or the [[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]] trait, respectively.
 
 *Source: Player Core p. 159*

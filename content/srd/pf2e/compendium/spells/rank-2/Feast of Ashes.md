@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Curse`  `Manipulate`
 
-- **Traditions**: Arcane, Occult, Primal
-- **Deities**: Fumeiyoshi, [[srd/pf2e/compendium/deities/daemon-harbingers/pavnuri|Pavnuri]], [[srd/pf2e/compendium/deities/qlippoth-lords/thuskchoon|Thuskchoon]], [[srd/pf2e/compendium/deities/apocalypse-riders/trelmarixian|Trelmarixian]], [[srd/pf2e/compendium/deities/demon-lords/xoveron|Xoveron]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Fumeiyoshi, [[srd/pf2e/compendium/deities/daemon-harbingers/Pavnuri|Pavnuri]], [[srd/pf2e/compendium/deities/qlippoth-lords/Thuskchoon|Thuskchoon]], [[srd/pf2e/compendium/deities/apocalypse-riders/Trelmarixian|Trelmarixian]], [[srd/pf2e/compendium/deities/demon-lords/Xoveron|Xoveron]]
 - **Range**: 30 feet
 - **Target**: 1 living creature
 - **Defense**: Fortitude
@@ -27,7 +27,7 @@ You curse the target with a hunger no food can sate. You can [[srd/pf2e/compendi
 
 **Critical Success** The creature is unaffected and is temporarily immune for 1 hour.
 
-**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] for 1 round.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|fatigued]] for 1 round.
 
 **Failure** The creature is immediately afflicted by hunger as if it hadn’t eaten food in days. It becomes fatigued and takes 1d4 damage each day that can’t be healed until it sates its hunger. No amount of eating can sate the creature’s hunger during the spell’s duration.
 

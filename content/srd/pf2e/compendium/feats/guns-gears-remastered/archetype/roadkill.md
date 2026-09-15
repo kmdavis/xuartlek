@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/trick-driver|Trick Driver]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/trick-driver-dedication|Trick Driver Dedication]]
-- **Requirements**: You are piloting a vehicle.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Trick Driver|Trick Driver]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Trick Driver Dedication|Trick Driver Dedication]]
+- **Requirements**: You are piloting a [[srd/pf2e/compendium/equipment/vehicles/vehicles|vehicle]].
 
 In your hands, any vehicle is a weapon. When you use Run Over, you can use your class DC in place of the vehicle's collision DC. Your vehicle can Run Over any number of creatures up to one Size smaller than the vehicle or ram any one target creature or object in your path up to the size of your vehicle.
 

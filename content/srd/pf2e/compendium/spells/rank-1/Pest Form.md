@@ -16,18 +16,18 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Polymorph`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: Bastet, Daikitsu, [[srd/pf2e/compendium/deities/other-gods/grandmother-spider|Grandmother Spider]], Sigek, [[srd/pf2e/compendium/deities/dead-or-missing-deities/ydersius|Ydersius]], [[srd/pf2e/compendium/deities/demon-lords/zevgavizeb|Zevgavizeb]]
-- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Mosquito Witch|Mosquito Witch]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Bastet, Daikitsu, [[srd/pf2e/compendium/deities/other-gods/Grandmother Spider|Grandmother Spider]], Sigek, [[srd/pf2e/compendium/deities/dead-or-missing-deities/Ydersius|Ydersius]], [[srd/pf2e/compendium/deities/demon-lords/Zevgavizeb|Zevgavizeb]]
+- **Patron Theme**: [[srd/pf2e/compendium/character/Patrons#Mosquito Witch|Mosquito Witch]]
 - **Duration**: 10 minutes
 
 You transform into the battle form of a Tiny animal, such as
 a cat, insect, lizard, or rat. You can decide the specific type of
 animal (such as a rat or praying mantis), but this has no effect
-on your Size or statistics. While in this form, you gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] trait, and you can't make Strikes. You can Dismiss the spell.
+on your Size or statistics. While in this form, you gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animal]] trait, and you can't make Strikes. You can Dismiss the spell.
 
  You gain the following statistics and abilities: 
-AC = 15 + your level. Ignore your armor's check penalty and Speed reduction.Speed 20 feet.Weakness 5 to physical damage. (If you take physical damage in this form, you take 5 additional damage.)Low-light vision and imprecise scent 30 feet.[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] and [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] modifiers of +10, unless your own is higher; [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] modifier –4.
+AC = 15 + your level. Ignore your armor's check penalty and Speed reduction.Speed 20 feet.Weakness 5 to physical damage. (If you take physical damage in this form, you take 5 additional damage.)Low-light vision and imprecise scent 30 feet.[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] and [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] modifiers of +10, unless your own is higher; [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] modifier –4.
 
 ---
 **Heightened (4th)** You can turn into a flying creature, such as a bird, which grants you a fly Speed of 20 feet.

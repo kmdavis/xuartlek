@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Attack`  `Concentrate`  `Poison`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: touch
 - **Target**: 1 creature
 - **Defense**: AC
 
-You conjure up a deadly stinger on your hand and stab a foe. Make a melee spell attack against the target’s AC. On a hit, the target takes 1d4 piercing damage and 3d4 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent poison damage]] (or double damage on a critical hit). Additionally, the target is [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 until it removes the persistent poison damage.
+You conjure up a deadly stinger on your hand and stab a foe. Make a melee spell attack against the target’s AC. On a hit, the target takes 1d4 piercing damage and 3d4 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent poison damage]] (or double damage on a critical hit). Additionally, the target is [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]] 1 until it removes the persistent poison damage.
 
 ---
 **Heightened (+2)** The initial piercing damage increases by 1d4, and the persistent poison damage increases by 2d4.

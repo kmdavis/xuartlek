@@ -18,13 +18,13 @@ socialImage: og-image.png
 
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Steel Shield|Steel Shield]]
+- **Base Shield**: [[srd/pf2e/compendium/equipment/Shields#Steel Shield|Steel Shield]]
 
 **Perception** +12; precise vision 30 feet, imprecise hearing 30 feet
 
-**Communication** speech ([[srd/pf2e/compendium/rules-elements/languages#Common|Common]] and [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]])
+**Communication** speech ([[srd/pf2e/compendium/rules-elements/Languages#Common|Common]] and [[srd/pf2e/compendium/rules-elements/Languages#Empyrean|Empyrean]])
 
-**Skills** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +15, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +13
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +15, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +13
 
 **Int** +0, **Wis** +2, **Cha** +4
 
@@ -32,6 +32,6 @@ socialImage: og-image.png
 
 --- 
 
-_A martyr's shield_ is a _lesser sturdy shield_ imbued with the compassion of a devout champion of a righteous deity, like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]] or [[srd/pf2e/compendium/deities/empyreal-lords/vildeis|Vildeis]], who sacrificed themself to save an ally. In addition to good-naturedly attempting to convert you to its religion, the _martyr's shield_ can use 1 reaction each round that, when raised, it uses to Shield Block to protect an ally adjacent to you. This follows the rules for Shield Block, but protects your ally instead. The _martyr's shield_ uses this reaction whether you would prefer it did so or not. The _martyr's shield_ can be upgraded to a stronger form of _sturdy shield_ by paying the difference in cost between its current type of _sturdy shield_ and the new type.
+_A martyr's shield_ is a _lesser sturdy shield_ imbued with the compassion of a devout champion of a righteous deity, like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Iomedae|Iomedae]] or [[srd/pf2e/compendium/deities/empyreal-lords/Vildeis|Vildeis]], who sacrificed themself to save an ally. In addition to good-naturedly attempting to convert you to its religion, the _martyr's shield_ can use 1 reaction each round that, when raised, it uses to Shield Block to protect an ally adjacent to you. This follows the rules for Shield Block, but protects your ally instead. The _martyr's shield_ uses this reaction whether you would prefer it did so or not. The _martyr's shield_ can be upgraded to a stronger form of _sturdy shield_ by paying the difference in cost between its current type of _sturdy shield_ and the new type.
 
 *Source: GM Core p. 305*

@@ -14,11 +14,11 @@ Expertise is forged through years of effort and often tedious work. Artisans are
 
 ### Members
 
-[[srd/pf2e/bestiary/npc-core/humanoid/apprentice|Apprentice]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/guildmaster|Guildmaster]] (Creature 8), [[srd/pf2e/bestiary/npc-core/humanoid/merchant|Merchant]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/smith|Smith]] (Creature 3)
+[[srd/pf2e/bestiary/npc-core/humanoid/Apprentice|Apprentice]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/Guildmaster|Guildmaster]] (Creature 8), [[srd/pf2e/bestiary/npc-core/humanoid/Merchant|Merchant]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/Smith|Smith]] (Creature 3)
 
 ### Crossover Ancestry NPCs
 
-Several of the NPCs elsewhere in NPC Core can fit well in this group: [[srd/pf2e/bestiary/npc-core/humanoid/dwarf-smith|Dwarf smith]] (level 0), [[srd/pf2e/bestiary/npc-core/humanoid/forlorn-artist|forlorn artist]] (level 2), [[srd/pf2e/bestiary/npc-core/humanoid/goblin-chef|goblin chef]] (level 1), [[srd/pf2e/bestiary/npc-core/humanoid/halfling-head-chef|halfling head chef]] (level 2), [[srd/pf2e/bestiary/npc-core/humanoid/tengu-bladesmith|tengu bladesmith]] (level 6)
+Several of the NPCs elsewhere in NPC Core can fit well in this group: [[srd/pf2e/bestiary/npc-core/humanoid/Dwarf Smith|Dwarf smith]] (level 0), [[srd/pf2e/bestiary/npc-core/humanoid/Forlorn Artist|forlorn artist]] (level 2), [[srd/pf2e/bestiary/npc-core/humanoid/Goblin Chef|goblin chef]] (level 1), [[srd/pf2e/bestiary/npc-core/humanoid/Halfling Head Chef|halfling head chef]] (level 2), [[srd/pf2e/bestiary/npc-core/humanoid/Tengu Bladesmith|tengu bladesmith]] (level 6)
 
 ### Don't Split The Party
 

@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
 **Favored Weapon** Bola
 
-**Domains** [[srd/pf2e/compendium/character/domains#Lightning|Lightning]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Travel|Travel]], [[srd/pf2e/compendium/character/domains#Water|Water]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Lightning|Lightning]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]], [[srd/pf2e/compendium/character/Domains#Water|Water]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Cold|Cold]], [[srd/pf2e/compendium/character/domains#Dust|Dust]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Cold|Cold]], [[srd/pf2e/compendium/character/Domains#Dust|Dust]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/hydraulic-push|Hydraulic Push]]
+[[srd/pf2e/compendium/spells/rank-1/Hydraulic Push|Hydraulic Push]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/aqueous-orb|Aqueous Orb]]
+[[srd/pf2e/compendium/spells/rank-3/Aqueous Orb|Aqueous Orb]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/control-water|Control Water]]
+[[srd/pf2e/compendium/spells/rank-5/Control Water|Control Water]]
 
 *Source: Divine Mysteries p. 320*

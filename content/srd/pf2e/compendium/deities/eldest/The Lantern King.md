@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: Play pranks, seek new jokes, leave lit lanterns in unusual places
 - **Anathema**: Be completely honest, ruin or explain a good joke
 - **Area of Concern**: Laughter, mischief, transformation
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/fortunes-fate|Fortune's Fate]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Fortune's Fate|Fortune's Fate]]
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Intelligence or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|Dagger]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|Dagger]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/domains#Passion|Passion]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/Domains#Passion|Passion]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/illusory-disguise|Illusory Disguise]]
+[[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|Illusory Disguise]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/laughing-fit|Laughing Fit]]
+[[srd/pf2e/compendium/spells/rank-2/Laughing Fit|Laughing Fit]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/cursed-metamorphosis|Cursed Metamorphosis]]
+[[srd/pf2e/compendium/spells/rank-6/Cursed Metamorphosis|Cursed Metamorphosis]]
 
 *Source: Divine Mysteries p. 306*

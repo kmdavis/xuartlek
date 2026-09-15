@@ -16,13 +16,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Poison`
 
-- **Tradition**: Primal
-- **Deities**: [[srd/pf2e/compendium/deities/infernal-dukes/nergal|Nergal]], [[srd/pf2e/compendium/deities/monitor-demigods/teshallas|Teshallas]]
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/infernal-dukes/Nergal|Nergal]], [[srd/pf2e/compendium/deities/monitor-demigods/Teshallas|Teshallas]]
 - **Range**: 30 feet
 - **Target**: your companion or eidolon
 - **Duration**: 1 minute
 
-You envenom your companion or eidolon's attacks, which drip with highly toxic venom for the spell's duration. The first time each round the target hits a creature with an unarmed Strike that deals piercing or slashing damage, that Strike deals an additional 1d8 poison damage. A creature that's damaged by this poison must attempt a Fortitude save against your spell DC. On a failure, it's also [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]] for 1 round.
+You envenom your companion or eidolon's attacks, which drip with highly toxic venom for the spell's duration. The first time each round the target hits a creature with an unarmed Strike that deals piercing or slashing damage, that Strike deals an additional 1d8 poison damage. A creature that's damaged by this poison must attempt a Fortitude save against your spell DC. On a failure, it's also [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy 1]] for 1 round.
 
  This spell can't target familiars.
 

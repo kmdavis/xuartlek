@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Inventor`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-You are incredibly skilled at reverse engineering items to learn their formulas or disassembling them just to disable them. If you are using the [[srd/pf2e/books/treasure-vault-remastered/secrets-of-crafting/crafting-alternate-rules#Critical Crafting|Critical Crafting]] alternate rules and you get a critical success on your Crafting check to reverse engineer an item, you can reassemble the original item with one of the critical success crafting benefits (as determined by your GM.) Furthermore, you can use Crafting instead of Thievery to Disable a Device or Pick a Lock.
+You are incredibly skilled at reverse engineering items to learn their formulas or disassembling them just to disable them. If you are using the [[srd/pf2e/books/treasure-vault-remastered/secrets-of-crafting/Crafting Alternate Rules#Critical Crafting|Critical Crafting]] alternate rules and you get a critical success on your Crafting check to reverse engineer an item, you can reassemble the original item with one of the critical success crafting benefits (as determined by your GM.) Furthermore, you can use Crafting instead of Thievery to Disable a Device or Pick a Lock.
 
 *Source: Guns & Gears (Remastered) p. 25*

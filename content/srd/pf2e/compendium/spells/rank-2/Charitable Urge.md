@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Incapacitation`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will
@@ -27,7 +27,7 @@ You speak on the virtue of charity, compelling the target to give away its posse
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]] as it wrestles with the urge.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned 1]] as it wrestles with the urge.
 
 **Failure** On its next turn, before it does anything else, the target must present the nearest creature with an item in its possession; the target chooses which item to give, and if the only item it has is one that it's currently using to defend itself, such as a weapon during a combat encounter, it can choose to be stunned for 1 round instead of giving up the item. This might require the target to Interact to retrieve an item or move to reach the nearest creature, and passing the item off requires an Interact action as normal.
 

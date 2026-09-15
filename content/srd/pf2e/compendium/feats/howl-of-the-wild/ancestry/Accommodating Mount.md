@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Centaur`
 
-You've trained to serve as a mount, if only for your most trusted allies. When another PC rides you as a mount, your expert coordination allows them to gain three actions at the start of their turn, rather than the two they normally would for riding another PC (see [[srd/pf2e/books/howl-of-the-wild/special-ancestry-rules/riding-pcs|Riding PCs]]). You still gain only two actions at the start of your turn, instead of three, as you spend one action keeping them balanced on your back and ensuring they're firmly mounted.
+You've trained to serve as a mount, if only for your most trusted allies. When another PC rides you as a mount, your expert coordination allows them to gain three actions at the start of their turn, rather than the two they normally would for riding another PC (see [[srd/pf2e/books/howl-of-the-wild/special-ancestry-rules/Riding PCs|Riding PCs]]). You still gain only two actions at the start of your turn, instead of three, as you spend one action keeping them balanced on your back and ensuring they're firmly mounted.
 
 *Source: Howl of the Wild p. 32*

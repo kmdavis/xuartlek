@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wildspell|Wildspell]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/wildspell-dedication|Wildspell Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wildspell|Wildspell]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Wildspell Dedication|Wildspell Dedication]]
 
 You can break your spells down into raw magical potential and transfer it to an ally. Expend one prepared spell, spell slot, or Focus Point, and choose an adjacent ally or an ally within your _spellsurge_ aura. If you expended a spell or spell slot, the ally regains one expended spell or spell slot with a rank equal to or lower than the spell or spell slot you expended. If you expended a Focus Point, the ally regains a Focus Point. This feat can’t grant more spell slots or Focus Points than the target can normally possess. You can’t target yourself with this ability. Only one spell, spell slot, or Focus Point can be transferred with each use of this ability.
 

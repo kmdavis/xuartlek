@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Centaur`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/speaker-in-training|Speaker in Training]] or [[srd/pf2e/compendium/character/heritages#Budding Speaker Centaur|Budding Speaker Centaur]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Speaker in Training|Speaker in Training]] or [[srd/pf2e/compendium/character/Heritages#Budding Speaker Centaur|Budding Speaker Centaur]] heritage
 
-You're among the most powerful of Speakers and can adopt the form of the spirits you entreat with. Select one of the following spells, which you can cast once per day as a 7th-rank innate spell. If you're a Faithspeaker, select from _angel form_, _daemon form_, _demon form_, or _devil form_, which you cast as a divine spell; if you're a Greenspeaker, select from [[srd/pf2e/compendium/spells/rank-5/elemental-form|_elemental form_]] or [[srd/pf2e/compendium/spells/rank-5/plant-form|_plant form_]], which you cast as a primal spell.
+You're among the most powerful of Speakers and can adopt the form of the spirits you entreat with. Select one of the following spells, which you can cast once per day as a 7th-rank innate spell. If you're a Faithspeaker, select from _angel form_, _daemon form_, _demon form_, or _devil form_, which you cast as a divine spell; if you're a Greenspeaker, select from [[srd/pf2e/compendium/spells/rank-5/Elemental Form|_elemental form_]] or [[srd/pf2e/compendium/spells/rank-5/Plant Form|_plant form_]], which you cast as a primal spell.
 
 *Source: Howl of the Wild p. 33*

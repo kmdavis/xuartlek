@@ -20,7 +20,7 @@ socialImage: og-image.png
 - **Bulk**: L
 - **Activate**: Cast a Spell
 
-An astringent aroma from rare succulent plants wafts off these soothing cloth patches. Adding this catalyst to a _[[srd/pf2e/compendium/spells/rank-1/heal|_heal_]]_ spell bestows additional [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] to one target healed by the spell. These temporary Hit Points last for 1 minute.
+An astringent aroma from rare succulent plants wafts off these soothing cloth patches. Adding this catalyst to a _[[srd/pf2e/compendium/spells/rank-1/Heal|_heal_]]_ spell bestows additional [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Temporary Hit Points|temporary Hit Points]] to one target healed by the spell. These temporary Hit Points last for 1 minute.
 
 ### Healer's Gel
 

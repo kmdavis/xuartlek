@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/magus|Magus]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/magus-dedication|Magus Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Magus|Magus]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Magus Dedication|Magus Dedication]]
 
-You gain the [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|basic spellcasting benefits]]. Each time you gain a spell slot of a new rank from the magus archetype, add two common spells of that rank or lower to your spellbook.
+You gain the [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Spellcasting Archetypes|basic spellcasting benefits]]. Each time you gain a spell slot of a new rank from the magus archetype, add two common spells of that rank or lower to your spellbook.
 
 ### Basic Magus Spellcasting leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/archetype/expert-magus-spellcasting|Expert Magus Spellcasting]]
+[[srd/pf2e/compendium/feats/impossible-magic/archetype/Expert Magus Spellcasting|Expert Magus Spellcasting]]
 
 *Source: Impossible Magic p. 88*

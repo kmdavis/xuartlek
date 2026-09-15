@@ -32,10 +32,10 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +14, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +15, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +14, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +15, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +14"
 abilityMods: [-5, 5, 0, -1, 2, 4]
 abilities_top:
   - name: "Site Bound"
@@ -47,12 +47,12 @@ armorclass:
 hp: 55
 health:
   - name: "HP"
-    desc: "55 (void healing, rejuvenation); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], precision, [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ all damage 5 (except [[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]], [[srd/pf2e/compendium/equipment/runes/ghost-touch|_ghost touch_]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]; double resistance vs. non-[[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]])"
+    desc: "55 (void healing, rejuvenation); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], precision, [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]]; __Resistances__ all damage 5 (except [[srd/pf2e/compendium/rules-elements/traits/player-core/Force|force]], [[srd/pf2e/compendium/equipment/runes/Ghost Touch|_ghost touch_]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Vitality|vitality]]; double resistance vs. non-[[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]])"
 abilities_mid:
   - name: "Natural Invisibility"
-    desc: "A poltergeist is naturally [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]]. It becomes visible only when it uses Frighten."
+    desc: "A poltergeist is naturally [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]]. It becomes visible only when it uses Frighten."
   - name: "Rejuvenation"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) When a poltergeist is destroyed, it reforms, fully healed, where it was destroyed after 2d4 days. A poltergeist can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]]) When a poltergeist is destroyed, it reforms, fully healed, where it was destroyed after 2d4 days. A poltergeist can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
   - name: "Telekinetic Defense"
     desc: "⬲"
   - name: "Trigger"
@@ -62,19 +62,19 @@ abilities_mid:
 speed: "fly 20 feet"
 attacks:
   - name: "Ranged"
-    desc: "⬻ telekinetic object +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]], range increment 60 feet) __Damage__ 2d12 bludgeoning, piercing, or slashing (depending on object)"
+    desc: "⬻ telekinetic object +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|Occult]], range increment 60 feet) __Damage__ 2d12 bludgeoning, piercing, or slashing (depending on object)"
 abilities_bot:
   - name: "Frighten"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]])"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]])"
   - name: "Requirements"
-    desc: "The poltergeist must be [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]]"
+    desc: "The poltergeist must be [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]]"
   - name: "Effect"
-    desc: "The poltergeist becomes visible, appearing as a skeletal, ghostlike humanoid. Each creature within 30 feet must attempt a DC 21 Will save, becoming [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 2]] on a failure. On a critical failure, it's also [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] for as long as it's frightened. On a success, the creature is temporarily immune for 1 minute. At the start of its next turn, the poltergeist becomes invisible again."
+    desc: "The poltergeist becomes visible, appearing as a skeletal, ghostlike humanoid. Each creature within 30 feet must attempt a DC 21 Will save, becoming [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened 2]] on a failure. On a critical failure, it's also [[srd/pf2e/compendium/rules-elements/Conditions#Fleeing|fleeing]] for as long as it's frightened. On a success, the creature is temporarily immune for 1 minute. At the start of its next turn, the poltergeist becomes invisible again."
   - name: "Telekinetic Storm"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) The poltergeist telekinetically throws numerous small objects, such as dozens of pieces of silverware or books, either spreading them out among multiple foes or directing them at one target. When this effect is spread out among multiple foes, the poltergeist makes a telekinetic object Strike at a –2 penalty against each creature within 30 feet. These count as one attack for the poltergeist's multiple attack penalty, and the penalty doesn't increase until after all the attacks.When this effect has only one target, the poltergeist makes a telekinetic object Strike against the target, and the damage increases to 3d12. It deals 1d12 damage on a failure, and no damage on a critical failure. Disturbed Rest One of the most common ways for a poltergeist to form is when its burial site is desecrated by the construction of a dwelling. This is usually an accident, but some creatures intentionally create poltergeists to serve as guardians. Poltergeist Treasure A poltergeist needs items to hurl as weapons, and over the centuries of use, only durable objects survive its rampages. Silver dinnerware, hatchets, and books might all be found in a poltergeist's collection."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|Occult]]) The poltergeist telekinetically throws numerous small objects, such as dozens of pieces of silverware or books, either spreading them out among multiple foes or directing them at one target. When this effect is spread out among multiple foes, the poltergeist makes a telekinetic object Strike at a –2 penalty against each creature within 30 feet. These count as one attack for the poltergeist's multiple attack penalty, and the penalty doesn't increase until after all the attacks.When this effect has only one target, the poltergeist makes a telekinetic object Strike against the target, and the damage increases to 3d12. It deals 1d12 damage on a failure, and no damage on a critical failure. Disturbed Rest One of the most common ways for a poltergeist to form is when its burial site is desecrated by the construction of a dwelling. This is usually an accident, but some creatures intentionally create poltergeists to serve as guardians. Poltergeist Treasure A poltergeist needs items to hurl as weapons, and over the centuries of use, only durable objects survive its rampages. Silver dinnerware, hatchets, and books might all be found in a poltergeist's collection."
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 23, attack +13 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]] - __3rd__ [[srd/pf2e/compendium/spells/rank-2/telekinetic-maneuver|Telekinetic Maneuver]] (at will)"
+    desc: "DC 23, attack +13 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/Telekinetic Hand|Telekinetic Hand]] - __3rd__ [[srd/pf2e/compendium/spells/rank-2/Telekinetic Maneuver|Telekinetic Maneuver]] (at will)"
 sourcebook: "_Monster Core_, page 268."
 ```
 

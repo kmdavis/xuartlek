@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 - **Trigger**: Your attack with a firearm misfires.
 
-Even as your firearm [[srd/pf2e/books/guns-gears-remastered/guns-equipment/classic-firearms|misfires]], you quickly draw a backup. Release the misfired weapon and Interact to draw a different
+Even as your firearm [[srd/pf2e/books/guns-gears-remastered/guns-equipment/Classic Firearms|misfires]], you quickly draw a backup. Release the misfired weapon and Interact to draw a different
 weapon that requires the same number of hands or fewer.
 
 *Source: Guns & Gears (Remastered) p. 112*

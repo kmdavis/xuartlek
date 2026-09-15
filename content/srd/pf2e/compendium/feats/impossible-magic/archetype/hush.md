@@ -15,15 +15,15 @@ socialImage: og-image.png
 
 `Archetype`  `Magical`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/veil-dancer|Veil Dancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/veil-dancer-dedication|Veil Dancer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Veil Dancer|Veil Dancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Veil Dancer Dedication|Veil Dancer Dedication]]
 - **Requirements**: You are veiled.
 
 You strike a target and hinder their attempts to call for help. You teleport to a square within 60 feet and make a Strike against a creature; if you hit, it must attempt a Fortitude save against your class DC or spell DC, whichever is higher. Regardless of the result, the target is then immune to your Hush for 24 hours.
 
 **Success** The target is otherwise unaffected.
 
-**Failure** The target takes 10d6 force damage, and the target is affected by a 2nd-rank [[srd/pf2e/compendium/spells/rank-2/silence|_silence_]] spell for 1 round.
+**Failure** The target takes 10d6 force damage, and the target is affected by a 2nd-rank [[srd/pf2e/compendium/spells/rank-2/Silence|_silence_]] spell for 1 round.
 
 **Critical Failure** The target takes 15d6 damage, and the target is affected by a 2nd-rank _silence_ spell for 1 minute.
 

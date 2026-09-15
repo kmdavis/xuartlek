@@ -16,18 +16,18 @@ socialImage: og-image.png
 
 `Concentrate`  `Incapacitation`  `Manipulate`
 
-- **Traditions**: Arcane, Occult
-- **Deity**: [[srd/pf2e/compendium/deities/monitor-demigods/vonymos|Vonymos]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deity**: [[srd/pf2e/compendium/deities/monitor-demigods/Vonymos|Vonymos]]
 - **Range**: 120 feet
 - **Area**: 60-foot tall, 30-foot radius cylinder
 
 Extraordinary telekinetic pressure smashes down through the area, battering creatures within it to the ground. All flying creatures in the area descend to the bottom of the spell's area, taking twice as much bludgeoning damage as if they had fallen the distance moved, to a maximum of 60 falling damage if they fall 60 feet. They take this falling damage even if the spell's area is entirely in the air and they don't hit the ground, as they concuss against the bottom of the spell's area at great speed. Creatures on the ground and within the spell's area, including flying creatures forced to the ground, must attempt Fortitude saves.
 
-**Critical Success** The creature is unaffected, and if it was flying, it isn't knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] even though it took falling damage.
+**Critical Success** The creature is unaffected, and if it was flying, it isn't knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] even though it took falling damage.
 
 **Success** The creature is knocked prone.
 
-**Failure** The creature is knocked prone and [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 2.
+**Failure** The creature is knocked prone and [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]] 2.
 
 **Critical Failure** The creature is knocked prone and stunned for 1 round.
 

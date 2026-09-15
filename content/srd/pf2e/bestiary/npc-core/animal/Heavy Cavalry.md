@@ -32,10 +32,10 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "+14"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +15, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +12, [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +15, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +12, [[srd/pf2e/compendium/rules-elements/skills/Lore|Warfare Lore]] +15"
 abilityMods: [7, 2, 4, 0, 1, 2]
 ac: 25
 armorclass:
@@ -47,7 +47,7 @@ health:
     desc: "105 (4 segments); __Weaknesses__ area damage 8, splash damage 8"
 abilities_mid:
   - name: "Mounted Troop"
-    desc: "Effects that target only [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]] or only [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoids]] might not work on the cavalry brigade, subject to the GM's discretion."
+    desc: "Effects that target only [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animals]] or only [[srd/pf2e/compendium/rules-elements/traits/player-core/Humanoid|humanoids]] might not work on the cavalry brigade, subject to the GM's discretion."
   - name: "Troop Defenses"
     desc: ""
 speed: "40 feet; troop movement"
@@ -63,9 +63,9 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The heavy cavalry Strides. At the end of their movement, the cavalry can either attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] each adjacent enemy or an [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] each enemy within 30 feet. Roll only once and compare the result to each enemy's Reflex DC (for Trip) or Will DC (for Demoralize)."
+    desc: "The heavy cavalry Strides. At the end of their movement, the cavalry can either attempt an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] each adjacent enemy or an [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] each enemy within 30 feet. Roll only once and compare the result to each enemy's Reflex DC (for Trip) or Will DC (for Demoralize)."
   - name: "Trample"
-    desc: "⬽ Medium or smaller, 2d8+7 bludgeoning, DC 22; creatures that fail the save are also knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]."
+    desc: "⬽ Medium or smaller, 2d8+7 bludgeoning, DC 22; creatures that fail the save are also knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]."
 sourcebook: "_NPC Core_, page 92."
 ```
 

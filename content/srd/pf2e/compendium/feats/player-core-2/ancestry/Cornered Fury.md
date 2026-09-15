@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Ratfolk`
 
-If a foe of a larger size than you critically hits and damages you, that foe is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to you for 1 round.
+If a foe of a larger size than you critically hits and damages you, that foe is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to you for 1 round.
 
 *Source: Player Core 2 p. 30*

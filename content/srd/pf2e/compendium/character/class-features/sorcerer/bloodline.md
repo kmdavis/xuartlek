@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 Choose a bloodline that gives you your spellcasting talent. This choice determines the type of spells you cast and the spell list you choose them from, the additional spells you learn, and your additional trained skills. You also gain Focus Points and special focus spells based on your bloodline. 
 
- Bloodlines can be found [[srd/pf2e/compendium/character/bloodlines|here]].
+ Bloodlines can be found [[srd/pf2e/compendium/character/Bloodlines|here]].
 
 *Source: Player Core 2 p. 144*

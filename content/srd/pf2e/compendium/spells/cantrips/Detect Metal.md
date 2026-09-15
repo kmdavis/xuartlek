@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Detection`  `Manipulate`  `Metal`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Area**: 30-foot emanation
 
 You attune yourself to magnetic fields, becoming aware of the presence or absence of metallic objects, veins, and deposits within the area. You can choose to ignore metal you're fully aware of, such as the gear you and your allies wear and carry.

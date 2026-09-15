@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`
 
-- **Traditions**: Arcane, Occult
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Time|Time]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Time|Time]]
 
 When you Cast the Spell, you gain a perfect sense of time. You can learn exactly what time it is, down to the second. You can instead choose to gain a perfect sense of the calendar if you have knowledge in that area—if you're trained in Nature, you can learn exactly how long it is until sunrise and how many days until the next solstice. If you're trained in Astronomy Lore, you can learn precisely when any known predictable astronomical conjunction will begin and end, and so on.
 

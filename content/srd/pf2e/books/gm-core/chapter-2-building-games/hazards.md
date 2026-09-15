@@ -1,6 +1,7 @@
 ---
 title: "Hazards"
 aliases: ["Hazards"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2846"
 citation: "GM Core pg. 98"
-socialImage: og-image.png
 ---
 
 # Hazards

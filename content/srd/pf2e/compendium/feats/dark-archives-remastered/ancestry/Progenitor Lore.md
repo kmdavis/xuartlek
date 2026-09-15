@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Reflection`
 
-You didn't just inherit your physical form from your progenitor; you also retained some of their knowledge. You're trained in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] and [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in a [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] corresponding to your ancestry (e. g., Elf Lore if your progenitor is an elf).
+You didn't just inherit your physical form from your progenitor; you also retained some of their knowledge. You're trained in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] and [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in a [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] corresponding to your ancestry (e. g., Elf Lore if your progenitor is an elf).
 
 *Source: Dark Archives (Remastered) p. 120*

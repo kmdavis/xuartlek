@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `Incapacitation`  `Monk`
 
-- **Requirements**: You have a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]].
+- **Requirements**: You have a creature [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]].
 
-You pinch crucial points of your target's nervous system, impeding its ability to function. Attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] the creature, with the following success and critical success effects instead of the usual effects.
+You pinch crucial points of your target's nervous system, impeding its ability to function. Attempt an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] the creature, with the following success and critical success effects instead of the usual effects.
 
-**Critical Success** The target falls [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] for 1 minute, though it remains standing and doesn't drop what it holds.
+**Critical Success** The target falls [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]] for 1 minute, though it remains standing and doesn't drop what it holds.
 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]] until the end of its next turn.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy 1]] until the end of its next turn.
 
 *Source: Player Core 2 p. 124*

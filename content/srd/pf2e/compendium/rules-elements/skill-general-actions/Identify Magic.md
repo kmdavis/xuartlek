@@ -14,12 +14,12 @@ Using the skill related to the appropriate tradition, as explained in the Magica
 
 ### Skill Uses
 
-[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] Identify Magic , particularly magic of the arcane tradition.
+[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] Identify Magic , particularly magic of the [arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1) tradition.
 
-[[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] Identify Magic , particularly magic of the primal tradition.
+[[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] Identify Magic , particularly magic of the [primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4) tradition.
 
-[[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] Identify Magic , particularly magic of the occult tradition.
+[[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] Identify Magic , particularly magic of the [occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3) tradition.
 
-[[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] Identify Magic , particularly magic of the divine tradition.
+[[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] Identify Magic , particularly magic of the [divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2) tradition.
 
 *Source: Player Core p. 230*

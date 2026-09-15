@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Deadly`  `Volley`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/covenants/breath-of-the-endless-sky|Breath of the Endless Sky]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/cernunnos|Cernunnos]], [[srd/pf2e/compendium/deities/queens-of-the-night/eiseth|Eiseth]], [[srd/pf2e/compendium/deities/azlanti-pantheon/elion|Elion]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/erastil|Erastil]], General Susumu, [[srd/pf2e/compendium/deities/elemental-lords/hshurha|Hshurha]], [[srd/pf2e/compendium/deities/qlippoth-lords/isph-aun-vuln|Isph-Aun-Vuln]], [[srd/pf2e/compendium/deities/orc-gods/jukha|Jukha]], [[srd/pf2e/compendium/deities/elven-gods/ketephys|Ketephys]], [[srd/pf2e/compendium/deities/monitor-demigods/phlegyas|Phlegyas]], [[srd/pf2e/compendium/deities/giant-gods/skode|Skode]], Sky Keepers, [[srd/pf2e/compendium/deities/pantheons/sovyrian-conclave|Sovyrian Conclave]], [[srd/pf2e/compendium/deities/empyreal-lords/ylimancha|Ylimancha]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/covenants/Breath of the Endless Sky|Breath of the Endless Sky]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/Cernunnos|Cernunnos]], [[srd/pf2e/compendium/deities/queens-of-the-night/Eiseth|Eiseth]], [[srd/pf2e/compendium/deities/azlanti-pantheon/Elion|Elion]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Erastil|Erastil]], General Susumu, [[srd/pf2e/compendium/deities/elemental-lords/Hshurha|Hshurha]], [[srd/pf2e/compendium/deities/qlippoth-lords/Isph-Aun-Vuln|Isph-Aun-Vuln]], [[srd/pf2e/compendium/deities/orc-gods/Jukha|Jukha]], [[srd/pf2e/compendium/deities/elven-gods/Ketephys|Ketephys]], [[srd/pf2e/compendium/deities/monitor-demigods/Phlegyas|Phlegyas]], [[srd/pf2e/compendium/deities/giant-gods/Skode|Skode]], Sky Keepers, [[srd/pf2e/compendium/deities/pantheons/Sovyrian Conclave|Sovyrian Conclave]], [[srd/pf2e/compendium/deities/empyreal-lords/Ylimancha|Ylimancha]]
 - **Price**: 6 gp
 - **Damage**: 1d8 P
 - **Bulk**: 2
@@ -24,8 +24,8 @@ socialImage: og-image.png
 - **Reload**: 0
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Bow
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/bow/arrows|Arrows]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bow|Bow]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/bow/Arrows|Arrows]]
 
 This 5-foot-tall bow, usually made of a single piece of elm, hickory, or yew, has a powerful draw and is excellent at propelling arrows with great force and at an extreme distance. You must use two hands to fire a longbow, and it can't be used while mounted.
 
@@ -35,6 +35,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/horselords-longbow|Horselord's Longbow]], [[srd/pf2e/compendium/equipment/weapons/hunters-anthem|Hunter's Anthem]], [[srd/pf2e/compendium/equipment/weapons/splithead-bow|Splithead Bow]]
+[[srd/pf2e/compendium/equipment/weapons/Horselord's Longbow|Horselord's Longbow]], [[srd/pf2e/compendium/equipment/weapons/Hunter's Anthem|Hunter's Anthem]], [[srd/pf2e/compendium/equipment/weapons/Splithead Bow|Splithead Bow]]
 
 *Source: Player Core p. 280*

@@ -24,23 +24,23 @@ Wisdom or Charisma
 
 **Divine Sanctification** must choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/katar|Katar]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Katar|Katar]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Sun|Sun]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Fire|Fire]], [[srd/pf2e/compendium/character/Domains#Healing|Healing]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Sun|Sun]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]]
+[[srd/pf2e/compendium/spells/rank-1/Soothe|Soothe]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/ghostly-weapon|Ghostly Weapon]]
+[[srd/pf2e/compendium/spells/rank-3/Ghostly Weapon|Ghostly Weapon]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/fire-shield|Fire Shield]]
+[[srd/pf2e/compendium/spells/rank-4/Fire Shield|Fire Shield]]
 
 *Source: Divine Mysteries p. 306*

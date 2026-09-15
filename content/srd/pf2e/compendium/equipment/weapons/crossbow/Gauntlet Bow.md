@@ -24,8 +24,8 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Crossbow
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/crossbow/bolts|Bolts]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Crossbow|Crossbow]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/crossbow/Bolts|Bolts]]
 
 The gauntlet bow is a heavy metal glove with a built-in crossbow and rotating chamber mechanism for easy reloading. A gauntlet bow can be used to make melee attacks like a standard gauntlet, and it retains any valid runes when used as such. You can't reload a gauntlet bow with the hand wielding it.
 

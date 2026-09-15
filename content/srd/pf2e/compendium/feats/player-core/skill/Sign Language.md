@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
 You learn the sign languages associated with the languages you know, allowing you to sign and understand signs. Sign languages typically require both hands to convey more complex concepts, and they are visual rather than auditory.
 

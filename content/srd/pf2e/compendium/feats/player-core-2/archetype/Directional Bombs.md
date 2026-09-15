@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Alchemist`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/demolitionist|Demolitionist]] (Level 8)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Demolitionist|Demolitionist]] (Level 8)
 
-You can lob bombs with great force and a precise trajectory to angle the splash in a cone that sprays in a single direction, potentially allowing you to avoid allies and splash deeper into enemy lines. When throwing an alchemical bomb with the [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] trait, instead of splashing all squares adjacent to the target, you can create a splash in a 15-foot cone. You choose the cone's direction, but its first square must be a square in the target's space.
+You can lob bombs with great force and a precise trajectory to angle the splash in a cone that sprays in a single direction, potentially allowing you to avoid allies and splash deeper into enemy lines. When throwing an [alchemical bomb](https://2e.aonprd.com/Equipment.aspx?Category=6&Subcategory=7) with the [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] trait, instead of splashing all squares adjacent to the target, you can create a splash in a 15-foot cone. You choose the cone's direction, but its first square must be a square in the target's space.
 
 **Special** If you have the Expanded Splash feat or another ability that increases the radius of splash damage, you can have the splash damage be a 20-foot cone.
 

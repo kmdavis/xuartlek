@@ -24,23 +24,23 @@ Dexterity or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/rapier|Rapier]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Rapier|Rapier]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/domains#Magic|Magic]], [[srd/pf2e/compendium/character/domains#Travel|Travel]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/Domains#Magic|Magic]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/illusory-disguise|Illusory Disguise]]
+[[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|Illusory Disguise]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/illusory-scene|Illusory Scene]]
+[[srd/pf2e/compendium/spells/rank-5/Illusory Scene|Illusory Scene]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/true-target|True Target]]
+[[srd/pf2e/compendium/spells/rank-7/True Target|True Target]]
 
 *Source: Divine Mysteries p. 310*

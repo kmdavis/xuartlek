@@ -18,8 +18,8 @@ socialImage: og-image.png
 
 `Animist`  `Apparition`  `Divine`  `Stance`  `Wandering`
 
-- **Requirements**: You are attuned to an apparition that grants Circus [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] or Fey Lore as one of its apparition skills.
+- **Requirements**: You are attuned to an apparition that grants Circus [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] or Fey Lore as one of its apparition skills.
 
-You adopt a stance that makes your movements carefree and sublimely unpredictable, allowing you to move past impediments with ease and resist the attacks and importunateness of natural threats. You ignore [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]], and you gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] equal to half your level against damage dealt to you by [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]], [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beasts]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fungus|fungi]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plants]].
+You adopt a stance that makes your movements carefree and sublimely unpredictable, allowing you to move past impediments with ease and resist the attacks and importunateness of natural threats. You ignore [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Difficult Terrain|difficult terrain]], and you gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistance]] equal to half your level against damage dealt to you by [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animals]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Beast|beasts]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fey|fey]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fungus|fungi]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plants]].
 
 *Source: War of Immortals p. 26*

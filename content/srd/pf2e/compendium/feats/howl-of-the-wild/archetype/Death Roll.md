@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/werecreature|Werecreature]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/werecreature-dedication|Werecreature Dedication]]; werecrocodile
-- **Requirements**: You are in your crocodile or hybrid shape and have a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]].
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Werecreature|Werecreature]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Werecreature Dedication|Werecreature Dedication]]; werecrocodile
+- **Requirements**: You are in your crocodile or hybrid shape and have a creature [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]].
 
-You corkscrew your body, twisting your victim. You attempt a jaws Strike against the grabbed creature, with a +2 circumstance bonus if you're fighting in water. If the Strike hits, you knock the creature [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]; if it misses, they escape your grab.
+You corkscrew your body, twisting your victim. You attempt a jaws Strike against the grabbed creature, with a +2 circumstance bonus if you're fighting in water. If the Strike hits, you knock the creature [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]; if it misses, they escape your grab.
 
 *Source: Howl of the Wild p. 77*

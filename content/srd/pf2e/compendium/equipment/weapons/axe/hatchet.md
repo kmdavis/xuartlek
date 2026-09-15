@@ -16,14 +16,14 @@ socialImage: og-image.png
 
 `Agile`  `Sweep`  `Thrown`
 
-- **Favored Weapon**: Cormion, Immonhiel, [[srd/pf2e/compendium/deities/vudrani-gods/likha|Likha]], [[srd/pf2e/compendium/deities/monitor-demigods/narriseminek|Narriseminek]]
+- **Favored Weapon**: Cormion, Immonhiel, [[srd/pf2e/compendium/deities/vudrani-gods/Likha|Likha]], [[srd/pf2e/compendium/deities/monitor-demigods/Narriseminek|Narriseminek]]
 - **Price**: 4 sp
 - **Damage**: 1d6 S
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Axe
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Axe|Axe]]
 
 This small axe can be used in close combat or thrown.
 

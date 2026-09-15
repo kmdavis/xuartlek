@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Target**: your eidolon, or a creature with the minion trait under your control
 - **Duration**: until the start of your next turn

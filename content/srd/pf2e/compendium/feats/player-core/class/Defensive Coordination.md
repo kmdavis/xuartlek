@@ -18,8 +18,8 @@ socialImage: og-image.png
 
 `Auditory`  `Bard`  `Concentrate`  `Spellshape`  `Metamagic`
 
-- **Prerequisites**: warrior muse; [[srd/pf2e/compendium/feats/player-core/class/rallying-anthem|Rallying Anthem]]
+- **Prerequisites**: warrior muse; [[srd/pf2e/compendium/feats/player-core/class/Rallying Anthem|Rallying Anthem]]
 
-Like the storied heroes who persist in the face of overwhelming odds, you and your allies will hold the line. If your next action is to cast the [[srd/pf2e/compendium/spells/cantrips/rallying-anthem|_rallying anthem_]] composition cantrip, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise a Shield]], and one ally of your choice who gains a status bonus from the spell can immediately use their reaction to Raise a Shield.
+Like the storied heroes who persist in the face of overwhelming odds, you and your allies will hold the line. If your next action is to cast the [[srd/pf2e/compendium/spells/cantrips/Rallying Anthem|_rallying anthem_]] composition cantrip, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise a Shield]], and one ally of your choice who gains a status bonus from the spell can immediately use their reaction to Raise a Shield.
 
 *Source: Player Core p. 103*

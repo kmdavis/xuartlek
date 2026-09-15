@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 Your natural climbing ability and technique has made you a potent climber. You gain a climb Speed of 10 feet.
 
-**Special** If you have the [[srd/pf2e/compendium/character/heritages#Stickytoe Tripkee|stickytoe tripkee heritage]], you instead gain a climb Speed of 20 feet.
+**Special** If you have the [[srd/pf2e/compendium/character/Heritages#Stickytoe Tripkee|stickytoe tripkee heritage]], you instead gain a climb Speed of 20 feet.
 
 *Source: Player Core 2 p. 38*

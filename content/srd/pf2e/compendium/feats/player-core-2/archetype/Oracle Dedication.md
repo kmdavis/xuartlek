@@ -16,15 +16,15 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`  `Multiclass`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/oracle|Oracle]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Oracle|Oracle]]
 - **Prerequisites**: Charisma +2
 
-Choose a mystery. You become trained in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] and the mystery’s skill; if you were already trained, you become trained in a skill of your choice. You gain the curse associated with your mystery, which follows the normal rules for an oracular curse.
+Choose a mystery. You become trained in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] and the mystery’s skill; if you were already trained, you become trained in a skill of your choice. You gain the curse associated with your mystery, which follows the normal rules for an oracular curse.
 
 You cast spells like an oracle and gain the [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] activity. You gain a spell repertoire with two cantrips, either common divine cantrips or other divine cantrips you learn or discover. You’re trained in the spell attack modifier and spell DC statistics. Your key spellcasting attribute for oracle archetype spells is Charisma, and they are divine oracle spells.
 
 ### Oracle Dedication leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/basic-mysteries|Basic Mysteries]], [[srd/pf2e/compendium/feats/player-core-2/archetype/basic-oracle-spellcasting|Basic Oracle Spellcasting]], [[srd/pf2e/compendium/feats/player-core-2/archetype/first-revelation|First Revelation]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Basic Mysteries|Basic Mysteries]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Basic Oracle Spellcasting|Basic Oracle Spellcasting]], [[srd/pf2e/compendium/feats/player-core-2/archetype/First Revelation|First Revelation]]
 
 *Source: Player Core 2 p. 180*

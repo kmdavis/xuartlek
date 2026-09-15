@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 - **Prerequisites**: Qi Spells
 
-You learn a stance that lets you attack from a distance. You gain the [[srd/pf2e/compendium/spells/focus/wild-winds-stance|_wild winds stance_]] qi spell. Though entering the stance is a qi spell, the wind crash Strikes the stance grants are not, so you can use them as often as you like while in the stance.
+You learn a stance that lets you attack from a distance. You gain the [[srd/pf2e/compendium/spells/focus/Wild Winds Stance|_wild winds stance_]] qi spell. Though entering the stance is a qi spell, the wind crash Strikes the stance grants are not, so you can use them as often as you like while in the stance.
 
 ### Wild Winds Initiate leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/wild-winds-gust|Wild Winds Gust]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Wild Winds Gust|Wild Winds Gust]]
 
 *Source: Player Core 2 p. 124*

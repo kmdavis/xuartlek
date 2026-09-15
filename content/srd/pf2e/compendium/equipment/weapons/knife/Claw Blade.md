@@ -26,7 +26,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Knife
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Knife|Knife]]
 
 This handheld weapon’s three parallel blades extend between the fingers to resemble the natural claws of the amurruns who created them, providing a way for those catfolk without suitable natural claws to share the fighting customs of their kin.
 

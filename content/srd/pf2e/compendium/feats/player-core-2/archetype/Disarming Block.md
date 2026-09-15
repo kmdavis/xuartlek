@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/bastion|Bastion]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/bastion-dedication|Bastion Dedication]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
-- **Trigger**: You [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] a melee [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] made with a held weapon.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Bastion|Bastion]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Bastion Dedication|Bastion Dedication]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
+- **Trigger**: You [[srd/pf2e/compendium/feats/player-core/general/Shield Block|Shield Block]] a melee [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] made with a held weapon.
 
 With deft and practiced movement, you block at an angle to potentially dislodge the weapon. You attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]] the creature whose attack you blocked of the weapon they attacked you with. You can do so even if you don’t have a hand free.
 

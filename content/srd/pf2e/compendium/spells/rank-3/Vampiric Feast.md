@@ -18,8 +18,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Death`  `Manipulate`  `Void`  `Negative`
 
-- **Traditions**: Arcane, Divine, Occult
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Aberrant|Aberrant]]
 - **Range**: touch
 - **Target**: 1 living creature
 - **Defense**: basic Fortitude

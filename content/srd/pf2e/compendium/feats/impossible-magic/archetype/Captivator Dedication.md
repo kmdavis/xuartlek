@@ -15,15 +15,15 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/captivator|Captivator]]
-- **Prerequisites**: Charisma +2; Trained in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or Trained in [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Captivator|Captivator]]
+- **Prerequisites**: Charisma +2; Trained in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] or Trained in [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-Your ability to captivate others borders on the preternatural. You’re seldom at a loss in social situations, and you can create minor charms or illusions. Choose [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]. You become trained in that skill or become an expert if you were already trained. 
+Your ability to captivate others borders on the preternatural. You’re seldom at a loss in social situations, and you can create minor charms or illusions. Choose [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]. You become trained in that skill or become an expert if you were already trained. 
 
-Choose two cantrips from the occult list. Each cantrip must have the [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]] trait, [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] trait, or both. You can cast these spells as [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Innate Spells|innate occult spells]].
+Choose two cantrips from the [occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3) list. Each cantrip must have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Illusion|illusion]] trait, [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] trait, or both. You can cast these spells as [[srd/pf2e/books/gm-core/chapter-2-building-games/Building Creatures#Innate Spells|innate occult spells]].
 
 ### Captivator Dedication leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/archetype/basic-captivator-spellcasting|Basic Captivator Spellcasting]], [[srd/pf2e/compendium/feats/impossible-magic/archetype/beguiling-aura|Beguiling Aura]], [[srd/pf2e/compendium/feats/impossible-magic/archetype/effortless-captivation|Effortless Captivation]], [[srd/pf2e/compendium/feats/impossible-magic/archetype/heightened-captivation|Heightened Captivation]], [[srd/pf2e/compendium/feats/impossible-magic/archetype/look-again|Look Again]], [[srd/pf2e/compendium/feats/impossible-magic/archetype/reactive-charm|Reactive Charm]]
+[[srd/pf2e/compendium/feats/impossible-magic/archetype/Basic Captivator Spellcasting|Basic Captivator Spellcasting]], [[srd/pf2e/compendium/feats/impossible-magic/archetype/Beguiling Aura|Beguiling Aura]], [[srd/pf2e/compendium/feats/impossible-magic/archetype/Effortless Captivation|Effortless Captivation]], [[srd/pf2e/compendium/feats/impossible-magic/archetype/Heightened Captivation|Heightened Captivation]], [[srd/pf2e/compendium/feats/impossible-magic/archetype/Look Again|Look Again]], [[srd/pf2e/compendium/feats/impossible-magic/archetype/Reactive Charm|Reactive Charm]]
 
 *Source: Impossible Magic p. 92*

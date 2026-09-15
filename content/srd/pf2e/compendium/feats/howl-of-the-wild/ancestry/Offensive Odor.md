@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Athamaru`  `Locathah`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/emit-defensive-odor|Emit Defensive Odor]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Emit Defensive Odor|Emit Defensive Odor]]
 
 You've mastered your defensive pheromones and have nearly complete control over them. When you Emit Defensive Odor, you can either choose to increase the damage dealt to a single target by changing the damage dice to d8s, or leave the damage unchanged but spray your pheromones in a 15-foot cone.
 

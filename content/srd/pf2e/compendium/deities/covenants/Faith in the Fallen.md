@@ -24,21 +24,21 @@ Constitution or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/glaive|Glaive]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/Glaive|Glaive]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Cities|Cities]], [[srd/pf2e/compendium/character/domains#Fate|Fate]], [[srd/pf2e/compendium/character/domains#Sorrow|Sorrow]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Cities|Cities]], [[srd/pf2e/compendium/character/Domains#Fate|Fate]], [[srd/pf2e/compendium/character/Domains#Sorrow|Sorrow]], [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Pain|Pain]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Pain|Pain]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/jump|Jump]]
+[[srd/pf2e/compendium/spells/rank-1/Jump|Jump]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]]
+[[srd/pf2e/compendium/spells/rank-4/Translocate|Translocate]]
 
 - **6th**
 Cast into Time

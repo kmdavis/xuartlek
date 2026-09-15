@@ -17,14 +17,14 @@ socialImage: og-image.png
 
 `Gnome`  `Reach`  `Sweep`  `Uncommon`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/covenants/the-pandemonia|The Pandemonia]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/covenants/The Pandemonia|The Pandemonia]]
 - **Price**: 3 gp
 - **Damage**: 1d6 B
 - **Bulk**: 1
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Advanced
-- **Group**: Flail
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Flail|Flail]]
 
 More a flail than a mace, this weapon has a short handle attached to a length of chain with a ball at the end. The ball is propelled to its reach with the flick of the wrist, the momentum of which brings the ball back to the wielder after the strike.
 

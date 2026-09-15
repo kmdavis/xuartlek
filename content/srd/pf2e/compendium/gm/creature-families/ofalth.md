@@ -14,7 +14,7 @@ Found in castle dung heaps, city dumps, and sewers, ofalths are living amalgamat
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core/aberration/larval-ofalth|Larval Ofalth]] (Creature 4), [[srd/pf2e/bestiary/monster-core/aberration/ofalth|Ofalth]] (Creature 10)
+[[srd/pf2e/bestiary/monster-core/aberration/Larval Ofalth|Larval Ofalth]] (Creature 4), [[srd/pf2e/bestiary/monster-core/aberration/Ofalth|Ofalth]] (Creature 10)
 
 ### Violent Transformation
 

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Tengu`
 
-You conjure uncanny orbs of spiritual flame that float above or below the water's surface. You can cast the [[srd/pf2e/compendium/spells/cantrips/ignition|_ignition_]] cantrip as a primal innate spell at will, heightened to a spell rank equal to half your level rounded up. Your _ignition_ spell takes the form of orbs of fire, and you can cast it underwater.
+You conjure uncanny orbs of spiritual flame that float above or below the water's surface. You can cast the [[srd/pf2e/compendium/spells/cantrips/Ignition|_ignition_]] cantrip as a primal innate spell at will, heightened to a spell rank equal to half your level rounded up. Your _ignition_ spell takes the form of orbs of fire, and you can cast it underwater.
 
 *Source: Player Core 2 p. 34*

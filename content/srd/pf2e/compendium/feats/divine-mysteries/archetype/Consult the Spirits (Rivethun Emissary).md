@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Exploration`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/rivethun-emissary|Rivethun Emissary]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Rivethun Emissary|Rivethun Emissary]]
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/rivethun-emissary-dedication|Rivethun Emissary Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Rivethun Emissary Dedication|Rivethun Emissary Dedication]]
 
 You spend 1 hour communing with powerful spirits of the world to gain insight, information, or advice. Select advice or answers.
 
@@ -29,6 +29,6 @@ Regardless of your choice, the spirits additionally bless you, granting you a +1
 
 ### Consult the Spirits (Rivethun Emissary) leads to...
 
-[[srd/pf2e/compendium/feats/divine-mysteries/archetype/embolded-with-glorious-purpose|Embolded With Glorious Purpose]]
+[[srd/pf2e/compendium/feats/divine-mysteries/archetype/Embolded With Glorious Purpose|Embolded With Glorious Purpose]]
 
 *Source: Divine Mysteries p. 293*

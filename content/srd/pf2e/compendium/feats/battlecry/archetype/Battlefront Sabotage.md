@@ -15,11 +15,11 @@ socialImage: og-image.png
 
 `Archetype`  `Incapacitation`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/guerrilla|Guerrilla]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/guerrilla-dedication|Guerrilla Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Guerrilla|Guerrilla]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Guerrilla Dedication|Guerrilla Dedication]]
 - **Requirements**: You have a free hand.
 
-You know methods of sabotaging your enemy's war machines and weaponry. You can attempt to sabotage a siege weapon or vehicle with a [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] check against the standard DC of the weapon or vehicle's level. 
+You know methods of sabotaging your enemy's war machines and weaponry. You can attempt to sabotage a siege weapon or vehicle with a [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] check against the standard DC of the weapon or vehicle's level. 
 **Critical Success** The next time the weapon is Launched or the vehicle moves, it targets or moves to a square of your choice instead of its intended target. 
 **Success** As critical success, but the weapon or vehicle targets or moves to a random square. 
 **Failure** The sabotage fails. 

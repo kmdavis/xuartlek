@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 Your deity bestows on you the power to cast divine spells. You are a spellcaster, and you can cast spells of the divine tradition using the Cast a Spell activity. As a cleric, your chants generally invoke your deity and their powerful servants by name or title, while your gestures are followed by sacred symbols or other representations of your deity
 
- At 1st level, you can prepare two 1st-rank spells and five cantrips each morning from the common spells on the divine spell list or from other divine spells to which you gain access and learn via Learn a Spell. Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare each day is called your spell slots. 
+ At 1st level, you can prepare two 1st-rank spells and five cantrips each morning from the common spells on the [divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2) spell list or from other divine spells to which you gain access and learn via Learn a Spell. Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare each day is called your spell slots. 
 
 As you increase in level as a cleric, the number of spells you can prepare each day increases, as does the highest rank of spell you can cast, as shown in Cleric Spells per Day table above.
 

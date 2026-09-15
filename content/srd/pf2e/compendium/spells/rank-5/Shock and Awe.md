@@ -21,9 +21,9 @@ socialImage: og-image.png
 
 `Auditory`  `Concentrate`  `Emotion`  `Fear`  `Illusion`  `Manipulate`  `Mental`  `Visual`
 
-- **Traditions**: Arcane, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 100 feet
-- **Area**: 50-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
+- **Area**: 50-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
 - **Defense**: Will
 - **Duration**: 1 round
 
@@ -31,9 +31,9 @@ You create the illusion of cannons exploding, bullets and arrows flying, and mag
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] 1.
 
-**Failure** The enemy is frightened 2 and [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1.
+**Failure** The enemy is frightened 2 and [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]] 1.
 
 **Critical Failure** The enemy is frightened 3 and stunned 2.
 

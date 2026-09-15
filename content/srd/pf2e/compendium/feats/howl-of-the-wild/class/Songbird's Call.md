@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Bard`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/muses#Zoophonia|zoophonia muse]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Muses#Zoophonia|zoophonia muse]]
 
-You call to the wilds with the voice of a songbird, thereby summoning a cloud of its kin. You learn the [[srd/pf2e/compendium/spells/focus/songbirds-call|_songbird's call_]] composition spell.
+You call to the wilds with the voice of a songbird, thereby summoning a cloud of its kin. You learn the [[srd/pf2e/compendium/spells/focus/Songbird's Call|_songbird's call_]] composition spell.
 
 *Source: Howl of the Wild p. 65*

@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Swashbuckler`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
 Your panache allows you to perform incredible feats: climbing, swimming, and leaping far beyond your normal capacity. While you have panache, you gain the following benefits. 
 You gain climb and swim Speeds equal to half your land Speed.The DCs of your [[srd/pf2e/compendium/rules-elements/actions/player-core#High Jump|High Jumps]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Long Jump|Long Jumps]] decrease by 10. This doesn't combine with other abilities that reduce those DCs.The distance you can move with a vertical [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]] increases to 5 feet. Your distance for a horizontal Leap increases to 15 feet if your Speed is at least 15 feet, or to 20 feet if your Speed is at least 30 feet.
 
 ### Flamboyant Athlete leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/flamboyant-leap|Flamboyant Leap]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Flamboyant Leap|Flamboyant Leap]]
 
 *Source: Player Core 2 p. 165*

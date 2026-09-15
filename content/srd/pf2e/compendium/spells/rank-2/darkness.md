@@ -16,14 +16,14 @@ socialImage: og-image.png
 
 `Concentrate`  `Darkness`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 120 feet
 - **Area**: 20-foot burst
 - **Duration**: 1 minute
 
-You create a shroud of darkness that prevents light from penetrating or emanating within the area. Light does not enter the area and any non-magical light sources, such as a torch or lantern, do not emanate any light while inside the area, even if their light radius would extend beyond the darkness. This also suppresses magical [[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]] of your _darkness_ spell's rank or lower. Light can't pass through, so creatures in the area can't see outside. From outside, it appears as a globe of pure darkness.
+You create a shroud of darkness that prevents light from penetrating or emanating within the area. Light does not enter the area and any non-magical light sources, such as a torch or lantern, do not emanate any light while inside the area, even if their light radius would extend beyond the darkness. This also suppresses magical [[srd/pf2e/compendium/rules-elements/traits/player-core/Light|light]] of your _darkness_ spell's rank or lower. Light can't pass through, so creatures in the area can't see outside. From outside, it appears as a globe of pure darkness.
 
 ---
-**Heightened (4th)** Even creatures with darkvision (but not greater darkvision) can barely see through the darkness. They treat targets seen through the darkness as [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]].
+**Heightened (4th)** Even creatures with darkvision (but not greater darkvision) can barely see through the darkness. They treat targets seen through the darkness as [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]].
 
 *Source: Player Core p. 322*

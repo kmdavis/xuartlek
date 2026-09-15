@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Kobold`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/evolved-spellhorn|Evolved Spellhorn]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Evolved Spellhorn|Evolved Spellhorn]]
 
-Your magic continues to flourish. Choose one common 3rd-rank arcane spell and one common 4th-rank arcane spell. You can cast each of these spells once per day as arcane innate spells.
+Your magic continues to flourish. Choose one common 3rd-rank [arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1) spell and one common 4th-rank arcane spell. You can cast each of these spells once per day as arcane innate spells.
 
 *Source: Player Core 2 p. 23*

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wildspell|Wildspell]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/wildspell-dedication|Wildspell Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wildspell|Wildspell]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Wildspell Dedication|Wildspell Dedication]]
 
-You can violently discorporate your form. You gain the [[srd/pf2e/compendium/spells/focus/arcane-explosion|_arcane explosion_]] focus spell.
+You can violently discorporate your form. You gain the [[srd/pf2e/compendium/spells/focus/Arcane Explosion|_arcane explosion_]] focus spell.
 
 *Source: War of Immortals p. 140*

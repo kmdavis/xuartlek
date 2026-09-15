@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/light-hammer|Light Hammer]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/Light Hammer|Light Hammer]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/domains#Moon|Moon]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/Domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/Domains#Moon|Moon]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Change|Change]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/fleet-step|Fleet Step]]
+[[srd/pf2e/compendium/spells/rank-1/Fleet Step|Fleet Step]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/animal-form|Animal Form]]
+[[srd/pf2e/compendium/spells/rank-2/Animal Form|Animal Form]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/moon-frenzy|Moon Frenzy]]
+[[srd/pf2e/compendium/spells/rank-5/Moon Frenzy|Moon Frenzy]]
 
 *Source: Divine Mysteries p. 312*

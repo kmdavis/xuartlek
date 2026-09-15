@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Teleportation`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/spellshot|Spellshot]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/spellshot-dedication|Spellshot Dedication]]; Master in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Spellshot|Spellshot]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Spellshot Dedication|Spellshot Dedication]]; Master in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]]
 - **Requirements**: You're wielding a loaded magical firearm or crossbow.
 
 You merge your body with your ammunition, enabling you to travel the same path as your bolt or bullet. [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] a creature with the required weapon. On a success, if the target was within 120 feet, you and all your gear are teleported to an open space of your choice within 10 feet of the target.

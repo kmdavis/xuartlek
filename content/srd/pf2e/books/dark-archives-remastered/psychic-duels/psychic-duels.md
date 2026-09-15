@@ -1,6 +1,7 @@
 ---
 title: "Psychic Duels"
 aliases: ["Psychic Duels"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Dark Archives (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3514"
 citation: "Dark Archives (Remastered) pg. 200"
-socialImage: og-image.png
 ---
 
 # Psychic Duels
@@ -18,15 +18,15 @@ socialImage: og-image.png
 
 Two challengers flood their minds with a vision of a psychic battlefield. Imagination explodes into psychic attacks. Fireballs bloom into explosions of color, imaginary swords open wounds bleeding iridescent butterflies, unreal monstrosities escape from nightmares to lash out with their thousand fangs. A defender's shield of psychic glass shatters into fractal shrapnel and the combatant faints, overwhelmed. The victor's mind snaps back to the ordinary world as their foe crumples to the ground.
 
-Taking place entirely in a mindscape, psychic duels can occur when foes come into conflict in an area rife with mental magic, through the magic of a bizarre artifact, when two creatures' minds connect within a dream, or when a psychic duelist instigates a duel Psychic duels play out much like the [[srd/pf2e/books/gm-core/chapter-4-subsystems/duels|duels]]. The main differences are the participants conduct their duel in mental space and their mental state and emotions determine the outcome. (A duel taking place in the physical world with occult spells uses the rules for spellcasting duels, not psychic duels.) While engaged in a psychic duel, the participants are paralyzed in the real world and can mentally act only in the psychic duel mindscape.
+Taking place entirely in a mindscape, psychic duels can occur when foes come into conflict in an area rife with mental magic, through the magic of a bizarre artifact, when two creatures' minds connect within a dream, or when a psychic duelist instigates a duel Psychic duels play out much like the [[srd/pf2e/books/gm-core/chapter-4-subsystems/Duels|duels]]. The main differences are the participants conduct their duel in mental space and their mental state and emotions determine the outcome. (A duel taking place in the physical world with occult spells uses the rules for spellcasting duels, not psychic duels.) While engaged in a psychic duel, the participants are paralyzed in the real world and can mentally act only in the psychic duel mindscape.
 
-Though other kinds of duels have a judge, a psychic duel is governed by the workings of the mind. This means most psychic duels last until a participant yields or is knocked out (or all participants on one side in the case of a group duel). However, the duel can also end if the participants share an event they would consider a satisfying end to the duel. For instance, they might decide the goal of the duel is to demonstrate mastery of illusion spells, with the first to fully fall for an illusion losing the duel. Because the duel takes place on a mental battlefield, a creature that is [[srd/pf2e/compendium/rules-elements/traits/player-core/mindless|mindless]] or immune to [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effects is incapable of joining a psychic duel.
+Though other kinds of duels have a judge, a psychic duel is governed by the workings of the mind. This means most psychic duels last until a participant yields or is knocked out (or all participants on one side in the case of a group duel). However, the duel can also end if the participants share an event they would consider a satisfying end to the duel. For instance, they might decide the goal of the duel is to demonstrate mastery of illusion spells, with the first to fully fall for an illusion losing the duel. Because the duel takes place on a mental battlefield, a creature that is [[srd/pf2e/compendium/rules-elements/traits/player-core/Mindless|mindless]] or immune to [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effects is incapable of joining a psychic duel.
 
 > [!pf2-sidebar] IMAGERY OF A PSYCHIC DUEL
 >
 > Upon entering the psychic duel, a creature's psychic avatar appears in the minds of the duelists. This mental manifestation looks vaguely like them but might be altered based on their mental abilities and the statistics they used for initiative. For instance, a creature that rolled Deception might appear cloaked, shadowy, or diabolic. Over the course of the battle, this avatar changes appearance multiple times, adapting to the flow of the duel. A vicious, powerful attack might cause the attacker to look more fearsome or increase the splendor of their imaginary attire; a failure might make them shrink or become translucent. Armor might change form to defend against varied manifestations.
 >
-> Psychic manifestations, too, flex to meet the psychic battlefield. Players should describe the actions they use in imaginative ways unbound by the laws of the physical world. Weapons can grow, shrink, twist, and fly. Spells can become a riot of color and noise, directing sensation straight into the target's mind. Participants transform into animals or warriors that reflect their ferocity or cunning. [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]] spells are particularly mutable since they're more directly tied to the mind and senses. Since the participants are mentally linked, their thoughts can bleed over, making an illusion pull imagery directly from the target's mind to show them a vision of a loved one or a bit of their past.
+> Psychic manifestations, too, flex to meet the psychic battlefield. Players should describe the actions they use in imaginative ways unbound by the laws of the physical world. Weapons can grow, shrink, twist, and fly. Spells can become a riot of color and noise, directing sensation straight into the target's mind. Participants transform into animals or warriors that reflect their ferocity or cunning. [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Illusion|illusion]] spells are particularly mutable since they're more directly tied to the mind and senses. Since the participants are mentally linked, their thoughts can bleed over, making an illusion pull imagery directly from the target's mind to show them a vision of a loved one or a bit of their past.
 >
 > The varied forms of Psychic Defense illustrate this easily. Just a few examples appear here, but anything that makes sense to a participant's imagination might appear.
 >
@@ -46,14 +46,14 @@ Though other kinds of duels have a judge, a psychic duel is governed by the work
 >
 > ### Binary Mindscape Mindscape
 >
-> [[srd/pf2e/compendium/rules-elements/traits/gm-core/finite|Finite]][[srd/pf2e/compendium/rules-elements/traits/gm-core/metamorphic|Metamorphic]][[srd/pf2e/compendium/rules-elements/traits/gm-core/subjective-gravity|Subjective Gravity]]
+> [[srd/pf2e/compendium/rules-elements/traits/gm-core/Finite|Finite]][[srd/pf2e/compendium/rules-elements/traits/gm-core/Metamorphic|Metamorphic]][[srd/pf2e/compendium/rules-elements/traits/gm-core/Subjective Gravity|Subjective Gravity]]
 > A binary mindscape is formed of only two linked minds and most often created to provide the arena for a psychic duel. It's typically simple in structure, with basic details that become even more indistinct at the edges of the duelists' imaginations.
 >
-> The time trait typically matches that of the plane on which the participants' forms are. A participant with particularly strong psychic abilities might be able to adjust the [[srd/pf2e/compendium/rules-elements/traits/gm-core/time|time]] trait (typically to timeless). In a voluntary duel, adjustments like these need to be agreed upon by all participants.
+> The time trait typically matches that of the plane on which the participants' forms are. A participant with particularly strong psychic abilities might be able to adjust the [[srd/pf2e/compendium/rules-elements/traits/gm-core/Time|time]] trait (typically to timeless). In a voluntary duel, adjustments like these need to be agreed upon by all participants.
 
 ## Contents
 
-- [[srd/pf2e/books/dark-archives-remastered/psychic-duels/terms-of-the-duel|Terms of the Duel]]
-- [[srd/pf2e/books/dark-archives-remastered/psychic-duels/initiative-and-dueling-actions|Initiative and Dueling Actions]]
-- [[srd/pf2e/books/dark-archives-remastered/psychic-duels/attacks-and-defenses|Attacks and Defenses]]
-- [[srd/pf2e/books/dark-archives-remastered/psychic-duels/movement-and-location|Movement and Location]]
+- [[srd/pf2e/books/dark-archives-remastered/psychic-duels/Terms of the Duel|Terms of the Duel]]
+- [[srd/pf2e/books/dark-archives-remastered/psychic-duels/Initiative and Dueling Actions|Initiative and Dueling Actions]]
+- [[srd/pf2e/books/dark-archives-remastered/psychic-duels/Attacks and Defenses|Attacks and Defenses]]
+- [[srd/pf2e/books/dark-archives-remastered/psychic-duels/Movement and Location|Movement and Location]]

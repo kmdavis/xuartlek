@@ -21,6 +21,6 @@ socialImage: og-image.png
 - **Bulk**: L
 - **Activate**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] (add 1 action)
 
-The baubles wemmuths use to lure victims to their hunting grounds are dangerous to retrieve and often stained by blood. One of these trinkets covers the plant matter created by [[srd/pf2e/compendium/spells/rank-2/entangling-flora|_entangling flora_]] with blood-drinking thorns. Creatures who fail or critically fail their Reflex saves against _entangling flora_ also take piercing damage equal to the spell's rank.
+The baubles wemmuths use to lure victims to their hunting grounds are dangerous to retrieve and often stained by blood. One of these trinkets covers the plant matter created by [[srd/pf2e/compendium/spells/rank-2/Entangling Flora|_entangling flora_]] with blood-drinking thorns. Creatures who fail or critically fail their Reflex saves against _entangling flora_ also take piercing damage equal to the spell's rank.
 
 *Source: Howl of the Wild p. 119*

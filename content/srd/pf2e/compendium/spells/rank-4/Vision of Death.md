@@ -19,8 +19,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Death`  `Emotion`  `Fear`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/other-gods/achaekek|Achaekek]], [[srd/pf2e/compendium/deities/sakhil-tormentors/iggeret|Iggeret]], Kalekot, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/norgorber|Norgorber]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]], [[srd/pf2e/compendium/deities/empyreal-lords/reymenda|Reymenda]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/Achaekek|Achaekek]], [[srd/pf2e/compendium/deities/sakhil-tormentors/Iggeret|Iggeret]], Kalekot, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Norgorber|Norgorber]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Pharasma|Pharasma]], [[srd/pf2e/compendium/deities/empyreal-lords/Reymenda|Reymenda]]
 - **Range**: 120 feet
 - **Target**: 1 living creature
 - **Defense**: Will
@@ -33,7 +33,7 @@ You force the target to see a vision of its own death. It takes 8d6 mental damag
 
 **Failure** The target takes full damage and is frightened 2.
 
-**Critical Failure** The target takes double damage, is frightened 4, and is [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] for as long as it's frightened.
+**Critical Failure** The target takes double damage, is frightened 4, and is [[srd/pf2e/compendium/rules-elements/Conditions#Fleeing|fleeing]] for as long as it's frightened.
 
 ---
 **Heightened (+1)** The damage increases by 2d6.

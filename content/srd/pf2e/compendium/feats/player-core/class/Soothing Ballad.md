@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Bard`
 
-You soothe your allies’ wounds with the power of performance. You learn the [[srd/pf2e/compendium/spells/focus/soothing-ballad|_soothing ballad_]] [[srd/pf2e/compendium/rules-elements/traits/player-core/composition|composition]] spell.
+You soothe your allies’ wounds with the power of performance. You learn the [[srd/pf2e/compendium/spells/focus/Soothing Ballad|_soothing ballad_]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Composition|composition]] spell.
 
 *Source: Player Core p. 106*

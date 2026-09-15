@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Fighter`  `Ranger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/dual-weapon-warrior|Dual-Weapon Warrior]] (Level 12), [[srd/pf2e/compendium/character/archetypes/avenger|Avenger]] (Level 12)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Dual-Weapon Warrior|Dual-Weapon Warrior]] (Level 12), [[srd/pf2e/compendium/character/archetypes/Avenger|Avenger]] (Level 12)
 - **Trigger**: A creature within your reach critically fails to Strike you
 - **Requirements**: You are benefiting from Twin Parry
 
@@ -23,6 +23,6 @@ A clever parry with one weapon leaves your opponent open to an attack with the o
 
 ### Twin Riposte leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/improved-twin-riposte-fighter|Improved Twin Riposte (Fighter)]], [[srd/pf2e/compendium/feats/player-core/class/improved-twin-riposte-ranger|Improved Twin Riposte (Ranger)]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Improved Twin Riposte (Fighter)|Improved Twin Riposte (Fighter)]], [[srd/pf2e/compendium/feats/player-core/class/Improved Twin Riposte (Ranger)|Improved Twin Riposte (Ranger)]]
 
 *Source: Player Core p. 148*

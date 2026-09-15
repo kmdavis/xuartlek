@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Cleric`  `Focus`  `Fortune`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Fate|Fate]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Fate|Fate]]
 - **Trigger**: You or an ally within range attempts a saving throw
 - **Range**: 120 feet
 - **Target**: the triggering creature

@@ -28,10 +28,10 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Advanced
-- **Group**: Firearm
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-5-rounds|Firearm Ammunition (5 rounds)]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (5 rounds)|Firearm Ammunition (5 rounds)]]
 
-A favored weapon of [[srd/pf2e/compendium/character/ancestries/dwarf|dwarf]] scouts from Dongun Hold, the dwarven scattergun is a powerful weapon designed to take advantage of a dwarf's sturdy frame. A dwarven scattergun fires a large paper cartridge stuffed with black powder and knuckle-sized lumps of metal, creating a devastating burst so destructive that a foolish dwarf might find themself catching painful ricochets when firing at a too-close target. Some scatterguns are crafted with a clockwork firing tray that can quickly sort and load black powder and shot without needing a prepackaged cartridge, though this is largely an aesthetic feature with no real mechanical benefit.
+A favored weapon of [[srd/pf2e/compendium/character/ancestries/Dwarf|dwarf]] scouts from Dongun Hold, the dwarven scattergun is a powerful weapon designed to take advantage of a dwarf's sturdy frame. A dwarven scattergun fires a large paper cartridge stuffed with black powder and knuckle-sized lumps of metal, creating a devastating burst so destructive that a foolish dwarf might find themself catching painful ricochets when firing at a too-close target. Some scatterguns are crafted with a clockwork firing tray that can quickly sort and load black powder and shot without needing a prepackaged cartridge, though this is largely an aesthetic feature with no real mechanical benefit.
 
 ### Critical Specialization Effects
 
@@ -39,6 +39,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/intelligent-items/animate-dreamer|Animate Dreamer]], Animate Dreamer
+[[srd/pf2e/compendium/equipment/intelligent-items/Animate Dreamer|Animate Dreamer]], Animate Dreamer
 
 *Source: Guns & Gears (Remastered) p. 153*

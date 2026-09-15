@@ -24,23 +24,23 @@ Strength or Constitution
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|Scythe]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/Scythe|Scythe]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Travel|Travel]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Fate|Fate]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Fate|Fate]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/grim-tendrils|Grim Tendrils]]
+[[srd/pf2e/compendium/spells/rank-1/Grim Tendrils|Grim Tendrils]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/haste|Haste]]
+[[srd/pf2e/compendium/spells/rank-3/Haste|Haste]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/moon-frenzy|Moon Frenzy]]
+[[srd/pf2e/compendium/spells/rank-5/Moon Frenzy|Moon Frenzy]]
 
 *Source: Divine Mysteries p. 320*

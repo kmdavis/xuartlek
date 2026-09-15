@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Target**: your companion or eidolon
 - **Duration**: 1 minute
 
-The target's feet glow with a magical flame that lingers and grows on the ground where they walk, creating a line of blazing fire as they move. The first time the target [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Strides]] during the spell's duration, they leave behind a trail made of magical fire that fills up each space they occupied during that Stride. This fire is 5 feet high. Creatures on either side of the trail are [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] from creatures on the opposite side. Any creature that enters or starts its turn in the trail's area takes 2d10 fire damage.
+The target's feet glow with a magical flame that lingers and grows on the ground where they walk, creating a line of blazing fire as they move. The first time the target [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Strides]] during the spell's duration, they leave behind a trail made of magical fire that fills up each space they occupied during that Stride. This fire is 5 feet high. Creatures on either side of the trail are [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] from creatures on the opposite side. Any creature that enters or starts its turn in the trail's area takes 2d10 fire damage.
 
 ---
 **Heightened (+2)** The fire damage increases by 1d10.

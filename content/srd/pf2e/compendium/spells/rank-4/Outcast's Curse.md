@@ -18,8 +18,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Curse`  `Manipulate`  `Mental`  `Misfortune`
 
-- **Traditions**: Arcane, Divine, Occult
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Hag|Hag]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Defense**: Will
@@ -28,7 +28,7 @@ You afflict the target with a curse that makes its presence abrasive and off-put
 
 **Critical Success** The target is unaffected.
 
-**Success** For 10 minutes, the target must roll twice and use the worse result whenever attempting a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], or [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check, and creatures they encounter have an initial attitude toward them of one step worse (for instance, [[srd/pf2e/compendium/rules-elements/conditions#Unfriendly|unfriendly]] instead of [[srd/pf2e/compendium/rules-elements/conditions#Indifferent|indifferent]]).
+**Success** For 10 minutes, the target must roll twice and use the worse result whenever attempting a [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], or [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] check, and creatures they encounter have an initial attitude toward them of one step worse (for instance, [[srd/pf2e/compendium/rules-elements/Conditions#Unfriendly|unfriendly]] instead of [[srd/pf2e/compendium/rules-elements/Conditions#Indifferent|indifferent]]).
 
 **Failure** As success, but the effect is permanent.
 

@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`  `Magical`  `Manipulate`  `Teleportation`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/veil-dancer|Veil Dancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/veil-dancer-dedication|Veil Dancer Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Veil Dancer|Veil Dancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Veil Dancer Dedication|Veil Dancer Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
-You have a preternatural ability to whisk items out from under their owners’ noses. Attempt a [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Palm an Object|Palm an Object]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Steal|Steal an object]] you can see within 60 feet. If you are veiled, you get a +2 circumstance bonus to this check. If you succeed, the object vanishes from its current location and appears on your person.
+You have a preternatural ability to whisk items out from under their owners’ noses. Attempt a [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Palm an Object|Palm an Object]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Steal|Steal an object]] you can see within 60 feet. If you are veiled, you get a +2 circumstance bonus to this check. If you succeed, the object vanishes from its current location and appears on your person.
 
 *Source: Impossible Magic p. 104*

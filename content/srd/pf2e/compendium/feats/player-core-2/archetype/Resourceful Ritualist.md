@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ritualist|Ritualist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/ritualist-dedication|Ritualist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ritualist|Ritualist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Ritualist Dedication|Ritualist Dedication]]
 
-You can cast difficult rituals that might otherwise be just beyond your skill. You can attempt checks to cast a ritual that requires expert proficiency if you are trained, master proficiency if you are an expert, or legendary proficiency if you are a master.
+You can cast difficult [[srd/pf2e/compendium/spells/rituals/rituals|rituals]] that might otherwise be just beyond your skill. You can attempt checks to cast a ritual that requires expert proficiency if you are trained, master proficiency if you are an expert, or legendary proficiency if you are a master.
 
 *Source: Player Core 2 p. 211*

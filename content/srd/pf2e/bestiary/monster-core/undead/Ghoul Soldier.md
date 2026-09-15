@@ -30,10 +30,10 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Necril|Necril]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +6"
 abilityMods: [3, 2, 2, 1, 2, 3]
 abilities_top:
   - name: "Items"
@@ -45,29 +45,29 @@ armorclass:
 hp: 28
 health:
   - name: "HP"
-    desc: "28 (void healing); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]"
+    desc: "28 (void healing); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]]"
 abilities_mid:
   - name: "Reactive Strike"
     desc: "⬲"
   - name: "Stench"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/olfactory|olfactory]]) 10 feet, DC 15"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Olfactory|olfactory]]) 10 feet, DC 15"
 speed: "25 feet, burrow 5 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ jaws +11 __Damage__ 1d10+3 piercing"
   - name: "Melee"
-    desc: "⬻ bastard sword +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d12]]) __Damage__ 1d8+3 slashing"
+    desc: "⬻ bastard sword +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Two-Hand|two-hand d12]]) __Damage__ 1d8+3 slashing"
   - name: "Melee"
-    desc: "⬻ claw +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d8+3 slashing plus Grab"
+    desc: "⬻ claw +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d8+3 slashing plus Grab"
 abilities_bot:
   - name: "Consume Flesh"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) 2d6 HP"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|Manipulate]]) 2d6 HP"
   - name: "Ghoul Whispers"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) DC 18"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|Occult]]) DC 18"
   - name: "Grave Knowledge"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) +8 skill modifier"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|Occult]]) +8 skill modifier"
   - name: "Swift Leap"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]])"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Move|Move]])"
 sourcebook: "_Monster Core_, page 163."
 ```
 

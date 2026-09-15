@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Kholo`  `Gnoll`
 
-Hyenas serve kholo as pets and trackers. Some kholos, such as yourself, draw the attention of smaller hyenas that are vessels for magical spirits. You gain a Tiny hyena as a [[srd/pf2e/books/player-core/chapter-3-classes/companions#Familiars|familiar]].
+Hyenas serve kholo as pets and trackers. Some kholos, such as yourself, draw the attention of smaller hyenas that are vessels for magical spirits. You gain a Tiny hyena as a [[srd/pf2e/books/player-core/chapter-3-classes/Companions#Familiars|familiar]].
 
 *Source: Player Core 2 p. 18*

@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Cleric
 
-At 2nd level and every 2 levels thereafter, you gain a cleric class feat .
+At 2nd level and every 2 levels thereafter, you gain a [cleric class feat](https://2e.aonprd.com/Feats.aspx?Traits=26) .
 
 *Source: Player Core p. 108*

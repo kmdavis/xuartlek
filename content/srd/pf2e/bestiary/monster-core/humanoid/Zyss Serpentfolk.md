@@ -30,10 +30,10 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; darkvision, scent (imprecise) 30 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]; telepathy 00 feet"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]]; telepathy 00 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +8, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +9, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +8, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] +8, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +9, [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] +8, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +8"
 abilityMods: [-1, 4, -2, 4, 2, 3]
 abilities_top:
   - name: "Items"
@@ -41,36 +41,36 @@ abilities_top:
 ac: 18
 armorclass:
   - name: "AC"
-    desc: "18; __Fort__: +4; __Ref__: +8; __Will__: +8 (+4 status vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) +1 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magic]]"
+    desc: "18; __Fort__: +4; __Ref__: +8; __Will__: +8 (+4 status vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]]) +1 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magic]]"
 hp: 25
 health:
   - name: "HP"
-    desc: "25; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] 5"
+    desc: "25; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] 5"
 abilities_mid:
   - name: "Thin of Blood"
     desc: "Zyss serpentfolk recover slowly from injuries. When they take physical damage from a critical hit, they gain 1d4 persistent bleed damage. They take a –2 circumstance penalty to flat checks to recover from persistent damage and saving throws against afflictions."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fangs +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+1 piercing plus serpentfolk venom"
+    desc: "⬻ fangs +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]]) __Damage__ 1d6+1 piercing plus serpentfolk venom"
   - name: "Melee"
-    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+1 piercing plus serpentfolk venom"
+    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+1 piercing plus serpentfolk venom"
   - name: "Ranged"
-    desc: "⬻ shortbow +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], range increment 60 feet) __Damage__ 1d6+2 piercing plus serpentfolk venom"
+    desc: "⬻ shortbow +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d10]], range increment 60 feet) __Damage__ 1d6+2 piercing plus serpentfolk venom"
 abilities_bot:
   - name: "Serpentfolk Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 16 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "1d4 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] (1 round)"
+    desc: "1d4 poison damage and [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled 1]] (1 round)"
   - name: "Stage 2"
     desc: "2d4 poison damage and enfeebled 1 (1 round)"
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 18 - __1st__ [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|Illusory Disguise]] (at will), [[srd/pf2e/compendium/spells/rank-1/ventriloquism|Ventriloquism]] (at will) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/blur|Blur]] (self only; at will) - __4th__ [[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]]"
+    desc: "DC 18 - __1st__ [[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|Illusory Disguise]] (at will), [[srd/pf2e/compendium/spells/rank-1/Ventriloquism|Ventriloquism]] (at will) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Blur|Blur]] (self only; at will) - __4th__ [[srd/pf2e/compendium/spells/rank-4/Suggestion|Suggestion]]"
 sourcebook: "_Monster Core_, page 302."
 ```
 

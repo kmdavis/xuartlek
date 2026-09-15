@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
 You can carry more than your frame implies. Increase your maximum and encumbered Bulk limits by 2.
 

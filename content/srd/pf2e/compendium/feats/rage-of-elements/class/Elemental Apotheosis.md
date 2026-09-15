@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Kineticist`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/rage-of-elements/class/nourishing-gate|Nourishing Gate]]; exactly one kinetic element
+- **Prerequisites**: [[srd/pf2e/compendium/feats/rage-of-elements/class/Nourishing Gate|Nourishing Gate]]; exactly one kinetic element
 
-You take on an elemental countenance, appearing like a type of elemental of your element. You gain any Speeds listed in the _elemental form_ spell for your element and gain darkvision if you don't already have it. You also gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/elemental|elemental]] trait and the trait of your chosen element.
+You take on an elemental countenance, appearing like a type of elemental of your element. You gain any Speeds listed in the _elemental form_ spell for your element and gain darkvision if you don't already have it. You also gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/Elemental|elemental]] trait and the trait of your chosen element.
 
 *Source: Rage of Elements p. 23*

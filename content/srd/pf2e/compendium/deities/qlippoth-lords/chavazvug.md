@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/war-flail|War Flail]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/War Flail|War Flail]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Dust|Dust]], [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Pain|Pain]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Dust|Dust]], [[srd/pf2e/compendium/character/Domains#Fire|Fire]], [[srd/pf2e/compendium/character/Domains#Pain|Pain]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Abomination|Abomination]], [[srd/pf2e/compendium/character/domains#Death|Death]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Abomination|Abomination]], [[srd/pf2e/compendium/character/Domains#Death|Death]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/breathe-fire|Breathe Fire]]
+[[srd/pf2e/compendium/spells/rank-1/Breathe Fire|Breathe Fire]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/wall-of-fire|Wall of Fire]]
+[[srd/pf2e/compendium/spells/rank-4/Wall of Fire|Wall of Fire]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/volcanic-eruption|Volcanic Eruption]]
+[[srd/pf2e/compendium/spells/rank-7/Volcanic Eruption|Volcanic Eruption]]
 
 *Source: Divine Mysteries p. 320*

@@ -22,6 +22,6 @@ You call upon divine power and make a weapon or unarmed Strike against the enemy
 
 ### Blessed Counterstrike leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/instrument-of-zeal|Instrument of Zeal]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Instrument of Zeal|Instrument of Zeal]]
 
 *Source: Player Core 2 p. 98*

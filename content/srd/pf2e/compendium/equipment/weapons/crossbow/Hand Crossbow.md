@@ -11,7 +11,7 @@ socialImage: og-image.png
 
 # Hand Crossbow  *Weapon 0*
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/azlanti-pantheon/ulon|Ulon]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/azlanti-pantheon/Ulon|Ulon]]
 - **Price**: 3 gp
 - **Damage**: 1d6 P
 - **Bulk**: L
@@ -20,8 +20,8 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Simple
-- **Group**: Crossbow
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/crossbow/bolts|Bolts]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Crossbow|Crossbow]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/crossbow/Bolts|Bolts]]
 
 Sometimes referred to as an alley bow by rogues or ruffians, this small crossbow fires small bolts that are sometimes used to deliver poison to the target. It's small enough to be shot one-handed, but it still requires two hands to load.
 
@@ -31,6 +31,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/arcing-hand-crossbow|Arcing Hand Crossbow]]
+[[srd/pf2e/compendium/equipment/weapons/Arcing Hand Crossbow|Arcing Hand Crossbow]]
 
 *Source: Player Core p. 280*

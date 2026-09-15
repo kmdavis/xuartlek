@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/magus|Magus]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/basic-martial-magic|Basic Martial Magic]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Magus|Magus]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Basic Martial Magic|Basic Martial Magic]]
 
 You gain one magus feat. For the purpose of meeting its prerequisites, your magus level is equal to half your character level.
 

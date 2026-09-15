@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Esoterica`  `Thaumaturge`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/class/scroll-thaumaturgy|Scroll Thaumaturgy]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Scroll Thaumaturgy|Scroll Thaumaturgy]]
 
 Your esoterica includes scraps of scriptures, magic tomes, druidic markings, and the like, which you can use to create temporary scrolls. Each day during your daily preparations, you can create a single temporary scroll containing a 1st-rank spell of any tradition. The spell must be common, or you must otherwise have access to it. This scroll is an unstable, temporary item and loses its magic the next time you make your daily preparations if you haven't used it by then. It can't be used to [[srd/pf2e/compendium/rules-elements/actions/player-core#Learn a Spell|Learn the Spell]].
 
@@ -23,6 +23,6 @@ Your esoterica includes scraps of scriptures, magic tomes, druidic markings, and
 
 ### Scroll Esoterica leads to...
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/class/elaborate-scroll-esoterica|Elaborate Scroll Esoterica]]
+[[srd/pf2e/compendium/feats/dark-archives-remastered/class/Elaborate Scroll Esoterica|Elaborate Scroll Esoterica]]
 
 *Source: Dark Archives (Remastered) p. 44*

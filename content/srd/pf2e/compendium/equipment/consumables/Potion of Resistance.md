@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 Drinking this thick, fortifying potion grants resistance against a single damage type for 1 hour. Each potion of resistance is created to defend against acid, cold, electricity, fire, or sonic damage (and is called a _lesser potion of fire resistance_ or the like).
 

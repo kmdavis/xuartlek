@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Primal
-- **Spell Lists**: Elemental
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
 - **Cast**: 10 minutes
 - **Range**: touch
 - **Target**: 1 willing creature
 - **Duration**: until your next daily preparations
 
-You shield the target against dangerous temperatures. Choose [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Temperature|severe cold or heat]]. The target is protected from the temperature you chose (but not extreme cold or heat).
+You shield the target against dangerous temperatures. Choose [[srd/pf2e/books/gm-core/chapter-2-building-games/Environment#Temperature|severe cold or heat]]. The target is protected from the temperature you chose (but not extreme cold or heat).
 
 ---
 **Heightened (3rd)** The target is protected from severe cold and severe heat.

@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Champion`
 
-You embody an aspect of your deity. Choose one of your deity's [[srd/pf2e/compendium/character/domains|domains]]. You gain the domain's initial domain spell as a devotion spell.
+You embody an aspect of your deity. Choose one of your deity's [[srd/pf2e/compendium/character/Domains|domains]]. You gain the domain's initial domain spell as a devotion spell.
 
 ### Deity's Domain leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/advanced-deitys-domain|Advanced Deity's Domain]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Advanced Deity's Domain|Advanced Deity's Domain]]
 
 *Source: Player Core 2 p. 93*

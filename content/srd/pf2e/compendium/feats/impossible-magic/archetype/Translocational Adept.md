@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/veil-dancer|Veil Dancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/veil-dancer-dedication|Veil Dancer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Veil Dancer|Veil Dancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Veil Dancer Dedication|Veil Dancer Dedication]]
 
-Your command over teleportation grows. You can cast [[srd/pf2e/compendium/spells/rank-4/translocate|_translocate_]] as an [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Innate Spells|innate]] 4th-rank occult spell once per day. At 14th level, the spell is heightened to 5th rank. When you cast _translocate_ this way, you can Part the Veil as a free action when you arrive at your destination, even if you wouldn’t normally meet its requirements.
+Your command over teleportation grows. You can cast [[srd/pf2e/compendium/spells/rank-4/Translocate|_translocate_]] as an [[srd/pf2e/books/gm-core/chapter-2-building-games/Building Creatures#Innate Spells|innate]] 4th-rank [occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3) spell once per day. At 14th level, the spell is heightened to 5th rank. When you cast _translocate_ this way, you can Part the Veil as a free action when you arrive at your destination, even if you wouldn’t normally meet its requirements.
 
 *Source: Impossible Magic p. 105*

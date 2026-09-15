@@ -15,11 +15,11 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
-- **Spell Lists**: Elemental
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Aesir|Aesir]]
 - **Deities**: Demon Bringers, Keepers of the Hearth, Valmallos
-- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Protection|Lesson of Protection]]
+- **Lesson**: [[srd/pf2e/compendium/character/Lessons#Lesson of Protection|Lesson of Protection]]
 - **Duration**: until your next daily preparations
 
 You ward yourself with shimmering magical energy, gaining a +1 item bonus to AC and a maximum Dexterity modifier of +5. While wearing _mystic armor_, you use your unarmored proficiency to calculate your AC.

@@ -28,35 +28,35 @@ Other Worn Items
 No
 Item bonus to a check of the crafter's choice
 
-[[srd/pf2e/compendium/equipment/worn-items/tasset-of-flexibility|Tasset of Flexibility]]
+[[srd/pf2e/compendium/equipment/worn-items/Tasset of Flexibility|Tasset of Flexibility]]
 +1
 4
 Other Worn Items
 No
 Item bonus to Acrobatics
 
-[[srd/pf2e/compendium/equipment/spellhearts/five-feather-wreath|Five-feather Wreath]]
+[[srd/pf2e/compendium/equipment/spellhearts/Five-Feather Wreath|Five-feather Wreath]]
 +1
 4
 Spellhearts
 No
 Item bonus to Acrobatics checks.
 
-[[srd/pf2e/compendium/equipment/spellhearts/five-feather-wreath|Greater Five-feather Wreath]]
+[[srd/pf2e/compendium/equipment/spellhearts/Five-Feather Wreath|Greater Five-feather Wreath]]
 +1
 8
 Spellhearts
 No
 Item bonus to Acrobatics checks.
 
-[[srd/pf2e/compendium/equipment/spellhearts/five-feather-wreath|Major Five-feather Wreath]]
+[[srd/pf2e/compendium/equipment/spellhearts/Five-Feather Wreath|Major Five-feather Wreath]]
 +1
 12
 Spellhearts
 No
 Item bonus to Acrobatics checks.
 
-[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen|Quicksilver Mutagen]]
+[[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen|Quicksilver Mutagen]]
 +1
 0
 Alchemical Elixirs
@@ -69,7 +69,7 @@ Tea
 Yes
 Item bonus to Acrobatics
 
-[[srd/pf2e/compendium/equipment/worn-items/sash-of-prowess|Sash of Prowess]]
+[[srd/pf2e/compendium/equipment/worn-items/Sash of Prowess|Sash of Prowess]]
 +2
 10
 Worn Items
@@ -82,7 +82,7 @@ Other Worn Items
 No
 Checks to Balance and Tumble Through an enemy’s space
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -96,33 +96,33 @@ Held Items
 No
 The tumbler’s belt grants a +2 item bonus to Acrobatics checks, and whenever you critically succeed at a check to Tumble Through, you gain a +10-foot item bonus to your Speed until the end of your turn.
 
-[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen|Quicksilver Mutagen]]
+[[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen|Quicksilver Mutagen]]
 +2
 0
 Alchemical Elixirs
 Yes
 
-Cloud Buns (Greater)
+[[srd/pf2e/compendium/equipment/consumables/Cloud Buns|Cloud Buns (Greater)]]
 +2
 9
 Other Consumables
 Yes
 +2 to Acrobatics to Maneuver in the air
 
-[[srd/pf2e/compendium/equipment/worn-items/sash-of-prowess|Sash of Prowess (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/Sash of Prowess|Sash of Prowess (Greater)]]
 +3
 17
 Worn Items
 No
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-[[srd/pf2e/compendium/equipment/apex-items/mercurial-mantle|Mercurial Mantle]]
+[[srd/pf2e/compendium/equipment/apex-items/Mercurial Mantle|Mercurial Mantle]]
 +3
 18
 Apex Items
@@ -136,13 +136,13 @@ Other Consumables
 No
 item bonus to Acrobatics checks and never take falling damage
 
-[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen|Quicksilver Mutagen]]
+[[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen|Quicksilver Mutagen]]
 +3
 0
 Alchemical Elixirs
 Yes
 
-[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen|Quicksilver Mutagen]]
+[[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen|Quicksilver Mutagen]]
 +4
 0
 Alchemical Elixirs

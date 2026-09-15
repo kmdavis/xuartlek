@@ -18,6 +18,6 @@ socialImage: og-image.png
 
 - **Requirements**: Your eidolon’s primary attack deals piercing damage.
 
-Your eidolon runs an enemy through with a horn or similar attack. Your eidolon makes a melee Strike with their primary attack. If the Strike hits and deals damage, the target is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by your eidolon until it successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]], your eidolon attacks with their primary attack again, or your eidolon is no longer manifested, whichever comes first. When the target is no longer grabbed, it takes [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]] equal to the primary attack’s number of weapon damage dice.
+Your eidolon runs an enemy through with a horn or similar attack. Your eidolon makes a melee Strike with their primary attack. If the Strike hits and deals damage, the target is [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] by your eidolon until it successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]], your eidolon attacks with their primary attack again, or your eidolon is no longer manifested, whichever comes first. When the target is no longer grabbed, it takes [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent bleed damage]] equal to the primary attack’s number of weapon damage dice.
 
 *Source: Impossible Magic p. 84*

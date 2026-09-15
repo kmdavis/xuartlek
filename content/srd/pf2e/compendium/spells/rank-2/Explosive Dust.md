@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Manipulate`
 
-- **Traditions**: Arcane, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 10 feet
-- **Area**: 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
+- **Area**: 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
 - **Duration**: 1 minute
 
 You scatter a cloud of highly explosive magic dust into the air near you that only those who mean you harm can ignite. This dust is hard to see, requiring a [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] roll against your spell DC to identify. You and your allies can pass through it safely, but enemies who move into the dust trigger explosions, taking 1d4 fire damage for every square they pass through. Once the dust in a square explodes, that square becomes safe for everyone. If all the dust explodes, the spell ends.

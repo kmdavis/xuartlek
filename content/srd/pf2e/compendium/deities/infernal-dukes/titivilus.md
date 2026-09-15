@@ -24,23 +24,23 @@ Intelligence or Charisma
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/longsword|Longsword]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Longsword|Longsword]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/domains#Truth|Truth]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/Domains#Truth|Truth]], [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/mindlink|Mindlink]]
+[[srd/pf2e/compendium/spells/rank-1/Mindlink|Mindlink]]
 
 - **3rd**
 Distracting Chatter
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/subconscious-suggestion|Subconscious Suggestion]]
+[[srd/pf2e/compendium/spells/rank-5/Subconscious Suggestion|Subconscious Suggestion]]
 
 *Source: Divine Mysteries p. 314*

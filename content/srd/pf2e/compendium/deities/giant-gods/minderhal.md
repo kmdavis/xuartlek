@@ -24,21 +24,21 @@ Strength or Intelligence
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/warhammer|Warhammer]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/Warhammer|Warhammer]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Earth|Earth]], [[srd/pf2e/compendium/character/domains#Might|Might]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Earth|Earth]], [[srd/pf2e/compendium/character/Domains#Might|Might]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Tyranny|Tyranny]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Tyranny|Tyranny]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/summon-construct|Summon Construct]]
+[[srd/pf2e/compendium/spells/rank-1/Summon Construct|Summon Construct]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/ghostly-weapon|Ghostly Weapon]]
+[[srd/pf2e/compendium/spells/rank-3/Ghostly Weapon|Ghostly Weapon]]
 
 - **4th**
 Replicate

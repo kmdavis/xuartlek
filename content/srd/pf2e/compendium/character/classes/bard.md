@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 You'll see the following key terms in many bard class features.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/composition|Composition]]:** To cast a composition cantrip or focus spell, you use a type of [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]. If the spell requires an auditory performance, you might recite a poem, sing a song, or perform a dramatic monologue. If the spell requires a visual performance, you might dance or pantomime. You can cast only one composition spell each turn, and you can have only one active at a time. If you cast a new composition spell, any ongoing effects from your previous composition spell end immediately.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Composition|Composition]]:** To cast a composition cantrip or focus spell, you use a type of [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]. If the spell requires an auditory performance, you might recite a poem, sing a song, or perform a dramatic monologue. If the spell requires a visual performance, you might dance or pantomime. You can cast only one composition spell each turn, and you can have only one active at a time. If you cast a new composition spell, any ongoing effects from your previous composition spell end immediately.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
 
 ### Roleplaying the Bard
 
@@ -52,8 +52,8 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 #### Skills
 
-Trained in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
- Trained in [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+Trained in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
+ Trained in [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]
  Trained in a number of additional skills equal to 4 plus your Intelligence modifier
 
 | | |
@@ -105,7 +105,7 @@ In addition to what you get from your class at 1st level, you have four free boo
 
 #### Bard Spellcasting
 
-You draw upon magic from esoteric knowledge. You are a spellcaster and can cast spells of the occult tradition using the Cast a Spell activity (see Casting Spells). As a bard, when you cast spells, your incantations might be musical riffs or clever limericks, your gestures might incorporate dance and dramatic pantomiming, and you might accompany your spellcasting by playing a musical instrument.
+You draw upon magic from esoteric knowledge. You are a spellcaster and can cast spells of the [occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3) tradition using the Cast a Spell activity (see Casting Spells). As a bard, when you cast spells, your incantations might be musical riffs or clever limericks, your gestures might incorporate dance and dramatic pantomiming, and you might accompany your spellcasting by playing a musical instrument.
 
  Each day, you can cast up to two 1st-rank spells. You must know spells to cast them, and you learn them via the spell repertoire class feature. The number of spells you can cast each day is called your spell slots. As you increase in level as a bard, your number of spells per day increases, as does the highest rank of spells you can cast, as shown on the Bard Spells per Day table.
 
@@ -125,7 +125,7 @@ You draw upon magic from esoteric knowledge. You are a spellcaster and can cast 
 
 #### Spell Repertoire
 
-The collection of spells you can cast is called your spell repertoire. At 1st level, you learn two 1st-rank occult spells of your choice and five occult cantrips of your choice. You choose these from the common spells from the occult list or from other occult spells to which you have access. You can cast any spell in your spell repertoire by using a spell slot of an appropriate spell rank.
+The collection of spells you can cast is called your spell repertoire. At 1st level, you learn two 1st-rank occult spells of your choice and five occult cantrips of your choice. You choose these from the common spells from the [occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3) list or from other occult spells to which you have access. You can cast any spell in your spell repertoire by using a spell slot of an appropriate spell rank.
 
  You add to this spell repertoire as you increase in level. Each time you get a spell slot (see the Bard Spells per Day table), you add a spell to your spell repertoire of the same rank. At 2nd level, you select another 1st-rank spell; at 3rd level, you select two 2nd-rank spells, and so on. When you add spells, you might add a higher-rank version of a spell you already have, so you can cast a heightened version of that spell.
 
@@ -133,7 +133,7 @@ The collection of spells you can cast is called your spell repertoire. At 1st le
 
 #### Swapping Spells In Your Repertoire
 
- As you gain new spells in your repertoire, you might want to replace some of the spells you previously learned. Each time you gain a level and learn new spells, you can swap out one of your old spells for a different spell of the same rank. This spell can be a cantrip. You can also swap out spells by retraining during [[srd/pf2e/books/player-core/chapter-8-playing-the-game/downtime-mode#Retraining|downtime]].
+ As you gain new spells in your repertoire, you might want to replace some of the spells you previously learned. Each time you gain a level and learn new spells, you can swap out one of your old spells for a different spell of the same rank. This spell can be a cantrip. You can also swap out spells by retraining during [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Downtime Mode#Retraining|downtime]].
 
 #### Composition Spells
 
@@ -141,13 +141,13 @@ You can infuse your performances with magic to create unique effects called comp
 
  Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots, and you can't cast them using spell slots. Taking feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 Focus Points. The full rules for focus spells appear here.
 
- You learn the _counter performance_ composition spell, protecting against [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] effects. 
+ You learn the _counter performance_ composition spell, protecting against [[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]] effects. 
 
 ### Composition Cantrips
 
- Composition cantrips are special composition spells that don't cost Focus Points, so you can use them as often as you like. Composition cantrips are in addition to the cantrips you choose with bard spellcasting. Unlike other cantrips, you can't swap out composition cantrips gained from bard feats at a later level, unless you swap out the specific feat via [[srd/pf2e/books/player-core/chapter-8-playing-the-game/downtime-mode#Retraining|retraining]].
+ Composition cantrips are special composition spells that don't cost Focus Points, so you can use them as often as you like. Composition cantrips are in addition to the cantrips you choose with bard spellcasting. Unlike other cantrips, you can't swap out composition cantrips gained from bard feats at a later level, unless you swap out the specific feat via [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Downtime Mode#Retraining|retraining]].
 
- You learn the _courageous anthem_ composition cantrip, which boosts your allies' attacks, damage, and defense against [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]].
+ You learn the _courageous anthem_ composition cantrip, which boosts your allies' attacks, damage, and defense against [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]].
 
 #### Muses
 
@@ -157,7 +157,7 @@ As a bard, you select one muse at 1st level. This muse leads you to great things
 
 | | |
 | --- | --- |
-| **Bard Feats** | At 2nd level and every even-numbered level, you gain a bard class feat. |
+| **Bard Feats** | At 2nd level and every even-numbered level, you gain a [bard class feat](https://2e.aonprd.com/Feats.aspx?Traits=19). |
 | **Skill Feats** | At 2nd level and every 2 levels thereafter, you gain a skill feat. You must be trained or better in the corresponding skill to select a skill feat. |
 | **General Feats** | At 3rd level and every 4 levels thereafter, you gain a general feat. |
 | **Reflex Expertise** | You've developed a knack for dodging danger. Your proficiency rank for Reflex saves increases to expert. |

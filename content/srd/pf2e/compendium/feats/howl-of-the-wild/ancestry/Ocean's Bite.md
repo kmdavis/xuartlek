@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Merfolk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/heritages#Abyssal Merfolk|Abyssal Merfolk]] heritage or [[srd/pf2e/compendium/character/heritages#Carcharodon Merfolk|Carcharodon Merfolk]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Abyssal Merfolk|Abyssal Merfolk]] heritage or [[srd/pf2e/compendium/character/Heritages#Carcharodon Merfolk|Carcharodon Merfolk]] heritage
 
-Your jaws open wider than a humanoid mouth should, showing off multiple rows of serrated shark teeth or a viperfish-like nest of needles. You gain a jaws [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack that deals 1d8 piercing damage. Your jaws are in the brawling group.
+Your jaws open wider than a humanoid mouth should, showing off multiple rows of serrated shark teeth or a viperfish-like nest of needles. You gain a jaws [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack that deals 1d8 piercing damage. Your jaws are in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group.
 
 *Source: Howl of the Wild p. 36*

@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Orc`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/orc-superstition|Orc Superstition]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/Orc Superstition|Orc Superstition]]
 
 You steep yourself in superstition and practice ancient orc mental exercises for shrugging off the effects of magic. You gain a +1 circumstance bonus to saving throws against spells and magical effects at all times.
 
 ### Pervasive Superstition leads to...
 
-[[srd/pf2e/compendium/feats/player-core/ancestry/spell-devourer|Spell Devourer]]
+[[srd/pf2e/compendium/feats/player-core/ancestry/Spell Devourer|Spell Devourer]]
 
 *Source: Player Core p. 73*

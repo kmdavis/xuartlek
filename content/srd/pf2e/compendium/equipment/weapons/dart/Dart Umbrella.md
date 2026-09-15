@@ -25,7 +25,7 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Dart
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Dart|Dart]]
 
 This umbrella fires tiny blowgun darts from its ferrule with a twist of the handle. The darts are loaded into the shaft, and though the damage they deal is minimal, the dart umbrella is an inconspicuous weapon easy to slip past inspections.
 

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/necromancer|Necromancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/necromancer-dedication|Necromancer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Necromancer|Necromancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Necromancer Dedication|Necromancer Dedication]]
 
-You gain the [[srd/pf2e/compendium/spells/focus/necrotic-bomb|_necrotic bomb_]] grave spell. If you don't already have one, you gain a focus pool of 1 Focus Point. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]] by spending 10 minutes doing the [[srd/pf2e/compendium/character/classes/necromancer|necromancer's]] Refocus options.
+You gain the [[srd/pf2e/compendium/spells/focus/Necrotic Bomb|_necrotic bomb_]] grave spell. If you don't already have one, you gain a focus pool of 1 Focus Point. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]] by spending 10 minutes doing the [[srd/pf2e/compendium/character/classes/Necromancer|necromancer's]] Refocus options.
 
 *Source: Impossible Magic p. 89*

@@ -21,7 +21,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Emotion`  `Focus`  `Incapacitation`  `Manipulate`  `Mental`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Hag|Hag]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will
@@ -31,11 +31,11 @@ You manipulate the target's emotions, potentially allowing you to control it for
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]].
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned 1]].
 
 **Failure** On the target's next turn, it's stunned 1, and you partially control it, causing it to take a single action of your choice. If it has actions left, it can act normally.
 
-**Critical Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]] for 1 round.
+**Critical Failure** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Controlled|controlled]] for 1 round.
 
 ---
 **Heightened (7th)** On a failure, the target is controlled for 1 round. On a critical failure, the target is controlled for up to 1 minute; it receives a new Will save at the end of each of its turns, and on a success, the spell ends.

@@ -19,8 +19,8 @@ socialImage: og-image.png
 
 `Attack`  `Concentrate`  `Fire`  `Holy`  `Light`  `Manipulate`
 
-- **Traditions**: Divine, Primal
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]]
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Angelic|Angelic]]
 - **Range**: 120 feet
 - **Target**: 1 creature
 - **Defense**: AC
@@ -31,7 +31,7 @@ You shine a blazing ray of light tinged with holy energy. Make a ranged spell at
 
 **Success** The target takes full damage.
 
- If the light passes through an area of magical [[srd/pf2e/compendium/rules-elements/traits/player-core/darkness|darkness]] or targets a creature affected by magical darkness, _holy light_ attempts to counteract the darkness. If you need to determine whether the light passes through an area of darkness, draw a line between yourself and the spell's target.
+ If the light passes through an area of magical [[srd/pf2e/compendium/rules-elements/traits/player-core/Darkness|darkness]] or targets a creature affected by magical darkness, _holy light_ attempts to counteract the darkness. If you need to determine whether the light passes through an area of darkness, draw a line between yourself and the spell's target.
 
 ---
 **Heightened (+1)** The fire damage increases by 2d6, and the spirit damage against unholy creatures increases by 2d6.

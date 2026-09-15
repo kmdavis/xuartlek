@@ -25,8 +25,8 @@ An illusion of a limitless expanse with an impossibly blue sky makes all within 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]].
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]].
 
-**Failure** The creature is off-guard. It is [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] from the illusory sky but is also disoriented; any time it uses an action to attempt to flee, it must succeed at a DC 11 flat check or flee to a space that's still within the illusion. The GM determines where the creatures ends up, but the creature can't stay stationary if it's able to move.
+**Failure** The creature is off-guard. It is [[srd/pf2e/compendium/rules-elements/Conditions#Fleeing|fleeing]] from the illusory sky but is also disoriented; any time it uses an action to attempt to flee, it must succeed at a DC 11 flat check or flee to a space that's still within the illusion. The GM determines where the creatures ends up, but the creature can't stay stationary if it's able to move.
 
 *Source: Rage of Elements p. 25*

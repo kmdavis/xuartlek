@@ -22,7 +22,7 @@ socialImage: og-image.png
 
 **Passengers** 15
 
-**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (DC 32), [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 32), [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (DC 32), or Piloting Lore (DC 30)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] (DC 32), [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] (DC 32), [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] (DC 32), or Piloting Lore (DC 30)
 
 ---
 

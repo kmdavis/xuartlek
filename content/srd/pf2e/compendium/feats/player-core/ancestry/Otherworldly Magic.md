@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Elf`
 
-Your elven magic manifests as a simple arcane spell, even if you aren't formally trained in magic. Choose one cantrip from the arcane spell list. You can cast this cantrip as an arcane innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
+Your elven magic manifests as a simple arcane spell, even if you aren't formally trained in magic. Choose one cantrip from the [arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1) spell list. You can cast this cantrip as an arcane innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
 
 *Source: Player Core p. 48*

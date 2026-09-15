@@ -1,6 +1,7 @@
 ---
 title: "Influence"
 aliases: ["Influence"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3040"
 citation: "GM Core pg. 187"
-socialImage: og-image.png
 ---
 
 # Influence
@@ -28,8 +28,8 @@ During each round of an influence encounter, each PC can act once to either Infl
 
 ### Influence
 
-[[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]] [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]]
-**Source** GM Core pg. 187
+[[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Linguistic|Linguistic]]
+**Source** [GM Core pg. 187](https://2e.aonprd.com/Sources.aspx?ID=218)
 
 ---
 
@@ -41,8 +41,8 @@ You attempt to make a favorable impression on an NPC to convince the NPC to supp
 
 ### Discover
 
-[[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]] [[srd/pf2e/compendium/rules-elements/traits/player-core/secret|Secret]]
-**Source** GM Core pg. 187
+[[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Secret|Secret]]
+**Source** [GM Core pg. 187](https://2e.aonprd.com/Sources.aspx?ID=218)
 
 ---
 

@@ -14,6 +14,6 @@ socialImage: og-image.png
 - **Price**: 150 gp
 - **Usage**: worn gloves
 
-Glowing runes cover these _+1 striking [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows|handwraps of mighty blows]]_. When you critically hit an enemy with a Strike as part of a [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Flurry of Blows|Flurry of Blows]], you can regain 4 Hit Points. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] effect. The handwraps can heal you only once every 10 minutes.
+Glowing runes cover these _+1 striking [[srd/pf2e/compendium/equipment/worn-items/Handwraps of Mighty Blows|handwraps of mighty blows]]_. When you critically hit an enemy with a Strike as part of a [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Flurry of Blows|Flurry of Blows]], you can regain 4 Hit Points. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Healing|healing]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Vitality|vitality]] effect. The handwraps can heal you only once every 10 minutes.
 
 *Source: Secrets of the Unlit Star Game Master's Guide p. 60*

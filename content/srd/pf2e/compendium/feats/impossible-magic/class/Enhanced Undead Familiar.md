@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Necromancer`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/undead-familiar|Undead Familiar]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/Undead Familiar|Undead Familiar]]
 
 You infuse your undead familiar with void energy. You can select three familiar or master abilities each day, instead of one.
 

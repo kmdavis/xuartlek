@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Duskwalker`
 
-A creature with this trait has the [[srd/pf2e/compendium/character/versatile-heritages/duskwalker|duskwalker]] [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/versatile-heritages|versatile heritage]]. Duskwalkers are [[srd/pf2e/compendium/gm/creature-families/planar-scion|planar scions]] infused with the supernatural energy of [[srd/pf2e/compendium/gm/creature-families/psychopomp|psychopomps]].
+A creature with this trait has the [[srd/pf2e/compendium/character/versatile-heritages/Duskwalker|duskwalker]] [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/Versatile Heritages|versatile heritage]]. Duskwalkers are [[srd/pf2e/compendium/gm/creature-families/Planar Scion|planar scions]] infused with the supernatural energy of [[srd/pf2e/compendium/gm/creature-families/Psychopomp|psychopomps]].
 
 *Source: Player Core 2 p. 316*

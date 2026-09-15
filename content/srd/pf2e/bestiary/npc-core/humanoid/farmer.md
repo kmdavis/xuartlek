@@ -28,14 +28,14 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+6"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/lore|Farming Lore]] +6, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +4, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/Lore|Farming Lore]] +6, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +4, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +4"
 abilityMods: [3, 1, 3, 0, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "apple, pitchfork, work clothes (functions as [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]])"
+    desc: "apple, pitchfork, work clothes (functions as [[srd/pf2e/compendium/equipment/Armor#Leather Armor|leather armor]])"
 ac: 14
 armorclass:
   - name: "AC"
@@ -47,18 +47,18 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ pitchfork +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d6+3 piercing"
+    desc: "⬻ pitchfork +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 1d6+3 piercing"
   - name: "Melee"
-    desc: "⬻ fist +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+3 bludgeoning"
+    desc: "⬻ fist +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+3 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ apple +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d4+3 bludgeoning"
+    desc: "⬻ apple +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 20 feet]]) __Damage__ 1d4+3 bludgeoning"
 abilities_bot:
   - name: "Pitch Bale"
     desc: "⬻"
   - name: "Requirements"
     desc: "The farmer's last action was a successful pitchfork Strike"
   - name: "Effect"
-    desc: "The farmer moves the creature they hit with their pitchfork up to 5 feet, and the target falls [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. The target can attempt a DC 13 Reflex save to avoid falling prone and avoids being moved altogether on a critical success."
+    desc: "The farmer moves the creature they hit with their pitchfork up to 5 feet, and the target falls [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]. The target can attempt a DC 13 Reflex save to avoid falling prone and avoids being moved altogether on a critical success."
 sourcebook: "_NPC Core_, page 67."
 ```
 

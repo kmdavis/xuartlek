@@ -30,10 +30,10 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +7, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +11"
 abilityMods: [2, 4, 2, 0, 2, 1]
 ac: 19
 armorclass:
@@ -42,16 +42,16 @@ armorclass:
 hp: 50
 health:
   - name: "HP"
-    desc: "50; __Weaknesses__ axes 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5"
+    desc: "50; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/Weapon Groups#Axe|axes]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] 5"
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 0 feet]]) __Damage__ 1d10+4 slashing"
+    desc: "⬻ claw +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 0 feet]]) __Damage__ 1d10+4 slashing"
   - name: "Ranged"
-    desc: "⬻ splinter +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly 1d6]], range increment 30 feet) __Damage__ 1d6+4 piercing"
+    desc: "⬻ splinter +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly 1d6]], range increment 30 feet) __Damage__ 1d6+4 piercing"
 abilities_bot:
   - name: "Bramble Jump"
-    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/plant|Plant]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|Teleportation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|Wood]])"
+    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|Plant]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|Primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Teleportation|Teleportation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Wood|Wood]])"
   - name: "Requirements"
     desc: "The twigjack is in undergrowth"
   - name: "Effect"

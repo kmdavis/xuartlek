@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/talisman-dabbler|Talisman Dabbler]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/talisman-dabbler-dedication|Talisman Dabbler Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Talisman Dabbler|Talisman Dabbler]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Talisman Dabbler Dedication|Talisman Dabbler Dedication]]
 
-With some streamlining to your process and a deeper collection of talisman materials, you make a greater number of talismans every day. You can create two additional talismans during your daily preparations.
+With some streamlining to your process and a deeper collection of [talisman](https://2e.aonprd.com/Equipment.aspx?Category=15&Subcategory=19) materials, you make a greater number of talismans every day. You can create two additional talismans during your daily preparations.
 
 **Special** You can select this feat a second time if you are 14th level or higher.
 

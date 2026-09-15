@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/archaeologist|Archaeologist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/archaeologist-dedication|Archaeologist Dedication]]; Master in [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Archaeologist|Archaeologist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Archaeologist Dedication|Archaeologist Dedication]]; Master in [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-You have the knowledge needed to understand ancient texts and cultural artifacts. You can use [[srd/pf2e/compendium/rules-elements/skills/society|Society]] when [[srd/pf2e/compendium/rules-elements/actions/player-core#Decipher Writing|Deciphering Writing]], no matter the type of writing you are examining. You can also use Society to [[srd/pf2e/compendium/rules-elements/actions/player-core#Identify Magic|Identify Magic]] when examining a magic item or location with cultural significance.
+You have the knowledge needed to understand ancient texts and cultural artifacts. You can use [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] when [[srd/pf2e/compendium/rules-elements/actions/player-core#Decipher Writing|Deciphering Writing]], no matter the type of writing you are examining. You can also use Society to [[srd/pf2e/compendium/rules-elements/actions/player-core#Identify Magic|Identify Magic]] when examining a magic item or location with cultural significance.
 
 *Source: Player Core 2 p. 184*

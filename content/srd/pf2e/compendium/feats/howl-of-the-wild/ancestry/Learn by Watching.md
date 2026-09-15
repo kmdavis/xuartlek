@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Awakened Animal`
 
-Before your awakening, you watched humanoids performing some skill near you frequently. You didn't know it at the time, but your curiosity led to you picking up the skill. You become trained in your choice of [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], or [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]. In addition, when you Follow the Expert in exploration mode, you add 2 + your level as your proficiency bonus if you're untrained instead of adding your level alone.
+Before your awakening, you watched humanoids performing some skill near you frequently. You didn't know it at the time, but your curiosity led to you picking up the skill. You become trained in your choice of [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], or [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]. In addition, when you Follow the Expert in exploration mode, you add 2 + your level as your proficiency bonus if you're untrained instead of adding your level alone.
 
 *Source: Howl of the Wild p. 25*

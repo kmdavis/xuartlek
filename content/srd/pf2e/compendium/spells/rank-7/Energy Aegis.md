@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
-- **Spell Lists**: Elemental
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Elemental|Elemental]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Elemental|Elemental]]
 - **Cast**: 1 minute
 - **Range**: touch
 - **Target**: 1 creature

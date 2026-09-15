@@ -18,7 +18,7 @@ You improve your exalted reaction with the benefit listed for your cause.
 
 **Desecration** While you have the benefit, you also gain a +2 status bonus to saving throws against effects created by enemies in your champion’s aura.
 
-**Grandeur** Any [[srd/pf2e/compendium/spells/rank-2/revealing-light|_revealing light_]] created by your Flash of Grandeur lasts for 1 minute.
+**Grandeur** Any [[srd/pf2e/compendium/spells/rank-2/Revealing Light|_revealing light_]] created by your Flash of Grandeur lasts for 1 minute.
 
 **Iniquity** The damage dealt to enemies other than the triggering creatures increases by an amount equal to the damage dice of Destructive Vengeance (apply this after you halve the damage).
 

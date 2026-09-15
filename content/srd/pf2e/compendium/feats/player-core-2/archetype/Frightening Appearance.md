@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Vigilante`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/vigilante|Vigilante]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/startling-appearance|Startling Appearance]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Vigilante|Vigilante]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Startling Appearance|Startling Appearance]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-Your dramatic appearances can frighten bystanders. When you make a Startling Appearance, you can also attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] each enemy in a 10-foot emanation you were [[srd/pf2e/compendium/rules-elements/conditions#Unnoticed|unnoticed]] by before your [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]].
+Your dramatic appearances can frighten bystanders. When you make a Startling Appearance, you can also attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] each enemy in a 10-foot emanation you were [[srd/pf2e/compendium/rules-elements/Conditions#Unnoticed|unnoticed]] by before your [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]].
 
 *Source: Player Core 2 p. 219*

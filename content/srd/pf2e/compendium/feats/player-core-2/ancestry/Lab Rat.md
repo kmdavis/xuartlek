@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Ratfolk`
 
-You've spent more than your share of time in an alchemy lab. You have been exposed to a wide variety of alchemical poisons and harmful substances, leaving you with an increased tolerance of their effects. You have a +1 circumstance bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poisons]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|diseases]]. If you roll a success on your saving throw against a poison or disease, you get a critical success instead.
+You've spent more than your share of time in an alchemy lab. You have been exposed to a wide variety of alchemical poisons and harmful substances, leaving you with an increased tolerance of their effects. You have a +1 circumstance bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poisons]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|diseases]]. If you roll a success on your saving throw against a poison or disease, you get a critical success instead.
 
 *Source: Player Core 2 p. 30*

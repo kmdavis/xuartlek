@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Ardande`
 
-Your connection to the magic of the [[srd/pf2e/compendium/gm/planes#Plane of Wood|Plane of Wood]] allows you to call upon the power of plants and trees to protect yourself. You can cast [[srd/pf2e/compendium/spells/rank-5/mantle-of-the-unwavering-heart|_mantle of the unwavering heart_]] as a 5th-rank primal innate spell once per day.
+Your connection to the magic of the [[srd/pf2e/compendium/gm/Planes#Plane of Wood|Plane of Wood]] allows you to call upon the power of plants and trees to protect yourself. You can cast [[srd/pf2e/compendium/spells/rank-5/Mantle of the Unwavering Heart|_mantle of the unwavering heart_]] as a 5th-rank primal innate spell once per day.
 
 *Source: Rage of Elements p. 49*

@@ -16,11 +16,11 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Summon`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 
-You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] trait and whose level is –1 to fight for you.
+You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]] trait and whose level is –1 to fight for you.
 
 ---
 **Heightened (2nd)** Level 1.

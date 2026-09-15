@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Summoner`
 
-You transmogrify your eidolon each day. During your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Daily Preparations|daily preparations]], you can swap out any number of your evolution feats, each for a different evolution feat of an appropriate level for which you meet the prerequisites. These swaps last until your next daily preparations.
+You transmogrify your eidolon each day. During your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Running Exploration#Daily Preparations|daily preparations]], you can swap out any number of your evolution feats, each for a different evolution feat of an appropriate level for which you meet the prerequisites. These swaps last until your next daily preparations.
 
 *Source: Impossible Magic p. 85*

@@ -17,14 +17,14 @@ socialImage: og-image.png
 
 `Concentrate`  `Death`  `Manipulate`  `Poison`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/apocalypse-riders/apollyon|Apollyon]], [[srd/pf2e/compendium/deities/daemon-harbingers/cixyron|Cixyron]], [[srd/pf2e/compendium/deities/qlippoth-lords/isph-aun-vuln|Isph-Aun-Vuln]], [[srd/pf2e/compendium/deities/infernal-dukes/nergal|Nergal]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nhimbaloth|Nhimbaloth]], [[srd/pf2e/compendium/deities/azlanti-pantheon/sicva|Sicva]], [[srd/pf2e/compendium/deities/daemon-harbingers/vorasha|Vorasha]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/ydersius|Ydersius]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/apocalypse-riders/Apollyon|Apollyon]], [[srd/pf2e/compendium/deities/daemon-harbingers/Cixyron|Cixyron]], [[srd/pf2e/compendium/deities/qlippoth-lords/Isph-Aun-Vuln|Isph-Aun-Vuln]], [[srd/pf2e/compendium/deities/infernal-dukes/Nergal|Nergal]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nhimbaloth|Nhimbaloth]], [[srd/pf2e/compendium/deities/azlanti-pantheon/Sicva|Sicva]], [[srd/pf2e/compendium/deities/daemon-harbingers/Vorasha|Vorasha]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/Ydersius|Ydersius]]
 - **Range**: 120 feet
 - **Area**: 20-foot burst
 - **Defense**: basic Fortitude
 - **Duration**: 1 minute
 
-You conjure a poisonous fog. This functions as [[srd/pf2e/compendium/spells/rank-2/mist|_mist_]], except the area moves 10 feet away from you each round. A breathing creature that starts its turn in the area takes 6d8 poison damage with a basic Fortitude save. You can Dismiss the spell.
+You conjure a poisonous fog. This functions as [[srd/pf2e/compendium/spells/rank-2/Mist|_mist_]], except the area moves 10 feet away from you each round. A breathing creature that starts its turn in the area takes 6d8 poison damage with a basic Fortitude save. You can Dismiss the spell.
 
 ---
 **Heightened (+1)** The damage increases by 1d8.

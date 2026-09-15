@@ -17,19 +17,19 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 120 feet
 - **Target**: 1 creature made of flesh
 - **Defense**: Fortitude
 - **Duration**: varies
 
-You turn the target's flesh slowly into wood. The target must attempt a Fortitude save. Creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] trait have a +2 circumstance bonus to saves against this spell.
+You turn the target's flesh slowly into wood. The target must attempt a Fortitude save. Creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]] trait have a +2 circumstance bonus to saves against this spell.
 
 **Critical Success** The target is unaffected.
 
 **Success** The target is slowed 1 for 1 round.
 
-**Failure** The target is slowed 1 and must attempt a Fortitude save at the end of each of its turns; this ongoing save has the [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]] trait. On a failed save, the slowed condition increases by 1 (or 2 on a critical failure). A successful save reduces the slowed condition by 1. When a creature is unable to act due to the slowed condition from _lignify_, the creature is permanently non-magically [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]], though it's turned to wood instead of stone. The spell ends if the creature is magically petrified or the slowed condition is removed.
+**Failure** The target is slowed 1 and must attempt a Fortitude save at the end of each of its turns; this ongoing save has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|incapacitation]] trait. On a failed save, the slowed condition increases by 1 (or 2 on a critical failure). A successful save reduces the slowed condition by 1. When a creature is unable to act due to the slowed condition from _lignify_, the creature is permanently non-magically [[srd/pf2e/compendium/rules-elements/Conditions#Petrified|petrified]], though it's turned to wood instead of stone. The spell ends if the creature is magically petrified or the slowed condition is removed.
 
 **Critical Failure** As failure, but the target is initially slowed 2.
 

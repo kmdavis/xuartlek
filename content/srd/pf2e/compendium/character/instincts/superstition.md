@@ -16,7 +16,7 @@ A deep distrust of magic drives you to forgo and counter the metaphysical nonsen
 
 Your deep superstition means it’s anathema for you to learn or [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]], or to wield or use an item that can be activated to Cast a Spell. If you violate this anathema, you lose the instinct’s abilities and any feats that list the instinct as a prerequisite until you spend 1 day of downtime re-centering yourself, though you keep all your other barbarian abilities.
 
-While raging, you gain a +2 status bonus to all saves against magic. Increase your damage from Rage from 2 to 3, or 4 against creatures you have witnessed Casting a Spell within the last hour. When you Rage, you regain Hit Point equal to the temporary HP you gained from the Rage action; you then can’t regain HP in this way again for 10 minutes. While raging, if you willingly accept the effects of a magic spell or effect, you are [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1. You cannot reduce your frightened condition below 1 as long as you are affected by the spell or effect.
+While raging, you gain a +2 status bonus to all saves against magic. Increase your damage from Rage from 2 to 3, or 4 against creatures you have witnessed Casting a Spell within the last hour. When you Rage, you regain Hit Point equal to the temporary HP you gained from the Rage action; you then can’t regain HP in this way again for 10 minutes. While raging, if you willingly accept the effects of a magic spell or effect, you are [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] 1. You cannot reduce your frightened condition below 1 as long as you are affected by the spell or effect.
 
 ### Specialization Ability
 
@@ -24,6 +24,6 @@ Increase the damage from Rage from 3 to 7, or 8 against creatures you have witne
 
 ### Raging Resistance
 
-Choose two associated magical traditions: arcane and occult, arcane and primal, divine and occult, or divine and primal. The resistance from your raging resistance class feature applies against all damage you take from spells cast with these two traditions of magic, regardless of the type of damage dealt by the spell.
+Choose two associated magical traditions: [arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1) and [occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), arcane and [primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4), [divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2) and occult, or divine and primal. The resistance from your raging resistance class feature applies against all damage you take from spells cast with these two traditions of magic, regardless of the type of damage dealt by the spell.
 
 *Source: Player Core 2 p. 75*

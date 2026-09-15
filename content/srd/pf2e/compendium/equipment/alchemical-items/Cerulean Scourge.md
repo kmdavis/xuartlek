@@ -20,7 +20,7 @@ socialImage: og-image.png
 - **Price**: 1, 450 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 This poison is infamous for making the victim's blood vessels glow with a bright blue light before painfully bursting. 
 

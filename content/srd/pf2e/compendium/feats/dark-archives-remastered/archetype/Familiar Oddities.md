@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/curse-maelstrom|Curse Maelstrom]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/curse-maelstrom-dedication|Curse Maelstrom Dedication]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] or Trained in [[srd/pf2e/compendium/rules-elements/skills/lore|Curse Lore]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Curse Maelstrom|Curse Maelstrom]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] or Trained in [[srd/pf2e/compendium/rules-elements/skills/Lore|Curse Lore]]
 
 Perhaps due to the curse within you, curses occasionally perceive you as an extension of themselves and readily reveal themselves to you. You gain a +2 circumstance bonus to checks to Identify Magic on a cursed item or a spell that has the curse trait.
 

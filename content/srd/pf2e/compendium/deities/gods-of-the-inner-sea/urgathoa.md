@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: become undead upon death, create or protect the undead, sate your appetites
 - **Anathema**: deny your appetites, destroy undead of no harm to you, sacrifice your life
 - **Area of Concern**: disease, gluttony, and undeath
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/children-of-the-night|Children of the Night]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Children of the Night|Children of the Night]]
 
 ### Devotee Benefits
 
@@ -25,24 +25,24 @@ Constitution or Wisdom
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|Scythe]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/Scythe|Scythe]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/domains#Magic|Magic]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Undeath|Undeath]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/Domains#Magic|Magic]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Undeath|Undeath]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Decay|Decay]], [[srd/pf2e/compendium/character/domains#Plague|Plague]], [[srd/pf2e/compendium/character/domains#Swarm|Swarm]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Decay|Decay]], [[srd/pf2e/compendium/character/Domains#Plague|Plague]], [[srd/pf2e/compendium/character/Domains#Swarm|Swarm]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/goblin-pox|Goblin Pox]]
+[[srd/pf2e/compendium/spells/rank-1/Goblin Pox|Goblin Pox]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/false-vitality|False Vitality]]
+[[srd/pf2e/compendium/spells/rank-2/False Vitality|False Vitality]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/mask-of-terror|Mask of Terror]]
+[[srd/pf2e/compendium/spells/rank-7/Mask of Terror|Mask of Terror]]
 
 ### Divine Intercession
 
@@ -52,7 +52,7 @@ Urgathoa interferes in mortal affairs to fuel her own self-gratification and obs
 
 **Moderate Boon** Urgathoa blesses you as one of her children. You gain negative healing.
 
-**Major Boon** When you contract contagions, you experience fever dreams filled with insight. Once afflicted with a [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], you gain the effects of _foresight_ with yourself as the target until no longer afflicted with any disease.
+**Major Boon** When you contract contagions, you experience fever dreams filled with insight. Once afflicted with a [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], you gain the effects of _foresight_ with yourself as the target until no longer afflicted with any disease.
 
 **Minor Curse** You must overindulge or partake in forbidden feasts before you find yourself even remotely sated. You need to eat 20 times as much food as normal to avoid starvation, though you always feel hungry regardless of how much you eat. If you dine on the flesh and blood of sapient creatures, you need to eat only the normal amount of such meals and your hunger abates.
 

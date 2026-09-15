@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Focus`  `Manipulate`  `Mental`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Fey|Fey]]
 - **Range**: 30 feet
 - **Area**: 5-foot burst or more
 - **Defense**: Will

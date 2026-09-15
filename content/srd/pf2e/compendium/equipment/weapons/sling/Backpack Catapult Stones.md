@@ -18,9 +18,9 @@ socialImage: og-image.png
 - **Bulk**: 1
 - **Type**: Ranged
 - **Category**: Ammunition
-- **Group**: Sling
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sling|Sling]]
 
-_Nethys Note: Ammunition for a [[srd/pf2e/compendium/equipment/weapons/sling/backpack-catapult|backpack catapult]]._.
+_Nethys Note: Ammunition for a [[srd/pf2e/compendium/equipment/weapons/sling/Backpack Catapult|backpack catapult]]._.
 
 ### Critical Specialization Effects
 

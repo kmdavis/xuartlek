@@ -16,14 +16,14 @@ socialImage: og-image.png
 
 `Archetype`  `Mythic`  `Teleportation`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/mortal-herald|Mortal Herald]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Mortal Herald|Mortal Herald]]
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/mortal-herald-dedication|Mortal Herald Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Mortal Herald Dedication|Mortal Herald Dedication]]
 
-Empowered with divine energy, you can be at an ally’s side in the blink of an eye. You teleport to an empty space adjacent to an ally within 100 feet. If you spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-characters#Mythic Points|Mythic Point]] as part of this action, you can teleport to anywhere within a mile, and when you arrive, any enemies adjacent to you must succeed at a Will saving throw against your class DC or spell DC or be [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1.
+Empowered with divine energy, you can be at an ally’s side in the blink of an eye. You teleport to an empty space adjacent to an ally within 100 feet. If you spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/Mythic Characters#Mythic Points|Mythic Point]] as part of this action, you can teleport to anywhere within a mile, and when you arrive, any enemies adjacent to you must succeed at a Will saving throw against your class DC or spell DC or be [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]] 1.
 
 ### Flash of Omnipresence leads to...
 
-[[srd/pf2e/compendium/feats/divine-mysteries/archetype/free-from-bonds|Free from Bonds]]
+[[srd/pf2e/compendium/feats/divine-mysteries/archetype/Free from Bonds|Free from Bonds]]
 
 *Source: Divine Mysteries p. 280*

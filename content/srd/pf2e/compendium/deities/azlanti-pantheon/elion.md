@@ -24,21 +24,21 @@ Dexterity or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/longbow|Longbow]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/Longbow|Longbow]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Cities|Cities]], [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Travel|Travel]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Cities|Cities]], [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/tailwind|Tailwind]]
+[[srd/pf2e/compendium/spells/rank-1/Tailwind|Tailwind]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/cozy-cabin|Cozy Cabin]]
+[[srd/pf2e/compendium/spells/rank-3/Cozy Cabin|Cozy Cabin]]
 
 - **7th**
 Momentary Recovery

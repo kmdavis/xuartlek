@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Earth`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deity**: [[srd/pf2e/compendium/deities/monitor-demigods/dramindyr|Dramindyr]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deity**: [[srd/pf2e/compendium/deities/monitor-demigods/Dramindyr|Dramindyr]]
 - **Trigger**: You are the target of a Strike or would attempt a Reflex save against a damaging area effect
 - **Duration**: 3 rounds
 

@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/palatine-detective|Palatine Detective]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/palatine-detective-dedication|Palatine Detective Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Palatine Detective|Palatine Detective]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Palatine Detective Dedication|Palatine Detective Dedication]]
 
-Thanks to your constant involvement with cryptic texts, you have attained an almost-supernatural ability to decipher complex codes and understand ancient writings. You can always use [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] when you [[srd/pf2e/compendium/rules-elements/actions/player-core#Decipher Writing|Decipher Writing]], no matter the subject matter. In addition, you can ignore language constraints when Deciphering Writing, and when you critically fail to Decipher Writing, you get a failure instead.
+Thanks to your constant involvement with cryptic texts, you have attained an almost-supernatural ability to decipher complex codes and understand ancient writings. You can always use [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] or [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] when you [[srd/pf2e/compendium/rules-elements/actions/player-core#Decipher Writing|Decipher Writing]], no matter the subject matter. In addition, you can ignore language constraints when Deciphering Writing, and when you critically fail to Decipher Writing, you get a failure instead.
 
 *Source: Divine Mysteries p. 289*

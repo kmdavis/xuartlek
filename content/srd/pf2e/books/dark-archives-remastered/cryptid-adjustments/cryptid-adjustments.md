@@ -1,6 +1,7 @@
 ---
 title: "Cryptid Adjustments"
 aliases: ["Cryptid Adjustments"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Dark Archives (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3493"
 citation: "Dark Archives (Remastered) pg. 58"
-socialImage: og-image.png
 ---
 
 # Cryptid Adjustments
@@ -20,7 +20,7 @@ They resemble the familiar creatures common to the world, but are always just a 
 
 ## Contents
 
-- [[srd/pf2e/books/dark-archives-remastered/cryptid-adjustments/experimental-cryptids|Experimental Cryptids]]
-- [[srd/pf2e/books/dark-archives-remastered/cryptid-adjustments/mutant-cryptids|Mutant Cryptids]]
-- [[srd/pf2e/books/dark-archives-remastered/cryptid-adjustments/primeval-cryptid|Primeval Cryptid]]
-- [[srd/pf2e/books/dark-archives-remastered/cryptid-adjustments/rumored-cryptid|Rumored Cryptid]]
+- [[srd/pf2e/books/dark-archives-remastered/cryptid-adjustments/Experimental Cryptids|Experimental Cryptids]]
+- [[srd/pf2e/books/dark-archives-remastered/cryptid-adjustments/Mutant Cryptids|Mutant Cryptids]]
+- [[srd/pf2e/books/dark-archives-remastered/cryptid-adjustments/Primeval Cryptid|Primeval Cryptid]]
+- [[srd/pf2e/books/dark-archives-remastered/cryptid-adjustments/Rumored Cryptid|Rumored Cryptid]]

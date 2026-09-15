@@ -1,6 +1,7 @@
 ---
 title: "Experimental Cryptids"
 aliases: ["Experimental Cryptids"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Dark Archives (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3494"
 citation: "Dark Archives (Remastered) pg. 58"
-socialImage: og-image.png
 ---
 
 # Experimental Cryptids
@@ -18,4 +18,4 @@ socialImage: og-image.png
 
 An experimental cryptid has been purposefully altered through alchemy, engineering, magic, or ritual to contain some degree of construct components. Although powerful, the process is volatile and imperfect.
 
-Experimental Cryptid Template
+[Experimental Cryptid Template](https://2e.aonprd.com/MonsterTemplates.aspx?ID=56)

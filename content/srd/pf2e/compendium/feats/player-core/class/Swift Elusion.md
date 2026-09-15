@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Rogue`
 
-- **Prerequisites**: Legendary in [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]]
+- **Prerequisites**: Legendary in [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]]
 - **Trigger**: A foe ends its movement adjacent to you
 
 Attempt an Acrobatics check against the foe’s Reflex DC. If you succeed, either Stride to a different space adjacent to the foe or move the foe to a different space adjacent to you.

@@ -14,14 +14,14 @@ socialImage: og-image.png
 
 `Fatal`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/dajermube|Dajermube]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/mhar|Mhar]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/Dajermube|Dajermube]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Mhar|Mhar]]
 - **Price**: 1 gp
 - **Damage**: 1d10 P
 - **Bulk**: 2
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Pick
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Pick|Pick]]
 
 This pick has a longer handle and broader head than a regular pick. It is too heavy to wield in one hand.
 
@@ -31,6 +31,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/trollhound-pick|Trollhound Pick]]
+[[srd/pf2e/compendium/equipment/weapons/Trollhound Pick|Trollhound Pick]]
 
 *Source: Player Core p. 278*

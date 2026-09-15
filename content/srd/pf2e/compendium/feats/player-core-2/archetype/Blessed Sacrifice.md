@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/blessed-one|Blessed One]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/blessed-one-dedication|Blessed One Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Blessed One|Blessed One]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Blessed One Dedication|Blessed One Dedication]]
 
-You gain the [[srd/pf2e/compendium/spells/focus/protectors-sacrifice|_protector’s sacrifice_]] domain spell as a devotion spell.
+You gain the [[srd/pf2e/compendium/spells/focus/Protector's Sacrifice|_protector’s sacrifice_]] domain spell as a devotion spell.
 
 *Source: Player Core 2 p. 190*

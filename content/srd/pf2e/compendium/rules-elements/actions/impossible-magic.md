@@ -19,9 +19,9 @@ socialImage: og-image.png
 
 You and your eidolon act as one. Either you or your eidolon takes an action or activity using the same number of actions as Act Together, and the other takes a single action.
 
- For example, if you spent 2 actions to Act Together, you could cast [[srd/pf2e/compendium/spells/rank-1/breathe-fire|_breathe fire_]] (2 actions) and your eidolon could Strike (1 action), or your eidolon could use their Dragon Breath (2 actions) and you could Stride (1 action).
+ For example, if you spent 2 actions to Act Together, you could cast [[srd/pf2e/compendium/spells/rank-1/Breathe Fire|_breathe fire_]] (2 actions) and your eidolon could Strike (1 action), or your eidolon could use their Dragon Breath (2 actions) and you could Stride (1 action).
 
- This lets you each use separate [[srd/pf2e/books/player-core/chapter-8-playing-the-game/exploration-mode#Exploration Activities|exploration activities]] like [[srd/pf2e/compendium/rules-elements/actions/player-core#Avoid Notice|Avoid Notice]] as you travel.
+ This lets you each use separate [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Exploration Mode#Exploration Activities|exploration activities]] like [[srd/pf2e/compendium/rules-elements/actions/player-core#Avoid Notice|Avoid Notice]] as you travel.
 
 *Source: Impossible Magic p. 65*
 
@@ -31,7 +31,7 @@ You and your eidolon act as one. Either you or your eidolon takes an action or a
 
 `Concentrate`  `Magus`  `Stance`
 
-You cycle arcane power through your body and weapon using specialized forms, breathing, or footwork. While you're in the stance, your melee Strikes gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]] trait (making them magical) and deal 1 extra force damage, and you gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] 1 to damage from spells. If you have the weapon specialization class feature, the damage and resistance increase to 2, and if you have greater weapon specialization, they increase to 3.
+You cycle arcane power through your body and weapon using specialized forms, breathing, or footwork. While you're in the stance, your melee Strikes gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]] trait (making them magical) and deal 1 extra force damage, and you gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistance]] 1 to damage from spells. If you have the weapon specialization class feature, the damage and resistance increase to 2, and if you have greater weapon specialization, they increase to 3.
 
  If you [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] and then enter Arcane Cascade on the same turn, you can change the damage from the stance to any one damage type that spell could deal instead of force.
 
@@ -41,7 +41,7 @@ You cycle arcane power through your body and weapon using specialized forms, bre
 
 `Exploration`
 
-You meditate, pray, or otherwise try to reinforce your soul's connection to your armament. This takes 10 minutes. Attempt a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] check against your _[[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|soulforged corruption]]_. The counteract rank is half your level rounded up, and the counteract check modifier is your Religion modifier. If successful, reduce the stage of soulforged corruption by 1 (to a minimum of stage 1).
+You meditate, pray, or otherwise try to reinforce your soul's connection to your armament. This takes 10 minutes. Attempt a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions#Counteracting|counteract]] check against your _[[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions#Counteracting|soulforged corruption]]_. The counteract rank is half your level rounded up, and the counteract check modifier is your Religion modifier. If successful, reduce the stage of soulforged corruption by 1 (to a minimum of stage 1).
 
 *Source: Impossible Magic p. 101*
 
@@ -64,7 +64,7 @@ You [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Spellstrike|Sp
 
 `Exploration`
 
-You put more of yourself on the line to draw forth the hidden potentials behind an impossible spell. You empower the effect of one of your active impossible spells further as detailed under the spell's description. Every time you Fuel an Impossible Spell, you become [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] 1 or increase your doomed condition by 1 if you' re already doomed.
+You put more of yourself on the line to draw forth the hidden potentials behind an impossible spell. You empower the effect of one of your active impossible spells further as detailed under the spell's description. Every time you Fuel an Impossible Spell, you become [[srd/pf2e/compendium/rules-elements/Conditions#Doomed|doomed]] 1 or increase your doomed condition by 1 if you' re already doomed.
 
 *Source: Impossible Magic p. 174*
 
@@ -102,7 +102,7 @@ Your eidolon appears in an open space adjacent to you, and can then take a singl
 
 ---
 
- **Special** This activity has the trait matching your eidolon's tradition ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]).
+ **Special** This activity has the trait matching your eidolon's tradition ([[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]]).
 
 *Source: Impossible Magic p. 64*
 
@@ -118,7 +118,7 @@ You project your senses into your eidolon, allowing you to perceive through them
 
 ---
 
- **Special** This action has the trait matching your eidolon's tradition ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]). Your eidolon can also use this ability. When they do, they project their senses into your body.
+ **Special** This action has the trait matching your eidolon's tradition ([[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]]). Your eidolon can also use this ability. When they do, they project their senses into your body.
 
 *Source: Impossible Magic p. 65*
 
@@ -130,9 +130,9 @@ You project your senses into your eidolon, allowing you to perceive through them
 
 - **Frequency**: until recharged (see below)
 
-You channel a spell into a punch or sword thrust to deliver a combined attack. You cast a spell that takes 1 or 2 actions to cast and requires either a spell attack roll or a saving throw. You imbue its effects into an attack instead of executing the spell normally. Make a melee Strike with a weapon or unarmed attack. This counts as two attacks for your multiple attack penalty, but you don't apply the penalty until after you've completed the Spellstrike. The infusion of spell energy grants your Strike the [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]] trait, making it magical. If the spell required a spell attack roll, use your Strike's results to determine the effects of both the Strike and the spell. If the spell required a save, the target of the Strike rolls its saving throw normally regardless of your attack roll's result unless your Strike was a critical failure, in which case your spell is disrupted. Combine the Strike and spell's damage for the purpose of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistances]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Weakness|weaknesses]].
+You channel a spell into a punch or sword thrust to deliver a combined attack. You cast a spell that takes 1 or 2 actions to cast and requires either a spell attack roll or a saving throw. You imbue its effects into an attack instead of executing the spell normally. Make a melee Strike with a weapon or unarmed attack. This counts as two attacks for your multiple attack penalty, but you don't apply the penalty until after you've completed the Spellstrike. The infusion of spell energy grants your Strike the [[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]] trait, making it magical. If the spell required a spell attack roll, use your Strike's results to determine the effects of both the Strike and the spell. If the spell required a save, the target of the Strike rolls its saving throw normally regardless of your attack roll's result unless your Strike was a critical failure, in which case your spell is disrupted. Combine the Strike and spell's damage for the purpose of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistances]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Weakness|weaknesses]].
 
- After you use Spellstrike, you can't do so again until you recharge your Spellstrike as a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait. You also recharge your Spellstrike when you cast a conflux spell that takes at least 1 action to cast; casting a focus spell of another type doesn't recharge your Spellstrike.
+ After you use Spellstrike, you can't do so again until you recharge your Spellstrike as a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] trait. You also recharge your Spellstrike when you cast a conflux spell that takes at least 1 action to cast; casting a focus spell of another type doesn't recharge your Spellstrike.
 
 *Source: Impossible Magic p. 11*
 
@@ -141,8 +141,6 @@ You channel a spell into a punch or sword thrust to deliver a combined attack. Y
 [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")
 
 `Concentrate`  `Magical`  `Manipulate`  `Runesmith`
-
-- **Requirements**: You’re holding or wearing an artisan’s toolkit.
 
 Your fingers dance, glowing light leaving behind the image of a rune. You apply one rune to an adjacent target matching the rune's Usage entry. You can have any number of runes traced at a time, but each rune remains only until the end of your next turn.
 

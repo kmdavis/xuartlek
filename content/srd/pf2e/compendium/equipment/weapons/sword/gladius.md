@@ -22,9 +22,9 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
-Similar to a [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|shortsword]], a gladius is designed to inflict deadly stabbing wounds while still being useful as a slashing weapon.
+Similar to a [[srd/pf2e/compendium/equipment/weapons/sword/Shortsword|shortsword]], a gladius is designed to inflict deadly stabbing wounds while still being useful as a slashing weapon.
 
 ### Critical Specialization Effects
 

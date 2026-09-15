@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Cleric`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/advanced-domain|Advanced Domain]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Advanced Domain|Advanced Domain]]
 
 When you call upon your deity’s power to fulfill the promise of their domain, you gain divine protection. After you cast a domain spell, you gain resistance to all damage until the start of your next turn. The amount of resistance is equal to the rank of the domain spell you cast.
 

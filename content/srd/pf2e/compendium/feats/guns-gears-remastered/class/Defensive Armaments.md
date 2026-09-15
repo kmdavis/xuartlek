@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Gunslinger`
 
-You use bulky firearms or crossbows to shield your body. Any two-handed firearms and two-handed crossbows you wield gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/parry|parry]] trait. If an appropriate weapon already has the parry trait, increase the circumstance bonus to AC it grants when used to parry from +1 to +2. While parrying with your weapon, you are immune to splash damage.
+You use bulky firearms or crossbows to shield your body. Any two-handed firearms and two-handed crossbows you wield gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/Parry|parry]] trait. If an appropriate weapon already has the parry trait, increase the circumstance bonus to AC it grants when used to parry from +1 to +2. While parrying with your weapon, you are immune to splash damage.
 
 *Source: Guns & Gears (Remastered) p. 111*

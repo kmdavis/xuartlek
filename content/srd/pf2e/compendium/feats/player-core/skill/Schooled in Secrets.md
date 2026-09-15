@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
 You notice the signs and symbols that members of mystery cults and other secret societies use to declare their affiliation to fellow members. You can use Occultism in place of Diplomacy to Gather Information about such groups and in place of Deception to Impersonate a member of these groups.
 

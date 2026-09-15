@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Sonic`
 
-- **Traditions**: Arcane, Occult, Primal
-- **Deity**: [[srd/pf2e/compendium/deities/empyreal-lords/seramaydiel|Seramaydiel]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deity**: [[srd/pf2e/compendium/deities/empyreal-lords/Seramaydiel|Seramaydiel]]
 - **Trigger**: A creature within range begins to make a sound.
 - **Range**: 30 feet
 - **Duration**: until your next daily preparations

@@ -19,8 +19,8 @@ socialImage: og-image.png
 `Auditory`  `Concentrate`  `Emotion`  `Mental`  `Runesmith`
 
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/rune-singer|Rune-Singer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/Rune-Singer|Rune-Singer]]
 
-You weave the true names of several runes you’ve drawn into a beautiful song, invoking them all simultaneously. Choose up to three rune-bearers within 30 feet and Invoke one Rune on each of them. The song also inspires the rune-bearers, granting them a +1 status bonus to skill checks and saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] effects for 1 minute.
+You weave the true names of several runes you’ve drawn into a beautiful song, invoking them all simultaneously. Choose up to three rune-bearers within 30 feet and Invoke one Rune on each of them. The song also inspires the rune-bearers, granting them a +1 status bonus to skill checks and saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]] effects for 1 minute.
 
 *Source: Impossible Magic p. 49*

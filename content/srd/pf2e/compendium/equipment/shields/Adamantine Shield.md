@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Uncommon`
 
 - **Usage**: varies by shield
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/adamantine|Adamantine]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/Adamantine|Adamantine]]
 
 Adamantine shields are particularly sturdy, and when used for a shield bash, they're adamantine weapons.
 

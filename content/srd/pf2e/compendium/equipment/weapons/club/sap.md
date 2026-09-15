@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Agile`  `Nonlethal`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/sakhil-tormentors/shawnari|Shawnari]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/sakhil-tormentors/Shawnari|Shawnari]]
 - **Price**: 1 sp
 - **Damage**: 1d6 B
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Club
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|Club]]
 
 A sap has a soft wrapping around a dense core, typically a leather sheath around a lead rod. Its head is wider than its grip to disperse the force of a blow, as the weapon's purpose is to knock out its victim rather than to draw blood.
 

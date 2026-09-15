@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Rogue`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 - **Trigger**: A prone foe within your reach Stands
 
 You have ways of keeping your foes down. Attempt an Athletics check against the triggering foe’s Fortitude DC. On a success, the action is disrupted, causing the creature to remain prone. On a critical success, the creature also can’t Stand until its next turn.

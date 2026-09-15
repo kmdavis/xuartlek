@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 After you drink this elixir, you notice subtle visual details. For the next hour, you gain an item bonus to Perception checks that's greater when attempting to find secret doors and traps.
 

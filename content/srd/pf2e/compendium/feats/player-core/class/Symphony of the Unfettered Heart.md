@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Bard`
 
-You learn the [[srd/pf2e/compendium/spells/focus/symphony-of-the-unfettered-heart|_symphony of the unfettered heart_]] [[srd/pf2e/compendium/rules-elements/traits/player-core/composition|composition]] spell, which enables you to protect an ally against incapacitating conditions.
+You learn the [[srd/pf2e/compendium/spells/focus/Symphony of the Unfettered Heart|_symphony of the unfettered heart_]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Composition|composition]] spell, which enables you to protect an ally against incapacitating conditions.
 
 *Source: Player Core p. 105*

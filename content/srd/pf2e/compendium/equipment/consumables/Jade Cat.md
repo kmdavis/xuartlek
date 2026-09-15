@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 - **Price**: 6 gp
 - **Usage**: affixed to armor
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]])
 - **Trigger**: You fall or attempt an Acrobatics check to Balance
 - **Requirement**: You are trained in Acrobatics
 

@@ -30,16 +30,16 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "+15"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +16, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +14, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +16, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +17, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +11, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +16"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +16, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +14, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +16, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +17, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +11, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] +16"
 abilityMods: [3, 5, 2, 1, 2, 3]
 abilities_top:
   - name: "Lie in Wait"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/exploration|exploration]]) The troop can spend 10 minutes preparing the ground before combat to gain a +2 circumstance bonus to their initiative roll."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Exploration|exploration]]) The troop can spend 10 minutes preparing the ground before combat to gain a +2 circumstance bonus to their initiative roll."
   - name: "Sudden Ambush"
-    desc: "When the troop rolls initiative using [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], they can use Stand and Deliver! as a free action."
+    desc: "When the troop rolls initiative using [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]], they can use Stand and Deliver! as a free action."
 ac: 24
 armorclass:
   - name: "AC"

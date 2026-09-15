@@ -18,16 +18,16 @@ socialImage: og-image.png
 
 `Backswing`  `Finesse`  `Reach`  `Sweep`  `Versatile`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/monitor-demigods/liisglan|Liisglan]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/monitor-demigods/Liisglan|Liisglan]]
 - **Price**: 3 gp
 - **Damage**: 1d6 P
 - **Bulk**: 1
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Spear
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Spear|Spear]]
 
-Traditionally a favored weapon in Molthune for settling disputes between military leaders, the dancer's spear has seen a recent resurgence in popularity in the neighboring kingdom of Nirmathas, largely due to its effectiveness at striking down attacking skeletons and other [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] from a relatively safe distance. A dancer's spear has a 7-foot-long wooden haft capped with a triangular metal blade at one end, counterbalanced on the other end with a reinforced metal sleeve that, in a pinch, can be used as an effective striking surface.
+Traditionally a favored weapon in Molthune for settling disputes between military leaders, the dancer's spear has seen a recent resurgence in popularity in the neighboring kingdom of Nirmathas, largely due to its effectiveness at striking down attacking skeletons and other [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]] from a relatively safe distance. A dancer's spear has a 7-foot-long wooden haft capped with a triangular metal blade at one end, counterbalanced on the other end with a reinforced metal sleeve that, in a pinch, can be used as an effective striking surface.
 
 ### Critical Specialization Effects
 
@@ -35,6 +35,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/grounding-spike|Grounding Spike]], Grounding Spike
+[[srd/pf2e/compendium/equipment/weapons/Grounding Spike|Grounding Spike]], Grounding Spike
 
 *Source: Treasure Vault (Remastered) p. 26*

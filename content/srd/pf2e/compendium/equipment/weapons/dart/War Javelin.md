@@ -22,9 +22,9 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Dart
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Dart|Dart]]
 
-A war javelin is similar to a standard [[srd/pf2e/compendium/equipment/weapons/dart/javelin|javelin]], but made of sturdier woods with additional leather grips to make it suitable as a melee weapon and a leather thong to retrieve it after it’s thrown.
+A war javelin is similar to a standard [[srd/pf2e/compendium/equipment/weapons/dart/Javelin|javelin]], but made of sturdier woods with additional leather grips to make it suitable as a melee weapon and a leather thong to retrieve it after it’s thrown.
 
 ### Critical Specialization Effects
 

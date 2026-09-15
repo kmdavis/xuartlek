@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 `Archetype`  `Spellshape`  `Metamagic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/seneschal|Seneschal]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Seneschal|Seneschal]]
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/seneschal-witch-dedication|Seneschal Witch Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Seneschal Witch Dedication|Seneschal Witch Dedication]]
 
-You gain deeper insights into your patron’s abandoned power, allowing you to draw on that power more directly. If your next action is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|cast]] a witch cantrip or witch spell that deals damage, it deals [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]] damage instead of its normal type. It also loses any traits related to its damage, such as the [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] trait, and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/sanctified|sanctified]] and spirit traits instead.
+You gain deeper insights into your patron’s abandoned power, allowing you to draw on that power more directly. If your next action is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|cast]] a witch cantrip or witch spell that deals damage, it deals [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]] damage instead of its normal type. It also loses any traits related to its damage, such as the [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] trait, and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Sanctified|sanctified]] and spirit traits instead.
 
 *Source: War of Immortals p. 62*

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/necromancer|Necromancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/necromancer-dedication|Necromancer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Necromancer|Necromancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Necromancer Dedication|Necromancer Dedication]]
 
-You gain the [[srd/pf2e/compendium/spells/focus/temporary-possession|_thrall charge_]] grave cantrip, allowing you to more aggressively use your undead servants.
+You gain the [[srd/pf2e/compendium/spells/cantrips/Thrall Charge|_thrall charge_]] grave cantrip, allowing you to more aggressively use your undead servants.
 
 *Source: Impossible Magic p. 89*

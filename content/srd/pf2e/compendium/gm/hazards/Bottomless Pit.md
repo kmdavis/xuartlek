@@ -19,10 +19,10 @@ socialImage: og-image.png
 - **Complexity**: Simple An iron trapdoor covers an infinitely deep 10-footsquare pit.
 
 **Stealth**
-DC 30 (or 0 if the trapdoor is disabled or broken) or [[srd/pf2e/compendium/spells/cantrips/detect-magic|_detect magic_]]
+DC 30 (or 0 if the trapdoor is disabled or broken) or [[srd/pf2e/compendium/spells/cantrips/Detect Magic|_detect magic_]]
 
 **Disable**
-DC 28 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (trained) to remove the trapdoor
+DC 28 [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] (trained) to remove the trapdoor
 
 **AC** 28, **Fort** +12, **Ref** +12
 
@@ -33,7 +33,7 @@ DC 28 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (trained) 
 36 (BT 18)
 
 **Immunities**
-[[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Hits|critical hits]], [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
+[[srd/pf2e/books/player-core/chapter-6-equipment/Weapons#Critical Hits|critical hits]], [[srd/pf2e/books/player-core/chapter-6-equipment/Item Damage#Object Immunities|object immunities]], precision damage
 
 **Infinite Pitfall** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A creature walks onto the trapdoor; **Effect** The triggering creature falls in and continues to fall, potentially forever. That creature can try to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grab an Edge|Grab an Edge]] to avoid falling. The DC to [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]] the walls or Grab an Edge is 26.
 

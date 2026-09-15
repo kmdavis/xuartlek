@@ -14,11 +14,11 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/overwatch|Overwatch]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/overwatch-dedication|Overwatch Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Overwatch|Overwatch]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Overwatch Dedication|Overwatch Dedication]]
 
 When you observe an ally try and fail to execute a strategic maneuver against your enemies, you coordinate with your other allies to finish the job, using the opening from the first attempt to keep your foe off-balance and ensure your eventual success.
 
- When an ally within your overwatch field attempts to Disarm, Shove, or Trip an opponent within your overwatch field and fails, you coordinate efforts to provide a +2 circumstance bonus to the next [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check rolled by a different ally to attempt the same action on the same target before that target's next turn.
+ When an ally within your overwatch field attempts to Disarm, Shove, or Trip an opponent within your overwatch field and fails, you coordinate efforts to provide a +2 circumstance bonus to the next [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check rolled by a different ally to attempt the same action on the same target before that target's next turn.
 
 *Source: Guns & Gears (Remastered) p. 51*

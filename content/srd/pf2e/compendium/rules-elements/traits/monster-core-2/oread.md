@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Oread`
 
-Oreads are planar scions descended from [[srd/pf2e/bestiary/monster-core/elemental/jabali|jabalis]].
+Oreads are planar scions descended from [[srd/pf2e/bestiary/monster-core/elemental/Jabali|jabalis]].
 
 *Source: Monster Core 2 p. 365*

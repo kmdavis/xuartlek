@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Archetype`  `Primal`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/world-rouser|World Rouser]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/world-rouser-dedication|World Rouser Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/World Rouser|World Rouser]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/World Rouser Dedication|World Rouser Dedication]]
 - **Requirements**: Your waking world is active.
 
-Your waking world tells you about the unseen creatures it holds. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] in your waking world. If you succeed or critically succeed against a creature that was [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] by you, you [[srd/pf2e/compendium/rules-elements/actions/player-core#Point Out|Point Out]] the creature to any allies in your waking world. When you Point Out the creatures in this way, the action does not have the [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] traits, but still requires your allies to be able to hear and understand you.
+Your waking world tells you about the unseen creatures it holds. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] in your waking world. If you succeed or critically succeed against a creature that was [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]] by you, you [[srd/pf2e/compendium/rules-elements/actions/player-core#Point Out|Point Out]] the creature to any allies in your waking world. When you Point Out the creatures in this way, the action does not have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]] traits, but still requires your allies to be able to hear and understand you.
 
 *Source: Impossible Magic p. 106*

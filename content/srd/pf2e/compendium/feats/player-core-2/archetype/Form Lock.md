@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Attack`  `Monk`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wrestler|Wrestler]] (Level 14)
-- **Requirements**: You have a foe [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]].
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wrestler|Wrestler]] (Level 14)
+- **Requirements**: You have a foe [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]].
 
-Your ability to control your own qi empowers you to pressure other creatures into resuming their true forms. Attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to counteract a [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] effect currently affecting your target. If the target is somehow under the effect of multiple polymorph effects, you can choose which one to attempt to counteract, or the GM chooses randomly if the separate effects aren't obvious. The target is then temporarily immune for 1 day.
+Your ability to control your own qi empowers you to pressure other creatures into resuming their true forms. Attempt an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to counteract a [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]] effect currently affecting your target. If the target is somehow under the effect of multiple polymorph effects, you can choose which one to attempt to counteract, or the GM chooses randomly if the separate effects aren't obvious. The target is then temporarily immune for 1 day.
 
 *Source: Player Core 2 p. 125*

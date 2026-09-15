@@ -15,8 +15,8 @@ socialImage: og-image.png
 `Tripkee`
 
 - **Frequency**: once per day
-- **Trigger**: You gain the [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] condition or fail a saving throw against an [[srd/pf2e/compendium/rules-elements/traits/gm-core/ingested|ingested]] [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]].
+- **Trigger**: You gain the [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] condition or fail a saving throw against an [[srd/pf2e/compendium/rules-elements/traits/gm-core/Ingested|ingested]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]].
 
-In dire circumstances you can vomit out your stomach to expel toxins. Reduce your sickened condition by 2 and immediately attempt a saving throw with a +2 circumstance bonus against any ingested poisons you have been exposed to within the last minute. You become [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] for 1 round as your exposed stomach makes you especially vulnerable to attacks.
+In dire circumstances you can vomit out your stomach to expel toxins. Reduce your sickened condition by 2 and immediately attempt a saving throw with a +2 circumstance bonus against any ingested poisons you have been exposed to within the last minute. You become [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] for 1 round as your exposed stomach makes you especially vulnerable to attacks.
 
 *Source: Player Core 2 p. 38*

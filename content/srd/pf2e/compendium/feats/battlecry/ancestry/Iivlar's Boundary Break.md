@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Jotunborn`
 
-You can bend the boundary between planes with the natural skill of an iivlar. You can cast [[srd/pf2e/compendium/spells/rank-4/flicker|_flicker_]] as a 4th-rank occult [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Innate Spells|innate spell]] once per day. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] the spell, increase the distance you teleport to 15 feet.
+You can bend the boundary between planes with the natural skill of an iivlar. You can cast [[srd/pf2e/compendium/spells/rank-4/Flicker|_flicker_]] as a 4th-rank [occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3) [[srd/pf2e/books/gm-core/chapter-2-building-games/Building Creatures#Innate Spells|innate spell]] once per day. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] the spell, increase the distance you teleport to 15 feet.
 
 *Source: Battlecry! p. 14*

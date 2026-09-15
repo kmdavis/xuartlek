@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 - **Frequency**: once per 10 minutes
 - **Trigger**: Your turn begins.
-- **Requirements**: You are being [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Flanking|flanked.]]
+- **Requirements**: You are being [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Flanking|flanked.]]
 
 You shine brightest in desperate moments. You flash a confident smile or pose, and you gain panache until the end of your turn.
 

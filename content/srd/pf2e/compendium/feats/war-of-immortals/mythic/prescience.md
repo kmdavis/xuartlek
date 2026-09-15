@@ -18,6 +18,6 @@ socialImage: og-image.png
 
 - **Trigger**: You’re about to roll initiative.
 
-Mythic power floods through your mind, filling you with visions of possible futures, events that might or might not happen, and warnings of things that might be. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] and roll your [[srd/pf2e/books/player-core/chapter-1-introduction/playing-the-game#Initiative|initiative]] check using mythic proficiency. Until the end of your first turn, you have a +1 status bonus to AC and all saves.
+Mythic power floods through your mind, filling you with visions of possible futures, events that might or might not happen, and warnings of things that might be. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] and roll your [[srd/pf2e/books/player-core/chapter-1-introduction/Playing the Game#Initiative|initiative]] check using mythic proficiency. Until the end of your first turn, you have a +1 status bonus to AC and all saves.
 
 *Source: War of Immortals p. 82*

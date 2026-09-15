@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 - **Usage**: affixed to armor or a weapon
 
-This glass prism pays homage to its namesake pantheon—the [[srd/pf2e/compendium/deities/pantheons/radiant-prism|Radiant Prism]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]], and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]]. Any armor or weapon the prism is affixed to glows softly with colored lights. The spell DC of any spell cast by activating this item is 35. 
-**Armor** ([[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]]) After you cast a non-cantrip spell by activating the prism, you glow with [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Dim Light|dim light]] in a multitude of shimmering hues, shedding light like a torch and making you [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] until the end of your next turn.**Weapon** After you cast a non-cantrip spell by activating the prism, your Strikes with the weapon gain the [[srd/pf2e/compendium/equipment/runes/brilliant|_brilliant_]] property rune until the end of your next turn.
+This glass prism pays homage to its namesake pantheon—the [[srd/pf2e/compendium/deities/pantheons/Radiant Prism|Radiant Prism]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Sarenrae|Sarenrae]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Desna|Desna]], and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Shelyn|Shelyn]]. Any armor or weapon the prism is affixed to glows softly with colored lights. The spell DC of any spell cast by activating this item is 35. 
+**Armor** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Light|light]]) After you cast a non-cantrip spell by activating the prism, you glow with [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Dim Light|dim light]] in a multitude of shimmering hues, shedding light like a torch and making you [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] until the end of your next turn.**Weapon** After you cast a non-cantrip spell by activating the prism, your Strikes with the weapon gain the [[srd/pf2e/compendium/equipment/runes/Brilliant|_brilliant_]] property rune until the end of your next turn.
 
 **Activate** Cast a Spell; **Effect** You cast _light_.
 
@@ -28,7 +28,7 @@ This glass prism pays homage to its namesake pantheon—the [[srd/pf2e/compendiu
 
 ---
 
-**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-7/fiery-body|_fiery body_]].
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-7/Fiery Body|_fiery body_]].
 
 ### Radiant Prism (Greater)
 
@@ -40,7 +40,7 @@ The light and concealment when affixed to armor last for 2 rounds, and the spell
 
 **Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast _fiery body._
 
-**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-8/confusing-colors|_confusing colors_]].
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-8/Confusing Colors|_confusing colors_]].
 
 ### Radiant Prism (Major)
 
@@ -52,6 +52,6 @@ The light and concealment when affixed to armor last for 2 rounds, and the spell
 
 **Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast _fiery body._
 
-**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-9/falling-stars|_falling stars_]].
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-9/Falling Stars|_falling stars_]].
 
 *Source: Treasure Vault (Remastered) p. 127*

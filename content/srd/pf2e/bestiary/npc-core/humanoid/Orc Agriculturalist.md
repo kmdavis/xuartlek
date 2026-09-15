@@ -28,16 +28,16 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Orcish|Orcish]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +3, [[srd/pf2e/compendium/rules-elements/skills/lore|Farming Lore]] +13, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +11, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +3, [[srd/pf2e/compendium/rules-elements/skills/Lore|Farming Lore]] +13, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +11, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +7"
 abilityMods: [2, 1, 2, 0, 4, 0]
 abilities_top:
   - name: "Farming Specialist"
     desc: "For encounters involving farming, harvesting, or identifying plants, the agriculturalist is a 5th-level challenge."
   - name: "Items"
-    desc: "Blowgun (20 darts), pitchfork (as [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]]), poisonous herb (5), Sickle"
+    desc: "Blowgun (20 darts), pitchfork (as [[srd/pf2e/compendium/equipment/weapons/spear/Longspear|longspear]]), poisonous herb (5), Sickle"
 ac: 14
 armorclass:
   - name: "AC"
@@ -49,18 +49,18 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ pitchfork +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|Reach]]) __Damage__ 1d8+2 piercing"
+    desc: "⬻ pitchfork +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|Reach]]) __Damage__ 1d8+2 piercing"
   - name: "Melee"
-    desc: "⬻ sickle +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d4+2 slashing"
+    desc: "⬻ sickle +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip|Trip]]) __Damage__ 1d4+2 slashing"
   - name: "Melee"
-    desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ blowgun +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], range increment 20 feet, reload 1) __Damage__ 1 piercing"
+    desc: "⬻ blowgun +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], range increment 20 feet, reload 1) __Damage__ 1 piercing"
 abilities_bot:
   - name: "Herbal Poison"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]]) The agriculturalist quickly turns some of their supplies of poisonous herbs into an herbal poison, then applies it to a melee weapon or piece of ammunition in their possession. The next successful attack with a weapon poisoned this way deals an additional 1d6 poison damage. The applied poison fades after its damage is applied to an attack or 1 minute passes, whichever happens first."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|Manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]]) The agriculturalist quickly turns some of their supplies of poisonous herbs into an herbal poison, then applies it to a melee weapon or piece of ammunition in their possession. The next successful attack with a weapon poisoned this way deals an additional 1d6 poison damage. The applied poison fades after its damage is applied to an attack or 1 minute passes, whichever happens first."
   - name: "Poison Detector"
-    desc: "⬺ The orc agriculturalist attempts a [[srd/pf2e/compendium/rules-elements/skills/lore|Farming Lore]] or [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] check to determine whether an object is [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] or has been poisoned. The DC is the poison's DC (if any), or the standard DC of the poison's level. On a critical success, they also learn the number and types of poison involved."
+    desc: "⬺ The orc agriculturalist attempts a [[srd/pf2e/compendium/rules-elements/skills/Lore|Farming Lore]] or [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] check to determine whether an object is [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] or has been poisoned. The DC is the poison's DC (if any), or the standard DC of the poison's level. On a critical success, they also learn the number and types of poison involved."
 sourcebook: "_NPC Core_, page 206."
 ```
 

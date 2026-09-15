@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/living-vessel|Living Vessel]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/living-vessel-dedication|Living Vessel Dedication]]; your entity is an [[srd/pf2e/compendium/rules-elements/traits/player-core/aberration|aberration]] or outer entity
-- **Requirements**: You have an enemy [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]].
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Living Vessel|Living Vessel]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Living Vessel Dedication|Living Vessel Dedication]]; your entity is an [[srd/pf2e/compendium/rules-elements/traits/player-core/Aberration|aberration]] or outer entity
+- **Requirements**: You have an enemy [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]].
 
 The entity inhabiting your body is an aberrant being with unfathomable motivations, and when you hold a foe close, tendrils and tentacles unfurl from your body to crush your foe and pollute it with alien wrongness. Your grabbed or restrained foe takes bludgeoning damage equal to your level and mental damage equal to your highest mental attribute modifier. The creature attempts a basic Will save that applies to both types of damage and uses the higher of your class DC or spell DC.
 

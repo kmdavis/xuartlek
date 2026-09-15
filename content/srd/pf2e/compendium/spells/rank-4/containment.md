@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Force`  `Manipulate`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/acavna|Acavna]], [[srd/pf2e/compendium/deities/monitor-demigods/dramindyr|Dramindyr]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/grundinnar|Grundinnar]], [[srd/pf2e/compendium/deities/empyreal-lords/korada|Korada]], Lymnieris, [[srd/pf2e/compendium/deities/dead-or-missing-deities/maat|Ma’at]], Qi Zhong, The Last Breath, Urban Prosperity, Wards of the Pharaoh
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/Acavna|Acavna]], [[srd/pf2e/compendium/deities/monitor-demigods/Dramindyr|Dramindyr]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/Grundinnar|Grundinnar]], [[srd/pf2e/compendium/deities/empyreal-lords/Korada|Korada]], Lymnieris, [[srd/pf2e/compendium/deities/dead-or-missing-deities/Ma’at|Ma’at]], Qi Zhong, The Last Breath, Urban Prosperity, Wards of the Pharaoh
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Reflex

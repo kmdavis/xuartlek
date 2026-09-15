@@ -20,6 +20,6 @@ Sometimes, you need to follow the leads as they come in the middle of an investi
 
 ### Person of Interest leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/suspect-of-opportunity|Suspect of Opportunity]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Suspect of Opportunity|Suspect of Opportunity]]
 
 *Source: Player Core 2 p. 107*

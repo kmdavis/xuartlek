@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/druid|Druid]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/druid-dedication|Druid Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Druid|Druid]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Druid Dedication|Druid Dedication]]
 
-You gain a 1st- or 2nd-level druid feat.
+You gain a 1st- or 2nd-level [druid feat](https://2e.aonprd.com/Feats.aspx?Traits=52).
 
 ### Basic Wilding leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/advanced-wilding|Advanced Wilding]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Advanced Wilding|Advanced Wilding]]
 
 *Source: Player Core p. 218*

@@ -23,7 +23,7 @@ socialImage: og-image.png
 - **Range**: 20 ft.
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Sling
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sling|Sling]]
 
 This throwing weapon consists of weights tied to the end of long cords, which can be used to entangle foes.
 

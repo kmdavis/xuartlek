@@ -1,6 +1,7 @@
 ---
 title: "Activating Items"
 aliases: ["Activating Items"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3139"
 citation: "GM Core pg. 220"
-socialImage: og-image.png
 ---
 
 # Activating Items
@@ -22,15 +22,15 @@ If an item is used up when activated, as is the case for consumable items, its A
 
 ## Activating Invested Items
 
-You can Activate an Item with the [[srd/pf2e/compendium/rules-elements/traits/gm-core/invested|invested]] trait only if it’s invested by you.
+You can Activate an Item with the [[srd/pf2e/compendium/rules-elements/traits/gm-core/Invested|invested]] trait only if it’s invested by you.
 
 ## Manipulate Activations
 
-If an activation has the [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] trait, you can activate it only if you’re wielding the item (if it’s a held item) or touching it with a free hand (if it’s another type of item).
+If an activation has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]] trait, you can activate it only if you’re wielding the item (if it’s a held item) or touching it with a free hand (if it’s another type of item).
 
 ## Long Activation Times
 
-Some items take minutes or hours to activate. You can’t use other actions or reactions while activating such an item, though at the GM’s discretion, you might be able to speak a few sentences. As with other activities that take a long time, these activations have the [[srd/pf2e/compendium/rules-elements/traits/player-core/exploration|exploration]] trait, and you can’t activate them in an encounter. If combat breaks out while you’re activating one, your activation is disrupted (see the Disrupting Activations sidebar).
+Some items take minutes or hours to activate. You can’t use other actions or reactions while activating such an item, though at the GM’s discretion, you might be able to speak a few sentences. As with other activities that take a long time, these activations have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Exploration|exploration]] trait, and you can’t activate them in an encounter. If combat breaks out while you’re activating one, your activation is disrupted (see the Disrupting Activations sidebar).
 
 > [!pf2-sidebar] DISRUPTING ACTIVATIONS
 >
@@ -38,7 +38,7 @@ Some items take minutes or hours to activate. You can’t use other actions or r
 
 ## Limited Activations
 
-Some items can be activated only a limited number of times per day, as described in the item’s entry. This limit is independent of any costs for activating the item. The limit resets during your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Daily Preparations|daily preparations]]. The limit is inherent to the item, so if an ability that can be used only once per day is used, it doesn’t refresh if another creature later invests or tries to activate the item.
+Some items can be activated only a limited number of times per day, as described in the item’s entry. This limit is independent of any costs for activating the item. The limit resets during your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Running Exploration#Daily Preparations|daily preparations]]. The limit is inherent to the item, so if an ability that can be used only once per day is used, it doesn’t refresh if another creature later invests or tries to activate the item.
 
 ## Cast a Spell
 

@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: meditate on the cycle of nature, teach others to be prepared for storms and other natural hazards, wield the elements as weapons
 - **Anathema**: destroy nature without an immediate need, pass up an opportunity to watch storms and other natural phenomena
 - **Area of Concern**: aftermath of storms and natural disasters, meteorologists, patterns in natural elements, regeneration
-- **Pantheon Members**: [[srd/pf2e/compendium/deities/vudrani-gods/chamidu|Chamidu]], [[srd/pf2e/compendium/deities/other-gods/embaral|Embaral]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]], [[srd/pf2e/compendium/deities/tian-gods/hei-feng|Hei Feng]], [[srd/pf2e/compendium/deities/empyreal-lords/keltheald|Keltheald]], [[srd/pf2e/compendium/deities/monitor-demigods/mother-vulture|Mother Vulture]], [[srd/pf2e/compendium/deities/other-gods/obari|Obari]], [[srd/pf2e/compendium/deities/eldest/the-green-mother|The Green Mother]], [[srd/pf2e/compendium/deities/empyreal-lords/valani|Valani]], Yamatsumi
+- **Pantheon Members**: [[srd/pf2e/compendium/deities/vudrani-gods/Chamidu|Chamidu]], [[srd/pf2e/compendium/deities/other-gods/Embaral|Embaral]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Gozreh|Gozreh]], [[srd/pf2e/compendium/deities/tian-gods/Hei Feng|Hei Feng]], [[srd/pf2e/compendium/deities/empyreal-lords/Keltheald|Keltheald]], [[srd/pf2e/compendium/deities/monitor-demigods/Mother Vulture|Mother Vulture]], [[srd/pf2e/compendium/deities/other-gods/Obari|Obari]], [[srd/pf2e/compendium/deities/eldest/The Green Mother|The Green Mother]], [[srd/pf2e/compendium/deities/empyreal-lords/Valani|Valani]], Yamatsumi
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Strength or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/dart/javelin|Javelin]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/dart/Javelin|Javelin]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Decay|Decay]], [[srd/pf2e/compendium/character/domains#Lightning|Lightning]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Water|Water]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Decay|Decay]], [[srd/pf2e/compendium/character/Domains#Lightning|Lightning]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Water|Water]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Air|Air]], [[srd/pf2e/compendium/character/domains#Cold|Cold]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Air|Air]], [[srd/pf2e/compendium/character/Domains#Cold|Cold]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/gust-of-wind|Gust of Wind]]
+[[srd/pf2e/compendium/spells/rank-1/Gust of Wind|Gust of Wind]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/howling-blizzard|Howling Blizzard]]
+[[srd/pf2e/compendium/spells/rank-5/Howling Blizzard|Howling Blizzard]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/chain-lightning|Chain Lightning]]
+[[srd/pf2e/compendium/spells/rank-6/Chain Lightning|Chain Lightning]]
 
 *Source: Divine Mysteries p. 245*

@@ -26,9 +26,9 @@ Sailors know that the sight of an angry merfolk might well mean that they never 
 
 **Critical Success** The target is unaffected.
 
-**Success** The target takes half damage and is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]] as it glimpses its demise.
+**Success** The target takes half damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened 1]] as it glimpses its demise.
 
-**Failure** The target takes full damage and is frightened 1. In addition, it rolls twice for all skill checks and saving throws it attempts until the end of its next turn and takes the worse result; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] effect.
+**Failure** The target takes full damage and is frightened 1. In addition, it rolls twice for all skill checks and saving throws it attempts until the end of its next turn and takes the worse result; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|misfortune]] effect.
 
 **Critical Failure** As failure, except double damage and frightened 2.
 

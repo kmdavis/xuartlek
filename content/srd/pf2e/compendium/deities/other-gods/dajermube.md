@@ -24,23 +24,23 @@ Strength or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/pick/greatpick|Greatpick]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/pick/Greatpick|Greatpick]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/domains#Moon|Moon]], [[srd/pf2e/compendium/character/domains#Sun|Sun]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/Domains#Moon|Moon]], [[srd/pf2e/compendium/character/Domains#Sun|Sun]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Cities|Cities]], [[srd/pf2e/compendium/character/domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/domains#Star|Star]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Cities|Cities]], [[srd/pf2e/compendium/character/Domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/Domains#Star|Star]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/grim-tendrils|Grim Tendrils]]
+[[srd/pf2e/compendium/spells/rank-1/Grim Tendrils|Grim Tendrils]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/penumbral-disguise|Penumbral Disguise]]
+[[srd/pf2e/compendium/spells/rank-2/Penumbral Disguise|Penumbral Disguise]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/moon-frenzy|Moon Frenzy]]
+[[srd/pf2e/compendium/spells/rank-5/Moon Frenzy|Moon Frenzy]]
 
 *Source: Divine Mysteries p. 136*

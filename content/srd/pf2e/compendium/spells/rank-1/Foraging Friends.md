@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Tradition**: Primal
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Cast**: 10 minutes
 - **Duration**: 10 minutes
 

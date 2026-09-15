@@ -10,7 +10,7 @@ socialImage: og-image.png
 
 # Dero  *Creature Family*
 
-Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]]abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world's surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects.
+Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of [[srd/pf2e/compendium/rules-elements/traits/player-core/Fey|fey]]abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world's surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects.
 
  Deros, particularly the leading magisters, are fixated with curing their allergy to sunlight. To understand how the surface dwellers can withstand the light of the sun, deros conduct late-night raids on surface cities, abducting victims and performing terrible experiments on them. Those who survive are often returned with much of their memory erased and their bodies bearing mysterious scars.
 
@@ -18,7 +18,7 @@ Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild 
 
 ### Members
 
-Auzmere (Creature 4), [[srd/pf2e/bestiary/monster-core/humanoid/dero-magister|Dero Magister]] (Creature 5), Dero Punk (Creature 0), [[srd/pf2e/bestiary/monster-core/humanoid/dero-stalker|Dero Stalker]] (Creature 2), [[srd/pf2e/bestiary/monster-core/humanoid/dero-strangler|Dero Strangler]] (Creature 3)
+Auzmere (Creature 4), [[srd/pf2e/bestiary/monster-core/humanoid/Dero Magister|Dero Magister]] (Creature 5), Dero Punk (Creature 0), [[srd/pf2e/bestiary/monster-core/humanoid/Dero Stalker|Dero Stalker]] (Creature 2), [[srd/pf2e/bestiary/monster-core/humanoid/Dero Strangler|Dero Strangler]] (Creature 3)
 
 ### Cytillesh
 
@@ -26,6 +26,6 @@ Deros grow and ingest a poisonous fungus called cytillesh, also known as brain m
 
 ### Cytillesh Toolkits
 
-These [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|healer's toolkits]] are collections of crystalline scalpels and gritty salves made of cytillesh. They all glow the same sickly blue. While the toolkit is outside its opaque container, it sheds dim light in a 5-foot radius. Any non-dero using or wearing the toolkit is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]] until 1 hour after they've stopped, which cannot be reduced during that time.
+These [[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit|healer's toolkits]] are collections of crystalline scalpels and gritty salves made of cytillesh. They all glow the same sickly blue. While the toolkit is outside its opaque container, it sheds dim light in a 5-foot radius. Any non-dero using or wearing the toolkit is [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened 1]] until 1 hour after they've stopped, which cannot be reduced during that time.
 
 *Source: Monster Core p. 84*

@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Archetype`  `Auditory`  `Visual`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/sniping-duo|Sniping Duo]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/sniping-duo-dedication|Sniping Duo Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Sniping Duo|Sniping Duo]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Sniping Duo Dedication|Sniping Duo Dedication]]
 
 Your spotter's quick signals help you make even difficult shots seem simple. As long as both you and your spotter can see the target of your attacks, you don't take a penalty for attacking within your weapon's second range increment. The penalty you take for firing into further range increments is –3 for the third range increment, with an additional –2 penalty for each additional increment beyond the third (–5 for the fourth range increment, –7 for the fifth, and –9 for the sixth).
 

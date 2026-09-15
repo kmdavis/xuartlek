@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Tengu`
 
-- **Trigger**: You critically fail a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], or [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check against a creature that doesn't have the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/tengu|tengu]] trait.
+- **Trigger**: You critically fail a [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], or [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] check against a creature that doesn't have the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Tengu|tengu]] trait.
 
 You let out an awkward squawk, ruffle your feathers, or fake some other birdlike tic to cover up a social misstep or faux pas. You get a failure on the triggering check, rather than a critical failure. All creatures that witnessed you Squawk are temporarily immune for 24 hours.
 

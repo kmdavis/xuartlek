@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: leaf order
 
-You can fill an area with devastating briars. You gain the [[srd/pf2e/compendium/spells/focus/impaling-briars|_impaling briars_]] order.
+You can fill an area with devastating briars. You gain the [[srd/pf2e/compendium/spells/focus/Impaling Briars|_impaling briars_]] order.
 
 *Source: Player Core p. 135*

@@ -20,8 +20,8 @@ socialImage: og-image.png
 - **Price**: 13 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-Your fists become hard as stone. For 1 hour, your fists deal 1d6 bludgeoning damage and lose the [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] trait.
+Your fists become hard as stone. For 1 hour, your fists deal 1d6 bludgeoning damage and lose the [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]] trait.
 
 *Source: Player Core 2 p. 288*

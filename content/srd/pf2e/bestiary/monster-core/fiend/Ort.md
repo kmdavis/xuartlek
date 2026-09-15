@@ -34,7 +34,7 @@ perception:
     desc: "+0; greater darkvision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +6"
 abilityMods: [2, 0, 3, -5, 0, -3]
 ac: 13
 armorclass:
@@ -43,14 +43,14 @@ armorclass:
 hp: 20
 health:
   - name: "HP"
-    desc: "20; __Immunities__ [[srd/pf2e/compendium/character/domains#Fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]; __Resistances__ physical 3 (except silver), [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] 5; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 3"
+    desc: "20; __Immunities__ [[srd/pf2e/compendium/character/Domains#Fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]]; __Resistances__ physical 3 (except silver), [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] 5; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]] 3"
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]]) __Damage__ 1d4+2 slashing"
+    desc: "⬻ claw +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|Unholy]]) __Damage__ 1d4+2 slashing"
 abilities_bot:
   - name: "Subservience"
-    desc: "Orts have little drive of their own, but other devils can take command of them. A non-ort [[srd/pf2e/compendium/rules-elements/traits/player-core/devil|devil]] can issue a command to all orts within 60 feet of it with a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] traits. The devil picks one of the following orders orts can understand, and the orts follow that order. The command and its effects end once the commander is out of the ort's sight, when a new command is issued by the same or another devil, or when the ort dies."
+    desc: "Orts have little drive of their own, but other devils can take command of them. A non-ort [[srd/pf2e/compendium/rules-elements/traits/player-core/Devil|devil]] can issue a command to all orts within 60 feet of it with a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] traits. The devil picks one of the following orders orts can understand, and the orts follow that order. The command and its effects end once the commander is out of the ort's sight, when a new command is issued by the same or another devil, or when the ort dies."
   - name: "Kill"
     desc: "The ort attacks one target the commander singles out and gains a +1 circumstance bonus to attack rolls against the target."
   - name: "Defend"

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Investigator`
 
-You've mastered combat practices that let you get up close and bring down perpetrators alive. You can use your Intelligence modifier on attack rolls for an attack stratagem if you're using a weapon of the club group in one hand (like a [[srd/pf2e/compendium/equipment/weapons/club/club|club]] or [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]), in addition to the usual weapons, and those Strikes qualify for your strategic strike. Additionally, you can make any of your Strikes [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] without taking the normal –2 penalty.
+You've mastered combat practices that let you get up close and bring down perpetrators alive. You can use your Intelligence modifier on attack rolls for an attack stratagem if you're using a weapon of the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|club]] group in one hand (like a [[srd/pf2e/compendium/equipment/weapons/club/Club|club]] or [[srd/pf2e/compendium/equipment/weapons/club/Staff|staff]]), in addition to the usual weapons, and those Strikes qualify for your strategic strike. Additionally, you can make any of your Strikes [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]] without taking the normal –2 penalty.
 
 *Source: Player Core 2 p. 107*

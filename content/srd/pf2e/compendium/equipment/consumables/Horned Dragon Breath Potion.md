@@ -22,4 +22,4 @@ socialImage: og-image.png
 
 This liquid contains blood from a juvenile green dragon. For 1 hour after you drink the potion, you can breathe out a magical cloud of poison. Exhaling this dragon breath uses a single action. The cloud of poison deals 2d6 poison damage in a 15-foot cone, and each creature in the area must attempt a DC 19 basic Fortitude save. After you use the dragon breath, you can't do so again for 1d4 rounds.
 
-*Source: Secrets of the Unlit Star Game Master's Guide p. 62*
+*Source: Secrets of the Unlit Star Game Master's Guide p. 60*

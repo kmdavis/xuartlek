@@ -28,16 +28,16 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; up to 4 additional languages"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]; up to 4 additional languages"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/lore|Academia Lore]] +25, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +22, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +15, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +22, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +17, [[srd/pf2e/compendium/rules-elements/skills/lore|one additional Lore]] +22"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Lore|Academia Lore]] +25, [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] +22, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +15, [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] +22, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +17, [[srd/pf2e/compendium/rules-elements/skills/Lore|one additional Lore]] +22"
 abilityMods: [0, 1, 0, 5, 5, 3]
 abilities_top:
   - name: "Veteran Researcher"
     desc: "On the rare occasions the departmental chair still deals with their research, they are a 10th-level challenge."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/spellbook-blank|spellbook]], _+1 [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]_, writing kit"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/Spellbook (Blank)|spellbook]], _+1 [[srd/pf2e/compendium/equipment/weapons/club/Staff|staff]]_, writing kit"
 ac: 24
 armorclass:
   - name: "AC"
@@ -49,15 +49,15 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _staff_ +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d8]]) __Damage__ 1d4+6 bludgeoning"
+    desc: "⬻ _staff_ +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Two-Hand|two-hand d8]]) __Damage__ 1d4+6 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+6 bludgeoning"
+    desc: "⬻ fist +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+6 bludgeoning"
 abilities_bot:
   - name: "Paper Pusher"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|Spellshape]]) The departmental chair has spent so much time dealing with bureaucracy recently that papers and forms have worked their way into the chair's spellcasting. If the departmental chair's next action is to Cast a Spell that deals energy damage, the spell conjures a burst of sharp-edged paper instead. Change the damage type to slashing, and the spell deals an additional 1d6 persistent bleed damage."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Spellshape|Spellshape]]) The departmental chair has spent so much time dealing with bureaucracy recently that papers and forms have worked their way into the chair's spellcasting. If the departmental chair's next action is to Cast a Spell that deals energy damage, the spell conjures a burst of sharp-edged paper instead. Change the damage type to slashing, and the spell deals an additional 1d6 persistent bleed damage."
 spellcasting:
   - name: "Arcane Prepared Spells"
-    desc: "DC 25, attack +17 - __Cantrips (4th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/ignition|Ignition]], [[srd/pf2e/compendium/spells/cantrips/prestidigitation|Prestidigitation]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/fireball|Fireball]] (×2), [[srd/pf2e/compendium/spells/rank-3/haste|Haste]], [[srd/pf2e/compendium/spells/rank-3/lightning-bolt|Lightning Bolt]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/mountain-resilience|Mountain Resilience]], [[srd/pf2e/compendium/spells/rank-4/wall-of-fire|Wall of Fire]]"
+    desc: "DC 25, attack +17 - __Cantrips (4th)__ [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/Ignition|Ignition]], [[srd/pf2e/compendium/spells/cantrips/Prestidigitation|Prestidigitation]], [[srd/pf2e/compendium/spells/cantrips/Telekinetic Hand|Telekinetic Hand]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/Fireball|Fireball]] (×2), [[srd/pf2e/compendium/spells/rank-3/Haste|Haste]], [[srd/pf2e/compendium/spells/rank-3/Lightning Bolt|Lightning Bolt]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/Mountain Resilience|Mountain Resilience]], [[srd/pf2e/compendium/spells/rank-4/Wall of Fire|Wall of Fire]]"
 sourcebook: "_NPC Core_, page 141."
 ```
 

@@ -28,10 +28,10 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +5, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +8, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +8, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +8, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +5, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +8, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +8, [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] +8, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +6"
 abilityMods: [2, 1, 2, 0, 1, 4]
 abilities_top:
   - name: "Items"
@@ -47,23 +47,23 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+4 piercing"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+4 piercing"
   - name: "Melee"
-    desc: "⬻ fist +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+4 bludgeoning"
+    desc: "⬻ fist +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dagger +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+4 piercing"
+    desc: "⬻ dagger +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+4 piercing"
 abilities_bot:
   - name: "Distracting Drone"
     desc: "⬻"
   - name: "Requirements"
     desc: "The street musician is playing their instrument"
   - name: "Effect"
-    desc: "The street musician attempts a [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check compared to the Will DC of an observer within 30 feet. On a success, the target is [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] by the street musician and [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] for 1 round."
+    desc: "The street musician attempts a [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] check compared to the Will DC of an observer within 30 feet. On a success, the target is [[srd/pf2e/compendium/rules-elements/Conditions#Fascinated|fascinated]] by the street musician and [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] for 1 round."
   - name: "Sneak Attack"
-    desc: "The street musician deals an additional 1d4 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures. This increases to 1d6 against creatures off-guard due to the street musician's [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|Feint]] or distracting drone."
+    desc: "The street musician deals an additional 1d4 precision damage to [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] creatures. This increases to 1d6 against creatures off-guard due to the street musician's [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|Feint]] or distracting drone."
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 18, attack +10 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/figment|Figment]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/summon-instrument|Summon Instrument]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/charm|Charm]], [[srd/pf2e/compendium/spells/rank-1/force-barrage|Force Barrage]], [[srd/pf2e/compendium/spells/rank-1/ventriloquism|Ventriloquism]] (3 slots)"
+    desc: "DC 18, attack +10 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/Daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/Figment|Figment]], [[srd/pf2e/compendium/spells/cantrips/Light|Light]], [[srd/pf2e/compendium/spells/cantrips/Summon Instrument|Summon Instrument]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Charm|Charm]], [[srd/pf2e/compendium/spells/rank-1/Force Barrage|Force Barrage]], [[srd/pf2e/compendium/spells/rank-1/Ventriloquism|Ventriloquism]] (3 slots)"
 sourcebook: "_NPC Core_, page 125."
 ```
 

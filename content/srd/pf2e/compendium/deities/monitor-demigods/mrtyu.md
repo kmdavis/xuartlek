@@ -24,23 +24,23 @@ Strength or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/greatsword|Greatsword]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Greatsword|Greatsword]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Passion|Passion]], [[srd/pf2e/compendium/character/domains#Repose|Repose]], [[srd/pf2e/compendium/character/domains#Sorrow|Sorrow]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Passion|Passion]], [[srd/pf2e/compendium/character/Domains#Repose|Repose]], [[srd/pf2e/compendium/character/Domains#Sorrow|Sorrow]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]]
+[[srd/pf2e/compendium/spells/rank-1/Soothe|Soothe]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/weapon-storm|Weapon Storm]]
+[[srd/pf2e/compendium/spells/rank-4/Weapon Storm|Weapon Storm]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/wave-of-despair|Wave of Despair]]
+[[srd/pf2e/compendium/spells/rank-5/Wave of Despair|Wave of Despair]]
 
 *Source: Divine Mysteries p. 316*

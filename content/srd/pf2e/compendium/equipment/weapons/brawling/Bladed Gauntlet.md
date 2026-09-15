@@ -18,14 +18,14 @@ socialImage: og-image.png
 
 `Agile`  `Finesse`  `Free-Hand`  `Modular`  `Uncommon`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/genzaeri|Genzaeri]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/Genzaeri|Genzaeri]]
 - **Price**: 5 gp
 - **Damage**: 1d4 modular
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Brawling
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|Brawling]]
 
 A dagger attached to a retractable mechanism is integrated in this gauntlet's dorsum, so a combatant can quickly arm themself with a blade to exploit the weak points in an enemy's armor. Switching configurations on the gauntlet reveals or retracts the contained dagger as appropriate. The dagger isn't removable, and thus can't be wielded or etched with runes separately from the gauntlet.
 

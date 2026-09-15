@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/mind-smith|Mind Smith]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/mind-smith-dedication|Mind Smith Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Mind Smith|Mind Smith]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Mind Smith Dedication|Mind Smith Dedication]]
 
-You always account for every weakness, allowing your mind to imagine just the right physical form to take advantage of your opponents. Choose between [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] or [[srd/pf2e/compendium/equipment/materials/silver|silver]]; all your mind weapon Strikes are treated as the chosen type of metal.
+You always account for every weakness, allowing your mind to imagine just the right physical form to take advantage of your opponents. Choose between [[srd/pf2e/compendium/equipment/materials/Cold Iron|cold iron]] or [[srd/pf2e/compendium/equipment/materials/Silver|silver]]; all your mind weapon Strikes are treated as the chosen type of metal.
 
 *Source: Dark Archives (Remastered) p. 205*

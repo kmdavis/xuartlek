@@ -15,13 +15,13 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Duelist|Duelist]]
 - **Prerequisites**: trained in light armor and simple weapons
 
-You are always ready to draw your weapon and begin a duel, no matter the circumstances. You gain the [[srd/pf2e/compendium/feats/player-core/archetype/quick-draw|Quick Draw]] feat, enabling you to both draw and attack with a weapon as 1 action.
+You are always ready to draw your weapon and begin a duel, no matter the circumstances. You gain the [[srd/pf2e/compendium/feats/player-core/archetype/Quick Draw|Quick Draw]] feat, enabling you to both draw and attack with a weapon as 1 action.
 
 ### Duelist Dedication leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/duelists-challenge|Duelist's Challenge]], [[srd/pf2e/compendium/feats/player-core-2/archetype/selfless-parry|Selfless Parry]], [[srd/pf2e/compendium/feats/player-core-2/archetype/student-of-the-dueling-arts|Student of the Dueling Arts]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Duelist's Challenge|Duelist's Challenge]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Selfless Parry|Selfless Parry]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Student of the Dueling Arts|Student of the Dueling Arts]]
 
 *Source: Player Core 2 p. 197*

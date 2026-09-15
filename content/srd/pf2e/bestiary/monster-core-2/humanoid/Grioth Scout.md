@@ -30,14 +30,14 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; greater darkvision, echolocation (precise) 20 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], Grioth; telepathy 30 feet"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Aklo|Aklo]], Grioth; telepathy 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] +6, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +7"
 abilityMods: [0, 4, 2, 1, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/knife/kukri|voidglass kukri]]"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/knife/Kukri|voidglass kukri]]"
 ac: 16
 armorclass:
   - name: "AC"
@@ -45,7 +45,7 @@ armorclass:
 hp: 18
 health:
   - name: "HP"
-    desc: "18; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 3"
+    desc: "18; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] 3"
 abilities_mid:
   - name: "Light Blindness"
     desc: ""
@@ -54,27 +54,27 @@ abilities_mid:
 speed: "25 feet, fly 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ kukri +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|trip]]) __Damage__ 1d6 slashing"
+    desc: "⬻ kukri +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip|trip]]) __Damage__ 1d6 slashing"
   - name: "Melee"
-    desc: "⬻ jaws +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]) __Damage__ 1d4 piercing plus grioth venom"
+    desc: "⬻ jaws +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]]) __Damage__ 1d4 piercing plus grioth venom"
 abilities_bot:
   - name: "Grioth Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]])"
   - name: "Saving Throw"
     desc: "DC 17 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1 (1 round)"
+    desc: "[[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] 1 (1 round)"
   - name: "Stage 2"
     desc: "frightened 2 (1 round)"
   - name: "Stage 3"
     desc: "frightened 3 (1 round)"
   - name: "Shock Mind"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) The grioth scout makes a Strike with a voidglass weapon. If the Strike hits, it deals an additional 1d6 mental damage, and the target must succeed at a DC 17 Will save (this has the [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]] trait) or become [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 round."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]]) The grioth scout makes a Strike with a voidglass weapon. If the Strike hits, it deals an additional 1d6 mental damage, and the target must succeed at a DC 17 Will save (this has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|incapacitation]] trait) or become [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]] for 1 round."
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 16, attack +8 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-projectile|Telekinetic Projectile]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/phantom-pain|Phantom Pain]]"
+    desc: "DC 16, attack +8 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/Daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/Telekinetic Hand|Telekinetic Hand]], [[srd/pf2e/compendium/spells/cantrips/Telekinetic Projectile|Telekinetic Projectile]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Phantom Pain|Phantom Pain]]"
 sourcebook: "_Monster Core 2_, page 178."
 ```
 

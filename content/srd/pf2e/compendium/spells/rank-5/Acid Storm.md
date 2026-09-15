@@ -16,14 +16,14 @@ socialImage: og-image.png
 
 `Acid`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: Moloch, [[srd/pf2e/compendium/deities/qlippoth-lords/thuskchoon|Thuskchoon]], [[srd/pf2e/compendium/deities/apocalypse-riders/trelmarixian|Trelmarixian]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Moloch, [[srd/pf2e/compendium/deities/qlippoth-lords/Thuskchoon|Thuskchoon]], [[srd/pf2e/compendium/deities/apocalypse-riders/Trelmarixian|Trelmarixian]]
 - **Range**: 120 feet
-- **Area**: 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] reflex
+- **Area**: 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] reflex
 - **Duration**: 1 minute
 
-You evoke a storm of acid rain that pelts the area for the spell’s duration. A creature that begins its turn in the area takes 3d8 [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] damage (basic Reflex save).
+You evoke a storm of acid rain that pelts the area for the spell’s duration. A creature that begins its turn in the area takes 3d8 [[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|acid]] damage (basic Reflex save).
 
 ---
 **Heightened (+2)** The damage increases by 1d8.

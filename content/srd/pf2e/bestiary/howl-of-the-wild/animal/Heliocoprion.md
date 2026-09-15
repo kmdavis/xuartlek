@@ -32,7 +32,7 @@ perception:
     desc: "+21; blood scent, scent (imprecise) 100 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +24, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +17, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +24, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +17, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +15"
 abilityMods: [8, 3, 6, -4, 3, -1]
 abilities_top:
   - name: "Blood Scent"
@@ -48,12 +48,12 @@ health:
 speed: "swim 60 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +22 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d10+12 slashing plus 1d8 persistent bleed and Improved Grab"
+    desc: "⬻ jaws +22 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 2d10+12 slashing plus 1d8 persistent bleed and Improved Grab"
 abilities_bot:
   - name: "Deshell"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]])"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|Attack]])"
   - name: "Requirement"
-    desc: "A creature is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] in the helicoprion's jaws"
+    desc: "A creature is [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] in the helicoprion's jaws"
   - name: "Effect"
     desc: "The shark rips into the creature dealing 3d10 slashing damage (DC 26 basic Reflex save)."
   - name: "Swallow Whole"

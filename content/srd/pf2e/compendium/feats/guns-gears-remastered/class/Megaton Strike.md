@@ -14,15 +14,15 @@ socialImage: og-image.png
 
 `Inventor`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/innovations#Armor|armor]], [[srd/pf2e/compendium/character/innovations#Construct|construct]], or [[srd/pf2e/compendium/character/innovations#Weapon|weapon]] innovation
+- **Prerequisites**: [[srd/pf2e/compendium/character/Innovations#Armor|armor]], [[srd/pf2e/compendium/character/Innovations#Construct|construct]], or [[srd/pf2e/compendium/character/Innovations#Weapon|weapon]] innovation
 
 You activate gears, explosives, and other hidden mechanisms in your innovation to make a powerful attack. You make a Strike, dealing an extra die of weapon damage. If you're at least 10th level, increase this to two extra dice, and if you're at least 18th level, increase it to three extra dice. The type of Strike you can make depends on your innovation. 
-**Armor** You Strike with a melee unarmed attack or a melee weapon. To use a melee weapon for this, you must have prepared it in advance with special contraptions when you make your daily preparations.**Construct** Your minion innovation Strikes.**Weapon** You Strike with your weapon innovation. **Unstable Function** You put even more force into the Strike, though you risk stress fractures to your innovation. Add the [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/unstable|unstable]] trait to Megaton Strike. The Strike deals another extra damage die, for a total of two extra dice at 4th level, three at 10th level, and four at 18th level.
+**Armor** You Strike with a melee unarmed attack or a melee weapon. To use a melee weapon for this, you must have prepared it in advance with special contraptions when you make your daily preparations.**Construct** Your minion innovation Strikes.**Weapon** You Strike with your weapon innovation. **Unstable Function** You put even more force into the Strike, though you risk stress fractures to your innovation. Add the [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/Unstable|unstable]] trait to Megaton Strike. The Strike deals another extra damage die, for a total of two extra dice at 4th level, three at 10th level, and four at 18th level.
 
-**Special** If your innovation is a [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]], it can take this action rather than you.
+**Special** If your innovation is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Minion|minion]], it can take this action rather than you.
 
 ### Megaton Strike leads to...
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/class/gigaton-strike|Gigaton Strike]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/class/Gigaton Strike|Gigaton Strike]]
 
 *Source: Guns & Gears (Remastered) p. 27*

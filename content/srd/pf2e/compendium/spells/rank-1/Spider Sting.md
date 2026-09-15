@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Poison`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/archdevils/barbatos|Barbatos]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu]], [[srd/pf2e/compendium/deities/monitor-demigods/teshallas|Teshallas]], [[srd/pf2e/compendium/deities/daemon-harbingers/vorasha|Vorasha]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/archdevils/Barbatos|Barbatos]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Lamashtu|Lamashtu]], [[srd/pf2e/compendium/deities/monitor-demigods/Teshallas|Teshallas]], [[srd/pf2e/compendium/deities/daemon-harbingers/Vorasha|Vorasha]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Defense**: Fortitude
@@ -30,6 +30,6 @@ You magically duplicate a spider's venomous sting. You deal 1d4 piercing damage 
 
 **Failure** The target is afflicted with spider venom at stage 1.
 
-**Critical Failure** The target is afflicted with spider venom at stage 2. **Spider Venom** ([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]) Level 1; **Maximum Duration** 4 rounds; **Stage 1** 1d4 poison damage and enfeebled 1 (1 round); **Stage 2** 1d4 poison damage and enfeebled 2 (1 round)
+**Critical Failure** The target is afflicted with spider venom at stage 2. **Spider Venom** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]]) Level 1; **Maximum Duration** 4 rounds; **Stage 1** 1d4 poison damage and enfeebled 1 (1 round); **Stage 2** 1d4 poison damage and enfeebled 2 (1 round)
 
 *Source: Player Core p. 358*

@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/winged-warrior|Winged Warrior]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Winged Warrior|Winged Warrior]]
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/winged-warrior-dedication|Winged Warrior Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Winged Warrior Dedication|Winged Warrior Dedication]]
 
-Unfurling your wings in a quick snap, you send feathers scattering in all directions. Creatures in a 15-foot emanation take 6d6 slashing damage (basic Reflex save against your class DC). This increases to 10d6 if your unarmed attacks have a [[srd/pf2e/compendium/equipment/runes/striking|_greater striking_]] rune, such as by etching it onto [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows|_handwraps of mighty blows_]], and 16d6 if they have a _major striking_ rune.
+Unfurling your wings in a quick snap, you send feathers scattering in all directions. Creatures in a 15-foot emanation take 6d6 slashing damage (basic Reflex save against your class DC). This increases to 10d6 if your unarmed attacks have a [[srd/pf2e/compendium/equipment/runes/Striking|_greater striking_]] rune, such as by etching it onto [[srd/pf2e/compendium/equipment/worn-items/Handwraps of Mighty Blows|_handwraps of mighty blows_]], and 16d6 if they have a _major striking_ rune.
 
 *Source: Howl of the Wild p. 83*

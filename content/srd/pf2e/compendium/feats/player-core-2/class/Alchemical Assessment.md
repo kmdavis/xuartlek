@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Alchemist`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-You can identify alchemical items quickly. When using the Crafting skill to [[srd/pf2e/compendium/rules-elements/actions/player-core#Identify Alchemy|Identify Alchemy]] on an [[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|alchemical]] item you hold, you can do so as a single action, rather than spending 10 minutes.
+You can identify alchemical items quickly. When using the Crafting skill to [[srd/pf2e/compendium/rules-elements/actions/player-core#Identify Alchemy|Identify Alchemy]] on an [[srd/pf2e/compendium/rules-elements/traits/player-core/Alchemical|alchemical]] item you hold, you can do so as a single action, rather than spending 10 minutes.
 
 *Source: Player Core 2 p. 63*

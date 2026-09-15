@@ -24,23 +24,23 @@ Strength or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/pick/pick|Pick]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/pick/Pick|Pick]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Earth|Earth]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Toil|Toil]], [[srd/pf2e/compendium/character/domains#Wealth|Wealth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Earth|Earth]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Toil|Toil]], [[srd/pf2e/compendium/character/Domains#Wealth|Wealth]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/pummeling-rubble|Pummeling Rubble]]
+[[srd/pf2e/compendium/spells/rank-1/Pummeling Rubble|Pummeling Rubble]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/earthbind|Earthbind]]
+[[srd/pf2e/compendium/spells/rank-3/Earthbind|Earthbind]]
 
 - **8th**
-[[srd/pf2e/compendium/spells/rank-8/earthquake|Earthquake]]
+[[srd/pf2e/compendium/spells/rank-8/Earthquake|Earthquake]]
 
 *Source: Divine Mysteries p. 241*

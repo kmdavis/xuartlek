@@ -18,14 +18,14 @@ socialImage: og-image.png
 `Disarm`  `Finesse`  `Trip`  `Uncommon`
 
 - **PFS Note**: All Pathfinder agents have access to this weapon
-- **Favored Weapon**: Enkaar, Kzininn, Luhar, [[srd/pf2e/compendium/deities/infernal-dukes/nergal|Nergal]], [[srd/pf2e/compendium/deities/sakhil-tormentors/velgaas|Velgaas]], [[srd/pf2e/compendium/deities/daemon-harbingers/vorasha|Vorasha]], [[srd/pf2e/compendium/deities/demon-lords/yhidothrus|Yhidothrus]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/zon-kuthon|Zon-Kuthon]]
+- **Favored Weapon**: Enkaar, Kzininn, Luhar, [[srd/pf2e/compendium/deities/infernal-dukes/Nergal|Nergal]], [[srd/pf2e/compendium/deities/sakhil-tormentors/Velgaas|Velgaas]], [[srd/pf2e/compendium/deities/daemon-harbingers/Vorasha|Vorasha]], [[srd/pf2e/compendium/deities/demon-lords/Yhidothrus|Yhidothrus]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Zon-Kuthon|Zon-Kuthon]]
 - **Price**: 3 gp
 - **Damage**: 1d8 S
 - **Bulk**: 1
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Flail
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Flail|Flail]]
 
 This 4-foot-long length of chain is covered with barbs and has spikes on one or both ends. Some feature metal hoops used as handgrips.
 
@@ -35,6 +35,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/chain-of-command|Chain of Command]]
+[[srd/pf2e/compendium/equipment/weapons/Chain of Command|Chain of Command]]
 
 *Source: Player Core p. 278*

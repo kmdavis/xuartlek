@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Witch`
 
-Your patron grants you a special lesson, revealing a hidden facet of its nature. Choose a basic lesson from the list [[srd/pf2e/compendium/character/lessons|here]]. You gain its associated hex, and your familiar learns the associated spell.
+Your patron grants you a special lesson, revealing a hidden facet of its nature. Choose a basic lesson from the list [[srd/pf2e/compendium/character/Lessons|here]]. You gain its associated hex, and your familiar learns the associated spell.
 
 *Source: Player Core p. 186*

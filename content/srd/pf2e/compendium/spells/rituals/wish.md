@@ -17,7 +17,7 @@ socialImage: og-image.png
 - **Cast**: 1 day
 - **Cost**: fine ash, magically imbued pigments, and a gem in a marquise cut worth 100, 000 gp in total
 - **Secondary Casters**: 2
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (legendary), [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (legendary), [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (legendary), or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (legendary)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] (legendary), [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] (legendary), [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] (legendary), or [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] (legendary)
 - **Secondary Checks**: Crafting, Diplomacy
 - **Range**: 10 feet
 - **Target(s)**: 1 creature

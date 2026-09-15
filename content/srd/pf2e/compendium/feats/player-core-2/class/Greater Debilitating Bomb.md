@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Alchemist`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/debilitating-bomb|Debilitating Bomb]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Debilitating Bomb|Debilitating Bomb]]
 
-You have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs. When you use Debilitating Bomb, add the following to the list you can choose from: [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]], [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]], [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]], or –10-foot status penalty to Speeds.
+You have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs. When you use Debilitating Bomb, add the following to the list you can choose from: [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy 1]], [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled 1]], [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied 1]], or –10-foot status penalty to Speeds.
 
 ### Greater Debilitating Bomb leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/true-debilitating-bomb|True Debilitating Bomb]]
+[[srd/pf2e/compendium/feats/player-core-2/class/True Debilitating Bomb|True Debilitating Bomb]]
 
 *Source: Player Core 2 p. 67*

@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Fighter
 
-At 3rd level and every 4 levels thereafter, you gain a general feat.
+At 3rd level and every 4 levels thereafter, you gain a [general](https://2e.aonprd.com/Feats.aspx?Traits=78) feat.
 
 *Source: Player Core p. 136*

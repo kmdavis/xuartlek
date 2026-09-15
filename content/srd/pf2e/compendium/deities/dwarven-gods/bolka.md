@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: Encourage those seeking love, see the beauty in others, support others’ relationships
 - **Anathema**: Betray your spouse, disrupt a genuine marriage, prevent a suitor from seeking a partner
 - **Area of Concern**: Committed relationships, marriage, passion
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/stones-blood|Stone's Blood]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Stone's Blood|Stone's Blood]]
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Wisdom or Charisma
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/mace|Mace]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Mace|Mace]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Passion|Passion]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Healing|Healing]], [[srd/pf2e/compendium/character/Domains#Passion|Passion]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Toil|Toil]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Toil|Toil]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]]
+[[srd/pf2e/compendium/spells/rank-1/Soothe|Soothe]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/creation|Creation]]
+[[srd/pf2e/compendium/spells/rank-4/Creation|Creation]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/collective-transposition|Collective Transposition]]
+[[srd/pf2e/compendium/spells/rank-6/Collective Transposition|Collective Transposition]]
 
 *Source: Divine Mysteries p. 304*

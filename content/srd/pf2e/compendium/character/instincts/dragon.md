@@ -10,7 +10,7 @@ socialImage: og-image.png
 
 # Dragon  *Barbarian Instinct*
 
-You summon the fury of a mighty dragon and manifest incredible abilities. Perhaps your culture reveres draconic majesty, or you gained insights by drinking or bathing in dragon's blood or watching a marauding wyrm burn your village. Select a type of dragon from the Dragon Instincts table as your instinct's dragon type. These are the dragons from _Monster Core_, but your GM might allow you to choose dragons from other sources and determine their tradition and dragon breath type.
+You summon the fury of a mighty dragon and manifest incredible abilities. Perhaps your culture reveres draconic majesty, or you gained insights by drinking or bathing in dragon's blood or watching a marauding wyrm burn your village. Select a type of dragon from the Dragon Instincts table as your instinct's dragon type. These are the dragons from _Monster Core_, but your GM might allow you to [choose dragons from other sources](https://2e.aonprd.com/DraconicBenefactors.aspx) and determine their tradition and dragon breath type.
 
 ## Dragon Instincts
 
@@ -21,44 +21,44 @@ You summon the fury of a mighty dragon and manifest incredible abilities. Perhap
  Dragon Breath
 
 
- [[srd/pf2e/compendium/gm/creature-families/dragon-adamantine|Adamantine]]
- [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]
+ {{creatureFamilies 396 "Adamantine"}}
+ {{traits 676 "Primal"}}
  Bludgeoning
 
 
- [[srd/pf2e/compendium/gm/creature-families/dragon-conspirator|Conspirator]]
- [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]
- [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]]
+ {{creatureFamilies 397 "Conspirator"}}
+ {{traits 662 "Occult"}}
+ {{traits 669 "Poison"}}
 
 
- [[srd/pf2e/compendium/gm/creature-families/dragon-diabolic|Diabolic]]
- [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]
- [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]]
+ {{creatureFamilies 398 "Diabolic"}}
+ {{traits 579 "Divine"}}
+ {{traits 604 "Fire"}}
 
 
- [[srd/pf2e/compendium/gm/creature-families/dragon-empyreal|Empyreal]]
- [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]
- [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|Spirit]]
+ {{creatureFamilies 399 "Empyreal"}}
+ {{traits 579 "Divine"}}
+ {{traits 737 "Spirit"}}
 
 
- [[srd/pf2e/compendium/gm/creature-families/dragon-fortune|Fortune]]
- [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]]
- [[srd/pf2e/compendium/rules-elements/traits/player-core/force|Force]]
+ {{creatureFamilies 400 "Fortune"}}
+ {{traits 534 "Arcane"}}
+ {{traits 610 "Force"}}
 
 
- [[srd/pf2e/compendium/gm/creature-families/dragon-horned|Horned]]
- [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]
- [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]]
+ {{creatureFamilies 401 "Horned"}}
+ {{traits 676 "Primal"}}
+ {{traits 669 "Poison"}}
 
 
- [[srd/pf2e/compendium/gm/creature-families/dragon-mirage|Mirage]]
- [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]]
- [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]
+ {{creatureFamilies 402 "Mirage"}}
+ {{traits 534 "Arcane"}}
+ {{traits 647 "Mental"}}
 
 
- [[srd/pf2e/compendium/gm/creature-families/dragon-omen|Omen]]
- [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]
- [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]
+ {{creatureFamilies 403 "Omen"}}
+ {{traits 662 "Occult"}}
+ {{traits 647 "Mental"}}
 
 
 

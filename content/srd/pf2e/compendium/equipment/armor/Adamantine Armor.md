@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 - **Usage**: worn armor
 - **Bulk**: varies by armor
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/adamantine|Adamantine]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/Adamantine|Adamantine]]
 
 Adamantine armor has a shiny, black appearance and is amazingly durable.
 

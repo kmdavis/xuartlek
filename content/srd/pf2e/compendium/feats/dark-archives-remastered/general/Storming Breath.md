@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 `Deviant`  `Magical`  `Rare`
 
-You spit out a freezing breath or sonic scream. You deal 4d6 damage, plus 1d6 damage for every level you have beyond 6th, to all creatures in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]], with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save.
+You spit out a freezing breath or sonic scream. You deal 4d6 damage, plus 1d6 damage for every level you have beyond 6th, to all creatures in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Cone|cone]], with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save.
 
 *Source: Dark Archives (Remastered) p. 100*

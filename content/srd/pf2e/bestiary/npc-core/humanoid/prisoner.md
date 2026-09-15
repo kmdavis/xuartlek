@@ -28,10 +28,10 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+6"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +3, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +3, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] +7"
 abilityMods: [3, 4, 1, 0, 1, 0]
 abilities_top:
   - name: "Items"
@@ -47,20 +47,20 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ shiv +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d4+3 piercing"
+    desc: "⬻ shiv +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d4+3 piercing"
   - name: "Melee"
-    desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+3 bludgeoning"
+    desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+3 bludgeoning"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "The prisoner deals an extra 1d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
+    desc: "The prisoner deals an extra 1d6 precision damage to [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] creatures."
   - name: "Surprise Attack"
-    desc: "On the first round of combat, creatures that haven't acted yet are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the prisoner."
+    desc: "On the first round of combat, creatures that haven't acted yet are [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to the prisoner."
   - name: "You're Next"
-    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]])"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]])"
   - name: "Trigger"
     desc: "The prisoner reduces a creature to 0 Hit Points"
   - name: "Effect"
-    desc: "The prisoner attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] a creature that saw their victory, with a +2 circumstance bonus to the [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check."
+    desc: "The prisoner attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] a creature that saw their victory, with a +2 circumstance bonus to the [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] check."
 sourcebook: "_NPC Core_, page 40."
 ```
 

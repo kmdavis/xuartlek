@@ -14,14 +14,14 @@ socialImage: og-image.png
 
 `Attached`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/aleth|Aleth]], Granduncle Taproot, [[srd/pf2e/compendium/deities/pantheons/guardians-of-the-sacred-self|Guardians of the Sacred Self]], Imot, Mazludeh, [[srd/pf2e/compendium/deities/sarkorian-covenants/the-spirit-wall|The Spirit Wall]], Upion and Warrik
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/Aleth|Aleth]], Granduncle Taproot, [[srd/pf2e/compendium/deities/pantheons/Guardians of the Sacred Self|Guardians of the Sacred Self]], Imot, Mazludeh, [[srd/pf2e/compendium/deities/sarkorian-covenants/The Spirit Wall|The Spirit Wall]], Upion and Warrik
 - **Price**: 5 sp
 - **Damage**: 1d6 B
 - **Bulk**: —
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Shield
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Shield|Shield]]
 
 Typically a round, convex, or conical piece of thick metal attached to the center of a shield, a shield boss increases the bludgeoning damage of a shield bash.
 

@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 - **Prerequisites**: flurry of blows
 
-The focused power of your flurry threatens to overwhelm your opponent. When you target the same creature with two Strikes from your Flurry of Blows, you can try to stun the creature. If either Strike hits and deals damage, the target must succeed at a Fortitude save against your class DC or be [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]] (or stunned 3 on a critical failure). This is an [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]] effect.
+The focused power of your flurry threatens to overwhelm your opponent. When you target the same creature with two Strikes from your Flurry of Blows, you can try to stun the creature. If either Strike hits and deals damage, the target must succeed at a Fortitude save against your class DC or be [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned 1]] (or stunned 3 on a critical failure). This is an [[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|incapacitation]] effect.
 
 ### Stunning Blows leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/triangle-shot|Triangle Shot]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Triangle Shot|Triangle Shot]]
 
 *Source: Player Core 2 p. 121*

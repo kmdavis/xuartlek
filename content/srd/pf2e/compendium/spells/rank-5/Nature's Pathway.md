@@ -19,11 +19,11 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Mental`  `Plant`  `Teleportation`  `Uncommon`
 
-- **Tradition**: Primal
-- **Deities**: [[srd/pf2e/compendium/deities/covenants/blooms-of-the-spreading-weald|Blooms of the Spreading Weald]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/erastil|Erastil]], Gendowyn, [[srd/pf2e/compendium/deities/azlanti-pantheon/jaidi|Jaidi]], [[srd/pf2e/compendium/deities/empyreal-lords/keltheald|Keltheald]], [[srd/pf2e/compendium/deities/pantheons/sovyrian-conclave|Sovyrian Conclave]], [[srd/pf2e/compendium/deities/elven-gods/yuelral|Yuelral]]
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/covenants/Blooms of the Spreading Weald|Blooms of the Spreading Weald]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Erastil|Erastil]], Gendowyn, [[srd/pf2e/compendium/deities/azlanti-pantheon/Jaidi|Jaidi]], [[srd/pf2e/compendium/deities/empyreal-lords/Keltheald|Keltheald]], [[srd/pf2e/compendium/deities/pantheons/Sovyrian Conclave|Sovyrian Conclave]], [[srd/pf2e/compendium/deities/elven-gods/Yuelral|Yuelral]]
 - **Cast**: 1 minute
 
-You step into a living tree with a trunk big enough for you to fit inside it and instantly teleport to any tree within 5 miles that also has a sufficiently large trunk. Once you enter the first tree, you instantly know the rough locations of other sufficiently large trees within range and can exit from the original tree, if you prefer. You can't carry [[srd/pf2e/compendium/rules-elements/traits/player-core/extradimensional|extradimensional]] spaces with you; if you attempt to do so, the spell fails.
+You step into a living tree with a trunk big enough for you to fit inside it and instantly teleport to any tree within 5 miles that also has a sufficiently large trunk. Once you enter the first tree, you instantly know the rough locations of other sufficiently large trees within range and can exit from the original tree, if you prefer. You can't carry [[srd/pf2e/compendium/rules-elements/traits/player-core/Extradimensional|extradimensional]] spaces with you; if you attempt to do so, the spell fails.
 
 ---
 **Heightened (6th)** The tree you exit can be up to 50 miles away.

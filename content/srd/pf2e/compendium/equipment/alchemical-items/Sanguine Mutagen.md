@@ -20,11 +20,11 @@ socialImage: og-image.png
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 You gain greatly increased blood production, filtering out contagions and boosting your endurance but causing your body to bloat with blood.
 
- **Benefit** You gain an item bonus to Fortitude and Reflex saves. This bonus improves when you attempt a save against an effect that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]] trait, [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] trait, or would give you the [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] condition.
+ **Benefit** You gain an item bonus to Fortitude and Reflex saves. This bonus improves when you attempt a save against an effect that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]] trait, [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] trait, or would give you the [[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|fatigued]] condition.
 
  **Drawback** Whenever you take piercing or slashing damage, you take 1d6 persistent bleed damage.
 

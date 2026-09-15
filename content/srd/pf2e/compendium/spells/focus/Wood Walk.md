@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Uncommon`  `Wood`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Wood|Wood]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Wood|Wood]]
 - **Duration**: 1 minute
 
 Wood shapes itself according to your will readily, making staircases appear as you climb up the side of a tree, automatically weaving vines into ladders, or lowering branches to lift you up to the top. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast this Spell]], move up to your Speed in any direction or along any surface, so long as there are living plants or trees of size Large or larger within 15 feet of you. The wood allows you to move but doesn’t protect you from hazardous terrain or other dangers. Each time you [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] this spell, you can move again in the same way.

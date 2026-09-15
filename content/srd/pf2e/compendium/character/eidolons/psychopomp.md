@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Eidolon`  `Monitor`  `Psychopomp`
 
-- **Tradition**: Divine
-- **Home Plane**: [[srd/pf2e/compendium/gm/planes#Boneyard|The Boneyard]]
+- **Tradition**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2)
+- **Home Plane**: [[srd/pf2e/compendium/gm/Planes#Boneyard|The Boneyard]]
 
 **Size** Medium
 
@@ -30,7 +30,7 @@ socialImage: og-image.png
 - Cha -1
 - AC ( Dex cap)
 
-**Skills** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
 **Senses** darkvision
 
@@ -48,11 +48,11 @@ socialImage: og-image.png
 
 ### Shepherd’s Touch
 
-Your eidolon's attacks possess a psychopomp's ability to harm the living and the dead. Your eidolon's unarmed Strikes affect incorporeal creatures as though etched with a _[[srd/pf2e/compendium/equipment/runes/ghost-touch|ghost touch]]_ property rune and deal an extra 1 void damage to living creatures and an extra 1 vitality damage to undead.
+Your eidolon's attacks possess a psychopomp's ability to harm the living and the dead. Your eidolon's unarmed Strikes affect incorporeal creatures as though etched with a _[[srd/pf2e/compendium/equipment/runes/Ghost Touch|ghost touch]]_ property rune and deal an extra 1 void damage to living creatures and an extra 1 vitality damage to undead.
 
 ### Hidden Watcher
 
-Your eidolon can render both of you unseen. Once per hour, they can cast [[srd/pf2e/compendium/spells/rank-2/invisibility|_invisibility_]] as a divine innate spell targeting you, them, or both of you at once. If the spell targeted both of you, the spell ends for both of you if either of you uses a hostile action.
+Your eidolon can render both of you unseen. Once per hour, they can cast [[srd/pf2e/compendium/spells/rank-2/Invisibility|_invisibility_]] as a divine innate spell targeting you, them, or both of you at once. If the spell targeted both of you, the spell ends for both of you if either of you uses a hostile action.
 
 ### Spirit Taker
 
@@ -60,6 +60,6 @@ Your eidolon is particularly capable when it comes to handling bodiless spirits 
 
  Additionally, your eidolon can target or affect a creature projecting its consciousness (such as via project image) or possessing another creature, even if its body is elsewhere, though your eidolon must know about the possession or projection and choose to do so.
 
- Finally, the spirit of an undead destroyed by your eidolon's Strikes is sent directly to the Boneyard for judgment; an undead with an ability to avoid such a fate automatically, such as a [[srd/pf2e/compendium/gm/creature-families/ghost|ghost's rejuvenation]], can attempt a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] check against your spell DC to return via that ability as normal. In that case, the enemy uses its Will save modifier as its counteract modifier. When your eidolon destroys an undead (even if the undead later returns), they gain temporary Hit Points equal to your level that last for 1 minute.
+ Finally, the spirit of an undead destroyed by your eidolon's Strikes is sent directly to the Boneyard for judgment; an undead with an ability to avoid such a fate automatically, such as a [[srd/pf2e/compendium/gm/creature-families/Ghost|ghost's rejuvenation]], can attempt a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions#Counteracting|counteract]] check against your spell DC to return via that ability as normal. In that case, the enemy uses its Will save modifier as its counteract modifier. When your eidolon destroys an undead (even if the undead later returns), they gain temporary Hit Points equal to your level that last for 1 minute.
 
 *Source: Impossible Magic p. 77*

@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Martial Artist|Martial Artist]]
 - **Frequency**: once per minute
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/martial-artist-dedication|Martial Artist Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Martial Artist Dedication|Martial Artist Dedication]]
 
-With a burst of effort and speed, you weave a nimble path through your many enemies, striking each in turn as you move past them. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]]; this movement doesn’t trigger reactions. You can attempt a melee [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] up to three times at any point during your movement, each against a different enemy. Each attack counts toward your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Multiple Attack Penalty|multiple attack penalty]], but your multiple attack penalty doesn’t increase until you have made all your attacks.
+With a burst of effort and speed, you weave a nimble path through your many enemies, striking each in turn as you move past them. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]]; this movement doesn’t trigger reactions. You can attempt a melee [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] up to three times at any point during your movement, each against a different enemy. Each attack counts toward your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Multiple Attack Penalty|multiple attack penalty]], but your multiple attack penalty doesn’t increase until you have made all your attacks.
 
 *Source: Player Core 2 p. 206*

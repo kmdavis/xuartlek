@@ -28,20 +28,20 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +7, [[srd/pf2e/compendium/rules-elements/skills/lore|Driving Lore]] +8, [[srd/pf2e/compendium/rules-elements/skills/lore|Engineering Lore]] +8, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +7, [[srd/pf2e/compendium/rules-elements/skills/lore|Piloting Lore]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +7, [[srd/pf2e/compendium/rules-elements/skills/Lore|Driving Lore]] +8, [[srd/pf2e/compendium/rules-elements/skills/Lore|Engineering Lore]] +8, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +7, [[srd/pf2e/compendium/rules-elements/skills/Lore|Piloting Lore]] +8, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +8"
 abilityMods: [1, 4, 0, 2, 2, 1]
 abilities_top:
   - name: "Driving Specialist"
-    desc: "For encounters involving driving, the driver is an 8th-level challenge. Rules for vehicles appear [[srd/pf2e/books/gm-core/chapter-4-subsystems/vehicles|here]]."
+    desc: "For encounters involving driving, the driver is an 8th-level challenge. Rules for vehicles appear [[srd/pf2e/books/gm-core/chapter-4-subsystems/Vehicles|here]]."
   - name: "Express Driver"
-    desc: "A driver can attempt a [[srd/pf2e/compendium/rules-elements/skills/lore|Driving Lore]] check to increase a vehicle's travel Speed when calculating the value for a day. The DC is determined by the GM but is typically based on the vehicle's piloting DC or the difficulty of traversing the environment, whichever is harder. On a success, increase the vehicle's travel Speed by half."
+    desc: "A driver can attempt a [[srd/pf2e/compendium/rules-elements/skills/Lore|Driving Lore]] check to increase a vehicle's travel Speed when calculating the value for a day. The DC is determined by the GM but is typically based on the vehicle's piloting DC or the difficulty of traversing the environment, whichever is harder. On a success, increase the vehicle's travel Speed by half."
   - name: "Skilled Driver"
     desc: "The driver gains a +10 circumstance bonus to any skill check involved in driving a vehicle, and is considered a master in the skill for such checks. This bonus also applies to any initiative roll while the driver is piloting a vehicle."
   - name: "Items"
-    desc: "crowbar (functions as a [[srd/pf2e/compendium/equipment/weapons/pick/pick|pick]]), Hand Crossbow (10 bolts), Leather Armor"
+    desc: "crowbar (functions as a [[srd/pf2e/compendium/equipment/weapons/pick/Pick|pick]]), Hand Crossbow (10 bolts), Leather Armor"
 ac: 18
 armorclass:
   - name: "AC"
@@ -62,9 +62,9 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ crowbar +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d10]]) __Damage__ 1d6+3 piercing"
+    desc: "⬻ crowbar +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fatal|fatal d10]]) __Damage__ 1d6+3 piercing"
   - name: "Melee"
-    desc: "⬻ fist +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+3 bludgeoning"
+    desc: "⬻ fist +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+3 bludgeoning"
   - name: "Ranged"
     desc: "⬻ hand crossbow +10 (range increment 60 feet, reload 1) __Damage__ 1d6+2 piercing"
 abilities_bot:

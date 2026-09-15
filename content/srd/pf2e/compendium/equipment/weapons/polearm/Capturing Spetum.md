@@ -24,7 +24,7 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Advanced
-- **Group**: Polearm
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Polearm|Polearm]]
 
 Hobgoblins use these polearms both as standard issue for aggressive military units and on an individual basis for hunting fugitives.
 

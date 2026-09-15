@@ -16,8 +16,8 @@ socialImage: og-image.png
 `Arcane`  `Magus`
 
 - **Prerequisites**: [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Spellstrike|Spellstrike]]; twisting tree hybrid study
-- **Requirements**: You’re wielding a [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]].
+- **Requirements**: You’re wielding a [[srd/pf2e/compendium/equipment/weapons/club/Staff|staff]].
 
-Your spell unwinds the structure of your staff to make it exceptionally long, or even separate it into shards held together by magical power. Make a Spellstrike with a staff, with a spell that isn’t a [[srd/pf2e/compendium/rules-elements/traits/player-core/cantrip|cantrip]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/focus|focus]] spell. Increase the staff’s reach by 5 feet × the spell’s rank.
+Your spell unwinds the structure of your staff to make it exceptionally long, or even separate it into shards held together by magical power. Make a Spellstrike with a staff, with a spell that isn’t a [[srd/pf2e/compendium/rules-elements/traits/player-core/Cantrip|cantrip]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Focus|focus]] spell. Increase the staff’s reach by 5 feet × the spell’s rank.
 
 *Source: Impossible Magic p. 23*

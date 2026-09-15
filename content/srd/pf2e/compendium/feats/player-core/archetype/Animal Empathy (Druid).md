@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Druid`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/beastmaster|Beastmaster]] (Level 4), Mammoth Lord (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Beastmaster|Beastmaster]] (Level 4), Mammoth Lord (Level 4)
 
 You have a connection to the creatures of the natural world that allows you to communicate with them on a rudimentary level. You can ask questions of, receive answers from, and use the Diplomacy skill with animals. In most cases, wild animals will give you time to make your case.
 

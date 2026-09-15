@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Gunslinger`
 
-- **Requirements**: An enemy you've damaged with a ranged weapon during the last minute is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] or [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] from you.
+- **Requirements**: An enemy you've damaged with a ranged weapon during the last minute is [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] from you.
 
 Once you've locked on to a target, little can obscure your aim. Make a ranged weapon Strike against the required target. This Strike ignores the target's concealed condition and reduces the flat check for the hidden condition from 11 to 5.
 

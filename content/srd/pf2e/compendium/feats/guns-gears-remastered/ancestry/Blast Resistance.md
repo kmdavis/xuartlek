@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 - **Access**: You are from Dongun Hold or Alkenstar.
 
-You're used to the clamor of steel, the crack of a firearm, and the thunderous blast of explosions. You gain resistance 3 to [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]]. If you roll a success on a saving throw against an effect that causes the [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] or [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] conditions, you get a critical success instead.
+You're used to the clamor of steel, the crack of a firearm, and the thunderous blast of explosions. You gain resistance 3 to [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Sonic|sonic]]. If you roll a success on a saving throw against an effect that causes the [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] or [[srd/pf2e/compendium/rules-elements/Conditions#Deafened|deafened]] conditions, you get a critical success instead.
 
 *Source: Guns & Gears (Remastered) p. 200*

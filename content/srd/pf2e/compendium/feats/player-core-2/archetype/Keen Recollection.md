@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/investigator|Investigator]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/investigator-dedication|Investigator Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Investigator|Investigator]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Investigator Dedication|Investigator Dedication]]
 
 You can recall all sorts of information. You gain the keen recollection class feature.
 

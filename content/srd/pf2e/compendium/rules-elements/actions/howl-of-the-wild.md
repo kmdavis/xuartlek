@@ -21,7 +21,7 @@ The hippogriff makes a talon Strike, then [[srd/pf2e/compendium/rules-elements/a
 
 [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
-The elk Steps once and then makes an antlers Strike. If it moved and hits, the elk can fling its target into the space it just left, which is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Forced Movement|forced movement]].
+The elk Steps once and then makes an antlers Strike. If it moved and hits, the elk can fling its target into the space it just left, which is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Forced Movement|forced movement]].
 
 *Source: Howl of the Wild p. 91*
 
@@ -45,7 +45,7 @@ The orca [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swims]] u
 
 [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
-Your mole Burrows and makes a Strike. If the mole began its movement underground, the target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] for this attack.
+Your mole Burrows and makes a Strike. If the mole began its movement underground, the target is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] for this attack.
 
 *Source: Howl of the Wild p. 92*
 
@@ -67,7 +67,7 @@ The giant wasp [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flie
 
 - **Requirements**: The flying squirrel is above the target
 
-The flying squirrel crashes down onto a target, furiously clawing at it. The flying squirrel falls to an empty space next to the target, taking no damage, and makes two claw Strikes. Both attacks count toward its [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Multiple Attack Penalty|multiple attack penalty]], but the penalty doesn’t increase until after both attacks have been made.
+The flying squirrel crashes down onto a target, furiously clawing at it. The flying squirrel falls to an empty space next to the target, taking no damage, and makes two claw Strikes. Both attacks count toward its [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Multiple Attack Penalty|multiple attack penalty]], but the penalty doesn’t increase until after both attacks have been made.
 
 *Source: Howl of the Wild p. 91*
 
@@ -77,7 +77,7 @@ The flying squirrel crashes down onto a target, furiously clawing at it. The fly
 
 - **Trigger**: The umbrella mushroom is falling.
 
-The umbrella mushroom inflates buoyant air bladders and begins rotating to arrest the fall. It slows its descent to 60 feet per round. It can take this reaction even when [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]].
+The umbrella mushroom inflates buoyant air bladders and begins rotating to arrest the fall. It slows its descent to 60 feet per round. It can take this reaction even when [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]].
 
 *Source: Howl of the Wild p. 95*
 
@@ -103,7 +103,7 @@ The tarantula flicks its legs, flinging spiky hairs in a 15-foot cone. This deal
 
 `Flourish`
 
-The mongoose makes a jaws Strike that can help creatures break free of restraint, like the grasp of a cobra. If the Strike hits, each creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grappled]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] by the target can [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] as a free action.
+The mongoose makes a jaws Strike that can help creatures break free of restraint, like the grasp of a cobra. If the Strike hits, each creature [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grappled]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] by the target can [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] as a free action.
 
 *Source: Howl of the Wild p. 92*
 
@@ -121,7 +121,7 @@ Your giraffe Strides twice and then makes a hoof Strike. As long as it moved at 
 
 `Flourish`  `Poison`
 
-The salamander secretes poison from the glands on its tail and bludgeons an enemy to apply it to them. It makes a tail Strike. If the Strike hits, the target takes an additional 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent poison damage]]. If your salamander is nimble or savage, increase this damage to 2d6 persistent poison damage.
+The salamander secretes poison from the glands on its tail and bludgeons an enemy to apply it to them. It makes a tail Strike. If the Strike hits, the target takes an additional 1d6 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent poison damage]]. If your salamander is [[srd/pf2e/compendium/character/Animal Companions|nimble]] or [[srd/pf2e/compendium/character/Animal Companions|savage]], increase this damage to 2d6 persistent poison damage.
 
 *Source: Howl of the Wild p. 92*
 
@@ -137,7 +137,7 @@ The roc Strikes a creature with its talon and then attempts to [[srd/pf2e/compen
 
 [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
-The kangaroo balances on its tail and lashes out with a powerful two-legged kick. The kangaroo makes a foot Strike. If it hits, the target is pushed back 10 feet. On a critical hit, they are also knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
+The kangaroo balances on its tail and lashes out with a powerful two-legged kick. The kangaroo makes a foot Strike. If it hits, the target is pushed back 10 feet. On a critical hit, they are also knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]].
 
 *Source: Howl of the Wild p. 91*
 
@@ -171,7 +171,7 @@ The shotalashu hunts by pinning its foes with not just its claws, but with its m
 
 **Failure** The creature takes a –10 foot status penalty to its Speeds for one round. The shotalashu can then [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]].
 
-**Critical Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] and [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] for one round. The shotalashu can then Leap.
+**Critical Failure** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] and [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] for one round. The shotalashu can then Leap.
 
 *Source: Howl of the Wild p. 92*
 
@@ -179,6 +179,6 @@ The shotalashu hunts by pinning its foes with not just its claws, but with its m
 
 [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
-The giant frog lashes out with its tongue, making a tongue Strike. If the Strike hits, the target is automatically [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by the giant frog and pulled into a square adjacent to the frog. The grabbed condition lasts until the end of your next turn.
+The giant frog lashes out with its tongue, making a tongue Strike. If the Strike hits, the target is automatically [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] by the giant frog and pulled into a square adjacent to the frog. The grabbed condition lasts until the end of your next turn.
 
 *Source: Howl of the Wild p. 93*

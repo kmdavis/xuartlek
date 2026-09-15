@@ -21,6 +21,6 @@ You push back as you block, knocking your foe away or off balance. You use your 
 
 ### Aggressive Block leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/flinging-shove|Flinging Shove]], [[srd/pf2e/compendium/feats/player-core/class/powerful-shove|Powerful Shove]]
+[[srd/pf2e/compendium/feats/player-core/class/Flinging Shove|Flinging Shove]], [[srd/pf2e/compendium/feats/player-core/class/Powerful Shove|Powerful Shove]]
 
 *Source: Player Core p. 141*

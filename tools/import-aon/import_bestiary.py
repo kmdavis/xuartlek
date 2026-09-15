@@ -401,6 +401,10 @@ def convert(c: dict) -> tuple[str, dict]:
         *([f"other_sources: {y('; '.join(s for s in sources if s != primary))}"]
           if len(sources) > 1 else []),
         f"aon_url: {y('https://2e.aonprd.com' + c['url']) if c.get('url') else y('')}",
+        # Pin one shared OG image. Without this Quartz renders a bespoke
+        # social card per page: 12,614 images and ~20 extra minutes of CI
+        # for pages nobody shares. Removing this line is a 4x build regression.
+        "socialImage: og-image.png",
         "---",
         "",
     ]

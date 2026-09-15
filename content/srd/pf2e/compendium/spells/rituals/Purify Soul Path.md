@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 - **Cast**: 1 day
 - **Cost**: rare incense and offerings worth a total value of 10 gp × your level
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (trained)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] (trained)
 
 You delve inward, spending extensive time contemplating the purity of your own soul and your past actions. If you aren’t truly penitent, the outcome is always a critical failure
 

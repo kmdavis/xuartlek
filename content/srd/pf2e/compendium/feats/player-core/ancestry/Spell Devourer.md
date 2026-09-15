@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Orc`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/pervasive-superstition|Pervasive Superstition]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/Pervasive Superstition|Pervasive Superstition]]
 
 You don’t just resist magic; you devour it. Whenever you succeed at a saving throw against a spell or magical effect, you gain temporary Hit Points equal to double the spell’s rank, or equal to the level if the magical effect isn’t a spell. These temporary Hit Points last until the end of your next turn.
 

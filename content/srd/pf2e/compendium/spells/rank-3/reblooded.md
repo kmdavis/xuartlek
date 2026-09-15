@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Acid`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Divine, Occult
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 30 feet
 - **Target**: 1 undead creature
 - **Defense**: Fortitude
@@ -26,9 +26,9 @@ Your enemy’s heart has been stopped, but you cause it to start pumping blood o
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent acid damage]].
+**Success** The creature takes 1d6 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent acid damage]].
 
-**Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 for 1 minute and takes 2d6 persistent acid damage.
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]] 1 for 1 minute and takes 2d6 persistent acid damage.
 
 **Critical Failure** The creature is clumsy 2 for 1 minute and takes 3d6 persistent acid damage.
 

@@ -1,6 +1,7 @@
 ---
 title: "Three Innovations"
 aliases: ["Three Innovations"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Guns & Gears (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1617"
 citation: "Guns & Gears (Remastered) pg. 60"
-socialImage: og-image.png
 ---
 
 # Three Innovations

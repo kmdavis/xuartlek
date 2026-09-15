@@ -16,13 +16,13 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`  `Uncommon`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/trick-driver|Trick Driver]]
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/lore|Driving Lore]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Trick Driver|Trick Driver]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Lore|Driving Lore]]
 
-You are equally at home piloting any vehicle, adapting yourself instantly to varied controls, movements, and handling. Whenever piloting a vehicle requires a Piloting Lore or Sailing Lore check, you can use your Driving Lore proficiency instead. You can use Dexterity in place of Intelligence when attempting piloting checks with Driving Lore. You become an expert in Driving Lore. At 7th level, you become a master in Driving Lore, and at 15th level, you become legendary in Driving Lore.
+You are equally at home piloting any [[srd/pf2e/compendium/equipment/vehicles/vehicles|vehicle]], adapting yourself instantly to varied controls, movements, and handling. Whenever piloting a vehicle requires a Piloting Lore or Sailing Lore check, you can use your Driving Lore proficiency instead. You can use Dexterity in place of Intelligence when attempting piloting checks with Driving Lore. You become an expert in Driving Lore. At 7th level, you become a master in Driving Lore, and at 15th level, you become legendary in Driving Lore.
 
 ### Trick Driver Dedication leads to...
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/drive-by-attack|Drive-By Attack]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/express-driver|Express Driver]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/power-slide|Power Slide]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/push-it|Push it]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/roadkill|Roadkill]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/take-the-wheel|Take the Wheel]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Drive-By Attack|Drive-By Attack]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Express Driver|Express Driver]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Power Slide|Power Slide]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Push it|Push it]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Roadkill|Roadkill]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Take the Wheel|Take the Wheel]]
 
 *Source: Guns & Gears (Remastered) p. 55*

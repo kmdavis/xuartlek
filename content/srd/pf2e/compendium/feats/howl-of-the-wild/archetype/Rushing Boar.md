@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`  `Emotion`  `Mental`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/werecreature|Werecreature]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/werecreature-dedication|Werecreature Dedication]]; wereboar
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Werecreature|Werecreature]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Werecreature Dedication|Werecreature Dedication]]; wereboar
 - **Trigger**: An attack from a creature that isn’t adjacent to you damaged you.
 - **Requirements**: You’re in boar or hybrid shape.
 

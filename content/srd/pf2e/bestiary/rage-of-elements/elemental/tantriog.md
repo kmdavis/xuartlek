@@ -30,10 +30,10 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; all-around vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "Art Lore +15, Cooking Lore +17, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +16, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +14, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +14"
+    desc: "Art Lore +15, Cooking Lore +17, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +16, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +14, [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] +14"
 abilityMods: [3, 3, 3, 4, 1, 5]
 ac: 24
 armorclass:
@@ -42,7 +42,7 @@ armorclass:
 hp: 118
 health:
   - name: "HP"
-    desc: "118; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 8"
+    desc: "118; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] 8"
 speed: "20 feet, swim 40 feet"
 attacks:
   - name: "Melee"
@@ -53,12 +53,12 @@ attacks:
     desc: "⬻ spitball +13 (range 20 feet) __Damage__ 4d6+5 bludgeoning plus listless saliva"
 abilities_bot:
   - name: "Listless Saliva"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The tantriog's essence is imbued with their endless ennui. Any creature hit by the tantriog's beak or spitball Strikes must succeed at a DC 24 Will save or become stunned 1 (stunned 2 on a critical failure)."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]]) The tantriog's essence is imbued with their endless ennui. Any creature hit by the tantriog's beak or spitball Strikes must succeed at a DC 24 Will save or become stunned 1 (stunned 2 on a critical failure)."
   - name: "Shell Defense"
     desc: "⬻ The tantriog retracts their limbs and head into their shell and ends their turn. This increases their AC to 26, but they can't act except to reemerge, which they can do as a single action. Impressing a Tantriog A tantriog loves seeing a new sight or impressive exhibition of skill. Anyone who wants to stay in a tantriog's good graces needs to keep the new experiences flowing. For this reason, many tantriogs have formed unlikely friendships with gnomes, whose need to seek out new experiences provides common ground."
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 25 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/spout|Spout]] - __3rd__ Wall of Water (×3)"
+    desc: "DC 25 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/Spout|Spout]] - __3rd__ Wall of Water (×3)"
 sourcebook: "_Rage of Elements_, page 187."
 ```
 

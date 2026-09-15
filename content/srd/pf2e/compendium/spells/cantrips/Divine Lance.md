@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Attack`  `Cantrip`  `Concentrate`  `Manipulate`  `Sanctified`  `Spirit`
 
-- **Tradition**: Divine
+- **Tradition**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2)
 - **Range**: 60 feet
 - **Target**: 1 creature
 - **Defense**: AC

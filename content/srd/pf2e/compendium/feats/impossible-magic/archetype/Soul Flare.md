@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/soulforger|Soulforger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/soulforger-dedication|Soulforger Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Soulforger|Soulforger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Soulforger Dedication|Soulforger Dedication]]
 - **Trigger**: An attack you made with a soulforged weapon misses a creature, or a creature hits you with an attack while you’re either wearing manifested soulforged armor or have your soulforged shield raised.
 - **Requirements**: Your soulforged armament is manifested.
 

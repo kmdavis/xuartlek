@@ -24,23 +24,23 @@ Dexterity or Intelligence
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/dogslicer|Dogslicer]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Dogslicer|Dogslicer]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Travel|Travel]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Fire|Fire]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/vanishing-tracks|Vanishing Tracks]]
+[[srd/pf2e/compendium/spells/rank-1/Vanishing Tracks|Vanishing Tracks]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/fireball|Fireball]]
+[[srd/pf2e/compendium/spells/rank-3/Fireball|Fireball]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/unfettered-pack|Unfettered Pack]]
+[[srd/pf2e/compendium/spells/rank-7/Unfettered Pack|Unfettered Pack]]
 
 *Source: Divine Mysteries p. 312*

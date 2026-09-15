@@ -28,10 +28,10 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; (19 to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]])"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; up to 3 additional languages spoken in their nation"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]; up to 3 additional languages spoken in their nation"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +22, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +22, [[srd/pf2e/compendium/rules-elements/skills/lore|Guild Lore]] +17, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +19, [[srd/pf2e/compendium/rules-elements/skills/lore|Legal Lore]] +19, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +22"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +22, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +22, [[srd/pf2e/compendium/rules-elements/skills/Lore|Guild Lore]] +17, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +19, [[srd/pf2e/compendium/rules-elements/skills/Lore|Legal Lore]] +19, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +22"
 abilityMods: [0, 2, 1, 3, 3, 4]
 abilities_top:
   - name: "Political Specialist"
@@ -52,15 +52,15 @@ abilities_mid:
   - name: "Cutting Counterpoint"
     desc: "⬲"
   - name: "Trigger"
-    desc: "The prime minister hears a creature attempt a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], or an [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check against any creature other than the prime minister"
+    desc: "The prime minister hears a creature attempt a [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], or an [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] check against any creature other than the prime minister"
   - name: "Effect"
     desc: "The prime minister interrupts with a witty barb, cutting the credibility of the creature's argument. The prime minister attempts their own check of the same type. If the result is higher than that of the triggering check, the triggering check is considered a failure regardless of its roll. In extended negotiations, like a Victory Point challenge, the prime minister can't use this ability again until every creature in the discussion has had an opportunity to attempt a check (even if they decide not to make one)."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ rapier +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6 piercing"
+    desc: "⬻ rapier +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]]) __Damage__ 1d6 piercing"
   - name: "Melee"
-    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4 bludgeoning"
+    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4 bludgeoning"
 sourcebook: "_NPC Core_, page 110."
 ```
 

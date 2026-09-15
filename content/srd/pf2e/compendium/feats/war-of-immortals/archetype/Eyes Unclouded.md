@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ascended-celestial|Ascended Celestial]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/ascended-celestial-dedication|Ascended Celestial Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ascended Celestial|Ascended Celestial]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Ascended Celestial Dedication|Ascended Celestial Dedication]]
 
-Your senses are enhanced by your divine spark, enabling you see things as they truly are, piercing through illusions, transformations, and lies. You’re affected by a constant [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]] spell. Additionally, you gain a +2 circumstance bonus to Perception checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]] and to Perception DCs against attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]] to you. When a creature attempts to Lie to you, they roll the [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] check to Lie twice and use the worse result; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] effect.
+Your senses are enhanced by your divine spark, enabling you see things as they truly are, piercing through illusions, transformations, and lies. You’re affected by a constant [[srd/pf2e/compendium/spells/rank-6/Truesight|_truesight_]] spell. Additionally, you gain a +2 circumstance bonus to Perception checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]] and to Perception DCs against attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]] to you. When a creature attempts to Lie to you, they roll the [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] check to Lie twice and use the worse result; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|misfortune]] effect.
 
 *Source: War of Immortals p. 116*

@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Cantrip`  `Hex`  `Manipulate`  `Uncommon`  `Witch`
 
-- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#The Inscribed One|The Inscribed One]]
+- **Patron Theme**: [[srd/pf2e/compendium/character/Patrons#The Inscribed One|The Inscribed One]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: sustained up to 1 minute

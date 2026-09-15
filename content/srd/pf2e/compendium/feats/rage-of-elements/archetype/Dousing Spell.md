@@ -17,9 +17,9 @@ socialImage: og-image.png
 
 `Archetype`  `Spellshape`  `Water`  `Metamagic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/elementalist|Elementalist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/rage-of-elements/archetype/elementalist-dedication|Elementalist Dedication]]; water is in your elemental philosophy
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Elementalist|Elementalist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/rage-of-elements/archetype/Elementalist Dedication|Elementalist Dedication]]; water is in your elemental philosophy
 
-You enhance your spell with elemental water, soaking the target. If the next action you use is to Cast a Spell targeting a single creature, you soak the target of the spell with water. If the target has persistent acid or fire damage, the DC to end those conditions is reduced to 10, and the creature can attempt a flat check to end those types of persistent damage immediately. The spell gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] trait (causing it to deal extra damage to creatures with weakness to water).
+You enhance your spell with elemental water, soaking the target. If the next action you use is to Cast a Spell targeting a single creature, you soak the target of the spell with water. If the target has persistent acid or fire damage, the DC to end those conditions is reduced to 10, and the creature can attempt a flat check to end those types of persistent damage immediately. The spell gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Water|water]] trait (causing it to deal extra damage to creatures with weakness to water).
 
 *Source: Rage of Elements p. 59*

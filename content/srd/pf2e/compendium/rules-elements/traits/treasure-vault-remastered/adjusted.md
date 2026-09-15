@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Adjusted`
 
-The equipment comes with an adjustment described in its entry. This adjustment is built into the equipment permanently, meaning the equipment can't have another adjustment added, nor can it be swapped out for a different adjustment. If the adjustment alters the item's base statistics, such as adding the [[srd/pf2e/compendium/rules-elements/traits/player-core/noisy|noisy]] trait, that's reflected in the equipment's table entry.
+The equipment comes with an [adjustment](https://2e.aonprd.com/Equipment.aspx?Category=62) described in its entry. This adjustment is built into the equipment permanently, meaning the equipment can't have another adjustment added, nor can it be swapped out for a different adjustment. If the adjustment alters the item's base statistics, such as adding the [[srd/pf2e/compendium/rules-elements/traits/player-core/Noisy|noisy]] trait, that's reflected in the equipment's table entry.
 
 *Source: Treasure Vault (Remastered) p. 216*

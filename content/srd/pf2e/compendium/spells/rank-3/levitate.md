@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Occult
-- **Spell Lists**: Elemental
-- **Deity**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]]
-- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of the Flock|Lesson of the Flock]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
+- **Deity**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Nethys|Nethys]]
+- **Lesson**: [[srd/pf2e/compendium/character/Lessons#Lesson of the Flock|Lesson of the Flock]]
 - **Range**: touch
 - **Target**: 1 unattended object or willing creature
 - **Duration**: 5 minutes

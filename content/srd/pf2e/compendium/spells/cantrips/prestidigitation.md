@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
-- **Spell Lists**: Elemental
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
 - **Range**: 10 feet
 - **Target**: 1 object (cook, lift, or tidy only)
 - **Duration**: sustained

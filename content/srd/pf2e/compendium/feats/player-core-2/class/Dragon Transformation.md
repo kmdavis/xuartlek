@@ -19,9 +19,9 @@ socialImage: og-image.png
 `Barbarian`  `Concentrate`  `Polymorph`  `Primal`  `Rage`
 
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/dragons-rage-wings|Dragon's Rage Wings]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Dragon's Rage Wings|Dragon's Rage Wings]]
 
-You transform into a ferocious Large dragon, gaining the effects of 6th-rank [[srd/pf2e/compendium/spells/rank-6/dragon-form|_dragon form_]] except that you use your own AC and attack modifier, you apply your extra damage from [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|Rage]], and the Dragon Breath action uses your class DC. Add the temporary Hit Points from _dragon form_ to any you already have from entering a rage (or any other action with the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/rage|rage]] trait). The action to Dismiss the transformation gains the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/rage|rage]] trait.
+You transform into a ferocious Large dragon, gaining the effects of 6th-rank [[srd/pf2e/compendium/spells/rank-6/Dragon Form|_dragon form_]] except that you use your own AC and attack modifier, you apply your extra damage from [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|Rage]], and the Dragon Breath action uses your class DC. Add the temporary Hit Points from _dragon form_ to any you already have from entering a rage (or any other action with the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Rage|rage]] trait). The action to Dismiss the transformation gains the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Rage|rage]] trait.
 
  At 18th level, you gain a +20-foot status bonus to your fly Speed, your damage bonus with dragon Strikes increases to +12, and you gain a +14 status bonus to your Dragon Breath damage.
 

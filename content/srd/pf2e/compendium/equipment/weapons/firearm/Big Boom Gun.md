@@ -28,8 +28,8 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Firearm
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
 Developed by a goblin weaponsmith who missed the ‘hand' part of ‘hand cannon', this comically-oversized gun has a heavily reinforced barrel and is loaded with a worrisome quantity of gunpowder. This hand cannon is a martial weapon, instead of a simple weapon. It has the fatal d12 trait and a range increment of 20 feet. It also has the following modified critical failure condition:
 

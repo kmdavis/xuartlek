@@ -17,6 +17,6 @@ socialImage: og-image.png
 - **Frequency**: once per hour
 - **Trigger**: An enemy reduces you to 0 Hit Points but doesn't kill you.
 
-Your commitment to protecting others keeps you going, even against insurmountable odds. Instead of being knocked out, you're reduced to 1 Hit Point. You increase your [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] value by 1 and gain a number of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] equal to your level that last for 1 round.
+Your commitment to protecting others keeps you going, even against insurmountable odds. Instead of being knocked out, you're reduced to 1 Hit Point. You increase your [[srd/pf2e/compendium/rules-elements/Conditions#Wounded|wounded]] value by 1 and gain a number of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Temporary Hit Points|temporary Hit Points]] equal to your level that last for 1 round.
 
 *Source: Battlecry! p. 48*

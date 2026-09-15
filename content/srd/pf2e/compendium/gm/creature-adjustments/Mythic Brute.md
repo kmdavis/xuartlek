@@ -10,7 +10,7 @@ socialImage: og-image.png
 
 # Mythic Brute  *Creature Adjustment*
 
-Add the listed [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-monster-templates#Basic Mythic Abilities|mythic abilities]] up to the creature's level.
+Add the listed [[srd/pf2e/books/war-of-immortals/mythic-rules/Mythic Monster Templates#Basic Mythic Abilities|mythic abilities]] up to the creature's level.
 
 Mythic brutes are hardy and physically resilient foes who fight their enemies directly, taking hits and lashing out with powerful physical attacks. 
 
@@ -22,6 +22,6 @@ Mythic brutes are hardy and physically resilient foes who fight their enemies di
 
 ### Bosses Or Bodyguards
 
- Mythic brutes are creatures of physical might or stature. Mythic brutes designed from the ground up, instead of by applying the template to an existing creature, are typically built using the brute or solider [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures|base road maps]]. When constructing encounters using mythic brutes, they work best as bodyguards operating in pairs to protect a spellcaster or as the leader of a group of weaker monsters. Due to their incredible toughness and staying power, when constructing an encounter using a mythic brute you should avoid using single monsters whose level is more than 2 levels higher than the party's.
+ Mythic brutes are creatures of physical might or stature. Mythic brutes designed from the ground up, instead of by applying the template to an existing creature, are typically built using the brute or solider [[srd/pf2e/books/gm-core/chapter-2-building-games/Building Creatures|base road maps]]. When constructing encounters using mythic brutes, they work best as bodyguards operating in pairs to protect a spellcaster or as the leader of a group of weaker monsters. Due to their incredible toughness and staying power, when constructing an encounter using a mythic brute you should avoid using single monsters whose level is more than 2 levels higher than the party's.
 
 *Source: War of Immortals p. 169*

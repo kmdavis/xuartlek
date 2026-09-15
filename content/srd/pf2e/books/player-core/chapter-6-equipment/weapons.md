@@ -1,6 +1,7 @@
 ---
 title: "Weapons"
 aliases: ["Weapons"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2186"
 citation: "Player Core pg. 275"
-socialImage: og-image.png
 ---
 
 # Weapons
@@ -30,7 +30,7 @@ When making an attack roll, determine the result by rolling 1d20 and adding your
 
 If you use an action with the attack trait more than once on the same turn, your attacks after the first take a penalty called a multiple attack penalty. Your second attack takes a –5 penalty, and any subsequent attacks take a –10 penalty.
 
-The multiple attack penalty doesn't apply to attacks you make when it isn't your turn (such as attacks made as part of a reaction, like Reactive Strike). You can use a weapon with the agile trait (page 282) to reduce your multiple attack penalty.
+The multiple attack penalty doesn't apply to attacks you make when it isn't your turn (such as attacks made as part of a reaction, like Reactive Strike). You can use a weapon with the [agile](https://2e.aonprd.com/Traits.aspx?ID=170) trait (page 282) to reduce your multiple attack penalty.
 
 ## Damage Rolls
 
@@ -40,7 +40,7 @@ When the result of your attack roll with a weapon or unarmed attack equals or ex
 
 **Ranged damage roll = damage die of weapon (+ Strength modifier for a thrown weapon or half Strength modifier for a propulsive weapon) + bonuses + penalties**
 
-Ranged weapons don't normally add an attribute modifier to the damage roll, though weapons with the propulsive trait (page 282) add half your Strength modifier (or your full modifier if it is a negative number), and thrown weapons add your full Strength modifier.
+Ranged weapons don't normally add an attribute modifier to the damage roll, though weapons with the [propulsive](https://2e.aonprd.com/Traits.aspx?ID=191) trait (page 282) add half your Strength modifier (or your full modifier if it is a negative number), and thrown weapons add your full Strength modifier.
 
 Magic weapons with striking, greater striking, or major striking runes add one or more weapon damage dice to your damage roll. These extra dice are the same die size as the weapon's damage die. At higher levels, most characters also gain extra damage from weapon specialization.
 

@@ -30,7 +30,7 @@ This staff is topped with carved animal and monster heads. While wielding the st
 
 ---
 
-**Cantrip** [[srd/pf2e/compendium/spells/cantrips/know-the-way|_know the way_]] **1st** [[srd/pf2e/compendium/spells/rank-1/runic-body|_runic body_]], [[srd/pf2e/compendium/spells/rank-1/summon-animal|_summon animal_]] 
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/Know the Way|_know the way_]] **1st** [[srd/pf2e/compendium/spells/rank-1/Runic Body|_runic body_]], [[srd/pf2e/compendium/spells/rank-1/Summon Animal|_summon animal_]] 
 
 ### Animal Staff (Greater)
 
@@ -38,7 +38,7 @@ This staff is topped with carved animal and monster heads. While wielding the st
 
 ---
 
- **2nd** [[srd/pf2e/compendium/spells/rank-2/animal-messenger|_animal messenger_]], [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|_speak with animals_]], summon animal **3rd** [[srd/pf2e/compendium/spells/rank-2/animal-form|_animal form_]], summon animal 
+ **2nd** [[srd/pf2e/compendium/spells/rank-2/Animal Messenger|_animal messenger_]], [[srd/pf2e/compendium/spells/rank-2/Speak with Animals|_speak with animals_]], summon animal **3rd** [[srd/pf2e/compendium/spells/rank-2/Animal Form|_animal form_]], summon animal 
 
 ### Animal Staff (Major)
 
@@ -46,6 +46,6 @@ This staff is topped with carved animal and monster heads. While wielding the st
 
 ---
 
- **4th** summon animal **5th** animal form, [[srd/pf2e/compendium/spells/rank-5/moon-frenzy|_moon frenzy_]], summon animal
+ **4th** summon animal **5th** animal form, [[srd/pf2e/compendium/spells/rank-5/Moon Frenzy|_moon frenzy_]], summon animal
 
 *Source: GM Core p. 278*

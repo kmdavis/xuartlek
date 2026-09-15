@@ -1,6 +1,7 @@
 ---
 title: "Elemental Companions"
 aliases: ["Elemental Companions"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Rage of Elements"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1993"
 citation: "Rage of Elements pg. 39"
-socialImage: og-image.png
 ---
 
 # Elemental Companions
@@ -17,4 +17,4 @@ socialImage: og-image.png
 <sup>RoE p. 39</sup>
 
 The Elemental Planes contain creatures of all sorts, from powerful gods to tiny wisps, and everything in between. The fact that the Elemental Planes contain elementals of animal intelligence that serve a similar role in their ecology is no surprise to scholars of the elements, travelers to the Elemental Planes, or any novice conjurer who has ever summoned a cinder rat.
-The fauna of the Elemental Planes can form bonds with druids and rangers in much the same way as animals do in the Universe. Elemental companions have the [[srd/pf2e/compendium/rules-elements/traits/player-core/elemental|elemental]] trait instead of the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] trait but otherwise use the normal rules for animal companions. Elemental companions are immune to bleed, paralyzed, poison, and sleep. Elemental companions are typically only selected by druids who have both the animal order and a corresponding elemental order (flame for fire elemental, storm for air elemental, and so on).
+The fauna of the Elemental Planes can form bonds with druids and rangers in much the same way as animals do in the [[srd/pf2e/compendium/gm/Planes|Universe]]. Elemental companions have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Elemental|elemental]] trait instead of the [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animal]] trait but otherwise use the normal rules for animal companions. Elemental companions are immune to bleed, [[srd/pf2e/compendium/rules-elements/Conditions|paralyzed]], poison, and sleep. Elemental companions are typically only selected by [[srd/pf2e/compendium/character/classes/classes|druids]] who have both the animal order and a corresponding elemental order (flame for fire elemental, storm for air elemental, and so on).

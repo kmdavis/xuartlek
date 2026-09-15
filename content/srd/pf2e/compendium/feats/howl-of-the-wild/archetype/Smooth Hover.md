@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/winged-warrior|Winged Warrior]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Winged Warrior|Winged Warrior]]
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/winged-warrior-dedication|Winged Warrior Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Winged Warrior Dedication|Winged Warrior Dedication]]
 - **Trigger**: You’re airborne at the end of your turn.
 
 You remain airborne through sheer effort. You don't fall, even if you didn't use [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] or a similar action this turn.

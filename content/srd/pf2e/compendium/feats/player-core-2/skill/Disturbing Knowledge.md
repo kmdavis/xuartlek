@@ -18,11 +18,11 @@ socialImage: og-image.png
 
 `Emotion`  `Fear`  `General`  `Mental`  `Skill`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
 You utter a litany of dreadful names, prophecies, and descriptions of realms beyond mortal comprehension, drawn from your study of forbidden tomes and scrolls. Even those who don't understand your language are unsettled by these dire secrets. Attempt an Occultism check and compare the result to the Will DC of an enemy within 30 feet, or to the Will DCs of any number of enemies within 30 feet if you are legendary in Occultism. Those creatures are temporarily immune for 24 hours.
 
-**Critical Success** The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 round and [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1.
+**Critical Success** The target becomes [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]] for 1 round and [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] 1.
 
 **Success** The target becomes frightened 1.
 

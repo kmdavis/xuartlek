@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/witch|Witch]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/basic-witchcraft|Basic Witchcraft]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Witch|Witch]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Basic Witchcraft|Basic Witchcraft]]
 
 You gain one witch feat. For the purpose of meeting its prerequisites, your witch level is equal to half your character level.
 

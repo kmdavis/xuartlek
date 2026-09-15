@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Tripkee`
 
-You are well versed in tripkee culture and tactics. You gain the trained proficiency in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] and [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]. If you would automatically become trained in one of those skills, you instead become trained in a skill of your choice.
+You are well versed in tripkee culture and tactics. You gain the trained proficiency in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] and [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]. If you would automatically become trained in one of those skills, you instead become trained in a skill of your choice.
 
- You also gain the [[srd/pf2e/compendium/feats/player-core/skill/additional-lore|Additional Lore]] general feat for [[srd/pf2e/compendium/rules-elements/skills/lore|Tripkee Lore]].
+ You also gain the [[srd/pf2e/compendium/feats/player-core/skill/Additional Lore|Additional Lore]] general feat for [[srd/pf2e/compendium/rules-elements/skills/Lore|Tripkee Lore]].
 
 *Source: Player Core 2 p. 38*

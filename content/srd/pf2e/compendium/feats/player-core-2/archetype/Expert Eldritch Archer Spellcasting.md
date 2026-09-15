@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/eldritch-archer|Eldritch Archer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/basic-eldritch-archer-spellcasting|Basic Eldritch Archer Spellcasting]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Eldritch Archer|Eldritch Archer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Basic Eldritch Archer Spellcasting|Basic Eldritch Archer Spellcasting]]
 
-You learn additional eldritch archer magic. You gain the [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|expert spellcasting benefits]].
+You learn additional eldritch archer magic. You gain the [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Spellcasting Archetypes|expert spellcasting benefits]].
 
 ### Expert Eldritch Archer Spellcasting leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/master-eldritch-archer-spellcasting|Master Eldritch Archer Spellcasting]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Master Eldritch Archer Spellcasting|Master Eldritch Archer Spellcasting]]
 
 *Source: Player Core 2 p. 199*

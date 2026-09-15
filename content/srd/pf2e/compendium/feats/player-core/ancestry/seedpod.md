@@ -18,6 +18,6 @@ Your body produces a nearly endless supply of hard seedpods. You gain a seedpod 
 
 ### Seedpod leads to...
 
-[[srd/pf2e/compendium/feats/player-core/ancestry/thorned-seedpod|Thorned Seedpod]]
+[[srd/pf2e/compendium/feats/player-core/ancestry/Thorned Seedpod|Thorned Seedpod]]
 
 *Source: Player Core p. 68*

@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/clawdancer|Clawdancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/clawdancer-dedication|Clawdancer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Clawdancer|Clawdancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Clawdancer Dedication|Clawdancer Dedication]]
 - **Requirements**: Your last action was a successful frenzied claw or spinning talon Strike.
 
-You twist your claw, breaking off a piece in your target. The shard deals 1d6 persistent bleed damage. This increases to 2d6 if your unarmed attacks deal three weapon damage dice, such as under a [[srd/pf2e/compendium/equipment/runes/striking|_greater striking_]] rune, and 3d6 if they deal four weapon damage dice.
+You twist your claw, breaking off a piece in your target. The shard deals 1d6 persistent bleed damage. This increases to 2d6 if your unarmed attacks deal three weapon damage dice, such as under a [[srd/pf2e/compendium/equipment/runes/Striking|_greater striking_]] rune, and 3d6 if they deal four weapon damage dice.
 
 *Source: Howl of the Wild p. 68*

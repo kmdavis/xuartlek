@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Orc`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/orc-ferocity|Orc Ferocity]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/Orc Ferocity|Orc Ferocity]]
 
 Given time to collect yourself after a near-death scrape, you can rebuild your ferocity and withstand additional finishing blows. You can use Orc Ferocity with a frequency of once per hour, rather than once per day.
 

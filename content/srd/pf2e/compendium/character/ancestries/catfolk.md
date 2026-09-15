@@ -64,16 +64,16 @@ Catfolk are given short names in their youth. Adolescent catfolk are free to cho
 
 Amurrun
 
-[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]], Iruxi, [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/Languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/Languages#Halfling|Halfling]], Iruxi, [[srd/pf2e/compendium/rules-elements/Languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 #### Low-Light Vision
 
-You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition due to dim light.
 
 | | |
 | --- | --- |
-| **Land on Your Feet** | When you fall, you take only half the normal damage and don't land [[srd/pf2e/compendium/rules-elements/conditions#Prone\|prone]]. |
+| **Land on Your Feet** | When you fall, you take only half the normal damage and don't land [[srd/pf2e/compendium/rules-elements/Conditions#Prone\|prone]]. |
 
 *Source: Player Core 2 p. 8*

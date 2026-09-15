@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Dragonblood`
 
-You were born with a layer of scales across your entire body that resemble those of your draconic progenitor. When you’re unarmored, the scales give you a +1 item bonus to AC with a Dexterity cap of +3. The item bonus to AC increases to +2 at 5th level. The item bonus to AC from these scales is cumulative with [[srd/pf2e/compendium/equipment/runes/armor-potency|_armor potency runes_]] on your [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]], the [[srd/pf2e/compendium/spells/rank-1/mystic-armor|_mystic armor_]] spell, or [[srd/pf2e/compendium/equipment/worn-items/bands-of-force|_bands of force_]].
+You were born with a layer of scales across your entire body that resemble those of your draconic progenitor. When you’re unarmored, the scales give you a +1 item bonus to AC with a Dexterity cap of +3. The item bonus to AC increases to +2 at 5th level. The item bonus to AC from these scales is cumulative with [[srd/pf2e/compendium/equipment/runes/Armor Potency|_armor potency runes_]] on your [[srd/pf2e/compendium/equipment/Armor#Explorer's Clothing|explorer's clothing]], the [[srd/pf2e/compendium/spells/rank-1/Mystic Armor|_mystic armor_]] spell, or [[srd/pf2e/compendium/equipment/worn-items/Bands of Force|_bands of force_]].
 
 **Special** You can select this feat only at 1st level, and you can't retrain into or out of this feat.
 

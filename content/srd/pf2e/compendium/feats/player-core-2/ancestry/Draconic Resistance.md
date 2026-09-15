@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Dragonblood`
 
-Draconic magic safeguards you against harm. You gain resistance equal to half your level (minimum 1) to the damage type associated with your draconic exemplar. Double this resistance against damage of that type dealt to you by [[srd/pf2e/compendium/rules-elements/traits/player-core/dragon|dragons]]. If your draconic exemplar is associated with bludgeoning, piercing, or slashing damage, instead of gaining resistance to that type you can choose acid, cold, fire, electricity, or sonic.
+Draconic magic safeguards you against harm. You gain resistance equal to half your level (minimum 1) to the damage type associated with your draconic exemplar. Double this resistance against damage of that type dealt to you by [[srd/pf2e/compendium/rules-elements/traits/player-core/Dragon|dragons]]. If your draconic exemplar is associated with bludgeoning, piercing, or slashing damage, instead of gaining resistance to that type you can choose acid, cold, fire, electricity, or sonic.
 
 *Source: Player Core 2 p. 46*

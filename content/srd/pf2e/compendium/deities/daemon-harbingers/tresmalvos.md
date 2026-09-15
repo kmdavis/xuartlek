@@ -24,13 +24,13 @@ Dexterity or Wisdom
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/halberd|Halberd]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/Halberd|Halberd]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/domains#Water|Water]], [[srd/pf2e/compendium/character/domains#Wealth|Wealth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/Domains#Water|Water]], [[srd/pf2e/compendium/character/Domains#Wealth|Wealth]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Plague|Plague]], [[srd/pf2e/compendium/character/domains#Swarm|Swarm]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Plague|Plague]], [[srd/pf2e/compendium/character/Domains#Swarm|Swarm]]
 
 **Cleric Spells**
 
@@ -38,9 +38,9 @@ Dexterity or Wisdom
 Animal Allies
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/hydraulic-torrent|Hydraulic Torrent]]
+[[srd/pf2e/compendium/spells/rank-4/Hydraulic Torrent|Hydraulic Torrent]]
 
 - **8th**
-[[srd/pf2e/compendium/spells/rank-8/desiccate|Desiccate]]
+[[srd/pf2e/compendium/spells/rank-8/Desiccate|Desiccate]]
 
 *Source: Divine Mysteries p. 302*

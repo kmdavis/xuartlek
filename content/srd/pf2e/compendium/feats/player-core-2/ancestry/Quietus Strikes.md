@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Duskwalker`
 
-Your connection to the [[srd/pf2e/compendium/gm/planes#Boneyard|Boneyard]] empowers you to bring death to all forms of life and unlife, exploiting their weaknesses. All your weapon and unarmed Strikes are [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] and deal 1 additional void damage to living creatures and 1 additional vitality damage to [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]]. The extra damage increases to 2 if the Strike has a _[[srd/pf2e/compendium/equipment/runes/weapon-potency|+3 potency rune]]_.
+Your connection to the [[srd/pf2e/compendium/gm/Planes#Boneyard|Boneyard]] empowers you to bring death to all forms of life and unlife, exploiting their weaknesses. All your weapon and unarmed Strikes are [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]] and deal 1 additional void damage to living creatures and 1 additional vitality damage to [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]]. The extra damage increases to 2 if the Strike has a _[[srd/pf2e/compendium/equipment/runes/Weapon Potency|+3 potency rune]]_.
 
 *Source: Player Core 2 p. 49*

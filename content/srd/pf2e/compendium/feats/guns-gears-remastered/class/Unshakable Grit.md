@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Gunslinger`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/class/grit-and-tenacity|Grit and Tenacity]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Grit and Tenacity|Grit and Tenacity]]
 
 You've become hardened by conflict after everything you've faced, and you possess a certain intractable stubbornness. If the reroll granted to you by your Grit and Tenacity reaction is a success, you get a critical success instead; if it's a critical failure, you get a failure instead.
 

@@ -20,6 +20,6 @@ socialImage: og-image.png
 - **Price**: 75 gp
 - **Usage**: implanted
 
-You replace your eyes with ones similar to an insect’s or a crustacean’s, which allow you to better pinpoint movement. Once per day when you attempt a flat check to target a creature that’s [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] from you, you can roll twice and take the better result.
+You replace your eyes with ones similar to an insect’s or a crustacean’s, which allow you to better pinpoint movement. Once per day when you attempt a flat check to target a creature that’s [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] from you, you can roll twice and take the better result.
 
 *Source: Howl of the Wild p. 98*

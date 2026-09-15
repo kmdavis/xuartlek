@@ -5,13 +5,13 @@ tags:
 - trait/magical
 - trait/staff
 - equipment/level/4
-aliases: ["Staff Of The Mage's Friend"]
+aliases: ["Staff of the Mage's Friend"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5171"
 source: "Impossible Magic"
 socialImage: og-image.png
 ---
 
-# Staff Of The Mage's Friend  *Item 4+*
+# Staff of the Mage's Friend  *Item 4+*
 
 `Magical`  `Staff`
 
@@ -30,7 +30,7 @@ When this staff is prepared, the carved wooden animal figurine atop it shifts to
 
 ---
 
-**Cantrip** _protect companion_**1st** [[srd/pf2e/compendium/spells/rank-1/pet-cache|_pet cache_]]
+**Cantrip** _protect companion_**1st** [[srd/pf2e/compendium/spells/rank-1/Pet Cache|_pet cache_]]
 
 ### Greater Staff Of The Mage's Friend
 
@@ -38,7 +38,7 @@ When this staff is prepared, the carved wooden animal figurine atop it shifts to
 
 ---
 
-**2nd** [[srd/pf2e/compendium/spells/rank-2/floating-harness|_floating harness_]]**3rd** [[srd/pf2e/compendium/spells/rank-3/familiars-call|_familiar's call_]], [[srd/pf2e/compendium/spells/rank-3/tiny-wings|_tiny wings_]]
+**2nd** [[srd/pf2e/compendium/spells/rank-2/Floating Harness|_floating harness_]]**3rd** [[srd/pf2e/compendium/spells/rank-3/Familiar's Call|_familiar's call_]], [[srd/pf2e/compendium/spells/rank-3/Tiny Wings|_tiny wings_]]
 
 ### Major Staff Of The Mage's Friend
 
@@ -46,6 +46,6 @@ When this staff is prepared, the carved wooden animal figurine atop it shifts to
 
 ---
 
-**4th** [[srd/pf2e/compendium/spells/rank-3/defensive-prescience|_defensive prescience_]], [[srd/pf2e/compendium/spells/rank-3/overload-connection|_overload connection_]] **5th** _familiar's call_, [[srd/pf2e/compendium/spells/rank-4/sudden-swarm|_sudden swarm_]]
+**4th** [[srd/pf2e/compendium/spells/rank-3/Defensive Prescience|_defensive prescience_]], [[srd/pf2e/compendium/spells/rank-3/Overload Connection|_overload connection_]] **5th** _familiar's call_, [[srd/pf2e/compendium/spells/rank-4/Sudden Swarm|_sudden swarm_]]
 
 *Source: Impossible Magic p. 240*

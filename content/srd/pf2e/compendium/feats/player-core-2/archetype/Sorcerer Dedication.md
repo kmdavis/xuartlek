@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`  `Multiclass`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/sorcerer|Sorcerer]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Sorcerer|Sorcerer]]
 - **Prerequisites**: Charisma +2
 
 Choose a bloodline. You become trained in the bloodline’s two skills; for each of these skills in which you were already trained, you become trained in a skill of your choice.
@@ -25,6 +25,6 @@ You cast spells like a sorcerer. You gain access to the [[srd/pf2e/compendium/ru
 
 ### Sorcerer Dedication leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/basic-blood-potency|Basic Blood Potency]], [[srd/pf2e/compendium/feats/player-core-2/archetype/basic-bloodline-spell|Basic Bloodline Spell]], [[srd/pf2e/compendium/feats/player-core-2/archetype/basic-sorcerer-spellcasting|Basic Sorcerer Spellcasting]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Basic Blood Potency|Basic Blood Potency]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Basic Bloodline Spell|Basic Bloodline Spell]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Basic Sorcerer Spellcasting|Basic Sorcerer Spellcasting]]
 
 *Source: Player Core 2 p. 181*

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-You raise what seems like an endless torrent of walking corpses. You learn the [[srd/pf2e/compendium/spells/focus/zombie-horde|_zombie horde_]] grave spell.
+You raise what seems like an endless torrent of walking corpses. You learn the [[srd/pf2e/compendium/spells/focus/Zombie Horde|_zombie horde_]] grave spell.
 
 *Source: Impossible Magic p. 37*

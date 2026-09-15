@@ -1,6 +1,7 @@
 ---
 title: "Running Encounters"
 aliases: ["Running Encounters"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2538"
 citation: "GM Core pg. 24"
-socialImage: og-image.png
 ---
 
 # Running Encounters
@@ -57,7 +57,7 @@ You might find that if a player has a low Perception but a high modifier in anot
 
 When members on one or both sides of an impending battle are being stealthy, you'll need to deal with the impacts of Stealth on the start of the encounter. Anyone who's Avoiding Notice should attempt a Stealth check for their initiative. All the normal bonuses and penalties apply, including any bonus for having cover. You can give them the option to roll Perception instead, but if they do, they forsake their Stealth and are definitely going to be detected.
 
-To determine whether someone is [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] or [[srd/pf2e/compendium/rules-elements/conditions#Unnoticed|unnoticed]] by other participants in the encounter, you still compare their [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] check for initiative to the Perception DC of their enemies. They're undetected and unnoticed by anyone whose DC they meet or exceed. So what do you do if someone rolls better than everyone else on initiative, but all their foes beat their Perception DC? Well, all the enemies are undetected, but not unnoticed. That means the participant who rolled high still knows someone is around and can start moving about, Seeking, and otherwise preparing to fight. The characters Avoiding Notice still have a significant advantage since the other characters need to spend actions and attempt additional checks in order to find them.
+To determine whether someone is [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]] or [[srd/pf2e/compendium/rules-elements/Conditions#Unnoticed|unnoticed]] by other participants in the encounter, you still compare their [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] check for initiative to the Perception DC of their enemies. They're undetected and unnoticed by anyone whose DC they meet or exceed. So what do you do if someone rolls better than everyone else on initiative, but all their foes beat their Perception DC? Well, all the enemies are undetected, but not unnoticed. That means the participant who rolled high still knows someone is around and can start moving about, Seeking, and otherwise preparing to fight. The characters Avoiding Notice still have a significant advantage since the other characters need to spend actions and attempt additional checks in order to find them.
 
 What if both sides are sneaking about? They might just sneak past each other entirely, or they might suddenly run into one another if they're heading into the same location.
 

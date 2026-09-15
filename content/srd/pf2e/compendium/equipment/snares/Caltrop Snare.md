@@ -19,9 +19,9 @@ socialImage: og-image.png
 
 - **Price**: 3 gp
 
-This snare consists of a hidden canister of [[srd/pf2e/compendium/equipment/adventuring-gear/caltrops|caltrops]] attached to a trip wire. When the snare is triggered, it flings the caltrops into either the snare's square or a square adjacent to the snare. You choose which square when you set up the snare. 
-If the caltrops scatter into the same square as a creature, that creature must attempt the [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] check immediately.
+This snare consists of a hidden canister of [[srd/pf2e/compendium/equipment/adventuring-gear/Caltrops|caltrops]] attached to a trip wire. When the snare is triggered, it flings the caltrops into either the snare's square or a square adjacent to the snare. You choose which square when you set up the snare. 
+If the caltrops scatter into the same square as a creature, that creature must attempt the [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] check immediately.
 
-**Craft Requirements** Supply a container of [[srd/pf2e/compendium/equipment/adventuring-gear/caltrops|caltrops]].
+**Craft Requirements** Supply a container of [[srd/pf2e/compendium/equipment/adventuring-gear/Caltrops|caltrops]].
 
 *Source: Player Core 2 p. 298*

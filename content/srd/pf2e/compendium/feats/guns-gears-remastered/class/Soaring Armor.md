@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Inventor`  `Modification`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/innovations#Armor|armor innovation]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Innovations#Armor|armor innovation]]
 
 Whether through a release of jets of flame, propeller blades, sonic bursts, streamlined aerodynamic structure, electromagnetic fields, or some combination of the above, you've managed to free your innovation from the bonds of gravity! While wearing your innovation, you gain a fly Speed equal to your land Speed.
 

@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
 Your techniques allow you to fight as you climb. You’re not offguard while Climbing and can Climb with a hand occupied. You must still use another hand and both legs to Climb.
 

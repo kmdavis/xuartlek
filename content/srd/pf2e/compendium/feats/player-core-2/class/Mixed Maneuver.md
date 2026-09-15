@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Monk`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
 You leverage your knowledge of martial arts to mix different maneuvers together into a single flowing combination. Choose any two of [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]], and [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]]. Attempt both of the attacks you chose against the same or different creatures, but don't apply the multiple attack penalty until after resolving both attacks.
 

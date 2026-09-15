@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Air`  `Concentrate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: Adanye, [[srd/pf2e/compendium/deities/empyreal-lords/andoletta|Andoletta]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/maat|Ma’at]], [[srd/pf2e/compendium/deities/infernal-dukes/malthus|Malthus]], [[srd/pf2e/compendium/deities/empyreal-lords/ylimancha|Ylimancha]]
-- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Whisper of Wings|Whisper of Wings]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Adanye, [[srd/pf2e/compendium/deities/empyreal-lords/Andoletta|Andoletta]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/Ma’at|Ma’at]], [[srd/pf2e/compendium/deities/infernal-dukes/Malthus|Malthus]], [[srd/pf2e/compendium/deities/empyreal-lords/Ylimancha|Ylimancha]]
+- **Patron Theme**: [[srd/pf2e/compendium/character/Patrons#Whisper of Wings|Whisper of Wings]]
 - **Trigger**: A creature within range is falling
 - **Range**: 60 feet
 - **Target**: 1 falling creature

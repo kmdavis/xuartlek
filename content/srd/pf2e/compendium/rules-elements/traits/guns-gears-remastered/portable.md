@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Portable`
 
-Portable siege weapons, such as [[srd/pf2e/compendium/equipment/siege-weapons/battering-ram|battering rams]], can be more easily carried and have a role in both warfare and smaller conflicts or exploration.
+Portable siege weapons, such as [[srd/pf2e/compendium/equipment/siege-weapons/Battering Ram|battering rams]], can be more easily carried and have a role in both warfare and smaller conflicts or exploration.
 
 *Source: Guns & Gears (Remastered) p. 235*

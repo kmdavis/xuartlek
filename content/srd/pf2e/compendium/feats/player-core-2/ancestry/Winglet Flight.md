@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Kobold`
 
 - **Frequency**: once per round
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/winglets|Winglets]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Winglets|Winglets]]
 
 Intense use and exercise have made your winglets more powerful. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]]. If you don't normally have a fly Speed, you gain a fly Speed of 20 feet for this movement. If you aren't on solid ground at the end of this movement, you fall.
 

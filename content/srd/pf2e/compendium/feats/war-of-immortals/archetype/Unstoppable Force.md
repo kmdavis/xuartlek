@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/eternal-legend|Eternal Legend]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/immovable-object|Immovable Object]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Eternal Legend|Eternal Legend]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Immovable Object|Immovable Object]]
 
-While you are in the stance provided by Immovable Object, you ignore [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] and greater difficult terrain. Once per 10 minutes, if you [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] your Immovable Object stance, you can Stride as a free action. At the end of that Stride, your final footfall causes an explosion of energy. Each creature within a 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] takes 14d6 force damage (basic Reflex save against your class DC). Creatures that fail the save are also knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
+While you are in the stance provided by Immovable Object, you ignore [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Difficult Terrain|difficult terrain]] and greater difficult terrain. Once per 10 minutes, if you [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] your Immovable Object stance, you can Stride as a free action. At the end of that Stride, your final footfall causes an explosion of energy. Each creature within a 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] takes 14d6 force damage (basic Reflex save against your class DC). Creatures that fail the save are also knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]].
 
 *Source: War of Immortals p. 129*

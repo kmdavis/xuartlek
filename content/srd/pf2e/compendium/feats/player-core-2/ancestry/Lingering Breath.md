@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Dragonblood`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/breath-of-the-dragon|Breath of the Dragon]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Breath of the Dragon|Breath of the Dragon]]
 
-Your draconic breath destroys the surrounding environment and leaves your enemies in pain. When you use Breath of the Dragon, the area of your breath becomes difficult terrain for 1 minute. In addition, a creature who fails or critically fails its saving throw takes 2d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] of the same type.
+Your draconic breath destroys the surrounding environment and leaves your enemies in pain. When you use Breath of the Dragon, the area of your breath becomes difficult terrain for 1 minute. In addition, a creature who fails or critically fails its saving throw takes 2d6 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent damage]] of the same type.
 
 *Source: Player Core 2 p. 47*

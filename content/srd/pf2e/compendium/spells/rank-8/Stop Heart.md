@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Death`  `Manipulate`  `Void`  `Negative`
 
-- **Traditions**: Divine, Occult
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: touch
 - **Target**: 1 living creature
 - **Defense**: Fortitude
@@ -27,7 +27,7 @@ With a cruel grasp, you reach into your opponent and squeeze at their heart. The
 
 **Critical Success** The target is unaffected.
 
-**Success** The target takes half damage and is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1.
+**Success** The target takes half damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] 1.
 
 **Failure** The target takes full damage and is sickened 2.
 

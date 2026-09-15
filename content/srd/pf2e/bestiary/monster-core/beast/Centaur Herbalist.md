@@ -30,14 +30,14 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +6, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +7, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +6, [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] +7, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +7, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +7"
 abilityMods: [3, 2, 1, 0, 3, 1]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|Healer's Toolkit]], herbal sachet, Sling (10 bullets)"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit|Healer's Toolkit]], herbal sachet, Sling (10 bullets)"
 ac: 18
 armorclass:
   - name: "AC"
@@ -49,9 +49,9 @@ health:
 speed: "40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ hoof +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d10+4 bludgeoning"
+    desc: "⬻ hoof +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d10+4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ sling +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 50 feet, reload 1) __Damage__ 1d6+1 bludgeoning"
+    desc: "⬻ sling +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Propulsive|Propulsive]], range increment 50 feet, reload 1) __Damage__ 1d6+1 bludgeoning"
 abilities_bot:
   - name: "Load Sachet"
     desc: "⬻"
@@ -60,7 +60,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The centaur herbalist Interacts to load an herbal sachet in her sling. The next ranged Strike she makes with her sling deals an additional 1d6 poison damage."
   - name: "Trample"
-    desc: "⬽ Medium or smaller, hoof, DC 18 Centaur Craftwork Many centaurs appreciate fine weapons and armor. Some craft their own, maintaining designs traditional to their communities, while others use quality armaments they take from their enemies; however, due to their forms, centaurs who want to use armor heavier than [[srd/pf2e/compendium/equipment/armor#Breastplate|breastplates]] need to have it tailor-made"
+    desc: "⬽ Medium or smaller, hoof, DC 18 Centaur Craftwork Many centaurs appreciate fine weapons and armor. Some craft their own, maintaining designs traditional to their communities, while others use quality armaments they take from their enemies; however, due to their forms, centaurs who want to use armor heavier than [[srd/pf2e/compendium/equipment/Armor#Breastplate|breastplates]] need to have it tailor-made"
 sourcebook: "_Monster Core_, page 58."
 ```
 

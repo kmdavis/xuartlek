@@ -17,6 +17,6 @@ socialImage: og-image.png
 - **Prerequisites**: champion's aura
 - **Requirements**: champion’s aura
 
-Your aura protects against the power of the Void. You and all allies in your champion's aura gain resistance 5 to void damage and a +1 status bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] effects.
+Your aura protects against the power of the Void. You and all allies in your champion's aura gain resistance 5 to void damage and a +1 status bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]] effects.
 
 *Source: Player Core 2 p. 98*

@@ -19,9 +19,9 @@ socialImage: og-image.png
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-This sticky fluid is made from the silk glands of giant spiders. When you drink a spiderfoot brew, tiny hairs grow on your hands and feet, granting you a climb Speed and an item bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks made to Climb for the listed duration.
+This sticky fluid is made from the silk glands of giant spiders. When you drink a spiderfoot brew, tiny hairs grow on your hands and feet, granting you a climb Speed and an item bonus to [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks made to Climb for the listed duration.
 
 ### Spiderfoot Brew (Lesser)
 

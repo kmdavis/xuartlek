@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Sorcerer`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/sorcerer|sorcerer]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Sorcerer|sorcerer]] class.
 
 *Source: Player Core 2 p. 318*

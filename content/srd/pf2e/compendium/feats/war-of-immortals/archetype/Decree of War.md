@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Auditory`  `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/prophesied-monarch|Prophesied Monarch]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Prophesied Monarch|Prophesied Monarch]]
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/prophesied-monarch-dedication|Prophesied Monarch Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Prophesied Monarch Dedication|Prophesied Monarch Dedication]]
 
 You declare your current foes as irredeemable enemies, calling your allies down upon them. Speak your decree; all your knights who hear your decree can use their reaction to [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] up to twice directly toward an enemy and then [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] that enemy if it’s within their reach or range.
 

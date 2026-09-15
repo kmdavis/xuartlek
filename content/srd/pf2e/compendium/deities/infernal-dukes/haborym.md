@@ -24,23 +24,23 @@ Strength or Wisdom
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/longspear|Longspear]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/Longspear|Longspear]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Fire|Fire]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Toil|Toil]], [[srd/pf2e/compendium/character/domains#Tyranny|Tyranny]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Toil|Toil]], [[srd/pf2e/compendium/character/Domains#Tyranny|Tyranny]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/thunderstrike|Thunderstrike]]
+[[srd/pf2e/compendium/spells/rank-1/Thunderstrike|Thunderstrike]]
 
 - **3rd**
 Phantom Prison
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/wave-of-despair|Wave of Despair]]
+[[srd/pf2e/compendium/spells/rank-5/Wave of Despair|Wave of Despair]]
 
 *Source: Divine Mysteries p. 314*

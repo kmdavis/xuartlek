@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/fighter|Fighter]], Eagle Knight (Level 8), Blackjacket (Level 6), Ulfen Guard (Level 4)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/fighter-dedication|Fighter Dedication]] or Blackjacket Dedication
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Fighter|Fighter]], Eagle Knight (Level 8), Blackjacket (Level 6), Ulfen Guard (Level 4)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Fighter Dedication|Fighter Dedication]] or Blackjacket Dedication
 
 You gain the Reactive Strike reaction.
 

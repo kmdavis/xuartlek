@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Nephilim`
 
-Your spilled blood is sanctified, with effects similar to those of holy water. Whenever a [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiend]], [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]], or creature with a weakness to holy drinks your blood or deals piercing or slashing damage to you with jaws, fangs, or a similar attack, that creature takes 1d6 spirit damage with the [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] trait. You gain a +4 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] checks to Craft holy water using your blood as one of the ingredients.
+Your spilled blood is sanctified, with effects similar to those of holy water. Whenever a [[srd/pf2e/compendium/rules-elements/traits/player-core/Fiend|fiend]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]], or creature with a weakness to holy drinks your blood or deals piercing or slashing damage to you with jaws, fangs, or a similar attack, that creature takes 1d6 spirit damage with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]] trait. You gain a +4 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] checks to Craft holy water using your blood as one of the ingredients.
 
 *Source: Player Core p. 80*

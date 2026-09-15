@@ -30,6 +30,8 @@ import unicodedata
 from dataclasses import dataclass, field
 from pathlib import Path
 
+from naming import note_filename
+
 import requests
 from bs4 import BeautifulSoup, NavigableString, Tag
 
@@ -139,9 +141,14 @@ def parse_index(index_html: str, books: list[str]) -> list[Entry]:
 def assign_paths(entries: list[Entry], root: Path) -> None:
     """Give every entry an output path.
 
-    A chapter with sections becomes ``book/chapter/index.md`` so Quartz and
+    A chapter with sections becomes ``book/chapter/chapter.md`` so Quartz and
     Obsidian both treat it as the folder's landing page. A chapter with no
     sections is just ``book/chapter.md``.
+
+    The folder note repeats the folder name rather than being ``index.md``:
+    that is what Obsidian's folder-notes plugin expects with ``folderNoteName``
+    set to ``{{folder_name}}``, and it keeps the note findable by name in
+    search. Both forms slugify to the same URL, so this is presentation only.
     """
     by_id = {e.aon_id: e for e in entries}
     has_children = {e.chapter_id for e in entries if e.chapter_id is not None}
@@ -150,13 +157,17 @@ def assign_paths(entries: list[Entry], root: Path) -> None:
         book_dir = root / slugify(e.book)
         if e.is_chapter:
             if e.aon_id in has_children:
-                e.path = book_dir / slugify(e.title) / "index.md"
+                folder = slugify(e.title)
+                e.path = book_dir / folder / f"{folder}.md"
             else:
-                e.path = book_dir / f"{slugify(e.title)}.md"
+                e.path = book_dir / f"{note_filename(e.title)}.md"
         else:
             chapter = by_id.get(e.chapter_id)
             chapter_slug = slugify(chapter.title) if chapter else "misc"
-            e.path = book_dir / chapter_slug / f"{slugify(e.title)}.md"
+            # A chapter is a category, so its folder stays kebab-case, but the
+            # section inside it is a leaf note with a real name and takes Title
+            # Case. Slugifying it here renamed 333 files back on every run.
+            e.path = book_dir / chapter_slug / f"{note_filename(e.title)}.md"
 
 
 # --------------------------------------------------------------------------
@@ -306,6 +317,21 @@ class Converter:
                 if target:
                     self.resolved_external += 1
                     return f"[[{target}|{text}]]"
+
+        # A bare category page such as "[here](/Languages.aspx)" carries no ID,
+        # so neither lookup above can see it. Try the category map, then fall
+        # back to AoN. Dropping it leaves a sentence ending in a dead "here",
+        # which reads as a broken cross-reference rather than as prose.
+        bare = re.fullmatch(r"/?(\w+)\.aspx(\?[^#]*)?", href)
+        if bare:
+            if self.links is not None:
+                target = self.links.category_page(bare.group(1))
+                if target:
+                    self.resolved_external += 1
+                    return f"[[{target}|{text}]]"
+            self.unresolved += 1
+            query = (bare.group(2) or "").replace("&amp;", "&")
+            return f"[{text}]({BASE}/{bare.group(1)}.aspx{query})"
 
         self.unresolved += 1
         if self.external_links:
@@ -473,6 +499,10 @@ def render_page(entry: Entry, body: str, source: str | None, contents: list[str]
         "---",
         f"title: {yaml_escape(entry.title)}",
         f"aliases: [{yaml_escape(entry.title)}]",
+        # Pin one shared OG image. Without this Quartz renders a bespoke social
+        # card per page: 12,614 images and ~20 extra minutes of CI for pages
+        # nobody shares. Removing this line is a 4x build regression.
+        "socialImage: og-image.png",
         "cssclasses:",
         "  - pf2e",
         "  - pf2e-book",

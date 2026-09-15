@@ -28,10 +28,10 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; darkvision, lifesense 60 feet, scent (imprecise) 60 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], Requian"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/Languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/Languages#Empyrean|Empyrean]], Requian"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +9, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +9, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +4, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +10"
 abilityMods: [3, 3, 4, -3, 3, 2]
 ac: 18
 armorclass:
@@ -40,35 +40,35 @@ armorclass:
 hp: 55
 health:
   - name: "HP"
-    desc: "55; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] 5"
+    desc: "55; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]] 5"
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 1d10+3 piercing plus Grab and shepherd's touch"
+    desc: "⬻ jaws +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]]) __Damage__ 1d10+3 piercing plus Grab and shepherd's touch"
   - name: "Melee"
-    desc: "⬻ claw +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 1d6+3 slashing plus shepherd's touch"
+    desc: "⬻ claw +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]]) __Damage__ 1d6+3 slashing plus shepherd's touch"
 abilities_bot:
   - name: "Pounce"
     desc: "⬻ The esobok Strides and then makes a Strike. If it began this action hidden, it remains hidden until after the Strike."
   - name: "Wrench Spirit"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]])"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|Attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|Incapacitation]])"
   - name: "Requirement"
-    desc: "A creature is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] by the esobok's jaws"
+    desc: "A creature is [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] by the esobok's jaws"
   - name: "Effect"
-    desc: "The esobok releases the target from the Grab but wrenches its spirit free as it does so. The creature must attempt a DC 20 Will save. Creatures without souls (such as most [[srd/pf2e/compendium/rules-elements/traits/player-core/construct|constructs]]) and creatures whose bodies and souls are one (such as most celestials, [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiends]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/monitor|monitors]]) who roll a failure or critical failure on the save get a success instead."
+    desc: "The esobok releases the target from the Grab but wrenches its spirit free as it does so. The creature must attempt a DC 20 Will save. Creatures without souls (such as most [[srd/pf2e/compendium/rules-elements/traits/player-core/Construct|constructs]]) and creatures whose bodies and souls are one (such as most celestials, [[srd/pf2e/compendium/rules-elements/traits/player-core/Fiend|fiends]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Monitor|monitors]]) who roll a failure or critical failure on the save get a success instead."
   - name: "Critical Success"
     desc: "The creature is unaffected."
   - name: "Success"
-    desc: "The target is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]]."
+    desc: "The target is [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned 1]]."
   - name: "Failure"
-    desc: "The esobok wrenches the target's soul from its body into its jaws. [[srd/pf2e/compendium/rules-elements/traits/player-core/mindless|Mindless]] [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] creatures of level 2 or lower are destroyed, other undead creatures are stunned for 1 round, and all other creatures are [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]]. At the end of each of its turns, a creature paralyzed by this effect can attempt a new save to end the effect. The paralysis ends automatically if the esobok attempts a jaws Strike or speaks"
+    desc: "The esobok wrenches the target's soul from its body into its jaws. [[srd/pf2e/compendium/rules-elements/traits/player-core/Mindless|Mindless]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]] creatures of level 2 or lower are destroyed, other undead creatures are stunned for 1 round, and all other creatures are [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]]. At the end of each of its turns, a creature paralyzed by this effect can attempt a new save to end the effect. The paralysis ends automatically if the esobok attempts a jaws Strike or speaks"
   - name: "Critical Failure"
-    desc: "As failure, but as long as a creature is stunned or paralyzed, it's also [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 2]]."
+    desc: "As failure, but as long as a creature is stunned or paralyzed, it's also [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied 2]]."
   - name: "Shepherd's Touch"
-    desc: "An esobok’s Strikes affect [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]] creatures with the effects of a [[srd/pf2e/compendium/equipment/runes/ghost-touch|_ghost touch_]] property rune and deal 1d6 void damage to living creatures and 1d6 vitality damage to [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]]."
+    desc: "An esobok’s Strikes affect [[srd/pf2e/compendium/rules-elements/traits/gm-core/Incorporeal|incorporeal]] creatures with the effects of a [[srd/pf2e/compendium/equipment/runes/Ghost Touch|_ghost touch_]] property rune and deal 1d6 void damage to living creatures and 1d6 vitality damage to [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]]."
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 17 - __2nd__ [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (×3; self only)"
+    desc: "DC 17 - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Invisibility|Invisibility]] (×3; self only)"
 sourcebook: "_Monster Core 2_, page 262."
 ```
 

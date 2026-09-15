@@ -32,7 +32,7 @@ perception:
     desc: "+13; darkvision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +18"
 abilityMods: [6, 0, 6, -5, 0, -5]
 ac: 27
 armorclass:
@@ -41,7 +41,7 @@ armorclass:
 hp: 120
 health:
   - name: "HP"
-    desc: "120 (4 segments); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death effects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], nonlethal attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Weaknesses__ area damage 8, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 8; __Hardness__ 10"
+    desc: "120 (4 segments); __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death effects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], [[srd/pf2e/compendium/rules-elements/Conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], nonlethal attacks, [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]], [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]]; __Weaknesses__ area damage 8, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 8; __Hardness__ 10"
 abilities_mid:
   - name: "Construct Armor"
     desc: "Like normal objects, the animated statues of the animated army have Hardness. This Hardness reduces any damage the animated army takes by an amount equal to the Hardness. Once an animated army is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 23."
@@ -50,11 +50,11 @@ abilities_mid:
 speed: "20 feet; troop movement"
 abilities_bot:
   - name: "Battering Fists"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]])"
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The animated army makes a melee attack against each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] (DC 23 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). The damage dealt depends on the number of actions. ⬻ 1d8+2 bludgeoning damage ⬺ 2d8+8 bludgeoning damage ⬽ 3d8+10 bludgeoning damage"
+    desc: "The animated army makes a melee attack against each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] (DC 23 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save). The damage dealt depends on the number of actions. ⬻ 1d8+2 bludgeoning damage ⬺ 2d8+8 bludgeoning damage ⬽ 3d8+10 bludgeoning damage"
 sourcebook: "_Battlecry!_, page 173."
 ```
 

@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 This rune charges up as you defeat your foes, driving you forward across the battlefield with every victory.
 
-**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Requirements** Your last action or activity reduced an enemy to 0 Hit Points; **Effect** You Stride up to 15 feet. This movement doesn't trigger reactions. You can Burrow, Climb, Fly, or Swim instead of Striding if you have the corresponding movement type.
+**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) **Requirements** Your last action or activity reduced an enemy to 0 Hit Points; **Effect** You Stride up to 15 feet. This movement doesn't trigger reactions. You can Burrow, Climb, Fly, or Swim instead of Striding if you have the corresponding movement type.
 
 ### Advancing
 

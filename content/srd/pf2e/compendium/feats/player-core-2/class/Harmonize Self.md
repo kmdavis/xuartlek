@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: Qi Spells
 
-You can restore your health by tapping into your qi. You gain the [[srd/pf2e/compendium/spells/focus/harmonize-self|_harmonize self_]] qi spell.
+You can restore your health by tapping into your qi. You gain the [[srd/pf2e/compendium/spells/focus/Harmonize Self|_harmonize self_]] qi spell.
 
 *Source: Player Core 2 p. 121*

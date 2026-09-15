@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Sanctified`  `Spirit`
 
-- **Tradition**: Divine
-- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]], [[srd/pf2e/compendium/character/bloodlines#Demonic|Demonic]]
+- **Tradition**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2)
+- **Bloodlines**: [[srd/pf2e/compendium/character/Bloodlines#Angelic|Angelic]], [[srd/pf2e/compendium/character/Bloodlines#Demonic|Demonic]]
 - **Range**: 120 feet
 - **Area**: 20-foot burst
 - **Defense**: Fortitude
@@ -29,9 +29,9 @@ You channel the fury of divinity against your foes. You deal 4d10 spirit damage 
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1.
+**Failure** The creature takes full damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] 1.
 
-**Critical Failure** The creature takes full damage and is sickened 2; while it's sickened, it's also [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1.
+**Critical Failure** The creature takes full damage and is sickened 2; while it's sickened, it's also [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]] 1.
 
 ---
 **Heightened (+1)** The damage increases by 1d10.

@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Oracle
 
-At 2nd level and every 2 levels thereafter, you gain an oracle class feat.
+At 2nd level and every 2 levels thereafter, you gain an [oracle class feat](https://2e.aonprd.com/Feats.aspx?Traits=817).
 
 *Source: Player Core 2 p. 128*

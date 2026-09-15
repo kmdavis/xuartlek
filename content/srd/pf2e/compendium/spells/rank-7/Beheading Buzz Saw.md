@@ -16,17 +16,17 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Metal`
 
-- **Tradition**: Arcane
+- **Tradition**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1)
 - **Area**: 60-foot line
 - **Defense**: Reflex
 
-You compress molten scraps pulled from the [[srd/pf2e/compendium/gm/planes#Plane of Metal|Plane of Metal]] into a spinning disc with gruesome blades protruding from its edges. It wheels forward, slicing through anyone in its path. Each creature in the area takes 5d10 slashing damage and 4d6 persistent bleed damage, with a Reflex save.
+You compress molten scraps pulled from the [[srd/pf2e/compendium/gm/Planes#Plane of Metal|Plane of Metal]] into a spinning disc with gruesome blades protruding from its edges. It wheels forward, slicing through anyone in its path. Each creature in the area takes 5d10 slashing damage and 4d6 persistent bleed damage, with a Reflex save.
 
 **Success** The creature is unaffected.
 
 **Failure** The creature takes full damage.
 
-**Critical Failure** The creature takes double damage. If the creature has a head, it must succeed at a Fortitude save or be decapitated; this kills any creature except ones that don't require a head to live. For creatures with multiple heads, this usually kills the creature only if you sever its last head. This second save has the [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]] traits.
+**Critical Failure** The creature takes double damage. If the creature has a head, it must succeed at a Fortitude save or be decapitated; this kills any creature except ones that don't require a head to live. For creatures with multiple heads, this usually kills the creature only if you sever its last head. This second save has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|incapacitation]] traits.
 
 ---
 **Heightened (+1)** The slashing damage increases by 1d10, and the persistent bleed damage increases by 1d6.

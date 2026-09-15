@@ -17,9 +17,9 @@ socialImage: og-image.png
 
 `Archetype`  `Move`  `Reckless`  `Skill`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/trick-driver|Trick Driver]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/trick-driver-dedication|Trick Driver Dedication]]
-- **Requirements**: You are piloting a vehicle.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Trick Driver|Trick Driver]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Trick Driver Dedication|Trick Driver Dedication]]
+- **Requirements**: You are piloting a [[srd/pf2e/compendium/equipment/vehicles/vehicles|vehicle]].
 
 You throw the vehicle into a barely controlled skid, turning sharply to evade pursuit or bring your weapons to bear. You Drive with a –2 penalty to your piloting check, gaining the effects of the Drive action for the same number of actions you spent to Power Slide. At the end of the movement, if you succeed, you can turn the vehicle up to 90 degrees. If you critically succeed at your piloting check, you can instead turn the vehicle up to 180 degrees.
 

@@ -29,10 +29,10 @@ modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]; [[srd/pf2e/compendium/spells/rank-5/Truespeech|_truespeech_]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +25, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +23, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +22, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +28, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +26, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +24, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +23, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +24"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +25, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +23, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +22, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +28, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +26, [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] +24, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +23, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +24"
 abilityMods: [6, 4, 5, 3, 5, 7]
 ac: 33
 armorclass:
@@ -41,7 +41,7 @@ armorclass:
 hp: 270
 health:
   - name: "HP"
-    desc: "270; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] 15; __Weaknesses__ peachwood 10"
+    desc: "270; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] 15; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/Peachwood|peachwood]] 10"
 abilities_mid:
   - name: "Darting Legs"
     desc: "⬲"
@@ -56,37 +56,37 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +27 __Damage__ 3d12+14 piercing plus jorogumo venom"
   - name: "Melee"
-    desc: "⬻ claw +27 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 3d8+14 slashing"
+    desc: "⬻ claw +27 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 3d8+14 slashing"
   - name: "Ranged"
     desc: "⬻ web +23 (range increment 60 feet) __Damage__ web trap"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]]) The jorogumo takes on the appearance of any Small or Medium spider. This doesn't change their Speed or Strikes."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]]) The jorogumo takes on the appearance of any Small or Medium spider. This doesn't change their Speed or Strikes."
   - name: "Jorogumo Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]])"
   - name: "Saving Throw"
     desc: "DC 32 Fortitude"
   - name: "Maximum Duration"
     desc: "4 hours"
   - name: "Stage 1"
-    desc: "3d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 (1 round)"
+    desc: "3d6 poison damage and [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] 1 (1 round)"
   - name: "Stage 2"
     desc: "3d6 poison damage and stupefied 2 (1 round)"
   - name: "Stage 3"
     desc: "4d6 poison damage and stupefied 2 (1 round)"
   - name: "Stage 4"
-    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]] for 1d4 hours"
+    desc: "[[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]] for 1d4 hours"
   - name: "Spider Legs"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]])"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]])"
   - name: "Requirement"
     desc: "The jorogumo is in humanoid form"
   - name: "Effect"
-    desc: "Eight large spider legs sprout from the jorogumo's back, granting a 40-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Climb Speed|climb Speed]] and allowing them to use the Darting Legs reaction."
+    desc: "Eight large spider legs sprout from the jorogumo's back, granting a 40-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Climb Speed|climb Speed]] and allowing them to use the Darting Legs reaction."
   - name: "Web Trap"
-    desc: "A creature hit by the jorogumo's web attack is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] and stuck to the nearest surface, preventing the creature from moving. The DC to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]] the web trap is 32. Peachwood Vulnerability Peachwood, often cultivated by [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasmin]] priests, is used to ward away the undead. However, jorogumo also despise this auburn-tinged wood, despite being quite clearly a living creature. This has led many to speculate on the origins of these arachnid ambushers, but their secretive nature has made further research difficult. Learn more about peachwood in Lost Omens Tian Xia Character Guide."
+    desc: "A creature hit by the jorogumo's web attack is [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] and stuck to the nearest surface, preventing the creature from moving. The DC to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]] the web trap is 32. Peachwood Vulnerability [[srd/pf2e/compendium/equipment/materials/Peachwood|Peachwood]], often cultivated by [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Pharasma|Pharasmin]] priests, is used to ward away the undead. However, jorogumo also despise this auburn-tinged wood, despite being quite clearly a living creature. This has led many to speculate on the origins of these arachnid ambushers, but their secretive nature has made further research difficult. Learn more about peachwood in Lost Omens Tian Xia Character Guide."
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 34 - __1st__ [[srd/pf2e/compendium/spells/rank-1/charm|Charm]] (at will) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|Speak with Animals]] (spiders only) - __3rd__ [[srd/pf2e/compendium/spells/rank-3/mind-reading|Mind Reading]] (at will) - __4th__ [[srd/pf2e/compendium/spells/rank-4/outcasts-curse|Outcast's Curse]] (×3), [[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]] (×3) - __7th__ [[srd/pf2e/compendium/spells/rank-1/summon-animal|Summon Animal]] (spiders only) - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
+    desc: "DC 34 - __1st__ [[srd/pf2e/compendium/spells/rank-1/Charm|Charm]] (at will) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Speak with Animals|Speak with Animals]] (spiders only) - __3rd__ [[srd/pf2e/compendium/spells/rank-3/Mind Reading|Mind Reading]] (at will) - __4th__ [[srd/pf2e/compendium/spells/rank-4/Outcast's Curse|Outcast's Curse]] (×3), [[srd/pf2e/compendium/spells/rank-4/Suggestion|Suggestion]] (×3) - __7th__ [[srd/pf2e/compendium/spells/rank-1/Summon Animal|Summon Animal]] (spiders only) - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/Truespeech|Truespeech]]"
 sourcebook: "_Monster Core 2_, page 201."
 ```
 

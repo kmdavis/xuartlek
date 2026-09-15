@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Evolution`  `Summoner`
 
-Your eidolon’s attack evolves. Choose one of your eidolon’s starting melee unarmed attacks to gain one of the following traits, chosen when you gain the feat: [[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|disarm]]; [[srd/pf2e/compendium/rules-elements/traits/player-core/grapple|grapple]]; [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]]; [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|shove]]; [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|trip]]; or [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile B, P, or S]].
+Your eidolon’s attack evolves. Choose one of your eidolon’s starting melee unarmed attacks to gain one of the following traits, chosen when you gain the feat: [[srd/pf2e/compendium/rules-elements/traits/player-core/Disarm|disarm]]; [[srd/pf2e/compendium/rules-elements/traits/player-core/Grapple|grapple]]; [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]]; [[srd/pf2e/compendium/rules-elements/traits/player-core/Shove|shove]]; [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip|trip]]; or [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile B, P, or S]].
 
 *Source: Impossible Magic p. 78*

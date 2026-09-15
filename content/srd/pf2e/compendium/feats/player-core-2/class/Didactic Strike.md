@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Investigator`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/shared-stratagem|Shared Stratagem]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Shared Stratagem|Shared Stratagem]]
 
-When you find a glaring weakness, you can set your allies up to annihilate your foe. When you use Shared Stratagem, you can designate up to 10 allies instead of just one. The foe is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against the first attack from each designated ally before your next turn, and each ally's first attack deals an extra 2d6 precision damage to the target if it hits.
+When you find a glaring weakness, you can set your allies up to annihilate your foe. When you use Shared Stratagem, you can designate up to 10 allies instead of just one. The foe is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] against the first attack from each designated ally before your next turn, and each ally's first attack deals an extra 2d6 precision damage to the target if it hits.
 
 *Source: Player Core 2 p. 113*

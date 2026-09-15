@@ -22,13 +22,13 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Category**: Martial
 
-A crescent cross combines a small [[srd/pf2e/compendium/equipment/weapons/knife/scizore|scizore]] with an arm-mounted crossbow apparatus that can hold up to three bolts at a time.
+A crescent cross combines a small [[srd/pf2e/compendium/equipment/weapons/knife/Scizore|scizore]] with an arm-mounted crossbow apparatus that can hold up to three bolts at a time.
 
 ### Melee
 
 **Damage** 1d4 S
 
-**Group** Knife
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Knife|Knife]]
 
 ### Ranged
 
@@ -38,9 +38,9 @@ A crescent cross combines a small [[srd/pf2e/compendium/equipment/weapons/knife/
 
 **Reload** 1
 
-**Group** Bow
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bow|Bow]]
 
-**Ammunition** [[srd/pf2e/compendium/equipment/weapons/crossbow/bolts|Bolts]]
+**Ammunition** [[srd/pf2e/compendium/equipment/weapons/crossbow/Bolts|Bolts]]
 
 ### Critical Specialization Effects
 

@@ -20,6 +20,6 @@ At the first sign of trouble, often before you consciously realize the danger, y
 
 ### Opening Stance (Fighter) leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/master-of-many-styles|Master of Many Styles]]
+[[srd/pf2e/compendium/feats/player-core/class/Master of Many Styles|Master of Many Styles]]
 
 *Source: Player Core p. 150*

@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Barbarian`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/barbarian|barbarian]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Barbarian|barbarian]] class.
 
 *Source: Player Core 2 p. 315*

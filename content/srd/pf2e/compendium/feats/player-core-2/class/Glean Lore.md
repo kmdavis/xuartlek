@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Divine`  `Oracle`  `Secret`
 
-You tap into the collected lore of the divine, accessing a variety of potentially useful information. Attempt a [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] check to understand the information you gain. The GM sets the DC (similar to the DC to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]]), potentially adjusting the DC of the check for topics far removed from your mystery.
+You tap into the collected lore of the divine, accessing a variety of potentially useful information. Attempt a [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] check to understand the information you gain. The GM sets the DC (similar to the DC to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]]), potentially adjusting the DC of the check for topics far removed from your mystery.
 
 **Critical Success** You comprehend the lore accurately or gain a
 useful clue from the divine about your situation.

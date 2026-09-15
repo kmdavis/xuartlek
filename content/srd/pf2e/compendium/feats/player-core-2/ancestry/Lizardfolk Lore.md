@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Lizardfolk`
 
-You listened carefully to the tales passed down among your community. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] and either [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
+You listened carefully to the tales passed down among your community. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] and either [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] or [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
 
- You also gain the [[srd/pf2e/compendium/feats/player-core/skill/additional-lore|Additional Lore]] general feat for either [[srd/pf2e/compendium/rules-elements/skills/lore|Astrology Lore]] or Lizardfolk Lore.
+ You also gain the [[srd/pf2e/compendium/feats/player-core/skill/Additional Lore|Additional Lore]] general feat for either [[srd/pf2e/compendium/rules-elements/skills/Lore|Astrology Lore]] or Lizardfolk Lore.
 
 *Source: Player Core 2 p. 26*

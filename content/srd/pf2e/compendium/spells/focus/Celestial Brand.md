@@ -18,12 +18,12 @@ socialImage: og-image.png
 
 `Curse`  `Focus`  `Manipulate`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]]
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Angelic|Angelic]]
 - **Range**: 30 feet
 - **Target**: 1 unholy creature
 - **Duration**: 1 round
 
-A blazing symbol appears on the target, cursing it to face divine justice. You and your allies receive a +1 status bonus to your attack rolls and skill checks against it. Anytime a [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] creature damages it, the holy creature deals an additional 1d4 spirit damage. The target is then temporarily immune for 1 minute.
+A blazing symbol appears on the target, cursing it to face divine justice. You and your allies receive a +1 status bonus to your attack rolls and skill checks against it. Anytime a [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]] creature damages it, the holy creature deals an additional 1d4 spirit damage. The target is then temporarily immune for 1 minute.
 
 ---
 **Heightened (+1)** The spirit damage increases by 1.

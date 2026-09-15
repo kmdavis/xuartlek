@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: face unfamiliar challenges, travel to new places and seek new experiences, pursue dangerous or forbidden relationships
 - **Anathema**: abandon a sworn lover, constantly pursue safe choices, shun change
 - **Area of Concern**: exploration, forbidden love, wanderlust
-- **Pantheons**: Surveyors of the Deep, [[srd/pf2e/compendium/deities/pantheons/weight-of-the-world|Weight of the World]]
+- **Pantheons**: Surveyors of the Deep, [[srd/pf2e/compendium/deities/pantheons/Weight of the World|Weight of the World]]
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Wisdom or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/trident|Trident]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/Trident|Trident]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Passion|Passion]], [[srd/pf2e/compendium/character/domains#Water|Water]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Passion|Passion]], [[srd/pf2e/compendium/character/Domains#Water|Water]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Travel|Travel]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Travel|Travel]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/tailwind|Tailwind]]
+[[srd/pf2e/compendium/spells/rank-1/Tailwind|Tailwind]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/aqueous-orb|Aqueous Orb]]
+[[srd/pf2e/compendium/spells/rank-3/Aqueous Orb|Aqueous Orb]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/hydraulic-torrent|Hydraulic Torrent]]
+[[srd/pf2e/compendium/spells/rank-4/Hydraulic Torrent|Hydraulic Torrent]]
 
 *Source: Divine Mysteries p. 155*

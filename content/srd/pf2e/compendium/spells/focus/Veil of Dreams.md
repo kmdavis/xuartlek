@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Focus`  `Hex`  `Manipulate`  `Mental`  `Uncommon`  `Witch`
 
-- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Dreams|Lesson of Dreams]]
+- **Lesson**: [[srd/pf2e/compendium/character/Lessons#Lesson of Dreams|Lesson of Dreams]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will
@@ -29,8 +29,8 @@ Your patron draws the target into a drowsy state, causing daydreams and sluggish
 
 **Critical Success** The target is unaffected.
 
-**Success** The target takes a –1 status penalty to Perception, attack rolls, and Will saves. This penalty increases to –2 for Will saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]] effects.
+**Success** The target takes a –1 status penalty to Perception, attack rolls, and Will saves. This penalty increases to –2 for Will saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]] effects.
 
-**Failure** As success, and any time the target uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] action, it must succeed at a DC 5 flat check or the action is disrupted.
+**Failure** As success, and any time the target uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] action, it must succeed at a DC 5 flat check or the action is disrupted.
 
 *Source: Player Core p. 386*

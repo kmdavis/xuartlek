@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Fortune`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Indulgence|Indulgence]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Indulgence|Indulgence]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Defense**: Will

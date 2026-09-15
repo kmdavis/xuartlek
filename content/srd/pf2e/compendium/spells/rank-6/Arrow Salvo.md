@@ -16,13 +16,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Wood`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Deity**: Neith
 - **Range**: 100 feet
 - **Area**: 30-foot burst
 - **Defense**: basic Reflex
 
-You conjure an immense wooden bow that launches a salvo of massive arrows at all nearby enemies. All creatures in the affected area take 8d10 piercing damage, with a basic Reflex save. On a critical failure, the target is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] from the force of the impact.
+You conjure an immense wooden bow that launches a salvo of massive arrows at all nearby enemies. All creatures in the affected area take 8d10 piercing damage, with a basic Reflex save. On a critical failure, the target is knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] from the force of the impact.
 
 ---
 **Heightened (+1)** Increase the damage by 1d10.

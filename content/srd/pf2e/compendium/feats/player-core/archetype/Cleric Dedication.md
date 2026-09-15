@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`  `Multiclass`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/cleric|Cleric]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Cleric|Cleric]]
 - **Prerequisites**: Wisdom +2
 
 You cast spells like a cleric. You gain the [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] activity. You can prepare two common cantrips each day from the divine spell list or any other divine cantrips you have access to. You’re trained in the spell attack modifier and spell DC statistics. Your key spellcasting attribute for cleric archetype spells is Wisdom, and they are divine cleric spells.
@@ -25,6 +25,6 @@ Choose a deity as you would if you were a cleric. You become bound by that deity
 
 ### Cleric Dedication leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/basic-cleric-spellcasting|Basic Cleric Spellcasting]], [[srd/pf2e/compendium/feats/player-core/archetype/basic-dogma|Basic Dogma]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Basic Cleric Spellcasting|Basic Cleric Spellcasting]], [[srd/pf2e/compendium/feats/player-core/archetype/Basic Dogma|Basic Dogma]]
 
 *Source: Player Core p. 217*

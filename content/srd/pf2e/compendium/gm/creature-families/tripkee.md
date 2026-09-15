@@ -14,7 +14,7 @@ Traditionally making their homes in the treetops of tropical jungles and forests
 
 ### Members
 
-[[srd/pf2e/bestiary/npc-core/humanoid/tripkee-camoufleur|Tripkee Camoufleur]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/tripkee-fiend-keeper|Tripkee Fiend Keeper]] (Creature 7), [[srd/pf2e/bestiary/monster-core-2/humanoid/tripkee-rain-caller|Tripkee Rain-Caller]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/tripkee-scout|Tripkee Scout]] (Creature 1), [[srd/pf2e/bestiary/monster-core-2/humanoid/tripkee-scout|Tripkee Scout]] (Creature 1)
+[[srd/pf2e/bestiary/npc-core/humanoid/Tripkee Camoufleur|Tripkee Camoufleur]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/Tripkee Fiend Keeper|Tripkee Fiend Keeper]] (Creature 7), [[srd/pf2e/bestiary/monster-core-2/humanoid/Tripkee Rain-Caller|Tripkee Rain-Caller]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/Tripkee Scout|Tripkee Scout]] (Creature 1), [[srd/pf2e/bestiary/monster-core-2/humanoid/Tripkee Scout|Tripkee Scout]] (Creature 1)
 
 ### A History of Neutrality
 

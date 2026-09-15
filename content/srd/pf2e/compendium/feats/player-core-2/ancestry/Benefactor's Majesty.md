@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Frequency**: once per day
 
-You tap into the grandeur of your warren's benefactor. You gain temporary Hit Points equal to your level, which last for 1 minute. In addition, you can immediately attempt a flat check to remove each type of [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] you have. Finally, until the start of your next turn, any creature targeting you with a harmful attack, spell, or ability much first succeed at a DC 11 flat check or the action is disrupted as the creature avoids setting eyes upon your majesty.
+You tap into the grandeur of your warren's benefactor. You gain temporary Hit Points equal to your level, which last for 1 minute. In addition, you can immediately attempt a flat check to remove each type of [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent damage]] you have. Finally, until the start of your next turn, any creature targeting you with a harmful attack, spell, or ability much first succeed at a DC 11 flat check or the action is disrupted as the creature avoids setting eyes upon your majesty.
 
 *Source: Player Core 2 p. 23*

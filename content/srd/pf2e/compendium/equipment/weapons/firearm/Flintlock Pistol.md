@@ -25,8 +25,8 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Simple
-- **Group**: Firearm
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
 Though less accurate and powerful than a flintlock musket, the flintlock pistol is a preferred weapon of privateers thanks to its more compact size and affordability.
 
@@ -36,6 +36,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Duchy Defender, Mountebank's Passage, Pistol of Wonder, [[srd/pf2e/compendium/equipment/wands/pistol-wand|Pistol Wand]]
+Duchy Defender, Mountebank's Passage, Pistol of Wonder, [[srd/pf2e/compendium/equipment/wands/Pistol Wand|Pistol Wand]]
 
 *Source: NPC Core p. 50*

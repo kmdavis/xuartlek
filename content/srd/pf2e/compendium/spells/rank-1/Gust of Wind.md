@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Air`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/giant-gods/aegirran|Aegirran]], [[srd/pf2e/compendium/deities/covenants/breath-of-the-endless-sky|Breath of the Endless Sky]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]], [[srd/pf2e/compendium/deities/tian-gods/hei-feng|Hei Feng]], [[srd/pf2e/compendium/deities/elemental-lords/hshurha|Hshurha]], [[srd/pf2e/compendium/deities/azlanti-pantheon/onos|Onos]], [[srd/pf2e/compendium/deities/demon-lords/pazuzu|Pazuzu]], Seafarer's Hope, Sky Keepers, Umarik, [[srd/pf2e/compendium/deities/pantheons/weight-of-the-world|Weight of the World]], Xiquiripat
-- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Silence in Snow|Silence in Snow]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/giant-gods/Aegirran|Aegirran]], [[srd/pf2e/compendium/deities/covenants/Breath of the Endless Sky|Breath of the Endless Sky]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Gozreh|Gozreh]], [[srd/pf2e/compendium/deities/tian-gods/Hei Feng|Hei Feng]], [[srd/pf2e/compendium/deities/elemental-lords/Hshurha|Hshurha]], [[srd/pf2e/compendium/deities/azlanti-pantheon/Onos|Onos]], [[srd/pf2e/compendium/deities/demon-lords/Pazuzu|Pazuzu]], Seafarer's Hope, Sky Keepers, Umarik, [[srd/pf2e/compendium/deities/pantheons/Weight of the World|Weight of the World]], Xiquiripat
+- **Patron Theme**: [[srd/pf2e/compendium/character/Patrons#Silence in Snow|Silence in Snow]]
 - **Area**: 60-foot line
 - **Defense**: Fortitude
 - **Duration**: until the start of your next turn
@@ -29,7 +29,7 @@ A violent wind issues forth from your palm, blowing from the point where you are
 
 **Success** The creature can't move against the wind.
 
-**Failure** The creature is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. If it was flying, it takes the effects of critical failure instead.
+**Failure** The creature is knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]. If it was flying, it takes the effects of critical failure instead.
 
 **Critical Failure** The creature is pushed 30 feet in the wind's direction, knocked prone, and takes 2d6 bludgeoning damage.
 

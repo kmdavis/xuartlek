@@ -13,7 +13,7 @@ socialImage: og-image.png
 
 - **Class**: Runesmith
 
-The collection of runes that you know is called your runic repertoire. At 1st level, you learn four 1st-level runes of your choice. You choose these from the common runes on the [[srd/pf2e/compendium/character/runesmith-runes|rune list]] as well as any uncommon or rarer runes you have access to.
+The collection of runes that you know is called your runic repertoire. At 1st level, you learn four 1st-level runes of your choice. You choose these from the common runes on the [[srd/pf2e/compendium/character/Runesmith Runes|rune list]] as well as any uncommon or rarer runes you have access to.
 
  As you increase in level, you add more runes to your repertoire. You can add any rune to your repertoire as long as it is common (or you have access to it) and its level is equal to or less than your own.
 

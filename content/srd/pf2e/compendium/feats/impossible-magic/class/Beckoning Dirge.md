@@ -16,7 +16,7 @@ socialImage: og-image.png
 `Necromancer`  `Occult`
 
 - **Frequency**: once per day
-- **Prerequisites**: puppeteer fatal method
+- **Prerequisites**: [[srd/pf2e/compendium/character/Fatal Methods#Puppeteer|puppeteer fatal method]]
 
 Your dirge beckons, overflowing into a thrall within 60 feet. This turn, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast one Spell]] that’s in your dirge without spending a spell slot or even having it prepared. The maximum rank of this spell is 1 rank lower than your highest-rank necromancer spell slot. The chosen thrall becomes the point of origin for your spell, and you calculate range and cover from its space instead of yours. The thrall is then destroyed.
 

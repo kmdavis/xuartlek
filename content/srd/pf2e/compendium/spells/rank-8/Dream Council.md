@@ -18,8 +18,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Illusion`  `Manipulate`  `Mental`  `Sleep`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/alazhra|Alazhra]], Naderi, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-crawling-chaos|Nyarlathotep (The Crawling Chaos)]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/Alazhra|Alazhra]], Naderi, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (The Crawling Chaos)|Nyarlathotep (The Crawling Chaos)]]
 - **Cast**: 10 minutes
 - **Range**: planetary
 - **Target**: up to 12 creatures you know by name and have met in person

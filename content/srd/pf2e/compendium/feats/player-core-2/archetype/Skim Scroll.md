@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/scroll-trickster|Scroll Trickster]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/scroll-trickster-dedication|Scroll Trickster Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Scroll Trickster|Scroll Trickster]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Scroll Trickster Dedication|Scroll Trickster Dedication]]
 
-You can activate the magic of a scroll with a cursory read as you draw it from your belt. You Interact to draw a scroll, then use [[srd/pf2e/compendium/feats/player-core/skill/trick-magic-item|Trick Magic Item]] on the scroll.
+You can activate the magic of a [scroll](https://2e.aonprd.com/Equipment.aspx?Category=52) with a cursory read as you draw it from your belt. You Interact to draw a scroll, then use [[srd/pf2e/compendium/feats/player-core/skill/Trick Magic Item|Trick Magic Item]] on the scroll.
 
 *Source: Player Core 2 p. 213*

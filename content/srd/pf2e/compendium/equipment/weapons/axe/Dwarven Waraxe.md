@@ -23,7 +23,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Advanced
-- **Group**: Axe
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Axe|Axe]]
 
 This favored weapon of the dwarves has a large, ornate head mounted on a thick handle. This powerful axe can be wielded with one hand or two.
 

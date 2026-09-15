@@ -14,11 +14,11 @@ socialImage: og-image.png
 
 `Monk`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]] (Level 16)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/mountain-stronghold|Mountain Stronghold]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Martial Artist|Martial Artist]] (Level 16)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Mountain Stronghold|Mountain Stronghold]]
 - **Requirements**: You are in Mountain Stance.
 
-You stomp, shaking the earth beneath you. Creatures on the ground within a 20-foot emanation take damage equal to your Strength modifier (minimum 0), with a basic Fortitude save against your class DC. On a failure, they also fall [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. After you use this action, you can't use it again for 1d4 rounds.
+You stomp, shaking the earth beneath you. Creatures on the ground within a 20-foot emanation take damage equal to your Strength modifier (minimum 0), with a basic Fortitude save against your class DC. On a failure, they also fall [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]. After you use this action, you can't use it again for 1d4 rounds.
 
 **Special** If you have this feat, the Dexterity modifier cap to your AC while using Mountain Stance increases from +1 to +2.
 

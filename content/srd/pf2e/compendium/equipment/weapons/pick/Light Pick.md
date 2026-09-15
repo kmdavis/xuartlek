@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Agile`  `Fatal`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/dwarven-gods/dranngvit|Dranngvit]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/dwarven-gods/Dranngvit|Dranngvit]]
 - **Price**: 4 sp
 - **Damage**: 1d4 P
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Pick
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Pick|Pick]]
 
 A light pick is a modified mining implement with a wooden shaft ending in a pick head crafted more to pierce armor and flesh than chip rocks.
 

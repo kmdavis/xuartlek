@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Summoner`
 
-You can increase the duration of your eidolon’s boosts. You learn the [[srd/pf2e/compendium/spells/focus/extend-boost|_extend boost_]] link spell.
+You can increase the duration of your eidolon’s boosts. You learn the [[srd/pf2e/compendium/spells/focus/Extend Boost|_extend boost_]] link spell.
 
 *Source: Impossible Magic p. 78*

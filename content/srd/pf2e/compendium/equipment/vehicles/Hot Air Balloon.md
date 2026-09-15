@@ -22,7 +22,7 @@ socialImage: og-image.png
 
 **Passengers** 5
 
-**Piloting Check** Piloting [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] (DC 16) or [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (DC 18)
+**Piloting Check** Piloting [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] (DC 16) or [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] (DC 18)
 
 ---
 

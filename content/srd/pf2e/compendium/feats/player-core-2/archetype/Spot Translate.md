@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 `Archetype`  `Auditory`  `Linguistic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/linguist|Linguist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/linguist-dedication|Linguist Dedication]]
-- **Trigger**: Another creature within 60 feet uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|linguistic]] effect in a language you understand.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Linguist|Linguist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Linguist Dedication|Linguist Dedication]]
+- **Trigger**: Another creature within 60 feet uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/Linguistic|linguistic]] effect in a language you understand.
 
-You bridge a language gap, repeating the message in a different language that you know. Choose a language you understand to repeat the message in. The [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|linguistic]] effect counts as both languages, rather than only the language the triggering creature is using, potentially allowing it to affect a wider range of creatures. As normal, you can translate normal speech without Spot Translate and without using a reaction, but this reaction allows you to apply the benefits of translation to spells and actions such as command or [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]].
+You bridge a language gap, repeating the message in a different language that you know. Choose a language you understand to repeat the message in. The [[srd/pf2e/compendium/rules-elements/traits/player-core/Linguistic|linguistic]] effect counts as both languages, rather than only the language the triggering creature is using, potentially allowing it to affect a wider range of creatures. As normal, you can translate normal speech without Spot Translate and without using a reaction, but this reaction allows you to apply the benefits of translation to spells and actions such as command or [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]].
 
 *Source: Player Core 2 p. 203*

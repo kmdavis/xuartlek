@@ -21,13 +21,13 @@ socialImage: og-image.png
 
 `Auditory`  `Cantrip`  `Concentrate`  `Fear`  `Hex`  `Mental`  `Uncommon`  `Witch`
 
-- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Devourer of Decay|Devourer of Decay]]
+- **Patron Theme**: [[srd/pf2e/compendium/character/Patrons#Devourer of Decay|Devourer of Decay]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will
 - **Duration**: sustained up to 1 minute
 
-With a cruel laugh and a flash of your canines, you make a target understand that death is coming to claim it and that its demise will serve to strengthen another. The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]] if it fails a Will save (or frightened 2 on a critical failure). This condition can't be reduced below 1 while the spell is active and the target can hear you. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] the spell as a reaction when an ally critically succeeds at a Strike against the target, restoring 1d4 Hit Points to that ally.
+With a cruel laugh and a flash of your canines, you make a target understand that death is coming to claim it and that its demise will serve to strengthen another. The target becomes [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened 1]] if it fails a Will save (or frightened 2 on a critical failure). This condition can't be reduced below 1 while the spell is active and the target can hear you. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] the spell as a reaction when an ally critically succeeds at a Strike against the target, restoring 1d4 Hit Points to that ally.
 
 ---
 **Heightened (+2)** The number of Hit Points restored when you [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] the spell increases by 1d4.

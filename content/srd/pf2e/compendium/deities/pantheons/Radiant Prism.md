@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: create works that inspire good acts, defend those who cannot defend themselves, pursue evil
 - **Anathema**: allow evil to spread, destroy that which brings joy to others, fail to offer evil a chance to surrender
 - **Area of Concern**: defeating evil, guarding innocents, wholesome creations
-- **Pantheon Members**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]]
+- **Pantheon Members**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Desna|Desna]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Sarenrae|Sarenrae]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Shelyn|Shelyn]]
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Wisdom or Charisma
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|Shortsword]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Shortsword|Shortsword]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Moon|Moon]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Sun|Sun]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Moon|Moon]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Sun|Sun]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Travel|Travel]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Healing|Healing]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/sleep|Sleep]]
+[[srd/pf2e/compendium/spells/rank-1/Sleep|Sleep]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/fireball|Fireball]]
+[[srd/pf2e/compendium/spells/rank-3/Fireball|Fireball]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/creation|Creation]]
+[[srd/pf2e/compendium/spells/rank-4/Creation|Creation]]
 
 *Source: Divine Mysteries p. 243*

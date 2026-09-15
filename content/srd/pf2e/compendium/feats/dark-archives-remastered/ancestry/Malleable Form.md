@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Reflection`
 
-- **Prerequisites**: ability to cast at least one [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] spell
-- **Requirements**: You're [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorphed]] by a spell that has multiple choices of battle form.
+- **Prerequisites**: ability to cast at least one [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]] spell
+- **Requirements**: You're [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorphed]] by a spell that has multiple choices of battle form.
 
-You adroitly shift your form, taking on another appearance. Choose a different battle form of the [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] spell affecting you, and change to that form instead of the current one. This destabilizes the spell's magic, reducing its duration by 1 round. Use the rank of the spell to determine the statistics, as normal.
+You adroitly shift your form, taking on another appearance. Choose a different battle form of the [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]] spell affecting you, and change to that form instead of the current one. This destabilizes the spell's magic, reducing its duration by 1 round. Use the rank of the spell to determine the statistics, as normal.
 
 *Source: Dark Archives (Remastered) p. 121*

@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Dwarf`  `Uncommon`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/stonewalker|Stonewalker]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/Stonewalker|Stonewalker]]
 
-Earthen barriers no longer impede your progress. You gain [[srd/pf2e/compendium/spells/rank-5/magic-passage|_magic passage_]] as a 7th-rank divine innate spell that you can cast once per day. Unlike the spell, however, this ability can be used only to open passages through barriers of earth or stone.
+Earthen barriers no longer impede your progress. You gain [[srd/pf2e/compendium/spells/rank-5/Magic Passage|_magic passage_]] as a 7th-rank divine innate spell that you can cast once per day. Unlike the spell, however, this ability can be used only to open passages through barriers of earth or stone.
 
 *Source: Player Core p. 45*

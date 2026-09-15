@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 - **Frequency**: once per round
 
-Your patron reaches through your familiar to magically disperse a group of smaller threats. A [[srd/pf2e/compendium/rules-elements/traits/gm-core/swarm|swarm]] that shares a space with your familiar takes damage equal to the swarm's weakness to area damage. You choose whether this is acid, cold, electricity, or fire damage, and this action gains the trait of the damage type you choose.
+Your patron reaches through your familiar to magically disperse a group of smaller threats. A [[srd/pf2e/compendium/rules-elements/traits/gm-core/Swarm|swarm]] that shares a space with your familiar takes damage equal to the swarm's weakness to area damage. You choose whether this is acid, cold, electricity, or fire damage, and this action gains the trait of the damage type you choose.
 
 *Source: Howl of the Wild p. 63*

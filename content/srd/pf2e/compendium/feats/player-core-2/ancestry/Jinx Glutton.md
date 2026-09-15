@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Tengu`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/eat-fortune|Eat Fortune]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Eat Fortune|Eat Fortune]]
 
 You can Eat Fortune once per hour, rather than once per day.
 

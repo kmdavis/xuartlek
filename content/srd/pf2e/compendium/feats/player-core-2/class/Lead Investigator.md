@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Exploration`  `Investigator`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/clue-them-all-in|Clue Them All In]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Clue Them All In|Clue Them All In]]
 
 You spend 1 minute briefing up to four allies about one of your open investigations. Those allies gain the same circumstance bonus you do from [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Pursue a Lead|Pursue a Lead]] to checks to investigate the question at the heart of that investigation. This bonus lasts until you cease Pursing that Lead or for 1 day, whichever comes first. This doesn't confer any other benefits of pursuing a lead, such as adding the circumstance bonus to your saves with Detective's Readiness.
 

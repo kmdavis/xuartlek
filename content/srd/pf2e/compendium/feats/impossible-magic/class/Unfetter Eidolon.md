@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Summoner`
 
-You can allow your eidolon to travel far from your side. You learn the [[srd/pf2e/compendium/spells/focus/unfetter-eidolon|_unfetter eidolon_]] link spell.
+You can allow your eidolon to travel far from your side. You learn the [[srd/pf2e/compendium/spells/focus/Unfetter Eidolon|_unfetter eidolon_]] link spell.
 
 *Source: Impossible Magic p. 79*

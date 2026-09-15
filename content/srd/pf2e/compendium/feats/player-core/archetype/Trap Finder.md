@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Investigator`  `Rogue`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/archaeologist|Archaeologist]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Archaeologist|Archaeologist]] (Level 4)
 
 You have an intuitive sense that alerts you to the presence of traps. You gain a +1 circumstance bonus to Perception checks to find traps, to AC against attacks made by traps, and to saves against traps. Even if you aren’t Searching, you get a check to find traps that normally require you to be Searching. You still need to meet any other requirements to find the trap.
 

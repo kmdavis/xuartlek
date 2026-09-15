@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Necromancer`  `Uncommon`  `Unholy`
 
-- **Prerequisites**: You aren’t [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]].
+- **Prerequisites**: You aren’t [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]].
 
-You can bring back the recently deceased, but at what cost? You add [[srd/pf2e/compendium/spells/rank-6/raise-dead|_raise dead_]] to your dirge and can cast it as an occult spell. However, when you [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast this Spell]], the returned creature gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] trait. (The creature knows it will return as undead when it decides whether to return.) Only powerful magic such as a [[srd/pf2e/compendium/spells/rituals/wish|_wish_]] ritual can return the target to true life again. You gain an additional spell slot each day at your highest rank of necromancer spell slots. You can prepare only the _raise dead_ spell in this slot.
+You can bring back the recently deceased, but at what cost? You add [[srd/pf2e/compendium/spells/rank-6/Raise Dead|_raise dead_]] to your dirge and can cast it as an [occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3) spell. However, when you [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast this Spell]], the returned creature gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]] trait. (The creature knows it will return as undead when it decides whether to return.) Only powerful magic such as a [[srd/pf2e/compendium/spells/rituals/Wish|_wish_]] ritual can return the target to true life again. You gain an additional spell slot each day at your highest rank of necromancer spell slots. You can prepare only the _raise dead_ spell in this slot.
 
 *Source: Impossible Magic p. 39*

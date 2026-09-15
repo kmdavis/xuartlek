@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Bard`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/muses#Zoophonia|zoophonia muse]]
-- **Trigger**: A creature counteracts or [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions#Disrupting Actions|disrupts]] the spell you're casting.
+- **Prerequisites**: [[srd/pf2e/compendium/character/Muses#Zoophonia|zoophonia muse]]
+- **Trigger**: A creature counteracts or [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Actions#Disrupting Actions|disrupts]] the spell you're casting.
 - **Requirements**: You have an animal minion within 30 feet of you.
 
 When you and animals sing together, your words ring even brighter and bolder, cutting through disruptions. The animal assisting you can Stride and Strike the triggering creature. If the attack succeeds, your action isn't counteracted or disrupted.

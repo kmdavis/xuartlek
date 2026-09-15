@@ -30,7 +30,7 @@ perception:
     desc: "+10; darkvision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +12"
 abilityMods: [-4, 4, 2, -5, 2, -1]
 ac: 18
 armorclass:
@@ -39,13 +39,13 @@ armorclass:
 hp: 45
 health:
   - name: "HP"
-    desc: "45; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]], precision, [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]], swarm mind; __Resistances__ bludgeoning 7, piercing 7, slashing 3; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
+    desc: "45; __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]], precision, [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]], [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]], swarm mind; __Resistances__ bludgeoning 7, piercing 7, slashing 3; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 5"
 speed: "20 feet, fly 40 feet"
 abilities_bot:
   - name: "Swarming Stings"
     desc: "⬻ Each enemy in the swarm's space takes 2d8 piercing damage (DC 21 basic Reflex save). A creature that fails its save is also exposed to wasp venom."
   - name: "Wasp Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 21 Fortitude"
   - name: "Maximum Duration"
@@ -53,7 +53,7 @@ abilities_bot:
   - name: "Stage 1"
     desc: "1d6 poison (1 round)"
   - name: "Stage 2"
-    desc: "2d6 poison and [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 2 (2 rounds)"
+    desc: "2d6 poison and [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]] 2 (2 rounds)"
 sourcebook: "_Monster Core_, page 343."
 ```
 

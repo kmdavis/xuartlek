@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 - **Trigger**: You roll initiative.
 
-You enter a stance without a thought. Use an action that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/stance|stance]] trait.
+You enter a stance without a thought. Use an action that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Stance|stance]] trait.
 
 ### Reflexive Stance leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/master-of-many-styles|Master of Many Styles]]
+[[srd/pf2e/compendium/feats/player-core/class/Master of Many Styles|Master of Many Styles]]
 
 *Source: Player Core 2 p. 125*

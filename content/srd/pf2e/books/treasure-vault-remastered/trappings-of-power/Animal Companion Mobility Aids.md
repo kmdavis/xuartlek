@@ -1,6 +1,7 @@
 ---
 title: "Animal Companion Mobility Aids"
 aliases: ["Animal Companion Mobility Aids"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Treasure Vault (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1958"
 citation: "Treasure Vault (Remastered) pg. 106"
-socialImage: og-image.png
 ---
 
 # Animal Companion Mobility Aids

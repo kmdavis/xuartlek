@@ -14,7 +14,7 @@ Flytraps eagerly feed on humanoids, monstrous insects, and larger prey.
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core/plant/giant-flytrap|Giant Flytrap]] (Creature 10), [[srd/pf2e/bestiary/monster-core/plant/snapping-flytrap|Snapping Flytrap]] (Creature 3)
+[[srd/pf2e/bestiary/monster-core/plant/Giant Flytrap|Giant Flytrap]] (Creature 10), [[srd/pf2e/bestiary/monster-core/plant/Snapping Flytrap|Snapping Flytrap]] (Creature 3)
 
 ### Flytrap Treasure
 

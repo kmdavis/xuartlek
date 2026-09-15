@@ -19,10 +19,10 @@ socialImage: og-image.png
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 
-Carved of driftwood stained white with the salt of the sea, a _pirate staff_ has jewels and gold pieces embedded in the wood. A skull and crossbones sit on top. When used as a weapon, the staff is a _+2 striking fearsome staff_. While wielding the staff, you gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] checks to Coerce. 
+Carved of driftwood stained white with the salt of the sea, a _pirate staff_ has jewels and gold pieces embedded in the wood. A skull and crossbones sit on top. When used as a weapon, the staff is a _+2 striking fearsome staff_. While wielding the staff, you gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] checks to Coerce. 
 
 **Activate** Cast a Spell; **Effect** You expend a number of charges from the staff to cast a spell from its list.
-**Cantrip** [[srd/pf2e/compendium/spells/cantrips/gale-blast|_gale blast_]], [[srd/pf2e/compendium/spells/cantrips/know-the-way|_know the way_]]**1st** _seashell of stolen sound_**2nd** [[srd/pf2e/compendium/spells/rank-2/mist|_mist_]], [[srd/pf2e/compendium/spells/rank-2/water-breathing|_water breathing_]], [[srd/pf2e/compendium/spells/rank-2/water-walk|_water walk_]]**3rd** _mind of menace_, _water breathing_**4th** _coral eruption_, _water breathing_, _water walk_**5th** _flowing strike_, [[srd/pf2e/compendium/spells/rank-5/mariners-curse|_mariner’s curse_]]
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/Gale Blast|_gale blast_]], [[srd/pf2e/compendium/spells/cantrips/Know the Way|_know the way_]]**1st** _seashell of stolen sound_**2nd** [[srd/pf2e/compendium/spells/rank-2/Mist|_mist_]], [[srd/pf2e/compendium/spells/rank-2/Water Breathing|_water breathing_]], [[srd/pf2e/compendium/spells/rank-2/Water Walk|_water walk_]]**3rd** _mind of menace_, _water breathing_**4th** _coral eruption_, _water breathing_, _water walk_**5th** _flowing strike_, [[srd/pf2e/compendium/spells/rank-5/Mariner's Curse|_mariner’s curse_]]
 
 **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 

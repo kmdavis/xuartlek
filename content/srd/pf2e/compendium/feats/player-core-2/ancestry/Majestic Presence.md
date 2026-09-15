@@ -22,7 +22,7 @@ By taking an impressive stance, the full force of your personality cows lesser b
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]].
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened 1]].
 
 **Failure** The creature is frightened 2.
 

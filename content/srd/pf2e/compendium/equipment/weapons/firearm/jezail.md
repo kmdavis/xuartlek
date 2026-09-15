@@ -26,10 +26,10 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Firearm
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
-Jezails are simple, efficient long guns developed in Casmaron that typically feature a custom stock and a flintlock firing mechanism. Though lacking the range and stopping power of an arquebus or the raw force of a [[srd/pf2e/compendium/equipment/weapons/firearm/harmona-gun|harmona gun]], the jezail is an elegant, well-balanced weapon suitable for a variety of combat situations. It's even possible to tuck it under one arm to fire a less accurate attack that uses only one hand.
+Jezails are simple, efficient long guns developed in Casmaron that typically feature a custom stock and a flintlock firing mechanism. Though lacking the range and stopping power of an arquebus or the raw force of a [[srd/pf2e/compendium/equipment/weapons/firearm/Harmona Gun|harmona gun]], the jezail is an elegant, well-balanced weapon suitable for a variety of combat situations. It's even possible to tuck it under one arm to fire a less accurate attack that uses only one hand.
 
 ### Critical Specialization Effects
 
@@ -37,6 +37,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/alicorn-trigger|Alicorn Trigger]], [[srd/pf2e/compendium/equipment/intelligent-items/boastful-hunter|Boastful Hunter]], Boastful Hunter, [[srd/pf2e/compendium/equipment/weapons/iris-of-the-sky|Iris of the Sky]], Iris of the Sky
+[[srd/pf2e/compendium/equipment/weapons/Alicorn Trigger|Alicorn Trigger]], [[srd/pf2e/compendium/equipment/intelligent-items/Boastful Hunter|Boastful Hunter]], Boastful Hunter, [[srd/pf2e/compendium/equipment/weapons/Iris of the Sky|Iris of the Sky]], Iris of the Sky
 
 *Source: Guns & Gears (Remastered) p. 153*

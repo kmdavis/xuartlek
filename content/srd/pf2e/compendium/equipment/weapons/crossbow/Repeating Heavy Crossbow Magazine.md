@@ -18,7 +18,7 @@ socialImage: og-image.png
 - **Bulk**: L
 - **Type**: Ranged
 - **Category**: Ammunition
-- **Group**: Crossbow
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Crossbow|Crossbow]]
 
 A typical repeating heavy crossbow magazine holds five bolts.
 

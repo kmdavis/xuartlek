@@ -21,6 +21,6 @@ Your arcane legacy allows you to perceive how magic affects everything. You beco
 
 ### Arcane Evolution leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/greater-mental-evolution|Greater Mental Evolution]], [[srd/pf2e/compendium/feats/player-core-2/class/greater-physical-evolution|Greater Physical Evolution]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Greater Mental Evolution|Greater Mental Evolution]], [[srd/pf2e/compendium/feats/player-core-2/class/Greater Physical Evolution|Greater Physical Evolution]]
 
 *Source: Player Core 2 p. 153*

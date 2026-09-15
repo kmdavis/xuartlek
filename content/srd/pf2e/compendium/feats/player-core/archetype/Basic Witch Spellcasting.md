@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/witch|Witch]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/witch-dedication|Witch Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Witch|Witch]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Witch Dedication|Witch Dedication]]
 
-You gain the [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|spellcasting benefits]]. Each time you gain a spell slot of a new rank from the witch archetype, add two common spells of that rank to your familiar.
+You gain the [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Spellcasting Archetypes|spellcasting benefits]]. Each time you gain a spell slot of a new rank from the witch archetype, add two common spells of that rank to your familiar.
 
 ### Basic Witch Spellcasting leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/expert-witch-spellcasting|Expert Witch Spellcasting]], [[srd/pf2e/compendium/feats/player-core/archetype/patrons-breadth|Patron's Breadth]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Expert Witch Spellcasting|Expert Witch Spellcasting]], [[srd/pf2e/compendium/feats/player-core/archetype/Patron's Breadth|Patron's Breadth]]
 
 *Source: Player Core p. 222*

@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Occult
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Imperial|Imperial]]
-- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/amaznen|Amaznen]], [[srd/pf2e/compendium/deities/other-gods/atrogine|Atrogine]], [[srd/pf2e/compendium/deities/monitor-demigods/phlegyas|Phlegyas]], Pillars of Knowledge, [[srd/pf2e/compendium/deities/faiths-philosophies/rivethun|Rivethun]], [[srd/pf2e/compendium/deities/pantheons/stones-blood|Stone's Blood]], Surveyors of the Deep, [[srd/pf2e/compendium/deities/goblin-gods/teki-stronggut|Teki Stronggut]], Yluma, [[srd/pf2e/compendium/deities/empyreal-lords/zohls|Zohls]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Imperial|Imperial]]
+- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/Amaznen|Amaznen]], [[srd/pf2e/compendium/deities/other-gods/Atrogine|Atrogine]], [[srd/pf2e/compendium/deities/monitor-demigods/Phlegyas|Phlegyas]], Pillars of Knowledge, [[srd/pf2e/compendium/deities/faiths-philosophies/Rivethun|Rivethun]], [[srd/pf2e/compendium/deities/pantheons/Stone's Blood|Stone's Blood]], Surveyors of the Deep, [[srd/pf2e/compendium/deities/goblin-gods/Teki Stronggut|Teki Stronggut]], Yluma, [[srd/pf2e/compendium/deities/empyreal-lords/Zohls|Zohls]]
 - **Cast**: 1 minute
 - **Duration**: sustained
 

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/beastmaster|Beastmaster]], Undead Master (Level 14)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/incredible-beastmaster-companion|Incredible Beastmaster Companion]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Beastmaster|Beastmaster]], Undead Master (Level 14)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Incredible Beastmaster Companion|Incredible Beastmaster Companion]]
 
 Your nimble and savage animal companions become cunning enough to become specialized. Each companion gains one specialization of your choice. Choose the specialization separately for each companion, including any companion that becomes specialized after you take this feat.
 

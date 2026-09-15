@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/sentinel|Sentinel]], Golden Legionnaire (Level 6)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/sentinel-dedication|Sentinel Dedication]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Sentinel|Sentinel]], Golden Legionnaire (Level 6)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Sentinel Dedication|Sentinel Dedication]]
 
 You have trained hard to optimize your armor's unique protective qualities to maximize the materials used in its creation. You gain the armor specialization effects for all armors you are proficient with.
 

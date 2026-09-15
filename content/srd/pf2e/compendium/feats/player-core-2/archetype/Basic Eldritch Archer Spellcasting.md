@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/eldritch-archer|Eldritch Archer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/eldritch-archer-dedication|Eldritch Archer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Eldritch Archer|Eldritch Archer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Eldritch Archer Dedication|Eldritch Archer Dedication]]
 
-You gain the [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|basic spellcasting benefits]]. Each time you gain a spell slot of a new level from this archetype, add a spell of the appropriate spell rank to your repertoire, either a common spell of your chosen tradition or another spell of that tradition you have learned or discovered.
+You gain the [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Spellcasting Archetypes|basic spellcasting benefits]]. Each time you gain a spell slot of a new level from this archetype, add a spell of the appropriate spell rank to your repertoire, either a common spell of your chosen tradition or another spell of that tradition you have learned or discovered.
 
 ### Basic Eldritch Archer Spellcasting leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/expert-eldritch-archer-spellcasting|Expert Eldritch Archer Spellcasting]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Expert Eldritch Archer Spellcasting|Expert Eldritch Archer Spellcasting]]
 
 *Source: Player Core 2 p. 198*

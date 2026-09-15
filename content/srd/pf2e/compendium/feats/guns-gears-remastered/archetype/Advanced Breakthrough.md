@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/inventor|Inventor]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/basic-breakthrough|Basic Breakthrough]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Inventor|Inventor]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Basic Breakthrough|Basic Breakthrough]]
 
-You gain one inventor feat. For the purpose of meeting its prerequisites, your inventor level is equal to half your character level.
+You gain one [inventor feat](https://2e.aonprd.com/Feats.aspx?Traits=408). For the purpose of meeting its prerequisites, your inventor level is equal to half your character level.
 
 **Special** You can select this feat more than once. Each time you select it, you gain another inventor feat.
 

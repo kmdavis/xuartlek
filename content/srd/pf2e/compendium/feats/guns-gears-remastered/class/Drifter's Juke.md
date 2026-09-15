@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Flourish`  `Gunslinger`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/ways#Way of the Drifter|way of the drifter]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Ways#Way of the Drifter|way of the drifter]]
 - **Requirements**: You're wielding a firearm or crossbow in one hand, and your other hand is either wielding a melee weapon or is empty.
 
-You move in and out of range to complement your attacks. You Step, make a Strike, Step, and make another Strike. One Strike must be a ranged Strike using your firearm or crossbow, and the other must be a melee Strike using your melee weapon or [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack. You can choose not to take one or both Steps.
+You move in and out of range to complement your attacks. You Step, make a Strike, Step, and make another Strike. One Strike must be a ranged Strike using your firearm or crossbow, and the other must be a melee Strike using your melee weapon or [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack. You can choose not to take one or both Steps.
 
 *Source: Guns & Gears (Remastered) p. 113*

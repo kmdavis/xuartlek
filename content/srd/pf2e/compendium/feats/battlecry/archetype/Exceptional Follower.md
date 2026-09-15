@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/captain|Captain]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/veteran-follower|Veteran Follower]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Captain|Captain]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Veteran Follower|Veteran Follower]]
 
-Your followers' abilities have soared to new heights. All your followers become exceptional followers.
+Your followers' abilities have soared to new heights. All your followers become [exceptional followers.](https://2e.aonprd.com/Followers.aspx)
 
 *Source: Battlecry! p. 83*

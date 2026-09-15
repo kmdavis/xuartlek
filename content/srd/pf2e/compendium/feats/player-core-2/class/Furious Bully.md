@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Barbarian`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-You bully foes across the battlefield. While raging, you gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks for [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] actions.
+You bully foes across the battlefield. While raging, you gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks for [[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]] actions.
 
 *Source: Player Core 2 p. 81*

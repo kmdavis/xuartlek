@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Lizardfolk`
 
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/iruxi-armaments|Iruxi Armaments]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Iruxi Armaments|Iruxi Armaments]]
 
 You grind or gnaw a particularly wicked edge onto your claws. The next claws Strike you hit and deal damage with deals an additional 1d6 bleed damage. You cannot have more than one instance of Hone Claws active at a time.
 

@@ -16,11 +16,11 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Water`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 120 feet
 - **Area**: 20-foot burst
 - **Duration**: 1 minute
 
-You call forth a cloud of mist. All creatures within the mist become [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], and all creatures outside the mist become concealed to creatures within it. You can Dismiss the cloud.
+You call forth a cloud of mist. All creatures within the mist become [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]], and all creatures outside the mist become concealed to creatures within it. You can Dismiss the cloud.
 
 *Source: Player Core p. 344*

@@ -24,23 +24,23 @@ Dexterity or Intelligence
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/crossbow/crossbow|Light Crossbow]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/crossbow/Crossbow|Light Crossbow]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Cities|Cities]], [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Cities|Cities]], [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Dust|Dust]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Tyranny|Tyranny]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Dust|Dust]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Tyranny|Tyranny]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/gentle-landing|Gentle Landing]]
+[[srd/pf2e/compendium/spells/rank-1/Gentle Landing|Gentle Landing]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/cozy-cabin|Cozy Cabin]]
+[[srd/pf2e/compendium/spells/rank-3/Cozy Cabin|Cozy Cabin]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/weapon-storm|Weapon Storm]]
+[[srd/pf2e/compendium/spells/rank-4/Weapon Storm|Weapon Storm]]
 
 *Source: Divine Mysteries p. 314*

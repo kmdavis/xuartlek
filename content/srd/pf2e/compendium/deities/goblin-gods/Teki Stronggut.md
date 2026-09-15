@@ -24,23 +24,23 @@ Wisdom or Charisma
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/longsword|Longsword]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Longsword|Longsword]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/tailwind|Tailwind]]
+[[srd/pf2e/compendium/spells/rank-1/Tailwind|Tailwind]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/embed-message|Embed Message]]
+[[srd/pf2e/compendium/spells/rank-2/Embed Message|Embed Message]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/retrocognition|Retrocognition]]
+[[srd/pf2e/compendium/spells/rank-7/Retrocognition|Retrocognition]]
 
 *Source: Divine Mysteries p. 312*

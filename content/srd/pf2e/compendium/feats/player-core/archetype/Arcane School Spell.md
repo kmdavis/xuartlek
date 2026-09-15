@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wizard|Wizard]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/wizard-dedication|Wizard Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wizard|Wizard]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Wizard Dedication|Wizard Dedication]]
 
 You gain your school’s initial school spell. If you don’t already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by studying.
 

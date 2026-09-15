@@ -22,6 +22,6 @@ You call upon deep reserves of toughness and mental fortitude to power through a
 
 ### Grit and Tenacity leads to...
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/class/unshakable-grit|Unshakable Grit]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/class/Unshakable Grit|Unshakable Grit]]
 
 *Source: Guns & Gears (Remastered) p. 115*

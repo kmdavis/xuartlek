@@ -14,15 +14,15 @@ These sacred feathered serpents tirelessly serve the powers of knowledge and jus
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core-2/beast/mix-coatl|Mix Coatl]] (Creature 8), [[srd/pf2e/bestiary/monster-core/beast/quetz-coatl|Quetz Coatl]] (Creature 10), [[srd/pf2e/bestiary/monster-core-2/beast/xiuh-coatl|Xiuh Coatl]] (Creature 12)
+[[srd/pf2e/bestiary/monster-core-2/beast/Mix Coatl|Mix Coatl]] (Creature 8), [[srd/pf2e/bestiary/monster-core/beast/Quetz Coatl|Quetz Coatl]] (Creature 10), [[srd/pf2e/bestiary/monster-core-2/beast/Xiuh Coatl|Xiuh Coatl]] (Creature 12)
 
 ### Coatl Deities
 
-Most good gods make use of coatls as their agents. There are three coatl deities, however, whose words take precedence over others’ in the hearts of coatls. These are [[srd/pf2e/compendium/deities/coatl-tribunal/cihua-coatl|Cihua Coatl]], the dualistic god of childbirth, protection, and warfare; [[srd/pf2e/compendium/deities/coatl-tribunal/pahti-coatl|Pahti Coatl]], the goddess of retribution, investigation, and rehabilitation; and [[srd/pf2e/compendium/deities/coatl-tribunal/tolte-coatl|Tolte Coatl]], the god of knowledge, memories, and migration. See Pathfinder Lost Omens Divine Mysteries for more information on the Coatl Tribunal.
+Most good gods make use of coatls as their agents. There are three coatl deities, however, whose words take precedence over others’ in the hearts of coatls. These are [[srd/pf2e/compendium/deities/coatl-tribunal/Cihua Coatl|Cihua Coatl]], the dualistic god of childbirth, protection, and warfare; [[srd/pf2e/compendium/deities/coatl-tribunal/Pahti Coatl|Pahti Coatl]], the goddess of retribution, investigation, and rehabilitation; and [[srd/pf2e/compendium/deities/coatl-tribunal/Tolte Coatl|Tolte Coatl]], the god of knowledge, memories, and migration. See Pathfinder Lost Omens Divine Mysteries for more information on the Coatl Tribunal.
 
 ### Coatls and Sahkils
 
-Legends in Arcadia say that [[srd/pf2e/compendium/gm/creature-families/coatl|coatls]] and sahkils rose to prominence as the first mortals walked on Golarion. Each saw unique potential in the mortals; coatls saw hope and the capacity to rise to achieve great feats, while sahkils saw the potential to foster fear. Fearful mortals would never accomplish anything, becoming useless piles of flesh whose souls would languish. These withered souls would be unable to properly travel the River of Souls, disrupting the delicate balance of the afterlife. To this day, coatls work to inspire mortals and push them toward greater achievements all while striving to keep the sahkils’ terror at bay.
+Legends in Arcadia say that [[srd/pf2e/compendium/gm/creature-families/Coatl|coatls]] and sahkils rose to prominence as the first mortals walked on Golarion. Each saw unique potential in the mortals; coatls saw hope and the capacity to rise to achieve great feats, while sahkils saw the potential to foster fear. Fearful mortals would never accomplish anything, becoming useless piles of flesh whose souls would languish. These withered souls would be unable to properly travel the River of Souls, disrupting the delicate balance of the afterlife. To this day, coatls work to inspire mortals and push them toward greater achievements all while striving to keep the sahkils’ terror at bay.
 
 ### Other Coatls
 

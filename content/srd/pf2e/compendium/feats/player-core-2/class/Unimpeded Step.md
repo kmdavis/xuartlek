@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Champion`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/causes#Liberation|liberation cause]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Causes#Liberation|liberation cause]]
 
-With a burst of divine liberation, your ally's movement from your [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Liberating Step|Liberating Step]] is unaffected by difficult terrain, greater difficult terrain, [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Narrow Surfaces|narrow surfaces]], and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Uneven Ground|uneven ground]]. If you have the exalted reaction benefit, this applies to everyone who Steps.
+With a burst of divine liberation, your ally's movement from your [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Liberating Step|Liberating Step]] is unaffected by difficult terrain, greater difficult terrain, [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Narrow Surfaces|narrow surfaces]], and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Uneven Ground|uneven ground]]. If you have the exalted reaction benefit, this applies to everyone who Steps.
 
 *Source: Player Core 2 p. 94*

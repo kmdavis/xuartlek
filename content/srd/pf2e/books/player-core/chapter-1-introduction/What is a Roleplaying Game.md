@@ -1,6 +1,7 @@
 ---
 title: "What is a Roleplaying Game?"
 aliases: ["What is a Roleplaying Game?"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1996"
 citation: "Player Core pg. 5"
-socialImage: og-image.png
 ---
 
 # What is a Roleplaying Game?

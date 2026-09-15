@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Curse`  `Manipulate`
 
-- **Traditions**: Arcane, Occult, Primal
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
-- **Deities**: [[srd/pf2e/compendium/deities/other-gods/besmara|Besmara]], Deshto
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Hag|Hag]]
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/Besmara|Besmara]], Deshto
 - **Range**: touch
 - **Target**: 1 creature
 - **Defense**: Will
@@ -29,7 +29,7 @@ You afflict the target with the curse of the roiling, unforgiving sea. The targe
 
 **Success** The target becomes sickened 1. Reducing its sickened condition to 0 ends the curse.
 
-**Failure** The target becomes sickened 1 and can't reduce its sickened condition below 1 while the curse remains. The curse can be lifted by 4th-rank [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|_cleanse affliction_]] or similar magic. Whenever the target is sickened and on the water at least a mile from shore, it is also slowed 1.
+**Failure** The target becomes sickened 1 and can't reduce its sickened condition below 1 while the curse remains. The curse can be lifted by 4th-rank [[srd/pf2e/compendium/spells/rank-2/Cleanse Affliction|_cleanse affliction_]] or similar magic. Whenever the target is sickened and on the water at least a mile from shore, it is also slowed 1.
 
 **Critical Failure** As failure, but the target becomes sickened 2.
 

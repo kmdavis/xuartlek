@@ -15,13 +15,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Divine, Primal
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Requirements**: You worship a deity
 - **Range**: 30 feet
 - **Area**: 5-foot burst
 - **Defense**: basic Reflex
 
-You call out to the creatures of the wild favored by your deity. You quickly summon your deity’s sacred animal (or a small swarm of them if the animal is usually Tiny). For example, you would call forth a [[srd/pf2e/bestiary/monster-core/animal/lion|lion]] if you worship [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]] or a swarm of [[srd/pf2e/compendium/gm/creature-families/spider|spiders]] if you worship [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/norgorber|Norgorber]]. If your deity doesn’t have a known sacred animal, work with the GM to find a thematic one. The animal or swarm assaults all creatures in the area, dealing 2d6 damage. The damage is either bludgeoning, piercing, or slashing based on the animal that was conjured, as determined by the GM. After their attacks, the animals return to your deity’s plane.
+You call out to the creatures of the wild favored by your deity. You quickly summon your deity’s sacred animal (or a small swarm of them if the animal is usually Tiny). For example, you would call forth a [[srd/pf2e/bestiary/monster-core/animal/Lion|lion]] if you worship [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Iomedae|Iomedae]] or a swarm of [[srd/pf2e/compendium/gm/creature-families/Spider|spiders]] if you worship [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Norgorber|Norgorber]]. If your deity doesn’t have a known sacred animal, work with the GM to find a thematic one. The animal or swarm assaults all creatures in the area, dealing 2d6 damage. The damage is either bludgeoning, piercing, or slashing based on the animal that was conjured, as determined by the GM. After their attacks, the animals return to your deity’s plane.
 
 ---
 **Heightened (+1)** The damage increases by 2d6.

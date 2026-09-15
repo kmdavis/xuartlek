@@ -15,13 +15,13 @@ socialImage: og-image.png
 
 `Archetype`  `Magical`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/necrologist|Necrologist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/necrologist-dedication|Necrologist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Necrologist|Necrologist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Necrologist Dedication|Necrologist Dedication]]
 
-You have come to understand the pain and fury of spirits and can raise them to do your ghastly work. When you Raise your Horde, you can choose spirits instead of skeletons or zombies. When you do so, your horde gains the [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]] trait and immunity to disease, poison, and precision damage, and your horde's Mobbing Assault deals void damage.
+You have come to understand the pain and fury of spirits and can raise them to do your ghastly work. When you Raise your Horde, you can choose spirits instead of skeletons or zombies. When you do so, your horde gains the [[srd/pf2e/compendium/rules-elements/traits/gm-core/Incorporeal|incorporeal]] trait and immunity to disease, poison, and precision damage, and your horde's Mobbing Assault deals void damage.
 
 ### Ghostsong leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/archetype/wailing-dead|Wailing Dead]]
+[[srd/pf2e/compendium/feats/battlecry/archetype/Wailing Dead|Wailing Dead]]
 
 *Source: Battlecry! p. 67*

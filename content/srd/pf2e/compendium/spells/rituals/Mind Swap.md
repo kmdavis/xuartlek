@@ -19,7 +19,7 @@ socialImage: og-image.png
 - **Cast**: 1 day
 - **Cost**: a pair of jeweled mirrors worth a total value of 50 gp × the level of the highest-level target
 - **Secondary Casters**: 1
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] (expert)
 - **Secondary Checks**: Medicine or Occultism
 - **Range**: 10 feet
 - **Target(s)**: 2 creatures of the same ancestry, whose respective levels are no more than twice the rank of the ritual
@@ -35,9 +35,9 @@ To walk in another's shoes is to truly understand someone. This ritual allows tw
 
 **Failure** The ritual has no effect.
 
-**Critical Failure** The ritual is scrambled, sending a welter of confused memories into the target's minds. You and the secondary casters are [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 2 for the next week.
+**Critical Failure** The ritual is scrambled, sending a welter of confused memories into the target's minds. You and the secondary casters are [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] 2 for the next week.
 
 ---
-**Heightened (9th)** You can cast the ritual without a duration, leaving no magic to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]]. The effects are reversible only by another mind swap ritual or other powerful magic like a wish ritual. This increases the cost of the ritual to 10,000 gp and likely violates many deity's anathema unless both targets are willing.
+**Heightened (9th)** You can cast the ritual without a duration, leaving no magic to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions#Counteracting|counteract]]. The effects are reversible only by another mind swap ritual or other powerful magic like a wish ritual. This increases the cost of the ritual to 10,000 gp and likely violates many deity's anathema unless both targets are willing.
 
 *Source: Impossible Magic p. 194*

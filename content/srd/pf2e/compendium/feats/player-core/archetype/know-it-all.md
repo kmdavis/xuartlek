@@ -16,7 +16,7 @@ socialImage: og-image.png
 `Bard`  `Thaumaturge`
 
 - **Archetypes**: Oatia Skysage (Level 10)
-- **Prerequisites**: [[srd/pf2e/compendium/character/classes/bard|Bard]] enigma muse
+- **Prerequisites**: [[srd/pf2e/compendium/character/classes/Bard|Bard]] enigma muse
 
 When you succeed at a check to Recall Knowledge, you gain additional information or context. When you critically succeed at a check to Recall Knowledge, you get additional information or context or can ask an additional follow-up question (the GM chooses which).
 

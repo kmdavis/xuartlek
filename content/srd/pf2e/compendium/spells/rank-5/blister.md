@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Occult, Primal
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Demonic|Demonic]]
-- **Deity**: [[srd/pf2e/compendium/deities/giant-gods/fandarra|Fandarra]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Demonic|Demonic]]
+- **Deity**: [[srd/pf2e/compendium/deities/giant-gods/Fandarra|Fandarra]]
 - **Range**: 60 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude
@@ -27,7 +27,7 @@ You point at a target in range, and its skin grows searing blisters filled with 
 
 **Critical Success** The target is unaffected.
 
-**Success** The target grows one blister. You can spend a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait, to pop a blister. The target and each creature in a 15-foot cone originating from the target takes 7d6 acid damage (basic Fortitude save). You choose the direction of the cone, which can't include the target. When no blisters are left, the spell ends.
+**Success** The target grows one blister. You can spend a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] trait, to pop a blister. The target and each creature in a 15-foot cone originating from the target takes 7d6 acid damage (basic Fortitude save). You choose the direction of the cone, which can't include the target. When no blisters are left, the spell ends.
 
 **Failure** As success, but the target grows two blisters.
 

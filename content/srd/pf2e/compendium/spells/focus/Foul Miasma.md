@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Disease`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Plague|Plague]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Plague|Plague]]
 - **Range**: 30 feet
 - **Target**: 1 creature affected by a disease
 - **Defense**: Will

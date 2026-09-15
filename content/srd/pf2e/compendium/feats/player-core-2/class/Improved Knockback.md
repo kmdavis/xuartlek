@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Monk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/knockback-strike|Knockback Strike]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Knockback Strike|Knockback Strike]]
 
 When you successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] a creature, increase both the distance you can push the creature and the distance you can move to follow along with the target by 5 feet on a success or 10 feet on a critical success. If you push the target into another creature or obstacle, they both take 1d6 bludgeoning damage per 5 feet of movement that was prevented.
 

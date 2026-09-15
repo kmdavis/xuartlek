@@ -14,11 +14,11 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/werecreature|Werecreature]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/werecreature-dedication|Werecreature Dedication]]; your animal shape grants a claw unarmed attack
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Werecreature|Werecreature]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Werecreature Dedication|Werecreature Dedication]]; your animal shape grants a claw unarmed attack
 - **Requirements**: You’re in hybrid or animal shape.
 
-Sinking your claws in, you propel yourself at shocking speed. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]] up to your land Speed and make a claw Strike at any point during that movement. After you finish the movement, attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check against the surface's Climb DC.
+Sinking your claws in, you propel yourself at shocking speed. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]] up to your land Speed and make a claw Strike at any point during that movement. After you finish the movement, attempt an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check against the surface's Climb DC.
 
 **Success** You maintain your position.
 

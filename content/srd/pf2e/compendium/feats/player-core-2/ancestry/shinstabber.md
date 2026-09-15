@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Ratfolk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/overcrowd|Overcrowd]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Overcrowd|Overcrowd]]
 
 As long as you're Small or smaller, you can end your movement in the same square as an ally of any size. Only two creatures total can share the same space when using this ability or a similar one.
 

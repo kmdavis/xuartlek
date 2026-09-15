@@ -21,6 +21,6 @@ You place your shield in the path of an oncoming projectile. Your adjacent ally 
 
 ### Shield from Arrows leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/class/shield-from-spells|Shield from Spells]]
+[[srd/pf2e/compendium/feats/battlecry/class/Shield from Spells|Shield from Spells]]
 
 *Source: Battlecry! p. 45*

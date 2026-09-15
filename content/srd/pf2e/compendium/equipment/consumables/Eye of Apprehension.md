@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 - **Price**: 400 gp
 - **Usage**: affixed to armor
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]])
 - **Trigger**: You are about to roll Perception for initiative but haven't rolled yet
 - **Requirement**: You are a master in Perception
 

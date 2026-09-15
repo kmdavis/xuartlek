@@ -24,23 +24,23 @@ Strength or Intelligence
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/fist|claw]] or [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|Scimitar]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/Fist|claw]] or [[srd/pf2e/compendium/equipment/weapons/sword/Scimitar|Scimitar]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Moon|Moon]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Moon|Moon]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Nature|Nature]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Nature|Nature]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/fleet-step|Fleet Step]]
+[[srd/pf2e/compendium/spells/rank-1/Fleet Step|Fleet Step]]
 
 - **2nd**
 Feral Shades
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/moon-frenzy|Moon Frenzy]]
+[[srd/pf2e/compendium/spells/rank-5/Moon Frenzy|Moon Frenzy]]
 
 *Source: Divine Mysteries p. 304*

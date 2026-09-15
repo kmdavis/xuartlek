@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Magus`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/magus|magus class.]]
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Magus|magus class.]]
 
 *Source: Impossible Magic p. 252*

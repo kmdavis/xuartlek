@@ -18,7 +18,7 @@ socialImage: og-image.png
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 
-The visages of beasts are carved into the painted wood of a _beast staff_, with a large head on top. The staff is a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]_. While wielding the staff while you have it prepared, you’re affected by [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|_speak with animals_]]. If you have [[srd/pf2e/compendium/feats/player-core/archetype/animal-empathy-druid|Animal Empathy]], you gain a +1 circumstance bonus on checks using it. 
+The visages of beasts are carved into the painted wood of a _beast staff_, with a large head on top. The staff is a _[[srd/pf2e/compendium/equipment/weapons/Magic Weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/club/Staff|staff]]_. While wielding the staff while you have it prepared, you’re affected by [[srd/pf2e/compendium/spells/rank-2/Speak with Animals|_speak with animals_]]. If you have [[srd/pf2e/compendium/feats/player-core/archetype/Animal Empathy (Druid)|Animal Empathy]], you gain a +1 circumstance bonus on checks using it. 
 
 **Activate** Cast a Spell; **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
@@ -32,7 +32,7 @@ The visages of beasts are carved into the painted wood of a _beast staff_, with 
 
 ---
 
-**Cantrip** [[srd/pf2e/compendium/spells/cantrips/gouging-claw|_ gouging claw_]]**1st** [[srd/pf2e/compendium/spells/rank-1/pest-form|_ pest form_]], [[srd/pf2e/compendium/spells/rank-1/runic-body|_runic body_]]**2nd** [[srd/pf2e/compendium/spells/rank-2/animal-form|_ animal form_]], [[srd/pf2e/compendium/spells/rank-2/enlarge|_enlarge_]]
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/Gouging Claw|_ gouging claw_]]**1st** [[srd/pf2e/compendium/spells/rank-1/Pest Form|_ pest form_]], [[srd/pf2e/compendium/spells/rank-1/Runic Body|_runic body_]]**2nd** [[srd/pf2e/compendium/spells/rank-2/Animal Form|_ animal form_]], [[srd/pf2e/compendium/spells/rank-2/Enlarge|_enlarge_]]
 
 ### Beast Staff (Greater)
 
@@ -54,6 +54,6 @@ The staff is a _+2 striking staff_. The circumstance bonus if you have Animal Em
 ---
 
 The staff is a _+2 greater striking staff_. The circumstance bonus if you have Animal Empathy is +2. 
-5th _animal form_, insect form, [[srd/pf2e/compendium/spells/rank-5/moon-frenzy|_moon frenzy_]]**6th** [[srd/pf2e/compendium/spells/rank-6/cursed-metamorphosis|_cursed metamorphosis_]], _moon frenzy_
+5th _animal form_, insect form, [[srd/pf2e/compendium/spells/rank-5/Moon Frenzy|_moon frenzy_]]**6th** [[srd/pf2e/compendium/spells/rank-6/Cursed Metamorphosis|_cursed metamorphosis_]], _moon frenzy_
 
 *Source: Treasure Vault (Remastered) p. 130*

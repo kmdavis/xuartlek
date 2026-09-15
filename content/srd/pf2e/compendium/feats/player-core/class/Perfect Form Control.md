@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Druid`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/form-control|Form Control]]; Strength +4
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Form Control|Form Control]]; Strength +4
 
 Thanks to magic and muscle memory, you can stay in your alternate shapes indefinitely. When you use Form Control, instead of lasting 1 hour, untamed form’s duration is unlimited (you can still Dismiss it).
 

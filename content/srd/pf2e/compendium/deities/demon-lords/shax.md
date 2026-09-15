@@ -24,23 +24,23 @@ Dexterity or Charisma
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|Dagger]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|Dagger]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Pain|Pain]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Pain|Pain]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/phantom-pain|Phantom Pain]]
+[[srd/pf2e/compendium/spells/rank-1/Phantom Pain|Phantom Pain]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]]
+[[srd/pf2e/compendium/spells/rank-2/Invisibility|Invisibility]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/haste|Haste]]
+[[srd/pf2e/compendium/spells/rank-3/Haste|Haste]]
 
 *Source: Divine Mysteries p. 304*

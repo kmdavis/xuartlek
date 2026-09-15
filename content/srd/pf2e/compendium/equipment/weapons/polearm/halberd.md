@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Reach`  `Versatile`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/empyreal-lords/keltheald|Keltheald]], [[srd/pf2e/compendium/deities/empyreal-lords/olheon|Olheon]], [[srd/pf2e/compendium/deities/daemon-harbingers/tresmalvos|Tresmalvos]], [[srd/pf2e/compendium/deities/qlippoth-lords/yamasoth|Yamasoth]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/empyreal-lords/Keltheald|Keltheald]], [[srd/pf2e/compendium/deities/empyreal-lords/Olheon|Olheon]], [[srd/pf2e/compendium/deities/daemon-harbingers/Tresmalvos|Tresmalvos]], [[srd/pf2e/compendium/deities/qlippoth-lords/Yamasoth|Yamasoth]]
 - **Price**: 2 gp
 - **Damage**: 1d10 P
 - **Bulk**: 2
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Polearm
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Polearm|Polearm]]
 
 This polearm has a relatively short, 5-foot shaft. The business end is a long spike with an axe blade attached.
 
@@ -32,6 +32,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/doomsweeper|Doomsweeper]]
+Belimarius's Invidious Halberd, [[srd/pf2e/compendium/equipment/weapons/Doomsweeper|Doomsweeper]]
 
 *Source: Player Core p. 278*

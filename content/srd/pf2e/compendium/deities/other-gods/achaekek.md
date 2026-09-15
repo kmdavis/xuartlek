@@ -24,24 +24,24 @@ Strength or Dexterity
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/sawtooth-saber|Sawtooth Saber]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Sawtooth Saber|Sawtooth Saber]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Fate|Fate]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Fate|Fate]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]]
+[[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]]
+[[srd/pf2e/compendium/spells/rank-2/Invisibility|Invisibility]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/vision-of-death|Vision of Death]]
+[[srd/pf2e/compendium/spells/rank-4/Vision of Death|Vision of Death]]
 
 ### Divine Intercession
 
@@ -53,7 +53,7 @@ He Who Walks in Blood detests oathbreakers and bears a particular prejudice agai
 
 **Major Boon** Death lives in your very blade. You gain the sneak attack rogue class feature, dealing 3d6 precision damage. if you already have that class feature, you increase your sneak attack damage by 3d6.
 
-**Minor Curse** Achaekek’s minions seek vengeance. Nonsapient insects (especially mantises) become [[srd/pf2e/compendium/rules-elements/conditions#Hostile|hostile]] against you.
+**Minor Curse** Achaekek’s minions seek vengeance. Nonsapient insects (especially mantises) become [[srd/pf2e/compendium/rules-elements/Conditions#Hostile|hostile]] against you.
 
 **Moderate Curse** Hubris brings death. Your name and location are mentally projected into the mind of a Red Mantis assassin, who is tasked with eliminating you.
 

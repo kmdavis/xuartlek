@@ -24,23 +24,23 @@ Wisdom or Charisma
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/war-razor|War Razor]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/War Razor|War Razor]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/domains#Pain|Pain]], [[srd/pf2e/compendium/character/domains#Sorrow|Sorrow]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/Domains#Pain|Pain]], [[srd/pf2e/compendium/character/Domains#Sorrow|Sorrow]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/ill-omen|Ill Omen]]
+[[srd/pf2e/compendium/spells/rank-1/Ill Omen|Ill Omen]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]]
+[[srd/pf2e/compendium/spells/rank-4/Suggestion|Suggestion]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/wave-of-despair|Wave of Despair]]
+[[srd/pf2e/compendium/spells/rank-5/Wave of Despair|Wave of Despair]]
 
 *Source: Divine Mysteries p. 304*

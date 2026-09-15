@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Dragonblood`  `Lineage`
 
-A dragon with a deep connection to the natural world, such as an [[srd/pf2e/compendium/gm/creature-families/dragon-adamantine|adamantine dragon]] or a [[srd/pf2e/compendium/gm/creature-families/dragon-horned|horned dragon]], resides somewhere on your family tree. You tend to trust your instincts and might take on the role of a protector of the wilderness. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]. If you would automatically become trained in Nature (from your background or class, for example), you instead become trained in a skill of your choice. You can use Nature to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Direction|Sense Direction]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Subsist|Subsist]] in the wilds. If you choose a draconic exemplar, you must choose a primal dragon.
+A dragon with a deep connection to the natural world, such as an [[srd/pf2e/compendium/gm/creature-families/Dragon, Adamantine|adamantine dragon]] or a [[srd/pf2e/compendium/gm/creature-families/Dragon, Horned|horned dragon]], resides somewhere on your family tree. You tend to trust your instincts and might take on the role of a protector of the wilderness. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]. If you would automatically become trained in Nature (from your background or class, for example), you instead become trained in a skill of your choice. You can use Nature to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Direction|Sense Direction]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Subsist|Subsist]] in the wilds. If you choose a draconic exemplar, you must choose a primal dragon.
 
 ### Primal Dragonblood leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/ancestry/traditional-resistances|Traditional Resistances]], Voice of the Elements
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Traditional Resistances|Traditional Resistances]], Voice of the Elements
 
 *Source: Player Core 2 p. 45*

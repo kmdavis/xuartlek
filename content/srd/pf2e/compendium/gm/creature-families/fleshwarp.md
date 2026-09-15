@@ -16,7 +16,7 @@ Magical mishaps, divine curses, and untested technology are all capable of wreak
 
 ### Members
 
-[[srd/pf2e/bestiary/battlecry/aberration/fleshwarp-amalgam|Fleshwarp Amalgam]] (Creature 8), [[srd/pf2e/bestiary/monster-core/aberration/grothlut|Grothlut]] (Creature 3), [[srd/pf2e/bestiary/monster-core/aberration/irnakurse|Irnakurse]] (Creature 9)
+[[srd/pf2e/bestiary/battlecry/aberration/Fleshwarp Amalgam|Fleshwarp Amalgam]] (Creature 8), [[srd/pf2e/bestiary/monster-core/aberration/Grothlut|Grothlut]] (Creature 3), [[srd/pf2e/bestiary/monster-core/aberration/Irnakurse|Irnakurse]] (Creature 9)
 
 ### Failed Fleshwarps
 

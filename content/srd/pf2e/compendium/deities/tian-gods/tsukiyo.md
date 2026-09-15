@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: provide aid and counsel without judgment to those who seek help, help the dead find their rest, amplify or help speak for the powerless and demonized
 - **Anathema**: harm another out of envy, force aid on those who do not want it, inflict harmful mental effects on others as punishment, knowingly hurt the innocent, commit murder
 - **Area of Concern**: jade, the moon, spirits
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/cosmic-caravan|Cosmic Caravan]], [[srd/pf2e/compendium/deities/pantheons/guardians-of-the-sacred-self|Guardians of the Sacred Self]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Cosmic Caravan|Cosmic Caravan]], [[srd/pf2e/compendium/deities/pantheons/Guardians of the Sacred Self|Guardians of the Sacred Self]]
 
 ### Devotee Benefits
 
@@ -25,30 +25,30 @@ Constitution or Intelligence
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/spear|Spear]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/Spear|Spear]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/domains#Moon|Moon]], [[srd/pf2e/compendium/character/domains#Repose|Repose]], [[srd/pf2e/compendium/character/domains#Soul|Soul]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/Domains#Moon|Moon]], [[srd/pf2e/compendium/character/Domains#Repose|Repose]], [[srd/pf2e/compendium/character/Domains#Soul|Soul]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Change|Change]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]]
+[[srd/pf2e/compendium/spells/rank-1/Soothe|Soothe]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/peaceful-bubble|Peaceful Bubble]]
+[[srd/pf2e/compendium/spells/rank-4/Peaceful Bubble|Peaceful Bubble]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/hallucination|Hallucination]]
+[[srd/pf2e/compendium/spells/rank-5/Hallucination|Hallucination]]
 
 ### Divine Intercession
 
 Ever mercurial, the Prince of the Moon gives his blessings rarely and somewhat spontaneously. An understanding soul, he is as slow to curse as he is to bless.
 
-**Minor Boon** Tsukiyo’s simplest show of gratitude is a gift of clarity. Once, when you roll a failure on a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effect, you get a critical success instead. Tsukiyo typically grants this boon against a particularly consequential mental effect.
+**Minor Boon** Tsukiyo’s simplest show of gratitude is a gift of clarity. Once, when you roll a failure on a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effect, you get a critical success instead. Tsukiyo typically grants this boon against a particularly consequential mental effect.
 
 **Moderate Boon** Tsukiyo watches over you and guards your sleep. You are guaranteed a peaceful night’s rest no matter what conditions you are sleeping in. Even nightmare and similar abilities can’t disrupt your sleep unless they come from a deity, artifact, or similarly powerful source.
 
@@ -56,7 +56,7 @@ Ever mercurial, the Prince of the Moon gives his blessings rarely and somewhat s
 
 **Minor Curse** Those who offend Tsukiyo find that light actively shuns them. You lose any low-light vision or darkvision you have, and you treat all light levels as one step lower.
 
-**Moderate Curse** If Tsukiyo is particularly offended by someone, they may find themselves lost in delusions of moonlight. When attempting to navigate or find something at night, if you roll a success or critical success on your Perception check, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] check, or other check to do so, you get a failure instead.
+**Moderate Curse** If Tsukiyo is particularly offended by someone, they may find themselves lost in delusions of moonlight. When attempting to navigate or find something at night, if you roll a success or critical success on your Perception check, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] check, or other check to do so, you get a failure instead.
 
 **Major Curse** When Tsukiyo truly loses patience with someone, he forces them to experience the hardships of others firsthand. Whenever you touch another creature or another creature touches you, you immediately gain any negative curses, diseases, and conditions they are suffering. These effects spread to you even when you Strike another creature or a creature Strikes you.
 

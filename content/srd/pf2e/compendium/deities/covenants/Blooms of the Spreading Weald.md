@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/staff|Staff]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Staff|Staff]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Decay|Decay]], [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Wood|Wood]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Decay|Decay]], [[srd/pf2e/compendium/character/Domains#Healing|Healing]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Wood|Wood]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/flourishing-flora|Flourishing Flora]]
+[[srd/pf2e/compendium/spells/rank-1/Flourishing Flora|Flourishing Flora]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/oaken-resilience|Oaken Resilience]]
+[[srd/pf2e/compendium/spells/rank-2/Oaken Resilience|Oaken Resilience]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/natures-pathway|Nature's Pathway]]
+[[srd/pf2e/compendium/spells/rank-5/Nature's Pathway|Nature's Pathway]]
 
 *Source: Divine Mysteries p. 238*

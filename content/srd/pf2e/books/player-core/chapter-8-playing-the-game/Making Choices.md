@@ -1,6 +1,7 @@
 ---
 title: "Making Choices"
 aliases: ["Making Choices"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2264"
 citation: "Player Core pg. 397"
-socialImage: og-image.png
 ---
 
 # Making Choices
@@ -20,4 +20,4 @@ Throughout the game, the GM describes what's happening in the world and then ask
 
 Often, your choices have no immediate risk or consequences. If you're traveling along a forest path and come across a fork in the trail, the GM will ask, “Which way do you go?” You might choose to take the right fork or the left. You could also choose to leave the trail, or just go back to town. Once your choice is made, the GM tells you what happens next. Down the line, that choice may impact what you encounter later in the game, but in many cases nothing dangerous happens immediately.
 
-But sometimes what happens as a result of your choices is less than certain. In those cases, you'll attempt a check, as described [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks|here]].
+But sometimes what happens as a result of your choices is less than certain. In those cases, you'll attempt a check, as described [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks|here]].

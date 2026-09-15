@@ -16,15 +16,15 @@ socialImage: og-image.png
 
 `Archetype`  `Electricity`  `Primal`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wild-mimic|Wild Mimic]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wild Mimic|Wild Mimic]]
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/wild-mimic-dedication|Wild Mimic Dedication]]; you have seen a creature deal electricity damage with an unarmed Strike or have identified a creature capable of dealing electricity damage with an unarmed Strike in combat
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Wild Mimic Dedication|Wild Mimic Dedication]]; you have seen a creature deal electricity damage with an unarmed Strike or have identified a creature capable of dealing electricity damage with an unarmed Strike in combat
 
-Some animals and beasts have electric organs in their body that they can use to jolt their prey. You may not have the requisite physiology to do the same, but a touch of primal magic can achieve the same effect. Make a melee [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] Strike against a creature. If the Strike hits, it deals an additional 1d12 electricity damage, and the creature must make a Fortitude save against the higher of your class DC or spell DC.
+Some animals and beasts have electric organs in their body that they can use to jolt their prey. You may not have the requisite physiology to do the same, but a touch of primal magic can achieve the same effect. Make a melee [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] Strike against a creature. If the Strike hits, it deals an additional 1d12 electricity damage, and the creature must make a Fortitude save against the higher of your class DC or spell DC.
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]] for 1 round.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy 1]] for 1 round.
 
 **Failure** The creature is clumsy 2 for 1 round.
 

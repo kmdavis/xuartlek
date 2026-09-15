@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/cleric|Cleric]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/basic-cleric-spellcasting|Basic Cleric Spellcasting]]; Master in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Cleric|Cleric]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Basic Cleric Spellcasting|Basic Cleric Spellcasting]]; Master in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
-You gain the expert [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|spellcasting benefits]].
+You gain the expert [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Spellcasting Archetypes|spellcasting benefits]].
 
 ### Expert Cleric Spellcasting leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/master-cleric-spellcasting|Master Cleric Spellcasting]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Master Cleric Spellcasting|Master Cleric Spellcasting]]
 
 *Source: Player Core p. 217*

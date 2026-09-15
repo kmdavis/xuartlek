@@ -14,7 +14,7 @@ The bane of hungry adventurers the world over, sportlebores are nefarious vermin
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core-2/animal/sportlebore-swarm|Sportlebore Swarm]] (Creature 7)
+[[srd/pf2e/bestiary/monster-core-2/animal/Sportlebore Swarm|Sportlebore Swarm]] (Creature 7)
 
 ### Other Sportlebores
 

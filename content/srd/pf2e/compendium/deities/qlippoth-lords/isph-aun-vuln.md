@@ -24,23 +24,23 @@ Constitution or Charisma
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/longbow|Longbow]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/Longbow|Longbow]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Air|Air]], [[srd/pf2e/compendium/character/domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/domains#Plague|Plague]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Air|Air]], [[srd/pf2e/compendium/character/Domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/Domains#Plague|Plague]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/domains#Tyranny|Tyranny]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/Domains#Tyranny|Tyranny]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/goblin-pox|Goblin Pox]]
+[[srd/pf2e/compendium/spells/rank-1/Goblin Pox|Goblin Pox]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/toxic-cloud|Toxic Cloud]]
+[[srd/pf2e/compendium/spells/rank-5/Toxic Cloud|Toxic Cloud]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/warp-mind|Warp Mind]]
+[[srd/pf2e/compendium/spells/rank-7/Warp Mind|Warp Mind]]
 
 *Source: Divine Mysteries p. 320*

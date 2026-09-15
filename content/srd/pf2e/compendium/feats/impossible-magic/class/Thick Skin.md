@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Necromancer`
 
-- **Prerequisites**: flesh grim fascination
+- **Prerequisites**: [[srd/pf2e/compendium/character/Grim Fascinations#Flesh|flesh grim fascination]]
 
-You thicken your skin by adding an impossibly thin layer of dense muscle directly under the surface. Increase your maximum Hit Points by your level. The first time each round you destroy a thrall, each enemy adjacent to you must succeed at a Fortitude save against your spell DC or become [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1.
+You thicken your skin by adding an impossibly thin layer of dense muscle directly under the surface. Increase your maximum Hit Points by your level. The first time each round you destroy a thrall, each enemy adjacent to you must succeed at a Fortitude save against your spell DC or become [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] 1.
 
 *Source: Impossible Magic p. 39*

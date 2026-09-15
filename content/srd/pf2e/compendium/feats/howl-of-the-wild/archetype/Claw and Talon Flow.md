@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/clawdancer|Clawdancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/clawdancer-dedication|Clawdancer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Clawdancer|Clawdancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Clawdancer Dedication|Clawdancer Dedication]]
 - **Requirements**: You’re in either claw stance or talon stance.
 
 You fluidly shift between your two stances. You use the unarmed attack associated with your current clawdancer stance, then switch into the other stance (if you're in claw stance, make a frenzied claw Strike and then shift to talon stance, or vice versa).

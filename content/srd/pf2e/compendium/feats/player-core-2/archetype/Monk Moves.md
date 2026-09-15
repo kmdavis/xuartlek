@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/monk|Monk]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/monk-dedication|Monk Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Monk|Monk]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Monk Dedication|Monk Dedication]]
 
 You gain a +10-foot status bonus to your Speed when you’re not wearing armor.
 

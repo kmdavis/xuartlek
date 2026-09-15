@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-You create three immobile tendrils made of blood that lash out at your enemies. You learn the [[srd/pf2e/compendium/spells/focus/bloody-tendrils|_bloody tendrils_]] grave spell.
+You create three immobile tendrils made of blood that lash out at your enemies. You learn the [[srd/pf2e/compendium/spells/focus/Bloody Tendrils|_bloody tendrils_]] grave spell.
 
 *Source: Impossible Magic p. 35*

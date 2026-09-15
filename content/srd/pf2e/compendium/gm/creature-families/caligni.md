@@ -14,17 +14,17 @@ Calignis lurk in subterranean cities, with each caligni growing into a specific 
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core-2/humanoid/caligni-caller|Caligni Caller]] (Creature 6), [[srd/pf2e/bestiary/monster-core/humanoid/caligni-dancer|Caligni Dancer]] (Creature 1), [[srd/pf2e/bestiary/monster-core/humanoid/caligni-hunter|Caligni Hunter]] (Creature 4), [[srd/pf2e/bestiary/monster-core/humanoid/caligni-skulker|Caligni Skulker]] (Creature 2), [[srd/pf2e/bestiary/monster-core-2/humanoid/caligni-vanguard|Caligni Vanguard]] (Creature 5)
+[[srd/pf2e/bestiary/monster-core-2/humanoid/Caligni Caller|Caligni Caller]] (Creature 6), [[srd/pf2e/bestiary/monster-core/humanoid/Caligni Dancer|Caligni Dancer]] (Creature 1), [[srd/pf2e/bestiary/monster-core/humanoid/Caligni Hunter|Caligni Hunter]] (Creature 4), [[srd/pf2e/bestiary/monster-core/humanoid/Caligni Skulker|Caligni Skulker]] (Creature 2), [[srd/pf2e/bestiary/monster-core-2/humanoid/Caligni Vanguard|Caligni Vanguard]] (Creature 5)
 
 ### Caligni Faiths
 
-Some calignis have abandoned their traditional faith in favor of more active deities; evil individuals favor [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/norgorber|Norgorber]] or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/zon-kuthon|Zon-Kuthon]], while the less malevolent might follow [[srd/pf2e/compendium/deities/other-gods/nocticula|Nocticula]] or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]]. Perhaps unexpectedly, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]] also has a small caligni following, particularly among those who frequently travel.
+Some calignis have abandoned their traditional faith in favor of more active deities; evil individuals favor [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Norgorber|Norgorber]] or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Zon-Kuthon|Zon-Kuthon]], while the less malevolent might follow [[srd/pf2e/compendium/deities/other-gods/Nocticula|Nocticula]] or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Pharasma|Pharasma]]. Perhaps unexpectedly, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Desna|Desna]] also has a small caligni following, particularly among those who frequently travel.
 
 ### Darkening Poison
 
 Many calignis keep several doses of darkening poison, an uncommon injury poison made from Darklands spider venom, on hand to incapacitate foes. A dose of darkening poison costs 5 gp, is of light Bulk, is held in 2 hands, and has the following statistics.
 
- **Saving Throw** DC 16 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison (1 round); **Stage 2** 1d6 poison and creatures you can see only with darkvision are [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] from you (1 round); **Stage 3** 1d6 poison and creatures you can see only with darkvision are [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] from you (1 round)
+ **Saving Throw** DC 16 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison (1 round); **Stage 2** 1d6 poison and creatures you can see only with darkvision are [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] from you (1 round); **Stage 3** 1d6 poison and creatures you can see only with darkvision are [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] from you (1 round)
 
 ### The Caligni Legacy
 

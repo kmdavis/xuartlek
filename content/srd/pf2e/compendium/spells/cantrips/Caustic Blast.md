@@ -17,9 +17,9 @@ socialImage: og-image.png
 
 `Acid`  `Cantrip`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Demonic|Demonic]]
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Blight|Blight]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Demonic|Demonic]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Blight|Blight]]
 - **Range**: 30 feet
 - **Area**: 5-foot burst
 - **Defense**: basic Reflex

@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Acid`  `Concentrate`  `Water`
 
-- **Traditions**: Arcane, Primal
-- **Deity**: [[srd/pf2e/compendium/deities/eldest/ragadahn|Ragadahn]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deity**: [[srd/pf2e/compendium/deities/eldest/Ragadahn|Ragadahn]]
 - **Trigger**: A creature within range takes damage from a slashing or piercing attack, or one that inflicts persistent bleed damage.
 - **Range**: 30 feet
 - **Target**: the creature that took damage

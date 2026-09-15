@@ -24,24 +24,24 @@ Strength or Constitution
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/axe/greataxe|Greataxe]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/axe/Greataxe|Greataxe]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Air|Air]], [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Earth|Earth]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Air|Air]], [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Earth|Earth]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/domains#Swarm|Swarm]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/Domains#Swarm|Swarm]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/breathe-fire|Breathe Fire]]
+[[srd/pf2e/compendium/spells/rank-1/Breathe Fire|Breathe Fire]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/enlarge|Enlarge]]
+[[srd/pf2e/compendium/spells/rank-2/Enlarge|Enlarge]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/disintegrate|Disintegrate]]
+[[srd/pf2e/compendium/spells/rank-6/Disintegrate|Disintegrate]]
 
 ### Divine Intercession
 
@@ -53,10 +53,10 @@ Rovagug’s imprisonment means he can almost never intercede on Golarion, but so
 
 **Major Boon** You can crack the surface of Golarion, accelerating the release of the Rough Beast. You gain the Quaking Stomp barbarian feat.
 
-**Minor Curse** Whenever you are imprisoned, you thrash and shake as your mind fills with desperation. Any time you are [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] or otherwise imprisoned (such as being sent to jail), you are also clumsy 2 and stupefied 2.
+**Minor Curse** Whenever you are imprisoned, you thrash and shake as your mind fills with desperation. Any time you are [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] or otherwise imprisoned (such as being sent to jail), you are also clumsy 2 and stupefied 2.
 
-**Moderate Curse** Your destructive rage seeks to remain unbound. Any armor you wear automatically becomes [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]]. Other items in your possession occasionally become broken over time.
+**Moderate Curse** Your destructive rage seeks to remain unbound. Any armor you wear automatically becomes [[srd/pf2e/compendium/rules-elements/Conditions#Broken|broken]]. Other items in your possession occasionally become broken over time.
 
-**Major Curse** You are useful only as a beacon of destruction. You are permanently [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]], rampaging against anything and everything in your sight, and you deal an additional 18 damage with your unarmed and weapon Strikes.
+**Major Curse** You are useful only as a beacon of destruction. You are permanently [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]], rampaging against anything and everything in your sight, and you deal an additional 18 damage with your unarmed and weapon Strikes.
 
 *Source: Divine Mysteries p. 90*

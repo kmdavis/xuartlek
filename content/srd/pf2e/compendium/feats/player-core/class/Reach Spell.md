@@ -27,6 +27,6 @@ You can extend your spells’ range. If the next action you use is to Cast a Spe
 
 ### Reach Spell leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/knowledge-of-shapes|Knowledge of Shapes]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Knowledge of Shapes|Knowledge of Shapes]]
 
 *Source: Player Core p. 101*

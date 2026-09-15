@@ -24,23 +24,23 @@ Dexterity or Charisma
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/whip|Whip]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/Whip|Whip]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Air|Air]], [[srd/pf2e/compendium/character/domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/domains#Lightning|Lightning]], [[srd/pf2e/compendium/character/domains#Travel|Travel]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Air|Air]], [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/Domains#Lightning|Lightning]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/liberating-command|Liberating Command]]
+[[srd/pf2e/compendium/spells/rank-1/Liberating Command|Liberating Command]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/aerial-form|Aerial Form]]
+[[srd/pf2e/compendium/spells/rank-4/Aerial Form|Aerial Form]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/chain-lightning|Chain Lightning]]
+[[srd/pf2e/compendium/spells/rank-6/Chain Lightning|Chain Lightning]]
 
 *Source: Divine Mysteries p. 306*

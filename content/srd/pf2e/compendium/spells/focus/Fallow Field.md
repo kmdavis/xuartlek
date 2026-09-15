@@ -20,13 +20,13 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Uncommon`  `Void`  `Negative`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Decay|Decay]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Decay|Decay]]
 - **Range**: 60 feet
-- **Area**: 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
+- **Area**: 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
 - **Defense**: Will
 - **Duration**: sustained up to 1 minute
 
-A sickly yellow light fills the area as entropic forces prevent [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]]. When a creature within the area would regain Hit Points, such as from a healing effect or an ability like fast healing or regeneration, it must attempt a Will save.
+A sickly yellow light fills the area as entropic forces prevent [[srd/pf2e/compendium/rules-elements/traits/player-core/Healing|healing]]. When a creature within the area would regain Hit Points, such as from a healing effect or an ability like fast healing or regeneration, it must attempt a Will save.
 
 **Critical Success** The creature regains the full number of Hit Points that would be restored by the healing effect and is temporarily immune for 1 minute.
 

@@ -30,7 +30,7 @@ perception:
     desc: "+6; darkvision, tremorsense 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +5"
 abilityMods: [4, -1, 4, -4, 2, -1]
 ac: 17
 armorclass:
@@ -39,7 +39,7 @@ armorclass:
 hp: 35
 health:
   - name: "HP"
-    desc: "35; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
+    desc: "35; __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]"
 speed: "20 feet, burrow 20 feet; earth glide"
 attacks:
   - name: "Melee"

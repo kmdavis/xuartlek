@@ -17,7 +17,7 @@ socialImage: og-image.png
 - **Cast**: 1 day
 - **Cost**: talismans written with rare inks worth 500 gp
 - **Secondary Casters**: 1
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (master)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] (master)
 - **Secondary Checks**: Intimidation or Religion
 - **Area**: a single room no larger than 25 feet by 25 feet
 - **Duration**: 1 week

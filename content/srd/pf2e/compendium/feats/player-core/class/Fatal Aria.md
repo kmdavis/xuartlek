@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Bard`
 
-Your songs overwhelm the target with unbearable emotion, potentially striking them dead on the spot. You learn the [[srd/pf2e/compendium/spells/focus/fatal-aria|_fatal aria_]] composition spell.
+Your songs overwhelm the target with unbearable emotion, potentially striking them dead on the spot. You learn the [[srd/pf2e/compendium/spells/focus/Fatal Aria|_fatal aria_]] composition spell.
 
 *Source: Player Core p. 107*

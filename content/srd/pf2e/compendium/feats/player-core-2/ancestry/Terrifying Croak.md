@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Tripkee`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-You release a haunting croak that reminds those around you of their fears. Attempt an Intimidation check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] a creature within 30 feet; you do not take a penalty to this check for not speaking a language. If the check is successful, the target cannot reduce their [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition below 1 for 1 round.
+You release a haunting croak that reminds those around you of their fears. Attempt an Intimidation check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] a creature within 30 feet; you do not take a penalty to this check for not speaking a language. If the check is successful, the target cannot reduce their [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] condition below 1 for 1 round.
 
 *Source: Player Core 2 p. 38*

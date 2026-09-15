@@ -26,10 +26,10 @@ modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +19, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +23, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +19, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +19, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +23, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +19, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +17"
 abilityMods: [7, 3, 6, 0, 3, 0]
 ac: 30
 armorclass:
@@ -45,16 +45,16 @@ abilities_mid:
 speed: "40 feet, climb 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d12+13 piercing"
+    desc: "⬻ jaws +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 2d12+13 piercing"
   - name: "Melee"
-    desc: "⬻ claw +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d8+13 slashing"
+    desc: "⬻ claw +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 2d8+13 slashing"
 abilities_bot:
   - name: "Eerie Flexibility"
     desc: "Despite its size, the gug's multiple joints allow it to fit through tight spaces as if it were a Medium creature. While [[srd/pf2e/compendium/rules-elements/actions/player-core#Squeeze|Squeezing]], it can move at its full Speed."
   - name: "Furious Claws"
     desc: "⬺ The gug makes up to four claw Strikes, each against a different target. These attacks all count toward the gug's multiple attack penalty, but the penalty doesn't increase until after the gug makes all its attacks."
   - name: "Rend"
-    desc: "⬻ claw Eldritch Gods Gugs don't traditionally make religion and faith a key part of their society, but gug cities always feature prominent temples to obscure gods whose faith has passed from view on most mortal worlds. Most gugs certainly know of entities such as [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/azathoth|Azathoth]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-crawling-chaos|Nyarlathotep]], and [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/yog-sothoth|Yog-Sothoth]], but even among gugs, these Outer Gods are more feared and respected than prayed to."
+    desc: "⬻ claw Eldritch Gods Gugs don't traditionally make religion and faith a key part of their society, but gug cities always feature prominent temples to obscure gods whose faith has passed from view on most mortal worlds. Most gugs certainly know of entities such as [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Azathoth|Azathoth]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (The Crawling Chaos)|Nyarlathotep]], and [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Yog-Sothoth|Yog-Sothoth]], but even among gugs, these Outer Gods are more feared and respected than prayed to."
 sourcebook: "_Monster Core 2_, page 184."
 ```
 

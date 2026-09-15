@@ -20,13 +20,13 @@ socialImage: og-image.png
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 Your features become striking, and your voice becomes musical and commanding, though emotion clouds your reason. 
 
-**Benefit** You gain an item bonus to [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], and [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks. Your critical failures with any of these skills become failures instead. 
+**Benefit** You gain an item bonus to [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], and [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] checks. Your critical failures with any of these skills become failures instead. 
 
-**Drawback** You take a –2 penalty to [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], and [[srd/pf2e/compendium/rules-elements/skills/society|Society]] checks. Choose one skill in which you're trained; for the duration, you become untrained in that skill.
+**Drawback** You take a –2 penalty to [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], and [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] checks. Choose one skill in which you're trained; for the duration, you become untrained in that skill.
 
 ### Silvertongue Mutagen (Lesser)
 

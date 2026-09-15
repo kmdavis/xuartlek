@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/commander|Commander]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/commander-dedication|Commander Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Commander|Commander]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Commander Dedication|Commander Dedication]]
 
 You gain a 1st- or 2nd-level commander feat.
 
 ### Basic Field Training leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/archetype/advanced-field-training|Advanced Field Training]]
+[[srd/pf2e/compendium/feats/battlecry/archetype/Advanced Field Training|Advanced Field Training]]
 
 *Source: Battlecry! p. 52*

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/battle-harbinger|Battle Harbinger]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Battle Harbinger|Battle Harbinger]]
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/battle-harbinger-dedication|Battle Harbinger Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Battle Harbinger Dedication|Battle Harbinger Dedication]]
 
 You’ve become an unparalleled figure among your faith, able to align your divine abilities with unparalleled swiftness. You cast a battle aura using one of your divine font slots.
 

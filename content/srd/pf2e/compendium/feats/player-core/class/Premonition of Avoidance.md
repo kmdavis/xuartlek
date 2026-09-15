@@ -22,6 +22,6 @@ Your deity grants you a moment’s foresight. You gain a +2 circumstance bonus t
 
 ### Premonition of Avoidance leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/shared-avoidance|Shared Avoidance]]
+[[srd/pf2e/compendium/feats/player-core/class/Shared Avoidance|Shared Avoidance]]
 
 *Source: Player Core p. 114*

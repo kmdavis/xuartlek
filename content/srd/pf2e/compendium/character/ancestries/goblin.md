@@ -36,7 +36,7 @@ Goblins tend to flock to strong leaders, forming small tribes. These tribes rare
 
 ### Alignment and Religion
 
-Even the most well-intentioned goblins have trouble following the rules, meaning goblin adventurers are often unsure whether they're on the right side of the law. Organized worship likewise confounds goblins, and most of them would rather pick their own deities, choosing powerful monsters, natural wonders, or anything else they find fascinating— sometimes even attributing deific status to fellow goblins of note. Goblins who spend time around people of other ancestries might adopt some of their beliefs, though, and many goblin adventurers adopt the worship of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/cayden-cailean|Cayden Cailean]].
+Even the most well-intentioned goblins have trouble following the rules, meaning goblin adventurers are often unsure whether they're on the right side of the law. Organized worship likewise confounds goblins, and most of them would rather pick their own deities, choosing powerful monsters, natural wonders, or anything else they find fascinating— sometimes even attributing deific status to fellow goblins of note. Goblins who spend time around people of other ancestries might adopt some of their beliefs, though, and many goblin adventurers adopt the worship of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Cayden Cailean|Cayden Cailean]].
 
  **Popular Edicts** invent songs for every occasion, turn trash into your treasures, solve problems with fire
  **Popular Anathema** trust a dog or horse, learn to read
@@ -57,11 +57,11 @@ Ak, Bokker, Frum, Guzmuk, Krobby, Loohi, Mazmord, Neeka, Omgot, Ranzak, Rickle, 
 
 #### Languages
 
-[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
-[[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]]
+[[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]], [[srd/pf2e/compendium/rules-elements/languages#Kholo|Kholo]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]], and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/Languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/Languages#Halfling|Halfling]], [[srd/pf2e/compendium/rules-elements/Languages#Kholo|Kholo]], [[srd/pf2e/compendium/rules-elements/Languages#Orcish|Orcish]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 | | |
 | --- | --- |

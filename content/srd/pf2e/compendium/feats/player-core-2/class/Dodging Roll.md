@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Monk`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]]
 - **Trigger**: You take damage from an area effect that allows a Reflex save.
 
 You dodge a blow at the last possible moment. You Step and gain resistance to all damage equal to your level against the triggering effect. If your Step moves you out of the triggering effect's area, this resistance is instead equal to your level plus your Dexterity modifier.

@@ -28,10 +28,10 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], Iruxi"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], Iruxi"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +4, Iruxi Lore +6, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +4, Iruxi Lore +6, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +8, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +6, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +8"
 abilityMods: [2, 2, 1, 0, 4, 0]
 abilities_top:
   - name: "Deep Breath"
@@ -49,14 +49,14 @@ health:
 speed: "25 feet, swim 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ staff +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d8]]) __Damage__ 1d6+2 bludgeoning"
+    desc: "⬻ staff +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Two-Hand|two-hand d8]]) __Damage__ 1d6+2 bludgeoning"
   - name: "Melee"
     desc: "⬻ jaws +8 __Damage__ 1d6+2 piercing"
   - name: "Melee"
-    desc: "⬻ tail +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ tail +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]]) __Damage__ 1d4+2 bludgeoning"
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 18, attack +10 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/guidance|Guidance]], [[srd/pf2e/compendium/spells/cantrips/ignition|Ignition]], [[srd/pf2e/compendium/spells/cantrips/know-the-way|Know the Way]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/stabilize|Stabilize]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/charm|Charm]], [[srd/pf2e/compendium/spells/rank-1/heal|Heal]], [[srd/pf2e/compendium/spells/rank-1/runic-body|Runic Body]], [[srd/pf2e/compendium/spells/rank-1/pest-form|Pest Form]], [[srd/pf2e/compendium/spells/rank-1/summon-animal|Summon Animal]]"
+    desc: "DC 18, attack +10 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/Guidance|Guidance]], [[srd/pf2e/compendium/spells/cantrips/Ignition|Ignition]], [[srd/pf2e/compendium/spells/cantrips/Know the Way|Know the Way]], [[srd/pf2e/compendium/spells/cantrips/Light|Light]], [[srd/pf2e/compendium/spells/cantrips/Stabilize|Stabilize]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Charm|Charm]], [[srd/pf2e/compendium/spells/rank-1/Heal|Heal]], [[srd/pf2e/compendium/spells/rank-1/Runic Body|Runic Body]], [[srd/pf2e/compendium/spells/rank-1/Pest Form|Pest Form]], [[srd/pf2e/compendium/spells/rank-1/Summon Animal|Summon Animal]]"
 sourcebook: "_Monster Core_, page 227."
 ```
 

@@ -18,12 +18,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Incapacitation`  `Linguistic`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: planetary
 - **Target**: 1 creature you’ve telepathically contacted before
 - **Defense**: Will
 - **Duration**: varies
 
-You send the target a message of 25 words or fewer, and it can respond immediately with its own message of 25 words or fewer. Your message is insidious and has the effect of a [[srd/pf2e/compendium/spells/rank-4/suggestion|_suggestion_]] spell, with the message substituting for the spoken suggestion. On a successful save, the target is temporarily immune for 1 day, and on a critical success, the target is temporarily immune for 1 month. You can target a creature only if you've previously been in telepathic contact with it before, such as via the [[srd/pf2e/compendium/spells/rank-4/telepathy|_telepathy_]] spell.
+You send the target a message of 25 words or fewer, and it can respond immediately with its own message of 25 words or fewer. Your message is insidious and has the effect of a [[srd/pf2e/compendium/spells/rank-4/Suggestion|_suggestion_]] spell, with the message substituting for the spoken suggestion. On a successful save, the target is temporarily immune for 1 day, and on a critical success, the target is temporarily immune for 1 month. You can target a creature only if you've previously been in telepathic contact with it before, such as via the [[srd/pf2e/compendium/spells/rank-4/Telepathy|_telepathy_]] spell.
 
 *Source: Player Core 2 p. 253*

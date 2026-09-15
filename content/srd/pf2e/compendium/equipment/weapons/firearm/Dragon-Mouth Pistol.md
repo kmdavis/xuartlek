@@ -26,10 +26,10 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Firearm
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
-Similar to the [[srd/pf2e/compendium/equipment/weapons/firearm/blunderbuss|blunderbuss]], a dragon-mouth pistol fires pellets from a flared barrel. Though less powerful than a blunderbuss, the dragon-mouth pistol is appreciated for its portability and one-handed design. Though the name was coined because of the destructive belch of this handheld scatter weapon, many gunsmiths craft dragon-mouth pistols with elaborate embellishments that resemble a stylized dragon's maw framing the barrel.
+Similar to the [[srd/pf2e/compendium/equipment/weapons/firearm/Blunderbuss|blunderbuss]], a dragon-mouth pistol fires pellets from a flared barrel. Though less powerful than a blunderbuss, the dragon-mouth pistol is appreciated for its portability and one-handed design. Though the name was coined because of the destructive belch of this handheld scatter weapon, many gunsmiths craft dragon-mouth pistols with elaborate embellishments that resemble a stylized dragon's maw framing the barrel.
 
 ### Critical Specialization Effects
 
@@ -37,6 +37,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/howler-pistol|Howler Pistol]], [[srd/pf2e/compendium/equipment/intelligent-items/sunken-pistol|Sunken Pistol]], Sunken Pistol
+[[srd/pf2e/compendium/equipment/weapons/Howler Pistol|Howler Pistol]], [[srd/pf2e/compendium/equipment/intelligent-items/Sunken Pistol|Sunken Pistol]], Sunken Pistol
 
 *Source: Guns & Gears (Remastered) p. 152*

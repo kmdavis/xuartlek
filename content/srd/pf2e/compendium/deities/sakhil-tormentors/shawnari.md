@@ -24,23 +24,23 @@ Intelligence or Charisma
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/sap|Sap]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Sap|Sap]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/domains#Time|Time]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/Domains#Time|Time]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/penumbral-shroud|Penumbral Shroud]]
+[[srd/pf2e/compendium/spells/rank-1/Penumbral Shroud|Penumbral Shroud]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/curse-of-lost-time|Curse of Lost Time]]
+[[srd/pf2e/compendium/spells/rank-3/Curse of Lost Time|Curse of Lost Time]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/illusory-scene|Illusory Scene]]
+[[srd/pf2e/compendium/spells/rank-5/Illusory Scene|Illusory Scene]]
 
 *Source: Divine Mysteries p. 320*

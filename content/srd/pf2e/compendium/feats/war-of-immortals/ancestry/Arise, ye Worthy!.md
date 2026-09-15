@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Nephilim`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/ancestry/battleblooded|Battleblooded]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/ancestry/Battleblooded|Battleblooded]]
 
-A touch of valkyrie magic in your blood lets you hold back death’s grasp. You can cast [[srd/pf2e/compendium/spells/rank-5/breath-of-life|_breath of life_]] as a divine innate spell once per day.
+A touch of valkyrie magic in your blood lets you hold back death’s grasp. You can cast [[srd/pf2e/compendium/spells/rank-5/Breath of Life|_breath of life_]] as a divine innate spell once per day.
 
 *Source: War of Immortals p. 55*

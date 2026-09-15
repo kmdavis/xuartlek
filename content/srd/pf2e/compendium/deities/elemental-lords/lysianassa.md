@@ -24,23 +24,23 @@ Dexterity or Constitution
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/spear|Spear]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/Spear|Spear]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Fate|Fate]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Water|Water]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Fate|Fate]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Water|Water]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Dreams|Dreams]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Time|Time]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Dreams|Dreams]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Time|Time]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/hydraulic-push|Hydraulic Push]]
+[[srd/pf2e/compendium/spells/rank-1/Hydraulic Push|Hydraulic Push]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/aqueous-orb|Aqueous Orb]]
+[[srd/pf2e/compendium/spells/rank-3/Aqueous Orb|Aqueous Orb]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/control-water|Control Water]]
+[[srd/pf2e/compendium/spells/rank-5/Control Water|Control Water]]
 
 *Source: Divine Mysteries p. 306*

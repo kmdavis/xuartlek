@@ -1,7 +1,7 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/treasure-vault-remastered
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/disarm
 - trait/monk
 - trait/reach
@@ -11,7 +11,7 @@ tags:
 - weapon/level/0
 aliases: ["Kusarigama"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=291"
-source: "Treasure Vault (Remastered)"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -27,7 +27,7 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Knife
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Knife|Knife]]
 
 This impressive but demanding weapon consists of a weight attached to a kama via a length of chain, which aids with disarming an opponent or attacking from a distance.
 
@@ -39,4 +39,4 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 Sawtooth Reaper
 
-*Source: Treasure Vault (Remastered) p. 27*
+*Source: Tian Xia Character Guide p. 127*

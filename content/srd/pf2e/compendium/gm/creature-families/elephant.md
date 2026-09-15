@@ -14,7 +14,7 @@ Immediately recognizable by their long, prehensile trunks and impressive tusks, 
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core/animal/elephant|Elephant]] (Creature 7), [[srd/pf2e/bestiary/monster-core/animal/mammoth|Mammoth]] (Creature 10)
+[[srd/pf2e/bestiary/monster-core/animal/Elephant|Elephant]] (Creature 7), [[srd/pf2e/bestiary/monster-core/animal/Mammoth|Mammoth]] (Creature 10)
 
 ### Ivory
 

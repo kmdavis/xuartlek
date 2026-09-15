@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Nephilim`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/grimspawn|Grimspawn]], [[srd/pf2e/compendium/feats/player-core/ancestry/pitborn|Pitborn]], or [[srd/pf2e/compendium/feats/player-core/ancestry/hellspawn|Hellspawn]], or another lineage feat associated with fiends or the Maelstrom
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/Grimspawn|Grimspawn]], [[srd/pf2e/compendium/feats/player-core/ancestry/Pitborn|Pitborn]], or [[srd/pf2e/compendium/feats/player-core/ancestry/Hellspawn|Hellspawn]], or another lineage feat associated with fiends or the Maelstrom
 
-Like many fiends, you have the supernatural ability to teleport yourself to safety. Once per day, you can cast [[srd/pf2e/compendium/spells/rank-4/translocate|_translocate_]] as a 5th-rank divine innate spell.
+Like many fiends, you have the supernatural ability to teleport yourself to safety. Once per day, you can cast [[srd/pf2e/compendium/spells/rank-4/Translocate|_translocate_]] as a 5th-rank divine innate spell.
 
 *Source: Player Core p. 81*

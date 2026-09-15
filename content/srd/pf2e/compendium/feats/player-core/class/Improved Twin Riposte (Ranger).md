@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Ranger`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/twin-riposte|Twin Riposte]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Twin Riposte|Twin Riposte]]
 
 At the start of each of your turns, you gain an additional reaction that you can use only to perform a Twin Riposte. You can use Twin Riposte even if you aren't benefiting from Twin Parry (though you must be wielding two melee weapons, one in each hand).
 

@@ -23,7 +23,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Emotion`  `Fear`  `Focus`  `Illusion`  `Manipulate`  `Mental`  `Sorcerer`  `Uncommon`  `Visual`
 
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Hag|Hag]]
 - **Area**: 30-foot-radius emanation
 - **Defense**: Will
 
@@ -31,7 +31,7 @@ You briefly transform your features into the horrific visage of a hag, striking 
 
 **Success** The foe is unaffected.
 
-**Failure** The foe is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]].
+**Failure** The foe is [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened 1]].
 
 **Critical Failure** The foe is frightened 2.
 

@@ -28,7 +28,7 @@ perception:
     desc: "+8; darkvision, tremorsense (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +6"
 abilityMods: [3, 4, 3, -5, 3, -5]
 ac: 16
 armorclass:
@@ -51,11 +51,11 @@ attacks:
     desc: "⬻ mandibles +8 __Damage__ 1d6+3 piercing plus fly pox"
 abilities_bot:
   - name: "Fly Pox"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|Disease]], [[srd/pf2e/compendium/rules-elements/traits/gm-core/virulent|virulent]]) A giant fly could carry any disease, but most transmit a virulent but not fatal infection called fly pox with their bite"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|Disease]], [[srd/pf2e/compendium/rules-elements/traits/gm-core/Virulent|virulent]]) A giant fly could carry any disease, but most transmit a virulent but not fatal infection called fly pox with their bite"
   - name: "Saving Throw"
     desc: "DC 16 Fortitude; Onset 1 day"
   - name: "Stage 1"
-    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 (1 day)"
+    desc: "[[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]] 1 (1 day)"
   - name: "Stage 2"
     desc: "as stage 1 (1 day)"
   - name: "Stage 3"
@@ -63,7 +63,7 @@ abilities_bot:
   - name: "Stage 4"
     desc: "as stage 3 (1 day)"
   - name: "Stage 5"
-    desc: "enfeebled 2 and [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] (1 day)"
+    desc: "enfeebled 2 and [[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|fatigued]] (1 day)"
 sourcebook: "_Monster Core 2_, page 157."
 ```
 

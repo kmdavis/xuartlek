@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/swashbuckler|Swashbuckler]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/swashbuckler-dedication|Swashbuckler Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Swashbuckler|Swashbuckler]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Swashbuckler Dedication|Swashbuckler Dedication]]
 
-You gain a 1st- or 2nd-level swashbuckler feat of your choice.
+You gain a 1st- or 2nd-level [swashbuckler feat](https://2e.aonprd.com/Feats.aspx?Traits=321) of your choice.
 
 ### Basic Flair leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/advanced-flair|Advanced Flair]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Advanced Flair|Advanced Flair]]
 
 *Source: Player Core 2 p. 182*

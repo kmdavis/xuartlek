@@ -24,9 +24,9 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
-This umbrella's ferrule is a hollow-tipped blade three to four inches in length and often overlooked as decorative. A receptacle inside the umbrella's shaft can be loaded with a single dose of [[srd/pf2e/compendium/rules-elements/traits/gm-core/injury|injury]] [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] and injected into a damaged target with the pull of a sliding trigger. Reinforced ribs enable you to parry and deflect blows with the umbrella's tear-resistant canopy.
+This umbrella's ferrule is a hollow-tipped blade three to four inches in length and often overlooked as decorative. A receptacle inside the umbrella's shaft can be loaded with a single dose of [[srd/pf2e/compendium/rules-elements/traits/gm-core/Injury|injury]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] and injected into a damaged target with the pull of a sliding trigger. Reinforced ribs enable you to parry and deflect blows with the umbrella's tear-resistant canopy.
 
 ### Critical Specialization Effects
 

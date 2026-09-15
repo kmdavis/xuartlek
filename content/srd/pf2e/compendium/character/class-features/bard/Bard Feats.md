@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Bard
 
-At 2nd level and every even-numbered level, you gain a bard class feat.
+At 2nd level and every even-numbered level, you gain a [bard class feat](https://2e.aonprd.com/Feats.aspx?Traits=19).
 
 *Source: Player Core p. 94*

@@ -21,6 +21,6 @@ You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against t
 
 ### Nimble Dodge leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/nimble-roll|Nimble Roll]]
+[[srd/pf2e/compendium/feats/player-core/class/Nimble Roll|Nimble Roll]]
 
 *Source: Player Core p. 169*

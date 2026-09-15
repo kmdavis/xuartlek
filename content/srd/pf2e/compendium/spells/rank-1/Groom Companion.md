@@ -15,11 +15,11 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: touch
 - **Target**: your companion or eidolon
 - **Duration**: 8 hours
 
-Companions can easily become covered in blood, dirt, and other nasty substances, creating a poor impression in noncombat situations. When you Cast this Spell, you immediately clean your companion, trim their fur or nails as appropriate, and leave them smelling nice. Additionally, future dirt, grease, grime, and other nasty substances slide off the target, keeping them clean and groomed. Your companion gains a +1 status bonus to [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks. At the GM’s discretion, your companion might be able to gain admittance to an establishment that wouldn’t normally allow beasts for the duration of this spel l.
+Companions can easily become covered in blood, dirt, and other nasty substances, creating a poor impression in noncombat situations. When you Cast this Spell, you immediately clean your companion, trim their fur or nails as appropriate, and leave them smelling nice. Additionally, future dirt, grease, grime, and other nasty substances slide off the target, keeping them clean and groomed. Your companion gains a +1 status bonus to [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] checks. At the GM's discretion, your companion might be able to gain admittance to an establishment that wouldn't normally allow beasts for the duration of this spell.
 
 *Source: Impossible Magic p. 142*

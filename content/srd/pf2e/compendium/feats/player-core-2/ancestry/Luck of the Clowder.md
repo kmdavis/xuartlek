@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Catfolk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/cats-luck|Cat's Luck]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Cat's Luck|Cat's Luck]]
 
 When you use Cat's Luck to reroll, any creatures you choose within 10 feet who also just failed against the same effect (such as a single spell) can also reroll their saving throws and use the better result.
 

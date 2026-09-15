@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/overwatch|Overwatch]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/overwatch-dedication|Overwatch Dedication]]; expert in Perception
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Overwatch|Overwatch]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Overwatch Dedication|Overwatch Dedication]]; expert in Perception
 
 Your incredible perception and trusty enhanced visual gear allow you to see things others miss. Your proficiency rank in Perception increases to master.
 

@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/trapsmith|Trapsmith]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/trapsmith-dedication|Trapsmith Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Trapsmith|Trapsmith]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Trapsmith Dedication|Trapsmith Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-Snares you create have complicated inner workings that are quite difficult to disable. Creatures attempting to Disable your snares that use gears must succeed at an additional [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] check in order to disable the snare. On a failed check, while the snare doesn't fully trigger, the grinding mechanisms deal bludgeoning damage to the creature equal to half your level. The snare still triggers on a critical failure, as normal.
+[Snares](https://2e.aonprd.com/Equipment.aspx?Category=31) you create have complicated inner workings that are quite difficult to disable. Creatures attempting to Disable your snares that use gears must succeed at an additional [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] check in order to disable the snare. On a failed check, while the snare doesn't fully trigger, the grinding mechanisms deal bludgeoning damage to the creature equal to half your level. The snare still triggers on a critical failure, as normal.
 
 *Source: Guns & Gears (Remastered) p. 54*

@@ -30,10 +30,10 @@ modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; low-light vision, magnetic vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/languages#Talican|Talican]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/Languages#Talican|Talican]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +21, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +21, Psychology Lore +19, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +19, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +21"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +21, [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] +21, Psychology Lore +19, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +19, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +21"
 abilityMods: [4, 7, 3, 7, 5, 3]
 abilities_top:
   - name: "Magnetic Vision"
@@ -41,26 +41,26 @@ abilities_top:
 ac: 31
 armorclass:
   - name: "AC"
-    desc: "31; __Fort__: +15; __Ref__: +21; __Will__: +21 +1 status vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]]"
+    desc: "31; __Fort__: +15; __Ref__: +21; __Will__: +21 +1 status vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]]"
 hp: 150
 health:
   - name: "HP"
     desc: "150; __Resistances__ physical 10 (except adamantine)"
 abilities_mid:
   - name: "Curtain of Calm"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 20 feet. The asp of grief consumes the emotions of the creatures around it. An enemy that begins its turn in the aura must attempt a DC 29 Will save. If it fails, the asp consumes its grief. The creature feels a lack of feelings and motivation, reducing its [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] value by 1 and becoming stupefied 1 (or stupefied 2 on a critical failure) for 1d4 rounds. Regardless of the result of the saving throw, the creature is temporarily immune to curtain of calm for 1 minute. The asp becomes charged with grief (see iron grief) for 1 minute whenever a creature fails this saving throw."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]]) 20 feet. The asp of grief consumes the emotions of the creatures around it. An enemy that begins its turn in the aura must attempt a DC 29 Will save. If it fails, the asp consumes its grief. The creature feels a lack of feelings and motivation, reducing its [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] value by 1 and becoming stupefied 1 (or stupefied 2 on a critical failure) for 1d4 rounds. Regardless of the result of the saving throw, the creature is temporarily immune to curtain of calm for 1 minute. The asp becomes charged with grief (see iron grief) for 1 minute whenever a creature fails this saving throw."
 speed: "20 feet, fly 50 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 2d12+10 piercing"
+    desc: "⬻ jaws +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]]) __Damage__ 2d12+10 piercing"
 abilities_bot:
   - name: "Iron Grief"
     desc: "If the asp casts _magnetic acceleration_ while charged with grief, it can either heighten the spell to 5th rank or target up to three creatures instead of one, rolling separately against each. After casting the spell, the asp is no longer charged with grief."
   - name: "Magnetic Traveler"
-    desc: "An asp can ride magnetic fields to travel long distances. In a location with strong magnetic fields (including the [[srd/pf2e/compendium/gm/planes#Plane of Metal|Plane of Metal]] and Golarion), its travel Speed is doubled if it's flying. Calling the Asps In the [[srd/pf2e/compendium/gm/planes#Plane of Metal|Plane of Metal]], funeral rites often include placing the deceased upon tall towers surrounded by dishes of water. Chunks of sodium, a silvery-white alkali metal, dance across the surface of the water and catch fire, sending plumes of hydrogen gas into the air. As the asps of grief skate upon the magnetic fields, they can sense this announcement of death and sorrow and follow the trail back to the mourners."
+    desc: "An asp can ride magnetic fields to travel long distances. In a location with strong magnetic fields (including the [[srd/pf2e/compendium/gm/Planes#Plane of Metal|Plane of Metal]] and Golarion), its travel Speed is doubled if it's flying. Calling the Asps In the [[srd/pf2e/compendium/gm/Planes#Plane of Metal|Plane of Metal]], funeral rites often include placing the deceased upon tall towers surrounded by dishes of water. Chunks of sodium, a silvery-white alkali metal, dance across the surface of the water and catch fire, sending plumes of hydrogen gas into the air. As the asps of grief skate upon the magnetic fields, they can sense this announcement of death and sorrow and follow the trail back to the mourners."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 29 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/read-aura|Read Aura]] - __3rd__ Magnetic Acceleration (at will; see iron grief) - __5th__ Magnetic Attraction, Magnetic Repulsion"
+    desc: "DC 29 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/Read Aura|Read Aura]] - __3rd__ Magnetic Acceleration (at will; see iron grief) - __5th__ Magnetic Attraction, Magnetic Repulsion"
 sourcebook: "_Rage of Elements_, page 150."
 ```
 

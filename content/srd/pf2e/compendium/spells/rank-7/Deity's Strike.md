@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Attack`  `Concentrate`  `Force`  `Manipulate`  `Sanctified`  `Spirit`
 
-- **Tradition**: Divine
+- **Tradition**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2)
 - **Requirements**: You have a deity.
 - **Range**: 500 feet
 - **Target**: 1 creature (see text)
@@ -27,7 +27,7 @@ socialImage: og-image.png
 
 A manifested version of your deity's favored weapon made of pure magical might appears in the air above the target. This weapon attacks using your spell attack modifier. On a hit, the weapon deals 7d12 force damage, or double damage on a critical hit. 
 
-After the attack, whether it succeeds or fails, divine energy bursts from the weapon in a shock wave. It emits in a 10-foot-wide, 30-foot-long [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]] starting from the target and continuing in a direction you choose. Your target and any other creatures within the area of the spell take 5d6 spirit damage, with a basic Reflex save.
+After the attack, whether it succeeds or fails, divine energy bursts from the weapon in a shock wave. It emits in a 10-foot-wide, 30-foot-long [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Line|line]] starting from the target and continuing in a direction you choose. Your target and any other creatures within the area of the spell take 5d6 spirit damage, with a basic Reflex save.
 
 ---
 **Heightened (9th)** The force damage increases by 1d12, and the spirit damage increases by 1d6.

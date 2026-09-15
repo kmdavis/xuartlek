@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Force`  `Manipulate`
 
-- **Traditions**: Arcane, Occult
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Imperial|Imperial]]
-- **Deities**: Gravelady's Guard, Lorthact, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Imperial|Imperial]]
+- **Deities**: Gravelady's Guard, Lorthact, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Nethys|Nethys]]
 - **Range**: 120 feet
 - **Target**: 1 creature
 

@@ -21,6 +21,6 @@ You swing clear through one foe and into another. Make a melee Strike against th
 
 ### Cleave leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/great-cleave|Great Cleave]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Great Cleave|Great Cleave]]
 
 *Source: Player Core 2 p. 79*

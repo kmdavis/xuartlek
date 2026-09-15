@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: learn the rules and strategies of games of chance played wherever you travel, take risks and savor the consequences whether good or ill, use stealth and guile over violence when dealing with the fallout from your risk-taking
 - **Anathema**: break the established rules or terms of a wager, use violence to avoid the consequences of a wager
 - **Area of Concern**: gambling, gems, gnomes, and stealth
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/fortunes-fate|Fortune's Fate]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Fortune's Fate|Fortune's Fate]]
 
 ### Devotee Benefits
 
@@ -25,24 +25,24 @@ Dexterity or Intelligence
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/light-hammer|Light Hammer]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/Light Hammer|Light Hammer]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Luck|Luck]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/domains#Wealth|Wealth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Luck|Luck]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/Domains#Wealth|Wealth]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Earth|Earth]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Earth|Earth]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/illusory-disguise|Illusory Disguise]]
+[[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|Illusory Disguise]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]]
+[[srd/pf2e/compendium/spells/rank-2/Invisibility|Invisibility]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/liminal-doorway|Liminal Doorway]]
+[[srd/pf2e/compendium/spells/rank-4/Liminal Doorway|Liminal Doorway]]
 
 ### Divine Intercession
 
@@ -52,7 +52,7 @@ The Grey Polychrome is a carefree and self-indulgent deity who detests using vio
 
 **Moderate Boon** Nivi bestows a fraction of her skill at pushing consequences down the road. Once per day, after attempting a check, you can roll a second time. You must use the result of the second roll, even if it is worse. This is a fortune effect. At any point after you use this boon, the GM can replace one of your check results with the first result of the check you attempted when using this boon; this delayed result can’t be further delayed, prevented, or affected in any way, even by other divine intercessions.
 
-**Major Boon** Those who have done much to please Nivi find themselves slipping from sight when needed. Any time you attempt a [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] check to Hide or Sneak, you also gain the effects of 2nd-level _invisibility_ and _fleet step_ spells to help you elude your enemies. These effects last until the end of your next turn or until you stop Hiding or Sneaking, whichever comes first (you can continue to Hide or Sneak, turn after turn, to extend these effects).
+**Major Boon** Those who have done much to please Nivi find themselves slipping from sight when needed. Any time you attempt a [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] check to Hide or Sneak, you also gain the effects of 2nd-level _invisibility_ and _fleet step_ spells to help you elude your enemies. These effects last until the end of your next turn or until you stop Hiding or Sneaking, whichever comes first (you can continue to Hide or Sneak, turn after turn, to extend these effects).
 
 **Minor Curse** Those who betray Nivi’s trust find defeat where there was sure to be victory. Once, when you roll a natural 20 on a die, the result becomes a natural 1 instead. Nivi typically uses this curse for maximum poetic justice.
 

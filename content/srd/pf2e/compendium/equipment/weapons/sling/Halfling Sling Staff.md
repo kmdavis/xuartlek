@@ -24,8 +24,8 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Sling
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/sling/sling-bullets|Sling Bullets]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sling|Sling]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/sling/Sling Bullets|Sling Bullets]]
 
 This staff ends in a Y-shaped split that cradles a sling. The length of the staff provides excellent leverage when used two-handed to fling rocks or bullets from the sling.
 

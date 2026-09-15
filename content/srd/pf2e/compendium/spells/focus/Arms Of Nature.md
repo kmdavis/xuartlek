@@ -19,15 +19,15 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Uncommon`  `Wood`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Wood|Wood]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Wood|Wood]]
 - **Range**: touch
 - **Target**: wooden object or plant of at least 4 Bulk
 - **Duration**: 1 minute
 
-All [[srd/pf2e/compendium/character/elements#Wood|wood]], dead or alive, is your armory. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast this Spell]], you draw forth a +1 weapon of your choice from the target. The weapon must be 2 Bulk or less. This weapon is of the same material as the target.
+All [[srd/pf2e/compendium/character/Elements#Wood|wood]], dead or alive, is your armory. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast this Spell]], you draw forth a +1 weapon of your choice from the target. The weapon must be 2 Bulk or less. This weapon is of the same material as the target.
 
 ---
-**Heightened (3rd)** The weapon is a _[[srd/pf2e/compendium/equipment/runes/armor-potency|+1]] [[srd/pf2e/compendium/equipment/runes/striking|striking]]_ weapon.
+**Heightened (3rd)** The weapon is a _[[srd/pf2e/compendium/equipment/runes/Armor Potency|+1]] [[srd/pf2e/compendium/equipment/runes/Striking|striking]]_ weapon.
 
 **Heightened (5th)** The weapon is a _+2 striking_ weapon.
 

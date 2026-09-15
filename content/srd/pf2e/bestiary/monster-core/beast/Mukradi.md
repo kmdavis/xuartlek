@@ -28,7 +28,7 @@ perception:
     desc: "+24; darkvision, tremorsense (imprecise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +32"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +32"
 abilityMods: [9, 0, 7, -3, 3, 0]
 ac: 37
 armorclass:
@@ -37,12 +37,12 @@ armorclass:
 hp: 300
 health:
   - name: "HP"
-    desc: "300; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] 20, [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 20, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 20"
+    desc: "300; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|acid]] 20, [[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|electricity]] 20, [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] 20"
 abilities_mid:
   - name: "Partitioned Anatomy"
     desc: "⭓"
   - name: "Trigger"
-    desc: "The mukradi would be [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]], or [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]]"
+    desc: "The mukradi would be [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]], or [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]]"
   - name: "Effect"
     desc: "The mukradi confines the debilitating effect to a certain portion of its nervous system, ignoring the effect but causing a maw of its choice to go dormant for the effect's duration. That maw can't be used for a Strike or to Breathe Energy during that time. This ability can't be used if all the mukradi's heads are dormant."
   - name: "Spitting Rage"
@@ -54,24 +54,24 @@ abilities_mid:
 speed: "60 feet, burrow 60 feet, climb 60 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ acid maw +32 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 2d12+17 piercing plus 3d6 acid"
+    desc: "⬻ acid maw +32 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 20 feet]]) __Damage__ 2d12+17 piercing plus 3d6 acid"
   - name: "Melee"
-    desc: "⬻ flame maw +32 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 2d12+17 piercing plus 3d6 fire"
+    desc: "⬻ flame maw +32 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 20 feet]]) __Damage__ 2d12+17 piercing plus 3d6 fire"
   - name: "Melee"
-    desc: "⬻ shock maw +32 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 2d12+17 piercing plus 3d6 electricity"
+    desc: "⬻ shock maw +32 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 20 feet]]) __Damage__ 2d12+17 piercing plus 3d6 electricity"
   - name: "Melee"
-    desc: "⬻ leg +32 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d10+17 piercing"
+    desc: "⬻ leg +32 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 2d10+17 piercing"
   - name: "Melee"
-    desc: "⬻ tail lash +32 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 30 feet]]) __Damage__ 3d10+17 slashing plus Knockdown"
+    desc: "⬻ tail lash +32 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 30 feet]]) __Damage__ 3d10+17 slashing plus Knockdown"
 abilities_bot:
   - name: "Breathe Energy"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The mukradi breathes a blast of energy from one of its three heads; each creature in the area must attempt a DC 36 basic Reflex save. The mukradi can't Breathe Energy again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|Primal]]) The mukradi breathes a blast of energy from one of its three heads; each creature in the area must attempt a DC 36 basic Reflex save. The mukradi can't Breathe Energy again for 1d4 rounds."
   - name: "Acid Maw"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]]) 10-foot-wide, 60-foot line of acid dealing 16d6 acid damage."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|acid]]) 10-foot-wide, 60-foot line of acid dealing 16d6 acid damage."
   - name: "Flame Maw"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]) 60-foot cone of fire dealing 16d6 fire damage."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]]) 60-foot cone of fire dealing 16d6 fire damage."
   - name: "Shock Maw"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]]) 120-foot line of electricity dealing 16d6 electricity damage."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|electricity]]) 120-foot line of electricity dealing 16d6 electricity damage."
   - name: "Pull Apart"
     desc: "⬺ The mukradi makes two Strikes with different maws against the same target. If both hit, the target takes an extra 2d12+13 slashing damage, with a DC 36 basic Fortitude save. On a critical failure, the creature is torn to pieces and dies. The mukradi's multiple attack penalty increases only after all the attacks are made."
   - name: "Thrash"

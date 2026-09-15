@@ -17,13 +17,13 @@ socialImage: og-image.png
 
 `Aura`  `Illusion`  `Manipulate`  `Subtle`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: Luhar, [[srd/pf2e/compendium/deities/other-gods/thamir|Thamir]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: Luhar, [[srd/pf2e/compendium/deities/other-gods/Thamir|Thamir]]
 - **Area**: 30-foot emanation
 - **Target**: you and up to 5 willing creatures
 - **Duration**: 10 minutes
 
-You and all targets are [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] except to each other as long as the targets remain within the emanation. If a creature made invisible by this spell leaves the spell's area, it becomes visible and remains so even if it returns to the spell's area. If any creature made invisible by this spell uses a hostile action, the spell ends after the hostile action is completed.
+You and all targets are [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]] except to each other as long as the targets remain within the emanation. If a creature made invisible by this spell leaves the spell's area, it becomes visible and remains so even if it returns to the spell's area. If any creature made invisible by this spell uses a hostile action, the spell ends after the hostile action is completed.
 
 ---
 **Heightened (5th)** The targets increase to you and up to 10 willing creatures. The duration increases to 1 hour.

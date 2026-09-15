@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Flourish`  `Gunslinger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bullet-dancer|Bullet Dancer]] (Level 16)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Bullet Dancer|Bullet Dancer]] (Level 16)
 - **Requirements**: You're wielding two weapons, each in a different hand. At least one of these weapons must be a loaded firearm or loaded crossbow.
 
 You attack with both your weapons in a furious barrage. Strike twice, once with each weapon.

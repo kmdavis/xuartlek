@@ -32,10 +32,10 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; greater darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]; telepathy 100 feet"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/Languages#Empyrean|Empyrean]]; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +14, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +14, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +14, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +14, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +14"
 abilityMods: [6, 3, 4, 2, 3, 1]
 abilities_top:
   - name: "Hellstrider"
@@ -47,7 +47,7 @@ armorclass:
 hp: 105
 health:
   - name: "HP"
-    desc: "105; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Death Effects|death effects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/damage-rolls#Nonlethal Attacks|nonlethal attacks]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Resistances__ physical 5 (except [[srd/pf2e/compendium/equipment/materials/silver|silver]]); __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5"
+    desc: "105; __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Death Effects|death effects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], [[srd/pf2e/compendium/rules-elements/Conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Healing|healing]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Damage Rolls#Nonlethal Attacks|nonlethal attacks]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]]; __Resistances__ physical 5 (except [[srd/pf2e/compendium/equipment/materials/Silver|silver]]); __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]] 5"
 abilities_mid:
   - name: "Phalanx Fighter"
     desc: "All devils of equal or lower level adjacent to a levaloch gain a +1 circumstance bonus to their AC as the levaloch shields them from harm."
@@ -56,21 +56,21 @@ abilities_mid:
 speed: "30 feet, climb 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _trident_ +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]) __Damage__ 2d8+12 piercing plus merciless thrust"
+    desc: "⬻ _trident_ +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]]) __Damage__ 2d8+12 piercing plus merciless thrust"
   - name: "Ranged"
-    desc: "⬻ _trident_ +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]) __Damage__ 2d8+12 piercing"
+    desc: "⬻ _trident_ +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 20 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]]) __Damage__ 2d8+12 piercing"
   - name: "Ranged"
-    desc: "⬻ _barbed net_ +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], range increment 20 feet) __Damage__ barbed net"
+    desc: "⬻ _barbed net_ +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], range increment 20 feet) __Damage__ barbed net"
 abilities_bot:
   - name: "Barbed Net"
-    desc: "When a levaloch hits a creature with their barbed net, the net wraps around the target, which becomes [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 and takes a –10-foot circumstance penalty to its Speeds. If the Strike was a critical success, the target is also [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]]. When a creature [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 22), or if the Strike misses, the net crumbles into rust. Each time a creature attempts to Escape, it takes 1d6 slashing damage from the net's barbs, regardless of whether the attempt succeeds."
+    desc: "When a levaloch hits a creature with their barbed net, the net wraps around the target, which becomes [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]] 1 and takes a –10-foot circumstance penalty to its Speeds. If the Strike was a critical success, the target is also [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]]. When a creature [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 22), or if the Strike misses, the net crumbles into rust. Each time a creature attempts to Escape, it takes 1d6 slashing damage from the net's barbs, regardless of whether the attempt succeeds."
   - name: "Forge Weapon"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) A levaloch reforges part of their barbed iron substance into a new _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/spear/trident|trident]]_ or barbed net. Their previous trident crumbles to rust. When the levaloch is destroyed, any tridents or barbed nets they created crumble to rust."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|Manipulate]]) A levaloch reforges part of their barbed iron substance into a new _[[srd/pf2e/compendium/equipment/weapons/Magic Weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/spear/Trident|trident]]_ or barbed net. Their previous trident crumbles to rust. When the levaloch is destroyed, any tridents or barbed nets they created crumble to rust."
   - name: "Merciless Thrust"
-    desc: "When a levaloch hits a creature that has the [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]], or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] conditions with a melee trident Strike, the Strike deals an additional 2d6 damage. Hellforged Construct Levalochs are strange amalgamations of devil and automaton, never requiring food or rest. The engravings on their iron plates indicate their hellish allegiance to a certain archdevil, infernal duke, malebranche, or Queen of the Night."
+    desc: "When a levaloch hits a creature that has the [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]], or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] conditions with a melee trident Strike, the Strike deals an additional 2d6 damage. Hellforged Construct Levalochs are strange amalgamations of devil and automaton, never requiring food or rest. The engravings on their iron plates indicate their hellish allegiance to a certain archdevil, infernal duke, malebranche, or Queen of the Night."
 spellcasting:
   - name: "Rituals"
-    desc: "DC 22 - __1st__ [[srd/pf2e/compendium/spells/rituals/diabolic-pact|Diabolic Pact]]"
+    desc: "DC 22 - __1st__ [[srd/pf2e/compendium/spells/rituals/Diabolic Pact|Diabolic Pact]]"
 sourcebook: "_Monster Core 2_, page 99."
 ```
 

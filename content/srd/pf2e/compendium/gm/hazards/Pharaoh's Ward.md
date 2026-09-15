@@ -21,9 +21,9 @@ socialImage: og-image.png
 DC 25 (expert)
 
 **Disable**
-DC 27 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (master) to painstakingly remove the lintel without triggering the magic, or [[srd/pf2e/compendium/spells/rank-2/dispel-magic|_dispel magic_]] (4th rank; [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] DC 25) to counteract the rune
+DC 27 [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] (master) to painstakingly remove the lintel without triggering the magic, or [[srd/pf2e/compendium/spells/rank-2/Dispel Magic|_dispel magic_]] (4th rank; [[srd/pf2e/books/player-core/chapter-7-spells/Counteracting|counteract]] DC 25) to counteract the rune
 
-**Curse the Intruders** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) **Trigger** The seal on the tomb is broken from the outside; **Effect** Each living creature within 60 feet must succeed at a DC 23 Will save or be subjected to the pharaoh’s curse. A cursed creature takes a –2 status penalty to Fortitude saves, and any natural or magical [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] it receives is halved. The curse remains until removed by [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|_cleanse affliction_]] or similar magic.
+**Curse the Intruders** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]]) **Trigger** The seal on the tomb is broken from the outside; **Effect** Each living creature within 60 feet must succeed at a DC 23 Will save or be subjected to the pharaoh’s curse. A cursed creature takes a –2 status penalty to Fortitude saves, and any natural or magical [[srd/pf2e/compendium/rules-elements/traits/player-core/Healing|healing]] it receives is halved. The curse remains until removed by [[srd/pf2e/compendium/spells/rank-2/Cleanse Affliction|_cleanse affliction_]] or similar magic.
 
 ---
 **Reset**

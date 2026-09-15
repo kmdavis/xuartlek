@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Bard`
 
-You can quicken your allies with a fast-paced performance. You learn the [[srd/pf2e/compendium/spells/cantrips/allegro|_allegro_]] [[srd/pf2e/compendium/rules-elements/traits/player-core/composition|composition]] cantrip.
+You can quicken your allies with a fast-paced performance. You learn the [[srd/pf2e/compendium/spells/cantrips/Allegro|_allegro_]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Composition|composition]] cantrip.
 
 *Source: Player Core p. 106*

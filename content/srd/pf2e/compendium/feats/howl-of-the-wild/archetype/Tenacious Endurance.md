@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Archetype`  `Emotion`  `Mental`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/beastmaster|Beastmaster]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Beastmaster|Beastmaster]]
 - **Prerequisites**: Beastmaster Dedication
 
-You encourage your companion to refuse to yield, against even the mightiest of foes. When one of your animal companions is reduced to 0 Hit Points, if it isn't [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]], it can remain standing with 1 Hit Point and become wounded 1.
+You encourage your companion to refuse to yield, against even the mightiest of foes. When one of your animal companions is reduced to 0 Hit Points, if it isn't [[srd/pf2e/compendium/rules-elements/Conditions#Wounded|wounded]], it can remain standing with 1 Hit Point and become wounded 1.
 
 *Source: Howl of the Wild p. 66*

@@ -16,7 +16,7 @@ socialImage: og-image.png
 `Barbarian`  `Fortune`
 
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/spirit|spirit instinct]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/Spirit|spirit instinct]]
 - **Trigger**: You fail, but don’t critically fail, a Perception check or a skill check.
 
 Though no one sees them and only you can hear them, the spirits around you constantly chatter, save when you are raging. Sometimes they're even helpful, and their guidance can even cut through the haze of your rage. Reroll the triggering check, using the second result even if it's worse.

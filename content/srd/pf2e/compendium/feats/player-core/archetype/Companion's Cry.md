@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Ranger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/beastmaster|Beastmaster]] (Level 6), Mammoth Lord (Level 6), Undead Master (Level 6)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Beastmaster|Beastmaster]] (Level 6), Mammoth Lord (Level 6), Undead Master (Level 6)
 - **Prerequisites**: an animal companion
 
 You can urge your companion to do its utmost. You can spend 2 actions to Command an Animal instead of 1 when commanding your animal companion. If you do, your animal companion uses an additional action.

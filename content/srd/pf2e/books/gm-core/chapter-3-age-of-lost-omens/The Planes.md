@@ -1,6 +1,7 @@
 ---
 title: "The Planes"
 aliases: ["The Planes"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3014"
 citation: "GM Core pg. 172"
-socialImage: og-image.png
 ---
 
 # The Planes

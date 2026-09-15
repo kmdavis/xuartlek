@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Ranger`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/camouflage|Camouflage]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Camouflage|Camouflage]]
 
 You blend in to your surroundings so well that others have trouble telling you apart from the terrain. While in natural terrain, you’re always concealed from all foes if you choose to be, except for your hunted prey
 

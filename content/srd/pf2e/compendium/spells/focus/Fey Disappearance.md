@@ -17,10 +17,10 @@ socialImage: og-image.png
 
 `Focus`  `Manipulate`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Fey|Fey]]
 - **Duration**: until the end of your next turn
 
-You become [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] and ignore natural difficult terrain (such as underbrush). Any hostile action you use ends this invisibility, but you still ignore natural difficult terrain.
+You become [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]] and ignore natural difficult terrain (such as underbrush). Any hostile action you use ends this invisibility, but you still ignore natural difficult terrain.
 
 ---
 **Heightened (5th)** If you use a hostile action, the invisibility doesn't end.

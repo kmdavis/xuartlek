@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: explore the worlds outside and within, learn and appreciate traditional elven arts, crafts, and magic
 - **Anathema**: have an unhealthy obsession or attachment, irreparably damage the natural environment (such as by overhunting or strip mining)
 - **Area of Concern**: elves, magic, nature, tradition
-- **Pantheon Members**: [[srd/pf2e/compendium/deities/other-gods/alseta|Alseta]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/calistria|Calistria]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]]
+- **Pantheon Members**: [[srd/pf2e/compendium/deities/other-gods/Alseta|Alseta]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Calistria|Calistria]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Desna|Desna]]
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Dexterity or Intelligence
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/longbow|Longbow]] or [[srd/pf2e/compendium/equipment/weapons/bow/shortbow|Shortbow]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/Longbow|Longbow]] or [[srd/pf2e/compendium/equipment/weapons/bow/Shortbow|Shortbow]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Magic|Magic]], [[srd/pf2e/compendium/character/domains#Moon|Moon]], [[srd/pf2e/compendium/character/domains#Nature|Nature]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Magic|Magic]], [[srd/pf2e/compendium/character/Domains#Moon|Moon]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Passion|Passion]], [[srd/pf2e/compendium/character/domains#Wood|Wood]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Passion|Passion]], [[srd/pf2e/compendium/character/Domains#Wood|Wood]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/tailwind|Tailwind]]
+[[srd/pf2e/compendium/spells/rank-1/Tailwind|Tailwind]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/shape-wood|Shape Wood]]
+[[srd/pf2e/compendium/spells/rank-2/Shape Wood|Shape Wood]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/natures-pathway|Nature's Pathway]]
+[[srd/pf2e/compendium/spells/rank-5/Nature's Pathway|Nature's Pathway]]
 
 *Source: Divine Mysteries p. 244*

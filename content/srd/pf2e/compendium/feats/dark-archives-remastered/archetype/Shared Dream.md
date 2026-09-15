@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/sleepwalker|Sleepwalker]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/sleepwalker-dedication|Sleepwalker Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Sleepwalker|Sleepwalker]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Sleepwalker Dedication|Sleepwalker Dedication]]
 
-You've learned to create a shared dreamscape to communicate with others. You can cast [[srd/pf2e/compendium/spells/rank-8/dream-council|_dream council_]] as an innate occult spell once per day.
+You've learned to create a shared dreamscape to communicate with others. You can cast [[srd/pf2e/compendium/spells/rank-8/Dream Council|_dream council_]] as an innate occult spell once per day.
 
 *Source: Dark Archives (Remastered) p. 207*

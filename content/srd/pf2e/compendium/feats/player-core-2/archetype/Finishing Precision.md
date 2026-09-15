@@ -14,11 +14,11 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/swashbuckler|Swashbuckler]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/swashbuckler-dedication|Swashbuckler Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Swashbuckler|Swashbuckler]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Swashbuckler Dedication|Swashbuckler Dedication]]
 
 You’ve learned how to land daring blows when you have panache. You gain the precise strike class feature but you deal 1 additional precision damage on a hit and 1d6 precision damage on a finisher. This damage doesn’t increase as you gain levels. In addition, you gain the Basic Finisher action. 
 
-**Basic Finisher** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core-2/finisher|Finisher]], [[srd/pf2e/compendium/rules-elements/traits/player-core-2/swashbuckler|Swashbuckler]]) You make a graceful, deadly attack. Attempt a Strike; if you hit and your weapon qualifies for precise strike, you deal the full 1d6 damage from precise strike.
+**Basic Finisher** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core-2/Finisher|Finisher]], [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Swashbuckler|Swashbuckler]]) You make a graceful, deadly attack. Attempt a Strike; if you hit and your weapon qualifies for precise strike, you deal the full 1d6 damage from precise strike.
 
 *Source: Player Core 2 p. 182*

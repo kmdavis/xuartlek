@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/sorcerer|Sorcerer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/sorcerer-dedication|Sorcerer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Sorcerer|Sorcerer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Sorcerer Dedication|Sorcerer Dedication]]
 
 You gain your bloodline’s initial bloodline spell. If you don’t already have one, you also gain a focus pool of 1 Focus Point, which you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]] without any special effort.
 

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Gnome`
 
-Your connection to the First World has grown, and its vital energy flows into you rapidly. If you rest for 10 minutes, you regain Hit Points equal to your Constitution modifier × half your level. This is a healing [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] effect and is cumulative with any healing you receive from Treat Wounds.
+Your connection to the First World has grown, and its vital energy flows into you rapidly. If you rest for 10 minutes, you regain Hit Points equal to your Constitution modifier × half your level. This is a healing [[srd/pf2e/compendium/rules-elements/traits/player-core/Vitality|vitality]] effect and is cumulative with any healing you receive from Treat Wounds.
 
 *Source: Player Core p. 53*

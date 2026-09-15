@@ -18,14 +18,14 @@ socialImage: og-image.png
 
 `Agile`  `Backstabber`  `Finesse`  `Goblin`  `Uncommon`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/goblin-gods/zarongel|Zarongel]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/goblin-gods/Zarongel|Zarongel]]
 - **Price**: 1 sp
 - **Damage**: 1d6 S
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 This short, curved, and crude makeshift blade often has holes drilled into it to reduce its weight. It's a favored weapon of goblins.
 
@@ -35,6 +35,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/four-ways-dogslicer|Four-Ways Dogslicer]]
+[[srd/pf2e/compendium/equipment/weapons/Four-Ways Dogslicer|Four-Ways Dogslicer]]
 
 *Source: Player Core p. 278*

@@ -18,13 +18,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Curse`  `Focus`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Hag|Hag]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will
 - **Duration**: 1 minute
 
-You draw forth a hag's innate jealousy to deny a target its greatest attribute. The target is cursed with an adverse condition depending on its highest attribute modifier: Strength ([[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]]); Dexterity ([[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]]); Constitution ([[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]]); or Intelligence, Wisdom, or Charisma ([[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]]). On a tie, the creature decides which of the conditions associated with the tied attributes to take. The target must attempt a Will save. At the start of each of your turns, the target can attempt another Will save, ending the effect on a success.
+You draw forth a hag's innate jealousy to deny a target its greatest attribute. The target is cursed with an adverse condition depending on its highest attribute modifier: Strength ([[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]]); Dexterity ([[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]]); Constitution ([[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]]); or Intelligence, Wisdom, or Charisma ([[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]]). On a tie, the creature decides which of the conditions associated with the tied attributes to take. The target must attempt a Will save. At the start of each of your turns, the target can attempt another Will save, ending the effect on a success.
 
 **Success** The target is unaffected.
 

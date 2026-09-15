@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/monk|Monk]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/monk-dedication|Monk Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Monk|Monk]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Monk Dedication|Monk Dedication]]
 
-You gain a 1st- or 2nd-level monk feat.
+You gain a 1st- or 2nd-level [monk feat](https://2e.aonprd.com/Feats.aspx?Traits=112).
 
 ### Basic Kata leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/advanced-kata|Advanced Kata]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Advanced Kata|Advanced Kata]]
 
 *Source: Player Core 2 p. 179*

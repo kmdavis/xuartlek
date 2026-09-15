@@ -30,7 +30,7 @@ perception:
     desc: "+16; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +23"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +23"
 abilityMods: [9, 0, 5, -4, 2, 1]
 ac: 28
 armorclass:
@@ -43,9 +43,9 @@ health:
 speed: "35 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tail +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 2d10+13 bludgeoning plus Improved Knockdown"
+    desc: "⬻ tail +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|Sweep]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 20 feet]]) __Damage__ 2d10+13 bludgeoning plus Improved Knockdown"
   - name: "Melee"
-    desc: "⬻ foot +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d8+13 bludgeoning"
+    desc: "⬻ foot +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 2d8+13 bludgeoning"
 abilities_bot:
   - name: "Tail Sweep"
     desc: "⬺ The brontosaurus makes a tail Strike and compares the attack roll to the AC of up to three foes, each of whom must be within its tail's melee reach and adjacent to at least one other target. It rolls damage only once and applies it to each creature hit. A Tail Sweep counts as two attacks for its multiple attack penalty."

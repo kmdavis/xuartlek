@@ -12,7 +12,7 @@ socialImage: og-image.png
 # Silver Shield  *Item 2+*
 
 - **Usage**: varies by shield
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/silver|Silver]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/Silver|Silver]]
 
 Silver shields don't typically have an additional effect, though when used for a shield bash, they're silver weapons.
 

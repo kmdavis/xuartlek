@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-A thrall’s scream mentally harms and frightens your foes. You learn the [[srd/pf2e/compendium/spells/focus/deathly-scream|_deathly scream_]] grave spell.
+A thrall’s scream mentally harms and frightens your foes. You learn the [[srd/pf2e/compendium/spells/focus/Deathly Scream|_deathly scream_]] grave spell.
 
 *Source: Impossible Magic p. 34*

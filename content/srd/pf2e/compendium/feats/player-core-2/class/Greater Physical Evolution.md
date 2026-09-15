@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Sorcerer`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/primal-evolution|Primal Evolution]] or [[srd/pf2e/compendium/feats/player-core-2/class/arcane-evolution|Arcane Evolution]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Primal Evolution|Primal Evolution]] or [[srd/pf2e/compendium/feats/player-core-2/class/Arcane Evolution|Arcane Evolution]]
 
-You change form readily. Once per day, you can use a sorcerer spell slot to cast any common polymorph battle form spell of the spell slot's rank as if it were a signature spell in your repertoire. You can use the extra spell slot from or [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]] Evolution instead of a sorcerer spell slot.
+You change form readily. Once per day, you can use a sorcerer spell slot to cast any common polymorph battle form spell of the spell slot's rank as if it were a signature spell in your repertoire. You can use the extra spell slot from or [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|Primal]] Evolution instead of a sorcerer spell slot.
 
 *Source: Player Core 2 p. 155*

@@ -28,10 +28,10 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Sussuran|Sussuran]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +6, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +8"
 abilityMods: [0, 4, 1, 0, 0, 2]
 ac: 17
 armorclass:
@@ -40,10 +40,10 @@ armorclass:
 hp: 15
 health:
   - name: "HP"
-    desc: "15; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
+    desc: "15; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|electricity]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]"
 abilities_mid:
   - name: "Duskflow"
-    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/darkness|darkness]])"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Darkness|darkness]])"
   - name: "Trigger"
     desc: "The despairing pall is damaged by a melee Strike"
   - name: "Effect"
@@ -51,12 +51,12 @@ abilities_mid:
 speed: "fly 50 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ hot air +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/air|Air]]) __Damage__ pushed 5 feet"
+    desc: "⬻ hot air +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Air|Air]]) __Damage__ pushed 5 feet"
   - name: "Ranged"
-    desc: "⬻ lightning bolt +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|Electricity]], range increment 50 feet) __Damage__ 1d6 electricity"
+    desc: "⬻ lightning bolt +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|Electricity]], range increment 50 feet) __Damage__ 1d6 electricity"
 abilities_bot:
   - name: "Downcast"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/air|Air]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The despairing pall Flies up to its Speed, then rains gloom and despair in a 15-foot line straight down. Creatures in the area must succeed at a DC 16 Will save or take a –1 status penalty to attack rolls until the end of the despairing pall's next turn."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Air|Air]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]]) The despairing pall Flies up to its Speed, then rains gloom and despair in a 15-foot line straight down. Creatures in the area must succeed at a DC 16 Will save or take a –1 status penalty to attack rolls until the end of the despairing pall's next turn."
 sourcebook: "_Rage of Elements_, page 82."
 ```
 

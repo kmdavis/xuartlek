@@ -30,10 +30,10 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; low-light vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Kholo|Kholo]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Kholo|Kholo]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +4, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +7"
 abilityMods: [2, 2, 1, 2, 2, 0]
 abilities_top:
   - name: "Items"
@@ -49,20 +49,20 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ longspear +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|Reach]]) __Damage__ 1d8+2 piercing"
+    desc: "⬻ longspear +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|Reach]]) __Damage__ 1d8+2 piercing"
   - name: "Melee"
     desc: "⬻ jaws +7 __Damage__ 1d6+2 piercing"
   - name: "Ranged"
-    desc: "⬻ sling +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 50 feet, reload 1) __Damage__ 1d6+1 bludgeoning"
+    desc: "⬻ sling +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Propulsive|Propulsive]], range increment 50 feet, reload 1) __Damage__ 1d6+1 bludgeoning"
 abilities_bot:
   - name: "Pack Attack"
     desc: "A kholo pragmatist deals 1d4 extra damage to any creature that's within reach of at least two of the kholo pragmatist's allies."
   - name: "Pragmatic Aid"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|Visual]])"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|Visual]])"
   - name: "Requirements"
     desc: "The kholo pragmatist is adjacent to a foe"
   - name: "Effect"
-    desc: "The kholo pragmatist sets up an advantageous avenue of attack for an ally within 10 feet of the same foe and then Steps away from that foe. The foe is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the kholo pragmatist's ally's next attack."
+    desc: "The kholo pragmatist sets up an advantageous avenue of attack for an ally within 10 feet of the same foe and then Steps away from that foe. The foe is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to the kholo pragmatist's ally's next attack."
   - name: "Rugged Travel"
     desc: "A kholo ignores the first square of difficult terrain they move into each time they Step or Stride."
   - name: "Spear Parry"

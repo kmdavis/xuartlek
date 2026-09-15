@@ -16,14 +16,14 @@ socialImage: og-image.png
 
 `Agile`  `Finesse`  `Trip`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/demon-lords/areshkagal|Areshkagal]], [[srd/pf2e/compendium/deities/other-gods/atrogine|Atrogine]], [[srd/pf2e/compendium/deities/empyreal-lords/bharnarol|Bharnarol]], [[srd/pf2e/compendium/deities/faiths-philosophies/green-faith|Green Faith]], Hearth and Harvest, [[srd/pf2e/compendium/deities/sarkorian-gods/kagia|Kagia]], [[srd/pf2e/compendium/deities/monitor-demigods/mother-vulture|Mother Vulture]], [[srd/pf2e/compendium/deities/coatl-tribunal/pahti-coatl|Pahti Coatl]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/rhan-tegoth|Rhan-Tegoth]], Shei, [[srd/pf2e/compendium/deities/azlanti-pantheon/sicva|Sicva]], [[srd/pf2e/compendium/deities/eldest/the-green-mother|The Green Mother]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/thoth|Thoth]], [[srd/pf2e/compendium/deities/elemental-lords/verilorn|Verilorn]], [[srd/pf2e/compendium/deities/goblin-gods/zogmugot|Zogmugot]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/demon-lords/Areshkagal|Areshkagal]], [[srd/pf2e/compendium/deities/other-gods/Atrogine|Atrogine]], [[srd/pf2e/compendium/deities/empyreal-lords/Bharnarol|Bharnarol]], [[srd/pf2e/compendium/deities/faiths-philosophies/Green Faith|Green Faith]], Hearth and Harvest, [[srd/pf2e/compendium/deities/sarkorian-gods/Kagia|Kagia]], [[srd/pf2e/compendium/deities/monitor-demigods/Mother Vulture|Mother Vulture]], [[srd/pf2e/compendium/deities/coatl-tribunal/Pahti Coatl|Pahti Coatl]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Rhan-Tegoth|Rhan-Tegoth]], Shei, [[srd/pf2e/compendium/deities/azlanti-pantheon/Sicva|Sicva]], [[srd/pf2e/compendium/deities/eldest/The Green Mother|The Green Mother]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/Thoth|Thoth]], [[srd/pf2e/compendium/deities/elemental-lords/Verilorn|Verilorn]], [[srd/pf2e/compendium/deities/goblin-gods/Zogmugot|Zogmugot]]
 - **Price**: 2 sp
 - **Damage**: 1d4 S
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Simple
-- **Group**: Knife
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Knife|Knife]]
 
 Originally a farming tool used for reaping grain, this one-handed weapon has a short wooden handle ending in a curved blade, sometimes sharpened on both sides.
 
@@ -33,6 +33,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Reaper's Crescent, [[srd/pf2e/compendium/equipment/weapons/revenant-blade|Revenant Blade]], Sinew-Song, [[srd/pf2e/compendium/equipment/weapons/void-sickle|Void Sickle]]
+Reaper's Crescent, [[srd/pf2e/compendium/equipment/weapons/Revenant Blade|Revenant Blade]], Sinew-Song, [[srd/pf2e/compendium/equipment/weapons/Void Sickle|Void Sickle]]
 
 *Source: Player Core p. 277*

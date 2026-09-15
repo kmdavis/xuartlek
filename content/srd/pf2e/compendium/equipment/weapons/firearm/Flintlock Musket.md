@@ -25,8 +25,8 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Simple
-- **Group**: Firearm
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
 The flintlock musket includes an external firing mechanism and an efficient and relatively compact frame. Though lacking the range and firing power of the arquebus, the flintlock musket is popular among civilians for its ease of use.
 
@@ -36,6 +36,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/staves/musket-staff-of-force|Musket Staff of Force]], [[srd/pf2e/compendium/equipment/staves/musket-staff-of-the-void|Musket Staff of the Void]], Solar Shellflower
+[[srd/pf2e/compendium/equipment/staves/Musket Staff of Force|Musket Staff of Force]], [[srd/pf2e/compendium/equipment/staves/Musket Staff of the Void|Musket Staff of the Void]], Solar Shellflower
 
 *Source: NPC Core p. 50*

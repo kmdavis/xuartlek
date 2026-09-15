@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Alchemist
 
-At 1st level and every even-numbered level thereafter, you gain an alchemist class feat.
+At 1st level and every even-numbered level thereafter, you gain an [alchemist class feat](https://2e.aonprd.com/Feats.aspx?Traits=812).
 
 *Source: Player Core 2 p. 56*

@@ -15,8 +15,8 @@ socialImage: og-image.png
 `Champion`
 
 - **Frequency**: once per round
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/shield-warden|Shield Warden]]; blessed shield, champion's reaction
-- **Trigger**: An enemy’s attack against an ally matches the trigger for both your [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] reaction and your champion’s reaction.
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Shield Warden|Shield Warden]]; blessed shield, champion's reaction
+- **Trigger**: An enemy’s attack against an ally matches the trigger for both your [[srd/pf2e/compendium/feats/player-core/general/Shield Block|Shield Block]] reaction and your champion’s reaction.
 
 When you shield your ally against an attack, you call upon your power to protect your ally further. You use the Shield Block reaction to prevent damage to an ally and also use your champion's reaction against the enemy that attacked your ally.
 

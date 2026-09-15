@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Commander`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/class/drilled-reflexes|Drilled Reflexes]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/class/Drilled Reflexes|Drilled Reflexes]]
 
 You snap out a quick series of signals or commands that urge your allies to act with alacrity. When you use your drilled reactions ability, you can give an extra reaction to up to four allies.
 

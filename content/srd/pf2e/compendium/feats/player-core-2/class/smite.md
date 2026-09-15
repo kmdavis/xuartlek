@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Champion`  `Concentrate`
 
-You single out one enemy to destroy in your deity's name. Designate one enemy you can see. Until the start of your next turn, your Strikes against that enemy gain a +3 status bonus to damage, increasing to +4 if you have master proficiency with the weapon or unarmed attack you're using for the Strike. If you're [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] and the target has the opposite trait, the bonus is +4 (or +6 if you're a master).
+You single out one enemy to destroy in your deity's name. Designate one enemy you can see. Until the start of your next turn, your Strikes against that enemy gain a +3 status bonus to damage, increasing to +4 if you have master proficiency with the weapon or unarmed attack you're using for the Strike. If you're [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]] and the target has the opposite trait, the bonus is +4 (or +6 if you're a master).
 
  If the target takes a hostile action against you or one of your allies before the start of your next turn, the duration extends to the end of that enemy's next turn. If the enemy continues to take these hostile actions each turn, the duration continues to extend.
 

@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Cleric`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Toil|Toil]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Toil|Toil]]
 - **Trigger**: You or an ally within range fails a skill check for a skill in which you or they are trained.
 - **Range**: 30 feet
 - **Target**: the triggering creature

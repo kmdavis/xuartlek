@@ -18,6 +18,6 @@ socialImage: og-image.png
 
 `Concentrate`  `Jotunborn`  `Move`  `Occult`  `Teleportation`
 
-You temporarily move just beyond the threshold of the current plane, granting you [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealment]] until the end of your next turn. You remain clearly visible while stepping outside of a plane in this way and you can’t use this concealment to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]].
+You temporarily move just beyond the threshold of the current plane, granting you [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealment]] until the end of your next turn. You remain clearly visible while stepping outside of a plane in this way and you can’t use this concealment to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]].
 
 *Source: Battlecry! p. 14*

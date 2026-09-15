@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Air`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Area**: 10-foot emanation
 - **Defense**: Reflex
 

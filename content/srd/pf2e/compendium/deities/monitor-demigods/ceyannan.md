@@ -24,21 +24,21 @@ Constitution or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/staff|Staff]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Staff|Staff]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Repose|Repose]], [[srd/pf2e/compendium/character/domains#Soul|Soul]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Repose|Repose]], [[srd/pf2e/compendium/character/Domains#Soul|Soul]], [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Travel|Travel]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/tailwind|Tailwind]]
+[[srd/pf2e/compendium/spells/rank-1/Tailwind|Tailwind]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/embed-message|Embed Message]]
+[[srd/pf2e/compendium/spells/rank-2/Embed Message|Embed Message]]
 
 - **3rd**
 Shadow Spy

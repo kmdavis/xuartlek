@@ -20,6 +20,6 @@ Your deity’s grace doesn’t extend to your sworn enemies. When you cast a har
 
 ### Divine Castigation leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/castigating-weapon|Castigating Weapon]]
+[[srd/pf2e/compendium/feats/player-core/class/Castigating Weapon|Castigating Weapon]]
 
 *Source: Player Core p. 113*

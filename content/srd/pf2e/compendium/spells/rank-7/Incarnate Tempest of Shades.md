@@ -16,30 +16,30 @@ socialImage: og-image.png
 
 `Concentrate`  `Incarnate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 100 feet
 - **Duration**: until the end of your next turn
 
 You channel the forces of undeath to briefly call forth an amalgam of the vengeful dead slain by your enemies and allies alike. This amalgam manifests as a large tornado of insubstantial, howling faces. It occupies the space of a Huge creature and has a Speed of 60 feet.
 
-**Arrive** ([[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]) _Vortex of Death_ Each enemy within a 60-foot emanation must attempt a Fortitude save with the following effects. 
+**Arrive** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]]) _Vortex of Death_ Each enemy within a 60-foot emanation must attempt a Fortitude save with the following effects. 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]].
+**Success** The creature is {{conditions 68 "drained 1"}}.
 
 **Failure** The creature is drained 2.
 
 **Critical Failure** The creature is drained 3.
 
-**Depart** ([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) _Howl of Eternity_ The vengeful dead lets out an anguished scream. All enemies within a 100-foot emanation must attempt Will saves with the following effects. 
+**Depart** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]]) _Howl of Eternity_ The vengeful dead lets out an anguished scream. All enemies within a 100-foot emanation must attempt Will saves with the following effects. 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]].
+**Success** The creature is {{conditions 76 "frightened 1"}}.
 
 **Failure** The creature is frightened 3.
 
-**Critical Failure** The creature is frightened 3. It’s also [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] for 1 round or until it’s no longer frightened, whichever comes first.
+**Critical Failure** The creature is frightened 3. It’s also {{conditions 74 "fleeing"}} for 1 round or until it’s no longer frightened, whichever comes first.
 
 *Source: Impossible Magic p. 148*

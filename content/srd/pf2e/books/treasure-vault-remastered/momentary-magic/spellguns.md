@@ -1,6 +1,7 @@
 ---
 title: "Spellguns"
 aliases: ["Spellguns"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,11 +10,10 @@ tags:
 source: "Treasure Vault (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1911"
 citation: "Treasure Vault (Remastered) pg. 96"
-socialImage: og-image.png
 ---
 
 # Spellguns
 
 <sup>TV p. 96</sup>
 
-The [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/spellgun|spellgun]] trait appears on items that can generate a magical effect that flies out like a bullet. You can make either a spell attack roll with a spellgun or a ranged attack roll using your proficiency with simple firearms. Spellguns have a range increment, which applies regardless of which type of attack roll you make. Though you can use your modifier for simple firearms, a spellgun isn't actually a firearm. You don't get the damage of a firearm Strike, nor other benefits like critical specialization. Similarly, you can't load or reload a spellgun, affix talismans to one, attach scopes, affix attached weapons like [[srd/pf2e/compendium/equipment/weapons/knife/bayonet|bayonets]] or [[srd/pf2e/compendium/equipment/weapons/club/reinforced-stock|reinforced stocks]], and so on.
+The [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/Spellgun|spellgun]] trait appears on items that can generate a magical effect that flies out like a bullet. You can make either a spell attack roll with a spellgun or a ranged attack roll using your proficiency with simple firearms. Spellguns have a range increment, which applies regardless of which type of attack roll you make. Though you can use your modifier for simple firearms, a spellgun isn't actually a firearm. You don't get the damage of a firearm Strike, nor other benefits like critical specialization. Similarly, you can't load or reload a spellgun, affix [talismans](https://2e.aonprd.com/Equipment.aspx?Category=15&Subcategory=19) to one, attach scopes, affix [attached](https://2e.aonprd.com/Traits.aspx?ID=171) weapons like [[srd/pf2e/compendium/equipment/weapons/knife/Bayonet|bayonets]] or [[srd/pf2e/compendium/equipment/weapons/club/Reinforced Stock|reinforced stocks]], and so on.

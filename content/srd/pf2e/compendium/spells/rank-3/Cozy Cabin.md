@@ -16,13 +16,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Wood`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: Aminara, [[srd/pf2e/compendium/deities/azlanti-pantheon/elion|Elion]], [[srd/pf2e/compendium/deities/other-gods/emmeton-galardaria|Emmeton Galardaria]], [[srd/pf2e/compendium/deities/covenants/good-neighbors|Good Neighbors]], Immonhiel, [[srd/pf2e/compendium/deities/infernal-dukes/malthus|Malthus]], The Offering Plate, [[srd/pf2e/compendium/deities/sarkorian-covenants/the-spirit-wall|The Spirit Wall]], [[srd/pf2e/compendium/deities/empyreal-lords/uskyeria|Uskyeria]], Yelayne
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: Aminara, [[srd/pf2e/compendium/deities/azlanti-pantheon/Elion|Elion]], [[srd/pf2e/compendium/deities/other-gods/Emmeton Galardaria|Emmeton Galardaria]], [[srd/pf2e/compendium/deities/covenants/Good Neighbors|Good Neighbors]], Immonhiel, [[srd/pf2e/compendium/deities/infernal-dukes/Malthus|Malthus]], The Offering Plate, [[srd/pf2e/compendium/deities/sarkorian-covenants/The Spirit Wall|The Spirit Wall]], [[srd/pf2e/compendium/deities/empyreal-lords/Uskyeria|Uskyeria]], Yelayne
 - **Cast**: 1 minute
 - **Range**: 30 feet
 - **Duration**: 12 hours
 
-You shape a cabin 20 feet on each side and 10 feet high. This cabin has the [[srd/pf2e/compendium/rules-elements/traits/player-core/structure|structure]] trait and the same restrictions as magic items that create structures. The walls of the hut are simple and wooden, with small, square glass windows, and it has one wooden door. It doesn't include its own lock, but it has a fastener to which a lock can be applied.
+You shape a cabin 20 feet on each side and 10 feet high. This cabin has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Structure|structure]] trait and the same restrictions as magic items that create structures. The walls of the hut are simple and wooden, with small, square glass windows, and it has one wooden door. It doesn't include its own lock, but it has a fastener to which a lock can be applied.
 
  The interior contains three cots, one chamber pot, and a small fireplace holding a magical fire. The interior is lit with a small magical light that you can light or extinguish at will using a Sustain action. The climate inside the hut is comfortable and allows creatures inside it to withstand most hostile weather conditions, but incredible heat or cold, powerful storms, and winds of hurricane force or greater destroy the hut. Other creatures can freely enter and exit the hut without damaging it, but if you exit the hut, the spell ends. You can Dismiss the spell.
 

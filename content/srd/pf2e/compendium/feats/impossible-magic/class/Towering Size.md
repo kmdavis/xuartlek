@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Evolution`  `Summoner`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/hulking-size|Hulking Size]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/Hulking Size|Hulking Size]]
 
 Your eidolon becomes even bigger. They become Huge, instead of Large, and the reach on all of their attacks increases to 15 feet.
 

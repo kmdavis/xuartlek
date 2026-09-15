@@ -24,21 +24,21 @@ Strength or Constitution
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/shortbow|Shortbow]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/Shortbow|Shortbow]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Repose|Repose]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Repose|Repose]], [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Earth|Earth]], [[srd/pf2e/compendium/character/domains#Family|Family]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Earth|Earth]], [[srd/pf2e/compendium/character/Domains#Family|Family]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/sleep|Sleep]]
+[[srd/pf2e/compendium/spells/rank-1/Sleep|Sleep]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/mountain-resilience|Mountain Resilience]]
+[[srd/pf2e/compendium/spells/rank-4/Mountain Resilience|Mountain Resilience]]
 
 - **7th**
 Momentary Recovery

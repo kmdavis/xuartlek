@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/time-mage|Time Mage]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Time Mage|Time Mage]]
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/time-mage-dedication|Time Mage Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Time Mage Dedication|Time Mage Dedication]]
 
 All things eventually end, a truth that you can put into practice by accelerating your passage through time to shake off harmful effects. Five rounds of apparent time occur for you. No one, including you, can act during this time, but effects on you run their course, including beneficial effects, negative effects, afflictions, conditions, and persistent damage. Roll saving throws, flat checks, damage, and any other rolls for those effects normally as if the time had passed. Excessive use of this technique is responsible for more than a few premature gray hairs among time mages.
 

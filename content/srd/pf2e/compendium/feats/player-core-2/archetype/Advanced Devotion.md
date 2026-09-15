@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/champion|Champion]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/basic-devotion|Basic Devotion]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Champion|Champion]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Basic Devotion|Basic Devotion]]
 
-You gain one champion feat. For the purpose of meeting its prerequisites, your champion level is equal to half your character level.
+You gain one [champion feat](https://2e.aonprd.com/Feats.aspx?Traits=24). For the purpose of meeting its prerequisites, your champion level is equal to half your character level.
 
 **Special** You can select this feat more than once. Each time you select it, you gain another champion feat.
 

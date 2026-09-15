@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]]
 
 Your tumbling distracts a foe enough to create an advantage for one of your allies. When you successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Tumble Through|Tumble Through]] an enemy's space, an ally who is adjacent to that enemy can [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]] as a reaction, but they must remain adjacent to that enemy.
 

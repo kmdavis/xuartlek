@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Death`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 100 feet
 - **Area**: 30-foot radius, 200-foot-tall cylinder
 - **Defense**: Will
@@ -27,7 +27,7 @@ You replace the sky with a mesmerizing vision of the Astral Plane’s River of S
 
 **Critical Success** The creature is unaffected and temporarily immune to _stars of another sky_ for 1 day.
 
-**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] by the beauty of the sky and rises 20 feet into the air. Creatures without a fly Speed remain in the air for the spell’s duration but fall when they recover from their fascinated condition. A creature that reaches the top of the cylinder doesn’t rise farther but takes 5d10 mental damage each time it starts its turn there due to a desire to become more immersed in the sky. Creatures without souls take double damage. If this damage drops the creature to 0 Hit Points, it dies instantly.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Fascinated|fascinated]] by the beauty of the sky and rises 20 feet into the air. Creatures without a fly Speed remain in the air for the spell’s duration but fall when they recover from their fascinated condition. A creature that reaches the top of the cylinder doesn’t rise farther but takes 5d10 mental damage each time it starts its turn there due to a desire to become more immersed in the sky. Creatures without souls take double damage. If this damage drops the creature to 0 Hit Points, it dies instantly.
 
 **Failure** As success, but the creature rises 50 feet into the air. Additionally, hostile actions don’t affect its fascinated condition for 1 round.
 

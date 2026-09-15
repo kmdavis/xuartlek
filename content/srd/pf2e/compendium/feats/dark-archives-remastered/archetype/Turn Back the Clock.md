@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`  `Fortune`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/chronoskimmer|Chronoskimmer]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Chronoskimmer|Chronoskimmer]]
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/chronoskimmer-dedication|Chronoskimmer Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Chronoskimmer Dedication|Chronoskimmer Dedication]]
 - **Trigger**: You fail a skill check or saving throw.
 
 After failing a test of skill, you hop back in your personal timeline so you can try again. You reroll the triggering check with a +1 circumstance bonus as you apply your experience from your last attempt. You must use the new result, even if it's worse than your first roll.

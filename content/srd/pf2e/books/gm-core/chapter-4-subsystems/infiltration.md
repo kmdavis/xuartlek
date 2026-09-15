@@ -1,6 +1,7 @@
 ---
 title: "Infiltration"
 aliases: ["Infiltration"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3059"
 citation: "GM Core pg. 196"
-socialImage: og-image.png
 ---
 
 # Infiltration
@@ -151,8 +151,8 @@ Edge Points (EP) represent advantages the party gains by proper planning, quick 
 
 ### Bribe Contact
 
-Downtime Secret
-**Source** Gamemastery Guide pg. 163
+[Downtime](https://2e.aonprd.com/Traits.aspx?ID=49) [Secret](https://2e.aonprd.com/Traits.aspx?ID=142)
+**Source** [Gamemastery Guide pg. 163](https://2e.aonprd.com/Sources.aspx?ID=22)
 **Cost** A bribe worth at least one-tenth of the Currency per Additional PC listed on Table 10–9: Party Treasure by Level. Doubling this amount grants a +2 circumstance bonus to the check.
 **Requirements** You’ve successfully Gained a Contact (see below).
 
@@ -165,8 +165,8 @@ You offer a bribe to your contact to help the heist in some way. Attempt a hard 
 
 ### Forge Documents
 
-Downtime Secret
-**Source** Gamemastery Guide pg. 163
+[Downtime](https://2e.aonprd.com/Traits.aspx?ID=49) [Secret](https://2e.aonprd.com/Traits.aspx?ID=142)
+**Source** [Gamemastery Guide pg. 163](https://2e.aonprd.com/Sources.aspx?ID=22)
 
 ---
 
@@ -177,8 +177,8 @@ You prepare forgeries that might serve as convincing props. Attempt a hard or ve
 
 ### Gain Contact
 
-Downtime
-**Source** Gamemastery Guide pg. 163
+[Downtime](https://2e.aonprd.com/Traits.aspx?ID=49)
+**Source** [Gamemastery Guide pg. 163](https://2e.aonprd.com/Sources.aspx?ID=22)
 
 ---
 
@@ -189,8 +189,8 @@ You try to make contact with an individual who can aid you in the infiltration. 
 
 ### Gossip
 
-Downtime Secret
-**Source** Gamemastery Guide pg. 163
+[Downtime](https://2e.aonprd.com/Traits.aspx?ID=49) [Secret](https://2e.aonprd.com/Traits.aspx?ID=142)
+**Source** [Gamemastery Guide pg. 163](https://2e.aonprd.com/Sources.aspx?ID=22)
 
 ---
 
@@ -202,8 +202,8 @@ You seek out rumors about the infiltration’s target. Attempt a normal, hard, o
 
 ### Scout Location
 
-Downtime Secret
-**Source** Gamemastery Guide pg. 163
+[Downtime](https://2e.aonprd.com/Traits.aspx?ID=49) [Secret](https://2e.aonprd.com/Traits.aspx?ID=142)
+**Source** [Gamemastery Guide pg. 163](https://2e.aonprd.com/Sources.aspx?ID=22)
 
 ---
 
@@ -214,8 +214,8 @@ You spend time observing the place or group you wish to infiltrate. Attempt a no
 
 ### Secure Disguises
 
-Downtime
-**Source** Gamemastery Guide pg. 163
+[Downtime](https://2e.aonprd.com/Traits.aspx?ID=49)
+**Source** [Gamemastery Guide pg. 163](https://2e.aonprd.com/Sources.aspx?ID=22)
 
 ---
 

@@ -19,9 +19,9 @@ socialImage: og-image.png
 - **Price**: 60 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 Using ingredients collected from pure elemental sources, a warding element draught instills enough of the essence of the element in the imbiber to partially protect them against it. Each draught includes one of the following ingredients, chosen when the elixir is distilled, and grants a +1 item bonus to AC and saving throws against alchemical effects, spells, and magic effects with the listed elemental trait for 10 minutes.
-**Blood** [[srd/pf2e/compendium/rules-elements/traits/player-core/metal|Metal]]**Effervescent Gas** [[srd/pf2e/compendium/rules-elements/traits/player-core/air|Air]]**Grains** [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|Earth]]**Hot Peppers** [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]]**Spring Water** [[srd/pf2e/compendium/rules-elements/traits/player-core/water|Water]]**Wormwood** [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|Wood]]
+**Blood** [[srd/pf2e/compendium/rules-elements/traits/player-core/Metal|Metal]]**Effervescent Gas** [[srd/pf2e/compendium/rules-elements/traits/player-core/Air|Air]]**Grains** [[srd/pf2e/compendium/rules-elements/traits/player-core/Earth|Earth]]**Hot Peppers** [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|Fire]]**Spring Water** [[srd/pf2e/compendium/rules-elements/traits/player-core/Water|Water]]**Wormwood** [[srd/pf2e/compendium/rules-elements/traits/player-core/Wood|Wood]]
 
 *Source: Treasure Vault (Remastered) p. 51*

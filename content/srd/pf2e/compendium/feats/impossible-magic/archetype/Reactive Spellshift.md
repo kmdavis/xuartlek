@@ -15,11 +15,11 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/spellshifter|Spellshifter]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/spellshifter-dedication|Spellshifter Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Spellshifter|Spellshifter]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Spellshifter Dedication|Spellshifter Dedication]]
 - **Trigger**: A creature within 30 feet casts a spell.
 - **Requirements**: You are holding your conduit.
 
-You can reflexively shift a spell even as it’s being cast. You attempt to Shift the triggering Spell even if you do not meet the other requirements to Shift Spell. On a success, the spellshift applies to the spell’s effects as appropriate for the chosen spellshift. After you choose your spellshift, but before you attempt your [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] check, the caster can voluntarily let their spell be [[srd/pf2e/books/player-core/chapter-7-spells/casting-spells#Disrupted and Lost Spells|disrupted]]. Regardless of the outcome, the caster then becomes immune to your Reactive Spellshift for 10 minutes.
+You can reflexively shift a spell even as it’s being cast. You attempt to Shift the triggering Spell even if you do not meet the other requirements to Shift Spell. On a success, the spellshift applies to the spell’s effects as appropriate for the chosen spellshift. After you choose your spellshift, but before you attempt your [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] check, the caster can voluntarily let their spell be [[srd/pf2e/books/player-core/chapter-7-spells/Casting Spells#Disrupted and Lost Spells|disrupted]]. Regardless of the outcome, the caster then becomes immune to your Reactive Spellshift for 10 minutes.
 
 *Source: Impossible Magic p. 103*

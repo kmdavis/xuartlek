@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Guardian`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
 Whether with a weapon or your bare hands, you keep your opponents in their place. Increase the maximum distance you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] an opponent to 10 feet on a success or 15 feet on a critical success.
 

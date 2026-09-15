@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Incapacitation`  `Manipulate`  `Water`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Deity**: Ytildos
 - **Range**: 30 feet
 - **Target**: 1 creature
@@ -30,7 +30,7 @@ Barnacles, coral, and other rough aquatic creatures grow on the target's body, g
 
 **Success** The target is clumsy 1. The target can Interact to scrape the coral growths from its body, decreasing the clumsy condition to 0 and ending the spell.
 
-**Failure** The target is clumsy 2. Each round at the beginning of its turn, the target becomes clumsy 1 or increases its clumsy condition by 1, to a maximum of 4. The target can Interact to scrape the coral growths from its body, decreasing the clumsy condition to 0 and ending the spell. If the target's clumsy condition caused by _coral scourge_ reaches 4, the growths spread to cover the target's entire body, and the target becomes [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]].
+**Failure** The target is clumsy 2. Each round at the beginning of its turn, the target becomes clumsy 1 or increases its clumsy condition by 1, to a maximum of 4. The target can Interact to scrape the coral growths from its body, decreasing the clumsy condition to 0 and ending the spell. If the target's clumsy condition caused by _coral scourge_ reaches 4, the growths spread to cover the target's entire body, and the target becomes [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]].
 
 **Critical Failure** As failure, but when the target Interacts to scrape the coral growths from its body, it reduces its clumsy condition by 1, instead of decreasing it to 0, and decreasing the clumsy condition to 0 doesn't end the spell.
 

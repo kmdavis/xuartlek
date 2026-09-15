@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Fighter`  `Flourish`  `Press`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/dual-weapon-warrior|Dual-Weapon Warrior]] (Level 16)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Dual-Weapon Warrior|Dual-Weapon Warrior]] (Level 16)
 - **Requirements**: You are wielding two weapons, each in a different hand
 
 Using the momentum of your prior attack, you lash out with both your weapons in a sudden frenzy. Strike twice, once with each weapon.

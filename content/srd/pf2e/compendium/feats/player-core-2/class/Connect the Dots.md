@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Auditory`  `Concentrate`  `Investigator`  `Linguistic`
 
-Ephemeral connections between people, places, and concepts are invisible to most, but seeing them is your stock and trade. Choose an ally and a non-allied creature. You must be able to see both of them. You briefly study the way they both move and attempt a Perception check against the higher of the non-allied creature's [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] DC or Will DC. Both targets are then temporarily immune to Connect the Dots for 10 minutes.
+Ephemeral connections between people, places, and concepts are invisible to most, but seeing them is your stock and trade. Choose an ally and a non-allied creature. You must be able to see both of them. You briefly study the way they both move and attempt a Perception check against the higher of the non-allied creature's [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] DC or Will DC. Both targets are then temporarily immune to Connect the Dots for 10 minutes.
 
 **Critical Success** You spot a way for your ally to take advantage of the other target's flaws and let them know about it. Your ally gains your [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Pursue a Lead|Pursue a Lead]] investigation bonus as a circumstance bonus to all its Strikes or skill checks against the creature until the start of your next turn.
 
@@ -25,6 +25,6 @@ Ephemeral connections between people, places, and concepts are invisible to most
 
 **Failure** You fail to make a connection.
 
-**Critical Failure** You misconstrue a vital piece of information, which temporarily disconcerts you. You are [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]] until the end of your next turn.
+**Critical Failure** You misconstrue a vital piece of information, which temporarily disconcerts you. You are [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied 1]] until the end of your next turn.
 
 *Source: Player Core 2 p. 109*

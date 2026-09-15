@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Automaton`
 
-You have come to better understand the process that made your body and the magic that powers it. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] and [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the [[srd/pf2e/compendium/feats/player-core/skill/additional-lore|Additional Lore]] feat for [[srd/pf2e/compendium/rules-elements/skills/lore|Automaton Lore]].
+You have come to better understand the process that made your body and the magic that powers it. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] and [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the [[srd/pf2e/compendium/feats/player-core/skill/Additional Lore|Additional Lore]] feat for [[srd/pf2e/compendium/rules-elements/skills/Lore|Automaton Lore]].
 
 **Enhancement** Increase your proficiency rank in your choice of either Arcana or Crafting to expert.
 

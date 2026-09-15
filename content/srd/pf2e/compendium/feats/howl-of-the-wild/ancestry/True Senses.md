@@ -15,8 +15,8 @@ socialImage: og-image.png
 `Awakened Animal`
 
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/natural-senses|Natural Senses]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Natural Senses|Natural Senses]]
 
-Your senses are so sharp they pierce through all illusions. You can heighten your senses to non-magically gain the effects of a 6th-rank [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]] spell for 10 minutes. The ability to “see through” [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusions]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] effects applies to any precise sense you possess.
+Your senses are so sharp they pierce through all illusions. You can heighten your senses to non-magically gain the effects of a 6th-rank [[srd/pf2e/compendium/spells/rank-6/Truesight|_truesight_]] spell for 10 minutes. The ability to “see through” [[srd/pf2e/compendium/rules-elements/traits/player-core/Illusion|illusions]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]] effects applies to any precise sense you possess.
 
 *Source: Howl of the Wild p. 27*

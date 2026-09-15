@@ -1,6 +1,7 @@
 ---
 title: "Chapter 4: Subsystems"
 aliases: ["Chapter 4: Subsystems"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3026"
 citation: "GM Core pg. 183"
-socialImage: og-image.png
 ---
 
 # Chapter 4: Subsystems
@@ -33,14 +33,14 @@ Subsystems are a great way to add depth to aspects of your game that don't occur
 
 ## Contents
 
-- [[srd/pf2e/books/gm-core/chapter-4-subsystems/deciding-to-use-a-subsystem|Deciding to Use a Subsystem]]
-- [[srd/pf2e/books/gm-core/chapter-4-subsystems/victory-points|Victory Points]]
-- [[srd/pf2e/books/gm-core/chapter-4-subsystems/influence|Influence]]
-- [[srd/pf2e/books/gm-core/chapter-4-subsystems/research|Research]]
-- [[srd/pf2e/books/gm-core/chapter-4-subsystems/chases|Chases]]
-- [[srd/pf2e/books/gm-core/chapter-4-subsystems/infiltration|Infiltration]]
-- [[srd/pf2e/books/gm-core/chapter-4-subsystems/reputation|Reputation]]
-- [[srd/pf2e/books/gm-core/chapter-4-subsystems/duels|Duels]]
-- [[srd/pf2e/books/gm-core/chapter-4-subsystems/leadership|Leadership]]
-- [[srd/pf2e/books/gm-core/chapter-4-subsystems/hexploration|Hexploration]]
-- [[srd/pf2e/books/gm-core/chapter-4-subsystems/vehicles|Vehicles]]
+- [[srd/pf2e/books/gm-core/chapter-4-subsystems/Deciding to Use a Subsystem|Deciding to Use a Subsystem]]
+- [[srd/pf2e/books/gm-core/chapter-4-subsystems/Victory Points|Victory Points]]
+- [[srd/pf2e/books/gm-core/chapter-4-subsystems/Influence|Influence]]
+- [[srd/pf2e/books/gm-core/chapter-4-subsystems/Research|Research]]
+- [[srd/pf2e/books/gm-core/chapter-4-subsystems/Chases|Chases]]
+- [[srd/pf2e/books/gm-core/chapter-4-subsystems/Infiltration|Infiltration]]
+- [[srd/pf2e/books/gm-core/chapter-4-subsystems/Reputation|Reputation]]
+- [[srd/pf2e/books/gm-core/chapter-4-subsystems/Duels|Duels]]
+- [[srd/pf2e/books/gm-core/chapter-4-subsystems/Leadership|Leadership]]
+- [[srd/pf2e/books/gm-core/chapter-4-subsystems/Hexploration|Hexploration]]
+- [[srd/pf2e/books/gm-core/chapter-4-subsystems/Vehicles|Vehicles]]

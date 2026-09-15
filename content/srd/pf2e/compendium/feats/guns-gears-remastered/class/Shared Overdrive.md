@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Inventor`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/class/overdrive-ally|Overdrive Ally]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Overdrive Ally|Overdrive Ally]]
 
 You've experimented enough on your teammates to transfer a substantial number of powered-up gizmos to them, enabling one of your allies to benefit from the full effects and duration of your [[srd/pf2e/compendium/rules-elements/actions/guns-gears-remastered#Overdrive|Overdrive]]. The first time you use Overdrive Ally during a given Overdrive, the effect lasts for the remainder of the duration of your Overdrive, instead of just until the end of the target's next turn. Any further uses of Overdrive Ally during the same Overdrive have their normal duration, per Overdrive Ally.
 
 ### Shared Overdrive leads to...
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/class/ubiquitous-overdrive|Ubiquitous Overdrive]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/class/Ubiquitous Overdrive|Ubiquitous Overdrive]]
 
 *Source: Guns & Gears (Remastered) p. 30*

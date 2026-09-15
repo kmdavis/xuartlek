@@ -18,7 +18,7 @@ socialImage: og-image.png
 `Concentrate`  `Ranger`  `Spellshape`  `Metamagic`
 
 - **Prerequisites**: warden spells
-- **Requirements**: You have line of effect to your animal companion or another [[srd/pf2e/compendium/rules-elements/conditions#Friendly|friendly]] [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] within 60 feet.
+- **Requirements**: You have line of effect to your animal companion or another [[srd/pf2e/compendium/rules-elements/Conditions#Friendly|friendly]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animal]] within 60 feet.
 
 You can use an animal as a conduit for your magic. If the next action you use is to Cast a Spell that has a range, the spell uses the animal as its origin point.
 

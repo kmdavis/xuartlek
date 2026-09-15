@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/thlipit-contestant|Thlipit Contestant]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/thlipit-contestant-dedication|Thlipit Contestant Dedication]]; unarmed attack with your tongue
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Thlipit Contestant|Thlipit Contestant]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Thlipit Contestant Dedication|Thlipit Contestant Dedication]]; unarmed attack with your tongue
 
-Your tongue darts out in search of refreshment. Choose a liquid container of up to light Bulk within reach of your lash, such as a [[srd/pf2e/compendium/rules-elements/traits/player-core/potion|potion]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/elixir|elixir]]. The container must be held or in the open, not stowed in a pack or bandoleer. If the container is unattended or held by a willing ally, you Interact to drink the contents. If the container is held by an unwilling creature, you must succeed on a check using your [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack modifier or [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] modifier against the creature's Reflex DC to drink the contents; this adds the [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] trait.
+Your tongue darts out in search of refreshment. Choose a liquid container of up to light Bulk within reach of your lash, such as a [[srd/pf2e/compendium/rules-elements/traits/player-core/Potion|potion]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Elixir|elixir]]. The container must be held or in the open, not stowed in a pack or bandoleer. If the container is unattended or held by a willing ally, you Interact to drink the contents. If the container is held by an unwilling creature, you must succeed on a check using your [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack modifier or [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] modifier against the creature's Reflex DC to drink the contents; this adds the [[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]] trait.
 
 *Source: Howl of the Wild p. 75*

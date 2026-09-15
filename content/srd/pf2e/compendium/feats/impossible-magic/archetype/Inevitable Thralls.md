@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/necromancer|Necromancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/necromancer-dedication|Necromancer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Necromancer|Necromancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Necromancer Dedication|Necromancer Dedication]]
 
 You gain the necromancer's [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Inevitable Return|Inevitable Return]] reaction, allowing you to create thralls from the corpses of your enemies.
 

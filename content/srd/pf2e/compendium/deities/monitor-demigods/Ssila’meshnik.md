@@ -24,23 +24,23 @@ Dexterity or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/light-hammer|Light Hammer]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/Light Hammer|Light Hammer]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Fate|Fate]], [[srd/pf2e/compendium/character/domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Fate|Fate]], [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Time|Time]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Time|Time]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/liberating-command|Liberating Command]]
+[[srd/pf2e/compendium/spells/rank-1/Liberating Command|Liberating Command]]
 
 - **4th**
 Mirror's Misfortune
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/synaptic-pulse|Synaptic Pulse]]
+[[srd/pf2e/compendium/spells/rank-5/Synaptic Pulse|Synaptic Pulse]]
 
 *Source: Divine Mysteries p. 316*

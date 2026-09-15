@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/demolitionist|Demolitionist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/demolitionist-dedication|Demolitionist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Demolitionist|Demolitionist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Demolitionist Dedication|Demolitionist Dedication]]
 - **Trigger**: A creature moves into the bombs' splash area.
 - **Requirements**: You're within 30 feet of an area where you rigged bombs on a wall, cliff face, or similar vertical surface with Set Explosives or Demolition Charge.
 

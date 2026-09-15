@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Summon`
 
-- **Tradition**: Occult
-- **Deities**: [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-haunter-in-the-dark|Nyarlathotep (Haunter in the Dark)]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-crawling-chaos|Nyarlathotep (The Crawling Chaos)]]
+- **Tradition**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (Haunter in the Dark)|Nyarlathotep (Haunter in the Dark)]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (The Crawling Chaos)|Nyarlathotep (The Crawling Chaos)]]
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 
-You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/aberration|aberration]] trait and whose level is 5 or lower to fight for you.
+You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Aberration|aberration]] trait and whose level is 5 or lower to fight for you.
 
 ---
 **Heightened (6th)** Level 7.

@@ -17,9 +17,9 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Manipulate`  `Subtle`
 
-- **Traditions**: Divine, Occult
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Duration**: 1 minute
 
-You survey a social situation, showing courtesy to all around you as your intuition swiftly picks up clues about social contexts and unspoken assumptions of behavior. Your body language subconsciously changes to take advantage of this information and use it in your own interactions with those creatures. As part of Casting this Spell, you [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] using [[srd/pf2e/compendium/rules-elements/skills/society|Society]] to gain information about the social situation. You also gain a +1 status bonus to your next [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] on those creatures present when you Cast this Spell, as long as the check occurs during the duration of the spell. You can _read the air_ only once in a given social situation; casting it again has no effect.
+You survey a social situation, showing courtesy to all around you as your intuition swiftly picks up clues about social contexts and unspoken assumptions of behavior. Your body language subconsciously changes to take advantage of this information and use it in your own interactions with those creatures. As part of Casting this Spell, you [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] using [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] to gain information about the social situation. You also gain a +1 status bonus to your next [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] on those creatures present when you Cast this Spell, as long as the check occurs during the duration of the spell. You can _read the air_ only once in a given social situation; casting it again has no effect.
 
 *Source: Impossible Magic p. 159*

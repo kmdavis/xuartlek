@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/oracle|Oracle]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/basic-oracle-spellcasting|Basic Oracle Spellcasting]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Oracle|Oracle]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Basic Oracle Spellcasting|Basic Oracle Spellcasting]]
 
 Increase the number of spells in your repertoire and number of spell slots you gain from oracle archetype feats by 1 for each spell rank other than your two highest oracle spell slots.
 

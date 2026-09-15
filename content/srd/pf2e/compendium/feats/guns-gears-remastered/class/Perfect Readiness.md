@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Gunslinger`
 
-You prepare to fire with an instinctive speed and muscle memory that go beyond your conscious thoughts. You're permanently [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]]. You can use your extra action only to Step or Interact to reload.
+You prepare to fire with an instinctive speed and muscle memory that go beyond your conscious thoughts. You're permanently [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]]. You can use your extra action only to Step or Interact to reload.
 
 *Source: Guns & Gears (Remastered) p. 119*

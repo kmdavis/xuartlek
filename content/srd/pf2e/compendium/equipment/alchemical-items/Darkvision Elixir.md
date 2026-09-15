@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-After you drink this elixir, your sight becomes sharper in darkness. You gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Darkvision and Greater Darkvision|darkvision]] for the listed duration.
+After you drink this elixir, your sight becomes sharper in darkness. You gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Darkvision and Greater Darkvision|darkvision]] for the listed duration.
 
 ### Darkvision Elixir (Lesser)
 

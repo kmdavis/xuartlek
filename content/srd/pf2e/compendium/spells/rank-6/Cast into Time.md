@@ -16,18 +16,18 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/covenants/faith-in-the-fallen|Faith in the Fallen]], [[srd/pf2e/compendium/deities/demon-lords/yhidothrus|Yhidothrus]]
-- **Area**: 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/covenants/Faith in the Fallen|Faith in the Fallen]], [[srd/pf2e/compendium/deities/demon-lords/Yhidothrus|Yhidothrus]]
+- **Area**: 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Cone|cone]]
 - **Defense**: Fortitude
 
-You release a wave of temporal energy that sends creatures violently tumbling through time, scarring their thoughts with the information flowing around them. Although the journey can feel like it lasts for minutes or even days, the targets reappear instantly. Witnessing this chaotic flow of time and being bashed against objects from the past and future deals 5d8 mental damage and 5d6 bludgeoning damage to creatures in the area, with a Fortitude save. A creature that falls into time disappears until the end of your turn. It then reappears in the same space it left; if that space is occupied, it appears in the nearest empty space, chosen by the GM. Creatures that are immune to [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effects can still be affected by this spell but take no mental damage.
+You release a wave of temporal energy that sends creatures violently tumbling through time, scarring their thoughts with the information flowing around them. Although the journey can feel like it lasts for minutes or even days, the targets reappear instantly. Witnessing this chaotic flow of time and being bashed against objects from the past and future deals 5d8 mental damage and 5d6 bludgeoning damage to creatures in the area, with a Fortitude save. A creature that falls into time disappears until the end of your turn. It then reappears in the same space it left; if that space is occupied, it appears in the nearest empty space, chosen by the GM. Creatures that are immune to [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effects can still be affected by this spell but take no mental damage.
 
 **Critical Success** The creature is unaffected.
 
 **Success** The creature falls into time. When it returns, it takes half damage.
 
-**Failure** The creature falls into time. When it returns, it takes full damage and is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]].
+**Failure** The creature falls into time. When it returns, it takes full damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened 1]].
 
 **Critical Failure** The creature falls into time. When it returns, it takes double damage and is sickened 2.
 

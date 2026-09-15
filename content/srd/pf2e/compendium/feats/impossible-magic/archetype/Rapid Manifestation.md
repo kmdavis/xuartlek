@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/soulforger|Soulforger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/soulforger-dedication|Soulforger Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Soulforger|Soulforger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Soulforger Dedication|Soulforger Dedication]]
 - **Trigger**: You roll initiative or a hazard attacks you.
 
 Your unwavering soul brings up your defenses as soon as you’re in danger. You Manifest your Soulforged Armament.

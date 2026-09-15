@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: negotiate contracts to your best advantage, rule tyrannically and torture weaker beings, show subservience to your betters
 - **Anathema**: break a contract, share power with the weak, insult Asmodeus by showing mercy to your enemies
 - **Area of Concern**: contracts, pride, slavery, and tyranny
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/talons-of-the-godclaw|Talons of the Godclaw]], The Godclaw
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Talons of the Godclaw|Talons of the Godclaw]], The Godclaw
 
 ### Devotee Benefits
 
@@ -22,30 +22,30 @@ socialImage: og-image.png
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/mace|Mace]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Mace|Mace]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/domains#Tyranny|Tyranny]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Fire|Fire]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/Domains#Tyranny|Tyranny]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/domains#Toil|Toil]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/Domains#Toil|Toil]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/charm|Charm]]
+[[srd/pf2e/compendium/spells/rank-1/Charm|Charm]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]]
+[[srd/pf2e/compendium/spells/rank-4/Suggestion|Suggestion]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/mislead|Mislead]]
+[[srd/pf2e/compendium/spells/rank-6/Mislead|Mislead]]
 
 ### Divine Intercession
 
 Asmodeus tends to offer his gifts to entice those on the precipice of yielding to his vile temptations. His curses come most often in response to those who break contracts in his name, or commit other personal insults.
 
-**Minor Boon** Pleased by your talent for manipulation, Asmodeus amplifies your skills. Once, when you fail at the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] check to make a significant or consequential Request, you can cast _suggestion_ on the target of your Request, suggesting the same course of action. This is a divine innate spell.
+**Minor Boon** Pleased by your talent for manipulation, Asmodeus amplifies your skills. Once, when you fail at the [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] check to make a significant or consequential Request, you can cast _suggestion_ on the target of your Request, suggesting the same course of action. This is a divine innate spell.
 
 **Moderate Boon** Your eyes glow red like embers and your skin takes on a crimson tone. You gain darkvision and fire resistance 5.
 

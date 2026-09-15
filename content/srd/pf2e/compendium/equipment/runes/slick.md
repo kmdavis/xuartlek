@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 - **Usage**: etched onto armor
 
-This property makes armor slippery, as though it were coated with a thin film of oil. You gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] checks to Escape and Squeeze.
+This property makes armor slippery, as though it were coated with a thin film of oil. You gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] checks to Escape and Squeeze.
 
 ### Slick
 

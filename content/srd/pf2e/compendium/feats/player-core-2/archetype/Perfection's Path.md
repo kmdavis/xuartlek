@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/monk|Monk]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/monk-dedication|Monk Dedication]]; expert in at least one saving throw
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Monk|Monk]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Monk Dedication|Monk Dedication]]; expert in at least one saving throw
 
 Choose one saving throw (Fortitude, Reflex, or Will) in which you’re an expert. Your proficiency rank in the chosen saving throw increases to master.
 

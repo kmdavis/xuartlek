@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/exemplar|Exemplar]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/basic-glory|Basic Glory]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Exemplar|Exemplar]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Basic Glory|Basic Glory]]
 
 You gain an exemplar feat. For the purpose of meeting its prerequisites, your exemplar level is equal to half your character level.
 

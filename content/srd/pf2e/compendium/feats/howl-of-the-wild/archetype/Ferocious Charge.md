@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/beastmaster|Beastmaster]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Beastmaster|Beastmaster]]
 - **Prerequisites**: Beastmaster Dedication; animal companion with an antlers, head, or horn unarmed attack
 
 You've taught your companions to charge directly at an enemy. Your companions with a qualifying unarmed Strike learn the Ferocious Charge activity.

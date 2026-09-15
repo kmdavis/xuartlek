@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Athamaru`  `Poison`  `Locathah`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/emit-defensive-odor|Emit Defensive Odor]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Emit Defensive Odor|Emit Defensive Odor]]
 
-You have developed your skill with your defensive pheromones and have concentrated them into a noxious form. A creature that fails its save against your Emit Defensive Odor action also becomes [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]] (or sickened 2 on a critical failure).
+You have developed your skill with your defensive pheromones and have concentrated them into a noxious form. A creature that fails its save against your Emit Defensive Odor action also becomes [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened 1]] (or sickened 2 on a critical failure).
 
 *Source: Howl of the Wild p. 20*

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/oracle|Oracle]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/expert-oracle-spellcasting|Expert Oracle Spellcasting]]; Legendary in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Oracle|Oracle]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Expert Oracle Spellcasting|Expert Oracle Spellcasting]]; Legendary in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
 You gain the master spellcasting benefits.
 

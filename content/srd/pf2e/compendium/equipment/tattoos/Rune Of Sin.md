@@ -7,19 +7,19 @@ tags:
 - trait/tattoo
 - trait/uncommon
 - equipment/level/12
-aliases: ["Rune Of Sin"]
+aliases: ["Rune of Sin"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5180"
 source: "Impossible Magic"
 socialImage: og-image.png
 ---
 
-# Rune Of Sin  *Item 12*
+# Rune of Sin  *Item 12*
 
 `Arcane`  `Invested`  `Tattoo`  `Uncommon`
 
 - **Price**: 1, 700 gp
 - **Usage**: tattooed on the body
 
-This jagged glyph matches one of the Thassilonian runes of sin—envy, gluttony, greed, lust, pride, sloth, or wrath— chosen when the tattoo is created. When you Cast a Spell from the arcane tradition, the tattoo shimmers with energy, granting you [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] 10 to damage from divine spells until the start of your next turn.
+This jagged glyph matches one of the Thassilonian runes of sin—envy, gluttony, greed, lust, pride, sloth, or wrath— chosen when the tattoo is created. When you Cast a Spell from the arcane tradition, the tattoo shimmers with energy, granting you [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistance]] 10 to damage from divine spells until the start of your next turn.
 
 *Source: Impossible Magic p. 243*

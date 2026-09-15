@@ -24,18 +24,18 @@ Strength or Intelligence
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|Scimitar]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Scimitar|Scimitar]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Perfection|Perfection]], [[srd/pf2e/compendium/character/domains#Toil|Toil]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Fire|Fire]], [[srd/pf2e/compendium/character/Domains#Perfection|Perfection]], [[srd/pf2e/compendium/character/Domains#Toil|Toil]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Sun|Sun]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Sun|Sun]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/breathe-fire|Breathe Fire]]
+[[srd/pf2e/compendium/spells/rank-1/Breathe Fire|Breathe Fire]]
 
 - **3rd**
 Blazing Dive

@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Urdefhan`
 
-Urdefhans are humanoids who've made pacts with [[srd/pf2e/compendium/gm/creature-families/daemon|daemons]], have transparent skin, and drink blood.
+Urdefhans are humanoids who've made pacts with [[srd/pf2e/compendium/gm/creature-families/Daemon|daemons]], have transparent skin, and drink blood.
 
 *Source: Monster Core 2 p. 366*

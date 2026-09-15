@@ -28,10 +28,10 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +5, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +5"
 abilityMods: [2, 4, 2, 0, 2, -1]
 abilities_top:
   - name: "Items"
@@ -47,15 +47,15 @@ health:
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ light pick +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d8]]) __Damage__ 1d4+2 piercing"
+    desc: "⬻ light pick +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fatal|fatal d8]]) __Damage__ 1d4+2 piercing"
   - name: "Ranged"
-    desc: "⬻ sling +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 50 feet, reload 1) __Damage__ 1d6+1 bludgeoning"
+    desc: "⬻ sling +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Propulsive|Propulsive]], range increment 50 feet, reload 1) __Damage__ 1d6+1 bludgeoning"
 abilities_bot:
   - name: "Hidden Movement"
-    desc: "If the umbral gnome scout starts their turn [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] or [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] to a creature, that creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against the umbral gnome scout's attacks until the end of the turn."
+    desc: "If the umbral gnome scout starts their turn [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]] or [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] to a creature, that creature is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] against the umbral gnome scout's attacks until the end of the turn."
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 14 - __1st__ [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|Illusory Disguise]]"
+    desc: "DC 14 - __1st__ [[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|Illusory Disguise]]"
 sourcebook: "_Monster Core_, page 172."
 ```
 

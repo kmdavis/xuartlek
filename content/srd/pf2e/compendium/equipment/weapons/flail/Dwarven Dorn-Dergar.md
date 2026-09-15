@@ -23,7 +23,7 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Advanced
-- **Group**: Flail
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Flail|Flail]]
 
 A heavy, weighted cube of metal at the end of a long chain, the dorn-dergar is used by dwarven berserkers and sappers who specialize in breaking through lines of shielded opponents or disabling enemy siege weapons.
 

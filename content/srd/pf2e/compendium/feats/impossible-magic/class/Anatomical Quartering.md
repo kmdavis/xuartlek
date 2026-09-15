@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Necromancer`  `Occult`
 
-You briefly separate into four forms that share your space. One is made of blood, one of bones, one of flesh, and one of spirit. Make up to four Strikes, each against a different target. All physical damage from the final Strike instead becomes [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]] damage. Each attack counts toward your multiple attack penalty, but you don’t increase your penalty until you have made all your attacks.
+You briefly separate into four forms that share your space. One is made of blood, one of bones, one of flesh, and one of spirit. Make up to four Strikes, each against a different target. All physical damage from the final Strike instead becomes [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]] damage. Each attack counts toward your multiple attack penalty, but you don’t increase your penalty until you have made all your attacks.
 
 *Source: Impossible Magic p. 40*

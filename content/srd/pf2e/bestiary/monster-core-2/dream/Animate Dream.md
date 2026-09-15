@@ -33,34 +33,34 @@ perception:
 languages: "telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +18, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +18, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +12, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +18, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +18, [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] +12, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +18"
 abilityMods: [-5, 4, 3, 0, 2, 6]
 ac: 24
 armorclass:
   - name: "AC"
-    desc: "24; __Fort__: +15; __Ref__: +18; __Will__: +14 +1 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magic]]"
+    desc: "24; __Fort__: +15; __Ref__: +18; __Will__: +14 +1 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magic]]"
 hp: 110
 health:
   - name: "HP"
-    desc: "110; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], precision, [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ all 5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/orc|except &amp;lt;%TRAITS%610%%&amp;gt; force]] &amp;lt;%END>, [[srd/pf2e/compendium/rules-elements/traits/monster-core/ghost|&amp;lt;%TREASURE%2840%%&amp;gt; _ghost touch_]] &amp;lt;%END>, [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|&amp;lt;%TRAITS%737%%&amp;gt; spirit]] &amp;lt;%END>, [[srd/pf2e/compendium/rules-elements/traits/player-core/void|or &amp;lt;%TRAITS%510%%&amp;gt; void]] &amp;lt;%END>) double resistance vs. non-[[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]])"
+    desc: "110; __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], precision, [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]; __Resistances__ all 5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Orc|except &amp;lt;%TRAITS%610%%&amp;gt; force]] &amp;lt;%END>, [[srd/pf2e/compendium/rules-elements/traits/monster-core/Ghost|&amp;lt;%TREASURE%2840%%&amp;gt; _ghost touch_]] &amp;lt;%END>, [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|&amp;lt;%TRAITS%737%%&amp;gt; spirit]] &amp;lt;%END>, [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|or &amp;lt;%TRAITS%510%%&amp;gt; void]] &amp;lt;%END>) double resistance vs. non-[[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]])"
 speed: "fly 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ nightmare tendril +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 4d8 void plus endless nightmare"
+    desc: "⬻ nightmare tendril +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]]) __Damage__ 4d8 void plus endless nightmare"
 abilities_bot:
   - name: "Endless Nightmare"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) An animate dream's touch fills the victim's mind with terrifying visions"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|Occult]]) An animate dream's touch fills the victim's mind with terrifying visions"
   - name: "Saving Throw"
     desc: "DC 26 Fortitude"
   - name: "Stage 1"
-    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] (1 day)"
+    desc: "[[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|fatigued]] (1 day)"
   - name: "Stage 2"
-    desc: "fatigued and [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]] (1 day)"
+    desc: "fatigued and [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied 1]] (1 day)"
   - name: "Stage 3"
-    desc: "The victim falls asleep and can't be awakened as long as they remain at this stage (1 day). Enslaved Dreams [[srd/pf2e/bestiary/monster-core/humanoid/cuckoo-hag|Cuckoo hags]] have been known to enslave animate dreams, forcing them to feed upon themselves. These captives break down into a fearful essence used for the hag's rituals."
+    desc: "The victim falls asleep and can't be awakened as long as they remain at this stage (1 day). Enslaved Dreams [[srd/pf2e/bestiary/monster-core/humanoid/Cuckoo Hag|Cuckoo hags]] have been known to enslave animate dreams, forcing them to feed upon themselves. These captives break down into a fearful essence used for the hag's rituals."
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 26 - __3rd__ [[srd/pf2e/compendium/spells/rank-1/fear|Fear]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/confusion|Confusion]], [[srd/pf2e/compendium/spells/rank-4/nightmare|Nightmare]], [[srd/pf2e/compendium/spells/rank-1/sleep|Sleep]], [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]] (at will), [[srd/pf2e/compendium/spells/rank-4/vision-of-death|Vision of Death]]"
+    desc: "DC 26 - __3rd__ [[srd/pf2e/compendium/spells/rank-1/Fear|Fear]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/Confusion|Confusion]], [[srd/pf2e/compendium/spells/rank-4/Nightmare|Nightmare]], [[srd/pf2e/compendium/spells/rank-1/Sleep|Sleep]], [[srd/pf2e/compendium/spells/rank-4/Translocate|Translocate]] (at will), [[srd/pf2e/compendium/spells/rank-4/Vision of Death|Vision of Death]]"
 sourcebook: "_Monster Core 2_, page 31."
 ```
 

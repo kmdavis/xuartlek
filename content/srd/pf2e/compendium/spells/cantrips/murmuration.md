@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Hex`  `Sonic`  `Uncommon`  `Witch`
 
-- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Whisper of Wings|Whisper of Wings]]
+- **Patron Theme**: [[srd/pf2e/compendium/character/Patrons#Whisper of Wings|Whisper of Wings]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

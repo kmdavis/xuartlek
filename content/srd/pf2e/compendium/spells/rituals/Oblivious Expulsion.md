@@ -18,7 +18,7 @@ socialImage: og-image.png
 - **Cast**: 1 day
 - **Cost**: incense worth a total value of 150 gp
 - **Secondary Casters**: 2
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (master) or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (master)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] (master) or [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] (master)
 - **Secondary Checks**: Deception, Society
 - **Range**: 30 feet
 - **Target(s)**: 1 creature

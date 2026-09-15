@@ -24,23 +24,23 @@ Dexterity or Intelligence
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/war-flail|War Flail]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/War Flail|War Flail]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Fate|Fate]], [[srd/pf2e/compendium/character/domains#Luck|Luck]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Fate|Fate]], [[srd/pf2e/compendium/character/Domains#Luck|Luck]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/ill-omen|Ill Omen]]
+[[srd/pf2e/compendium/spells/rank-1/Ill Omen|Ill Omen]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/false-vision|False Vision]]
+[[srd/pf2e/compendium/spells/rank-5/False Vision|False Vision]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/true-target|True Target]]
+[[srd/pf2e/compendium/spells/rank-7/True Target|True Target]]
 
 *Source: Divine Mysteries p. 314*

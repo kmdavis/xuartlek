@@ -24,11 +24,11 @@ Strength or Constitution
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/spiked-gauntlet|Spiked Gauntlet]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/Spiked Gauntlet|Spiked Gauntlet]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Pain|Pain]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Pain|Pain]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
 **Alternate Domains** 
 
@@ -38,9 +38,9 @@ Strength or Constitution
 Draw Ire
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/slough-skin|Slough Skin]]
+[[srd/pf2e/compendium/spells/rank-2/Slough Skin|Slough Skin]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/mountain-resilience|Mountain Resilience]]
+[[srd/pf2e/compendium/spells/rank-4/Mountain Resilience|Mountain Resilience]]
 
 *Source: Divine Mysteries p. 310*

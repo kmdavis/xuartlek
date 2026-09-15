@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Guardian`
 
-You've learned how to maximize the defensive abilities of the largest shields. You continually benefit from [[srd/pf2e/compendium/rules-elements/actions/player-core#Take Cover|Take Cover]] without needing to spend an action, as long as you have a shield raised and it's a [[srd/pf2e/compendium/equipment/shields#Tower Shield|tower shield]], [[srd/pf2e/compendium/equipment/shields#Fortress Shield|fortress shield]], or other shield that grants a higher circumstance bonus to AC when you Take Cover behind it. This benefit ends only if you cease having the shield raised, not from the normal conditions that end Take Cover.
+You've learned how to maximize the defensive abilities of the largest shields. You continually benefit from [[srd/pf2e/compendium/rules-elements/actions/player-core#Take Cover|Take Cover]] without needing to spend an action, as long as you have a shield raised and it's a [[srd/pf2e/compendium/equipment/Shields#Tower Shield|tower shield]], [[srd/pf2e/compendium/equipment/Shields#Fortress Shield|fortress shield]], or other shield that grants a higher circumstance bonus to AC when you Take Cover behind it. This benefit ends only if you cease having the shield raised, not from the normal conditions that end Take Cover.
 
 *Source: Battlecry! p. 49*

@@ -24,41 +24,41 @@ Wisdom or Charisma
 
 **Divine Sanctification** must choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/staff|Staff]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Staff|Staff]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Magic|Magic]], [[srd/pf2e/compendium/character/domains#Passion|Passion]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Healing|Healing]], [[srd/pf2e/compendium/character/Domains#Magic|Magic]], [[srd/pf2e/compendium/character/Domains#Passion|Passion]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]]
+[[srd/pf2e/compendium/spells/rank-1/Soothe|Soothe]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/humanoid-form|Humanoid Form]]
+[[srd/pf2e/compendium/spells/rank-2/Humanoid Form|Humanoid Form]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/animal-vision|Animal Vision]]
+[[srd/pf2e/compendium/spells/rank-3/Animal Vision|Animal Vision]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/creation|Creation]]
+[[srd/pf2e/compendium/spells/rank-4/Creation|Creation]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/control-water|Control Water]]
+[[srd/pf2e/compendium/spells/rank-5/Control Water|Control Water]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/wall-of-force|Wall of Force]]
+[[srd/pf2e/compendium/spells/rank-6/Wall of Force|Wall of Force]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/planar-palace|Planar Palace]]
+[[srd/pf2e/compendium/spells/rank-7/Planar Palace|Planar Palace]]
 
 - **8th**
-[[srd/pf2e/compendium/spells/rank-8/migration|Migration]]
+[[srd/pf2e/compendium/spells/rank-8/Migration|Migration]]
 
 - **9th**
-[[srd/pf2e/compendium/spells/rank-9/metamorphosis|Metamorphosis]]
+[[srd/pf2e/compendium/spells/rank-9/Metamorphosis|Metamorphosis]]
 
 *Source: Divine Mysteries p. 312*

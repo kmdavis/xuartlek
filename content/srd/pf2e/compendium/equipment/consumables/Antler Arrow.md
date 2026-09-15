@@ -17,9 +17,9 @@ socialImage: og-image.png
 
 - **Price**: 7 gp
 - **Ammunition**: arrow
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-The creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain an escaping foe. When an activated _antler arrow_ hits a target, glowing antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow. 
+The creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain an escaping foe. When an activated _antler arrow_ hits a target, glowing antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bow|critical specialization effects of a bow]]. 
 
 If the hit with the _antler arrow_ is a critical hit and you have access to the bow critical specialization effect, the DC of the Athletics check increases to 15.
 

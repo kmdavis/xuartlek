@@ -23,24 +23,24 @@ Strength or Intelligence
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|Dagger]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|Dagger]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/pest-form|Pest Form]]
+[[srd/pf2e/compendium/spells/rank-1/Pest Form|Pest Form]]
 (snake only)
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/toxic-cloud|Toxic Cloud]]
+[[srd/pf2e/compendium/spells/rank-5/Toxic Cloud|Toxic Cloud]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/mask-of-terror|Mask of Terror]]
+[[srd/pf2e/compendium/spells/rank-7/Mask of Terror|Mask of Terror]]
 
 *Source: Divine Mysteries p. 314*

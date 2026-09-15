@@ -25,24 +25,24 @@ Dexterity or Constitution
 
 **Divine Sanctification** can choose holy or unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/rapier|Rapier]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Rapier|Rapier]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/domains#Water|Water]], [[srd/pf2e/compendium/character/domains#Wealth|Wealth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/Domains#Water|Water]], [[srd/pf2e/compendium/character/Domains#Wealth|Wealth]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Travel|Travel]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Travel|Travel]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/hydraulic-push|Hydraulic Push]]
+[[srd/pf2e/compendium/spells/rank-1/Hydraulic Push|Hydraulic Push]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/feet-to-fins|Feet to Fins]]
+[[srd/pf2e/compendium/spells/rank-3/Feet to Fins|Feet to Fins]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/mariners-curse|Mariner's Curse]]
+[[srd/pf2e/compendium/spells/rank-5/Mariner's Curse|Mariner's Curse]]
 
 ### Divine Intercession
 
@@ -50,7 +50,7 @@ Due to her fiery temperament, the Pirate Queen is quick to punish or reward her 
 
 **Minor Boon** Besmara wants you to amuse her, placing both plunder and peril in your path. This intercession often takes the form of an unexpected treasure map, a message in a bottle, or some other sign leading you to a great reward, assuming you can handle the challenges along the way.
 
-**Moderate Boon** You are at home on the seas and always ready to plunder an enemy vessel or defend your own. When aboard a boat, you gain a +2 status bonus to all initiative rolls, [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] checks to Balance, and [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to Climb. In addition, you never get seasick.
+**Moderate Boon** You are at home on the seas and always ready to plunder an enemy vessel or defend your own. When aboard a boat, you gain a +2 status bonus to all initiative rolls, [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] checks to Balance, and [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks to Climb. In addition, you never get seasick.
 
 **Major Boon** You seem to be unaffected by storms. You ignore all effects and penalties caused by precipitation and winds, and you can see normally through fog, rain, and other weather conditions.
 

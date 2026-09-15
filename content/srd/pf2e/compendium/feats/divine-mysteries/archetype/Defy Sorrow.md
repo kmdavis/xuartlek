@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/rivethun-invoker|Rivethun Invoker]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/rivethun-invoker-dedication|Rivethun Invoker Dedication]]
-- **Trigger**: You’re dealt [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] damage or [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]] damage or you fail or critically fail a saving throw against a mental effect.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Rivethun Invoker|Rivethun Invoker]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Rivethun Invoker Dedication|Rivethun Invoker Dedication]]
+- **Trigger**: You’re dealt [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] damage or [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]] damage or you fail or critically fail a saving throw against a mental effect.
 
-You draw on this spiritual pain to push your body to greater heights. You gain the [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] condition until the end of your next turn. You can use the extra action only to [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]].
+You draw on this spiritual pain to push your body to greater heights. You gain the [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]] condition until the end of your next turn. You can use the extra action only to [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]].
 
 *Source: Divine Mysteries p. 294*

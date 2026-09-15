@@ -24,13 +24,13 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Category**: Martial
 
-Favored by caravan guards who traverse the Mana Wastes, a piercing wind is similar to a [[srd/pf2e/compendium/equipment/weapons/firearm/jezail|jezail]], in that you can carry it in one hand as long as the other hand's free, by holding it under one arm. Additionally, it's fitted with an underslung curved blade.
+Favored by caravan guards who traverse the Mana Wastes, a piercing wind is similar to a [[srd/pf2e/compendium/equipment/weapons/firearm/Jezail|jezail]], in that you can carry it in one hand as long as the other hand's free, by holding it under one arm. Additionally, it's fitted with an underslung curved blade.
 
 ### Melee
 
 **Damage** 1d6 S
 
-**Group** Sword
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 ### Ranged
 
@@ -40,9 +40,9 @@ Favored by caravan guards who traverse the Mana Wastes, a piercing wind is simil
 
 **Reload** 1
 
-**Group** Firearm
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
 
-**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
 ### Critical Specialization Effects
 

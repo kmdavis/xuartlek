@@ -22,7 +22,7 @@ socialImage: og-image.png
 
 The steely blue blade of this _+2 striking frost rapier_ emerges from a hilt wrapped in thick leather and trimmed in fur to protect the wielder's hand.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Requirements** You hit a creature using the _rime foil_ as your last action; **Effect** You cast 5th-level _phantom prison_ on the target (DC 22 Will to disbelieve). If the target has been damaged by a _[[srd/pf2e/compendium/equipment/weapons/shattered-plan|shattered plan]]_ in the last round, the DC is instead 24. 
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]]) **Frequency** once per day; **Requirements** You hit a creature using the _rime foil_ as your last action; **Effect** You cast 5th-level _phantom prison_ on the target (DC 22 Will to disbelieve). If the target has been damaged by a _[[srd/pf2e/compendium/equipment/weapons/Shattered Plan|shattered plan]]_ in the last round, the DC is instead 24. 
 
 **Special** The _rime foil_ pairs with the _shattered plan_.
 

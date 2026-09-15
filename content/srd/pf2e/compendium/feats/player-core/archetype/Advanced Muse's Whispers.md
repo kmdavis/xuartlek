@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/bard|Bard]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/basic-muses-whispers|Basic Muse's Whispers]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Bard|Bard]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Basic Muse's Whispers|Basic Muse's Whispers]]
 
 You gain one bard feat. For the purpose of meeting its prerequisites, your bard level is equal to half your character level.
 

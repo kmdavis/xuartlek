@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Arcane`  `Archetype`  `Uncommon`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/pactbinder|Pactbinder]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/pactbinder-dedication|Pactbinder Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Pactbinder|Pactbinder]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Pactbinder Dedication|Pactbinder Dedication]]
 
 You've sworn a pact with a dragon, giving you the ability to tap into the dragon's immeasurable power in exchange for adding to their hoard. You gain the Dragon Breath activity. In exchange, you promise to search for objects the dragon wants for their hoard upon request. These requests might be extremely specific unique objects, or they might be a broad category of objects. While the dragon agrees to pay you a fair price for the item you retrieve, the pact requires you to give your time and service.
 

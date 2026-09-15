@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Gunslinger
 
-At 1st level and every even-numbered level, you gain a gunslinger class feat.
+At 1st level and every even-numbered level, you gain a [gunslinger class feat](https://2e.aonprd.com/Feats.aspx?Traits=406).
 
 *Source: Guns & Gears (Remastered) p. 105*

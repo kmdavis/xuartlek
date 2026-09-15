@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Teleportation`  `Uncommon`
 
-- **Traditions**: Arcane, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 200 feet
 - **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] up to 1 minute
 

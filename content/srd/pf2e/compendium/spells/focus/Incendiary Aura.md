@@ -20,7 +20,7 @@ socialImage: og-image.png
 
 `Aura`  `Concentrate`  `Fire`  `Focus`  `Manipulate`  `Oracle`  `Uncommon`
 
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Flames|Flames]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Flames|Flames]]
 - **Area**: 10-foot emanation
 - **Duration**: 1 minute
 

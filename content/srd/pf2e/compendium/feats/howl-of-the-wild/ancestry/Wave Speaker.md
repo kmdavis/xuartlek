@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Merfolk`
 
-Being part fish yourself, you can speak the language of the sea. You can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill with [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]] that have the [[srd/pf2e/compendium/rules-elements/traits/player-core/amphibious|amphibious]] trait, [[srd/pf2e/compendium/rules-elements/traits/player-core/aquatic|aquatic]] trait, or a swim Speed, such as fish, crabs, and some seabirds (like penguins). The GM determines which animals count for this ability.
+Being part fish yourself, you can speak the language of the sea. You can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] skill with [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animals]] that have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Amphibious|amphibious]] trait, [[srd/pf2e/compendium/rules-elements/traits/player-core/Aquatic|aquatic]] trait, or a swim Speed, such as fish, crabs, and some seabirds (like penguins). The GM determines which animals count for this ability.
 
 *Source: Howl of the Wild p. 37*

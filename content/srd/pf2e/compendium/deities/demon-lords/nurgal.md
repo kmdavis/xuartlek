@@ -24,23 +24,23 @@ Constitution or Charisma
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/mace|Mace]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Mace|Mace]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Dust|Dust]], [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Sun|Sun]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Dust|Dust]], [[srd/pf2e/compendium/character/Domains#Fire|Fire]], [[srd/pf2e/compendium/character/Domains#Sun|Sun]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/breathe-fire|Breathe Fire]]
+[[srd/pf2e/compendium/spells/rank-1/Breathe Fire|Breathe Fire]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/floating-flame|Floating Flame]]
+[[srd/pf2e/compendium/spells/rank-2/Floating Flame|Floating Flame]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/cup-of-dust|Cup of Dust]]
+[[srd/pf2e/compendium/spells/rank-3/Cup of Dust|Cup of Dust]]
 
 *Source: Divine Mysteries p. 304*

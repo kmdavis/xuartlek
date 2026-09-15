@@ -26,10 +26,10 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; tremorsense (imprecise) within their entire bound granary or storeroom"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/lore|Household Lore]] +12, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +11, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Lore|Household Lore]] +12, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +11, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +13"
 abilityMods: [0, 5, 0, 2, 5, 3]
 abilities_top:
   - name: "Items"
@@ -41,20 +41,20 @@ armorclass:
 hp: 60
 health:
   - name: "HP"
-    desc: "60; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 5"
+    desc: "60; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] 5; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/Cold Iron|cold iron]] 5"
 abilities_mid:
   - name: "Shy"
-    desc: "A ovinnik is naturally [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] while within sight of their bound home. The ovinnik can become visible, or even selectively visible— allowing some people to see them."
+    desc: "A ovinnik is naturally [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]] while within sight of their bound home. The ovinnik can become visible, or even selectively visible— allowing some people to see them."
 speed: "30 feet, climb 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]]) __Damage__ 2d6+3 slashing"
+    desc: "⬻ claw +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]]) __Damage__ 2d6+3 slashing"
 abilities_bot:
   - name: "Raise Grain Cloud"
-    desc: "⬺ While in their bound storeroom or granary, the ovinnik slams a paw against the ground, stirring up a cloud of grain dust in a 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]. Within this cloud, they gain a +4 status bonus to any fire damage they deal. The ovinnik doubles their fire [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] against this increased damage. The grain cloud dissipates after the first such effect or after 1 minute if no such effects occur. Ovinnik's Foretelling Ovinniks, on certain days, might deign to tell the future. Peasants approach the window or doorway of the fey's domain and present their bare palms. If the ovinnik touches them with a furred paw, then their family lives will be good. A smooth hand, however, signals brewing strife."
+    desc: "⬺ While in their bound storeroom or granary, the ovinnik slams a paw against the ground, stirring up a cloud of grain dust in a 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]]. Within this cloud, they gain a +4 status bonus to any fire damage they deal. The ovinnik doubles their fire [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistance]] against this increased damage. The grain cloud dissipates after the first such effect or after 1 minute if no such effects occur. Ovinnik's Foretelling Ovinniks, on certain days, might deign to tell the future. Peasants approach the window or doorway of the fey's domain and present their bare palms. If the ovinnik touches them with a furred paw, then their family lives will be good. A smooth hand, however, signals brewing strife."
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 21 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/ignition|Ignition]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/cleanse-cuisine|Cleanse Cuisine]] (at will) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/augury|Augury]], [[srd/pf2e/compendium/spells/rank-1/breathe-fire|Breathe Fire]], [[srd/pf2e/compendium/spells/rank-2/floating-flame|Floating Flame]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/read-omens|Read Omens]]"
+    desc: "DC 21 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/Daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/Ignition|Ignition]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Cleanse Cuisine|Cleanse Cuisine]] (at will) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Augury|Augury]], [[srd/pf2e/compendium/spells/rank-1/Breathe Fire|Breathe Fire]], [[srd/pf2e/compendium/spells/rank-2/Floating Flame|Floating Flame]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/Read Omens|Read Omens]]"
 sourcebook: "_Monster Core 2_, page 195."
 ```
 

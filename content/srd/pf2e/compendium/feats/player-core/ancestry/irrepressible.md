@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Halfling`
 
-You are easily able to ward off attempts to play on your fears and emotions. When you roll a success on a saving throw against an [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effect, you get a critical success instead. If your heritage is gutsy halfling, when you roll a critical failure on a saving throw against an emotion effect, you get a failure instead.
+You are easily able to ward off attempts to play on your fears and emotions. When you roll a success on a saving throw against an [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]] effect, you get a critical success instead. If your heritage is gutsy halfling, when you roll a critical failure on a saving throw against an emotion effect, you get a failure instead.
 
 *Source: Player Core p. 61*

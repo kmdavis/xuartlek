@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Cleric`  `Focus`  `Light`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Moon|Moon]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Moon|Moon]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Duration**: 1 minute

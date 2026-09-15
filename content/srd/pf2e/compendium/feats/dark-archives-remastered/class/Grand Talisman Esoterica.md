@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Thaumaturge`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/class/talisman-esoterica|Talisman Esoterica]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Talisman Esoterica|Talisman Esoterica]]
 
 You've gained the ability to place multiple talismans on an item. Normally, affixing more than one talisman to an item causes the talismans to be suppressed, but when you [[srd/pf2e/compendium/rules-elements/actions/gm-core#Affix a Talisman|Affix a Talisman]], you can specially treat one item you're working on, allowing it to have two active talismans at once. This special treatment ends if you use Affix a Talisman to treat a new item with this ability.
 

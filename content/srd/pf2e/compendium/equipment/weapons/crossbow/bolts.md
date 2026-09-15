@@ -15,7 +15,7 @@ socialImage: og-image.png
 - **Bulk**: L
 - **Type**: Ranged
 - **Category**: Ammunition
-- **Group**: Crossbow
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Crossbow|Crossbow]]
 
 Shorter than traditional arrows but similar in construction, bolts are the ammunition used by crossbows.
 

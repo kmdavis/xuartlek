@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Halfling`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/halfling-luck|Halfling Luck]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/Halfling Luck|Halfling Luck]]
 
 Your luck guides you to look the right way and aim your blows unerringly. You can use Halfling Luck twice per day: once in response to its normal trigger, and once when you fail a Perception check or attack roll instead of the normal trigger.
 

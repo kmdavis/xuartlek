@@ -21,7 +21,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Knife
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Knife|Knife]]
 
 A scizore is a gauntlet or protective leather tube worn over the forearm and featuring a half-moon blade mounted to the end of the cap on a short pole.
 
@@ -31,6 +31,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/scizore-of-the-crab|Scizore of the Crab]], Scizore of the Crab
+[[srd/pf2e/compendium/equipment/weapons/Scizore of the Crab|Scizore of the Crab]], Scizore of the Crab
 
 *Source: Treasure Vault (Remastered) p. 27*

@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Exemplar`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/exemplar|exemplar]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Exemplar|exemplar]] class.
 
 *Source: War of Immortals p. 218*

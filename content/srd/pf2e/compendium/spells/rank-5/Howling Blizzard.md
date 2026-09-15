@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Air`  `Cold`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/sarkorian-gods/alglenweis|Alglenweis]], Kostchtchie, [[srd/pf2e/compendium/deities/demon-lords/sithhud|Sithhud]], Umarik, [[srd/pf2e/compendium/deities/pantheons/weight-of-the-world|Weight of the World]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/sarkorian-gods/Alglenweis|Alglenweis]], Kostchtchie, [[srd/pf2e/compendium/deities/demon-lords/Sithhud|Sithhud]], Umarik, [[srd/pf2e/compendium/deities/pantheons/Weight of the World|Weight of the World]]
 - **Area**: varies
 - **Defense**: basic Reflex
 

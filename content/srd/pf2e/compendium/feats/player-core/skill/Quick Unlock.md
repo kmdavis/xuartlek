@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
 You can Pick a Lock using 1 action instead of 2.
 

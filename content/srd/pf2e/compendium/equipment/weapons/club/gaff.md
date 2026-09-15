@@ -21,7 +21,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Club
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|Club]]
 
 These hooked staffs are popular among fishers and warriors alike.
 

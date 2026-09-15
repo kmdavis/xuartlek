@@ -28,7 +28,7 @@ perception:
     desc: "+6; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +4, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +6"
 abilityMods: [0, 1, 2, -5, 2, -2]
 ac: 15
 armorclass:
@@ -46,7 +46,7 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +8 __Damage__ 1d8 piercing"
   - name: "Melee"
-    desc: "⬻ claw +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6 slashing"
+    desc: "⬻ claw +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d6 slashing"
 sourcebook: "_Monster Core 2_, page 54."
 ```
 

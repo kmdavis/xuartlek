@@ -17,17 +17,17 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Mental`  `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/apocalypse-rider|Apocalypse Rider]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/apocalypse-rider-dedication|Apocalypse Rider Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Apocalypse Rider|Apocalypse Rider]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Apocalypse Rider Dedication|Apocalypse Rider Dedication]]
 
 With a look and a gesture, you turn a thinking creature’s mind against itself, causing the creature to struggle to remember how to perform more complex actions. Choose a target within 30 feet and spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]. The target must attempt a Will save against your class DC or spell DC (whichever is higher) at mythic proficiency.
 
 **Critical Success** The target is unaffected.
 
-**Success** For the next 3 rounds, if the target performs an activity that requires three or more actions, they take 12d8 [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] damage.
+**Success** For the next 3 rounds, if the target performs an activity that requires three or more actions, they take 12d8 [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] damage.
 
 **Failure** For the next 3 rounds, if the target performs an activity that requires two or more actions, they take 12d8 mental damage.
 
-**Critical Failure** As failure, but the target is also [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1 as its mind struggles to function.
+**Critical Failure** As failure, but the target is also [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]] 1 as its mind struggles to function.
 
 *Source: War of Immortals p. 109*

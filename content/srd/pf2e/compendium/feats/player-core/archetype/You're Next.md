@@ -19,8 +19,8 @@ socialImage: og-image.png
 
 `Emotion`  `Fear`  `Mental`  `Rogue`  `Swashbuckler`  `Visual`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/pirate|Pirate]] (Level 4)
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Pirate|Pirate]] (Level 4)
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 - **Trigger**: You reduce an enemy to 0 Hit Points
 
 After downing a foe, you menace another. Attempt to Demoralize a creature within 60 feet, with a +2 circumstance bonus. If you have legendary proficiency in Intimidation, you can use this as a free action with the same trigger.

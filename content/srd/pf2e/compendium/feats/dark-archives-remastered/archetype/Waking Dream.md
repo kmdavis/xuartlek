@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/sleepwalker|Sleepwalker]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/sleepwalker-dedication|Sleepwalker Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Sleepwalker|Sleepwalker]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Sleepwalker Dedication|Sleepwalker Dedication]]
 
-While in your trance, you can blur the line between dreams and reality for others. You gain the [[srd/pf2e/compendium/spells/focus/waking-dream|_waking dream_]] focus spell, which you can use only while you're in a Daydream Trance. You gain a pool of Focus Points with 1 Focus Point, and you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]] by taking a nap for 10 minutes. You become trained in the spell attack modifier and spell DC statistics, and your spellcasting attribute for these spells is Wisdom.
+While in your trance, you can blur the line between dreams and reality for others. You gain the [[srd/pf2e/compendium/spells/focus/Waking Dream|_waking dream_]] focus spell, which you can use only while you're in a Daydream Trance. You gain a pool of Focus Points with 1 Focus Point, and you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]] by taking a nap for 10 minutes. You become trained in the spell attack modifier and spell DC statistics, and your spellcasting attribute for these spells is Wisdom.
 
 *Source: Dark Archives (Remastered) p. 206*

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wrestler|Wrestler]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/wrestler-dedication|Wrestler Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wrestler|Wrestler]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Wrestler Dedication|Wrestler Dedication]]
 
 You charge, throwing your body at your foe in a vicious tackle. [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] twice or make a [[srd/pf2e/compendium/rules-elements/actions/player-core#High Jump|High Jump]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Long Jump|Long Jump]], then attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]]. If you made a High Jump or Long Jump, you can make the Grapple or Shove at any point in the jump, but you can’t travel any farther on the jump after you do.
 

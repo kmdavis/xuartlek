@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Curse`  `Manipulate`  `Misfortune`
 
-- **Tradition**: Occult
-- **Deities**: [[srd/pf2e/compendium/deities/other-gods/ahriman|Ahriman]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/azathoth|Azathoth]], [[srd/pf2e/compendium/deities/infernal-dukes/bifrons|Bifrons]], [[srd/pf2e/compendium/deities/sakhil-tormentors/chamiaholom|Chamiaholom]], [[srd/pf2e/compendium/deities/monitor-demigods/dammar|Dammar]], [[srd/pf2e/compendium/deities/pantheons/fortunes-fate|Fortune's Fate]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/gyronna|Gyronna]], Imot, Lubaiko, [[srd/pf2e/compendium/deities/dead-or-missing-deities/mestama|Mestama]], [[srd/pf2e/compendium/deities/demon-lords/sifkesh|Sifkesh]], The Tides of Chaos, Zeaki, [[srd/pf2e/compendium/deities/other-gods/zyphus|Zyphus]]
+- **Tradition**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/Ahriman|Ahriman]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Azathoth|Azathoth]], [[srd/pf2e/compendium/deities/infernal-dukes/Bifrons|Bifrons]], [[srd/pf2e/compendium/deities/sakhil-tormentors/Chamiaholom|Chamiaholom]], [[srd/pf2e/compendium/deities/monitor-demigods/Dammar|Dammar]], [[srd/pf2e/compendium/deities/pantheons/Fortune's Fate|Fortune's Fate]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/Gyronna|Gyronna]], Imot, Lubaiko, [[srd/pf2e/compendium/deities/dead-or-missing-deities/Mestama|Mestama]], [[srd/pf2e/compendium/deities/demon-lords/Sifkesh|Sifkesh]], The Tides of Chaos, Zeaki, [[srd/pf2e/compendium/deities/other-gods/Zyphus|Zyphus]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

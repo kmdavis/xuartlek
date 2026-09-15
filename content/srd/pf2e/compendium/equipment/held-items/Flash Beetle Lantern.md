@@ -21,16 +21,16 @@ socialImage: og-image.png
 
 This unassuming hooded lantern contains a mass of flash beetle eggs suspended in a magical solution. It sheds light on a 45-foot radius (and dim light in the next 45 feet).
 
-**Activate—Spotlight** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) **Frequency** once per day; **Effect** Flipping a concealed lever in the lantern’s handle triggers a small current to pass through the solution. The eggs brighten and emit a series of brilliant flashes in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]]. Each creature in the area of effect must attempt a DC 18 Fortitude save.
+**Activate—Spotlight** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Light|light]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]]) **Frequency** once per day; **Effect** Flipping a concealed lever in the lantern’s handle triggers a small current to pass through the solution. The eggs brighten and emit a series of brilliant flashes in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Cone|cone]]. Each creature in the area of effect must attempt a DC 18 Fortitude save.
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] for 1 round.
 
-**Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round.
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] for 1 round.
 
 **Critical Failure** The creature is blinded for 1 minute.
 
-**Craft Requirements** The initial raw materials must include the eggs of a [[srd/pf2e/bestiary/monster-core/animal/flash-beetle|flash beetle]].
+**Craft Requirements** The initial raw materials must include the eggs of a [[srd/pf2e/bestiary/monster-core/animal/Flash Beetle|flash beetle]].
 
 *Source: Howl of the Wild p. 106*

@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Fortune`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ritualist|Ritualist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/flexible-ritualist|Flexible Ritualist]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ritualist|Ritualist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Flexible Ritualist|Flexible Ritualist]]
 
 You can cover for a secondary caster's error. If you are the primary caster, after all the secondary checks are rolled, you can choose one check that was a failure or critical failure, and improve the result to one degree of success better than what the secondary caster rolled.
 

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Inventor`
 
-- **Trigger**: You would attempt the flat check for an [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/unstable|unstable]] action, but you haven't rolled the flat check yet.
+- **Trigger**: You would attempt the flat check for an [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/Unstable|unstable]] action, but you haven't rolled the flat check yet.
 
 You've built triple redundancies into your innovation and added all sorts of buffers to protect it from the harm of your unstable experiments. You automatically succeed at the triggering flat check.
 

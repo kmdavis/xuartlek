@@ -22,6 +22,6 @@ Your patron’s power changes your body to ensure you are never defenseless. You
 
 ### Witch's Armaments leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/sympathetic-strike|Sympathetic Strike]], [[srd/pf2e/compendium/feats/howl-of-the-wild/class/wild-witchs-armaments|Wild Witch's Armaments]]
+[[srd/pf2e/compendium/feats/player-core/class/Sympathetic Strike|Sympathetic Strike]], [[srd/pf2e/compendium/feats/howl-of-the-wild/class/Wild Witch's Armaments|Wild Witch's Armaments]]
 
 *Source: Player Core p. 186*

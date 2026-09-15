@@ -30,9 +30,9 @@ It's trivial for you to create some of your element or alter a portion of it tha
 
 - **Requirements**: Your kinetic gate isn't active.
 
-You tap into your kinetic gate to make elements flow around you. Your kinetic aura activates, and as a part of this action, you can use a 1-action [[srd/pf2e/compendium/rules-elements/actions/rage-of-elements#Elemental Blast|Elemental Blast]] or a 1-action [[srd/pf2e/compendium/rules-elements/traits/player-core/stance|stance]] [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/impulse|impulse]]. Your kinetic aura is a 10-foot emanation where pieces of your kinetic element (or all your kinetic elements, if you can channel more than one) flow around you. The kinetic aura can't damage anything or affect the environment around you unless another ability allows it to. Channel Elements has the traits of all your kinetic elements.
+You tap into your kinetic gate to make elements flow around you. Your kinetic aura activates, and as a part of this action, you can use a 1-action [[srd/pf2e/compendium/rules-elements/actions/rage-of-elements#Elemental Blast|Elemental Blast]] or a 1-action [[srd/pf2e/compendium/rules-elements/traits/player-core/Stance|stance]] [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/Impulse|impulse]]. Your kinetic aura is a 10-foot emanation where pieces of your kinetic element (or all your kinetic elements, if you can channel more than one) flow around you. The kinetic aura can't damage anything or affect the environment around you unless another ability allows it to. Channel Elements has the traits of all your kinetic elements.
 
- Your kinetic aura automatically deactivates if you're knocked out, you use an impulse with the [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/overflow|overflow]] trait, or you Dismiss the aura. Though you can't use new impulses while your kinetic aura is deactivated, ones you already used remain, and you can still Sustain any that can be sustained. Stance impulses are linked to your kinetic aura and end when the aura deactivates.
+ Your kinetic aura automatically deactivates if you're knocked out, you use an impulse with the [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/Overflow|overflow]] trait, or you Dismiss the aura. Though you can't use new impulses while your kinetic aura is deactivated, ones you already used remain, and you can still Sustain any that can be sustained. Stance impulses are linked to your kinetic aura and end when the aura deactivates.
 
 *Source: Rage of Elements p. 15*
 
@@ -119,7 +119,7 @@ The fire elemental makes a tendril Strike against all creatures in a 60-foot lin
 
 [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
-Your wood elemental surrounds a foe with branches, grabbing it in place. Your wood elemental makes a branch Strike; on a success, the target is also [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by the wood elemental until the end of your next turn unless your wood elemental moves or the target Escapes.
+Your wood elemental surrounds a foe with branches, grabbing it in place. Your wood elemental makes a branch Strike; on a success, the target is also [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] by the wood elemental until the end of your next turn unless your wood elemental moves or the target Escapes.
 
 *Source: Rage of Elements p. 42*
 
@@ -127,7 +127,7 @@ Your wood elemental surrounds a foe with branches, grabbing it in place. Your wo
 
 [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
-Your earth elemental rolls along the ground like a bowling ball and knocks a foe over. It Strides up to 10 feet then makes a fist Strike. If it hits, the target is also knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
+Your earth elemental rolls along the ground like a bowling ball and knocks a foe over. It Strides up to 10 feet then makes a fist Strike. If it hits, the target is also knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]].
 
 *Source: Rage of Elements p. 40*
 
@@ -135,6 +135,6 @@ Your earth elemental rolls along the ground like a bowling ball and knocks a foe
 
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
-Your metal elemental surrounds itself with protective metal spikes, hunkering down defensively. It gains a +2 circumstance bonus to AC. Any creature that hits the metal elemental with a melee [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack while it's in its Spiked Bunker takes 2d6 piercing damage (or 3d6 piercing damage if your metal elemental has a specialization). The metal elemental can't move, Strike, or take other actions that require it to use its body while in its Spiked Bunker, but it can retract the bunker as a single action, ending the effects.
+Your metal elemental surrounds itself with protective metal spikes, hunkering down defensively. It gains a +2 circumstance bonus to AC. Any creature that hits the metal elemental with a melee [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack while it's in its Spiked Bunker takes 2d6 piercing damage (or 3d6 piercing damage if your metal elemental has a specialization). The metal elemental can't move, Strike, or take other actions that require it to use its body while in its Spiked Bunker, but it can retract the bunker as a single action, ending the effects.
 
 *Source: Rage of Elements p. 41*

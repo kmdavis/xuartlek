@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/sniping-duo|Sniping Duo]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/sniping-duo-dedication|Sniping Duo Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Sniping Duo|Sniping Duo]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Sniping Duo Dedication|Sniping Duo Dedication]]
 
-You and your spotter take advantage of each other's attacks to momentarily hide and throw your foes off-balance against your follow-up attack. When you successfully make a ranged Strike against a foe, your spotter can use a reaction to attempt a [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] check against the foe's Perception DC. On a success, the foe is flat-footed against the spotter's next attack before the end of your spotter's next turn. Similarly, when your spotter successfully makes a ranged Strike against a foe, you can use a reaction to attempt a Stealth check against the foe's Perception DC. On a success, the foe is flat-footed against your next attack against them before the end of your next turn.
+You and your spotter take advantage of each other's attacks to momentarily hide and throw your foes off-balance against your follow-up attack. When you successfully make a ranged Strike against a foe, your spotter can use a reaction to attempt a [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] check against the foe's Perception DC. On a success, the foe is flat-footed against the spotter's next attack before the end of your spotter's next turn. Similarly, when your spotter successfully makes a ranged Strike against a foe, you can use a reaction to attempt a Stealth check against the foe's Perception DC. On a success, the foe is flat-footed against your next attack against them before the end of your next turn.
 
 *Source: Guns & Gears (Remastered) p. 139*

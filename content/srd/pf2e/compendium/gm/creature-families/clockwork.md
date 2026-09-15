@@ -28,7 +28,7 @@ Intricate, complex machines, clockworks are built with care by highly skilled en
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core-2/construct/clockwork-dragon|Clockwork Dragon]] (Creature 16), [[srd/pf2e/bestiary/monster-core-2/construct/clockwork-mage|Clockwork Mage]] (Creature 9), [[srd/pf2e/bestiary/monster-core-2/construct/clockwork-soldier|Clockwork Soldier]] (Creature 6), [[srd/pf2e/bestiary/monster-core-2/construct/clockwork-spy|Clockwork Spy]] (Creature -1), Clockwork Whale (Creature 17)
+[[srd/pf2e/bestiary/monster-core-2/construct/Clockwork Dragon|Clockwork Dragon]] (Creature 16), [[srd/pf2e/bestiary/monster-core-2/construct/Clockwork Mage|Clockwork Mage]] (Creature 9), [[srd/pf2e/bestiary/monster-core-2/construct/Clockwork Soldier|Clockwork Soldier]] (Creature 6), [[srd/pf2e/bestiary/monster-core-2/construct/Clockwork Spy|Clockwork Spy]] (Creature -1), Clockwork Whale (Creature 17)
 
 ### Clockwork Research
 
@@ -38,7 +38,7 @@ Clockworks were invented in ancient times, culminating in the clockwork army of 
 
 Clockworks can be prone to errors if not well maintained or properly programmed. You might want to introduce one of the malfunctions listed on the facing page in a clockwork that is in disrepair or gets damaged heavily in battle (such as with a critical hit). 
 
-**Backfire:** The clockwork rolls a DC 5 flat check at the start of each of its turns. On a failure, it backfires, dealing 2d6 fire damage in a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]], including to itself ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save at the standard DC for its level), and is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 this turn.
+**Backfire:** The clockwork rolls a DC 5 flat check at the start of each of its turns. On a failure, it backfires, dealing 2d6 fire damage in a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Cone|cone]], including to itself ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save at the standard DC for its level), and is [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]] 1 this turn.
 
 **Damaged Propulsion:** The clockwork loses 1d4 hours of operational time at the end of each of its turns. 
 

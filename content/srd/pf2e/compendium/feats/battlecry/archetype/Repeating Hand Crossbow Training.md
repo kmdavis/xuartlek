@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/crossbow-infiltrator|Crossbow Infiltrator]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/crossbow-infiltrator-dedication|Crossbow Infiltrator Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Crossbow Infiltrator|Crossbow Infiltrator]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Crossbow Infiltrator Dedication|Crossbow Infiltrator Dedication]]
 
-The specific needs of your organization or mission warrant your use of the latest in ingenious crossbow technology. You gain access to [[srd/pf2e/compendium/equipment/weapons/crossbow/repeating-hand-crossbow|repeating hand crossbows]] and [[srd/pf2e/compendium/equipment/adventuring-gear/repeater-bandolier|repeater bandoliers]]. If you have [[srd/pf2e/compendium/feats/player-core/archetype/running-reload|Running Reload]] or a similar feat that allows you to reload and perform another action or activity as a single action, you can use that action more efficiently with a repeating weapon. You can use the action as a 3-action activity to reload a magazine into a repeating weapon after you perform its other granted action, or as a 2-action activity if you use a magazine from a repeater bandolier.
+The specific needs of your organization or mission warrant your use of the latest in ingenious crossbow technology. You gain access to [[srd/pf2e/compendium/equipment/weapons/crossbow/Repeating Hand Crossbow|repeating hand crossbows]] and [[srd/pf2e/compendium/equipment/adventuring-gear/Repeater bandolier|repeater bandoliers]]. If you have [[srd/pf2e/compendium/feats/player-core/archetype/Running Reload|Running Reload]] or a similar feat that allows you to reload and perform another action or activity as a single action, you can use that action more efficiently with a repeating weapon. You can use the action as a 3-action activity to reload a magazine into a repeating weapon after you perform its other granted action, or as a 2-action activity if you use a magazine from a repeater bandolier.
 
 *Source: Battlecry! p. 56*

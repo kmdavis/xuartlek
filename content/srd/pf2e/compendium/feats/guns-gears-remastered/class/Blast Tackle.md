@@ -14,11 +14,11 @@ socialImage: og-image.png
 
 `Gunslinger`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/ways#Way of the Vanguard|way of the vanguard]]
-- **Requirements**: You're wielding a two-handed crossbow or a firearm that has the [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/kickback|kickback]] or [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/scatter|scatter]] trait.
+- **Prerequisites**: [[srd/pf2e/compendium/character/Ways#Way of the Vanguard|way of the vanguard]]
+- **Requirements**: You're wielding a two-handed crossbow or a firearm that has the [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/Kickback|kickback]] or [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/Scatter|scatter]] trait.
 
 You throw yourself at an enemy, bracing your weapon against it and pulling it close before releasing a destructive shot. Attempt to Grapple; if you're wielding your weapon in both hands, you Release one hand to do so. If your Grapple succeeds, you can immediately Strike the target of the Grapple with the required weapon, even if it's a two-handed weapon you're holding in one hand. This Strike deals an additional 3d6 precision damage.
 
- As long the creature remains [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]], you can use just one hand to reload the weapon and Strike that creature with it.
+ As long the creature remains [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]], you can use just one hand to reload the weapon and Strike that creature with it.
 
 *Source: Guns & Gears (Remastered) p. 117*

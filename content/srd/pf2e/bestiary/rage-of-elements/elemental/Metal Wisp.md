@@ -28,14 +28,14 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; darkvision, rust vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Talican|Talican]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Talican|Talican]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, Mining Lore +4, Plane of Metal Lore +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +6, Mining Lore +4, Plane of Metal Lore +4"
 abilityMods: [2, 1, 3, 0, 2, 0]
 abilities_top:
   - name: "Rust Vision"
-    desc: "A metal wisp ignores the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition from rust clouds."
+    desc: "A metal wisp ignores the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition from rust clouds."
 ac: 16
 armorclass:
   - name: "AC"
@@ -43,10 +43,10 @@ armorclass:
 hp: 15
 health:
   - name: "HP"
-    desc: "15; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ electricity 2"
+    desc: "15; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|electricity]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]; __Resistances__ electricity 2"
 abilities_mid:
   - name: "Resonance"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/metal|metal]]) 30 feet. All wisps vibrate at a frequency attuned to their element, resonating with and empowering all creatures and effects sharing that trait. Creatures in the area gain a +1 status bonus to attack and damage rolls made with metal weapons or effects with the [[srd/pf2e/compendium/rules-elements/traits/player-core/metal|metal]] trait; a creature with the [[srd/pf2e/compendium/rules-elements/traits/player-core/elemental|elemental]] and metal traits gains this bonus to all attack and damage rolls."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Metal|metal]]) 30 feet. All wisps vibrate at a frequency attuned to their element, resonating with and empowering all creatures and effects sharing that trait. Creatures in the area gain a +1 status bonus to attack and damage rolls made with metal weapons or effects with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Metal|metal]] trait; a creature with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Elemental|elemental]] and metal traits gains this bonus to all attack and damage rolls."
   - name: "Accord Essence"
     desc: "⬲"
   - name: "Trigger"
@@ -54,11 +54,11 @@ abilities_mid:
   - name: "Effect"
     desc: "The wisp detonates itself in a small elemental explosion. Allies within 30 feet that have benefited from the wisp's resonance in the last hour gain temporary Hit Points equal to half the wisp's current Hit Points. These temporary Hit Points last 1 hour. A wisp that uses this reaction is permanently destroyed, and it can be restored only by a _wish_ ritual or similarly powerful effect. If an ability would prevent the wisp's destruction (for instance, if the wisp is summoned and would merely be dismissed), Accord Essence has no effect."
   - name: "Rust Cloud"
-    desc: "A metal wisp is constantly surrounded by a cloud of rust flakes that cause it to be [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] from creatures more than 5 feet away from it."
+    desc: "A metal wisp is constantly surrounded by a cloud of rust flakes that cause it to be [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] from creatures more than 5 feet away from it."
 speed: "fly 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tendril +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d4 piercing plus 1 persistent bleed"
+    desc: "⬻ tendril +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 1d4 piercing plus 1 persistent bleed"
 abilities_bot:
   - name: "In Concert"
     desc: "When a metal wisp rolls a critical failure on a check to Aid, it gets a failure instead, and when it rolls a success, it gets a critical success instead."

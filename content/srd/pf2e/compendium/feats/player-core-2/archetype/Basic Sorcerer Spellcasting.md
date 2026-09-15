@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/sorcerer|Sorcerer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/sorcerer-dedication|Sorcerer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Sorcerer|Sorcerer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Sorcerer Dedication|Sorcerer Dedication]]
 
 You gain the basic spellcasting benefits. Each time you gain a spell slot of a new rank from the sorcerer archetype, add a spell of the appropriate spell rank to your repertoire: a common spell of your bloodline’s tradition, one of your bloodline’s granted spells, or another spell you have learned or discovered.
 
 ### Basic Sorcerer Spellcasting leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/bloodline-breadth|Bloodline Breadth]], [[srd/pf2e/compendium/feats/player-core-2/archetype/expert-sorcerer-spellcasting|Expert Sorcerer Spellcasting]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Bloodline Breadth|Bloodline Breadth]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Expert Sorcerer Spellcasting|Expert Sorcerer Spellcasting]]
 
 *Source: Player Core 2 p. 181*

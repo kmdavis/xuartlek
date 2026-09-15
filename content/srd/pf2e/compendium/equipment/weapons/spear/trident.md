@@ -14,14 +14,14 @@ socialImage: og-image.png
 
 `Thrown`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/giant-gods/aegirran|Aegirran]], [[srd/pf2e/compendium/deities/demon-lords/dagon|Dagon]], [[srd/pf2e/compendium/deities/infernal-dukes/furcas|Furcas]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]], [[srd/pf2e/compendium/deities/other-gods/hanspur|Hanspur]], [[srd/pf2e/compendium/deities/elemental-lords/kelizandri|Kelizandri]], [[srd/pf2e/compendium/deities/archdevils/mephistopheles|Mephistopheles]], [[srd/pf2e/compendium/deities/qlippoth-lords/oaur-ooung|Oaur-Ooung]], [[srd/pf2e/compendium/deities/other-gods/obari|Obari]], [[srd/pf2e/compendium/deities/vudrani-gods/raumya|Raumya]], [[srd/pf2e/compendium/deities/sarkorian-gods/ristrentho|Ristrentho]], Surveyors of the Deep, [[srd/pf2e/compendium/deities/monitor-demigods/the-pale-horse|The Pale Horse]], Umarik, [[srd/pf2e/compendium/deities/covenants/waves-of-the-boundless-sea|Waves of the Boundless Sea]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/giant-gods/Aegirran|Aegirran]], [[srd/pf2e/compendium/deities/demon-lords/Dagon|Dagon]], [[srd/pf2e/compendium/deities/infernal-dukes/Furcas|Furcas]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Gozreh|Gozreh]], [[srd/pf2e/compendium/deities/other-gods/Hanspur|Hanspur]], [[srd/pf2e/compendium/deities/elemental-lords/Kelizandri|Kelizandri]], [[srd/pf2e/compendium/deities/archdevils/Mephistopheles|Mephistopheles]], [[srd/pf2e/compendium/deities/qlippoth-lords/Oaur-Ooung|Oaur-Ooung]], [[srd/pf2e/compendium/deities/other-gods/Obari|Obari]], [[srd/pf2e/compendium/deities/vudrani-gods/Raumya|Raumya]], [[srd/pf2e/compendium/deities/sarkorian-gods/Ristrentho|Ristrentho]], Surveyors of the Deep, [[srd/pf2e/compendium/deities/monitor-demigods/The Pale Horse|The Pale Horse]], Umarik, [[srd/pf2e/compendium/deities/covenants/Waves of the Boundless Sea|Waves of the Boundless Sea]]
 - **Price**: 1 gp
 - **Damage**: 1d8 P
 - **Bulk**: 1
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Spear
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Spear|Spear]]
 
 This three-pronged, spear-like weapon typically has a 4-foot shaft. Like a spear, it can be wielded with one hand or thrown.
 
@@ -31,6 +31,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/fighters-fork|Fighter's Fork]], Tiger Fork, Trident of the Azarketis
+[[srd/pf2e/compendium/equipment/weapons/Fighter's Fork|Fighter's Fork]], [[srd/pf2e/compendium/equipment/weapons/Tiger Fork|Tiger Fork]], Trident of the Azarketis
 
 *Source: Player Core p. 278*

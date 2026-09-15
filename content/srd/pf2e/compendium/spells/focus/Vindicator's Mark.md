@@ -22,9 +22,9 @@ socialImage: og-image.png
 - **Saving Throw**: AC
 - **Duration**: 1 minute
 
-You launch a magical dart at your hunted prey, which marks them with a nimbus only you can detect. Make a spell attack against the target. On a hit, you deal 2d4 [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]] damage and the target is marked by a glowing nimbus of energy that only you can see. For the duration of your spell, the marked target takes an additional +2 damage from all your weapon or unarmed attacks. [[srd/pf2e/compendium/rules-elements/conditions#Invisible|Invisible]] targets marked by your _vindicator's mark_ are [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] to you, rather than [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]].
+You launch a magical dart at your hunted prey, which marks them with a nimbus only you can detect. Make a spell attack against the target. On a hit, you deal 2d4 [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]] damage and the target is marked by a glowing nimbus of energy that only you can see. For the duration of your spell, the marked target takes an additional +2 damage from all your weapon or unarmed attacks. [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|Invisible]] targets marked by your _vindicator's mark_ are [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] to you, rather than [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]].
 
-You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] the spell on your turn if your last action dealt damage to the target with a weapon or [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack, instantly dealing an additional 2d6 spirit damage to it.
+You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] the spell on your turn if your last action dealt damage to the target with a weapon or [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack, instantly dealing an additional 2d6 spirit damage to it.
 
 ---
 **Heightened (+2)** The initial damage increases by 2d4, the additional damage you deal increases by 1, and the damage dealt when the spell is Dismissed increases by 1d6.

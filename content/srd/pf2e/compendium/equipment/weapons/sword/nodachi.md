@@ -1,14 +1,14 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/treasure-vault-remastered
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/brace
 - trait/deadly
 - trait/reach
 - weapon/level/0
 aliases: ["Nodachi"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=298"
-source: "Treasure Vault (Remastered)"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -22,7 +22,7 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Advanced
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 Also known as a zhanmadao, the exceptionally long blade of the nodachi is designed to neutralize enemy mounts and counter the advantages of cavalry units. Its shape and size make it somewhat impractical for close combat but highly effective against charging opponents.
 
@@ -32,6 +32,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Flashblade
+[[srd/pf2e/compendium/equipment/weapons/Flashblade|Flashblade]]
 
-*Source: Treasure Vault (Remastered) p. 27*
+*Source: Tian Xia Character Guide p. 127*

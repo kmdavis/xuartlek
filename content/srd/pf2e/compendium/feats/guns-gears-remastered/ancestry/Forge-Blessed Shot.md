@@ -17,7 +17,7 @@ socialImage: og-image.png
 `Divine`  `Dwarf`  `Uncommon`
 
 - **Frequency**: once per day
-- **Prerequisites**: worshipper of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/torag|Torag]] or [[srd/pf2e/compendium/deities/dwarven-gods/angradd|Angradd]]
+- **Prerequisites**: worshipper of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Torag|Torag]] or [[srd/pf2e/compendium/deities/dwarven-gods/Angradd|Angradd]]
 - **Access**: You are from Dongun Hold or Alkenstar.
 - **Trigger**: You attempt a ranged Strike.
 

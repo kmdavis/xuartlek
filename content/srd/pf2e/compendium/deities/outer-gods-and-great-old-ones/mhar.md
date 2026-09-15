@@ -24,23 +24,23 @@ Strength or Constitution
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/pick/greatpick|Greatpick]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/pick/Greatpick|Greatpick]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Earth|Earth]], [[srd/pf2e/compendium/character/domains#Fire|Fire]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Earth|Earth]], [[srd/pf2e/compendium/character/Domains#Fire|Fire]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Dust|Dust]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Dust|Dust]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/shockwave|Shockwave]]
+[[srd/pf2e/compendium/spells/rank-1/Shockwave|Shockwave]]
 
 - **2nd**
 Ash Cloud
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/volcanic-eruption|Volcanic Eruption]]
+[[srd/pf2e/compendium/spells/rank-7/Volcanic Eruption|Volcanic Eruption]]
 
 *Source: Divine Mysteries p. 318*

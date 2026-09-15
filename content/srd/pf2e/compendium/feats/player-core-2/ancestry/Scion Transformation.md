@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Lizardfolk`  `Primal`
 
-You go into hibernation for twenty-four hours and perform a ritual dedicated to your ancestors, undergoing a one-time metamorphosis. You permanently gain the effects of [[srd/pf2e/compendium/spells/rank-2/enlarge|_enlarge_]], and your maximum Hit Points increase by your level. The ritual transforms most of your gear to the appropriate size for your new body (though powerful items like [[srd/pf2e/compendium/rules-elements/traits/gm-core/artifact|artifacts]] or items strongly tied to their original size may not transform, at the GM's discretion).
+You go into hibernation for twenty-four hours and perform a ritual dedicated to your ancestors, undergoing a one-time metamorphosis. You permanently gain the effects of [[srd/pf2e/compendium/spells/rank-2/Enlarge|_enlarge_]], and your maximum Hit Points increase by your level. The ritual transforms most of your gear to the appropriate size for your new body (though powerful items like [[srd/pf2e/compendium/rules-elements/traits/gm-core/Artifact|artifacts]] or items strongly tied to their original size may not transform, at the GM's discretion).
 
 *Source: Player Core 2 p. 27*

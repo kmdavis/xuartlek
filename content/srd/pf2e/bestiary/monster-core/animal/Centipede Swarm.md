@@ -30,7 +30,7 @@ perception:
     desc: "+9; darkvision, tremorsense (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +9, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +9, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +9"
 abilityMods: [2, 4, 3, -5, 0, -4]
 ac: 18
 armorclass:
@@ -39,19 +39,19 @@ armorclass:
 hp: 30
 health:
   - name: "HP"
-    desc: "30; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]], precision, [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]], swarm mind; __Resistances__ bludgeoning 5, piercing 5, slashing 2; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
+    desc: "30; __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]], precision, [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]], [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]], swarm mind; __Resistances__ bludgeoning 5, piercing 5, slashing 2; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 5"
 speed: "30 feet, climb 30 feet"
 abilities_bot:
   - name: "Centipede Swarm Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 20 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "1d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] (1 round)"
+    desc: "1d6 poison damage and [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] (1 round)"
   - name: "Stage 2"
-    desc: "1d8 poison damage, [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]], and off-guard (1 round)"
+    desc: "1d8 poison damage, [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy 1]], and off-guard (1 round)"
   - name: "Swarming Bites"
     desc: "⬻ Each enemy in the swarm's space takes 1d8 piercing damage (DC 20 basic Reflex save) plus centipede swarm venom."
 sourcebook: "_Monster Core_, page 59."

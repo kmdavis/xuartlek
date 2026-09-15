@@ -19,9 +19,9 @@ socialImage: og-image.png
 
 `Air`  `Illusion`  `Impulse`  `Kineticist`  `Overflow`  `Primal`
 
-Compact layers of air diffract and bend light around your body, making you appear as clear as the sky on a perfect day. You become [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] until the end of your next turn. You can Sustain the impulse. If you use a hostile action, the impulse ends after that action is completed. If you activate your kinetic aura, the impulse conceals its elements, though any special effects of your aura might give away your location.
+Compact layers of air diffract and bend light around your body, making you appear as clear as the sky on a perfect day. You become [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]] until the end of your next turn. You can Sustain the impulse. If you use a hostile action, the impulse ends after that action is completed. If you activate your kinetic aura, the impulse conceals its elements, though any special effects of your aura might give away your location.
 
- This impulse weakens if you use it too frequently. Using it again within 10 minutes makes you [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] instead of invisible.
+ This impulse weakens if you use it too frequently. Using it again within 10 minutes makes you [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] instead of invisible.
 
 ---
 **Level (10th)** The impulse doesn't end if you take a hostile action, but if you're invisible, you become concealed instead of invisible until the start of your next turn.

@@ -20,6 +20,6 @@ Your constant training and strong bond with your allies allow you to change tact
 
 ### Adaptive Stratagem leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/class/contact-with-the-enemy|Contact with the Enemy]]
+[[srd/pf2e/compendium/feats/battlecry/class/Contact with the Enemy|Contact with the Enemy]]
 
 *Source: Battlecry! p. 30*

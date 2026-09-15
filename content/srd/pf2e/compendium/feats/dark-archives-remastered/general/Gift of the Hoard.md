@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Aftermath`  `Magical`  `Rare`
 
-- **Prerequisites**: You have succeeded at an important task given by a [[srd/pf2e/compendium/gm/creature-families/dragon|dragon]], such as procuring a special treasure for their hoard.
+- **Prerequisites**: You have succeeded at an important task given by a [[srd/pf2e/compendium/gm/creature-families/Dragon|dragon]], such as procuring a special treasure for their hoard.
 
-In pleasing the cravings of a mighty dragon, they have deigned to impart some of their magical essence into your body. Your eyes begin to glow and change color while your limbs and neck grow a veneer of scales, visually matching the associated dragon, accompanied by a near-insatiable desire to amass a hoard of your own. You gain the [[srd/pf2e/compendium/spells/focus/dragon-breath|_dragon breath_]] sorcerer bloodline spell, emulating the breath of the associated dragon. If you don't have one, you gain a focus pool of 1 Focus Point. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]] by counting and arranging your treasure.
+In pleasing the cravings of a mighty dragon, they have deigned to impart some of their magical essence into your body. Your eyes begin to glow and change color while your limbs and neck grow a veneer of scales, visually matching the associated dragon, accompanied by a near-insatiable desire to amass a hoard of your own. You gain the [[srd/pf2e/compendium/spells/focus/Dragon Breath|_dragon breath_]] sorcerer bloodline spell, emulating the breath of the associated dragon. If you don't have one, you gain a focus pool of 1 Focus Point. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]] by counting and arranging your treasure.
 
 *Source: Dark Archives (Remastered) p. 56*

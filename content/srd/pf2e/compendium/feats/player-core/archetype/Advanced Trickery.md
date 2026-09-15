@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/rogue|Rogue]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/basic-trickery|Basic Trickery]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Rogue|Rogue]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Basic Trickery|Basic Trickery]]
 
 You gain one rogue feat. For the purpose of meeting its prerequisites, your rogue level is equal to half your character level.
 

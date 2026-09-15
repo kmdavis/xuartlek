@@ -17,9 +17,11 @@ socialImage: og-image.png
 
 `Exemplar`  `Ikon`  `Void`  `Negative`
 
+- **Usage**: imbued into a weapon ikon
+
 By channeling your divinity into a creature along with a strike, you can disrupt their ability to recover. The imbued ikon gains the following ability. 
 
-**Immanence** When you successfully damage an enemy with the ikon, a marking appears around the wound, painted in the red of mortal blood and the gold of divine ichor. When the target would regain Hit Points, such as from a [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] effect or an ability like fast healing or regeneration, it must attempt a Will save against your class DC to determine the effects, and then the marking fades. The marking otherwise fades after 1 minute.
+**Immanence** When you successfully damage an enemy with the ikon, a marking appears around the wound, painted in the red of mortal blood and the gold of divine ichor. When the target would regain Hit Points, such as from a [[srd/pf2e/compendium/rules-elements/traits/player-core/Healing|healing]] effect or an ability like fast healing or regeneration, it must attempt a Will save against your class DC to determine the effects, and then the marking fades. The marking otherwise fades after 1 minute.
 
 **Success** The creature regains the full number of Hit Points that would be healed.
 

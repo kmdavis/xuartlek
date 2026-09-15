@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/morningstar|Morningstar]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Morningstar|Morningstar]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/domains#Undeath|Undeath]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/Domains#Undeath|Undeath]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/message-rune|Message Rune]]
+[[srd/pf2e/compendium/spells/rank-1/Message Rune|Message Rune]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/feast-of-ashes|Feast of Ashes]]
+[[srd/pf2e/compendium/spells/rank-2/Feast of Ashes|Feast of Ashes]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/false-vision|False Vision]]
+[[srd/pf2e/compendium/spells/rank-5/False Vision|False Vision]]
 
 *Source: Divine Mysteries p. 302*

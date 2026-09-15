@@ -34,10 +34,10 @@ modifier: 29
 perception:
   - name: "Perception"
     desc: "+29; greater darkvision, scent (imprecise) 30 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]]; (can't speak any language)"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Diabolic|Diabolic]]; (can't speak any language)"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +30, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +35, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +30"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +30, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +35, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +30"
 abilityMods: [10, 3, 6, -2, 6, 5]
 ac: 39
 armorclass:
@@ -46,33 +46,33 @@ armorclass:
 hp: 290
 health:
   - name: "HP"
-    desc: "290; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Resistances__ physical 15 (except silver); __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 15"
+    desc: "290; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]]; __Resistances__ physical 15 (except silver); __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]] 15"
 abilities_mid:
   - name: "Frightful Presence"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 90 feet, DC 38"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]]) 90 feet, DC 38"
   - name: "Instinctive Teleportation"
-    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]])"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Teleportation|teleportation]])"
   - name: "Trigger"
-    desc: "The thruneosaurus takes damage from a [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] effect"
+    desc: "The thruneosaurus takes damage from a [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]] effect"
   - name: "Effect"
     desc: "The thruneosaurus teleports to an open space within 60 feet it can see, along with any creatures it has swallowed whole."
 speed: "40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +33 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 3d12+16 piercing plus Grab"
+    desc: "⬻ jaws +33 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 20 feet]]) __Damage__ 3d12+16 piercing plus Grab"
   - name: "Melee"
-    desc: "⬻ foot +33 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 3d10+16 bludgeoning"
+    desc: "⬻ foot +33 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 3d10+16 bludgeoning"
 abilities_bot:
   - name: "Hellfire Blast"
     desc: "⬺ The thruneosaurus channels sulfurous hellfire in one of three ways. The thruneosaurus chooses the effect, but it can't make the same choice in two consecutive rounds."
   - name: "Blistering Sun"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]); The thruneosaurus ignites an orb of hellfire between its horns that radiates heat in a 30-foot emanation, dealing 2d8 persistent fire damage."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]]); The thruneosaurus ignites an orb of hellfire between its horns that radiates heat in a 30-foot emanation, dealing 2d8 persistent fire damage."
   - name: "Choking Fumes"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]); The thruneosaurus exhales a 60-foot cone of sulfurous smoke that deals 6d8 poison damage (DC 38 basic Fortitude save). Creatures that fail their saves are [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 2]]."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]]); The thruneosaurus exhales a 60-foot cone of sulfurous smoke that deals 6d8 poison damage (DC 38 basic Fortitude save). Creatures that fail their saves are [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened 2]]."
   - name: "Fiery Beam"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]); A 120-foot line of hellish flame erupts from the thruneosaurus's eyes, dealing 6d10 fire damage (DC 38 basic Reflex save)."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]]); A 120-foot line of hellish flame erupts from the thruneosaurus's eyes, dealing 6d10 fire damage (DC 38 basic Reflex save)."
   - name: "Swallow Whole"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]]) Huge, 3d12+10 bludgeoning, Rupture 40"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|Attack]]) Huge, 3d12+10 bludgeoning, Rupture 40"
   - name: "Trample"
     desc: "⬽ Huge or smaller, foot, DC 38"
 sourcebook: "_Howl of the Wild_, page 139."

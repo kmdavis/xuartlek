@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Gunslinger`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/ways#Way of the Drifter|way of the drifter]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Ways#Way of the Drifter|way of the drifter]]
 
 You use cacophonous blasts from your gun or distracting shots from your crossbow to cause momentary diversions, letting you move about the battlefield with impunity. After you make a Strike with a firearm or crossbow, creatures can't take reactions that would be triggered by your movement for the rest of your turn.
 

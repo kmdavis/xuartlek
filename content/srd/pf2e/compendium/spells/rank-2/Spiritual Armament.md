@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Sanctified`  `Spirit`
 
-- **Traditions**: Divine, Occult
-- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]], [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodlines**: [[srd/pf2e/compendium/character/Bloodlines#Angelic|Angelic]], [[srd/pf2e/compendium/character/Bloodlines#Aesir|Aesir]]
 - **Range**: 120 feet
 - **Target**: 1 target
 - **Defense**: AC

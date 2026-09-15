@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Manipulate`
 
-- **Tradition**: Primal
-- **Deities**: [[srd/pf2e/compendium/deities/qlippoth-lords/chavazvug|Chavazvug]], [[srd/pf2e/compendium/deities/covenants/light-of-the-everlasting-flame|Light of the Everlasting Flame]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/mhar|Mhar]], Yamatsumi
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/qlippoth-lords/Chavazvug|Chavazvug]], [[srd/pf2e/compendium/deities/covenants/Light of the Everlasting Flame|Light of the Everlasting Flame]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Mhar|Mhar]], Yamatsumi
 - **Range**: 120 feet
 - **Area**: 5-foot radius, 80-foot-tall cylinder
 - **Defense**: Reflex

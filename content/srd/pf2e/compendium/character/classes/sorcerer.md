@@ -16,7 +16,7 @@ You'll see the following key terms in many sorcerer abilities.
 
  **Blood Magic:** Casting a sorcerous gift spell granted by your bloodline or a bloodline spell allows you to benefit from a blood magic effect you know. You can typically only benefit from one blood magic effect at a time, though some feats and abilities may change this.
 
- **[[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
+ **[[srd/pf2e/compendium/rules-elements/traits/player-core/Spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
 
 ### Roleplaying the Sorcerer
 
@@ -106,11 +106,11 @@ In addition to what you get from your class at 1st level, you have four free boo
 
 Choose a bloodline that gives you your spellcasting talent. This choice determines the type of spells you cast and the spell list you choose them from, the additional spells you learn, and your additional trained skills. You also gain Focus Points and special focus spells based on your bloodline. 
 
- Bloodlines can be found [[srd/pf2e/compendium/character/bloodlines|here]].
+ Bloodlines can be found [[srd/pf2e/compendium/character/Bloodlines|here]].
 
 #### Sorcerer Spellcasting
 
-Your bloodline provides you with incredible magical power. You are a spellcaster and can cast spells using the [[srd/pf2e/books/player-core/chapter-7-spells/casting-spells|Cast a Spell]] activity. The tradition from which your spells come is determined by your bloodline. As a sorcerer, you draw your power from within, and the gestures and incantations you use to shape your power might evoke the nature of your bloodline. For instance, a sorcerer with a demonic bloodline might chant guttural fiendish phrases or make brief curt gestures to cast a spell.
+Your bloodline provides you with incredible magical power. You are a spellcaster and can cast spells using the [[srd/pf2e/books/player-core/chapter-7-spells/Casting Spells|Cast a Spell]] activity. The tradition from which your spells come is determined by your bloodline. As a sorcerer, you draw your power from within, and the gestures and incantations you use to shape your power might evoke the nature of your bloodline. For instance, a sorcerer with a demonic bloodline might chant guttural fiendish phrases or make brief curt gestures to cast a spell.
 
  Each day, you can cast up to three 1st-rank spells. You must know spells to cast them, and you learn them via the spell repertoire class feature. The number of spells you can cast each day is called your spell slots.
 
@@ -128,7 +128,7 @@ Your bloodline provides you with incredible magical power. You are a spellcaster
 
 #### Spell Repertoire
 
-The collection of spells you can cast is called your spell repertoire. At 1st level, you learn two 1st-rank spells of your choice and four cantrips of your choice, as well as an additional spell and cantrip from your [[srd/pf2e/compendium/character/bloodlines|bloodline]] You choose these from the common spells from the tradition corresponding to your bloodline, or from other spells from that tradition to which you have access. You can cast any spell in your spell repertoire by using a spell slot of an appropriate spell rank.
+The collection of spells you can cast is called your spell repertoire. At 1st level, you learn two 1st-rank spells of your choice and four cantrips of your choice, as well as an additional spell and cantrip from your [[srd/pf2e/compendium/character/Bloodlines|bloodline]] You choose these from the common spells from the tradition corresponding to your bloodline, or from other spells from that tradition to which you have access. You can cast any spell in your spell repertoire by using a spell slot of an appropriate spell rank.
 
  You add to this spell repertoire as you increase in level. Each time you get a spell slot (see the Sorcerer Spells per Day table), you add a spell to your spell repertoire of the same rank. When you gain a new rank of spells, your first new spell is always the sorcerous gift spell for that rank that's listed in your bloodline, but you can choose the other spells. At 2nd level, you select another 1st-rank spell; at 3rd level, you gain a new spell from your bloodline and two other 2nd-rank spells, and so on. When you add spells, you might select a higher-rank version of a spell you already know so that you can cast a heightened version of that spell.
 
@@ -136,7 +136,7 @@ The collection of spells you can cast is called your spell repertoire. At 1st le
 
 #### Swapping Spells In Your Repertoire
 
-As you gain new spells in your spell repertoire, you might want to replace some of the spells you previously learned. Each time you gain a level and learn new spells, you can swap out one of your old spells for a different spell of the same rank. This spell can be a cantrip, but you can't swap out bloodline spells. You can also swap out spells by [[srd/pf2e/books/player-core/chapter-8-playing-the-game/downtime-mode#Retraining|retraining]] during downtime.
+As you gain new spells in your spell repertoire, you might want to replace some of the spells you previously learned. Each time you gain a level and learn new spells, you can swap out one of your old spells for a different spell of the same rank. This spell can be a cantrip, but you can't swap out bloodline spells. You can also swap out spells by [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Downtime Mode#Retraining|retraining]] during downtime.
 
 #### Sorcerous Potency
 
@@ -145,7 +145,7 @@ Because of the magical power inherent in your blood, your spells that hurt or cu
 | | |
 | --- | --- |
 | **Skill Feats** | At 2nd level and every 2 levels thereafter, you gain a skill feat. You must be trained or better in the corresponding skill to select a skill feat. |
-| **Sorcerer Feats** | At 2nd level and every even-numbered level thereafter, you gain a sorcerer class feat. |
+| **Sorcerer Feats** | At 2nd level and every even-numbered level thereafter, you gain a [sorcerer class feat](https://2e.aonprd.com/Feats.aspx?Traits=148). |
 
 #### Signature Spells
 

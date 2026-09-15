@@ -3,7 +3,7 @@ cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/invested
-- trait/magical
+- trait/primal
 - equipment/level/7
 aliases: ["Clawed Bracers"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3068"
@@ -13,7 +13,7 @@ socialImage: og-image.png
 
 # Clawed Bracers  *Item 7*
 
-`Invested`  `Magical`
+`Invested`  `Primal`
 
 - **Price**: 325 gp
 - **Usage**: worn bracers
@@ -21,6 +21,6 @@ socialImage: og-image.png
 
 Animal claws are woven into the thick leather of these bracers. 
 
-**Activate—Extend Claws** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]. [[srd/pf2e/compendium/rules-elements/traits/player-core/morph|morph]]) **Frequency** once per hour; **Effect** The bracers fuse temporarily with your forearms, with the claws extending to your fingertips. You gain a climb Speed of 20 feet and a claw unarmed attack with the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]] traits that deals 1d6 slashing damage. This lasts for 10 minutes or until you Dismiss it.
+**Activate—Extend Claws** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]]. [[srd/pf2e/compendium/rules-elements/traits/player-core/Morph|morph]]) **Frequency** once per hour; **Effect** The bracers fuse temporarily with your forearms, with the claws extending to your fingertips. You gain a climb Speed of 20 feet and a claw unarmed attack with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]] traits that deals 1d6 slashing damage. This lasts for 10 minutes or until you Dismiss it.
 
 *Source: GM Core p. 287*

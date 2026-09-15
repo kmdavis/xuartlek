@@ -32,16 +32,16 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; low-light vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Cyclops, [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]], [[srd/pf2e/compendium/rules-elements/languages#Shadowtongue|Shadowtongue]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], Cyclops, [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/Languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/Languages#Petran|Petran]], [[srd/pf2e/compendium/rules-elements/Languages#Shadowtongue|Shadowtongue]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +4, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +5, [[srd/pf2e/compendium/rules-elements/skills/lore|Jotunborn Lore]] +8, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +8, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +5, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] +8, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +4, [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] +5, [[srd/pf2e/compendium/rules-elements/skills/Lore|Jotunborn Lore]] +8, [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] +8, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +5, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +8"
 abilityMods: [2, 0, 2, 4, 1, 0]
 abilities_top:
   - name: "Iivlar Weaving"
-    desc: "The sage has planar thread woven into their skin. This thread glows with [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Dim Light|dim light]] in a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]. They can [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] to extinguish, reactivate, or adjust the coloration of this light."
+    desc: "The sage has planar thread woven into their skin. This thread glows with [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Dim Light|dim light]] in a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]]. They can [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] to extinguish, reactivate, or adjust the coloration of this light."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/knife/dagger|Dagger]], _scroll of [[srd/pf2e/compendium/spells/rank-1/mindlink|_mindlink_]]_"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/knife/Dagger|Dagger]], _scroll of [[srd/pf2e/compendium/spells/rank-1/Mindlink|_mindlink_]]_"
 ac: 16
 armorclass:
   - name: "AC"
@@ -53,11 +53,11 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+5 piercing"
+    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+5 piercing"
   - name: "Melee"
-    desc: "⬻ fist +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]]) __Damage__ 1d4+5 bludgeoning"
+    desc: "⬻ fist +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]]) __Damage__ 1d4+5 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dagger +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+5 piercing"
+    desc: "⬻ dagger +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+5 piercing"
 abilities_bot:
   - name: "Plane-Hopper Dash"
     desc: "⬻"
@@ -67,7 +67,7 @@ abilities_bot:
     desc: "The jotunborn sage moves with swiftness between planar boundaries to shorten their journey. The sage [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Strides]]; this movement doesn't trigger reactions. Once the Stride is complete, the sage gains a +5-status bonus to their Speed until the start of their next turn."
 spellcasting:
   - name: "Occult Prepared Spells"
-    desc: "DC 18, attack +10 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/frostbite|Frostbite]], [[srd/pf2e/compendium/spells/cantrips/read-aura|Read Aura]], [[srd/pf2e/compendium/spells/cantrips/shield|Shield]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-projectile|Telekinetic Projectile]], [[srd/pf2e/compendium/spells/cantrips/void-warp|Void Warp]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/dizzying-colors|Dizzying Colors]], [[srd/pf2e/compendium/spells/rank-1/grim-tendrils|Grim Tendrils]], [[srd/pf2e/compendium/spells/rank-1/sleep|Sleep]]"
+    desc: "DC 18, attack +10 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/Frostbite|Frostbite]], [[srd/pf2e/compendium/spells/cantrips/Read Aura|Read Aura]], [[srd/pf2e/compendium/spells/cantrips/Shield|Shield]], [[srd/pf2e/compendium/spells/cantrips/Telekinetic Projectile|Telekinetic Projectile]], [[srd/pf2e/compendium/spells/cantrips/Void Warp|Void Warp]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Dizzying Colors|Dizzying Colors]], [[srd/pf2e/compendium/spells/rank-1/Grim Tendrils|Grim Tendrils]], [[srd/pf2e/compendium/spells/rank-1/Sleep|Sleep]]"
 sourcebook: "_Monster Core 2_, page 202."
 ```
 

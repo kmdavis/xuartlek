@@ -16,14 +16,14 @@ socialImage: og-image.png
 
 `Deadly`  `Jousting`  `Reach`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/qlippoth-lords/nyuo-ogh|Nyuo-Ogh]], [[srd/pf2e/compendium/deities/covenants/the-readied-strike|The Readied Strike]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/qlippoth-lords/Nyuo-Ogh|Nyuo-Ogh]], [[srd/pf2e/compendium/deities/covenants/The Readied Strike|The Readied Strike]]
 - **Price**: 1 gp
 - **Damage**: 1d8 P
 - **Bulk**: 2
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Spear
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Spear|Spear]]
 
 This spear-like weapon is used by a mounted creature to deal a great deal of damage.
 
@@ -33,6 +33,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Alicorn Lance, [[srd/pf2e/compendium/equipment/weapons/calvary-commanders-lance|Calvary Commander's Lance]], Lance of Sun's Radiance
+Alicorn Lance, [[srd/pf2e/compendium/equipment/weapons/Calvary Commander's Lance|Calvary Commander's Lance]], Lance of Sun's Radiance
 
 *Source: Player Core p. 278*

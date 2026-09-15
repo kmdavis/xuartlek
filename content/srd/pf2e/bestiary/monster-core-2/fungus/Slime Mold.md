@@ -32,7 +32,7 @@ perception:
     desc: "+6; motion sense 60 feet, no vision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +6"
 abilityMods: [3, 0, 5, -5, 0, -5]
 abilities_top:
   - name: "Motion Sense"
@@ -44,30 +44,30 @@ armorclass:
 hp: 60
 health:
   - name: "HP"
-    desc: "60; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Immunity to Critical Hits|critical hits]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], precision, [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]"
+    desc: "60; __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Immunity to Critical Hits|critical hits]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], precision, [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]]"
 speed: "10 feet, climb 10 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ pseudopod +8 __Damage__ 1d8+3 bludgeoning plus slime rot"
 abilities_bot:
   - name: "Slime Rot"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|Disease]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|Disease]])"
   - name: "Saving Throw"
     desc: "DC 18 Fortitude"
   - name: "Onset"
     desc: "1d4 days"
   - name: "Stage 1"
-    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 and [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 (1 day)"
+    desc: "[[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]] 1 and [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] 1 (1 day)"
   - name: "Stage 2"
     desc: "as stage 1 (1 day)"
   - name: "Stage 3"
-    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1, enfeebled 2, and sickened 2 (1 day)"
+    desc: "[[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]] 1, enfeebled 2, and sickened 2 (1 day)"
   - name: "Stage 4"
     desc: "as stage 3 (1 day)"
   - name: "Stage 5"
-    desc: "drained 2 plus [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] (no [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Perception|Perception]] check to wake up) (1 day)"
+    desc: "drained 2 plus [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]] (no [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation#Perception|Perception]] check to wake up) (1 day)"
   - name: "Stage 6"
-    desc: "dead, and the body erupts to release a new slime mold Slime Mold Fungi The particularly foul environments in which slime molds dwell are conducive to the growth of extremely potent and dangerous mushrooms and other fungi. A dead slime mold can be a source of enough materials to produce a few doses of [[srd/pf2e/compendium/equipment/alchemical-items/deathcap-powder|deathcap powder]] or other types of poison. Some creatures, such as deros or those with inherent immunity to [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], cultivate slime molds to harvest these materials."
+    desc: "dead, and the body erupts to release a new slime mold Slime Mold Fungi The particularly foul environments in which slime molds dwell are conducive to the growth of extremely potent and dangerous mushrooms and other fungi. A dead slime mold can be a source of enough materials to produce a few doses of [[srd/pf2e/compendium/equipment/alchemical-items/Deathcap Powder|deathcap powder]] or other types of poison. Some creatures, such as deros or those with inherent immunity to [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], cultivate slime molds to harvest these materials."
 sourcebook: "_Monster Core 2_, page 241."
 ```
 

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/necrologist|Necrologist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/necrologist-dedication|Necrologist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Necrologist|Necrologist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Necrologist Dedication|Necrologist Dedication]]
 
 Your horde is swifter, marching in time to your command. Increase the Speed of your horde by 10 feet.
 

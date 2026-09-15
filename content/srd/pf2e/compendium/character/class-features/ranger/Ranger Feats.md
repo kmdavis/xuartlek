@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Ranger
 
-At 1st level and every even-numbered level, you gain a ranger class feat.
+At 1st level and every even-numbered level, you gain a [ranger class feat](https://2e.aonprd.com/Feats.aspx?Traits=136).
 
 *Source: Player Core p. 152*

@@ -28,7 +28,7 @@ This lance has a heavy grip with two parallel crossbow fixtures built into it, m
 
 **Damage** 1d6 P
 
-**Group** Spear
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Spear|Spear]]
 
 ### Ranged
 
@@ -38,7 +38,7 @@ This lance has a heavy grip with two parallel crossbow fixtures built into it, m
 
 **Reload** 2
 
-**Group** Bow
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bow|Bow]]
 
 **Ammunition** Bolts
 

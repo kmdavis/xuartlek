@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
 Select one type of difficult terrain from the following list: rubble, snow, or underbrush. While undetected by all non-allies in that type of terrain, you can Sneak without attempting a Stealth check as long as you move no more than 5 feet and do not pass within 10 feet of an enemy during your movement.
 

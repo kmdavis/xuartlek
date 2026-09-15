@@ -18,7 +18,7 @@ Deep in the sea, schools of athamarus—piscine humanoids armed with spears and 
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core/humanoid/athamaru-hunter|Athamaru Hunter]] (Creature 3)
+[[srd/pf2e/bestiary/monster-core/humanoid/Athamaru Hunter|Athamaru Hunter]] (Creature 3)
 
 ### Xidao
 

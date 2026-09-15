@@ -24,23 +24,23 @@ Dexterity or Charisma
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/main-gauche|Main-gauche]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Main-gauche|Main-gauche]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Air|Air]], [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Passion|Passion]], [[srd/pf2e/compendium/character/domains#Sun|Sun]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Air|Air]], [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Passion|Passion]], [[srd/pf2e/compendium/character/Domains#Sun|Sun]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Dragon|Dragon]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Dragon|Dragon]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/charm|Charm]]
+[[srd/pf2e/compendium/spells/rank-1/Charm|Charm]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/wall-of-radiance|Wall of Radiance]]
+[[srd/pf2e/compendium/spells/rank-3/Wall of Radiance|Wall of Radiance]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/cloak-of-colors|Cloak of Colors]]
+[[srd/pf2e/compendium/spells/rank-5/Cloak of Colors|Cloak of Colors]]
 
 *Source: Divine Mysteries p. 314*

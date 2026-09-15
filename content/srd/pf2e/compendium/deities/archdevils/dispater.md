@@ -24,23 +24,23 @@ Strength or Charisma
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/mace|Mace]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Mace|Mace]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Cities|Cities]], [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Tyranny|Tyranny]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Cities|Cities]], [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Tyranny|Tyranny]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Perfection|Perfection]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Perfection|Perfection]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/tether|Tether]]
+[[srd/pf2e/compendium/spells/rank-1/Tether|Tether]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]]
+[[srd/pf2e/compendium/spells/rank-4/Suggestion|Suggestion]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/petrify|Petrify]]
+[[srd/pf2e/compendium/spells/rank-6/Petrify|Petrify]]
 
 *Source: Divine Mysteries p. 300*

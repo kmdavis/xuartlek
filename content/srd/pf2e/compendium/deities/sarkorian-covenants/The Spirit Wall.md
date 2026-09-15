@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: establish and protect your personal territory, punish trespassers, safeguard lawful visitors
 - **Anathema**: abandon a guard post, cede territory to an invader
 - **Area of Concern**: boundaries, containment, guardianship
-- **Pantheon Members**: [[srd/pf2e/compendium/deities/sarkorian-gods/dolok-darkfur|Dolok Darkfur]], [[srd/pf2e/compendium/deities/sarkorian-gods/kagia|Kagia]], [[srd/pf2e/compendium/deities/sarkorian-gods/stag-mother-of-the-forest-of-stones|Stag Mother of the Forest of Stones]]
+- **Pantheon Members**: [[srd/pf2e/compendium/deities/sarkorian-gods/Dolok Darkfur|Dolok Darkfur]], [[srd/pf2e/compendium/deities/sarkorian-gods/Kagia|Kagia]], [[srd/pf2e/compendium/deities/sarkorian-gods/Stag Mother of the Forest of Stones|Stag Mother of the Forest of Stones]]
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/fist|claws]] or [[srd/pf2e/compendium/equipment/weapons/shield/shield-boss|Shield Boss]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/Fist|claws]] or [[srd/pf2e/compendium/equipment/weapons/shield/Shield Boss|Shield Boss]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Earth|Earth]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Earth|Earth]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Metal|Metal]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Metal|Metal]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/anticipate-peril|Anticipate Peril]]
+[[srd/pf2e/compendium/spells/rank-1/Anticipate Peril|Anticipate Peril]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/cozy-cabin|Cozy Cabin]]
+[[srd/pf2e/compendium/spells/rank-3/Cozy Cabin|Cozy Cabin]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/wall-of-force|Wall of Force]]
+[[srd/pf2e/compendium/spells/rank-6/Wall of Force|Wall of Force]]
 
 *Source: Divine Mysteries p. 235*

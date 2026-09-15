@@ -28,10 +28,10 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; darkvision, scent (imprecise) 30 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Jotun|Jotun]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +11, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +11, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +13, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +11, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +11, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +13, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +12"
 abilityMods: [6, 4, 4, 2, 3, 2]
 ac: 23
 armorclass:
@@ -40,7 +40,7 @@ armorclass:
 hp: 70
 health:
   - name: "HP"
-    desc: "70; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5"
+    desc: "70; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] 5"
 abilities_mid:
   - name: "Buck"
     desc: "__ ⬲ DC 21 __Avenging Bite ⬲"
@@ -51,10 +51,10 @@ abilities_mid:
 speed: "40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/cold|Cold]]) __Damage__ 1d10+6 piercing plus 1d6 cold and Knockdown"
+    desc: "⬻ jaws +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|Cold]]) __Damage__ 1d10+6 piercing plus 1d6 cold and Knockdown"
 abilities_bot:
   - name: "Winter Breath"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/cold|Cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The witchwarg breathes a cloud of frost in a 15-foot cone that deals 5d8 cold damage (DC 23 basic Reflex save). The witchwarg can't use Winter Breath again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|Cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|Primal]]) The witchwarg breathes a cloud of frost in a 15-foot cone that deals 5d8 cold damage (DC 23 basic Reflex save). The witchwarg can't use Winter Breath again for 1d4 rounds."
   - name: "Pack Attack"
     desc: "The witchwarg's Strikes deal 1d6 extra damage to creatures within the reach of at least two of the witchwarg's allies."
 sourcebook: "_Monster Core_, page 341."

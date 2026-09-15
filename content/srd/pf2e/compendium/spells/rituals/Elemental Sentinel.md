@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 - **Cast**: 1 day
 - **Cost**: precious metals, rare incense, and herbs worth a total value of 15 gp per spell rank
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (expert) or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] (expert) or [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] (expert)
 - **Target(s)**: 1 object
 - **Duration**: unlimited
 
@@ -33,6 +33,6 @@ You place a tiny elemental wisp within an object—usually a mirror, statue, or 
 ---
 **Heightened (4th)** The range of the telepathic link increases, allowing the wisp to contact you anywhere on the same planet. Its Perception modifier increases to +10, or +12 on a critical success.
 
-**Heightened (6th)** As 4th rank, except the wisp can see [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] creatures as though they weren’t invisible, and its Perception modifier increases to +15, or +17 on a critical success.
+**Heightened (6th)** As 4th rank, except the wisp can see [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]] creatures as though they weren’t invisible, and its Perception modifier increases to +15, or +17 on a critical success.
 
 *Source: Impossible Magic p. 192*

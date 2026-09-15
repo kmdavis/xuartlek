@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Eidolon`  `Evolution`  `Summoner`
 
-- **Trigger**: A creature within your eidolon’s reach uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] action or a [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action, makes a ranged attack, or leaves a square during a move action it’s using.
+- **Trigger**: A creature within your eidolon’s reach uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]] action or a [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] action, makes a ranged attack, or leaves a square during a move action it’s using.
 
-Your eidolon makes a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] action, your eidolon disrupts that action. This Strike doesn’t count toward your multiple attack penalty, and your multiple attack penalty doesn’t apply to this Strike.
+Your eidolon makes a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]] action, your eidolon disrupts that action. This Strike doesn’t count toward your multiple attack penalty, and your multiple attack penalty doesn’t apply to this Strike.
 
 ### Eidolon's Retort leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/guding-retort|Guding Retort]]
+[[srd/pf2e/compendium/feats/impossible-magic/class/Guiding Retort|Guiding Retort]]
 
 *Source: Impossible Magic p. 81*

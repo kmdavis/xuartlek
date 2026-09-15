@@ -13,7 +13,7 @@ socialImage: og-image.png
 
 - **Class**: Sorcerer
 
-The collection of spells you can cast is called your spell repertoire. At 1st level, you learn two 1st-rank spells of your choice and four cantrips of your choice, as well as an additional spell and cantrip from your [[srd/pf2e/compendium/character/bloodlines|bloodline]] You choose these from the common spells from the tradition corresponding to your bloodline, or from other spells from that tradition to which you have access. You can cast any spell in your spell repertoire by using a spell slot of an appropriate spell rank.
+The collection of spells you can cast is called your spell repertoire. At 1st level, you learn two 1st-rank spells of your choice and four cantrips of your choice, as well as an additional spell and cantrip from your [[srd/pf2e/compendium/character/Bloodlines|bloodline]] You choose these from the common spells from the tradition corresponding to your bloodline, or from other spells from that tradition to which you have access. You can cast any spell in your spell repertoire by using a spell slot of an appropriate spell rank.
 
  You add to this spell repertoire as you increase in level. Each time you get a spell slot (see the Sorcerer Spells per Day table), you add a spell to your spell repertoire of the same rank. When you gain a new rank of spells, your first new spell is always the sorcerous gift spell for that rank that's listed in your bloodline, but you can choose the other spells. At 2nd level, you select another 1st-rank spell; at 3rd level, you gain a new spell from your bloodline and two other 2nd-rank spells, and so on. When you add spells, you might select a higher-rank version of a spell you already know so that you can cast a heightened version of that spell.
 
@@ -21,6 +21,6 @@ The collection of spells you can cast is called your spell repertoire. At 1st le
 
 #### Swapping Spells In Your Repertoire
 
-As you gain new spells in your spell repertoire, you might want to replace some of the spells you previously learned. Each time you gain a level and learn new spells, you can swap out one of your old spells for a different spell of the same rank. This spell can be a cantrip, but you can't swap out bloodline spells. You can also swap out spells by [[srd/pf2e/books/player-core/chapter-8-playing-the-game/downtime-mode#Retraining|retraining]] during downtime.
+As you gain new spells in your spell repertoire, you might want to replace some of the spells you previously learned. Each time you gain a level and learn new spells, you can swap out one of your old spells for a different spell of the same rank. This spell can be a cantrip, but you can't swap out bloodline spells. You can also swap out spells by [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Downtime Mode#Retraining|retraining]] during downtime.
 
 *Source: Player Core 2 p. 144*

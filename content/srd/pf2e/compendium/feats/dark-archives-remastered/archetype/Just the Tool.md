@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/mind-smith|Mind Smith]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/mind-smith-dedication|Mind Smith Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Mind Smith|Mind Smith]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Mind Smith Dedication|Mind Smith Dedication]]
 
-You temporarily change your weapon's shape to assist you in the field. You morph your weapon into a single simple [[srd/pf2e/compendium/equipment/adventuring-gear/tool|tool]], such as a shovel or [[srd/pf2e/compendium/equipment/adventuring-gear/crowbar|crowbar]], to help with a mundane task. You can't replicate entire toolkits with this ability. You can use this action again to change your mind weapon back to a weapon.
+You temporarily change your weapon's shape to assist you in the field. You morph your weapon into a single simple [[srd/pf2e/compendium/equipment/adventuring-gear/Tool|tool]], such as a shovel or [[srd/pf2e/compendium/equipment/adventuring-gear/Crowbar|crowbar]], to help with a mundane task. You can't replicate entire toolkits with this ability. You can use this action again to change your mind weapon back to a weapon.
 
 *Source: Dark Archives (Remastered) p. 205*

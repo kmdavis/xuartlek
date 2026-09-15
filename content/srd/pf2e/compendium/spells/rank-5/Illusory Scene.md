@@ -19,8 +19,8 @@ socialImage: og-image.png
 
 `Auditory`  `Concentrate`  `Illusion`  `Manipulate`  `Olfactory`  `Visual`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: Daikitsu, [[srd/pf2e/compendium/deities/vudrani-gods/likha|Likha]], [[srd/pf2e/compendium/deities/queens-of-the-night/mahathallah|Mahathallah]], [[srd/pf2e/compendium/deities/empyreal-lords/neshen|Neshen]], [[srd/pf2e/compendium/deities/sakhil-tormentors/shawnari|Shawnari]], [[srd/pf2e/compendium/deities/giant-gods/skrymir|Skrymir]], [[srd/pf2e/compendium/deities/goblin-gods/zugero|Zugero]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: Daikitsu, [[srd/pf2e/compendium/deities/vudrani-gods/Likha|Likha]], [[srd/pf2e/compendium/deities/queens-of-the-night/Mahathallah|Mahathallah]], [[srd/pf2e/compendium/deities/empyreal-lords/Neshen|Neshen]], [[srd/pf2e/compendium/deities/sakhil-tormentors/Shawnari|Shawnari]], [[srd/pf2e/compendium/deities/giant-gods/Skrymir|Skrymir]], [[srd/pf2e/compendium/deities/goblin-gods/Zugero|Zugero]]
 - **Cast**: 10 minutes
 - **Range**: 500 feet
 - **Area**: 30-foot burst

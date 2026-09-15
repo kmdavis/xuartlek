@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Razing`
 
-Razing weapons are particularly good at damaging objects, structures, and vehicles. Whenever you deal damage to an object (including [[srd/pf2e/compendium/equipment/shields|shields]] and [[srd/pf2e/compendium/gm/creature-families/animated-object|animated objects]]), structure, or vehicle with a razing weapon, the object takes an amount of additional damage equal to double the number of weapon damage dice.
+Razing weapons are particularly good at damaging objects, structures, and vehicles. Whenever you deal damage to an object (including [[srd/pf2e/compendium/equipment/Shields|shields]] and [[srd/pf2e/compendium/gm/creature-families/Animated Object|animated objects]]), structure, or vehicle with a razing weapon, the object takes an amount of additional damage equal to double the number of weapon damage dice.
 
 *Source: Player Core 2 p. 274*

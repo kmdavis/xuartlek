@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Druid`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/untamed-form|Untamed Form]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Untamed Form|Untamed Form]]
 
-Humanoids' supposed place apart from animals is folly—taking on their forms just requires some extra practice. You add the shapes listed in [[srd/pf2e/compendium/spells/rank-2/humanoid-form|_humanoid form_]] to your untamed form list.
+Humanoids' supposed place apart from animals is folly—taking on their forms just requires some extra practice. You add the shapes listed in [[srd/pf2e/compendium/spells/rank-2/Humanoid Form|_humanoid form_]] to your untamed form list.
 
 *Source: Player Core p. 129*

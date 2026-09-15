@@ -19,11 +19,11 @@ socialImage: og-image.png
 `Cantrip`  `Concentrate`  `Illusion`  `Manipulate`  `Subtle`
 
 - **PFS Note**: If a visual figment occupies the entirety of a 5x5 cube, it can provide cover or concealment, but not both, for a medium or smaller creature. It does not block line of sight.
-- **Traditions**: Arcane, Occult
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Fey|Fey]]
 - **Range**: 30 feet
 - **Duration**: sustained
 
-You create a simple illusory sound or vision. A sound adds the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] trait to the spell and the sound can't include intelligible words or elaborate music. A vision adds the [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] trait, can be no larger than a 5-foot cube, and is clearly crude and undetailed if viewed from within 15 feet. When you Cast or Sustain the Spell, you can attempt to Create a Diversion with the illusion, gaining a +2 circumstance bonus to your [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] check. If the attempt fails against a creature, that creature disbelieves the figment.
+You create a simple illusory sound or vision. A sound adds the [[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]] trait to the spell and the sound can't include intelligible words or elaborate music. A vision adds the [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]] trait, can be no larger than a 5-foot cube, and is clearly crude and undetailed if viewed from within 15 feet. When you Cast or Sustain the Spell, you can attempt to Create a Diversion with the illusion, gaining a +2 circumstance bonus to your [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] check. If the attempt fails against a creature, that creature disbelieves the figment.
 
 *Source: Player Core p. 331*

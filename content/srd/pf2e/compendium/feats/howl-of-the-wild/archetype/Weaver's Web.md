@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/swarmkeeper|Swarmkeeper]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/swarmkeeper-dedication|Swarmkeeper Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Swarmkeeper|Swarmkeeper]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Swarmkeeper Dedication|Swarmkeeper Dedication]]
 - **Requirements**: Your swarm is outside your body.
 
-Your swarm can spin dense webs much like those left by stone-gray weaver spiders under eaves and in derelict city buildings, especially along the coasts of Varisia. When your swarm ends its turn, it fills all surfaces in its space with sticky webs that last for 1 minute. The webs are difficult terrain. A creature that ends its turn in the webs must succeed at a Reflex save or be [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]]. The webs' save DC and Escape DC are equal to the higher of your class DC or spell DC. The swarm is immune to its webs.
+Your swarm can spin dense webs much like those left by stone-gray weaver spiders under eaves and in derelict city buildings, especially along the coasts of Varisia. When your swarm ends its turn, it fills all surfaces in its space with sticky webs that last for 1 minute. The webs are difficult terrain. A creature that ends its turn in the webs must succeed at a Reflex save or be [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]]. The webs' save DC and Escape DC are equal to the higher of your class DC or spell DC. The swarm is immune to its webs.
 
 *Source: Howl of the Wild p. 73*

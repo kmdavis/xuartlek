@@ -28,7 +28,7 @@ perception:
     desc: "+13; darkvision, scent (imprecise) 40 feet, whisker sense 60 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +10"
 abilityMods: [6, 4, 3, -4, 1, 2]
 abilities_top:
   - name: "Deep Breath"
@@ -48,7 +48,7 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +12 __Damage__ 2d8+6 piercing plus Grab"
   - name: "Melee"
-    desc: "⬻ tail +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 2d6+6 bludgeoning"
+    desc: "⬻ tail +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 2d6+6 bludgeoning"
 abilities_bot:
   - name: "Aquatic Ambush"
     desc: "⬻ 50 feet."
@@ -57,7 +57,7 @@ abilities_bot:
   - name: "Requirements"
     desc: "The leopard seal is in water"
   - name: "Effect"
-    desc: "The leopard seal travels up to 40 feet, ending its movement on land. Enemies adjacent to the leopard seal when it ends its movement take 2d10 bludgeoning damage (DC 21 basic Reflex save) and are knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] on a failure."
+    desc: "The leopard seal travels up to 40 feet, ending its movement on land. Enemies adjacent to the leopard seal when it ends its movement take 2d10 bludgeoning damage (DC 21 basic Reflex save) and are knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] on a failure."
 sourcebook: "_Howl of the Wild_, page 178."
 ```
 

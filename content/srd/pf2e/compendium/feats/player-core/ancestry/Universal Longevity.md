@@ -15,8 +15,8 @@ socialImage: og-image.png
 `Elf`
 
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/expert-longevity|Expert Longevity]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/Expert Longevity|Expert Longevity]]
 
-You’ve perfected your ability to keep up with all the skills you’ve learned over your long life, so you’re almost never truly untrained at a skill. You reflect on your life experiences, changing the skill you selected with [[srd/pf2e/compendium/feats/player-core/ancestry/ancestral-longevity|Ancestral Longevity]] (and the skill you selected with [[srd/pf2e/compendium/feats/player-core/ancestry/expert-longevity|Expert Longevity]] if you have that feat).
+You’ve perfected your ability to keep up with all the skills you’ve learned over your long life, so you’re almost never truly untrained at a skill. You reflect on your life experiences, changing the skill you selected with [[srd/pf2e/compendium/feats/player-core/ancestry/Ancestral Longevity|Ancestral Longevity]] (and the skill you selected with [[srd/pf2e/compendium/feats/player-core/ancestry/Expert Longevity|Expert Longevity]] if you have that feat).
 
 *Source: Player Core p. 49*

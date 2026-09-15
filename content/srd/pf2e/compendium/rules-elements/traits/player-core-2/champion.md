@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Champion`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/champion|champion]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Champion|champion]] class.
 
 *Source: Player Core 2 p. 315*

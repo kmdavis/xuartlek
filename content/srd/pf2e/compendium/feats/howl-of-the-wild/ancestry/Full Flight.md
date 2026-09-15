@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Awakened Animal`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/strong-of-wing|Strong of Wing]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Strong of Wing|Strong of Wing]]
 
 Your flight is unbound, as natural as it was before you were awakened. You have a fly Speed of 25 feet at all times.
 

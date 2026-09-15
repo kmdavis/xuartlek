@@ -18,8 +18,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Manipulate`  `Sanctified`  `Spirit`
 
-- **Tradition**: Divine
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]]
+- **Tradition**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Angelic|Angelic]]
 - **Range**: 120 feet
 - **Area**: 20-foot burst
 - **Defense**: Reflex

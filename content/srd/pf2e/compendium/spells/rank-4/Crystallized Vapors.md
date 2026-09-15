@@ -18,8 +18,8 @@ socialImage: og-image.png
 
 `Attack`  `Aura`  `Cold`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Area**: 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Area**: 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]]
 - **Defense**: AC
 - **Duration**: 1 minute
 

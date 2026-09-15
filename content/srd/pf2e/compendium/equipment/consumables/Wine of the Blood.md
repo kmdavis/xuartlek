@@ -21,8 +21,8 @@ socialImage: og-image.png
 - **Price**: 30 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-This wine, prepared using the blood of a creature with overwhelming vitality, soothes the body, mind, and spirit with a temporary sense of euphoria and rest. When you drink _wine of the blood_, you recover 2d10 Hit Points. Additionally, the wine attempts to counteract every negative [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effect affecting you, with a counteract rank of 3 and a counteract modifier of +9. Lastly, you gain a +1 status bonus to all Will saves and a +2 status bonus against emotion effects for 1 minute.
+This wine, prepared using the blood of a creature with overwhelming vitality, soothes the body, mind, and spirit with a temporary sense of euphoria and rest. When you drink _wine of the blood_, you recover 2d10 Hit Points. Additionally, the wine attempts to counteract every negative [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]] effect affecting you, with a counteract rank of 3 and a counteract modifier of +9. Lastly, you gain a +1 status bonus to all Will saves and a +2 status bonus against emotion effects for 1 minute.
 
 *Source: Dark Archives (Remastered) p. 114*

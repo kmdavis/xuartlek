@@ -16,13 +16,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Earth`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 60 feet
 - **Area**: 10-foot burst on the ground
 - **Defense**: Fortitude
 - **Duration**: sustained up to 1 minute
 
-Handlike protrusions of rock and soil grab and bury creatures. Each creature in the area when you cast the spell, and each creature that ends its turn in the area during the spell's duration, must attempt a Fortitude save. The first time each round you Sustain this spell, each creature still [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by the earth takes 1d6 bludgeoning damage, and each creature [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] by the earth takes 2d6 bludgeoning damage. A creature can attempt to Escape, rolling against your spell DC.
+Handlike protrusions of rock and soil grab and bury creatures. Each creature in the area when you cast the spell, and each creature that ends its turn in the area during the spell's duration, must attempt a Fortitude save. The first time each round you Sustain this spell, each creature still [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] by the earth takes 1d6 bludgeoning damage, and each creature [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] by the earth takes 2d6 bludgeoning damage. A creature can attempt to Escape, rolling against your spell DC.
 
 **Success** The creature is unaffected.
 

@@ -18,6 +18,6 @@ You’ve always had a tail, but with practice, you’ve learned to use it for mo
 
 ### Skillful Tail leads to...
 
-[[srd/pf2e/compendium/feats/war-of-immortals/ancestry/larcenous-tail|Larcenous Tail]]
+[[srd/pf2e/compendium/feats/war-of-immortals/ancestry/Larcenous Tail|Larcenous Tail]]
 
 *Source: Player Core p. 80*

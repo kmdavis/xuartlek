@@ -16,18 +16,18 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Visual`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/other-gods/chaldira|Chaldira]], Falayna, [[srd/pf2e/compendium/deities/empyreal-lords/pulura|Pulura]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/sturovenen|Sturovenen]], The Resplendent Court, Thisamet, Turvu, [[srd/pf2e/compendium/deities/infernal-dukes/ussharassim|Ussharassim]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/Chaldira|Chaldira]], Falayna, [[srd/pf2e/compendium/deities/empyreal-lords/Pulura|Pulura]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/Sturovenen|Sturovenen]], The Resplendent Court, Thisamet, Turvu, [[srd/pf2e/compendium/deities/infernal-dukes/Ussharassim|Ussharassim]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: 1 minute
 
-A cloak of swirling colors shrouds the target. Creatures are [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] while adjacent to it, and attacking the target causes a brilliant flash of light. A creature that hits the target with a melee attack must attempt a Will save. The creature is then temporarily immune until the end of its turn; this effect has the [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]] trait.
+A cloak of swirling colors shrouds the target. Creatures are [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] while adjacent to it, and attacking the target causes a brilliant flash of light. A creature that hits the target with a melee attack must attempt a Will save. The creature is then temporarily immune until the end of its turn; this effect has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|incapacitation]] trait.
 
 **Success** The attacker is unaffected.
 
-**Failure** The attacker is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round.
+**Failure** The attacker is [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] for 1 round.
 
-**Critical Failure** The attacker is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] for 1 round.
+**Critical Failure** The attacker is [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]] for 1 round.
 
 *Source: Player Core 2 p. 242*

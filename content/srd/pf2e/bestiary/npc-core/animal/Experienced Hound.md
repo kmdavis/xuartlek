@@ -28,7 +28,7 @@ perception:
     desc: "+16; low-light vision, scent (imprecise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +15, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +15, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +15, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +15, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +12"
 abilityMods: [5, 5, 4, -4, 2, 0]
 ac: 24
 armorclass:
@@ -46,11 +46,11 @@ abilities_bot:
   - name: "Drag"
     desc: "⬻"
   - name: "Requirements"
-    desc: "The experienced hound is adjacent to a [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] creature"
+    desc: "The experienced hound is adjacent to a [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] creature"
   - name: "Effect"
-    desc: "The experienced hound attempts an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] the prone creature. The experienced hound can then Step away from the target; if the target is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by the hound, it is moved into the hound's previous square and remains grabbed."
+    desc: "The experienced hound attempts an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] the prone creature. The experienced hound can then Step away from the target; if the target is [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] by the hound, it is moved into the hound's previous square and remains grabbed."
   - name: "Humane Bite"
-    desc: "The experienced hound doesn't take a penalty to make a [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attack with its jaws."
+    desc: "The experienced hound doesn't take a penalty to make a [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]] attack with its jaws."
   - name: "Pack Attack"
     desc: "The hound's Strikes deal 2d6 extra damage to creatures within the reach of at least two of the hound's allies."
 sourcebook: "_NPC Core_, page 219."

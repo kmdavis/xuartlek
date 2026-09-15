@@ -28,20 +28,20 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +8, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +9"
 abilityMods: [4, 3, 1, -2, 3, 1]
 abilities_top:
   - name: "Light Blindness"
     desc: ""
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/club/club|Club]]"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/club/Club|Club]]"
 ac: 17
 armorclass:
   - name: "AC"
-    desc: "17; __Fort__: +7; __Ref__: +11; __Will__: +9 +2 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]"
+    desc: "17; __Fort__: +7; __Ref__: +11; __Will__: +9 +2 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]]"
 hp: 40
 health:
   - name: "HP"
@@ -51,12 +51,12 @@ attacks:
   - name: "Melee"
     desc: "⬻ club +9 __Damage__ 1d6+4 bludgeoning"
   - name: "Melee"
-    desc: "⬻ jaws +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d4+4 piercing"
+    desc: "⬻ jaws +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d4+4 piercing"
   - name: "Ranged"
-    desc: "⬻ club +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d6+4 bludgeoning"
+    desc: "⬻ club +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 10 feet]]) __Damage__ 1d6+4 bludgeoning"
 abilities_bot:
   - name: "Instinctual Tinker"
-    desc: "⬺ The morlock tinkers with an adjacent construct or mechanical hazard. They attempt a [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check against the construct's or hazard's Fortitude DC. The morlock can't succeed if the target's level is more than double the morlock's."
+    desc: "⬺ The morlock tinkers with an adjacent construct or mechanical hazard. They attempt a [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] check against the construct's or hazard's Fortitude DC. The morlock can't succeed if the target's level is more than double the morlock's."
   - name: "Critical Success"
     desc: "The target regains 4d6 Hit Points and gains a +1 circumstance bonus to attack rolls for 1 minute."
   - name: "Success"
@@ -66,7 +66,7 @@ abilities_bot:
   - name: "Leap Attack"
     desc: "⬺ The morlock Strides up to twice their Speed, during which they attempt a [[srd/pf2e/compendium/rules-elements/actions/player-core#High Jump|High Jump]] or a [[srd/pf2e/compendium/rules-elements/actions/player-core#Long Jump|Long Jump]]. At any point during their movement, the morlock can make a melee Strike against an enemy in their reach. The morlock then can't use Leap Attack until the end of their next turn."
   - name: "Sneak Attack"
-    desc: "A morlock's Strikes deal an extra 1d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
+    desc: "A morlock's Strikes deal an extra 1d6 precision damage to [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] creatures."
   - name: "Swarming Stance"
     desc: "A morlock can share the same space as another morlock, but no more than two morlocks can occupy the same space. When morlocks share the same space, they gain a +1 circumstance bonus to attack rolls. Morlock Machinery Morlocks tend toward brutish actions and violent traditions and have little interest in bettering their societies or creating art. However, they have a strange obsession with ancient machinery and magical items, particularly clockwork constructions. Their knack for tinkering helps keep ancient guardians and traps functional, even if their work backfires now and then."
 sourcebook: "_Monster Core 2_, page 226."

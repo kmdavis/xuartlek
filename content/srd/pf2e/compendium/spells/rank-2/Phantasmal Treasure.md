@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Emotion`  `Illusion`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 60 feet
 - **Target**: 1 living creature
 - **Defense**: Will
@@ -28,7 +28,7 @@ A phantasmal image of the most precious thing imaginable to the target appears i
 
 **Critical Success** The target is unaffected.
 
-**Success** The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] with the treasure, and the duration is until the end of its turn. The target can also try to disbelieve the illusion if it touches the treasure, [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seeks]] to examine it, or speaks to it if the illusion appears to be a person or the like. If the target disbelieves the illusion, the spell ends.
+**Success** The target becomes [[srd/pf2e/compendium/rules-elements/Conditions#Fascinated|fascinated]] with the treasure, and the duration is until the end of its turn. The target can also try to disbelieve the illusion if it touches the treasure, [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seeks]] to examine it, or speaks to it if the illusion appears to be a person or the like. If the target disbelieves the illusion, the spell ends.
 
 **Failure** As success, but the duration is 1 minute.
 

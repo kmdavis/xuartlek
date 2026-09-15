@@ -18,10 +18,10 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Dragon|Dragon]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Dragon|Dragon]]
 - **Duration**: 1 minute
 
-You shape energy into a small group of tiny dragons (or other serpentine creatures) that flit around you. Choose [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]] damage when you [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast the Spell]]. For the duration of the spell, your Strikes with weapons or unarmed attacks deal 1 additional damage of the chosen type, as the dragons add their energy to your attacks. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] the spell to change the damage type. In addition, you can Sustain the spell to have the dragons fly off to bombard a creature within 60 feet. That creature takes 2d4 damage of the chosen type (basic Reflex save). Once the dragons have been used in this way, they wink out of existence and the spell ends.
+You shape energy into a small group of tiny dragons (or other serpentine creatures) that flit around you. Choose [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Force|force]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]] damage when you [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast the Spell]]. For the duration of the spell, your Strikes with weapons or unarmed attacks deal 1 additional damage of the chosen type, as the dragons add their energy to your attacks. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] the spell to change the damage type. In addition, you can Sustain the spell to have the dragons fly off to bombard a creature within 60 feet. That creature takes 2d4 damage of the chosen type (basic Reflex save). Once the dragons have been used in this way, they wink out of existence and the spell ends.
 
 ---
 **Heightened (+1)** The additional amount of damage from the dragons increases by 1 and the damage dealt by the dragons' bombardment increases by 2d4.

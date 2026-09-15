@@ -24,18 +24,18 @@ Strength or Constitution
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/greatclub|Greatclub]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Greatclub|Greatclub]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/endure|Endure]]
+[[srd/pf2e/compendium/spells/rank-1/Endure|Endure]]
 
 - **3rd**
 Shift Blame

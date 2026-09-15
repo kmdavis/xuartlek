@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Ratfolk`
 
-Your jaws unarmed attack deals 1d6 piercing damage instead of 1d4, and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/backstabber|backstabber]] trait. You can file down your teeth and regrow them later on, enabling you to select this feat at any level, and to retrain into and out of this feat.
+Your jaws unarmed attack deals 1d6 piercing damage instead of 1d4, and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Backstabber|backstabber]] trait. You can file down your teeth and regrow them later on, enabling you to select this feat at any level, and to retrain into and out of this feat.
 
 *Source: Player Core 2 p. 30*

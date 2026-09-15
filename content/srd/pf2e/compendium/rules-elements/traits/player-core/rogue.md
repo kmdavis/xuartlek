@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Rogue`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/rogue|rogue]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Rogue|rogue]] class.
 
 *Source: Player Core p. 460*

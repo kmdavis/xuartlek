@@ -15,15 +15,15 @@ socialImage: og-image.png
 
 `Monk`  `Stance`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Martial Artist|Martial Artist]] (Level 4)
 - **Requirements**: You are unarmored.
 
-You enter the stance of a dragon and make powerful leg strikes like a lashing dragon's tail. You can make dragon tail attacks that deal 1d10 bludgeoning damage. They are in the brawling group and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/backswing|backswing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] traits.
+You enter the stance of a dragon and make powerful leg strikes like a lashing dragon's tail. You can make dragon tail attacks that deal 1d10 bludgeoning damage. They are in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Backswing|backswing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] traits.
 
  While in Dragon Stance, you can ignore the first square of difficult terrain while Striding.
 
 ### Dragon Stance leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/dragon-roar|Dragon Roar]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Dragon Roar|Dragon Roar]]
 
 *Source: Player Core 2 p. 118*

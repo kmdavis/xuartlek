@@ -15,8 +15,10 @@ socialImage: og-image.png
 
 `Exemplar`  `Ikon`
 
+- **Usage**: imbued into a thrown or melee weapon ikon
+
 Your weapon flies from your hand as if propelled under its own power. The imbued ikon gains the following ability. 
 
-**Immanence** Your weapon gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown]] 15 feet trait, or increases its thrown distance by 10 feet if it already has the thrown trait.
+**Immanence** Your weapon gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown]] 15 feet trait, or increases its thrown distance by 10 feet if it already has the thrown trait.
 
 *Source: War of Immortals p. 35*

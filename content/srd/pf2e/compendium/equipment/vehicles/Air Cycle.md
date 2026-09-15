@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 - **Price**: 300 gp
 
-This clockwork vehicle consists of a small wheeled platform under a pair of wings made with a light wooden frame covered by sturdy cloth. An air cycle must be launched from a high altitude, similar to a glider. Once airborne, however, the air cycle can be kept aloft and controlled using a system of pedals and steering handles to control its speed and direction. If you stop pedaling the air cycle, it functions as a [[srd/pf2e/compendium/equipment/vehicles/glider|glider]].
+This clockwork vehicle consists of a small wheeled platform under a pair of wings made with a light wooden frame covered by sturdy cloth. An air cycle must be launched from a high altitude, similar to a glider. Once airborne, however, the air cycle can be kept aloft and controlled using a system of pedals and steering handles to control its speed and direction. If you stop pedaling the air cycle, it functions as a [[srd/pf2e/compendium/equipment/vehicles/Glider|glider]].
 
 ---
 
@@ -26,7 +26,7 @@ This clockwork vehicle consists of a small wheeled platform under a pair of wing
 
 **Passengers** 1
 
-**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] (DC 21) or [[srd/pf2e/compendium/rules-elements/skills/lore|Piloting Lore]] (DC 19)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] (DC 21) or [[srd/pf2e/compendium/rules-elements/skills/Lore|Piloting Lore]] (DC 19)
 
 ---
 
@@ -38,11 +38,11 @@ This clockwork vehicle consists of a small wheeled platform under a pair of wing
 
 **HP** 50 (BT 25)
 
-**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/Item Damage#Object Immunities|object immunities]]
 
 ---
 
-**Speed** fly 25 feet ([[srd/pf2e/compendium/rules-elements/traits/monster-core-2/clockwork|clockwork]], wind)
+**Speed** fly 25 feet ([[srd/pf2e/compendium/rules-elements/traits/monster-core-2/Clockwork|clockwork]], wind)
 
 **Collision** 2d10 (DC 19)
 

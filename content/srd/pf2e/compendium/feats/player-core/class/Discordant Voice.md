@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Bard`  `Sonic`
 
-- **Prerequisites**: [[srd/pf2e/compendium/spells/cantrips/courageous-anthem|_Courageous Anthem_]]
+- **Prerequisites**: [[srd/pf2e/compendium/spells/cantrips/Courageous Anthem|_Courageous Anthem_]]
 
 Your courageous anthem lets loose a discordant shriek that imbues your allies’ attacks with powerful sonic reverberations. While your allies are affected by your courageous anthem, their weapon Strikes and unarmed attacks deal an additional 1d6 sonic damage.
 

@@ -20,7 +20,7 @@ socialImage: og-image.png
 - **Price**: 45 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 Smearing _wounding oil_, a crimson fluid, on a weapon causes it to smell strongly of blood and gives it the benefits of the _wounding_ rune for 1 minute.
 

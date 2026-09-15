@@ -28,14 +28,14 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; (11 to find traps)"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +7, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +12, [[srd/pf2e/compendium/rules-elements/skills/lore|Underworld Lore]] +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +7, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +7, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +12, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] +12, [[srd/pf2e/compendium/rules-elements/skills/Lore|Underworld Lore]] +7"
 abilityMods: [2, 4, 1, 1, 2, 1]
 abilities_top:
   - name: "Items"
-    desc: "Climbing Kit, Composite Shortbow (10 arrows), lesser darkvision elixir, Leather Armor, Shortsword, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|Thieves' Toolkit]]"
+    desc: "Climbing Kit, Composite Shortbow (10 arrows), lesser darkvision elixir, Leather Armor, Shortsword, [[srd/pf2e/compendium/equipment/adventuring-gear/Thieves' Toolkit|Thieves' Toolkit]]"
 ac: 21
 armorclass:
   - name: "AC"
@@ -46,7 +46,7 @@ health:
     desc: "60"
 abilities_mid:
   - name: "Deny Advantage"
-    desc: "The burglar isn't [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to creatures of 4th level or lower that are [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]], flanking, or using surprise attack."
+    desc: "The burglar isn't [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to creatures of 4th level or lower that are [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]], [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]], flanking, or using surprise attack."
   - name: "Nimble Dodge"
     desc: "⬲"
   - name: "Trigger"
@@ -56,18 +56,18 @@ abilities_mid:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ shortsword +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d6+5 piercing"
+    desc: "⬻ shortsword +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d6+5 piercing"
   - name: "Melee"
-    desc: "⬻ fist +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+5 bludgeoning"
+    desc: "⬻ fist +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+5 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ composite shortbow +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 60 feet, reload 0) __Damage__ 1d6+4 piercing"
+    desc: "⬻ composite shortbow +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Propulsive|Propulsive]], range increment 60 feet, reload 0) __Damage__ 1d6+4 piercing"
 abilities_bot:
   - name: "Mobility"
     desc: "When the burglar Strides half their Speed or less, that movement does not trigger reactions."
   - name: "Sneak Attack"
-    desc: "The burglar deals an extra 1d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
+    desc: "The burglar deals an extra 1d6 precision damage to [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] creatures."
   - name: "Surprise Attack"
-    desc: "On the first round of combat, creatures that haven't acted yet are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the Burglar."
+    desc: "On the first round of combat, creatures that haven't acted yet are [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to the Burglar."
 sourcebook: "_NPC Core_, page 20."
 ```
 

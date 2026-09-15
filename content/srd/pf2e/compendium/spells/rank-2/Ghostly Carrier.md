@@ -16,8 +16,8 @@ socialImage: og-image.png
 `Concentrate`  `Manipulate`
 
 - **PFS Note**: The figure created by ghostly carrier counts as a creature for any abilities that target creatures, such as Reactive Strike.
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/abraxas|Abraxas]], [[srd/pf2e/compendium/deities/monitor-demigods/monad|Monad]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/Abraxas|Abraxas]], [[srd/pf2e/compendium/deities/monitor-demigods/Monad|Monad]]
 - **Range**: 120 feet
 - **Duration**: 1 minute
 

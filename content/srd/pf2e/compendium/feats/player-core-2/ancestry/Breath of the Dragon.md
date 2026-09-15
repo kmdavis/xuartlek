@@ -21,6 +21,6 @@ Tapping into the physiology of your draconic ancestor, you can exhale a torrent 
 
 ### Breath of the Dragon leads to...
 
-Debilitating Breath, Energize Bite, [[srd/pf2e/compendium/feats/player-core-2/ancestry/formidable-breath|Formidable Breath]], [[srd/pf2e/compendium/feats/player-core-2/ancestry/lingering-breath|Lingering Breath]]
+Debilitating Breath, Energize Bite, [[srd/pf2e/compendium/feats/player-core-2/ancestry/Formidable Breath|Formidable Breath]], [[srd/pf2e/compendium/feats/player-core-2/ancestry/Lingering Breath|Lingering Breath]]
 
 *Source: Player Core 2 p. 45*

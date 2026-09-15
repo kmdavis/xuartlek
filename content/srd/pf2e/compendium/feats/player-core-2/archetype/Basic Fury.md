@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/barbarian|Barbarian]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/barbarian-dedication|Barbarian Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Barbarian|Barbarian]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Barbarian Dedication|Barbarian Dedication]]
 
-You gain a 1st- or 2nd-level barbarian feat.
+You gain a 1st- or 2nd-level [barbarian feat](https://2e.aonprd.com/Feats.aspx?Traits=18).
 
 ### Basic Fury leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/advanced-fury|Advanced Fury]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Advanced Fury|Advanced Fury]]
 
 *Source: Player Core 2 p. 176*

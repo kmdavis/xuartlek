@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Healing`  `Manipulate`  `Vitality`  `Positive`
 
-- **Traditions**: Divine, Primal
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Cast**: 1 minute
 - **Duration**: until your next daily preparations
 

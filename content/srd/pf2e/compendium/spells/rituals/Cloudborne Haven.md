@@ -18,7 +18,7 @@ socialImage: og-image.png
 - **Cast**: 1 week
 - **Cost**: a replica keystone of the target building crafted from quartz worth 4, 500 gp
 - **Secondary Casters**: 3
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (legendary) or [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (legendary)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] (legendary) or [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] (legendary)
 - **Secondary Checks**: Arcana or Nature, Athletics
 - **Target(s)**: 1 building up to 500 feet by 500 feet
 - **Duration**: varies

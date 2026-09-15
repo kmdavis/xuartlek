@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Ranger`
 
-- **Prerequisites**: Legendary in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]; [[srd/pf2e/compendium/feats/player-core/class/master-monster-hunter|Master Monster Hunter]]
+- **Prerequisites**: Legendary in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]; [[srd/pf2e/compendium/feats/player-core/class/Master Monster Hunter|Master Monster Hunter]]
 
 Your knowledge of monsters is so incredible that it reveals glaring flaws in your prey. Your bonus from Monster Hunter (and the bonus from Monster Warden if you have it) increases from +1 to +2 for you and any allies who benefit.
 

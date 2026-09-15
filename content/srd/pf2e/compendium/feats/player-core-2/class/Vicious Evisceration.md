@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Barbarian`  `Rage`
 
-You make a vicious attack that maims your enemy. Make a melee Strike. If the Strike hits and deals damage, the target is [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]], or drained 2 on a critical success.
+You make a vicious attack that maims your enemy. Make a melee Strike. If the Strike hits and deals damage, the target is [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained 1]], or drained 2 on a critical success.
 
 *Source: Player Core 2 p. 85*

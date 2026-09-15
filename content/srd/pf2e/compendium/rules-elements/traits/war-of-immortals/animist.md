@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Animist`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/animist|animist]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Animist|animist]] class.
 
 *Source: War of Immortals p. 216*

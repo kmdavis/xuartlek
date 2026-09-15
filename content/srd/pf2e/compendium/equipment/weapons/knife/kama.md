@@ -1,7 +1,7 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/player-core
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/agile
 - trait/monk
 - trait/trip
@@ -9,7 +9,7 @@ tags:
 - weapon/level/0
 aliases: ["Kama"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=410"
-source: "Player Core"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -24,7 +24,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Knife
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Knife|Knife]]
 
 Similar to a sickle and used in some regions to reap grain, a kama has a short, slightly curved blade and a wooden handle.
 
@@ -34,6 +34,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/phantom-fang|Phantom Fang]]
+[[srd/pf2e/compendium/equipment/weapons/Phantom Fang|Phantom Fang]]
 
-*Source: Player Core p. 278*
+*Source: Tian Xia Character Guide p. 127*

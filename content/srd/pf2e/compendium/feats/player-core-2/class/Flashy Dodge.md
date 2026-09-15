@@ -15,12 +15,12 @@ socialImage: og-image.png
 `Swashbuckler`
 
 - **Trigger**: A creature you can see targets you with an attack.
-- **Requirements**: You aren’t [[srd/pf2e/compendium/rules-elements/conditions#Encumbered|encumbered]].
+- **Requirements**: You aren’t [[srd/pf2e/compendium/rules-elements/Conditions#Encumbered|encumbered]].
 
 You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack. If the Strike misses, you gain panache until the end of your next turn.
 
 ### Flashy Dodge leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/flashy-roll|Flashy Roll]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Flashy Roll|Flashy Roll]]
 
 *Source: Player Core 2 p. 163*

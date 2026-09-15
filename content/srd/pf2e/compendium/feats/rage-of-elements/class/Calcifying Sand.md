@@ -27,6 +27,6 @@ Your flesh gives way as you're struck, becoming coarse sand that can magically t
 
 **Failure** The creature is slowed 1 until the end of its next turn.
 
-**Critical Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]] until the end of its next turn.
+**Critical Failure** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Petrified|petrified]] until the end of its next turn.
 
 *Source: Rage of Elements p. 26*

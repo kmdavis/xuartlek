@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/cleric|Cleric]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/cleric-dedication|Cleric Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Cleric|Cleric]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Cleric Dedication|Cleric Dedication]]
 
-You gain the basic [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|spellcasting benefits]]. You can prepare your deity’s spells in your spell slots of the appropriate rank from the cleric archetype.
+You gain the basic [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Spellcasting Archetypes|spellcasting benefits]]. You can prepare your deity’s spells in your spell slots of the appropriate rank from the cleric archetype.
 
 ### Basic Cleric Spellcasting leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/divine-breadth|Divine Breadth]], [[srd/pf2e/compendium/feats/player-core/archetype/expert-cleric-spellcasting|Expert Cleric Spellcasting]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Divine Breadth|Divine Breadth]], [[srd/pf2e/compendium/feats/player-core/archetype/Expert Cleric Spellcasting|Expert Cleric Spellcasting]]
 
 *Source: Player Core p. 217*

@@ -28,7 +28,7 @@ perception:
     desc: "+7; aquatic echolocation 120 feet, low-light vision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +6"
 abilityMods: [2, 3, 2, -4, 3, 0]
 abilities_top:
   - name: "Aquatic Echolocation"
@@ -51,7 +51,7 @@ attacks:
     desc: "⬻ jaws +6 __Damage__ 1d6+2 piercing"
 abilities_bot:
   - name: "Ramming Speed"
-    desc: "⬺ The bottlenose dolphin Swims twice and then makes a snout Strike. As long as it moved at least 20 feet, it gains a +1 circumstance bonus to its attack roll. A Large or smaller creature hit by this attack must succeed at a DC 16 Fortitude save or be [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] for 1 round."
+    desc: "⬺ The bottlenose dolphin Swims twice and then makes a snout Strike. As long as it moved at least 20 feet, it gains a +1 circumstance bonus to its attack roll. A Large or smaller creature hit by this attack must succeed at a DC 16 Fortitude save or be [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed 1]] for 1 round."
 sourcebook: "_Monster Core_, page 103."
 ```
 

@@ -24,23 +24,23 @@ Strength or Charisma
 
 **Divine Sanctification** must choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/bastard-sword|Bastard Sword]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Bastard Sword|Bastard Sword]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Fire|Fire]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Might|Might]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Might|Might]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]]
+[[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/haste|Haste]]
+[[srd/pf2e/compendium/spells/rank-3/Haste|Haste]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/fire-shield|Fire Shield]]
+[[srd/pf2e/compendium/spells/rank-4/Fire Shield|Fire Shield]]
 
 *Source: Divine Mysteries p. 310*

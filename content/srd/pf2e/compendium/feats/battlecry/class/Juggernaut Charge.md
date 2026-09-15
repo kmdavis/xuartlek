@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 - **Requirements**: You are wearing medium or heavy armor.
 
-As you move forward in a rush, you put the weight of your armor behind an attack that can drag a foe with you. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]]. If you end your movement within melee reach of at least one enemy, you can make a melee [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against that enemy, then Stride again. If your Strike hit and dealt damage, that enemy is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Forced Movement|pulled]] with you and is moved the same direction and distance as your second Stride.
+As you move forward in a rush, you put the weight of your armor behind an attack that can drag a foe with you. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]]. If you end your movement within melee reach of at least one enemy, you can make a melee [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against that enemy, then Stride again. If your Strike hit and dealt damage, that enemy is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Forced Movement|pulled]] with you and is moved the same direction and distance as your second Stride.
 
 *Source: Battlecry! p. 45*

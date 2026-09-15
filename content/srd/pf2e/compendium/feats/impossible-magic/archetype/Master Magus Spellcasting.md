@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/magus|Magus]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/expert-magus-spellcasting|Expert Magus Spellcasting]]; Legendary in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Magus|Magus]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Expert Magus Spellcasting|Expert Magus Spellcasting]]; Legendary in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]]
 
 You gain the master spellcasting benefits.
 

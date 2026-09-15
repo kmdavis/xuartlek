@@ -28,16 +28,16 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]]; up to 4 additional languages"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Elven|Elven]]; up to 4 additional languages"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/lore|Academia Lore]] +11, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +9, [[srd/pf2e/compendium/rules-elements/skills/lore|Library Lore]] +13, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +8, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Lore|Academia Lore]] +11, [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] +9, [[srd/pf2e/compendium/rules-elements/skills/Lore|Library Lore]] +13, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +8, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +8"
 abilityMods: [0, 1, 0, 3, 2, 1]
 abilities_top:
   - name: "Research Specialist"
     desc: "A librarian is a 3rd-level challenge for encounters involving research."
   - name: "Methodical Research"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) When [[srd/pf2e/compendium/rules-elements/actions/player-core#Search|Searching]] through stacks of books, a librarian can find the answer to almost any question. This allows the librarian to use [[srd/pf2e/compendium/rules-elements/skills/lore|Library Lore]] in place of other lore skills, given enough time. The GM determines the DC of the check and the amount of time it takes (typically, a librarian can attempt three or four checks during 1 day of downtime)."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) When [[srd/pf2e/compendium/rules-elements/actions/player-core#Search|Searching]] through stacks of books, a librarian can find the answer to almost any question. This allows the librarian to use [[srd/pf2e/compendium/rules-elements/skills/Lore|Library Lore]] in place of other lore skills, given enough time. The GM determines the DC of the check and the amount of time it takes (typically, a librarian can attempt three or four checks during 1 day of downtime)."
   - name: "Items"
     desc: "books, Dagger, Writing Set"
 ac: 13
@@ -51,11 +51,11 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ book +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]]) __Damage__ 1d4 bludgeoning"
+    desc: "⬻ book +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]]) __Damage__ 1d4 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4 bludgeoning"
+    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ book +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d4 bludgeoning"
+    desc: "⬻ book +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 10 feet]]) __Damage__ 1d4 bludgeoning"
 sourcebook: "_NPC Core_, page 138."
 ```
 

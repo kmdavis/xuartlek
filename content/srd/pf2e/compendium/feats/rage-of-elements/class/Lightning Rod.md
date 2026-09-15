@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Air`  `Composite`  `Impulse`  `Kineticist`  `Metal`  `Primal`
 
-You smash a metal rod into your foe and call lightning to it. Attempt a 2-action melee or ranged Elemental Blast using the metal element. On a hit, the target takes an additional 1d12 electricity damage and is skewered with a metal rod, which gives it a –1 circumstance penalty to AC and saves against electricity; the penalty is –2 if the creature also has the [[srd/pf2e/compendium/rules-elements/traits/player-core/metal|metal]] trait, is made of metal, or is wearing metal armor. The creature can attempt to pull the rod free using an Interact action, but must succeed at a DC 10 Athletics check.
+You smash a metal rod into your foe and call lightning to it. Attempt a 2-action melee or ranged Elemental Blast using the metal element. On a hit, the target takes an additional 1d12 electricity damage and is skewered with a metal rod, which gives it a –1 circumstance penalty to AC and saves against electricity; the penalty is –2 if the creature also has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Metal|metal]] trait, is made of metal, or is wearing metal armor. The creature can attempt to pull the rod free using an Interact action, but must succeed at a DC 10 Athletics check.
 
 ---
 **Level (+6)** The electricity damage increases by 1d12.

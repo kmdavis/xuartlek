@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Dragonblood`  `Lineage`
 
-Your blood contains a tiny fragment of unusual or inexplicable power from a mysterious dragon, such as a [[srd/pf2e/compendium/gm/creature-families/dragon-conspirator|conspirator dragon]] or [[srd/pf2e/compendium/gm/creature-families/dragon-omen|omen dragon]]. You are drawn to the stranger parts of the world and can generally spot them with a glance. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]. If you would automatically become trained in Occultism (from your background or class, for example), you instead become trained in a skill of your choice. You gain the [[srd/pf2e/compendium/feats/player-core/skill/oddity-identification|Oddity Identification]] skill feat. If you choose a draconic exemplar, you must choose an occult dragon.
+Your blood contains a tiny fragment of unusual or inexplicable power from a mysterious dragon, such as a [[srd/pf2e/compendium/gm/creature-families/Dragon, Conspirator|conspirator dragon]] or [[srd/pf2e/compendium/gm/creature-families/Dragon, Omen|omen dragon]]. You are drawn to the stranger parts of the world and can generally spot them with a glance. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]. If you would automatically become trained in Occultism (from your background or class, for example), you instead become trained in a skill of your choice. You gain the [[srd/pf2e/compendium/feats/player-core/skill/Oddity Identification|Oddity Identification]] skill feat. If you choose a draconic exemplar, you must choose an occult dragon.
 
 ### Occult Dragonblood leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/ancestry/traditional-resistances|Traditional Resistances]]
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Traditional Resistances|Traditional Resistances]]
 
 *Source: Player Core 2 p. 45*

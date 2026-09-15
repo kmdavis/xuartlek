@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Water`
 
-- **Traditions**: Arcane, Divine, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 0 feet
 
 As you cup your hands, water begins to flow forth from them. You create 2 gallons of water. If no one drinks it, it evaporates after 1 day.

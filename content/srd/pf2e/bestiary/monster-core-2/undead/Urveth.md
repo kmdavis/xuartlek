@@ -32,10 +32,10 @@ modifier: 32
 perception:
   - name: "Perception"
     desc: "+32; greater darkvision, lifesense 60 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]; telepathy 100 feet"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/Languages#Necril|Necril]]; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +29, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +35, [[srd/pf2e/compendium/rules-elements/skills/lore|Netherworld Lore]] +31, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +32, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +31, [[srd/pf2e/compendium/rules-elements/skills/lore|Void Lore]] +31"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] +29, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +35, [[srd/pf2e/compendium/rules-elements/skills/Lore|Netherworld Lore]] +31, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +32, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +31, [[srd/pf2e/compendium/rules-elements/skills/Lore|Void Lore]] +31"
 abilityMods: [10, 5, 8, 5, 6, 6]
 ac: 40
 armorclass:
@@ -44,40 +44,40 @@ armorclass:
 hp: 460
 health:
   - name: "HP"
-    desc: "460 (void healing); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Death Effects|death effects]], disease, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 15; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 15, [[srd/pf2e/compendium/equipment/materials/silver|silver]] 15"
+    desc: "460 (void healing); __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Death Effects|death effects]], disease, [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]] 15; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]] 15, [[srd/pf2e/compendium/equipment/materials/Silver|silver]] 15"
 abilities_mid:
   - name: "Entropy's Shadow"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]) 60 feet. Darvakkas leak entropy and corruption from their very being. A living creature entering or starting its turn in the aura takes 5d6 void damage with a DC 38 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude save. If it fails, it's also [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 for 1 minute and pulled 10 feet toward the darvakka."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]]) 60 feet. Darvakkas leak entropy and corruption from their very being. A living creature entering or starting its turn in the aura takes 5d6 void damage with a DC 38 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Fortitude save. If it fails, it's also [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]] 1 for 1 minute and pulled 10 feet toward the darvakka."
   - name: "Sunlight Powerlessness"
-    desc: "A darvakka caught in sunlight is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 2 and [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 2 as long as it remains in the sunlight."
+    desc: "A darvakka caught in sunlight is [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]] 2 and [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]] 2 as long as it remains in the sunlight."
   - name: "Reactive Strike"
     desc: "⬲ claw only. An urveth gains 3 extra reactions each round that they can use only to make Reactive Strikes."
 speed: "25 feet, burrow 60 feet, fly"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +36 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 3d10+14 slashing plus 2d10 cold and Improved Grab"
+    desc: "⬻ jaws +36 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 3d10+14 slashing plus 2d10 cold and Improved Grab"
   - name: "Melee"
-    desc: "⬻ claw +36 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 3d6+14 slashing plus 2d10 cold"
+    desc: "⬻ claw +36 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 3d6+14 slashing plus 2d10 cold"
   - name: "Melee"
-    desc: "⬻ stinger +36 ([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 3d6+14 piercing plus 2d10 cold and urveth venom"
+    desc: "⬻ stinger +36 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 20 feet]]) __Damage__ 3d6+14 piercing plus 2d10 cold and urveth venom"
 abilities_bot:
   - name: "Frenzy"
     desc: "⬺ The urveth makes two claw Strikes and one stinger Strike in any order."
   - name: "Swallow Whole"
-    desc: "⬻ Huge, 2d10+5 bludgeoning, Rupture 35. A living creature that ends its turn swallowed whole by an urveth becomes [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1 or increases its drained condition by 1, and the urveth gains 10 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]]. A creature whose drained condition increases to 5 in this way dies."
+    desc: "⬻ Huge, 2d10+5 bludgeoning, Rupture 35. A living creature that ends its turn swallowed whole by an urveth becomes [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]] 1 or increases its drained condition by 1, and the urveth gains 10 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Temporary Hit Points|temporary Hit Points]]. A creature whose drained condition increases to 5 in this way dies."
   - name: "Urveth Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]]) Saving Throw DC 37 Fortitude"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]]) Saving Throw DC 37 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
     desc: "3d6 void damage and 2d6 poison damage (1 round)"
   - name: "Stage 2"
-    desc: "3d6 void damage, 2d6 poison damage, and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 2 (1 round)"
+    desc: "3d6 void damage, 2d6 poison damage, and [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]] 2 (1 round)"
   - name: "Stage 3"
     desc: "3d6 void damage, 2d6 poison damage, and enfeebled 4 (1 round)"
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 40 - __Cantrips (9th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]] - __4th__ [[srd/pf2e/compendium/spells/rank-2/darkness|Darkness]] (at will) - __8th__ [[srd/pf2e/compendium/spells/rank-1/harm|Harm]] (×3), [[srd/pf2e/compendium/spells/rank-7/eclipse-burst|Eclipse Burst]], [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (to [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]]; [[srd/pf2e/compendium/gm/planes#The Void|the Void]]; or [[srd/pf2e/compendium/gm/planes#The Netherworld|the Netherworld]] only), [[srd/pf2e/compendium/spells/rank-6/truesight|Truesight]] - __Constant (9th)__ [[srd/pf2e/compendium/spells/rank-4/fly|Fly]]"
+    desc: "DC 40 - __Cantrips (9th)__ [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]] - __4th__ [[srd/pf2e/compendium/spells/rank-2/Darkness|Darkness]] (at will) - __8th__ [[srd/pf2e/compendium/spells/rank-1/Harm|Harm]] (×3), [[srd/pf2e/compendium/spells/rank-7/Eclipse Burst|Eclipse Burst]], [[srd/pf2e/compendium/spells/rank-7/Interplanar Teleport|Interplanar Teleport]] (to [[srd/pf2e/compendium/gm/Planes#The Universe|the Universe]]; [[srd/pf2e/compendium/gm/Planes#The Void|the Void]]; or [[srd/pf2e/compendium/gm/Planes#The Netherworld|the Netherworld]] only), [[srd/pf2e/compendium/spells/rank-6/Truesight|Truesight]] - __Constant (9th)__ [[srd/pf2e/compendium/spells/rank-4/Fly|Fly]]"
 sourcebook: "_Monster Core 2_, page 86."
 ```
 

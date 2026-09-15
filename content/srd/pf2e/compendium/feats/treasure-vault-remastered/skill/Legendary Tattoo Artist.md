@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/treasure-vault-remastered/archetype/tattoo-artist|Tattoo Artist]]; Master in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/treasure-vault-remastered/archetype/Tattoo Artist|Tattoo Artist]]; Master in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-Your craftsmanship at decorating flesh is unparalleled. You become legendary in Crafting. Whenever you craft a magical tattoo whose level is at least 3 lower than your level, increase all attack roll and DC values of the tattoo's activated abilities by 1, and increase all resistances granted by the tattoo by 1.
+Your craftsmanship at decorating flesh is unparalleled. You become legendary in Crafting. Whenever you craft a [magical tattoo](https://2e.aonprd.com/Equipment.aspx?Category=46) whose level is at least 3 lower than your level, increase all attack roll and DC values of the tattoo's activated abilities by 1, and increase all resistances granted by the tattoo by 1.
 
 *Source: Treasure Vault (Remastered) p. 118*

@@ -18,7 +18,7 @@ socialImage: og-image.png
 - **Cast**: 7 days
 - **Cost**: rare oils and powdered minerals worth 5, 000 gp
 - **Secondary Casters**: 2
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert, the check has the [[srd/pf2e/compendium/rules-elements/traits/player-core/secret|secret]] trait)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] or [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] (expert, the check has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Secret|secret]] trait)
 - **Secondary Checks**: Arcana or Occultism (whichever isn’t used for the primary check), Society
 - **Range**: 20 feet
 - **Target(s)**: up to seven willing creatures of 14th level or lower

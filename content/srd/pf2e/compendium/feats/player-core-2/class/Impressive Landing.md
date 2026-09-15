@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Trigger**: You fall at least 10 feet and land on a solid surface.
 
-You slam into the ground, shattering it around you. Treat the fall as 10 feet shorter. You land on your feet. The ground in a 5-foot emanation becomes difficult terrain. Any creature in the emanation when you land takes 5 bludgeoning damage as the debris hits it and is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the start of its next turn.
+You slam into the ground, shattering it around you. Treat the fall as 10 feet shorter. You land on your feet. The ground in a 5-foot emanation becomes difficult terrain. Any creature in the emanation when you land takes 5 bludgeoning damage as the debris hits it and is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] until the start of its next turn.
 
 *Source: Player Core 2 p. 82*

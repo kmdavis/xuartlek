@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Minotaur`
 
-The touch of divine meddling still runs through you, whether you want it or not. Choose one [[srd/pf2e/compendium/rules-elements/traits/player-core/cantrip|cantrip]] from the divine spell list. You can cast this cantrip as a divine innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
+The touch of divine meddling still runs through you, whether you want it or not. Choose one [[srd/pf2e/compendium/rules-elements/traits/player-core/Cantrip|cantrip]] from the [divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2) spell list. You can cast this cantrip as a divine innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
 
 *Source: Howl of the Wild p. 43*

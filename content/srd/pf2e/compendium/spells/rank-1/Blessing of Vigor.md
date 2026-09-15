@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Healing`  `Manipulate`  `Vitality`  `Positive`
 
-- **Tradition**: Divine
+- **Tradition**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2)
 - **Range**: 30 feet
 - **Target**: you or 1 ally
 - **Duration**: 3 rounds

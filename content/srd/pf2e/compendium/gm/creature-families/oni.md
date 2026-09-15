@@ -16,7 +16,7 @@ Oni are large, brutal creatures originating in Tian Xia who resemble humanoids w
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core/giant/caldera-oni|Caldera Oni]] (Creature 14), [[srd/pf2e/bestiary/monster-core/giant/island-oni|Island Oni]] (Creature 17), [[srd/pf2e/bestiary/monster-core/giant/mountain-oni|Mountain Oni]] (Creature 8), [[srd/pf2e/bestiary/monster-core/giant/snow-oni|Snow Oni]] (Creature 13)
+[[srd/pf2e/bestiary/monster-core/giant/Caldera Oni|Caldera Oni]] (Creature 14), [[srd/pf2e/bestiary/monster-core/giant/Island Oni|Island Oni]] (Creature 17), [[srd/pf2e/bestiary/monster-core/giant/Mountain Oni|Mountain Oni]] (Creature 8), [[srd/pf2e/bestiary/monster-core/giant/Snow Oni|Snow Oni]] (Creature 13)
 
 ### Kishin Oni
 

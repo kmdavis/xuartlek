@@ -18,8 +18,8 @@ socialImage: og-image.png
 
 `Auditory`  `Concentrate`  `Linguistic`  `Mental`  `Wizard`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]
 
-All the time you’ve spent discussing esoteric theses and performing spell incantations has made your words magical even when you aren’t casting a full spell. Choose a creature within 30 feet who can hear and understand you, and attempt an [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] check against their Will DC. On a success, your seemingly mundane speech is laced with spellbinding magic, preventing your target from using reactions until the start of your next turn. Regardless of the result, the creature is temporarily immune to your Spellbinding Speech for 24 hours.
+All the time you’ve spent discussing esoteric theses and performing spell incantations has made your words magical even when you aren’t casting a full spell. Choose a creature within 30 feet who can hear and understand you, and attempt an [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] check against their Will DC. On a success, your seemingly mundane speech is laced with spellbinding magic, preventing your target from using reactions until the start of your next turn. Regardless of the result, the creature is temporarily immune to your Spellbinding Speech for 24 hours.
 
 *Source: Impossible Magic p. 109*

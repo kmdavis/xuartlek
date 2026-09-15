@@ -1,6 +1,7 @@
 ---
 title: "Special Ancestry Rules"
 aliases: ["Special Ancestry Rules"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Howl of the Wild"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3269"
 citation: "Howl of the Wild pg. 9"
-socialImage: og-image.png
 ---
 
 # Special Ancestry Rules
@@ -20,8 +20,8 @@ Some of the new ancestries presented in this book require unique rules to fully 
 
 ## Contents
 
-- [[srd/pf2e/books/howl-of-the-wild/special-ancestry-rules/large-pcs|Large PCs]]
-- [[srd/pf2e/books/howl-of-the-wild/special-ancestry-rules/tiny-pcs|Tiny PCs]]
-- [[srd/pf2e/books/howl-of-the-wild/special-ancestry-rules/riding-pcs|Riding PCs]]
-- [[srd/pf2e/books/howl-of-the-wild/special-ancestry-rules/aquatic-pcs|Aquatic PCs]]
-- [[srd/pf2e/books/howl-of-the-wild/special-ancestry-rules/flying-pcs|Flying PCs]]
+- [[srd/pf2e/books/howl-of-the-wild/special-ancestry-rules/Large PCs|Large PCs]]
+- [[srd/pf2e/books/howl-of-the-wild/special-ancestry-rules/Tiny PCs|Tiny PCs]]
+- [[srd/pf2e/books/howl-of-the-wild/special-ancestry-rules/Riding PCs|Riding PCs]]
+- [[srd/pf2e/books/howl-of-the-wild/special-ancestry-rules/Aquatic PCs|Aquatic PCs]]
+- [[srd/pf2e/books/howl-of-the-wild/special-ancestry-rules/Flying PCs|Flying PCs]]

@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Curse`  `Manipulate`  `Mental`
 
-- **Traditions**: Divine, Occult
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: touch
 - **Target**: 1 creature
 - **Defense**: Will
@@ -27,7 +27,7 @@ You touch the target to afflict it with the overwhelming desire to eat raw meat.
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]] by its unbidden hunger.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened 1]] by its unbidden hunger.
 
 **Failure** The target is sickened 2 and can't reduce this condition below sickened 1 until it first consumes some raw meat; if the creature doesn't have access to raw meat, it can take a bite out of a corpse within reach as an Interact action.
 

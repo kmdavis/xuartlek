@@ -18,7 +18,7 @@ socialImage: og-image.png
 - **Cast**: 1 day
 - **Cost**: fine inks, pens, and papers worth 150 gp
 - **Secondary Casters**: 1
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (master)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] (master)
 - **Secondary Checks**: Occultism, or Society
 - **Target(s)**: 1 blank sheet of parchment
 

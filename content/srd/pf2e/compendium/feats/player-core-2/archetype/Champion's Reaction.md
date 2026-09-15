@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/champion|Champion]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/champion-dedication|Champion Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Champion|Champion]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Champion Dedication|Champion Dedication]]
 
-You can gain and use the champion’s reaction associated with your [[srd/pf2e/compendium/character/causes|cause]].
+You can gain and use the champion’s reaction associated with your [[srd/pf2e/compendium/character/Causes|cause]].
 
 *Source: Player Core 2 p. 177*

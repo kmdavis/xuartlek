@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Runesmith
 
-At 1st level and every even-numbered level thereafter, you gain a runesmith class feat.
+At 1st level and every even-numbered level thereafter, you gain a [runesmith class feat.](https://2e.aonprd.com/Feats.aspx?Traits=952)
 
 *Source: Impossible Magic p. 43*

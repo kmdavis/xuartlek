@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/gelid-shard|Gelid Shard]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Gelid Shard|Gelid Shard]]
 
 You have unlocked the deeper magic of your _gelid shard_, gaining access to new levels of spells. You gain the master spellcasting benefits.
 

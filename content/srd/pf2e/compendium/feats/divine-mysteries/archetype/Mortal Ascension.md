@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/mortal-herald|Mortal Herald]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/mortal-herald-dedication|Mortal Herald Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Mortal Herald|Mortal Herald]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Mortal Herald Dedication|Mortal Herald Dedication]]
 
-Your power uplifts you, breaking the bonds between you and the ground. You gain a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Fly Speed|fly Speed]] equal to your Speed.
+Your power uplifts you, breaking the bonds between you and the ground. You gain a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Fly Speed|fly Speed]] equal to your Speed.
 
 *Source: Divine Mysteries p. 280*

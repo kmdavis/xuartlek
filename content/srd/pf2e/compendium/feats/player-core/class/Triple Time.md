@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Bard`
 
-You learn the [[srd/pf2e/compendium/spells/cantrips/triple-time|_triple time_]] composition cantrip, which speeds up you and your allies for a round.
+You learn the [[srd/pf2e/compendium/spells/cantrips/Triple Time|_triple time_]] composition cantrip, which speeds up you and your allies for a round.
 
 *Source: Player Core p. 103*

@@ -16,16 +16,16 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`  `Multiclass`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/guardian|Guardian]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Guardian|Guardian]]
 - **Prerequisites**: Strength +2; Constitution +2
 
-You become trained in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]; if you were already trained in Athletics, you instead become trained in a skill of your choice. You become trained in guardian class DC. 
+You become trained in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]; if you were already trained in Athletics, you instead become trained in a skill of your choice. You become trained in guardian class DC. 
 You become trained in light armor and medium armor. If you already were trained in light armor and medium armor, you gain training in heavy armor as well. Whenever you gain a class feature that grants you expert or greater proficiency in any type of armor (but not unarmored defense), you also gain that proficiency in the armor types granted to you by this feat. If you have a class feature that grants you expert proficiency in unarmored defense and you're 13th level or higher, you also become an expert in the armor types granted to you by this feat. 
 
 You can use the [[srd/pf2e/compendium/rules-elements/actions/battlecry#Taunt|Taunt]] action.
 
 ### Guardian Dedication leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/archetype/basic-defender|Basic Defender]], [[srd/pf2e/compendium/feats/battlecry/archetype/guardian-resiliency|Guardian Resiliency]], [[srd/pf2e/compendium/feats/battlecry/archetype/guardians-intercept|Guardian's Intercept]], [[srd/pf2e/compendium/feats/battlecry/archetype/ironclad-fortitude|Ironclad Fortitude]]
+[[srd/pf2e/compendium/feats/battlecry/archetype/Basic Defender|Basic Defender]], [[srd/pf2e/compendium/feats/battlecry/archetype/Guardian Resiliency|Guardian Resiliency]], [[srd/pf2e/compendium/feats/battlecry/archetype/Guardian's Intercept|Guardian's Intercept]], [[srd/pf2e/compendium/feats/battlecry/archetype/Ironclad Fortitude|Ironclad Fortitude]]
 
 *Source: Battlecry! p. 53*

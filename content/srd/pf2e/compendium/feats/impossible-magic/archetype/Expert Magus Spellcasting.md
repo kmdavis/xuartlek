@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/magus|Magus]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/basic-magus-spellcasting|Basic Magus Spellcasting]]; Master in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Magus|Magus]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Basic Magus Spellcasting|Basic Magus Spellcasting]]; Master in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]]
 
-You gain the [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|expert spellcasting benefits]].
+You gain the [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Spellcasting Archetypes|expert spellcasting benefits]].
 
 ### Expert Magus Spellcasting leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/archetype/master-magus-spellcasting|Master Magus Spellcasting]]
+[[srd/pf2e/compendium/feats/impossible-magic/archetype/Master Magus Spellcasting|Master Magus Spellcasting]]
 
 *Source: Impossible Magic p. 88*

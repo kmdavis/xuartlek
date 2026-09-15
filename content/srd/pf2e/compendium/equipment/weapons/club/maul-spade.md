@@ -23,9 +23,9 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Advanced
-- **Group**: Club
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|Club]]
 
-This heavy, club-like weapon can clobber foes, but it also functions as a shovel. A maul spade adds its item bonus from weapon potency runes (if any) as an item bonus on checks made with [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] and appropriate [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] skills (such as Labor Lore) when using it as a shovel to dig.
+This heavy, club-like weapon can clobber foes, but it also functions as a shovel. A maul spade adds its item bonus from weapon potency runes (if any) as an item bonus on checks made with [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] and appropriate [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] skills (such as Labor Lore) when using it as a shovel to dig.
 
 ### Critical Specialization Effects
 

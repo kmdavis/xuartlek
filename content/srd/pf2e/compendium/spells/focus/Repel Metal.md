@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Metal`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Metal|Metal]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Metal|Metal]]
 - **Trigger**: A [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with a metallic weapon or projectile would hit you or an ally within range.
 - **Range**: 60 feet
 - **Target**: the creature targeted by the triggering Strike

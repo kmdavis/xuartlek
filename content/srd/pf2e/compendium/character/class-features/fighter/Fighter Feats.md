@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Fighter
 
-At 1st level and every even-numbered level, you gain a fighter class feat.
+At 1st level and every even-numbered level, you gain a [fighter class feat](https://2e.aonprd.com/Feats.aspx?Traits=71).
 
 *Source: Player Core p. 136*

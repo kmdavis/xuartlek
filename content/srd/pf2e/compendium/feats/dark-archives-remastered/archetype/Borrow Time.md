@@ -14,11 +14,11 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/chronoskimmer|Chronoskimmer]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Chronoskimmer|Chronoskimmer]]
 - **Frequency**: once per minute
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/chronoskimmer-dedication|Chronoskimmer Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Chronoskimmer Dedication|Chronoskimmer Dedication]]
 - **Trigger**: Your turn begins.
 
-You reach ahead and make use of time that's yet to be. You become [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] and can use the extra action to Step, Stride, or Strike. You gain this extra action immediately and can use it this turn. At the end of your turn, you become [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1.
+You reach ahead and make use of time that's yet to be. You become [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]] and can use the extra action to Step, Stride, or Strike. You gain this extra action immediately and can use it this turn. At the end of your turn, you become [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]] 1.
 
 *Source: Dark Archives (Remastered) p. 186*

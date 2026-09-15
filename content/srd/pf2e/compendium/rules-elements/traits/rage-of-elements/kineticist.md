@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Kineticist`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/kineticist|kineticist]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Kineticist|kineticist]] class.
 
 *Source: Rage of Elements p. 237*

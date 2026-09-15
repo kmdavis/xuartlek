@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Focus`  `Manipulate`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Demonic|Demonic]]
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Demonic|Demonic]]
 - **Area**: 60-foot cone
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex
 
 You evoke the energy of a part of the Outer Rifts. The damage types of the spell (one energy and one physical) are based on the result of rolling on the table below.
 

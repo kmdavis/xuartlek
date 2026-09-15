@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Requirements**: Your most recent action was to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|cast]] a noncantrip spell.
 
-You use vestiges of magic to create a protective vortex. Until the start of your next turn, you gain a +1 status bonus to AC against ranged weapon [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attacks]] and physical ranged unarmed attacks.
+You use vestiges of magic to create a protective vortex. Until the start of your next turn, you gain a +1 status bonus to AC against ranged weapon [[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attacks]] and physical ranged unarmed attacks.
 
 *Source: Player Core 2 p. 154*

@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Monk`
 
-Abilities with this trait are from the [[srd/pf2e/compendium/character/classes/monk|monk]] class. A weapon with this trait is primarily used by monks.
+Abilities with this trait are from the [[srd/pf2e/compendium/character/classes/Monk|monk]] class. A weapon with this trait is primarily used by monks.
 
 *Source: Player Core p. 282*

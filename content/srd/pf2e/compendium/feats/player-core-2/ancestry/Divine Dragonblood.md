@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Dragonblood`  `Lineage`
 
-You can trace your lineage to a dragon with almost deific powers, such as a [[srd/pf2e/compendium/gm/creature-families/dragon-diabolic|diabolic dragon]] or [[srd/pf2e/compendium/gm/creature-families/dragon-empyreal|empyreal dragon]]. You are blessed with a small bit of divine protection. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]. If you would automatically become trained in Religion (from your background or class, for example), you instead become trained in a skill of your choice. In addition, you are endowed quick reactions. You gain a +1 circumstance bonus to initiative rolls. If you choose a draconic exemplar, you must choose a divine dragon.
+You can trace your lineage to a dragon with almost deific powers, such as a [[srd/pf2e/compendium/gm/creature-families/Dragon, Diabolic|diabolic dragon]] or [[srd/pf2e/compendium/gm/creature-families/Dragon, Empyreal|empyreal dragon]]. You are blessed with a small bit of divine protection. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]. If you would automatically become trained in Religion (from your background or class, for example), you instead become trained in a skill of your choice. In addition, you are endowed quick reactions. You gain a +1 circumstance bonus to initiative rolls. If you choose a draconic exemplar, you must choose a divine dragon.
 
 ### Divine Dragonblood leads to...
 
-Blood and Spirit, [[srd/pf2e/compendium/feats/player-core-2/ancestry/traditional-resistances|Traditional Resistances]]
+Blood and Spirit, [[srd/pf2e/compendium/feats/player-core-2/ancestry/Traditional Resistances|Traditional Resistances]]
 
 *Source: Player Core 2 p. 45*

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Cleric`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/mortal-herald|Mortal Herald]] (Level 18)
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Mortal Herald|Mortal Herald]] (Level 18)
 - **Prerequisites**: holy
 
 Your deeds have brought your deity’s grace to you for all of eternity. You’re continuously surrounded by a bless spell, with a spell rank equal to half your level (rounded up). The radius is 15 feet, and you can’t increase it. You can Dismiss the spell; if you do, it returns automatically after 1 minute.

@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Barbarian`  `Fighter`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/rivethun-invoker|Rivethun Invoker]] (Level 12)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/barreling-charge|Barreling Charge]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Rivethun Invoker|Rivethun Invoker]] (Level 12)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Barreling Charge|Barreling Charge]]
 
 You trample foes as you charge past. When you use Barreling Charge and successfully move through a creature’s space, that creature takes bludgeoning damage equal to your Strength modifier. On a critical success, the creature takes double damage and is off-guard until the end of your next turn.
 

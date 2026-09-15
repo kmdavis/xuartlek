@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Uncommon`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/abraxas|Abraxas]], [[srd/pf2e/compendium/deities/other-gods/groetus|Groetus]], [[srd/pf2e/compendium/deities/monitor-demigods/liisglan|Liisglan]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]], Wards of the Pharaoh
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/Abraxas|Abraxas]], [[srd/pf2e/compendium/deities/other-gods/Groetus|Groetus]], [[srd/pf2e/compendium/deities/monitor-demigods/Liisglan|Liisglan]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Nethys|Nethys]], Wards of the Pharaoh
 - **Range**: 120 feet
 - **Target**: 1 magic item or spell effect
 - **Defense**: basic Reflex (see text)

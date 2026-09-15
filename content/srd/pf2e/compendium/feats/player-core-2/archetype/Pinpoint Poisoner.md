@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Alchemist`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/poisoner|Poisoner]] (Level 10)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Poisoner|Poisoner]] (Level 10)
 
-Unsuspecting targets are especially vulnerable to your poisons. When you successfully Strike an [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creature with a poisoned weapon or expose an off-guard creature to an [[srd/pf2e/compendium/rules-elements/traits/gm-core/inhaled|inhaled]] poison, that creature takes a –2 circumstance penalty to its initial save against that poison.
+Unsuspecting targets are especially vulnerable to your poisons. When you successfully Strike an [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] creature with a poisoned weapon or expose an off-guard creature to an [[srd/pf2e/compendium/rules-elements/traits/gm-core/Inhaled|inhaled]] poison, that creature takes a –2 circumstance penalty to its initial save against that poison.
 
 *Source: Player Core 2 p. 67*

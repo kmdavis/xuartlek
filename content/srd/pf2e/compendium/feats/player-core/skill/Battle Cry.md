@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
 When you roll initiative, you can yell a mighty battle cry and Demoralize an observed foe as a free action. If you’re legendary in Intimidation, you can use a reaction to Demoralize your foe when you critically succeed at an attack roll.
 

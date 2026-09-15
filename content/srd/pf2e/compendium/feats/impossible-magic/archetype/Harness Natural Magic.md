@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`  `Magical`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/living-nexus|Living Nexus]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Living Nexus|Living Nexus]]
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/living-nexus-dedication|Living Nexus Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Living Nexus Dedication|Living Nexus Dedication]]
 - **Trigger**: Your turn begins.
 
 Although it’s often faint, you can sense the presence of magic all around you. Your internal nexus takes in that magic as easy as breathing. You become overflowing as if you have Absorbed Magic.

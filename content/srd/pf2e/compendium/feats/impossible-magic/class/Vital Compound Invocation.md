@@ -18,6 +18,6 @@ socialImage: og-image.png
 
 `Healing`  `Invocation`  `Runesmith`  `Vitality`  `Positive`
 
-You can invoke runes from traditions that manipulate vital energy to restore flesh. You [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Invoke Rune|Invoke two Runes]]—one must be a divine rune, and one must be a primal rune. In addition to the runes’ normal effects, one creature that’s within 30 feet of both invoked runes regains Hit Points equal to 5 + double your level.
+You can invoke runes from traditions that manipulate vital energy to restore flesh. You [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Invoke Rune|Invoke two Runes]]—one must be a [divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2) rune, and one must be a [primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4) rune. In addition to the runes’ normal effects, one creature that’s within 30 feet of both invoked runes regains Hit Points equal to 5 + double your level.
 
 *Source: Impossible Magic p. 50*

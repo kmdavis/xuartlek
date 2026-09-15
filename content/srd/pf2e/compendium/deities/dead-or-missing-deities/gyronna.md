@@ -24,23 +24,23 @@ Wisdom or Charisma
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|Dagger]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|Dagger]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/domains#Pain|Pain]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/Domains#Pain|Pain]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/ill-omen|Ill Omen]]
+[[srd/pf2e/compendium/spells/rank-1/Ill Omen|Ill Omen]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/paranoia|Paranoia]]
+[[srd/pf2e/compendium/spells/rank-2/Paranoia|Paranoia]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/never-mind|Never Mind]]
+[[srd/pf2e/compendium/spells/rank-6/Never Mind|Never Mind]]
 
 *Source: Divine Mysteries p. 312*

@@ -28,16 +28,16 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; (11 to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]])"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +7, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +7, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +7, [[srd/pf2e/compendium/rules-elements/skills/lore|Firearm Lore]] +14, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +9, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +9, [[srd/pf2e/compendium/rules-elements/skills/lore|Underworld Lore]] +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +7, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +7, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +7, [[srd/pf2e/compendium/rules-elements/skills/Lore|Firearm Lore]] +14, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +9, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +9, [[srd/pf2e/compendium/rules-elements/skills/Lore|Underworld Lore]] +9"
 abilityMods: [0, 3, 0, 1, 3, 3]
 abilities_top:
   - name: "Arms Dealing Specialist"
     desc: "For encounters involving the purchase of weapons, the arms dealer is a 5th-level challenge."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/firearm/flintlock-musket|Flintlock Musket]] (20 rounds), Hand Cannon (20 rounds), [[srd/pf2e/compendium/equipment/assistive-items/cane|sword cane]]"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/firearm/Flintlock Musket|Flintlock Musket]] (20 rounds), Hand Cannon (20 rounds), [[srd/pf2e/compendium/equipment/assistive-items/Cane|sword cane]]"
 ac: 17
 armorclass:
   - name: "AC"
@@ -45,20 +45,20 @@ armorclass:
 hp: 28
 health:
   - name: "HP"
-    desc: "28 __You Call That a Gun?__ The arms dealer seems unaffected by your attempts to threaten them. The arms dealer gains a +2 circumstance bonus to their Will DC against [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] checks while they're holding a firearm."
+    desc: "28 __You Call That a Gun?__ The arms dealer seems unaffected by your attempts to threaten them. The arms dealer gains a +2 circumstance bonus to their Will DC against [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] checks while they're holding a [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|firearm]]."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ sword cane +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concealable|Concealable]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+2 piercing"
+    desc: "⬻ sword cane +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concealable|Concealable]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]]) __Damage__ 1d6+2 piercing"
   - name: "Melee"
-    desc: "⬻ fist +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ fist +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ flintlock musket +11 ([[srd/pf2e/compendium/rules-elements/traits/npc-core/concussive|Concussive]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d10]], range increment 70 feet, reload 1) __Damage__ 1d6+3 piercing"
+    desc: "⬻ flintlock musket +11 ([[srd/pf2e/compendium/rules-elements/traits/npc-core/Concussive|Concussive]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fatal|fatal d10]], range increment 70 feet, reload 1) __Damage__ 1d6+3 piercing"
   - name: "Ranged"
-    desc: "⬻ hand cannon +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core-2/modular|modular B]], or S; range increment 30 feet; reload 1) __Damage__ 1d6+3 modular"
+    desc: "⬻ hand cannon +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core-2/Modular|modular B]], or S; range increment 30 feet; reload 1) __Damage__ 1d6+3 modular"
 abilities_bot:
   - name: "Take Stock"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The arms dealer advises an ally on how to properly use a firearm. The arms dealer chooses an ally within 30 feet wielding a firearm. That ally can use a reaction to Interact to reload their firearm."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]]) The arms dealer advises an ally on how to properly use a firearm. The arms dealer chooses an ally within 30 feet wielding a firearm. That ally can use a reaction to Interact to reload their firearm."
 sourcebook: "_NPC Core_, page 76."
 ```
 

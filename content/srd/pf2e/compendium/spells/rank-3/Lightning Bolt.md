@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Electricity`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/cernunnos|Cernunnos]], [[srd/pf2e/compendium/deities/vudrani-gods/chamidu|Chamidu]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]], Nalinivati, [[srd/pf2e/compendium/deities/orc-gods/rull|Rull]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/Cernunnos|Cernunnos]], [[srd/pf2e/compendium/deities/vudrani-gods/Chamidu|Chamidu]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Gozreh|Gozreh]], Nalinivati, [[srd/pf2e/compendium/deities/orc-gods/Rull|Rull]]
 - **Area**: 120-foot line
 - **Defense**: basic Reflex
 

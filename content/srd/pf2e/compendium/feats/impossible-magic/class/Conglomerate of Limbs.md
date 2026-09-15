@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-You call forth a lumbering mass of fleshy limbs. You learn the [[srd/pf2e/compendium/spells/focus/conglomerate-of-limbs|_conglomerate of limbs_]] grave spell.
+You call forth a lumbering mass of fleshy limbs. You learn the [[srd/pf2e/compendium/spells/focus/Conglomerate of Limbs|_conglomerate of limbs_]] grave spell.
 
 *Source: Impossible Magic p. 37*

@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/cavalier|Cavalier]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/cavalier-dedication|Cavalier Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Cavalier|Cavalier]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Cavalier Dedication|Cavalier Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 - **Requirements**: You are riding your mount.
 
 You've trained your mount to make an impressive attack and can leverage its presence to terrify your enemies. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] to order your mount to rear up and make a melee Strike against a creature within its reach. On a successful hit, you can attempt an Intimidation check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] the target. You gain a +1 circumstance bonus to this Intimidation check (+2 if the Strike was a critical hit).

@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Force`  `Manipulate`
 
-- **Traditions**: Arcane, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 60 feet
 - **Area**: varies
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex
 
 You conjure a magical cloud that batters creatures with shards of solidified magic. Creatures in the spell's area take force damage with a basic Reflex save. The number of actions you spend when Casting this Spell determines the area and other parameters.
 

@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Frequency**: Your turn begins.
 
-Your hands flow unbidden, tracing runes as if by purest instinct. You become [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] until the end of your turn and can use the extra action only to [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Trace Rune|Trace a Rune]] (including to supply 1 action if using the 2-action version of Trace Rune). Focused on the act of creation, you can’t use invocation actions this turn.
+Your hands flow unbidden, tracing runes as if by purest instinct. You become [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]] until the end of your turn and can use the extra action only to [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Trace Rune|Trace a Rune]] (including to supply 1 action if using the 2-action version of Trace Rune). Focused on the act of creation, you can’t use invocation actions this turn.
 
 *Source: Impossible Magic p. 50*

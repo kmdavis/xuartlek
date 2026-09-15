@@ -16,13 +16,13 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Occult
-- **Spell Lists**: Elemental
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
 - **Range**: 30 feet
 - **Target**: 1 unattended object of Light bulk or less
 - **Duration**: sustained
 
-You create a floating, magical hand, either [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] or ghostlike, that grasps the target object and levitates it slowly up to 20 feet in any direction. When you Sustain the spell, you can move the object an additional 20 feet. If the object is in the air when the spell ends, the object falls.
+You create a floating, magical hand, either [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]] or ghostlike, that grasps the target object and levitates it slowly up to 20 feet in any direction. When you Sustain the spell, you can move the object an additional 20 feet. If the object is in the air when the spell ends, the object falls.
 
 ---
 **Heightened (3rd)** You can target an unattended object with a Bulk of 1 or less.

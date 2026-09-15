@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Lineage`  `Talos`
 
-Whether in their pure elemental forms or as part of an alloy such as steel, the elemental metal in your soul resonates strongly with iron, bronze, and other sturdy, practical metals suitable for weaponry. Your fist attacks gain the modular B, P, or S trait and lose the [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] trait. Your fist's damage die increases to 1d6.
+Whether in their pure elemental forms or as part of an alloy such as steel, the elemental metal in your soul resonates strongly with iron, bronze, and other sturdy, practical metals suitable for weaponry. Your fist attacks gain the modular B, P, or S trait and lose the [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]] trait. Your fist's damage die increases to 1d6.
 
 *Source: Rage of Elements p. 52*

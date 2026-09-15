@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Earth`  `Manipulate`
 
-- **Traditions**: Arcane, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Duration**: 10 minutes
 
 You become aware of vibrations in the ground around you. You gain tremorsense as an imprecise sense with a range of 30 feet. As normal for tremorsense, you can detect a creature only if it's on the same surface as you and only if the subject is moving along (or burrowing through) the surface.

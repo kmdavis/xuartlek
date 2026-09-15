@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/soulforger|Soulforger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/soulforger-dedication|Soulforger Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Soulforger|Soulforger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Soulforger Dedication|Soulforger Dedication]]
 
 Choose an additional soulforged armament of a different type than you already chose, and choose one essence power for it. Upgrade or change your armaments individually.
 

@@ -19,9 +19,9 @@ socialImage: og-image.png
 
 - **Price**: 40 gp
 - **Usage**: affixed to a weapon
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]])
 - **Trigger**: You successfully Strike an incorporeal creature with the weapon to which the fulu is affixed, but you haven’t rolled damage.
 
-This white paper fulu bears red ink and attunes a weapon to the spiritual essence of an incorporeal creature. Upon activation, the weapon gains the benefits of the _[[srd/pf2e/compendium/equipment/runes/ghost-touch|ghost touch]]_ property rune against the triggering incorporeal creature for 1 minute.
+This white paper fulu bears red ink and attunes a weapon to the spiritual essence of an incorporeal creature. Upon activation, the weapon gains the benefits of the _[[srd/pf2e/compendium/equipment/runes/Ghost Touch|ghost touch]]_ property rune against the triggering incorporeal creature for 1 minute.
 
 *Source: Impossible Magic p. 219*

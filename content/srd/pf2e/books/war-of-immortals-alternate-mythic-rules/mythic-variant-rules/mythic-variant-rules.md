@@ -1,6 +1,7 @@
 ---
 title: "Mythic Variant Rules"
 aliases: ["Mythic Variant Rules"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "War of Immortals Alternate Mythic Rules"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3343"
 citation: "War of Immortals Alternate Mythic Rules pg. 2"
-socialImage: og-image.png
 ---
 
 # Mythic Variant Rules
@@ -20,5 +20,5 @@ Included in this section are examples of alternative ways you can deploy mythic 
 
 ## Contents
 
-- [[srd/pf2e/books/war-of-immortals-alternate-mythic-rules/mythic-variant-rules/mixed-play|Mixed Play]]
-- [[srd/pf2e/books/war-of-immortals-alternate-mythic-rules/mythic-variant-rules/alternate-mythic-progression|Alternate Mythic Progression]]
+- [[srd/pf2e/books/war-of-immortals-alternate-mythic-rules/mythic-variant-rules/Mixed Play|Mixed Play]]
+- [[srd/pf2e/books/war-of-immortals-alternate-mythic-rules/mythic-variant-rules/Alternate Mythic Progression|Alternate Mythic Progression]]

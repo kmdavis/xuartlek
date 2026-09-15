@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Auditory`  `Death`  `Incapacitation`  `Mythic`  `Spirit`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/prophesied-monarch|Prophesied Monarch]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Prophesied Monarch|Prophesied Monarch]]
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/prophesied-monarch-dedication|Prophesied Monarch Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Prophesied Monarch Dedication|Prophesied Monarch Dedication]]
 
 You proclaim that a foe has violated the sanctity of your realm and must die. Speak your decree; a creature you designate within 60 feet who can hear your decree must attempt a Will saving throw against your class DC or spell DC, whichever is higher. Once targeted, the creature is temporarily immune for 1 year. Whether the target perishes or is marked for death depends on their level and the result of their saving throw.
 
@@ -28,9 +28,9 @@ You proclaim that a foe has violated the sanctity of your realm and must die. Sp
 
 **Success** If the target is 14th level or lower, it drops to 1 Hit point. If the target is 15th level or higher, it takes 50 spirit damage.
 
-**Failure** If the target is 14th level or lower, it dies instantly. If the target is 15th level or higher, it takes 50 spirit damage; if this damage brings it to 0 Hit Points, it dies instantly. Otherwise, it gains [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Weakness|weakness]] 20 to all damage for 1 minute.
+**Failure** If the target is 14th level or lower, it dies instantly. If the target is 15th level or higher, it takes 50 spirit damage; if this damage brings it to 0 Hit Points, it dies instantly. Otherwise, it gains {{rules 2317 "weakness"}} 20 to all damage for 1 minute.
 
-**Critical Failure** As failure, but a target who survives the damage is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1 for 1 minute.
+**Critical Failure** As failure, but a target who survives the damage is {{conditions 93 "stunned"}} 1 for 1 minute.
 
 When you speak a Decree of Execution, you can spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] as part of the action to remove the incapacitation trait.
 

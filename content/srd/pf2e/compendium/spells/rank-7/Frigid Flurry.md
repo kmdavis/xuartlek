@@ -17,12 +17,12 @@ socialImage: og-image.png
 
 `Cold`  `Concentrate`  `Manipulate`  `Water`
 
-- **Traditions**: Arcane, Primal
-- **Deity**: [[srd/pf2e/compendium/deities/giant-gods/thremyr|Thremyr]]
-- **Area**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]] up to 120 feet
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deity**: [[srd/pf2e/compendium/deities/giant-gods/Thremyr|Thremyr]]
+- **Area**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Line|line]] up to 120 feet
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex
 
-You place a palm to your lips and exhale a cold breath, whipping up a gust of wind that freezes the air's ambient moisture into a flurry of jagged shards. The flurry deals 9d6 cold damage and 9d6 slashing damage to all foes, with a basic Reflex save, but the gust flows harmlessly around your allies. The wind then picks you up and carries you to the other end of the area. While carried this way, you temporarily transform into a flurry of snow crystals and become immune to all damage and effects except fire damage, effects with the [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] trait, and any other effect the GM decides would affect snow.
+You place a palm to your lips and exhale a cold breath, whipping up a gust of wind that freezes the air's ambient moisture into a flurry of jagged shards. The flurry deals 9d6 cold damage and 9d6 slashing damage to all foes, with a basic Reflex save, but the gust flows harmlessly around your allies. The wind then picks you up and carries you to the other end of the area. While carried this way, you temporarily transform into a flurry of snow crystals and become immune to all damage and effects except fire damage, effects with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] trait, and any other effect the GM decides would affect snow.
 
 ---
 **Heightened (+1)** The cold and slashing damage each increase by 1d6.

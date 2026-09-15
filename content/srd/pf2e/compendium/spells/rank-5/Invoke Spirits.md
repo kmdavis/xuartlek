@@ -20,14 +20,14 @@ socialImage: og-image.png
 
 `Concentrate`  `Emotion`  `Fear`  `Manipulate`  `Mental`  `Void`  `Negative`
 
-- **Traditions**: Arcane, Divine, Occult
-- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Undead|Undead]], [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodlines**: [[srd/pf2e/compendium/character/Bloodlines#Undead|Undead]], [[srd/pf2e/compendium/character/Bloodlines#Aesir|Aesir]]
 - **Range**: 120 feet
 - **Area**: 10-foot burst
 - **Defense**: Will
 - **Duration**: sustained up to 1 minute
 
-Ragged apparitions of the dead rise to stalk the living. They deal 2d4 mental damage and 2d4 void damage to each living creature in the area, with a basic Will save. Additionally, creatures that critically fail the save are frightened 2 and are [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] for 1 round. 
+Ragged apparitions of the dead rise to stalk the living. They deal 2d4 mental damage and 2d4 void damage to each living creature in the area, with a basic Will save. Additionally, creatures that critically fail the save are frightened 2 and are [[srd/pf2e/compendium/rules-elements/Conditions#Fleeing|fleeing]] for 1 round. 
 
 On subsequent rounds, the first time you Sustain the spell each round, you can move the area up to 30 feet within the range of the spell. Living creatures in the new area must attempt saves with the same effects as above, except that critically failing doesn't make them flee.
 

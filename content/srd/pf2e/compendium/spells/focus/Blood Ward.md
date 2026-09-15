@@ -18,12 +18,12 @@ socialImage: og-image.png
 
 `Focus`  `Hex`  `Manipulate`  `Uncommon`  `Witch`
 
-- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Protection|Lesson of Protection]]
+- **Lesson**: [[srd/pf2e/compendium/character/Lessons#Lesson of Protection|Lesson of Protection]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: sustained up to 1 minute
 
-Your patron's aegis descends to shield a target from harm. Designate one of the following creature traits: [[srd/pf2e/compendium/rules-elements/traits/player-core/aberration|aberration]], [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beast]], [[srd/pf2e/compendium/rules-elements/traits/player-core/celestial|celestial]], [[srd/pf2e/compendium/rules-elements/traits/player-core/construct|construct]], [[srd/pf2e/compendium/rules-elements/traits/player-core/dragon|dragon]], [[srd/pf2e/compendium/rules-elements/traits/player-core/elemental|elemental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiend]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fungus|fungus]], [[srd/pf2e/compendium/rules-elements/traits/player-core/monitor|monitor]], [[srd/pf2e/compendium/rules-elements/traits/player-core/ooze|ooze]], [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]]. The target gains a +1 status bonus to its saving throws and AC against creatures with that trait.
+Your patron's aegis descends to shield a target from harm. Designate one of the following creature traits: [[srd/pf2e/compendium/rules-elements/traits/player-core/Aberration|aberration]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Beast|beast]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Celestial|celestial]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Construct|construct]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Dragon|dragon]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Elemental|elemental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fey|fey]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fiend|fiend]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fungus|fungus]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Monitor|monitor]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Ooze|ooze]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]]. The target gains a +1 status bonus to its saving throws and AC against creatures with that trait.
 
 ---
 **Heightened (5th)** The status bonus increases to +2.

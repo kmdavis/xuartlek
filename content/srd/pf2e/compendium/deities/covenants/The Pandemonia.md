@@ -24,23 +24,23 @@ Dexterity or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/gnome-flickmace|Gnome Flickmace]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/Gnome Flickmace|Gnome Flickmace]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/domains#Luck|Luck]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/Domains#Luck|Luck]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Dreams|Dreams]], [[srd/pf2e/compendium/character/domains#Nightmares|Nightmares]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Dreams|Dreams]], [[srd/pf2e/compendium/character/Domains#Nightmares|Nightmares]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/befuddle|Befuddle]]
+[[srd/pf2e/compendium/spells/rank-1/Befuddle|Befuddle]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/hypnotize|Hypnotize]]
+[[srd/pf2e/compendium/spells/rank-3/Hypnotize|Hypnotize]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/vibrant-pattern|Vibrant Pattern]]
+[[srd/pf2e/compendium/spells/rank-6/Vibrant Pattern|Vibrant Pattern]]
 
 *Source: Divine Mysteries p. 239*

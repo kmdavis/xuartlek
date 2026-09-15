@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/club|Club]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Club|Club]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Healing|Healing]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/summon-plant-or-fungus|Summon Plant or Fungus]]
+[[srd/pf2e/compendium/spells/rank-1/Summon Plant or Fungus|Summon Plant or Fungus]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/entangling-flora|Entangling Flora]]
+[[srd/pf2e/compendium/spells/rank-2/Entangling Flora|Entangling Flora]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/tangling-creepers|Tangling Creepers]]
+[[srd/pf2e/compendium/spells/rank-6/Tangling Creepers|Tangling Creepers]]
 
 *Source: Monster Core 2 p. 175*

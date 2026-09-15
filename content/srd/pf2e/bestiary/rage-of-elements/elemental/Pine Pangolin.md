@@ -32,7 +32,7 @@ perception:
     desc: "+15"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +15, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +18, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +15, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +18, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +17"
 abilityMods: [4, 0, 5, 1, 2, 1]
 ac: 25
 armorclass:
@@ -41,18 +41,18 @@ armorclass:
 hp: 140
 health:
   - name: "HP"
-    desc: "140; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ axes 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 10"
+    desc: "140; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/Weapon Groups#Axe|axes]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] 10"
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 2d12+3 piercing"
+    desc: "⬻ claw +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 2d12+3 piercing"
   - name: "Melee"
     desc: "⬻ tongue +17 __Damage__ 2d8+3 bludgeoning plus Grab"
 abilities_bot:
   - name: "Roll Up"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]]) The pine pangolin falls [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], closes up its scales, and rolls into a ball. While Rolled Up, the pangolin gains resistance 10 to physical damage and total immunity to falling damage from heights of 50 feet or less. The only action the pine pangolin can take is to Stand, and the effects of Roll Up end once the pangolin Stands."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Move|Move]]) The pine pangolin falls [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]], closes up its scales, and rolls into a ball. While Rolled Up, the pangolin gains resistance 10 to physical damage and total immunity to falling damage from heights of 50 feet or less. The only action the pine pangolin can take is to Stand, and the effects of Roll Up end once the pangolin Stands."
   - name: "Secrete Tar"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/plant|Plant]]) The pine pangolin secretes a brown, sticky tar within a 5-foot emanation, making those squares difficult terrain for 1 minute. Each creature that enters or starts its turn in a tarred square must succeed at a DC 25 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] until it Escapes. On a critical failure, the creature falls [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]; prone creatures take a –2 circumstance penalty to their checks to Escape the tar. The pine pangolin is immune to the effects of its own tar. More Wooded Origins Pine pangolins grow in clusters of two to five individuals on giant trees, protected by a cozy layer of tar until their scales harden enough for their first drop. Snapdrakes are handcrafted for kizidhar nobility, often serving as loyal guards. Nobody knows where painted stags come from, as all who have tried to investigate have been eaten."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|Plant]]) The pine pangolin secretes a brown, sticky tar within a 5-foot emanation, making those squares difficult terrain for 1 minute. Each creature that enters or starts its turn in a tarred square must succeed at a DC 25 Fortitude save or become [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] until it Escapes. On a critical failure, the creature falls [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]; prone creatures take a –2 circumstance penalty to their checks to Escape the tar. The pine pangolin is immune to the effects of its own tar. More Wooded Origins Pine pangolins grow in clusters of two to five individuals on giant trees, protected by a cozy layer of tar until their scales harden enough for their first drop. Snapdrakes are handcrafted for kizidhar nobility, often serving as loyal guards. Nobody knows where painted stags come from, as all who have tried to investigate have been eaten."
 sourcebook: "_Rage of Elements_, page 208."
 ```
 

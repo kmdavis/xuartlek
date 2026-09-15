@@ -24,23 +24,23 @@ Dexterity or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/frying-pan|Frying Pan]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Frying Pan|Frying Pan]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Cities|Cities]], [[srd/pf2e/compendium/character/domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/domains#Luck|Luck]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Cities|Cities]], [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/Domains#Luck|Luck]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/grease|Grease]]
+[[srd/pf2e/compendium/spells/rank-1/Grease|Grease]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/laughing-fit|Laughing Fit]]
+[[srd/pf2e/compendium/spells/rank-2/Laughing Fit|Laughing Fit]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/mad-monkeys|Mad Monkeys]]
+[[srd/pf2e/compendium/spells/rank-3/Mad Monkeys|Mad Monkeys]]
 
 *Source: Divine Mysteries p. 312*

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/guerrilla|Guerrilla]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/poisoned-sticks-and-stones|Poisoned Sticks and Stones]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Guerrilla|Guerrilla]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Poisoned Sticks and Stones|Poisoned Sticks and Stones]]
 
-Your skill with poisons is such that your preferred weapons also contain trace amounts of it, even when you don't actively apply a dose. [[srd/pf2e/compendium/equipment/weapons/dart/blowgun|Blowguns]] and [[srd/pf2e/compendium/equipment/weapons/sling/sling|slings]] you are wielding have the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/venomous|venomous]] trait.
+Your skill with poisons is such that your preferred weapons also contain trace amounts of it, even when you don't actively apply a dose. [[srd/pf2e/compendium/equipment/weapons/dart/Blowgun|Blowguns]] and [[srd/pf2e/compendium/equipment/weapons/sling/Sling|slings]] you are wielding have the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Venomous|venomous]] trait.
 
 *Source: Battlecry! p. 60*

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Ranger`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/shared-prey|Shared Prey]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Shared Prey|Shared Prey]]
 
 You can divide your attention three ways when hunting. When you use Hunt Prey, you can designate three creatures as prey, designate two creatures as prey and share the effect with one ally (as Shared Prey), or designate one creature as prey and share the effect with two allies.
 

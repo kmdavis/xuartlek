@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Monk
 
-At 1st level and every even-numbered level thereafter, you gain a monk class feat.
+At 1st level and every even-numbered level thereafter, you gain a [monk class feat](https://2e.aonprd.com/Feats.aspx?Traits=656).
 
 *Source: Player Core 2 p. 114*

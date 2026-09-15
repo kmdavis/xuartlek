@@ -16,7 +16,7 @@ socialImage: og-image.png
 `Uncommon`  `Unholy`
 
 - **Cast**: 1 day
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (expert; you must be a [[srd/pf2e/compendium/rules-elements/traits/player-core/devil|devil]])
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] (expert; you must be a [[srd/pf2e/compendium/rules-elements/traits/player-core/Devil|devil]])
 
 You make an appeal to a powerful devil, asking them to bind some of their subordinates to your service. If you succeed, the devil sends you their choice of one devil of level 2 or lower, two devils of level 0 or lower, or three devils of level –1 or lower.
 

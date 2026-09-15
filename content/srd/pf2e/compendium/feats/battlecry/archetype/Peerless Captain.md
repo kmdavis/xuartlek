@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/captain|Captain]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/captain-dedication|Captain Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Captain|Captain]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Captain Dedication|Captain Dedication]]
 
-When you have an active follower in an encounter, you are [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]]; you can use the extra action only to [[srd/pf2e/compendium/rules-elements/actions/battlecry#Direct Follower|Direct your Follower]].
+When you have an active follower in an encounter, you are [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]]; you can use the extra action only to [[srd/pf2e/compendium/rules-elements/actions/battlecry#Direct Follower|Direct your Follower]].
 
 *Source: Battlecry! p. 83*

@@ -15,13 +15,13 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/dandy|Dandy]]
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Dandy|Dandy]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-You are a consummate student of dignity, etiquette, and fashion. You become trained in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] and [[srd/pf2e/compendium/rules-elements/skills/society|Society]]; if you were already trained in either, you become an expert in it instead. You gain the Influence Rumor downtime activity. 
+You are a consummate student of dignity, etiquette, and fashion. You become trained in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] and [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]; if you were already trained in either, you become an expert in it instead. You gain the Influence Rumor downtime activity. 
 
 ### Dandy Dedication leads to...
 
-Bloom Cabaret Entrance, Costume Change, [[srd/pf2e/compendium/feats/player-core-2/archetype/distracting-flattery|Distracting Flattery]], Do You Know Who I Am?, [[srd/pf2e/compendium/feats/player-core-2/archetype/fabricated-connections|Fabricated Connections]], Fit for the Role, Flower Street Infamy, [[srd/pf2e/compendium/feats/player-core-2/archetype/gossip-lore|Gossip Lore]], Ivy District Influencer, Ivy Playhouse Strike, Magpie Manor Recovery, More Real than Real, Operatic Adventurer, [[srd/pf2e/compendium/feats/player-core-2/archetype/party-crasher|Party Crasher]], Perfect Pitch, Petal District Socialite, Play to the Crowd, Such a Disgrace!, Sundown Street Posturing, Tragic Lament
+Bloom Cabaret Entrance, Costume Change, [[srd/pf2e/compendium/feats/player-core-2/archetype/Distracting Flattery|Distracting Flattery]], Do You Know Who I Am?, [[srd/pf2e/compendium/feats/player-core-2/archetype/Fabricated Connections|Fabricated Connections]], Fit for the Role, Flower Street Infamy, [[srd/pf2e/compendium/feats/player-core-2/archetype/Gossip Lore|Gossip Lore]], Ivy District Influencer, Ivy Playhouse Strike, Magpie Manor Recovery, More Real than Real, Operatic Adventurer, [[srd/pf2e/compendium/feats/player-core-2/archetype/Party Crasher|Party Crasher]], Perfect Pitch, Petal District Socialite, Play to the Crowd, Such a Disgrace!, Sundown Street Posturing, Tragic Lament
 
 *Source: Player Core 2 p. 195*

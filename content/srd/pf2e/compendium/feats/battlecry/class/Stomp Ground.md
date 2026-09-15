@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Guardian`
 
-You bring your booted foot down on the ground with enough force to rattle your foes. Each creature in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] must attempt a Reflex saving throw against your class DC. 
+You bring your booted foot down on the ground with enough force to rattle your foes. Each creature in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] must attempt a Reflex saving throw against your class DC. 
 **Critical Success** The creature is unaffected. 
-**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the end of your turn. 
-**Failure** The creature is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. 
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] until the end of your turn. 
+**Failure** The creature is knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]. 
 **Critical Failure** The creature is knocked prone and takes 1d6 bludgeoning damage from the fall.
 
 *Source: Battlecry! p. 44*

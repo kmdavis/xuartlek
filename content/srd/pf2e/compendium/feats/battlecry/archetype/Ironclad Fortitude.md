@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/guardian|Guardian]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/guardian-dedication|Guardian Dedication]]; expert in Fortitude saves
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Guardian|Guardian]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Guardian Dedication|Guardian Dedication]]; expert in Fortitude saves
 
 Your proficiency rank in Fortitude saves increases to master.
 

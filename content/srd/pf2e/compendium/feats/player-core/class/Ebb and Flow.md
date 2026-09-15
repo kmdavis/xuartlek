@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Spellshape`  `Metamagic`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/versatile-font|Versatile Font]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Versatile Font|Versatile Font]]
 
 You can pull forth both vitality and the void simultaneously to harm your enemies and heal your allies. If your next action is to cast a 1-action or 2-action heal or harm spell, choose one creature in range that would be harmed by the spell, and choose another creature within range that would be healed by the spell. Your heal or harm targets both creatures.
 

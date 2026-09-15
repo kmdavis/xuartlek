@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Vigilante`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/vigilante|Vigilante]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/startling-appearance|Startling Appearance]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Vigilante|Vigilante]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Startling Appearance|Startling Appearance]]
 
-Your sudden appearance leaves your foe unable to respond. When you use Startling Appearance and your [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] hits an enemy of your level or lower, the enemy is also [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1 on a hit, or stunned 2 on a critical hit.
+Your sudden appearance leaves your foe unable to respond. When you use Startling Appearance and your [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] hits an enemy of your level or lower, the enemy is also [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]] 1 on a hit, or stunned 2 on a critical hit.
 
 *Source: Player Core 2 p. 219*

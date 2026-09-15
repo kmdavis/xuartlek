@@ -16,11 +16,11 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Summon`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/anubis|Anubis]], [[srd/pf2e/compendium/deities/covenants/good-neighbors|Good Neighbors]], [[srd/pf2e/compendium/deities/dwarven-gods/kols|Kols]], [[srd/pf2e/compendium/deities/monitor-demigods/monad|Monad]], Yelayne, Yluma
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/Anubis|Anubis]], [[srd/pf2e/compendium/deities/covenants/Good Neighbors|Good Neighbors]], [[srd/pf2e/compendium/deities/dwarven-gods/Kols|Kols]], [[srd/pf2e/compendium/deities/monitor-demigods/Monad|Monad]], Yelayne, Yluma
 - **Range**: 60 feet
 - **Duration**: sustained
 
-You summon a [[srd/pf2e/bestiary/player-core/other/phantasmal-minion|phantasmal minion]]. The minion is roughly the shape of a humanoid. You can choose to have it be [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] or have an ephemeral appearance, but it's obviously a magical effect, not a real creature.
+You summon a [[srd/pf2e/bestiary/player-core/other/Phantasmal Minion|phantasmal minion]]. The minion is roughly the shape of a humanoid. You can choose to have it be [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]] or have an ephemeral appearance, but it's obviously a magical effect, not a real creature.
 
 *Source: Player Core p. 349*

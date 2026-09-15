@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Barbarian`  `Rage`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/acute-scent|Acute Scent]] or [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Scent|scent]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Acute Scent|Acute Scent]] or [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Scent|scent]]
 
-Your scent is preternaturally sharp, and you can always rely on your sense of smell to help guide you when your vision is compromised. When you target a [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] or [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] opponent while you are raging, you reduce the DC of the flat check to 3 for a concealed target or to 9 for a hidden one.
+Your scent is preternaturally sharp, and you can always rely on your sense of smell to help guide you when your vision is compromised. When you target a [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] opponent while you are raging, you reduce the DC of the flat check to 3 for a concealed target or to 9 for a hidden one.
 
 *Source: Player Core 2 p. 78*

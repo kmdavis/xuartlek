@@ -17,9 +17,9 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]]
 - **Range**: 5 feet
-- **Area**: 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
+- **Area**: 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
 - **Defense**: Fortitude
 - **Duration**: 1 minute
 

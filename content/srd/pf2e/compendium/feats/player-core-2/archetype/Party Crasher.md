@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/dandy|Dandy]], Venture-Gossip (Level 7)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/dandy-dedication|Dandy Dedication]]; Master in [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Dandy|Dandy]], Venture-Gossip (Level 7)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Dandy Dedication|Dandy Dedication]]; Master in [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
 You attend all the fashionable society parties, no matter how exclusive they might be. Any time you encounter a social event you would ordinarily be denied access to, such as a coronation, royal gala, or other society function, you can spend 1d4 hours to secure entry without the need for a skill check. You find invitations, invitees looking for fashionable dates, temporary jobs with the caterers, event staff willing to look the other way, or some other mode of access for yourself and your allies. This ability doesn’t apply to secret events or other small private gatherings with no staff, dates, or outsiders involved.
 

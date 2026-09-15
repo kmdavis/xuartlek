@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Investigator`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/methodologies#Alchemical Sciences|empiricism]] methodology
+- **Prerequisites**: [[srd/pf2e/compendium/character/Methodologies#Alchemical Sciences|empiricism]] methodology
 
-Sharp and piercing, your eyes see all and convey more. Your [[srd/pf2e/compendium/rules-elements/actions/player-core#Point Out|Point Out]] actions lose the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] trait, and you don't need to be heard to convey the information to your allies. In addition, a creature you Point Out is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to your allies until the start of your next turn.
+Sharp and piercing, your eyes see all and convey more. Your [[srd/pf2e/compendium/rules-elements/actions/player-core#Point Out|Point Out]] actions lose the [[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]] trait, and you don't need to be heard to convey the information to your allies. In addition, a creature you Point Out is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to your allies until the start of your next turn.
 
-**Special** If you have the [[srd/pf2e/compendium/feats/player-core/archetype/blind-fight|Blind-Fight]] feat, your allies gain that feat's benefits against any creature that's off-guard due to Empiricist's Eye.
+**Special** If you have the [[srd/pf2e/compendium/feats/player-core/archetype/Blind-Fight|Blind-Fight]] feat, your allies gain that feat's benefits against any creature that's off-guard due to Empiricist's Eye.
 
 *Source: Player Core 2 p. 111*

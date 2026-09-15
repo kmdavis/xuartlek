@@ -10,16 +10,16 @@ socialImage: og-image.png
 
 # Learn a Spell  *General Skill Action*
 
-If you're a spellcaster, you can use the skill corresponding to your magical tradition to learn a new spell of that tradition. The Learning a Spell table lists the Price of the materials needed to Learn a Spell of each rank. Learning a Spell is most useful for classes that use a limited list of spells, like the [[srd/pf2e/compendium/character/classes/bard|bard]], [[srd/pf2e/compendium/character/classes/witch|witch]], or [[srd/pf2e/compendium/character/classes/wizard|wizard]], though other classes might use it to gain access to [[srd/pf2e/compendium/rules-elements/traits/player-core/rare|rare]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] spells.
+If you're a spellcaster, you can use the skill corresponding to your magical tradition to learn a new spell of that tradition. The Learning a Spell table lists the Price of the materials needed to Learn a Spell of each rank. Learning a Spell is most useful for classes that use a limited list of spells, like the [[srd/pf2e/compendium/character/classes/Bard|bard]], [[srd/pf2e/compendium/character/classes/Witch|witch]], or [[srd/pf2e/compendium/character/classes/Wizard|wizard]], though other classes might use it to gain access to [[srd/pf2e/compendium/rules-elements/traits/player-core/Rare|rare]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Uncommon|uncommon]] spells.
 
 ### Skill Uses
 
-[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] Learn a Spell from the arcane tradition.
+[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] Learn a Spell from the [arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1) tradition.
 
-[[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] Learn a Spell from the primal tradition.
+[[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] Learn a Spell from the [primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4) tradition.
 
-[[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] Learn a Spell from the occult tradition.
+[[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] Learn a Spell from the [occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3) tradition.
 
-[[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] Learn a Spell from the divine tradition.
+[[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] Learn a Spell from the [divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2) tradition.
 
 *Source: Player Core p. 230*

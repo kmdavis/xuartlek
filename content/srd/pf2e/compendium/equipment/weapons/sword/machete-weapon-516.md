@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Deadly`  `Sweep`
 
-- **Favored Weapon**: Aminara, Demon Bringers, [[srd/pf2e/compendium/deities/other-gods/kazutal|Kazutal]]
+- **Favored Weapon**: Aminara, Demon Bringers, [[srd/pf2e/compendium/deities/other-gods/Kazutal|Kazutal]]
 - **Price**: 7 sp
 - **Damage**: 1d6 S
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 This medium-length sword has a wide blade and long grip. Though it is typically used to hack through heavy foliage, the machete can also be used as a deadly weapon.
 

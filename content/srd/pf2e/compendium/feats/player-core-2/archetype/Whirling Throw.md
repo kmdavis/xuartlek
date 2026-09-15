@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `Attack`  `Monk`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/wrestler|Wrestler]] (Level 8)
-- **Requirements**: You have a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]].
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Wrestler|Wrestler]] (Level 8)
+- **Requirements**: You have a creature [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]].
 
-You propel your enemy away. Attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check against the foe's Fortitude DC. You take a –2 circumstance penalty to your check if the target is one size larger than you and a –4 circumstance penalty if it's larger than that. You gain a +2 circumstance bonus to your check if the target is one size smaller than you and a +4 circumstance bonus if it's smaller than that.
+You propel your enemy away. Attempt an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check against the foe's Fortitude DC. You take a –2 circumstance penalty to your check if the target is one size larger than you and a –4 circumstance penalty if it's larger than that. You gain a +2 circumstance bonus to your check if the target is one size smaller than you and a +4 circumstance bonus if it's smaller than that.
 
-**Critical Success** You throw the creature any distance up to 10 feet, plus 5 feet × your Strength modifier. It takes bludgeoning damage equal to your Strength modifier plus 1d6 per 10 feet you threw it. If you threw the target at least 10 feet and into a solid obstacle, use the maximum distance you could have thrown it to calculate the damage. The creature falls [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
+**Critical Success** You throw the creature any distance up to 10 feet, plus 5 feet × your Strength modifier. It takes bludgeoning damage equal to your Strength modifier plus 1d6 per 10 feet you threw it. If you threw the target at least 10 feet and into a solid obstacle, use the maximum distance you could have thrown it to calculate the damage. The creature falls [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]].
 
 **Success** As critical success, but the creature doesn't fall prone.
 
@@ -30,6 +30,6 @@ You propel your enemy away. Attempt an [[srd/pf2e/compendium/rules-elements/skil
 
 ### Whirling Throw leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/godbreaker|Godbreaker]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Godbreaker|Godbreaker]]
 
 *Source: Player Core 2 p. 123*

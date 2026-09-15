@@ -18,18 +18,18 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Impossible`  `Manipulate`  `Unique`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Cost**: a flask of lava harvested from an active volcano
 - **Range**: 500 feet
-- **Area**: 100-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
+- **Area**: 100-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex
 - **Duration**: 1 minute
 
-This impossible spell is more devious and insistent than most. While all impossible spells long to be used, this spell relentlessly urges those who learn it to destroy everything in their path. The blast of liquid fire created by this spell brands the soul of those who are touched by its flames, dealing 2d12 fire damage to all creatures, structures, and unattended objects in the area. All creatures damaged by this spell are marked by fire for the duration of the spell. When you Fuel _Pyroclastic Truth_, all creatures marked by fire take 1d12 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent fire damage]].
+This impossible spell is more devious and insistent than most. While all impossible spells long to be used, this spell relentlessly urges those who learn it to destroy everything in their path. The blast of liquid fire created by this spell brands the soul of those who are touched by its flames, dealing 2d12 fire damage to all creatures, structures, and unattended objects in the area. All creatures damaged by this spell are marked by fire for the duration of the spell. When you Fuel _Pyroclastic Truth_, all creatures marked by fire take 1d12 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent fire damage]].
 
 ---
 
-**Lethologic Mark** You understand the true desire of fire to burn away your soul. Whenever you take fire damage, you become [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]]. Additionally, if you're reduced to 0 Hit Points by a [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] effect, you instantly die and are turned to ash, and your soul is cast into the [[srd/pf2e/compendium/gm/planes#Plane of Fire|Plane of Fire]] to burn for eternity. To heal this mark, you must perform an [[srd/pf2e/compendium/spells/rituals/atone|_atone_]] ritual in both the Plane of Fire and the [[srd/pf2e/compendium/gm/planes#Plane of Water|Plane of Water]].
+**Lethologic Mark** You understand the true desire of fire to burn away your soul. Whenever you take fire damage, you become [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened 1]]. Additionally, if you're reduced to 0 Hit Points by a [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] effect, you instantly die and are turned to ash, and your soul is cast into the [[srd/pf2e/compendium/gm/Planes#Plane of Fire|Plane of Fire]] to burn for eternity. To heal this mark, you must perform an [[srd/pf2e/compendium/spells/rituals/Atone|_atone_]] ritual in both the Plane of Fire and the [[srd/pf2e/compendium/gm/Planes#Plane of Water|Plane of Water]].
 
 ---
 **Heightened (+1)** The initial fire damage increases by 2d12, and the persistent fire damage increases by 1d12.

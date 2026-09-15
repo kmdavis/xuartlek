@@ -24,23 +24,23 @@ Wisdom or Charisma
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/fist|Fist]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/Fist|Fist]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Magic|Magic]], [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Healing|Healing]], [[srd/pf2e/compendium/character/Domains#Magic|Magic]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Introspection|Introspection]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Introspection|Introspection]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]]
+[[srd/pf2e/compendium/spells/rank-1/Soothe|Soothe]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/slow|Slow]]
+[[srd/pf2e/compendium/spells/rank-3/Slow|Slow]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/containment|Containment]]
+[[srd/pf2e/compendium/spells/rank-4/Containment|Containment]]
 
 *Source: Divine Mysteries p. 308*

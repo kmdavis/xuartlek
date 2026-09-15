@@ -1,6 +1,7 @@
 ---
 title: "Chapter 6: Equipment"
 aliases: ["Chapter 6: Equipment"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2143"
 citation: "Player Core pg. 267"
-socialImage: og-image.png
 ---
 
 # Chapter 6: Equipment
@@ -26,15 +26,15 @@ Once you've purchased your starting items, there are three main ways to gain new
 
 ## Contents
 
-- [[srd/pf2e/books/player-core/chapter-6-equipment/coins-and-currency|Coins and Currency]]
-- [[srd/pf2e/books/player-core/chapter-6-equipment/price|Price]]
-- [[srd/pf2e/books/player-core/chapter-6-equipment/item-level|Item Level]]
-- [[srd/pf2e/books/player-core/chapter-6-equipment/carrying-items|Carrying Items]]
-- [[srd/pf2e/books/player-core/chapter-6-equipment/bulk|Bulk]]
-- [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage|Item Damage]]
-- [[srd/pf2e/books/player-core/chapter-6-equipment/shoddy-items|Shoddy Items]]
-- [[srd/pf2e/books/player-core/chapter-6-equipment/items-and-sizes|Items and Sizes]]
-- [[srd/pf2e/books/player-core/chapter-6-equipment/armor|Armor]]
-- [[srd/pf2e/books/player-core/chapter-6-equipment/shields|Shields]]
-- [[srd/pf2e/books/player-core/chapter-6-equipment/weapons|Weapons]]
-- [[srd/pf2e/books/player-core/chapter-6-equipment/gear|Gear]]
+- [[srd/pf2e/books/player-core/chapter-6-equipment/Coins and Currency|Coins and Currency]]
+- [[srd/pf2e/books/player-core/chapter-6-equipment/Price|Price]]
+- [[srd/pf2e/books/player-core/chapter-6-equipment/Item Level|Item Level]]
+- [[srd/pf2e/books/player-core/chapter-6-equipment/Carrying Items|Carrying Items]]
+- [[srd/pf2e/books/player-core/chapter-6-equipment/Bulk|Bulk]]
+- [[srd/pf2e/books/player-core/chapter-6-equipment/Item Damage|Item Damage]]
+- [[srd/pf2e/books/player-core/chapter-6-equipment/Shoddy Items|Shoddy Items]]
+- [[srd/pf2e/books/player-core/chapter-6-equipment/Items and Sizes|Items and Sizes]]
+- [[srd/pf2e/books/player-core/chapter-6-equipment/Armor|Armor]]
+- [[srd/pf2e/books/player-core/chapter-6-equipment/Shields|Shields]]
+- [[srd/pf2e/books/player-core/chapter-6-equipment/Weapons|Weapons]]
+- [[srd/pf2e/books/player-core/chapter-6-equipment/Gear|Gear]]

@@ -28,7 +28,7 @@ perception:
     desc: "+7; darkvision, tremorsense (imprecise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +8"
 abilityMods: [4, 1, 3, -4, 0, -2]
 ac: 18
 armorclass:
@@ -41,14 +41,14 @@ health:
 speed: "25 feet, burrow 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ mandibles +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/acid|Acid]]) __Damage__ 1d8+4 piercing plus 1d6 acid"
+    desc: "⬻ mandibles +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|Acid]]) __Damage__ 1d8+4 piercing plus 1d6 acid"
   - name: "Ranged"
-    desc: "⬻ acid spit +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/acid|Acid]], range 30 feet) __Damage__ 3d6 acid"
+    desc: "⬻ acid spit +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|Acid]], range 30 feet) __Damage__ 3d6 acid"
 abilities_bot:
   - name: "Armor-Rending Bite"
     desc: "⬺ The ankhrav makes a mandibles Strike; if the Strike hits, the target's armor takes the damage and the acid damage bypasses the armor's Hardness."
   - name: "Spray Acid"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/acid|Acid]])"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|Acid]])"
   - name: "Frequency"
     desc: "once per hour"
   - name: "Effect"

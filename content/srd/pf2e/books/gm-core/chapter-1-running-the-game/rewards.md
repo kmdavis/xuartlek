@@ -1,6 +1,7 @@
 ---
 title: "Rewards"
 aliases: ["Rewards"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2647"
 citation: "GM Core pg. 56"
-socialImage: og-image.png
 ---
 
 # Rewards
@@ -83,7 +83,7 @@ If two PCs pull off the same magnitude of task, they should get an equal amount 
 
 ### Party Size
 
-The rules for advancement assume a group of four PCs. The rules for [[srd/pf2e/books/gm-core/chapter-2-building-games/encounter-design|building encounters]] describe how to [[#Group Parity and Party Level|accommodate groups of a different size]], but the XP awards don’t change—always award the amount of XP listed for a group of four characters. You usually won’t need to make many adjustments for a differently sized group outside of encounters. Be careful of providing too many ways to get accomplishment XP when you have a large group, though. Since they can pursue multiple accomplishments at once, it can lead to the PCs leveling up too fast.
+The rules for advancement assume a group of four PCs. The rules for [[srd/pf2e/books/gm-core/chapter-2-building-games/Encounter Design|building encounters]] describe how to [[#Group Parity and Party Level|accommodate groups of a different size]], but the XP awards don’t change—always award the amount of XP listed for a group of four characters. You usually won’t need to make many adjustments for a differently sized group outside of encounters. Be careful of providing too many ways to get accomplishment XP when you have a large group, though. Since they can pursue multiple accomplishments at once, it can lead to the PCs leveling up too fast.
 
 ### Group Parity and Party Level
 

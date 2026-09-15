@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ursine-avenger-hood|Ursine Avenger Hood]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/treasure-vault-remastered/archetype/ursine-avenger-form|Ursine Avenger Form]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ursine Avenger Hood|Ursine Avenger Hood]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/treasure-vault-remastered/archetype/Ursine Avenger Form|Ursine Avenger Form]]
 
 Your body thrums with the primal vitality of the greatest of the ursine beasts. When in Ursine Avenger Form, you gain fast healing 5.
 

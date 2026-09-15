@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/beastmaster|Beastmaster]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Beastmaster|Beastmaster]]
 - **Prerequisites**: Beastmaster Dedication
 
 You and your companion move to take down a common enemy. You and your animal companion both Stride. If both of you end your movement within reach of the same creature, you and your animal companion each make a melee Strike against the creature. You can use Pack Movement to [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]] instead of Stride if both you and your animal companion have the corresponding movement type.

@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Cleric`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Magic|Magic]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Magic|Magic]]
 - **Range**: 30 feet
 - **Target**: 1 willing creature
 - **Duration**: until the start of your next turn

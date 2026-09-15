@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Ranger`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/bounty-hunter|Bounty Hunter]] (Level 4)
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Bounty Hunter|Bounty Hunter]] (Level 4)
 
 You quickly assess your prey and apply what you know. As part of the action used to Hunt your Prey, you can attempt a check to Recall Knowledge about your prey. When you critically succeed at identifying your hunted prey with Recall Knowledge, you note a weakness in the creature’s defenses in addition to any other benefits. You gain a +1 circumstance bonus to your next attack roll against that prey, and any ally you tell gains the same benefit. You can give bonuses from Monster Hunter only once per day against a particular creature.
 
 ### Monster Hunter leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/master-monster-hunter|Master Monster Hunter]], [[srd/pf2e/compendium/feats/player-core/class/monster-warden|Monster Warden]]
+[[srd/pf2e/compendium/feats/player-core/class/Master Monster Hunter|Master Monster Hunter]], [[srd/pf2e/compendium/feats/player-core/class/Monster Warden|Monster Warden]]
 
 *Source: Player Core p. 157*

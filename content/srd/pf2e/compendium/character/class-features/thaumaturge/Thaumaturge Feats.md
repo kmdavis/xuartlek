@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Thaumaturge
 
-At 1st level and every even-numbered level, you gain a thaumaturge class feat.
+At 1st level and every even-numbered level, you gain a [thaumaturge class feat](https://2e.aonprd.com/Feats.aspx?Traits=895).
 
 *Source: Dark Archives (Remastered) p. 31*

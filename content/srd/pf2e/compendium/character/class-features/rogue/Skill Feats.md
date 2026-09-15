@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Rogue
 
-You gain skill feats more often than others. At 1st level and every level thereafter, you gain a skill feat.
+You gain skill feats more often than others. At 1st level and every level thereafter, you gain a [skill feat](https://2e.aonprd.com/Feats.aspx?Traits=144).
 
 *Source: Player Core p. 164*

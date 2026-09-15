@@ -24,23 +24,23 @@ Wisdom or Charisma
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/shortbow|Shortbow]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/Shortbow|Shortbow]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Sorrow|Sorrow]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Sorrow|Sorrow]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Family|Family]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Family|Family]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/grim-tendrils|Grim Tendrils]]
+[[srd/pf2e/compendium/spells/rank-1/Grim Tendrils|Grim Tendrils]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/vision-of-death|Vision of Death]]
+[[srd/pf2e/compendium/spells/rank-4/Vision of Death|Vision of Death]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/project-image|Project Image]]
+[[srd/pf2e/compendium/spells/rank-7/Project Image|Project Image]]
 
 *Source: Divine Mysteries p. 320*

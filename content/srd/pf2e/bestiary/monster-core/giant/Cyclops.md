@@ -30,10 +30,10 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; low-light vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Cyclops, [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], Cyclops, [[srd/pf2e/compendium/rules-elements/Languages#Jotun|Jotun]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +14, Fortune-Telling Lore +13, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +10, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +14, Fortune-Telling Lore +13, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +10, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +12"
 abilityMods: [5, -1, 2, 0, 3, -1]
 abilities_top:
   - name: "Items"
@@ -50,7 +50,7 @@ abilities_mid:
   - name: "Ferocity"
     desc: "⬲"
   - name: "Flash of Insight"
-    desc: "⭓ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult"
+    desc: "⭓ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult"
   - name: "Frequency"
     desc: "once per day]])"
   - name: "Trigger"
@@ -60,7 +60,7 @@ abilities_mid:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ greataxe +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d12+9 slashing"
+    desc: "⬻ greataxe +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|Sweep]]) __Damage__ 1d12+9 slashing"
   - name: "Ranged"
     desc: "⬻ heavy crossbow +8 (range increment 120 feet, reload 2) __Damage__ 1d10+4 piercing"
 abilities_bot:

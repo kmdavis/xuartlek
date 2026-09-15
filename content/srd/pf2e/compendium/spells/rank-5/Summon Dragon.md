@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Summon`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Deities**: Apsu, Brixori, Dahak, Essence Dancers, Sarshallatu
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 
-You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/dragon|dragon]] trait and whose level is 5 or lower to fight for you. If the dragon has a magical tradition trait ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]), you can summon it only if you're using that tradition to cast summon dragon.
+You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Dragon|dragon]] trait and whose level is 5 or lower to fight for you. If the dragon has a magical tradition trait ([[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]]), you can summon it only if you're using that tradition to cast summon dragon.
 
 ---
 **Heightened (6th)** Level 7.

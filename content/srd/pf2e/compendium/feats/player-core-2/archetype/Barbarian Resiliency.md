@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/barbarian|Barbarian]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/barbarian-dedication|Barbarian Dedication]]; class granting no more Hit Points per level than 10 + your Constitution modifier
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Barbarian|Barbarian]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Barbarian Dedication|Barbarian Dedication]]; class granting no more Hit Points per level than 10 + your Constitution modifier
 
 You gain 3 additional Hit Points for each barbarian archetype class feat you have. As you continue selecting barbarian archetype class feats, you continue to gain additional Hit Points in this way.
 

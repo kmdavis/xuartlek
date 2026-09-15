@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Attack`  `Concentrate`  `Manipulate`  `Water`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/other-gods/besmara|Besmara]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/bokrug|Bokrug]], [[srd/pf2e/compendium/deities/demon-lords/dagon|Dagon]], [[srd/pf2e/compendium/deities/other-gods/hanspur|Hanspur]], [[srd/pf2e/compendium/deities/sakhil-tormentors/hataam|Hataam]], [[srd/pf2e/compendium/deities/elemental-lords/kelizandri|Kelizandri]], [[srd/pf2e/compendium/deities/elemental-lords/lysianassa|Lysianassa]], [[srd/pf2e/compendium/deities/eldest/ragadahn|Ragadahn]], Sobek, Wadjet, [[srd/pf2e/compendium/deities/covenants/waves-of-the-boundless-sea|Waves of the Boundless Sea]], Ytildos
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/Besmara|Besmara]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Bokrug|Bokrug]], [[srd/pf2e/compendium/deities/demon-lords/Dagon|Dagon]], [[srd/pf2e/compendium/deities/other-gods/Hanspur|Hanspur]], [[srd/pf2e/compendium/deities/sakhil-tormentors/Hataam|Hataam]], [[srd/pf2e/compendium/deities/elemental-lords/Kelizandri|Kelizandri]], [[srd/pf2e/compendium/deities/elemental-lords/Lysianassa|Lysianassa]], [[srd/pf2e/compendium/deities/eldest/Ragadahn|Ragadahn]], Sobek, Wadjet, [[srd/pf2e/compendium/deities/covenants/Waves of the Boundless Sea|Waves of the Boundless Sea]], Ytildos
 - **Range**: 60 feet
 - **Target**: 1 creature or unattended object
 - **Defense**: AC

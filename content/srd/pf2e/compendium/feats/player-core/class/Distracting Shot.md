@@ -18,6 +18,6 @@ The sheer power of your attacks, or the overwhelming number of them, leaves an e
 
 ### Distracting Shot leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/greater-distracting-shot|Greater Distracting Shot]]
+[[srd/pf2e/compendium/feats/player-core/class/Greater Distracting Shot|Greater Distracting Shot]]
 
 *Source: Player Core p. 161*

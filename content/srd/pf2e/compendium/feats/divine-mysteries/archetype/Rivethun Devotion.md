@@ -14,14 +14,14 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/rivethun-emissary|Rivethun Emissary]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/rivethun-emissary-dedication|Rivethun Emissary Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Rivethun Emissary|Rivethun Emissary]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Rivethun Emissary Dedication|Rivethun Emissary Dedication]]
 - **Access**: Followers of Rivethun have access to this feat.
 
-Through study, dedication, and introspection, you've learned to wield magic that affects the spirit. You gain [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]] and [[srd/pf2e/compendium/spells/rank-1/spirit-link|_spirit link_]] as 2nd-rank divine innate spells. You can cast each of these spells once per day. If you're a master in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]], _spirit link_ is heightened to 3rd rank. If you're legendary in Religion, _spirit link_ is heightened to 4th rank.
+Through study, dedication, and introspection, you've learned to wield magic that affects the spirit. You gain [[srd/pf2e/compendium/spells/rank-2/See the Unseen|_see the unseen_]] and [[srd/pf2e/compendium/spells/rank-1/Spirit Link|_spirit link_]] as 2nd-rank [divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2) innate spells. You can cast each of these spells once per day. If you're a master in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]], _spirit link_ is heightened to 3rd rank. If you're legendary in Religion, _spirit link_ is heightened to 4th rank.
 
 ### Rivethun Devotion leads to...
 
-[[srd/pf2e/compendium/feats/divine-mysteries/archetype/rivethun-adept|Rivethun Adept]]
+[[srd/pf2e/compendium/feats/divine-mysteries/archetype/Rivethun Adept|Rivethun Adept]]
 
 *Source: Divine Mysteries p. 293*

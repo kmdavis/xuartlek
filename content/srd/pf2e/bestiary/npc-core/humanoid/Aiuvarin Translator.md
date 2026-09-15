@@ -32,10 +32,10 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; low-light vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]]; two other common or [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] languages"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Elven|Elven]]; two other common or [[srd/pf2e/compendium/rules-elements/traits/player-core/Uncommon|uncommon]] languages"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +7, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +8, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +7, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +6, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +5, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] +7, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +8, [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] +7, [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] +6, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +5, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +7"
 abilityMods: [0, 2, 0, 3, 1, 2]
 abilities_top:
   - name: "Linguistic Mastery"
@@ -43,7 +43,7 @@ abilities_top:
   - name: "Translation Specialist"
     desc: "For encounters involving translating or deciphering languages, the translator is a 4th-level challenge."
   - name: "Items"
-    desc: "book of translations, quill pen (functions as a [[srd/pf2e/compendium/equipment/weapons/dart/dart|dart]]), Staff, Writing Set"
+    desc: "book of translations, quill pen (functions as a [[srd/pf2e/compendium/equipment/weapons/dart/Dart|dart]]), Staff, Writing Set"
 ac: 14
 armorclass:
   - name: "AC"
@@ -54,19 +54,19 @@ health:
     desc: "12"
 abilities_mid:
   - name: "Crosstalk"
-    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]])"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Linguistic|linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]])"
   - name: "Trigger"
-    desc: "A creature within 20 feet of the translator would be targeted by or in the area of an ability with the [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|linguistic]] trait"
+    desc: "A creature within 20 feet of the translator would be targeted by or in the area of an ability with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Linguistic|linguistic]] trait"
   - name: "Effect"
-    desc: "The translator attempts a [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check with a +5 circumstance bonus against the Will DC of the creature. On a success, the creature is unaffected by the linguistic effect, and the translator can choose to make the creature [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] until the end of the creature's next turn."
+    desc: "The translator attempts a [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] check with a +5 circumstance bonus against the Will DC of the creature. On a success, the creature is unaffected by the linguistic effect, and the translator can choose to make the creature [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]] until the end of the creature's next turn."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ staff +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d8]]) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ staff +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Two-Hand|two-hand d8]]) __Damage__ 1d4+2 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ fist +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ quill pen +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d4+2 piercing"
+    desc: "⬻ quill pen +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 20 feet]]) __Damage__ 1d4+2 piercing"
 sourcebook: "_NPC Core_, page 178."
 ```
 

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Swashbuckler`
 
-Your graceful attacks are especially powerful. When you score a critical hit with an [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]] melee weapon that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly]] trait, you double the number of dice from that trait. When you wield an agile or finesse melee weapon that doesn't have the deadly trait, it gains the deadly d8 trait instead.
+Your graceful attacks are especially powerful. When you score a critical hit with an [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]] melee weapon that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly]] trait, you double the number of dice from that trait. When you wield an agile or finesse melee weapon that doesn't have the deadly trait, it gains the deadly d8 trait instead.
 
 *Source: Player Core 2 p. 169*

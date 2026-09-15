@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/winged-warrior|Winged Warrior]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/winged-warrior-dedication|Winged Warrior Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Winged Warrior|Winged Warrior]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Winged Warrior Dedication|Winged Warrior Dedication]]
 - **Requirements**: You currently have a fly Speed.
 
-Using your elevation and speed to your advantage, you deliver aerial payloads with greater force. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] and can Interact to draw a [[srd/pf2e/compendium/rules-elements/traits/player-core/bomb|bomb]]. At any point during your movement, you can also make a Strike with an alchemical bomb. The bomb deals its splash damage to every creature within 10 feet of the target.
+Using your elevation and speed to your advantage, you deliver aerial payloads with greater force. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] and can Interact to draw a [[srd/pf2e/compendium/rules-elements/traits/player-core/Bomb|bomb]]. At any point during your movement, you can also make a Strike with an alchemical bomb. The bomb deals its splash damage to every creature within 10 feet of the target.
 
 *Source: Howl of the Wild p. 83*

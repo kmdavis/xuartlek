@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Incapacitation`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Hag|Hag]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude
@@ -26,7 +26,7 @@ You blind the target. The effect is determined by the target's Fortitude save. T
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] until its next turn begins.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] until its next turn begins.
 
 **Failure** The target is blinded for 1 minute.
 

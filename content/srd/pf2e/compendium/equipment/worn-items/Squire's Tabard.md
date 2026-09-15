@@ -21,6 +21,6 @@ socialImage: og-image.png
 
 Squires with aspirations of being knights wear these loose, colorful tunics, typically emblazoned with the crest of the knight or kingdom they serve.
 
-**Activate—At Your Aid** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You race to the side of an ally who needs your help. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] twice, [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Ignore Difficult Terrain|ignoring difficult terrain]], but your movement must end adjacent to an ally.
+**Activate—At Your Aid** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) **Frequency** once per day; **Effect** You race to the side of an ally who needs your help. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] twice, [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Ignore Difficult Terrain|ignoring difficult terrain]], but your movement must end adjacent to an ally.
 
 *Source: Battlecry! p. 153*

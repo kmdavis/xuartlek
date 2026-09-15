@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/duelist-dedication|Duelist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Duelist|Duelist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Duelist Dedication|Duelist Dedication]]
 
 Dueling is your art, and your weapon is your instrument. You have studied and evaluated a great many combat techniques, which you can review each day without fail to ensure you are prepared for any and every situation that may occur. During your daily preparations, you can swap out any number of your duelist archetype feats for other duelist archetype feats of the appropriate level for which you are qualified. You can't swap out Duelist Dedication or Student of the Dueling Arts in this way.
 

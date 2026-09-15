@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `Archetype`  `Stance`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/marshal|Marshal]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/marshal-dedication|Marshal Dedication]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Marshal|Marshal]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Marshal Dedication|Marshal Dedication]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-You become a brilliant example of dedication and poise in battle, encouraging your allies to follow suit. When you spend this action, attempt a [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] check. The DC is usually an [[srd/pf2e/books/gm-core/chapter-1-running-the-game/difficulty-classes#Level-Based DCs|easy DC]] of your level, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.
+You become a brilliant example of dedication and poise in battle, encouraging your allies to follow suit. When you spend this action, attempt a [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] check. The DC is usually an [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Difficulty Classes#Level-Based DCs|easy DC]] of your level, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.
 
-**Success** Your marshal’s aura grants you and allies a +1 status bonus to attack rolls and saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effects.
+**Success** Your marshal’s aura grants you and allies a +1 status bonus to attack rolls and saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effects.
 
 **Failure** You fail to enter the stance.
 

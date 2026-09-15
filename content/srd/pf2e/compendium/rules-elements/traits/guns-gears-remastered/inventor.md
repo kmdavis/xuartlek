@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Inventor`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/inventor|inventor]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Inventor|inventor]] class.
 
 *Source: Guns & Gears (Remastered) p. 233*

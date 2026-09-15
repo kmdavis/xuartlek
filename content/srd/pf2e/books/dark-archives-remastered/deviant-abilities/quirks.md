@@ -1,6 +1,7 @@
 ---
 title: "Quirks"
 aliases: ["Quirks"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Dark Archives (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3509"
 citation: "Dark Archives (Remastered) pg. 103"
-socialImage: og-image.png
 ---
 
 # Quirks

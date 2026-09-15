@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Deity**: The Offering Plate
 - **Cast**: 1 minute
 - **Range**: touch
@@ -25,6 +25,6 @@ socialImage: og-image.png
 
 You turn a container and its contents into an imaginary form stored in your mind that only you can see and interact with. The container's physical properties—the material from which it's made, any locks, or other features—are irrelevant to the casting of this spell, but the container can't contain any creatures. The container has no Bulk, and you can visualize everything inside it.
 
- You can retrieve an item from the lockbox as an activity that takes 3 actions and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] traits. Putting items back isn't possible. You can Dismiss the spell. When the spell ends, the container returns to its normal state, either appearing in your hands if it can fit there or on the ground adjacent to you if not.
+ You can retrieve an item from the lockbox as an activity that takes 3 actions and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]] traits. Putting items back isn't possible. You can Dismiss the spell. When the spell ends, the container returns to its normal state, either appearing in your hands if it can fit there or on the ground adjacent to you if not.
 
 *Source: Player Core 2 p. 247*

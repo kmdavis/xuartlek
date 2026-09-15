@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Focus`  `Fortune`  `Manipulate`  `Oracle`  `Uncommon`
 
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Lore|Lore]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Lore|Lore]]
 - **Duration**: 1 minute
 
-You sift through the multiverse's divine knowledge, seeking out tidbits related to a particular subject. Choose one [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] skill. You temporarily gain the same proficiency rank in that Lore skill as your proficiency rank for your oracle spellcasting.
+You sift through the multiverse's divine knowledge, seeking out tidbits related to a particular subject. Choose one [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] skill. You temporarily gain the same proficiency rank in that Lore skill as your proficiency rank for your oracle spellcasting.
 
 *Source: Player Core 2 p. 261*

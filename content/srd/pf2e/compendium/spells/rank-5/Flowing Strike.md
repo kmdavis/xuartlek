@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Water`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 
 A wave of flowing water rushes behind you like an elegant river, pushing you across the battlefield with fluid grace. You Stride up to 50 feet. This movement doesn't trigger reactions. You can make a Strike at any point during your Stride. If your Strike hits and deals damage, the wave flows after you to batter the target of your Strike, dealing 2d10 bludgeoning damage and pushing it 10 feet in a direction of your choice.
 

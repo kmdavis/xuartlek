@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Champion`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/blessed-counterstrike|Blessed Counterstrike]] or Retributive Strike; champion’s reaction that grants an ally resistance to an enemy’s damage (including the grandeur, justice, liberation, and redemption causes)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Blessed Counterstrike|Blessed Counterstrike]] or Retributive Strike; champion’s reaction that grants an ally resistance to an enemy’s damage (including the grandeur, justice, liberation, and redemption causes)
 
-Divine energy fills your weapon. Whenever you critically hit an enemy with Blessed Counterstrike or Retributive Strike, your attack deals an extra weapon damage die, and the target is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] on its next turn.
+Divine energy fills your weapon. Whenever you critically hit an enemy with Blessed Counterstrike or Retributive Strike, your attack deals an extra weapon damage die, and the target is [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed 1]] on its next turn.
 
 *Source: Player Core 2 p. 99*

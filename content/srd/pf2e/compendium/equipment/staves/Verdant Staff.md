@@ -30,7 +30,7 @@ This oak branch grows leaves in spring that change color in autumn and shed in w
 
 ---
 
-**Cantrip** [[srd/pf2e/compendium/spells/cantrips/tangle-vine|_tangle vine_]]**1st** [[srd/pf2e/compendium/spells/rank-1/runic-body|_runic body_]], [[srd/pf2e/compendium/spells/rank-1/runic-weapon|_runic weapon_]]**2nd** [[srd/pf2e/compendium/spells/rank-2/entangling-flora|_entangling flora_]], [[srd/pf2e/compendium/spells/rank-2/oaken-resilience|_oaken resilience_]], [[srd/pf2e/compendium/spells/rank-2/one-with-plants|_one with plants_]], [[srd/pf2e/compendium/spells/rank-2/shape-wood|_shape wood_]]
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/Tangle Vine|_tangle vine_]]**1st** [[srd/pf2e/compendium/spells/rank-1/Runic Body|_runic body_]], [[srd/pf2e/compendium/spells/rank-1/Runic Weapon|_runic weapon_]]**2nd** [[srd/pf2e/compendium/spells/rank-2/Entangling Flora|_entangling flora_]], [[srd/pf2e/compendium/spells/rank-2/Oaken Resilience|_oaken resilience_]], [[srd/pf2e/compendium/spells/rank-2/One with Plants|_one with plants_]], [[srd/pf2e/compendium/spells/rank-2/Shape Wood|_shape wood_]]
 
 ### Verdant Staff (Greater)
 
@@ -38,6 +38,6 @@ This oak branch grows leaves in spring that change color in autumn and shed in w
 
 ---
 
-**3rd** [[srd/pf2e/compendium/spells/rank-3/wall-of-thorns|_wall of thorns_]], speak with plants**4th** oaken resilience, speak with plants**5th** [[srd/pf2e/compendium/spells/rank-5/plant-form|_plant form_]], wall of thorns
+**3rd** [[srd/pf2e/compendium/spells/rank-3/Wall of Thorns|_wall of thorns_]], speak with plants**4th** oaken resilience, speak with plants**5th** [[srd/pf2e/compendium/spells/rank-5/Plant Form|_plant form_]], wall of thorns
 
 *Source: GM Core p. 281*

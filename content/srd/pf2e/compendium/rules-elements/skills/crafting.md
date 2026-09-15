@@ -22,7 +22,7 @@ You can use this skill to create and repair items.
 
 ### Consumables and Ammunition
 
- You can Craft items with the [[srd/pf2e/compendium/rules-elements/traits/player-core/consumable|consumable]] trait in batches, making up to four of the same item at once with a single check. This requires you to include the raw materials for all the items in the batch at the start, and you must complete the batch all at once. You also Craft non-magical ammunition in batches, using the quantity listed in the Ranged Weapons table (typically 10). 
+ You can Craft items with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Consumable|consumable]] trait in batches, making up to four of the same item at once with a single check. This requires you to include the raw materials for all the items in the batch at the start, and you must complete the batch all at once. You also Craft non-magical ammunition in batches, using the quantity listed in the [Ranged Weapons table](https://2e.aonprd.com/Weapons.aspx) (typically 10). 
 
 ### Getting Formulas
 
@@ -37,35 +37,35 @@ Category
 Consumable
 Note
 
-[[srd/pf2e/compendium/equipment/worn-items/alchemist-goggles|Alchemist Goggles]]
+[[srd/pf2e/compendium/equipment/worn-items/Alchemist Goggles|Alchemist Goggles]]
 +1
 0
 Other Worn Items
 No
 Crafting checks to Craft alchemical items
 
-[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit (Sterling)]]
+[[srd/pf2e/compendium/equipment/adventuring-gear/Artisan's Toolkit|Artisan's Toolkit (Sterling)]]
 +1
 3
 Adventuring Gear
 No
 Crafting checks to Craft
 
-[[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|Repair Toolkit (Superb)]]
+[[srd/pf2e/compendium/equipment/adventuring-gear/Repair Toolkit|Repair Toolkit (Superb)]]
 +1
 3
 Adventuring Gear
 No
 Crafting checks to Repair
 
-[[srd/pf2e/compendium/equipment/worn-items/aeon-stone|Aeon Stone (Formulating)]]
+[[srd/pf2e/compendium/equipment/worn-items/Aeon Stone|Aeon Stone (Formulating)]]
 +1
 4
 Other Worn Items
 No
 Item bonus to crafting checks
 
-[[srd/pf2e/compendium/equipment/worn-items/aeon-stone|Aeon Stone (Repairing)]]
+[[srd/pf2e/compendium/equipment/worn-items/Aeon Stone|Aeon Stone (Repairing)]]
 +1
 4
 Other Worn Items
@@ -79,13 +79,20 @@ Other Worn Items
 No
 Item bonus to a check of the crafter's choice
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Lesser)]]
+Azlanti Diamond
++1
+8
+Artifacts
+No
+Item bonus to Crafting.
+
+[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Lesser)]]
 +1
 1
 Alchemical Elixirs
 Yes
 
-[[srd/pf2e/compendium/equipment/worn-items/alchemist-goggles|Alchemist Goggles]]
+[[srd/pf2e/compendium/equipment/worn-items/Alchemist Goggles|Alchemist Goggles]]
 +2
 0
 Other Worn Items
@@ -99,61 +106,75 @@ Other Worn Items
 No
 Item bonus to Crafting checks to cradt an item whose formula is stored in the _schematic scanner_.
 
-[[srd/pf2e/compendium/equipment/armor/laboratory-coat|Laboratory Coat]]
+Azlanti Diamond
++2
+8
+Artifacts
+No
+Item bonus to Crafting when the item reaches the 9th level.
+
+[[srd/pf2e/compendium/equipment/armor/Laboratory Coat|Laboratory Coat]]
 +2
 9
 Specific Magic Armor
 No
 Item bonus to Crafting checks and an escape route should one’s experiments go awry.
 
-[[srd/pf2e/compendium/equipment/worn-items/ring-of-maniacal-devices|Ring of Maniacal Devices]]
+[[srd/pf2e/compendium/equipment/worn-items/Ring of Maniacal Devices|Ring of Maniacal Devices]]
 +2
 11
 Worn Items
 No
 Crafting checks to Craft and Repair snares and traps.
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
 +2
 11
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Moderate)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Moderate)]]
 +2
 3
 Alchemical Elixirs
 Yes
 
-[[srd/pf2e/compendium/equipment/worn-items/alchemist-goggles|Alchemist Goggles]]
+[[srd/pf2e/compendium/equipment/worn-items/Alchemist Goggles|Alchemist Goggles]]
 +3
 0
 Other Worn Items
 No
 Crafting checks to Craft alchemical items
 
-[[srd/pf2e/compendium/equipment/worn-items/ring-of-maniacal-devices|Ring of Maniacal Devices (Greater)]]
+Azlanti Diamond
++3
+8
+Artifacts
+No
+Item bonus to Crafting when the item reaches the 17th level.
+
+[[srd/pf2e/compendium/equipment/worn-items/Ring of Maniacal Devices|Ring of Maniacal Devices (Greater)]]
 +3
 18
 Worn Items
 No
 Crafting checks to Craft and Repair snares and traps.
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Greater)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Greater)]]
 +3
 11
 Alchemical Elixirs
 Yes
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Major)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Major)]]
 +4
 17
 Alchemical Elixirs

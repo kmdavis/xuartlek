@@ -19,11 +19,11 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Oracle`  `Poison`  `Uncommon`  `Focus`
 
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Blight|Blight]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Blight|Blight]]
 - **Range**: 30 feet
 - **Target**: 1 willing creature
 
-In the right dose, a scourge can become a cure. Deal [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] damage equal to the spell’s level to the target, then attempt a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] check against one [[srd/pf2e/books/gm-core/chapter-2-building-games/afflictions#Diseases|disease]] or poison afflicting the target. The target is then temporarily immune for 24 hours. If the target is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance|immune]] to poison, this spell has no effect.
+In the right dose, a scourge can become a cure. Deal [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] damage equal to the spell’s level to the target, then attempt a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions#Counteracting|counteract]] check against one [[srd/pf2e/books/gm-core/chapter-2-building-games/Afflictions#Diseases|disease]] or poison afflicting the target. The target is then temporarily immune for 24 hours. If the target is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance|immune]] to poison, this spell has no effect.
 
 ---
 **Heightened (5th)** You can attempt counteract checks against any number of poisons or diseases afflicting the target.

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-You conjure forth a massive, animated graveyard. You learn the [[srd/pf2e/compendium/spells/focus/living-graveyard|_living graveyard_]] grave spell.
+You conjure forth a massive, animated graveyard. You learn the [[srd/pf2e/compendium/spells/focus/Living Graveyard|_living graveyard_]] grave spell.
 
 *Source: Impossible Magic p. 41*

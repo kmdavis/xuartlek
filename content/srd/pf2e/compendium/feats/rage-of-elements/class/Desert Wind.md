@@ -20,7 +20,7 @@ socialImage: og-image.png
 
 `Air`  `Composite`  `Earth`  `Impulse`  `Kineticist`  `Primal`  `Stance`
 
-A vortex of sand and dust surrounds you. Each creature inside your kinetic aura (including you) is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] from any creature outside your kinetic aura, and creatures outside the aura are concealed from creatures inside the aura other than you. Your air impulses carry sands that cut at great speed. When you use a damaging air [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/impulse|impulse]] that affects at least one creature in your kinetic aura, that impulse deals 1 additional slashing damage, or 2 if the impulse has a single target.
+A vortex of sand and dust surrounds you. Each creature inside your kinetic aura (including you) is [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] from any creature outside your kinetic aura, and creatures outside the aura are concealed from creatures inside the aura other than you. Your air impulses carry sands that cut at great speed. When you use a damaging air [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/Impulse|impulse]] that affects at least one creature in your kinetic aura, that impulse deals 1 additional slashing damage, or 2 if the impulse has a single target.
 
 ---
 **Level (+2)** The extra damage increases by 1, or 2 if the impulse has a single target.

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/rivethun-emissary|Rivethun Emissary]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/domain-spirit|Domain Spirit]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Rivethun Emissary|Rivethun Emissary]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Domain Spirit|Domain Spirit]]
 
 Your connection with your domain spirit has deepened. You gain the advanced domain spell from the domain granted by your domain spirit.
 

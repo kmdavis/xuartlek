@@ -24,23 +24,23 @@ Intelligence or Wisdom
 
 **Divine Sanctification** must choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/flail|Flail]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/Flail|Flail]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Repose|Repose]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Healing|Healing]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Repose|Repose]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]]
+[[srd/pf2e/compendium/spells/rank-1/Soothe|Soothe]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/false-vitality|False Vitality]]
+[[srd/pf2e/compendium/spells/rank-2/False Vitality|False Vitality]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/creation|Creation]]
+[[srd/pf2e/compendium/spells/rank-4/Creation|Creation]]
 
 *Source: Divine Mysteries p. 300*

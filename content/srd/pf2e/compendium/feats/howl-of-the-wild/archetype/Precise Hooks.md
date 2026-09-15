@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/clawdancer|Clawdancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/clawdancer-dedication|Clawdancer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Clawdancer|Clawdancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Clawdancer Dedication|Clawdancer Dedication]]
 
-Your body is a varied and deadly weapon. When you critically hit a target with your claw or talon, you can apply a critical specialization effect based on the stance you're in. For claw stance, apply the knife weapon group's effect. For talon stance, apply the axe group's effect. These effects are in addition to the claw's or talon's normal critical specialization effect if you apply it.
+Your body is a varied and deadly weapon. When you critically hit a target with your claw or talon, you can apply a critical specialization effect based on the stance you're in. For claw stance, apply the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Knife|knife]] weapon group's effect. For talon stance, apply the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Axe|axe]] group's effect. These effects are in addition to the claw's or talon's normal critical specialization effect if you apply it.
 
 *Source: Howl of the Wild p. 69*

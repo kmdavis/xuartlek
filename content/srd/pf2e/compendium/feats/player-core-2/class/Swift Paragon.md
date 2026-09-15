@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: blessed swiftness
 
-The movement of you and your allies is swift and decisive as the judgment of your deity. If your ally starts a [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action in your champion's aura, their movement during that action doesn't trigger reactions. In addition, you're permanently [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]]. You can use your extra action only to Step or Stride. If you have a fly Speed, add [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] to this list. If you have an animal companion and are mounted on it at the start of your turn, you can have your mount be quickened that turn instead of you.
+The movement of you and your allies is swift and decisive as the judgment of your deity. If your ally starts a [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] action in your champion's aura, their movement during that action doesn't trigger reactions. In addition, you're permanently [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]]. You can use your extra action only to Step or Stride. If you have a fly Speed, add [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] to this list. If you have an animal companion and are mounted on it at the start of your turn, you can have your mount be quickened that turn instead of you.
 
 *Source: Player Core 2 p. 99*

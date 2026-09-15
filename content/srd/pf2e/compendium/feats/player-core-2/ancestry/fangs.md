@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Dhampir`
 
-Your incisors have grown into true fangs: long, sharp, and well-suited to drawing blood. You gain a fangs unarmed attack that deals 1d6 piercing damage. Your fangs are in the brawling group and have the [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|grapple]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] traits.
+Your incisors have grown into true fangs: long, sharp, and well-suited to drawing blood. You gain a fangs unarmed attack that deals 1d6 piercing damage. Your fangs are in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group and have the [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|grapple]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] traits.
 
 *Source: Player Core 2 p. 43*

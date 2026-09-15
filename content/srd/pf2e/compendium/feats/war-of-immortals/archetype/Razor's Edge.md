@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/warrior-of-legend|Warrior Of Legend]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/spear-of-doom|Spear of Doom]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Warrior Of Legend|Warrior Of Legend]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Spear of Doom|Spear of Doom]]
 
 Your curse and your power are one and the same, and you accept both equally. You can enter spear of doom stance as a free action.
 

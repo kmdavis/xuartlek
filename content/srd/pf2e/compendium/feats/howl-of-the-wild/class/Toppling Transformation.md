@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Druid`
 
-- **Trigger**: Your size increases due to a [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] effect.
+- **Trigger**: Your size increases due to a [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]] effect.
 
 You use your body's expansion as leverage to displace a nearby creature. You attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] an adjacent creature. For the purposes of determining what size creature you can affect, use your final size after the triggering effect.
 

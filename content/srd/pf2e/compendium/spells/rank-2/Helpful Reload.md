@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Trigger**: One of your allies makes a ranged Strike with a weapon with a reload of 1 or less
 - **Requirements**: Your ally has more ammunition for their ranged weapon available.
 - **Range**: 30 feet

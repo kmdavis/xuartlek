@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/gelid-shard|Gelid Shard]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Gelid Shard|Gelid Shard]]
 
 You draw ever more magical cold into your being, learning how to manipulate it to your whims. You gain the expert spellcasting benefits.
 

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Reflection`
 
-- **Prerequisites**: ability to cast [[srd/pf2e/compendium/spells/rank-2/humanoid-form|_humanoid form_]] or [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|_illusory disguise_]]
+- **Prerequisites**: ability to cast [[srd/pf2e/compendium/spells/rank-2/Humanoid Form|_humanoid form_]] or [[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|_illusory disguise_]]
 
-When you cast [[srd/pf2e/compendium/spells/rank-2/humanoid-form|_humanoid form_]] or [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|_illusory disguise_]] to alter your appearance, the spell's duration is 2 hours. At the end of the duration, you can extend the spell's duration for another hour, but doing so is taxing, making you [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1. You can keep extending it in this way, increasing your drained condition by 1 each time, to a maximum duration of 6 hours.
+When you cast [[srd/pf2e/compendium/spells/rank-2/Humanoid Form|_humanoid form_]] or [[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|_illusory disguise_]] to alter your appearance, the spell's duration is 2 hours. At the end of the duration, you can extend the spell's duration for another hour, but doing so is taxing, making you [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]] 1. You can keep extending it in this way, increasing your drained condition by 1 each time, to a maximum duration of 6 hours.
 
 *Source: Dark Archives (Remastered) p. 121*

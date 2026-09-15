@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Electricity`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Area**: 120-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Area**: 120-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]]
 - **Duration**: 10 minutes
 
 With a clap of your hands, you emit a loud but harmless burst of electricity, interpreting the discharged electrostatic sparks to navigate the area and help reveal secrets. Hidden chambers, objects, and creatures within the area of the effect become easier to find as they spark with static electricity, causing all creatures to gain a +2 status bonus to Perception checks to locate them for the duration. The area of effect is unimpeded by walls and solid objects.

@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 `Concentrate`  `Necromancer`  `Spellshape`  `Metamagic`
 
-You channel your necrotic magic through a thrall, expending it in the process. If the next action you use is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] that has range, you cast that spell from one of your thralls within 60 feet. That thrall becomes the point of origin for your spell; calculate range and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|cover]] from its space instead of yours. The thrall is then destroyed.
+You channel your necrotic magic through a thrall, expending it in the process. If the next action you use is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] that has range, you cast that spell from one of your thralls within 60 feet. That thrall becomes the point of origin for your spell; calculate range and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Cover|cover]] from its space instead of yours. The thrall is then destroyed.
 
 *Source: Impossible Magic p. 32*

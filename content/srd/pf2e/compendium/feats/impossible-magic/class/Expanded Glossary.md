@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Runesmith`
 
-You have memorized more runes than many in your craft. Add [[srd/pf2e/compendium/character/runesmith-runes|two runes]] of 9th level or lower to your runic repertoire.
+You have memorized more runes than many in your craft. Add [[srd/pf2e/compendium/character/Runesmith Runes|two runes]] of 9th level or lower to your runic repertoire.
 
 *Source: Impossible Magic p. 52*

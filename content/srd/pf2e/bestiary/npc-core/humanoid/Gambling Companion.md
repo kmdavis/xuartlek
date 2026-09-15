@@ -28,10 +28,10 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; (14 to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]]) low-light vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Tengu; plus three others"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], Tengu; plus three others"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +11, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +11, [[srd/pf2e/compendium/rules-elements/skills/lore|Games Lore]] +16, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +9, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +11, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +11, [[srd/pf2e/compendium/rules-elements/skills/Lore|Games Lore]] +16, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +9, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] +9"
 abilityMods: [0, 3, 0, 2, 1, 4]
 abilities_top:
   - name: "Social Specialist"
@@ -48,15 +48,15 @@ health:
     desc: "46"
 abilities_mid:
   - name: "Gamer's Guidance"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]]) When the gambling companion successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Aid|Aids]] a skill check related to games or gambling, the ally rolls twice and takes the higher result instead of gaining the usual bonus."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]]) When the gambling companion successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Aid|Aids]] a skill check related to games or gambling, the ally rolls twice and takes the higher result instead of gaining the usual bonus."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ beak +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+2 piercing"
+    desc: "⬻ beak +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]]) __Damage__ 1d6+2 piercing"
   - name: "Melee"
-    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+2 piercing"
+    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+2 piercing"
   - name: "Ranged"
-    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+2 piercing"
+    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+2 piercing"
 abilities_bot:
   - name: "Distracting Trick"
     desc: "⬺"

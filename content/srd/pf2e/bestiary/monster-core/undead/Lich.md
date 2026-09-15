@@ -30,25 +30,25 @@ modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/Languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/Languages#Necril|Necril]], [[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +28, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +24, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +17, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +19, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +22, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +20"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] +28, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +24, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +17, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +19, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +22, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +20"
 abilityMods: [0, 4, 0, 6, 4, 3]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/consumables/invisibility-potion|_invisibility potion_]], [[srd/pf2e/compendium/spells/rank-6/teleport|_scroll of teleport_]], [[srd/pf2e/compendium/equipment/staves/staff-of-fire|_greater staff of fire_]]"
+    desc: "[[srd/pf2e/compendium/equipment/consumables/Invisibility Potion|_invisibility potion_]], [[srd/pf2e/compendium/spells/rank-6/Teleport|_scroll of teleport_]], [[srd/pf2e/compendium/equipment/staves/Staff of Fire|_greater staff of fire_]]"
 ac: 31
 armorclass:
   - name: "AC"
-    desc: "31; __Fort__: +17; __Ref__: +21; __Will__: +23 +1 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]"
+    desc: "31; __Fort__: +17; __Ref__: +21; __Will__: +23 +1 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/Vitality|vitality]]"
 hp: 190
 health:
   - name: "HP"
-    desc: "190 (void healing, rejuvenation); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 10, physical 10 (except magical bludgeoning)"
+    desc: "190 (void healing, rejuvenation); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]] 10, physical 10 (except magical bludgeoning)"
 abilities_mid:
   - name: "Frightful Presence"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 60 feet, DC 29"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]]) 60 feet, DC 29"
   - name: "Counterspell"
     desc: "⬲"
   - name: "Trigger"
@@ -58,7 +58,7 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ hand +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 4d8 void plus siphon life"
+    desc: "⬻ hand +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]]) __Damage__ 4d8 void plus siphon life"
 abilities_bot:
   - name: "Drain Soul Cage"
     desc: "⭓ 6th rank"
@@ -68,7 +68,7 @@ abilities_bot:
     desc: "If a reaction would disrupt the lich's spellcasting action, the lich attempts a DC 15 flat check. On a success, the action isn't disrupted."
 spellcasting:
   - name: "Arcane Prepared Spells"
-    desc: "DC 36, attack +26 - __Cantrips (6th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/frostbite|Frostbite]], [[srd/pf2e/compendium/spells/cantrips/message|Message]], [[srd/pf2e/compendium/spells/cantrips/shield|Shield]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/enfeeble|Enfeeble]] (×2), [[srd/pf2e/compendium/spells/rank-1/fleet-step|Fleet Step]], [[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/blur|Blur]], [[srd/pf2e/compendium/spells/rank-2/false-vitality|False Vitality]], [[srd/pf2e/compendium/spells/rank-2/resist-energy|Resist Energy]], [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|See the Unseen]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/blindness|Blindness]], [[srd/pf2e/compendium/spells/rank-1/force-barrage|Force Barrage]], [[srd/pf2e/compendium/spells/rank-3/locate|Locate]], [[srd/pf2e/compendium/spells/rank-3/vampiric-feast|Vampiric Feast]] - __4th__ [[srd/pf2e/compendium/spells/rank-2/dispel-magic|Dispel Magic]], [[srd/pf2e/compendium/spells/rank-4/fire-shield|Fire Shield]], [[srd/pf2e/compendium/spells/rank-4/fly|Fly]], [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]] - __5th__ [[srd/pf2e/compendium/spells/rank-5/howling-blizzard|Howling Blizzard]] (×2), [[srd/pf2e/compendium/spells/rank-5/toxic-cloud|Toxic Cloud]], [[srd/pf2e/compendium/spells/rank-5/wall-of-ice|Wall of Ice]] - __6th__ [[srd/pf2e/compendium/spells/rank-6/chain-lightning|Chain Lightning]], [[srd/pf2e/compendium/spells/rank-6/dominate|Dominate]], [[srd/pf2e/compendium/spells/rank-6/vampiric-exsanguination|Vampiric Exsanguination]]"
+    desc: "DC 36, attack +26 - __Cantrips (6th)__ [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/Frostbite|Frostbite]], [[srd/pf2e/compendium/spells/cantrips/Message|Message]], [[srd/pf2e/compendium/spells/cantrips/Shield|Shield]], [[srd/pf2e/compendium/spells/cantrips/Telekinetic Hand|Telekinetic Hand]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Enfeeble|Enfeeble]] (×2), [[srd/pf2e/compendium/spells/rank-1/Fleet Step|Fleet Step]], [[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Blur|Blur]], [[srd/pf2e/compendium/spells/rank-2/False Vitality|False Vitality]], [[srd/pf2e/compendium/spells/rank-2/Resist Energy|Resist Energy]], [[srd/pf2e/compendium/spells/rank-2/See the Unseen|See the Unseen]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/Blindness|Blindness]], [[srd/pf2e/compendium/spells/rank-1/Force Barrage|Force Barrage]], [[srd/pf2e/compendium/spells/rank-3/Locate|Locate]], [[srd/pf2e/compendium/spells/rank-3/Vampiric Feast|Vampiric Feast]] - __4th__ [[srd/pf2e/compendium/spells/rank-2/Dispel Magic|Dispel Magic]], [[srd/pf2e/compendium/spells/rank-4/Fire Shield|Fire Shield]], [[srd/pf2e/compendium/spells/rank-4/Fly|Fly]], [[srd/pf2e/compendium/spells/rank-4/Translocate|Translocate]] - __5th__ [[srd/pf2e/compendium/spells/rank-5/Howling Blizzard|Howling Blizzard]] (×2), [[srd/pf2e/compendium/spells/rank-5/Toxic Cloud|Toxic Cloud]], [[srd/pf2e/compendium/spells/rank-5/Wall of Ice|Wall of Ice]] - __6th__ [[srd/pf2e/compendium/spells/rank-6/Chain Lightning|Chain Lightning]], [[srd/pf2e/compendium/spells/rank-6/Dominate|Dominate]], [[srd/pf2e/compendium/spells/rank-6/Vampiric Exsanguination|Vampiric Exsanguination]]"
 sourcebook: "_Monster Core_, page 219."
 ```
 

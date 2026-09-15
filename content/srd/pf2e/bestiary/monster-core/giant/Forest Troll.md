@@ -32,14 +32,14 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Jotun|Jotun]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +12"
 abilityMods: [5, 2, 6, -2, 0, -2]
 abilities_top:
   - name: "Easily Misled"
-    desc: "The forest troll gets a –4 circumstance penalty to their Perception DC against [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks."
+    desc: "The forest troll gets a –4 circumstance penalty to their Perception DC against [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] checks."
 ac: 20
 armorclass:
   - name: "AC"
@@ -47,7 +47,7 @@ armorclass:
 hp: 125
 health:
   - name: "HP"
-    desc: "125 , regeneration 20 (deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]); __Weaknesses__ electricity 10, fire 10"
+    desc: "125 , regeneration 20 (deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|electricity]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]]); __Weaknesses__ electricity 10, fire 10"
 abilities_mid:
   - name: "Furious Flailing"
     desc: "⬲"
@@ -58,9 +58,9 @@ abilities_mid:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d10+5 piercing"
+    desc: "⬻ jaws +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 2d10+5 piercing"
   - name: "Melee"
-    desc: "⬻ claw +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d8+5 slashing"
+    desc: "⬻ claw +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 2d8+5 slashing"
 abilities_bot:
   - name: "Chase Prey"
     desc: "⬺ The forest troll rushes forward on all fours, Striding and then making two claw Strikes."

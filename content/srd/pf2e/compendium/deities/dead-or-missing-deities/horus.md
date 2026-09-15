@@ -24,24 +24,24 @@ Strength or Charisma
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
 **Favored Weapon** Khopesh
 
-**Domains** [[srd/pf2e/compendium/character/domains#Air|Air]], [[srd/pf2e/compendium/character/domains#Moon|Moon]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Sun|Sun]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Air|Air]], [[srd/pf2e/compendium/character/Domains#Moon|Moon]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Sun|Sun]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/carryall|Carryall]]
+[[srd/pf2e/compendium/spells/rank-1/Carryall|Carryall]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/wall-of-wind|Wall of Wind]]
+[[srd/pf2e/compendium/spells/rank-3/Wall of Wind|Wall of Wind]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/aerial-form|Aerial Form]]
+[[srd/pf2e/compendium/spells/rank-4/Aerial Form|Aerial Form]]
 (bird only)
 
 *Source: Divine Mysteries p. 312*

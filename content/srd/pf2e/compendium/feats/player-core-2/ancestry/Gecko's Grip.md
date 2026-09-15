@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Lizardfolk`
 
-You cling to walls with a preternatural grip. You gain the [[srd/pf2e/compendium/feats/player-core/skill/combat-climber|Combat Climber]] feat as a bonus feat, and if you roll a success on an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to climb, you get a critical success instead.
+You cling to walls with a preternatural grip. You gain the [[srd/pf2e/compendium/feats/player-core/skill/Combat Climber|Combat Climber]] feat as a bonus feat, and if you roll a success on an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to climb, you get a critical success instead.
 
-**Special** If you have the [[srd/pf2e/compendium/character/heritages#Cliffscale Lizardfolk|cliffscale lizardfolk heritage]], you instead gain a climb Speed of 15 feet.
+**Special** If you have the [[srd/pf2e/compendium/character/Heritages#Cliffscale Lizardfolk|cliffscale lizardfolk heritage]], you instead gain a climb Speed of 15 feet.
 
 *Source: Player Core 2 p. 26*

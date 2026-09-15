@@ -5,13 +5,13 @@ tags:
 - trait/grimoire
 - trait/magical
 - equipment/level/6
-aliases: ["Codex Of Unimpeded Sight"]
+aliases: ["Codex of Unimpeded Sight"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5126"
 source: "Impossible Magic"
 socialImage: og-image.png
 ---
 
-# Codex Of Unimpeded Sight  *Item 6+*
+# Codex of Unimpeded Sight  *Item 6+*
 
 `Grimoire`  `Magical`
 
@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 A female figure peers through her blindfold from the cover of this stately tome. 
 
-**Activate—Reveal Truth** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Requirements** Your last action was to Cast a prepared prediction or scrying spell; **Effect** The grimoire offers you a glimpse into the truth of things. [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]].
+**Activate—Reveal Truth** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) **Frequency** once per day; **Requirements** Your last action was to Cast a prepared prediction or scrying spell; **Effect** The grimoire offers you a glimpse into the truth of things. [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]].
 
 ### Codex Of Unimpeded Sight
 

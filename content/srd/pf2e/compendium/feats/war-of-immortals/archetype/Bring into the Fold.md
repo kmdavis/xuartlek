@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Auditory`  `Emotion`  `Linguistic`  `Mental`  `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/broken-chain|Broken Chain]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Broken Chain|Broken Chain]]
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/broken-chain-dedication|Broken Chain Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Broken Chain Dedication|Broken Chain Dedication]]
 
 Not all who oppress are irredeemable, and given encouragement and some time, they will abandon their cause and join your fight against the very system they used to uphold. If your next action is to issue an Ultimatum of Liberation, you may have up to 10 targets who can hear you attempt a Will save against your class DC or spell DC, whichever is higher. You can cause any changes in attitude to last longer than the current social interaction by spending at least 10 minutes speaking with the affected targets earnestly about your cause.
 

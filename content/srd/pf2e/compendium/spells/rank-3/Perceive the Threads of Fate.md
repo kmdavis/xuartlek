@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Fortune`  `Mythic`  `Prediction`  `Rare`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Duration**: 1 minute
 
 You open your mind to the grand design of existence, enabling you to view the threads of fate in all their complex, tangled glory. You attempt Perception checks and Reflex saving throws at mythic proficiency for the duration.

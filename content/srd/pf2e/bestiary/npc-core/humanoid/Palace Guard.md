@@ -28,14 +28,14 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; (14 when rolling initiative)"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +8, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +8, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +8"
 abilityMods: [4, 2, 3, 0, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/armor#Chain Mail|chain mail]] with palace insignia, Halberd, simple manacles"
+    desc: "[[srd/pf2e/compendium/equipment/Armor#Chain Mail|chain mail]] with palace insignia, Halberd, simple manacles"
 ac: 21
 armorclass:
   - name: "AC"
@@ -52,9 +52,9 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ halberd +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d10+7 piercing"
+    desc: "⬻ halberd +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d10+7 piercing"
   - name: "Melee"
-    desc: "⬻ fist +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+7 bludgeoning"
+    desc: "⬻ fist +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+7 bludgeoning"
 abilities_bot:
   - name: "Crowd Control"
     desc: "⬻"

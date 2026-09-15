@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Gunslinger`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/class/munitions-machinist|Munitions Machinist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Munitions Machinist|Munitions Machinist]]
 
 You mix flecks of precious materials you've gathered on your journeys into your custom bullets to bring out those properties in your temporary ammunition. You can use advanced alchemy to create standard-grade adamantine, cold iron, or silver ammunition, spending 1 batch of reagents per piece of ammunition. At 15th level, you can create high-grade adamantine, cold iron, or silver ammunition.
 

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Orc`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/orc-ferocity|Orc Ferocity]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/Orc Ferocity|Orc Ferocity]]
 
 You resist death’s clutches with supernatural vigor, daring death to claim you while promising that any such attempt will surely fail. When you use Orc Ferocity, you gain temporary Hit Points equal to your level.
 

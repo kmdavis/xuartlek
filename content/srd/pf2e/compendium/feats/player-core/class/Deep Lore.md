@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Bard`
 
-- **Prerequisites**: enigma muse; Legendary in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+- **Prerequisites**: enigma muse; Legendary in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
 Your repertoire is vast, containing far more spells than usual. Add one spell to your repertoire of each spell rank you can cast.
 

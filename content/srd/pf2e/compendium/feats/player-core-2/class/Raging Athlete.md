@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Barbarian`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
 Physical obstacles can't hold back your fury. While you are raging, you gain a climb Speed and swim Speed equal to your land Speed, and the DC of [[srd/pf2e/compendium/rules-elements/actions/player-core#High Jump|High Jumps]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Long Jump|Long Jumps]] decreases by 10, and you increase your distance on a successful Long Jump by 10 feet. Your distance for a vertical [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]] increases to 5 feet vertically, and your distance for a horizontal Leap increases to 15 feet if your Speed is at least 15 feet, and to 20 feet if your Speed is at least 30 feet.
 

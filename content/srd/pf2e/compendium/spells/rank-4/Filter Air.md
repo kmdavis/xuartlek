@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Air`  `Concentrate`  `Manipulate`  `Subtle`
 
-- **Traditions**: Arcane, Divine, Primal
-- **Trigger**: You’re exposed to a [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]] that has the [[srd/pf2e/compendium/rules-elements/traits/gm-core/inhaled|inhaled]] trait, and you’re aware of the exposure
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Trigger**: You’re exposed to a [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]] that has the [[srd/pf2e/compendium/rules-elements/traits/gm-core/Inhaled|inhaled]] trait, and you’re aware of the exposure
 - **Requirements**: You breathe air.
 - **Duration**: 1 minute
 

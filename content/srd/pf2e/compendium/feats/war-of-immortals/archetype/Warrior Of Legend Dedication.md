@@ -17,13 +17,13 @@ socialImage: og-image.png
 
 `Archetype`  `Class`  `Dedication`  `Uncommon`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/warrior-of-legend|Warrior Of Legend]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Warrior Of Legend|Warrior Of Legend]]
 - **Prerequisites**: Warrior of legend
 
-You have been given a powerful blessing of battle that is also your cursed doom. As long as you aren’t wearing heavy armor or wielding a shield, spears and polearms you wield gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/parry|parry]] trait. If the weapon already has the parry trait, increase the bonus when parrying to +2. In addition, you deal an additional amount of damage equal to your [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] value with weapons in the spear and polearm groups. This damage is the same type as the required weapon.
+You have been given a powerful blessing of battle that is also your cursed doom. As long as you aren’t wearing heavy armor or wielding a [[srd/pf2e/compendium/rules-elements/Weapon Groups#Shield|shield]], [[srd/pf2e/compendium/rules-elements/Weapon Groups#Spear|spears]] and [[srd/pf2e/compendium/rules-elements/Weapon Groups#Polearm|polearms]] you wield gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/Parry|parry]] trait. If the weapon already has the parry trait, increase the bonus when parrying to +2. In addition, you deal an additional amount of damage equal to your [[srd/pf2e/compendium/rules-elements/Conditions#Doomed|doomed]] value with weapons in the spear and polearm groups. This damage is the same type as the required weapon.
 
 ### Warrior Of Legend Dedication leads to...
 
-Hero-God's Bond, [[srd/pf2e/compendium/feats/war-of-immortals/archetype/heroic-defiance|Heroic Defiance]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/know-thy-doom|Know thy Doom]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/only-my-doom-may-claim-me|Only My Doom May Claim Me]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/piercing-doom|Piercing Doom]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/spear-of-doom|Spear of Doom]]
+Hero-God's Bond, [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Heroic Defiance|Heroic Defiance]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Know thy Doom|Know thy Doom]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Only My Doom May Claim Me|Only My Doom May Claim Me]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Piercing Doom|Piercing Doom]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Spear of Doom|Spear of Doom]]
 
 *Source: War of Immortals p. 66*

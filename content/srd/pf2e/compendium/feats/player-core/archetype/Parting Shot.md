@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Fighter`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/archer|Archer]] (Level 6)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Archer|Archer]] (Level 6)
 - **Requirements**: You are wielding a loaded ranged weapon or a ranged weapon with reload 0
 
 You jump back and make a quick shot that catches your opponent by surprise. You Step and then make a ranged Strike with the required weapon. Your target is off-guard against the attack.

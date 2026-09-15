@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Fighter`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]] (Level 14)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/dueling-riposte|Dueling Riposte]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Duelist|Duelist]] (Level 14)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Dueling Riposte|Dueling Riposte]]
 
 Your weapon whirls and darts, striking foes whenever the slightest opening or moment of weakness presents itself. You can use Dueling Riposte even if you aren't benefiting from Dueling Parry (though you must be wielding a single one-handed weapon and nothing else). At the start of each of your turns, you gain an additional reaction that you can use only to make a Dueling Riposte.
 

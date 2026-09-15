@@ -16,10 +16,10 @@ socialImage: og-image.png
 `Archetype`  `Rage`
 
 - **PFS Note**: Siphon Magic cannot not be used on friendly allies or defeated opponents.
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/bloodrager|Bloodrager]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/bloodrager-dedication|Bloodrager Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Bloodrager|Bloodrager]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Bloodrager Dedication|Bloodrager Dedication]]
 - **Requirements**: Your last action was to [[srd/pf2e/compendium/rules-elements/actions/war-of-immortals#Harvest Blood|Harvest the Blood]] of a creature that can cast spells
 
-You gorge upon the magical energies of your foe’s blood. You regain one expended spell slot that must be of a lower rank than the highest rank spell you can cast. You become [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1 or increase the value of your drained condition by 1.
+You gorge upon the magical energies of your foe’s blood. You regain one expended spell slot that must be of a lower rank than the highest rank spell you can cast. You become [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]] 1 or increase the value of your drained condition by 1.
 
 *Source: War of Immortals p. 61*

@@ -25,6 +25,6 @@ While athamarus' natural pheromones are typically used for communication, you ha
 
 ### Emit Defensive Odor leads to...
 
-[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/noxious-odor|Noxious Odor]], [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/offensive-odor|Offensive Odor]], [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/persistent-odor|Persistent Odor]], [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/rapid-pheromone-recovery|Rapid Pheromone Recovery]]
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Noxious Odor|Noxious Odor]], [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Offensive Odor|Offensive Odor]], [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Persistent Odor|Persistent Odor]], [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Rapid Pheromone Recovery|Rapid Pheromone Recovery]]
 
 *Source: Howl of the Wild p. 19*

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Dhampir`
 
-The powers of domination employed by your progenitors have manifested in you as well. You can cast [[srd/pf2e/compendium/spells/rank-1/charm|_charm_]] as a divine innate spell once per day. Its spell rank is equal to half your level rounded up, but it doesn't increase its duration or number of targets at 4th and 8th rank.
+The powers of domination employed by your progenitors have manifested in you as well. You can cast [[srd/pf2e/compendium/spells/rank-1/Charm|_charm_]] as a divine innate spell once per day. Its spell rank is equal to half your level rounded up, but it doesn't increase its duration or number of targets at 4th and 8th rank.
 
 *Source: Player Core 2 p. 43*

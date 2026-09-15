@@ -1,7 +1,7 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/treasure-vault-remastered
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/backswing
 - trait/disarm
 - trait/monk
@@ -10,7 +10,7 @@ tags:
 - weapon/level/0
 aliases: ["Sansetsukon"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=302"
-source: "Treasure Vault (Remastered)"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -26,7 +26,7 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Flail
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Flail|Flail]]
 
 The sansetsukon, also known as a sanjiegun or three-section staff, is made up of three wooden staff segments, each about 14 inches in length. The staff sections are connected by short lengths of cord or chain, similar to nunchaku.
 
@@ -36,6 +36,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Twisting Gale
+[[srd/pf2e/compendium/equipment/weapons/Twisting Gale|Twisting Gale]]
 
-*Source: Treasure Vault (Remastered) p. 27*
+*Source: Tian Xia Character Guide p. 127*

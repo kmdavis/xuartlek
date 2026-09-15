@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/iridian-choirmaster|Iridian Choirmaster]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/iridian-choirmaster-dedication|Iridian Choirmaster Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Iridian Choirmaster|Iridian Choirmaster]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Iridian Choirmaster Dedication|Iridian Choirmaster Dedication]]
 - **Trigger**: Your student would be targeted with a reaction (such as Reactive Strike) due to their Stride or manipulate action.
 - **Requirements**: You're adjacent to your student.
 

@@ -30,22 +30,22 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]], [[srd/pf2e/compendium/rules-elements/languages#Shadowtongue|Shadowtongue]], Utopian; [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/Languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]], [[srd/pf2e/compendium/rules-elements/Languages#Shadowtongue|Shadowtongue]], Utopian; [[srd/pf2e/compendium/spells/rank-5/Truespeech|_truespeech_]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +12, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +11, [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] +16, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +11, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +12, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +13, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] +12, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +11, [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] +16, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +11, [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] +12, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +13, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +12"
 abilityMods: [2, 4, 0, 5, 4, 4]
 abilities_top:
   - name: "Light of Diligence"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) The gnokesh has devoted themselves to the thorough study of one particular [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] skill (with the bonus found in the Skills section above), such as Heaven Lore or Warfare Lore. If the gnokesh rolls a critical failure to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] with this skill, they get a failure instead. They can also use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Aid|Aid]] action for this skill without first preparing to help, and they automatically grant a +3 circumstance bonus."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]]) The gnokesh has devoted themselves to the thorough study of one particular [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] skill (with the bonus found in the Skills section above), such as Heaven Lore or Warfare Lore. If the gnokesh rolls a critical failure to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] with this skill, they get a failure instead. They can also use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Aid|Aid]] action for this skill without first preparing to help, and they automatically grant a +3 circumstance bonus."
 ac: 21
 armorclass:
   - name: "AC"
-    desc: "21; __Fort__: +9; __Ref__: +12; __Will__: +15 +1 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magic]]"
+    desc: "21; __Fort__: +9; __Ref__: +12; __Will__: +15 +1 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magic]]"
 hp: 70
 health:
   - name: "HP"
-    desc: "70; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] 5"
+    desc: "70; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]] 5"
 abilities_mid:
   - name: "Archon's Protection"
     desc: "⬲"
@@ -54,7 +54,7 @@ abilities_mid:
   - name: "Effect"
     desc: "The ally gains resistance 5 to all damage against the triggering damage, and the archon can make a Strike against the enemy."
   - name: "Light of Diligence"
-    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]])"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]])"
   - name: "Trigger"
     desc: "A willing ally within 15 feet critically fails at a check"
   - name: "Effect"
@@ -62,18 +62,18 @@ abilities_mid:
 speed: "25 feet, fly 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tome +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]]) __Damage__ 1d6+6 bludgeoning plus 1d6 spirit"
+    desc: "⬻ tome +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|Holy]]) __Damage__ 1d6+6 bludgeoning plus 1d6 spirit"
   - name: "Ranged"
-    desc: "⬻ light ray +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/light|Light]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], range increment 20 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|Spirit]]) __Damage__ 2d6 fire plus 2d6 spirit"
+    desc: "⬻ light ray +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Light|Light]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], range increment 20 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|Spirit]]) __Damage__ 2d6 fire plus 2d6 spirit"
 abilities_bot:
   - name: "Spells"
-    desc: "DC 22, attack +14 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/message|Message]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]] (×3) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/silence|Silence]] - __3rd__ [[srd/pf2e/compendium/spells/rank-2/calm|Calm]], [[srd/pf2e/compendium/spells/rank-3/clairaudience|Clairaudience]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/clairvoyance|Clairvoyance]], [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]] (at will) - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
+    desc: "DC 22, attack +14 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/Light|Light]], [[srd/pf2e/compendium/spells/cantrips/Message|Message]], [[srd/pf2e/compendium/spells/cantrips/Telekinetic Hand|Telekinetic Hand]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]] (×3) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Silence|Silence]] - __3rd__ [[srd/pf2e/compendium/spells/rank-2/Calm|Calm]], [[srd/pf2e/compendium/spells/rank-3/Clairaudience|Clairaudience]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/Clairvoyance|Clairvoyance]], [[srd/pf2e/compendium/spells/rank-4/Translocate|Translocate]] (at will) - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/Truespeech|Truespeech]]"
   - name: "Alluring Knowledge"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/light|Light]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]])"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Light|Light]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]])"
   - name: "Frequency"
     desc: "once per hour"
   - name: "Effect"
-    desc: "A twisting scroll of runes made of light appears in an unoccupied square within 60 feet. Each creature adjacent to the runes must succeed at a DC 22 basic Will save or take 3d8 mental damage and be [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] with the magical text as long as it remains. The magical text lasts until the end of the gnokesh's next turn."
+    desc: "A twisting scroll of runes made of light appears in an unoccupied square within 60 feet. Each creature adjacent to the runes must succeed at a DC 22 basic Will save or take 3d8 mental damage and be [[srd/pf2e/compendium/rules-elements/Conditions#Fascinated|fascinated]] with the magical text as long as it remains. The magical text lasts until the end of the gnokesh's next turn."
 sourcebook: "_Monster Core 2_, page 36."
 ```
 

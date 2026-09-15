@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Exploration`  `Rogue`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
 You keep watch for any hidden creatures or dangerous sites, moving at half your travel Speed. If you’re Anticipating an Ambush at the start of an encounter, you roll a Perception check for initiative, and all enemies rolling Stealth for initiative take a –2 circumstance penalty to their Stealth checks.
 

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/field-propagandist|Field Propagandist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/field-propagandist-dedication|Field Propagandist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Field Propagandist|Field Propagandist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Field Propagandist Dedication|Field Propagandist Dedication]]
 
-You wave around fabricated evidence that contradicts what your enemies know to be true. When you Fabricate Truth, you can affect all enemies within 30 feet of you. Compare your [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] check result to the Will DCs of all targets. It is possible to get a different degree of success for each target.
+You wave around fabricated evidence that contradicts what your enemies know to be true. When you Fabricate Truth, you can affect all enemies within 30 feet of you. Compare your [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] check result to the Will DCs of all targets. It is possible to get a different degree of success for each target.
 
 *Source: Battlecry! p. 58*

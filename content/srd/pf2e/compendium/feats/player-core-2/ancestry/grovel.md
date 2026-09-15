@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Auditory`  `Concentrate`  `Emotion`  `Kobold`  `Mental`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
 You convince your foe you're less of a threat. You attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|Feint]] against a creature. Unlike a normal Feint, the creature can be within 30 feet instead of in your melee reach, and you make your check against its Will DC instead of its Perception DC.
 

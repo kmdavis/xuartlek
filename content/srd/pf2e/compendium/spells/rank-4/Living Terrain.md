@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Earth`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
-- **Area**: 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
+- **Area**: 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
 - **Defense**: Reflex
 - **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] up to 1 minute
 
@@ -26,9 +26,9 @@ You transform an unoccupied 10-foot burst of ground into a roiling cauldron of e
 
 **Critical Success** The target takes no damage.
 
-**Success** The target takes half damage and is [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]] until the beginning of your next turn.
+**Success** The target takes half damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy 1]] until the beginning of your next turn.
 
-**Failure** The target takes full damage, is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], and is clumsy 1 until the beginning of your next turn.
+**Failure** The target takes full damage, is knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]], and is clumsy 1 until the beginning of your next turn.
 
 **Critical Failure** The target takes double damage, is knocked prone, and is clumsy 2 until the beginning of your next turn.
 

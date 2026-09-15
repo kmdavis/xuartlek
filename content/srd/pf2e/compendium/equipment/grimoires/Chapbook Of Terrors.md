@@ -5,21 +5,21 @@ tags:
 - trait/grimoire
 - trait/magical
 - equipment/level/4
-aliases: ["Chapbook Of Terrors"]
+aliases: ["Chapbook of Terrors"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5125"
 source: "Impossible Magic"
 socialImage: og-image.png
 ---
 
-# Chapbook Of Terrors  *Item 4+*
+# Chapbook of Terrors  *Item 4+*
 
 `Grimoire`  `Magical`
 
 - **Bulk**: L
 
-This lurid pamphlet contains spooky tales about [[srd/pf2e/compendium/rules-elements/traits/monster-core/ghost|ghosts]], monsters, and murderers, all illustrated in gruesome detail. The stories, fortunately, are only fictions… or are they? 
+This lurid pamphlet contains spooky tales about [[srd/pf2e/compendium/rules-elements/traits/monster-core/Ghost|ghosts]], monsters, and murderers, all illustrated in gruesome detail. The stories, fortunately, are only fictions… or are they? 
 
-**Activate—Horrify** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|spellshape]]) **Frequency** once per day; **Effect** If your next action is to Cast a prepared Spell with the [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] trait, creatures [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] by the spell also take 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent mental damage]] as they dwell on your terrifying tale.
+**Activate—Horrify** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Spellshape|spellshape]]) **Frequency** once per day; **Effect** If your next action is to Cast a prepared Spell with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]] trait, creatures [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] by the spell also take 1d6 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent mental damage]] as they dwell on your terrifying tale.
 
 ### Chapbook Of Terrors
 
@@ -31,7 +31,7 @@ This lurid pamphlet contains spooky tales about [[srd/pf2e/compendium/rules-elem
 
 ---
 
-The [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent mental damage]] is 2d6.
+The [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent mental damage]] is 2d6.
 
 ### Major Chapbook Of Terrors
 
@@ -39,6 +39,6 @@ The [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent
 
 ---
 
-The [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent mental damage]] is 4d6.
+The [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent mental damage]] is 4d6.
 
 *Source: Impossible Magic p. 229*

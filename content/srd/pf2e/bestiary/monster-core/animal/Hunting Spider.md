@@ -28,7 +28,7 @@ perception:
     desc: "+7; darkvision, web sense"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +7"
 abilityMods: [2, 4, 1, -5, 2, -4]
 abilities_top:
   - name: "Web Sense"
@@ -53,26 +53,26 @@ abilities_mid:
 speed: "25 feet, climb 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fangs +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+2 piercing plus hunting spider venom"
+    desc: "⬻ fangs +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]]) __Damage__ 1d6+2 piercing plus hunting spider venom"
   - name: "Ranged"
     desc: "⬻ web +7 (range increment 30 feet) __Damage__ web trap"
 abilities_bot:
   - name: "Descend on a Web"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]]) The hunting spider moves straight down up to 40 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn't count for falling damage. A creature that successfully Strikes the web (AC 20, Hardness 3, 5 HP) severs it, causing the spider to fall."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Move|Move]]) The hunting spider moves straight down up to 40 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn't count for falling damage. A creature that successfully Strikes the web (AC 20, Hardness 3, 5 HP) severs it, causing the spider to fall."
   - name: "Hunting Spider Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 16 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "1d4 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] (1 round)"
+    desc: "1d4 poison damage and [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] (1 round)"
   - name: "Stage 2"
-    desc: "1d6 poison damage, [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]], and off-guard (1 round)"
+    desc: "1d6 poison damage, [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy 1]], and off-guard (1 round)"
   - name: "Stage 3"
     desc: "1d6 poison damage, clumsy 2, and off-guard (1 round)"
   - name: "Web Trap"
-    desc: "A creature hit by the hunting spider's web Strike is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] and stuck to the nearest surface until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 17)."
+    desc: "A creature hit by the hunting spider's web Strike is [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] and stuck to the nearest surface until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 17)."
 sourcebook: "_Monster Core_, page 320."
 ```
 

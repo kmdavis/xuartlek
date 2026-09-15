@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/rogue|Rogue]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/rogue-dedication|Rogue Dedication]]; expert in Reflex saves
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Rogue|Rogue]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Rogue Dedication|Rogue Dedication]]; expert in Reflex saves
 
 Your proficiency rank for Reflex saves increases to master.
 

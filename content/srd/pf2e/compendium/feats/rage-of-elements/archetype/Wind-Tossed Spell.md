@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Air`  `Archetype`  `Concentrate`  `Spellshape`  `Metamagic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/elementalist|Elementalist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/rage-of-elements/archetype/elementalist-dedication|Elementalist Dedication]]; air is in your elemental philosophy
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Elementalist|Elementalist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/rage-of-elements/archetype/Elementalist Dedication|Elementalist Dedication]]; air is in your elemental philosophy
 
-You enhance your spell with elemental air, using the wind to find your target and carry your magic around cover. If the next action you use is to Cast a Spell that requires a spell attack roll, you ignore the target's [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition and any cover they have from you. The spell gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]] trait.
+You enhance your spell with elemental air, using the wind to find your target and carry your magic around cover. If the next action you use is to Cast a Spell that requires a spell attack roll, you ignore the target's [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition and any cover they have from you. The spell gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Air|air]] trait.
 
 *Source: Rage of Elements p. 59*

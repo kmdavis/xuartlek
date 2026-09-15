@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/bounty-hunter|Bounty Hunter]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Bounty Hunter|Bounty Hunter]]
 
 When focused on finding your quarry, you’re relentless. You gain the [[srd/pf2e/compendium/rules-elements/actions/player-core#Hunt Prey|Hunt Prey]] action. You can use Hunt Prey to designate a creature that you’ve observed, heard about, or learned about through some other means, such as a bounty board or wanted poster. In addition to the other benefits of Hunt Prey, you can designate a target as your prey while Gathering Information about them, in addition to designating them as your prey when Tracking them as normal. If you have already identified your target and selected them as your prey, you gain a +2 circumstance bonus to checks to Gather Information about them.
 
-If you already have Hunt Prey, you gain the [[srd/pf2e/compendium/feats/player-core/archetype/monster-hunter|Monster Hunter]] feat in addition to the other benefits of this feat.
+If you already have Hunt Prey, you gain the [[srd/pf2e/compendium/feats/player-core/archetype/Monster Hunter|Monster Hunter]] feat in addition to the other benefits of this feat.
 
 ### Bounty Hunter Dedication leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/keep-pace|Keep Pace]], [[srd/pf2e/compendium/feats/player-core-2/archetype/opportunistic-grapple|Opportunistic Grapple]], [[srd/pf2e/compendium/feats/player-core-2/archetype/posse|Posse]], [[srd/pf2e/compendium/feats/player-core-2/archetype/tools-of-the-trade|Tools of the Trade]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Keep Pace|Keep Pace]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Opportunistic Grapple|Opportunistic Grapple]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Posse|Posse]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Tools of the Trade|Tools of the Trade]]
 
 *Source: Player Core 2 p. 191*

@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: maestro muse
 
-You learn the [[srd/pf2e/compendium/spells/cantrips/uplifting-overture|_uplifting overture_]] composition cantrip, which aids your allies’ skills with the inspiring nature of your performance.
+You learn the [[srd/pf2e/compendium/spells/cantrips/Uplifting Overture|_uplifting overture_]] composition cantrip, which aids your allies’ skills with the inspiring nature of your performance.
 
 *Source: Player Core p. 102*

@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Surki`
 
-You can induce wound repair by circulating magic throughout your body. If you rest for 10 minutes, you regain Hit Points equal to your Constitution modifier × half your level. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] effect and is cumulative with any healing you receive from [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]].
+You can induce wound repair by circulating magic throughout your body. If you rest for 10 minutes, you regain Hit Points equal to your Constitution modifier × half your level. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Healing|healing]] effect and is cumulative with any healing you receive from [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]].
 
 ### Nodal Healing leads to...
 
-[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/nodal-regeneration|Nodal Regeneration]]
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Nodal Regeneration|Nodal Regeneration]]
 
 *Source: Howl of the Wild p. 51*

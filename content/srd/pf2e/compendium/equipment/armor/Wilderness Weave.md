@@ -18,11 +18,11 @@ socialImage: og-image.png
 - **Price**: 160 gp
 - **Usage**: worn armor
 - **Bulk**: L
-- **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Padded Armor|Padded Armor]]
+- **Base Armor**: [[srd/pf2e/compendium/equipment/Armor#Padded Armor|Padded Armor]]
 
 This padded armor is favored by trackers and foragers who frequent uninhabited forests and brush lands. The armor enables you to communicate with wildlife and other animals.
 
-**Activate—Commune** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|_speak with animals_]] on yourself.
+**Activate—Commune** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]]) **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-2/Speak with Animals|_speak with animals_]] on yourself.
 
 **Craft Requirements** Supply a casting of _speak with animals_.
 

@@ -16,13 +16,13 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`  `Uncommon`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/vehicle-mechanic|Vehicle Mechanic]]
-- **Prerequisites**: Intelligence +2; Trained in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Vehicle Mechanic|Vehicle Mechanic]]
+- **Prerequisites**: Intelligence +2; Trained in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-You are adept at designing and maintaining mechanical vehicles, and you lavish your attention and ingenuity on one vehicle in particular. You become an expert in Crafting, and you choose one vehicle you own—or your party owns collectively—to be your signature vehicle: the vehicle you spend time customizing to grant it various advantages. You can spend 1 week of downtime with a new vehicle to designate it as your signature vehicle instead. Due to your amazing customizations and adjustments, pilots gain a +1 circumstance bonus to any piloting checks they make to control your signature vehicle. If you are a master in Crafting, this bonus increases to +2.
+You are adept at designing and maintaining mechanical [[srd/pf2e/compendium/equipment/vehicles/vehicles|vehicles]], and you lavish your attention and ingenuity on one vehicle in particular. You become an expert in Crafting, and you choose one vehicle you own—or your party owns collectively—to be your signature vehicle: the vehicle you spend time customizing to grant it various advantages. You can spend 1 week of downtime with a new vehicle to designate it as your signature vehicle instead. Due to your amazing customizations and adjustments, pilots gain a +1 circumstance bonus to any piloting checks they make to control your signature vehicle. If you are a master in Crafting, this bonus increases to +2.
 
 ### Vehicle Mechanic Dedication leads to...
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/efficient-controls|Efficient Controls]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/engine-bay|Engine Bay]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/impervious-vehicle|Impervious Vehicle]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/miraculous-flight|Miraculous Flight]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/patch-job|Patch Job]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/superior-propulsion|Superior Propulsion]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Efficient Controls|Efficient Controls]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Engine Bay|Engine Bay]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Impervious Vehicle|Impervious Vehicle]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Miraculous Flight|Miraculous Flight]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Patch Job|Patch Job]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Superior Propulsion|Superior Propulsion]]
 
 *Source: Guns & Gears (Remastered) p. 56*

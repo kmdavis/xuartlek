@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Gunslinger`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/class/ricochet-master|Ricochet Master]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Ricochet Master|Ricochet Master]]
 
 The more obstacles between you and your target, the deadlier your shots become, as you ricochet off multiple surfaces to hit them. When using Ricochet Shot, your shot can bounce off of any surface within your weapon's first three range increments and the target can't benefit from cover unless they have total cover on all sides.
 

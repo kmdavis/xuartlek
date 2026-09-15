@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Animist`  `Apparition`
 
-- **Prerequisites**: liturgist practice; at least one animist [[srd/pf2e/compendium/rules-elements/traits/player-core/stance|stance]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Practices#Liturgist|liturgist]] practice; at least one animist [[srd/pf2e/compendium/rules-elements/traits/player-core/Stance|stance]]
 - **Trigger**: Your turn begins.
 
-Your spiritual allies guide your movements, allowing you to prepare for the trials before you at a speed faster than thought. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]], then enter an [[srd/pf2e/compendium/rules-elements/traits/war-of-immortals/animist|animist]] [[srd/pf2e/compendium/rules-elements/traits/player-core/stance|stance]] you know.
+Your spiritual allies guide your movements, allowing you to prepare for the trials before you at a speed faster than thought. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]], then enter an [[srd/pf2e/compendium/rules-elements/traits/war-of-immortals/Animist|animist]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Stance|stance]] you know.
 
 *Source: War of Immortals p. 26*

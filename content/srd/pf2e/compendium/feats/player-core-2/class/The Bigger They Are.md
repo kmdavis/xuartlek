@@ -23,6 +23,6 @@ With reckless speed, you dash, jump and swing around a creature to find a more v
 
 **Failure** Your movement ends, and you trigger reactions as if you had moved out of the square you started in.
 
-**Critical Failure** As failure, and you fall [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
+**Critical Failure** As failure, and you fall [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]].
 
 *Source: Player Core 2 p. 168*

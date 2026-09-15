@@ -23,6 +23,6 @@ If you use Sanctify Armament again, any previous use of it expires.
 
 ### Sanctify Armament leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/lasting-armament|Lasting Armament]]
+[[srd/pf2e/compendium/feats/player-core/class/Lasting Armament|Lasting Armament]]
 
 *Source: Player Core p. 117*

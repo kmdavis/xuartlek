@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 
 You become temporarily ghostlike as you push forward, moving through obstacles in your path. You gain a +10-foot status bonus to your Speeds, then Stride twice. While you don't become completely incorporeal, this movement ignores the effects of difficult terrain, greater difficult terrain, and hazardous terrain and isn't impeded by physical barriers that don't block your line of sight. If the movement would end in a space that would normally be obstructed, it instead ends at the nearest unobstructed space you pass through before reaching it. You can use ghost rush to [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]] instead of Stride if you have the corresponding movement type. If you're riding a mount or piloting a vehicle that's Large or smaller and unencumbered, you can cause the spell to affect the mount or vehicle instead, including any cargo or passengers.
 

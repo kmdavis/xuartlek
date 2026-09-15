@@ -16,11 +16,11 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`  `Magical`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/necrologist|Necrologist]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Necrologist|Necrologist]]
 - **Frequency**: once per round
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/necrologist-dedication|Necrologist Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Necrologist Dedication|Necrologist Dedication]]
 - **Trigger**: Your last action was a Mobbing Assault made by your horde that reduced at least one living creature to 0 Hit Points.
 
-The expiring breaths of your enemies fuel your power. You gain 15 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] that last for 1 minute. The temporary Hit Points you gain increase by 5 at 10th level and every 2 levels thereafter.
+The expiring breaths of your enemies fuel your power. You gain 15 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Temporary Hit Points|temporary Hit Points]] that last for 1 minute. The temporary Hit Points you gain increase by 5 at 10th level and every 2 levels thereafter.
 
 *Source: Battlecry! p. 66*

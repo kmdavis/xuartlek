@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]]
 
-You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Crawl|Crawl]] incredibly swiftly—up to half your Speed, rather than 5 feet. If you're a master in Acrobatics, you can Crawl at full Speed, and if you're legendary, you aren't [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] while [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
+You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Crawl|Crawl]] incredibly swiftly—up to half your Speed, rather than 5 feet. If you're a master in Acrobatics, you can Crawl at full Speed, and if you're legendary, you aren't [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] while [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]].
 
 *Source: Player Core p. 259*

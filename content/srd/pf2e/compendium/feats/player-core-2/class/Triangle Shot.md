@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Fortune`  `Monk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/monastic-archer-stance|Monastic Archer Stance]]; [[srd/pf2e/compendium/feats/player-core-2/class/stunning-blows|Stunning Blows]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Monastic Archer Stance|Monastic Archer Stance]]; [[srd/pf2e/compendium/feats/player-core-2/class/Stunning Blows|Stunning Blows]]
 - **Requirements**: You are in Monastic Archer Stance and wielding a bow usable with that stance.
 
-You string three arrows to your bow and fire them all at once. Make three ranged Strikes against a single target with the required weapon, each using your current multiple attack penalty, and you take an additional –2 penalty. This counts as two attacks when calculating your multiple attack penalty, and you combine the attacks' damage for the purpose of resistances and weaknesses. Your [[srd/pf2e/compendium/feats/player-core-2/class/stunning-blows|Stunning Blows]] benefit applies to Triangle Shot, even though it isn't a [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Flurry of Blows|Flurry of Blows]]. If all three Strikes hit, the target takes 3d6 persistent bleed damage.
+You string three arrows to your bow and fire them all at once. Make three ranged Strikes against a single target with the required weapon, each using your current multiple attack penalty, and you take an additional –2 penalty. This counts as two attacks when calculating your multiple attack penalty, and you combine the attacks' damage for the purpose of resistances and weaknesses. Your [[srd/pf2e/compendium/feats/player-core-2/class/Stunning Blows|Stunning Blows]] benefit applies to Triangle Shot, even though it isn't a [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Flurry of Blows|Flurry of Blows]]. If all three Strikes hit, the target takes 3d6 persistent bleed damage.
 
 *Source: Player Core 2 p. 127*

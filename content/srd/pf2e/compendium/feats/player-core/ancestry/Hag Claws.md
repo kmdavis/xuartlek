@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Changeling`
 
-When you came of age, your fingernails grew long and sharp. You gain a claw unarmed attack that deals 1d4 slashing damage. Your claws are in the brawling group and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] traits.
+When you came of age, your fingernails grew long and sharp. You gain a claw unarmed attack that deals 1d4 slashing damage. Your claws are in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] traits.
 
 **Special** Hag claws can develop at any point in a changeling’s life. You can select this feat anytime you would gain an ancestry feat, but you can’t retrain out of it.
 

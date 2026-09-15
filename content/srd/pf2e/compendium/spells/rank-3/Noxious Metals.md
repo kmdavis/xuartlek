@@ -17,13 +17,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Metal`  `Poison`
 
-- **Tradition**: Arcane
-- **Deity**: [[srd/pf2e/compendium/deities/elemental-lords/ferrumnestra|Ferrumnestra]]
+- **Tradition**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1)
+- **Deity**: [[srd/pf2e/compendium/deities/elemental-lords/Ferrumnestra|Ferrumnestra]]
 - **Range**: 60 feet
 - **Area**: 20-foot burst
 - **Defense**: basic Fortitude
 
-This spell forces toxic metal to coalesce on the skin or surface of all living creatures in the area, dealing 4d6 poison damage with a basic Fortitude save. Any creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] trait, has the [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|wood]] trait, or has an anathema toward metal, takes the following effects depending on the result of that Fortitude save.
+This spell forces toxic metal to coalesce on the skin or surface of all living creatures in the area, dealing 4d6 poison damage with a basic Fortitude save. Any creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]] trait, has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Wood|wood]] trait, or has an anathema toward metal, takes the following effects depending on the result of that Fortitude save.
 
 **Critical Success** The creature suffers no additional effects.
 

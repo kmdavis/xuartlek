@@ -23,9 +23,9 @@ socialImage: og-image.png
 
 **Perception** +20; precise vision 30 feet, imprecise hearing 30 feet
 
-**Communication** speech ([[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], and two other common languages)
+**Communication** speech ([[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Empyrean|Empyrean]], and two other common languages)
 
-**Skills** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +21, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +22, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +19, Sarenrae Lore +23
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +21, [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] +22, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +19, Sarenrae Lore +23
 
 **Int** +2, **Wis** +5, **Cha** +4
 
@@ -33,10 +33,10 @@ socialImage: og-image.png
 
 --- 
 
-Prayer beads given prolonged exposure to spiritual energies at sacred [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenite]] sites can attain sapience as _Dawnflower beads_. Other such objects hold the spirits of Sarenite priests who dedicated themselves to their work beyond death. Dawnflower beads function as a [[srd/pf2e/compendium/equipment/worn-items/shining-symbol|_greater shining symbol_]]. They don’t re-attune to other deities but allow any divine spellcaster who isn’t [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] to use them, though they attempt to talk their wielder out of morally questionable acts. Dawnflower beads have the following additional activations.
+Prayer beads given prolonged exposure to spiritual energies at sacred [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Sarenrae|Sarenite]] sites can attain sapience as _Dawnflower beads_. Other such objects hold the spirits of Sarenite priests who dedicated themselves to their work beyond death. Dawnflower beads function as a [[srd/pf2e/compendium/equipment/worn-items/Shining Symbol|_greater shining symbol_]]. They don’t re-attune to other deities but allow any divine spellcaster who isn’t [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]] to use them, though they attempt to talk their wielder out of morally questionable acts. Dawnflower beads have the following additional activations.
 
 **Activate** Cast a Spell; **Effect** The beads cast 4th-rank _light_.
 
-**Activate** Cast a Spell; **Frequency** once per day; **Effect** The beads cast 5th-rank [[srd/pf2e/compendium/spells/focus/vital-luminance|_vital luminance_]].
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** The beads cast 5th-rank [[srd/pf2e/compendium/spells/focus/Vital Luminance|_vital luminance_]].
 
 *Source: Treasure Vault (Remastered) p. 194*

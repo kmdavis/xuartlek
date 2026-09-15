@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/gelid-shard|Gelid Shard]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Gelid Shard|Gelid Shard]]
 
 You can't be impeded by environmental effects that rely on cold or its byproducts. You ignore greater difficult terrain caused by snow and ice.
 

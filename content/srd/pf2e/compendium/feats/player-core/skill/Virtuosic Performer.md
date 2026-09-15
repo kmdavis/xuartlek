@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]
 
 You have exceptional talent with one type of performance. You gain a +1 circumstance bonus when making a certain type of performance. If you are a master in Performance, this bonus increases to +2. Select one of the following specialties and apply the bonus when attempting Performance checks of that type. If it’s unclear whether the specialty applies, the GM decides.
 
@@ -25,6 +25,6 @@ You have exceptional talent with one type of performance. You gain a +1 circumst
 
 ### Virtuosic Performer leads to...
 
-[[srd/pf2e/compendium/feats/player-core/skill/legendary-performer|Legendary Performer]], Talent Envy
+[[srd/pf2e/compendium/feats/player-core/skill/Legendary Performer|Legendary Performer]], Talent Envy
 
 *Source: Player Core p. 264*

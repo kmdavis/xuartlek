@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Archetype`  `Fortune`  `Uncommon`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/clawdancer|Clawdancer]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Clawdancer|Clawdancer]]
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/clawdancer-dedication|Clawdancer Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Clawdancer Dedication|Clawdancer Dedication]]
 - **Access**: catfolk ancestry
 - **Trigger**: You attempt a basic Reflex save.
 - **Requirements**: You’re in either claw stance or talon stance.

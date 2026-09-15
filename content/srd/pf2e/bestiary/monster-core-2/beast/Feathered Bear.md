@@ -30,10 +30,10 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; darkvision, scent (imprecise) 60 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]; [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]]; [[srd/pf2e/compendium/spells/rank-5/Truespeech|_truespeech_]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +22, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +20, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +16"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +22, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +20, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +16"
 abilityMods: [7, 2, 5, 0, 2, 3]
 ac: 29
 armorclass:
@@ -42,10 +42,10 @@ armorclass:
 hp: 160
 health:
   - name: "HP"
-    desc: "160; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], precision; __Resistances__ all damage 10 (except [[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]], [[srd/pf2e/compendium/equipment/runes/ghost-touch|_ghost touch_]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]]; double resistance vs. non-magical)"
+    desc: "160; __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], precision; __Resistances__ all damage 10 (except [[srd/pf2e/compendium/rules-elements/traits/player-core/Force|force]], [[srd/pf2e/compendium/equipment/runes/Ghost Touch|_ghost touch_]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]]; double resistance vs. non-magical)"
 abilities_mid:
   - name: "Guardian's Aegis"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) 30 feet. All allies within 30 feet of the feathered bear gain a +1 status bonus to saves against magical effects. The bonus increases to +2 if the effect originated from a [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiend]]."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]]) 30 feet. All allies within 30 feet of the feathered bear gain a +1 status bonus to saves against magical effects. The bonus increases to +2 if the effect originated from a [[srd/pf2e/compendium/rules-elements/traits/player-core/Fiend|fiend]]."
   - name: "Avenging Claws"
     desc: "⬲"
   - name: "Trigger"
@@ -55,16 +55,16 @@ abilities_mid:
 speed: "35 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 3d10+9 force"
+    desc: "⬻ jaws +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]]) __Damage__ 3d10+9 force"
   - name: "Melee"
-    desc: "⬻ claw +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]]) __Damage__ 3d6+9 force plus Grab"
+    desc: "⬻ claw +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]]) __Damage__ 3d6+9 force plus Grab"
 abilities_bot:
   - name: "Bond with Mortal"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]])"
   - name: "Frequency"
     desc: "once per day"
   - name: "Effect"
-    desc: "The spirit guide forms a bond with a mortal creature. While the bond exists, the spirit guide increases their current and maximum Hit Points by 20, gains a +2 status bonus to their attack and damage rolls, and can communicate telepathically with the bonded mortal as long as the two beings are on the same plane. The spirit guide can only be bonded with one mortal at a time, and they can take this action again to end the bond or to form a new bond (which also ends the old bond). The bond also ends if the spirit guide or the mortal dies. This bond strengthens the spirit guide's connection to the [[srd/pf2e/compendium/gm/planes#The Universe|Universe]]. While bonded, the spirit guide loses the [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]] traits, loses their immunities and resistances, and changes their Strikes to deal the appropriate physical damage (typically piercing or slashing) instead of force damage."
+    desc: "The spirit guide forms a bond with a mortal creature. While the bond exists, the spirit guide increases their current and maximum Hit Points by 20, gains a +2 status bonus to their attack and damage rolls, and can communicate telepathically with the bonded mortal as long as the two beings are on the same plane. The spirit guide can only be bonded with one mortal at a time, and they can take this action again to end the bond or to form a new bond (which also ends the old bond). The bond also ends if the spirit guide or the mortal dies. This bond strengthens the spirit guide's connection to the [[srd/pf2e/compendium/gm/Planes#The Universe|Universe]]. While bonded, the spirit guide loses the [[srd/pf2e/compendium/rules-elements/traits/gm-core/Incorporeal|incorporeal]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]] traits, loses their immunities and resistances, and changes their Strikes to deal the appropriate physical damage (typically piercing or slashing) instead of force damage."
   - name: "Bonded Strike"
     desc: "⬺"
   - name: "Requirements"
@@ -72,10 +72,10 @@ abilities_bot:
   - name: "Effect"
     desc: "The spirit guide makes a jaws Strike. If this attack hits, the bonded mortal can spend their reaction to Strike the same target."
   - name: "Mauler"
-    desc: "The feathered bear gains a +4 circumstance bonus to damage rolls against creatures they've [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]."
+    desc: "The feathered bear gains a +4 circumstance bonus to damage rolls against creatures they've [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]]."
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 27 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/know-the-way|Know the Way]] - __3rd__ [[srd/pf2e/compendium/spells/rank-2/environmental-endurance|Environmental Endurance]], [[srd/pf2e/compendium/spells/rank-3/haste|Haste]], [[srd/pf2e/compendium/spells/rank-1/jump|Jump]], [[srd/pf2e/compendium/spells/rank-2/oaken-resilience|Oaken Resilience]] - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
+    desc: "DC 27 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/Know the Way|Know the Way]] - __3rd__ [[srd/pf2e/compendium/spells/rank-2/Environmental Endurance|Environmental Endurance]], [[srd/pf2e/compendium/spells/rank-3/Haste|Haste]], [[srd/pf2e/compendium/spells/rank-1/Jump|Jump]], [[srd/pf2e/compendium/spells/rank-2/Oaken Resilience|Oaken Resilience]] - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/Truespeech|Truespeech]]"
 sourcebook: "_Monster Core 2_, page 305."
 ```
 

@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`  `Manipulate`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/crossbow-infiltrator|Crossbow Infiltrator]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/crossbow-infiltrator-dedication|Crossbow Infiltrator Dedication]]
-- **Requirements**: You're wielding an unloaded [[srd/pf2e/compendium/equipment/weapons/crossbow/hand-crossbow|hand crossbow]] or an unloaded [[srd/pf2e/compendium/equipment/weapons/crossbow/gauntlet-bow|gauntlet bow]].
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Crossbow Infiltrator|Crossbow Infiltrator]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Crossbow Infiltrator Dedication|Crossbow Infiltrator Dedication]]
+- **Requirements**: You're wielding an unloaded [[srd/pf2e/compendium/equipment/weapons/crossbow/Hand Crossbow|hand crossbow]] or an unloaded [[srd/pf2e/compendium/equipment/weapons/crossbow/Gauntlet Bow|gauntlet bow]].
 
 You can fire off a single shot even when it seems like you are unprepared. You Interact to reload your hand crossbow or gauntlet bow and attempt a ranged Strike with it.
 
-**Special** If you have the [[srd/pf2e/compendium/feats/battlecry/archetype/repeating-hand-crossbow-training|Repeating Hand Crossbow Training]] feat, you can use this feat with a repeating hand crossbow to load an entire magazine, but the speed means you can fire only one bolt before the magazine jams and becomes useless. You must fully replace a magazine as normal before firing with a repeating hand crossbow after using this ability.
+**Special** If you have the [[srd/pf2e/compendium/feats/battlecry/archetype/Repeating Hand Crossbow Training|Repeating Hand Crossbow Training]] feat, you can use this feat with a repeating hand crossbow to load an entire magazine, but the speed means you can fire only one bolt before the magazine jams and becomes useless. You must fully replace a magazine as normal before firing with a repeating hand crossbow after using this ability.
 
 *Source: Battlecry! p. 57*

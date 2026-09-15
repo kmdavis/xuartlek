@@ -22,7 +22,7 @@ socialImage: og-image.png
 DC 21
 
 **Disable**
-DC 28 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (expert) to reposition each mirror, or [[srd/pf2e/compendium/spells/rank-2/dispel-magic|_dispel magic_]] (3rd level; [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] DC 25) to counteract each mirror
+DC 28 [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] (expert) to reposition each mirror, or [[srd/pf2e/compendium/spells/rank-2/Dispel Magic|_dispel magic_]] (3rd level; [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions#Counteracting|counteract]] DC 25) to counteract each mirror
 
 **AC** 21, **Fort** +17, **Ref** +11
 

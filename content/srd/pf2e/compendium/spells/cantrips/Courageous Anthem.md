@@ -23,6 +23,6 @@ socialImage: og-image.png
 - **Area**: 60-foot emanation
 - **Duration**: 1 round
 
-You inspire yourself and your allies with words or tunes of encouragement. You and all allies in the area gain a +1 status bonus to attack rolls, damage rolls, and saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] effects.
+You inspire yourself and your allies with words or tunes of encouragement. You and all allies in the area gain a +1 status bonus to attack rolls, damage rolls, and saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]] effects.
 
 *Source: Player Core p. 370*

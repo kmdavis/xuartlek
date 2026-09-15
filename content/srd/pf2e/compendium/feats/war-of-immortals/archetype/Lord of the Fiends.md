@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/archfiend|Archfiend]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/archfiend-dedication|Archfiend Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Archfiend|Archfiend]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Archfiend Dedication|Archfiend Dedication]]
 
-You consider every fiend a future subject and can assess them at a glance. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]. Attempt a check at mythic proficiency to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] about every [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiend]] you can see. For the next hour, whenever you roll a success on a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], or [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check against a fiend, you get a critical success instead.
+You consider every fiend a future subject and can assess them at a glance. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]. Attempt a check at mythic proficiency to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] about every [[srd/pf2e/compendium/rules-elements/traits/player-core/Fiend|fiend]] you can see. For the next hour, whenever you roll a success on a [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], or [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] check against a fiend, you get a critical success instead.
 
 *Source: War of Immortals p. 111*

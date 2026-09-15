@@ -19,9 +19,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Incapacitation`  `Linguistic`  `Manipulate`  `Mental`  `Subtle`
 
-- **Traditions**: Arcane, Occult
-- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Diabolic|Diabolic]], [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
-- **Deities**: [[srd/pf2e/compendium/deities/queens-of-the-night/ardad-lili|Ardad Lili]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]], [[srd/pf2e/compendium/deities/archdevils/dispater|Dispater]], [[srd/pf2e/compendium/deities/dwarven-gods/kols|Kols]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-crawling-chaos|Nyarlathotep (The Crawling Chaos)]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-faceless-sphinx|Nyarlathotep (The Faceless Sphinx)]], [[srd/pf2e/compendium/deities/empyreal-lords/olheon|Olheon]], [[srd/pf2e/compendium/deities/demon-lords/sifkesh|Sifkesh]], [[srd/pf2e/compendium/deities/eldest/the-green-mother|The Green Mother]], [[srd/pf2e/compendium/deities/azlanti-pantheon/ulon|Ulon]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodlines**: [[srd/pf2e/compendium/character/Bloodlines#Diabolic|Diabolic]], [[srd/pf2e/compendium/character/Bloodlines#Fey|Fey]]
+- **Deities**: [[srd/pf2e/compendium/deities/queens-of-the-night/Ardad Lili|Ardad Lili]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Asmodeus|Asmodeus]], [[srd/pf2e/compendium/deities/archdevils/Dispater|Dispater]], [[srd/pf2e/compendium/deities/dwarven-gods/Kols|Kols]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (The Crawling Chaos)|Nyarlathotep (The Crawling Chaos)]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (The Faceless Sphinx)|Nyarlathotep (The Faceless Sphinx)]], [[srd/pf2e/compendium/deities/empyreal-lords/Olheon|Olheon]], [[srd/pf2e/compendium/deities/demon-lords/Sifkesh|Sifkesh]], [[srd/pf2e/compendium/deities/eldest/The Green Mother|The Green Mother]], [[srd/pf2e/compendium/deities/azlanti-pantheon/Ulon|Ulon]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

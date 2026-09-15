@@ -30,10 +30,10 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +14, [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +14, [[srd/pf2e/compendium/rules-elements/skills/Lore|Warfare Lore]] +12"
 abilityMods: [5, 0, 3, 0, 2, 2]
 ac: 23
 armorclass:
@@ -42,7 +42,7 @@ armorclass:
 hp: 90
 health:
   - name: "HP"
-    desc: "90 (4 segments); __Weaknesses__ area damage 8, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 8"
+    desc: "90 (4 segments); __Weaknesses__ area damage 8, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 8"
 abilities_mid:
   - name: "Reactive Strike"
     desc: "⬲"

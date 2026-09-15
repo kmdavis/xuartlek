@@ -24,23 +24,23 @@ Intelligence or Charisma
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/macuahuitl|Macuahuitl]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Macuahuitl|Macuahuitl]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Moon|Moon]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Moon|Moon]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Pain|Pain]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/domains#Sorrow|Sorrow]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Pain|Pain]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/Domains#Sorrow|Sorrow]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/grim-tendrils|Grim Tendrils]]
+[[srd/pf2e/compendium/spells/rank-1/Grim Tendrils|Grim Tendrils]]
 
 - **3rd**
 Moth's Supper
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/moon-frenzy|Moon Frenzy]]
+[[srd/pf2e/compendium/spells/rank-5/Moon Frenzy|Moon Frenzy]]
 
 *Source: Divine Mysteries p. 125*

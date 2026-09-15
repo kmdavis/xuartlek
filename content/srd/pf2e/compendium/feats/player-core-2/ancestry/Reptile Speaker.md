@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Lizardfolk`
 
-You hear the sounds of reptiles as language. You can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill with [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]] that are reptiles (the GM determines which animals count as reptiles).
+You hear the sounds of reptiles as language. You can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] skill with [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animals]] that are reptiles (the GM determines which animals count as reptiles).
 
 *Source: Player Core 2 p. 26*

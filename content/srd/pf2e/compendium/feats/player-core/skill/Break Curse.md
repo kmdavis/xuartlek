@@ -19,7 +19,7 @@ socialImage: og-image.png
 `Concentrate`  `Exploration`  `General`  `Healing`  `Skill`
 
 - **PFS Note**: The Break Curse feat can be used once at the end of a scenario to remove a curse. Should it fail, the affected PC must use spellcasting services or a boon to remove the curse.
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] or Master in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] or Master in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
 You spend 8 hours praying or performing occult rites over the target, weakening a curse's power over them. Attempt to counteract the curse, using Occultism or Religion for your counteract check and half your level rounded up for the counteract rank. Break Curse only takes 10 minutes of prayer and rites if you are legendary in Occultism or Religion.
 

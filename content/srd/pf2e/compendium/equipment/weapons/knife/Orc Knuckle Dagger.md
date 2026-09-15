@@ -23,9 +23,9 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Knife
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Knife|Knife]]
 
-This stout, metal blade of [[srd/pf2e/compendium/character/ancestries/orc|orc]] design has a horizontal basket hilt with blades jutting from each end, or sometimes one blade like that of a katar.
+This stout, metal blade of [[srd/pf2e/compendium/character/ancestries/Orc|orc]] design has a horizontal basket hilt with blades jutting from each end, or sometimes one blade like that of a katar.
 
 ### Critical Specialization Effects
 

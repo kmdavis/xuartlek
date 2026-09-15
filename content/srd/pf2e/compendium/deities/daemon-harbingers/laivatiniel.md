@@ -24,23 +24,23 @@ Wisdom or Charisma
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/crossbow/crossbow|Crossbow]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/crossbow/Crossbow|Crossbow]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/domains#Tyranny|Tyranny]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/Domains#Tyranny|Tyranny]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Sorrow|Sorrow]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Sorrow|Sorrow]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/agitate|Agitate]]
+[[srd/pf2e/compendium/spells/rank-1/Agitate|Agitate]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/enthrall|Enthrall]]
+[[srd/pf2e/compendium/spells/rank-3/Enthrall|Enthrall]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/warp-mind|Warp Mind]]
+[[srd/pf2e/compendium/spells/rank-7/Warp Mind|Warp Mind]]
 
 *Source: Divine Mysteries p. 302*

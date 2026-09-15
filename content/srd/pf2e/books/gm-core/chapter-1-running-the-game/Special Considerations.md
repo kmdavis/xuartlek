@@ -1,6 +1,7 @@
 ---
 title: "Special Considerations"
 aliases: ["Special Considerations"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2496"
 citation: "GM Core pg. 15"
-socialImage: og-image.png
 ---
 
 # Special Considerations
@@ -33,7 +33,7 @@ While GMing, strive to make quick, fair, and consistent rulings. Your rulings sh
 
 ### The Basics
 
-The following are some basic guidelines for adjudicating rules in play—these are the same principles that Pathfinder's game rules are based on. You might want to keep printouts of these guidelines and the [[srd/pf2e/books/gm-core/chapter-1-running-the-game/difficulty-classes|DC guidelines]] for quick reference.
+The following are some basic guidelines for adjudicating rules in play—these are the same principles that Pathfinder's game rules are based on. You might want to keep printouts of these guidelines and the [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Difficulty Classes|DC guidelines]] for quick reference.
 
 - If you don't know how long a quick task takes, go with 1 action, or 2 actions if a character shouldn't be able to perform it three times per round.
 - If you're not sure what action a task uses, look for the most similar basic action. If you don't find one, make up an undefined action and add any necessary traits (usually attack, concentrate, manipulate, or move).
@@ -43,7 +43,7 @@ The following are some basic guidelines for adjudicating rules in play—these a
 - If you're making up an effect, creatures should be incapacitated or killed on only a critical success (or for a saving throw, on a critical failure).
 - If you don't know what check to use, pick the most appropriate skill. If no other skill applies to a check to Recall Knowledge, use an appropriate Lore skill (usually at an untrained proficiency rank).
 - Use the characters' daily preparations as the time to reset anything that lasts roughly a day.
-- When a character accomplishes something noteworthy that doesn't have rules for XP, award them XP for an [[srd/pf2e/books/gm-core/chapter-1-running-the-game/rewards#XP Awards|accomplishment]] (10 to 30).
+- When a character accomplishes something noteworthy that doesn't have rules for XP, award them XP for an [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Rewards#XP Awards|accomplishment]] (10 to 30).
 - When the PCs fail at a task, look for a way they might fail forward, meaning the story moves forward with a negative consequence rather than the failure halting progress entirely
 
 ### Consistency and Fairness
@@ -233,13 +233,13 @@ A player might want to create a character with a disability, or their character 
 
 ### Blindness or Impaired Vision
 
-A blind character can't detect anything using vision, critically fails Perception checks requiring sight, is immune to [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] effects, and can't be [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] or [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]]. You might give this character the [[srd/pf2e/compendium/feats/player-core/archetype/blind-fight|Blind-Fight]] feat for free.
+A blind character can't detect anything using vision, critically fails Perception checks requiring sight, is immune to [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]] effects, and can't be [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] or [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]]. You might give this character the [[srd/pf2e/compendium/feats/player-core/archetype/Blind-Fight|Blind-Fight]] feat for free.
 
 A character with impaired vision might take a –2 to –4 penalty to vision-based Perception checks. Spectacles or other corrective devices might reduce or remove this, which can typically be found in most major settlements.
 
 ### Deafness or Being Hard of Hearing
 
-A deaf character can't detect anything using hearing, critically fails Perception checks that require hearing, and is immune to [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] effects. These disabilities typically don't restrict their ability cast spells or use magic items, but if they perform an action they're not accustomed to that involves auditory elements, they must succeed at a DC 5 flat check or the action is lost. It's best to give them the [[srd/pf2e/compendium/feats/player-core/skill/sign-language|Sign Language]] feat for free, and you might give them [[srd/pf2e/compendium/feats/player-core/skill/read-lips|Read Lips]] as well. You might give one or more other characters in the group Sign Language for free as well.
+A deaf character can't detect anything using hearing, critically fails Perception checks that require hearing, and is immune to [[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]] effects. These disabilities typically don't restrict their ability cast spells or use magic items, but if they perform an action they're not accustomed to that involves auditory elements, they must succeed at a DC 5 [flat check](https://2e.aonprd.com/Rules.aspx?ID=333) or the action is lost. It's best to give them the [[srd/pf2e/compendium/feats/player-core/skill/Sign Language|Sign Language]] feat for free, and you might give them [[srd/pf2e/compendium/feats/player-core/skill/Read Lips|Read Lips]] as well. You might give one or more other characters in the group Sign Language for free as well.
 
 A hard-of-hearing character might take a –2 to –4 penalty to Perception checks that are hearing-based. Like spectacles, corrective devices for hearing can be found in most places that adventurers find themselves trading.
 
@@ -247,7 +247,7 @@ A hard-of-hearing character might take a –2 to –4 penalty to Perception chec
 
 Some magic items require certain limbs or other body parts. It's fine to allow an alternative form of the item, turning boots into bracers for a character without legs, for example.
 
-A character with a missing hand or arm might need to spend 2 actions to [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] with an item that requires two hands, or otherwise compensate. Using a two-handed weapon is not possible. Someone missing a foot or leg might take a small penalty to Speed, and if they have no legs or are unable to walk, they might use a [[srd/pf2e/compendium/equipment/assistive-items/wheelchair|wheelchair]], a trained mount, or flight magic. Characters can typically acquire prosthetics in most cities or settlements, which, through advanced crafting, magic, or clockwork, can provide various levels of assistive function. Many assistive devices appear here.
+A character with a missing hand or arm might need to spend 2 actions to [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] with an item that requires two hands, or otherwise compensate. Using a two-handed weapon is not possible. Someone missing a foot or leg might take a small penalty to Speed, and if they have no legs or are unable to walk, they might use a [[srd/pf2e/compendium/equipment/assistive-items/Wheelchair|wheelchair]], a trained mount, or flight magic. Characters can typically acquire prosthetics in most cities or settlements, which, through advanced crafting, magic, or clockwork, can provide various levels of assistive function. Many assistive devices appear [here](https://2e.aonprd.com/Equipment.aspx?Category=72).
 
 ## Rarity
 

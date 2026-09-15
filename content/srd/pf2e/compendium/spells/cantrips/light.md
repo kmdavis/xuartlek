@@ -17,10 +17,10 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Light`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
-- **Spell Lists**: Elemental
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]]
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Cosmos|Cosmos]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Angelic|Angelic]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Cosmos|Cosmos]]
 - **Range**: 120 feet
 - **Duration**: until your next daily preparations
 

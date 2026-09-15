@@ -24,11 +24,11 @@ Intelligence or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/dancers-spear|Dancer's Spear]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/Dancer's Spear|Dancer's Spear]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Perfection|Perfection]], [[srd/pf2e/compendium/character/domains#Time|Time]], [[srd/pf2e/compendium/character/domains#Toil|Toil]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Perfection|Perfection]], [[srd/pf2e/compendium/character/Domains#Time|Time]], [[srd/pf2e/compendium/character/Domains#Toil|Toil]]
 
 **Alternate Domains** 
 
@@ -38,9 +38,9 @@ Intelligence or Charisma
 Gravitational Pull
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/creation|Creation]]
+[[srd/pf2e/compendium/spells/rank-4/Creation|Creation]]
 
 - **9th**
-[[srd/pf2e/compendium/spells/rank-9/detonate-magic|Detonate Magic]]
+[[srd/pf2e/compendium/spells/rank-9/Detonate Magic|Detonate Magic]]
 
 *Source: Divine Mysteries p. 316*

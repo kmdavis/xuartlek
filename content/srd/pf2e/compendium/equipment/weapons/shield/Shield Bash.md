@@ -17,7 +17,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Shield
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Shield|Shield]]
 
 A shield bash is not actually a weapon, but a maneuver in which you thrust or swing your shield to hit your foe with an impromptu attack.
 

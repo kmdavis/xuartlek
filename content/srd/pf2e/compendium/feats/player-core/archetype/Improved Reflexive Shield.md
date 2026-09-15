@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Fighter`  `Guardian`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bastion|Bastion]] (Level 18), Golden Legionnaire (Level 18)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/reflexive-shield|Reflexive Shield]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Bastion|Bastion]] (Level 18), Golden Legionnaire (Level 18)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Reflexive Shield|Reflexive Shield]]
 
 Your shield can help save nearby allies. When you use Shield Block against damage resulting from a Reflex save, adjacent allies who would take damage due to Reflex saves against the same effect also benefit from the damage reduction.
 

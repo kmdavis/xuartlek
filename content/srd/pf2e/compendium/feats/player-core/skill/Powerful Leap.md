@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
 You can jump 5 feet up with a vertical Leap without making a High Jump. You also increase the horizontal distance when you Leap, including as part of a High Jump or Long Jump, by 5 feet.
 

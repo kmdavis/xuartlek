@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/warrior-of-legend|Warrior Of Legend]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Warrior Of Legend|Warrior Of Legend]]
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/warrior-of-legend-dedication|Warrior Of Legend Dedication]]
-- **Trigger**: You gain the [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] condition.
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Warrior Of Legend Dedication|Warrior Of Legend Dedication]]
+- **Trigger**: You gain the [[srd/pf2e/compendium/rules-elements/Conditions#Doomed|doomed]] condition.
 
 Even as shadows of your doom haunt the corners of your vision, your implacable spirit surges and cries out that your time has not yet come. You gain temporary Hit Points equal to your level and a +1 status bonus to all saving throws, both of which last for 1 minute.
 

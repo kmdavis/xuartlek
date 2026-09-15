@@ -28,7 +28,7 @@ perception:
     desc: "+18; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +16, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +19"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +16, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +19"
 abilityMods: [7, 5, 5, -4, 4, -2]
 abilities_top:
   - name: "Deep Breath"
@@ -51,11 +51,11 @@ abilities_bot:
   - name: "Aquatic Drag"
     desc: "⬻"
   - name: "Requirements"
-    desc: "The tylosaurus has a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]]"
+    desc: "The tylosaurus has a creature [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]]"
   - name: "Effect"
-    desc: "The platecarpus [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swims]] up to half its Speed, carrying the [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] creature with it."
+    desc: "The platecarpus [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swims]] up to half its Speed, carrying the [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] creature with it."
   - name: "Swallow Whole"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]]) Large, 2d6+5 bludgeoning, Rupture 18"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|Attack]]) Large, 2d6+5 bludgeoning, Rupture 18"
   - name: "Vicious Strafe"
     desc: "⬺ The tylosaurus [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swims]] up to its Speed. It can make one jaws Strike and one tail Strike at any point during its movement, each attacking a different target."
 sourcebook: "_Monster Core 2_, page 227."

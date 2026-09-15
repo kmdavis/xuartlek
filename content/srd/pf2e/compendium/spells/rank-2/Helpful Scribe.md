@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Linguistic`  `Manipulate`
 
-- **Traditions**: Arcane, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: touch
 - **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] up to 10 minutes
 

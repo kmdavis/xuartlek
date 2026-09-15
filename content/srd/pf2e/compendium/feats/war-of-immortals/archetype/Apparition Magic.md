@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/animist|Animist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/basic-animist-spellcasting|Basic Animist Spellcasting]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Animist|Animist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Basic Animist Spellcasting|Basic Animist Spellcasting]]
 
-You can cast more divine spells each day. You gain 1 additional spell slot from animist archetype feats for each spell rank other than your two highest animist spell slots. These additional slots can only be used to prepare spells from your apparition’s apparition spells.
+You can cast more [divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2) spells each day. You gain 1 additional spell slot from animist archetype feats for each spell rank other than your two highest animist spell slots. These additional slots can only be used to prepare spells from your apparition’s apparition spells.
 
 *Source: War of Immortals p. 56*

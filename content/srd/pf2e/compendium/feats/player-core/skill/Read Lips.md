@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
 You can read lips of others nearby who you can clearly see. The language read must be one that you know. When you’re at your leisure, you can do this automatically. In encounter mode or when attempting a more difficult feat of lipreading, you’re fascinated and off-guard during each round in which you focus on lip movements, and you must succeed at a Society check (DC determined by the GM) to successfully read someone’s lips.
 

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/archfiend|Archfiend]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/archfiend-dedication|Archfiend Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Archfiend|Archfiend]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Archfiend Dedication|Archfiend Dedication]]
 
-You can teleport across the battlefield, disappearing and appearing in a burst of hellfire and brimstone, a flash of lightning, a cloud of caustic gas, or other environmental hazard common within your planned realm. You can cast [[srd/pf2e/compendium/spells/rank-4/translocate|_translocate_]] as a 4th-rank divine innate spell at will. When you do, spaces adjacent to the one you leave from and the one you appear in are momentarily filled with a damaging energy common to your realm, dealing 4d6 damage of your realm’s damage type to creatures in the affected spaces ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save against your class DC or spell DC, whichever is higher).
+You can teleport across the battlefield, disappearing and appearing in a burst of hellfire and brimstone, a flash of lightning, a cloud of caustic gas, or other environmental hazard common within your planned realm. You can cast [[srd/pf2e/compendium/spells/rank-4/Translocate|_translocate_]] as a 4th-rank [divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2) innate spell at will. When you do, spaces adjacent to the one you leave from and the one you appear in are momentarily filled with a damaging energy common to your realm, dealing 4d6 damage of your realm’s damage type to creatures in the affected spaces ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save against your class DC or spell DC, whichever is higher).
 
 *Source: War of Immortals p. 112*

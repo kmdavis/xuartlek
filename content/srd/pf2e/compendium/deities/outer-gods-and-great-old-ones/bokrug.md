@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/ranseur|Ranseur]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/Ranseur|Ranseur]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Dreams|Dreams]], [[srd/pf2e/compendium/character/domains#Water|Water]], [[srd/pf2e/compendium/character/domains#Wealth|Wealth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Dreams|Dreams]], [[srd/pf2e/compendium/character/Domains#Water|Water]], [[srd/pf2e/compendium/character/Domains#Wealth|Wealth]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/hydraulic-push|Hydraulic Push]]
+[[srd/pf2e/compendium/spells/rank-1/Hydraulic Push|Hydraulic Push]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/control-water|Control Water]]
+[[srd/pf2e/compendium/spells/rank-5/Control Water|Control Water]]
 
 - **9th**
-[[srd/pf2e/compendium/spells/rank-9/wrathful-storm|Wrathful Storm]]
+[[srd/pf2e/compendium/spells/rank-9/Wrathful Storm|Wrathful Storm]]
 
 *Source: Divine Mysteries p. 318*

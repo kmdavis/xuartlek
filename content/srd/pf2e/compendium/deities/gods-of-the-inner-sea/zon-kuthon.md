@@ -10,7 +10,7 @@ socialImage: og-image.png
 
 # Zon-Kuthon  *Deity*
 
-- **PFS Note**: This deity grants [[srd/pf2e/compendium/spells/rank-5/slither|_slither_]] instead of umbral journey_ The Midnight Lord embodies and glorifies pain, shadows, and mutilation, and he is one of the most twisted and malevolent gods on the face of Golarion. Once known as Dou-Bral, he crafted the immense Star Towers that still help keep [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/rovagug|Rovagug]] pinned in his prison at Golarion’s heart, lending his own skill and ability to the great deific alliance to bind that evil entity. Yet a divine argument between him and his sister [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]] resulted in the god departing for parts unknown. Zon-Kuthon traveled beyond the edges of the multiverse and stared into the face of the incomprehensible things that dwell there. No one knows what he found in that place, but he returned—changed, but claiming to be strengthened by what he had endured. Likewise, the nation of Nidal on Golarion, which is bound to him, is a nation of survivors, founded by those few strong enough to do what they must so their people could survive the terrible aftermath of Earthfall and the Age of Darkness that followed.
+- **PFS Note**: This deity grants [[srd/pf2e/compendium/spells/rank-5/Slither|_slither_]] instead of umbral journey_ The Midnight Lord embodies and glorifies pain, shadows, and mutilation, and he is one of the most twisted and malevolent gods on the face of Golarion. Once known as Dou-Bral, he crafted the immense Star Towers that still help keep [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Rovagug|Rovagug]] pinned in his prison at Golarion’s heart, lending his own skill and ability to the great deific alliance to bind that evil entity. Yet a divine argument between him and his sister [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Shelyn|Shelyn]] resulted in the god departing for parts unknown. Zon-Kuthon traveled beyond the edges of the multiverse and stared into the face of the incomprehensible things that dwell there. No one knows what he found in that place, but he returned—changed, but claiming to be strengthened by what he had endured. Likewise, the nation of Nidal on Golarion, which is bound to him, is a nation of survivors, founded by those few strong enough to do what they must so their people could survive the terrible aftermath of Earthfall and the Age of Darkness that followed.
 - **Category**: Gods of the Inner Sea
 - **Edicts**: bring pain to the world, mutilate your body
 - **Anathema**: create permanent or long-lasting sources of light, provide comfort to those who suffer
@@ -25,24 +25,24 @@ Constitution or Wisdom
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/spiked-chain|Spiked Chain]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/Spiked Chain|Spiked Chain]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Pain|Pain]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Pain|Pain]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/phantom-pain|Phantom Pain]]
+[[srd/pf2e/compendium/spells/rank-1/Phantom Pain|Phantom Pain]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/wall-of-thorns|Wall of Thorns]]
+[[srd/pf2e/compendium/spells/rank-3/Wall of Thorns|Wall of Thorns]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/umbral-journey|Umbral Journey]]
+[[srd/pf2e/compendium/spells/rank-5/Umbral Journey|Umbral Journey]]
 
 ### Divine Intercession
 
@@ -54,10 +54,10 @@ Zon-Kuthon rarely intervenes directly in mortal affairs, but when he does take a
 
 **Major Boon** Shadows are deeper around you. Darkvision and greater darkvision cannot penetrate darkness within 60 feet of you, but you can see through it normally.
 
-**Minor Curse** You are surrounded by spectral chains that cause you to always be [[srd/pf2e/compendium/rules-elements/conditions#Encumbered|encumbered]] and that have the same effects as armor with the [[srd/pf2e/compendium/rules-elements/traits/player-core/noisy|noisy]] trait.
+**Minor Curse** You are surrounded by spectral chains that cause you to always be [[srd/pf2e/compendium/rules-elements/Conditions#Encumbered|encumbered]] and that have the same effects as armor with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Noisy|noisy]] trait.
 
 **Moderate Curse** You share the pain of others, and even minor wounds bring you incredible pain. Whenever you see (or otherwise sense) a creature take damage, you take 1d6 mental damage. Whenever you take damage any other way than from the first part of this curse, you take 1d6 mental damage from increased pain and are sickened 1. Mental damage from this curse ignores any resistance you have to mental damage.
 
-**Major Curse** Zon-Kuthon steals away your joy, leaving you with only pain. You lose that which you cherish the most forever, and lose the ability to feel joy. You can’t gain benefits from [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effects based on positive emotions. If Zon-Kuthon feels you are ready to renounce, destroy, mutilate, or torture that which you once cherished most, he might return it to you to allow you to do so.
+**Major Curse** Zon-Kuthon steals away your joy, leaving you with only pain. You lose that which you cherish the most forever, and lose the ability to feel joy. You can’t gain benefits from [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]] effects based on positive emotions. If Zon-Kuthon feels you are ready to renounce, destroy, mutilate, or torture that which you once cherished most, he might return it to you to allow you to do so.
 
 *Source: Divine Mysteries p. 110*

@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Occult, Primal
+- **Traditions**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Target**: 1 foe, and either yourself or 1 ally
 - **Defense**: Fortitude
@@ -24,9 +24,9 @@ You prove that slow and steady doesn’t always win the race by slowing a foe in
 
 **Critical Success** The targets are unaffected.
 
-**Success** The foe is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 for 1 round, and the other target is unaffected.
+**Success** The foe is [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]] 1 for 1 round, and the other target is unaffected.
 
-**Failure** The foe is slowed 1 for 3 rounds, and the other target is [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] for 1 round. They can use the extra action only to Step, Stride, or Strike.
+**Failure** The foe is slowed 1 for 3 rounds, and the other target is [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]] for 1 round. They can use the extra action only to Step, Stride, or Strike.
 
 **Critical Failure** The foe is slowed 1 for 3 minutes, and the other target is quickened for 1 minute. They can use the extra action only to Step, Stride, or Strike.
 

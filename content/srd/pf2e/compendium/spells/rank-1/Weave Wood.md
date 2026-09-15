@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Wood`
 
-- **Traditions**: Primal, Arcane
-- **Deity**: [[srd/pf2e/compendium/deities/elemental-lords/shumunue|Shumunue]]
+- **Traditions**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4), [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1)
+- **Deity**: [[srd/pf2e/compendium/deities/elemental-lords/Shumunue|Shumunue]]
 - **Cast**: 1 minute
 - **Range**: touch
 - **Target**: 1 piece of unprocessed wood, reeds, or plant fiber of 1 Bulk or less

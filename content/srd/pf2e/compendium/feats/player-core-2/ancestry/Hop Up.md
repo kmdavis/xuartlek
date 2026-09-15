@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Tripkee`
 
-- **Trigger**: You lose the [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] condition.
+- **Trigger**: You lose the [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]] condition.
 
 Your frog-like agility awakens as soon as you do. You Stand. This movement doesn't trigger reactions.
 

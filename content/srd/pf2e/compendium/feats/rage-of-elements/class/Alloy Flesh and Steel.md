@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Impulse`  `Kineticist`  `Manipulate`  `Metal`  `Polymorph`  `Primal`
 
-Elemental energy replaces every cell of your body with raw metal. You gain the benefits of the [[srd/pf2e/compendium/spells/rank-8/ferrous-form|_ferrous form_]] spell (except you can't cast [[srd/pf2e/compendium/spells/cantrips/needle-darts|_needle darts_]]) until the end of your next turn. You can Sustain the impulse up to 1 minute, and when you do, you can Raise a metal Shield if you're wielding one. Your metal [[srd/pf2e/compendium/rules-elements/actions/rage-of-elements#Elemental Blast|Elemental Blasts]] deal an additional die of damage. If you suspend any conditions with Alloy Flesh and Steel, when it ends, you're temporarily immune to Alloy Flesh and Steel for 1 hour.
+Elemental energy replaces every cell of your body with raw metal. You gain the benefits of the [[srd/pf2e/compendium/spells/rank-8/Ferrous Form|_ferrous form_]] spell (except you can't cast [[srd/pf2e/compendium/spells/cantrips/Needle Darts|_needle darts_]]) until the end of your next turn. You can Sustain the impulse up to 1 minute, and when you do, you can Raise a metal Shield if you're wielding one. Your metal [[srd/pf2e/compendium/rules-elements/actions/rage-of-elements#Elemental Blast|Elemental Blasts]] deal an additional die of damage. If you suspend any conditions with Alloy Flesh and Steel, when it ends, you're temporarily immune to Alloy Flesh and Steel for 1 hour.
 
 ---
 **Level (16th)** The resistance is 15.

@@ -18,11 +18,11 @@ socialImage: og-image.png
 
 `Auditory`  `Emotion`  `Fear`  `Mental`  `Monk`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]] (Level 8)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/dragon-stance|Dragon Stance]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Martial Artist|Martial Artist]] (Level 8)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Dragon Stance|Dragon Stance]]
 - **Requirements**: You are in Dragon Stance.
 
-You bellow, instilling fear in your enemies. Enemies within a 15-foot emanation must succeed at a Will save against your [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] DC or be [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]] (frightened 2 on a critical failure). When a creature frightened by the roar begins its turn adjacent to you, it can't reduce its frightened value below 1 on that turn. Your first attack that hits a frightened creature after you roar and before the end of your next turn gains a +4 circumstance bonus to damage.
+You bellow, instilling fear in your enemies. Enemies within a 15-foot emanation must succeed at a Will save against your [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] DC or be [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened 1]] (frightened 2 on a critical failure). When a creature frightened by the roar begins its turn adjacent to you, it can't reduce its frightened value below 1 on that turn. Your first attack that hits a frightened creature after you roar and before the end of your next turn gains a +4 circumstance bonus to damage.
 
  After you use Dragon Roar, you can't use it again for 1d4 rounds. Its effects end immediately if you leave Dragon Stance. Creatures in the area are then temporarily immune for 1 minute.
 

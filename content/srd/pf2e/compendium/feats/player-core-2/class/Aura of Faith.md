@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: holy or unholy
 
-You radiate an aura of belief that imbues your attacks and those of nearby allies with divine power. Each willing ally in your champion's aura adds the [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] trait to their Strikes if you're holy or adds the [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait to their Strikes if you're unholy.
+You radiate an aura of belief that imbues your attacks and those of nearby allies with divine power. Each willing ally in your champion's aura adds the [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]] trait to their Strikes if you're holy or adds the [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]] trait to their Strikes if you're unholy.
 
 *Source: Player Core 2 p. 97*

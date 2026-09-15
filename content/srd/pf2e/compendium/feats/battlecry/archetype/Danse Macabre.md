@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`  `Flourish`  `Manipulate`  `Visual`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/necrologist|Necrologist]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Necrologist|Necrologist]]
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/necrologist-dedication|Necrologist Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Necrologist Dedication|Necrologist Dedication]]
 - **Requirements**: Your horde is raised.
 
 Your horde can drag unwilling victims along with it as it shambles forward. Your horde Strides up to its Speed and can move through the spaces of Large and smaller creatures, but it must end its movement in an unoccupied space. Each creature whose space it moves through is subjected to the horde's Mobbing Assault, attempting a basic Reflex save as usual. A creature who fails the saving throw is also [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Repositioned]] to an unoccupied square of your choice adjacent to the horde's final position. You can't move the creature into or through obstacles.

@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 - **Usage**: worn eyepiece
 
-These brass goggles are engraved with flame patterns and have thick, heavy lenses. While worn, they give you a +1 item bonus to Crafting checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] alchemical items. When making [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strikes]] with alchemical bombs, you ignore lesser [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|cover]] . If your Strike with an alchemical bomb fails (but doesn't critically fail), you gain a +1 item bonus to the splash damage the target of the Strike takes.
+These brass goggles are engraved with flame patterns and have thick, heavy lenses. While worn, they give you a +1 item bonus to Crafting checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] alchemical items. When making [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strikes]] with alchemical bombs, you ignore lesser [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Cover|cover]] . If your Strike with an alchemical bomb fails (but doesn't critically fail), you gain a +1 item bonus to the splash damage the target of the Strike takes.
 
 ### Alchemist Goggles
 

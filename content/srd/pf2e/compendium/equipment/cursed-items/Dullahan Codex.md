@@ -27,10 +27,10 @@ The origins of the notorious _Dullahan Codex_ are shrouded in mystery. Some lege
 
 **Success** The codex fuses to you.
 
-**Failure** The codex fuses to you, and you become doomed 1.
+**Failure** The codex fuses to you, and you become {{conditions 9 "doomed 1"}}.
 
 **Critical Failure** As failure, but you're doomed 2.
 
- If you attempt to get rid of the codex while it's fused to you, it returns to your possession within an hour. Each day the codex is fused to you, you must attempt another Will saving throw, but a critical success does nothing. The doomed value from the codex can decrease only after it's no longer fused to you; once it's fused to you, you remain its intended victim unless you complete a _freedom_ ritual aimed at ending this 10th-rank effect. (On a critical failure with this ritual, the codex adds all casters to its list.) You can redirect the curse by inscribing another person's name in the grimoire and succeeding at a DC 40 [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] check. Doing so is an evil act. If the curse is ritually ended or redirected, or the chosen victim dies, the codex moves on to a new victim.
+ If you attempt to get rid of the codex while it's fused to you, it returns to your possession within an hour. Each day the codex is fused to you, you must attempt another Will saving throw, but a critical success does nothing. The doomed value from the codex can decrease only after it's no longer fused to you; once it's fused to you, you remain its intended victim unless you complete a _freedom_ ritual aimed at ending this 10th-rank effect. (On a critical failure with this ritual, the codex adds all casters to its list.) You can redirect the curse by inscribing another person's name in the grimoire and succeeding at a DC 40 [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] or [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] check. Doing so is an evil act. If the curse is ritually ended or redirected, or the chosen victim dies, the codex moves on to a new victim.
 
 *Source: Treasure Vault (Remastered) p. 191*

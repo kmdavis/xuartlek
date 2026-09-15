@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Metal`  `Morph`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Target**: one metal weapon you are wielding
 - **Duration**: 1 minute
 

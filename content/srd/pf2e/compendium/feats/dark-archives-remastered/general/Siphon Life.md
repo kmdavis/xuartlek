@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Aftermath`  `Magical`  `Rare`  `Void`  `Negative`
 
-- **Prerequisites**: You've been reduced to 0 Hit Points by an enemy with the [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] trait.
+- **Prerequisites**: You've been reduced to 0 Hit Points by an enemy with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]] trait.
 
 Experiences with necromantic energy have left a permanent mark on you, casting you in a deathlike pallor, chilling your body temperature to be ice-cold, turning your very blood black, and giving you the power to rip out an enemy's life force. Strike with an unarmed attack. If you hit and the target is a living creature, it takes 4d6 additional void damage, depending on its Fortitude save. If the target takes any void damage, you gain an equal number of temporary Hit Points, which last for 1 minute.
 

@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 `Auditory`  `Barbarian`  `Rage`
 
-You unleash a terrifying howl. Attempt [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] each enemy within 30 feet: you don't take a penalty if the creature doesn't understand your language. Regardless of the results of your checks, each target is then temporarily immune to Terrifying Howl for 1 minute.
+You unleash a terrifying howl. Attempt [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] each enemy within 30 feet: you don't take a penalty if the creature doesn't understand your language. Regardless of the results of your checks, each target is then temporarily immune to Terrifying Howl for 1 minute.
 
 *Source: Player Core 2 p. 82*

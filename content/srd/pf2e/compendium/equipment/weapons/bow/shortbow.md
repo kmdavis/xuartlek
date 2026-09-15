@@ -1,12 +1,12 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/player-core
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/deadly
 - weapon/level/0
 aliases: ["Shortbow"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=437"
-source: "Player Core"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Deadly`
 
-- **Favored Weapon**: Alocer, General Susumu, [[srd/pf2e/compendium/deities/other-gods/gruhastha|Gruhastha]], [[srd/pf2e/compendium/deities/sakhil-tormentors/iggeret|Iggeret]], Neith, Phi Deva, [[srd/pf2e/compendium/deities/pantheons/sovyrian-conclave|Sovyrian Conclave]], [[srd/pf2e/compendium/deities/monitor-demigods/vavaalrav|Vavaalrav]]
+- **Favored Weapon**: Alocer, General Susumu, [[srd/pf2e/compendium/deities/other-gods/Gruhastha|Gruhastha]], [[srd/pf2e/compendium/deities/sakhil-tormentors/Iggeret|Iggeret]], Neith, Phi Deva, [[srd/pf2e/compendium/deities/pantheons/Sovyrian Conclave|Sovyrian Conclave]], [[srd/pf2e/compendium/deities/monitor-demigods/Vavaalrav|Vavaalrav]]
 - **Price**: 3 gp
 - **Damage**: 1d6 P
 - **Bulk**: 1
@@ -23,8 +23,8 @@ socialImage: og-image.png
 - **Reload**: 0
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Bow
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/bow/arrows|Arrows]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bow|Bow]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/bow/Arrows|Arrows]]
 
 This smaller bow is made of a single piece of wood and favored by skirmishers and cavalry.
 
@@ -34,6 +34,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/dazzling-shortbow|Dazzling Shortbow]], [[srd/pf2e/compendium/equipment/weapons/hunters-bow|Hunter's Bow]]
+[[srd/pf2e/compendium/equipment/weapons/Dazzling Shortbow|Dazzling Shortbow]], [[srd/pf2e/compendium/equipment/weapons/Hunter's Bow|Hunter's Bow]]
 
-*Source: Player Core p. 280*
+*Source: Tian Xia Character Guide p. 128*

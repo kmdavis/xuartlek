@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Auditory`  `Concentrate`  `Manipulate`  `Sonic`
 
-- **Tradition**: Occult
-- **Area**: 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]]
+- **Tradition**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Area**: 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Line|line]]
 - **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]]
 
 By playing a brief tune on an instrument or in song, you cause the notes of the melody to physically manifest into a shimmering, translucent path. This path doesn’t need to be over solid ground and can tilt up or down diagonally up to 45 degrees, but it must be a straight, 5-foot-wide line. It can support as many creatures as can physically fit on the bridge.

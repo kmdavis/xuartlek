@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Rogue`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/nimble-dodge|Nimble Dodge]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Nimble Dodge|Nimble Dodge]]
 
 You throw yourself into a roll to escape imminent danger. You can use Nimble Dodge before attempting a Reflex save in addition to its original trigger. If you do, the circumstance bonus applies to your Reflex save against the triggering effect.
 
@@ -22,6 +22,6 @@ When you use Nimble Dodge and the triggering attack fails or critically fails, o
 
 ### Nimble Roll leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/nimble-strike|Nimble Strike]]
+[[srd/pf2e/compendium/feats/player-core/class/Nimble Strike|Nimble Strike]]
 
 *Source: Player Core p. 173*

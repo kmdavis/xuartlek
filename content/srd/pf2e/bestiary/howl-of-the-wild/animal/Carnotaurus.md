@@ -30,7 +30,7 @@ perception:
     desc: "+15; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +14"
 abilityMods: [7, 2, 4, -4, 2, 0]
 ac: 24
 armorclass:
@@ -44,20 +44,20 @@ abilities_mid:
   - name: "Headbutt"
     desc: "⬲"
   - name: "Trigger"
-    desc: "A creature ends a [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action within reach of the carnotaurus's horn Strike"
+    desc: "A creature ends a [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] action within reach of the carnotaurus's horn Strike"
   - name: "Effect"
     desc: "The carnotaurus makes a horn Strike against the triggering creature."
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d10+9 piercing plus vicious mauling"
+    desc: "⬻ jaws +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 2d10+9 piercing plus vicious mauling"
   - name: "Melee"
-    desc: "⬻ horn +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 1d12+9 piercing"
+    desc: "⬻ horn +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 1d12+9 piercing"
 abilities_bot:
   - name: "Powerful Charge"
-    desc: "⬺ The carnotaurus lowers its horns and surges toward a foe. It Strides twice, then makes a horn Strike. If it moved at least 20 feet from its starting position, the Strike's damage is increased to 2d12+9 and knocks the target [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] if successful."
+    desc: "⬺ The carnotaurus lowers its horns and surges toward a foe. It Strides twice, then makes a horn Strike. If it moved at least 20 feet from its starting position, the Strike's damage is increased to 2d12+9 and knocks the target [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] if successful."
   - name: "Vicious Mauling"
-    desc: "The carnotaurus's jaws Strike deals an additional 1d8 persistent bleed damage to [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] targets."
+    desc: "The carnotaurus's jaws Strike deals an additional 1d8 persistent bleed damage to [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] targets."
 sourcebook: "_Howl of the Wild_, page 137."
 ```
 

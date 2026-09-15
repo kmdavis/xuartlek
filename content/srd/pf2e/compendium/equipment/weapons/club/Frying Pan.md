@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Fatal`  `Halfling`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/goblin-gods/cong|Cong]], [[srd/pf2e/compendium/deities/other-gods/emmeton-galardaria|Emmeton Galardaria]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/goblin-gods/Cong|Cong]], [[srd/pf2e/compendium/deities/other-gods/Emmeton Galardaria|Emmeton Galardaria]]
 - **Price**: 1 sp
 - **Damage**: 1d4 B
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Simple
-- **Group**: Club
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|Club]]
 
 The cast-iron frying pan is an essential tool for adventuring halflings, gold panners, and remote tavern owners. Characters with the Halfling Weapon Familiarity ancestry feat are trained in the frying pan.
 

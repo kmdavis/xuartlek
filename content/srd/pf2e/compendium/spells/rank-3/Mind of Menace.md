@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Contingency`  `Emotion`  `Fear`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Cast**: 10 minutes
 - **Duration**: 24 hours
 
@@ -29,7 +29,7 @@ This spell wards against those who attempt to subvert your mind and turns mental
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 2, and you gain a +2 status bonus to your saving throw or other defense against the triggering mental effect.
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] 2, and you gain a +2 status bonus to your saving throw or other defense against the triggering mental effect.
 
 **Critical Failure** The creature is frightened 2, and you’re unaffected by the triggering mental effect.
 

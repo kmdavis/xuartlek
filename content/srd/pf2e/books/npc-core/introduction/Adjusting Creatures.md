@@ -1,6 +1,7 @@
 ---
 title: "Adjusting Creatures"
 aliases: ["Adjusting Creatures"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3356"
 citation: "NPC Core pg. 5"
-socialImage: og-image.png
 ---
 
 # Adjusting Creatures
@@ -66,11 +66,11 @@ Sometimes you'll want a creature that's weaker than normal so you can use a crea
 
 ## Languages
 
-You can freely add or remove languages from stat blocks! The main languages are listed in [[srd/pf2e/compendium/rules-elements/Languages|Languages]].
+You can freely add or remove languages from stat blocks! The main languages are listed can be found [[srd/pf2e/compendium/rules-elements/Languages|here]].
 
 ## Gear
 
-Most NPCs rely on gear, like armor and weapons. If an NPC loses a crucial piece of gear, follow the advice listed [[srd/pf2e/books/monster-core/introduction/adjusting-creatures#Gear|here]].
+Most NPCs rely on gear, like armor and weapons. If an NPC loses a crucial piece of gear, follow the advice listed [[srd/pf2e/books/monster-core/introduction/Adjusting Creatures#Gear|here]].
 
 ## Skills, Perception, and Proficiency
 

@@ -24,23 +24,23 @@ Strength or Constitution
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bomb/alchemical-bomb|Alchemical Bomb]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bomb/Alchemical Bomb|Alchemical Bomb]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Metal|Metal]], [[srd/pf2e/compendium/character/domains#Star|Star]], [[srd/pf2e/compendium/character/domains#Sun|Sun]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Metal|Metal]], [[srd/pf2e/compendium/character/Domains#Star|Star]], [[srd/pf2e/compendium/character/Domains#Sun|Sun]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Fire|Fire]], [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/fold-metal|Fold Metal]]
+[[srd/pf2e/compendium/spells/rank-1/Fold Metal|Fold Metal]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/fireball|Fireball]]
+[[srd/pf2e/compendium/spells/rank-3/Fireball|Fireball]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/creation|Creation]]
+[[srd/pf2e/compendium/spells/rank-4/Creation|Creation]]
 
 *Source: Divine Mysteries p. 314*

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Manipulate`
 
-- **Traditions**: Divine, Occult, Primal
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Trigger**: An effect would deal physical or energy damage to you or a creature in range
 - **Range**: 30 feet
 - **Target**: up to 5 willing creatures who would be harmed by the triggering effect

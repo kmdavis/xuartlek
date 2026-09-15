@@ -28,38 +28,38 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, Cult Lore +15, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +20, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +20, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +18, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +17, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +16, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +18, Cult Lore +15, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +20, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +20, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +18, [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] +17, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +16, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +13"
 abilityMods: [6, 4, 3, 3, 3, 6]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/Striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/Scimitar|scimitar]]_"
 ac: 27
 armorclass:
   - name: "AC"
-    desc: "27; __Fort__: +13; __Ref__: +18; __Will__: +17 +1 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magic]]"
+    desc: "27; __Fort__: +13; __Ref__: +18; __Will__: +17 +1 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magic]]"
 hp: 135
 health:
   - name: "HP"
-    desc: "135; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] 10"
+    desc: "135; __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Controlled|controlled]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] 10"
 speed: "30 feet, climb 30 feet, swim 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _scimitar_ +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/force|forceful +2]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 2d6+10 slashing"
+    desc: "⬻ _scimitar_ +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Force|forceful +2]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|Sweep]]) __Damage__ 2d6+10 slashing"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]]) The lamia matriarch can take on the appearance of a Medium [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoid]]. This doesn't change their Speed or their attack and damage modifiers with their Strikes, but it does prevent them from using their cursed touch. Each lamia matriarch has a fixed humanoid form that resembles their upper torso when in their true form. This is the only humanoid form they can adopt using this ability."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|Occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|Polymorph]]) The lamia matriarch can take on the appearance of a Medium [[srd/pf2e/compendium/rules-elements/traits/player-core/Humanoid|humanoid]]. This doesn't change their Speed or their attack and damage modifiers with their Strikes, but it does prevent them from using their cursed touch. Each lamia matriarch has a fixed humanoid form that resembles their upper torso when in their true form. This is the only humanoid form they can adopt using this ability."
   - name: "Matriarch's Caress"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) The lamia touches a creature, who must succeed at a DC 28 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 2]]. If the target fails additional saves against this ability, the condition value increases by 2 (to a maximum of stupefied 4). This condition value decreases by 1 every 24 hours."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|Occult]]) The lamia touches a creature, who must succeed at a DC 28 Will save or become [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied 2]]. If the target fails additional saves against this ability, the condition value increases by 2 (to a maximum of stupefied 4). This condition value decreases by 1 every 24 hours."
   - name: "Scimitar Storm"
     desc: "⬽ The lamia matriarch makes a scimitar attack against each enemy within reach. Each attack counts toward their multiple attack penalty, but the penalty does not increase until after all the attacks. The first enemy they damage is subject to Matriarch's Caress."
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 28 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/prestidigitation|Prestidigitation]], [[srd/pf2e/compendium/spells/cantrips/read-aura|Read Aura]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/bless|Bless]], [[srd/pf2e/compendium/spells/rank-1/force-barrage|Force Barrage]], [[srd/pf2e/compendium/spells/rank-1/phantom-pain|Phantom Pain]], [[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]] (4 slots) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/blur|Blur]], [[srd/pf2e/compendium/spells/rank-2/illusory-creature|Illusory Creature]], [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (4 slots) - __3rd__ [[srd/pf2e/compendium/spells/rank-2/dispel-magic|Dispel Magic]], [[srd/pf2e/compendium/spells/rank-3/enthrall|Enthrall]], [[srd/pf2e/compendium/spells/rank-3/haste|Haste]], [[srd/pf2e/compendium/spells/rank-3/mind-reading|Mind Reading]] (4 slots)"
+    desc: "DC 28 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/Daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/Prestidigitation|Prestidigitation]], [[srd/pf2e/compendium/spells/cantrips/Read Aura|Read Aura]], [[srd/pf2e/compendium/spells/cantrips/Telekinetic Hand|Telekinetic Hand]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Bless|Bless]], [[srd/pf2e/compendium/spells/rank-1/Force Barrage|Force Barrage]], [[srd/pf2e/compendium/spells/rank-1/Phantom Pain|Phantom Pain]], [[srd/pf2e/compendium/spells/rank-1/Soothe|Soothe]] (4 slots) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Blur|Blur]], [[srd/pf2e/compendium/spells/rank-2/Illusory Creature|Illusory Creature]], [[srd/pf2e/compendium/spells/rank-2/Invisibility|Invisibility]] (4 slots) - __3rd__ [[srd/pf2e/compendium/spells/rank-2/Dispel Magic|Dispel Magic]], [[srd/pf2e/compendium/spells/rank-3/Enthrall|Enthrall]], [[srd/pf2e/compendium/spells/rank-3/Haste|Haste]], [[srd/pf2e/compendium/spells/rank-3/Mind Reading|Mind Reading]] (4 slots)"
   - name: "Occult Innate Spells"
-    desc: "DC 28 - __1st__ [[srd/pf2e/compendium/spells/rank-1/ventriloquism|Ventriloquism]] (at will) - __2nd__ [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|Illusory Disguise]] (at will), [[srd/pf2e/compendium/spells/rank-1/illusory-object|Illusory Object]] (at will), [[srd/pf2e/compendium/spells/rank-2/blur|Blur]] - __4th__ [[srd/pf2e/compendium/spells/rank-1/charm|Charm]] (×3), [[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]] (×3), [[srd/pf2e/compendium/spells/rank-1/sleep|Sleep]]"
+    desc: "DC 28 - __1st__ [[srd/pf2e/compendium/spells/rank-1/Ventriloquism|Ventriloquism]] (at will) - __2nd__ [[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|Illusory Disguise]] (at will), [[srd/pf2e/compendium/spells/rank-1/Illusory Object|Illusory Object]] (at will), [[srd/pf2e/compendium/spells/rank-2/Blur|Blur]] - __4th__ [[srd/pf2e/compendium/spells/rank-1/Charm|Charm]] (×3), [[srd/pf2e/compendium/spells/rank-4/Suggestion|Suggestion]] (×3), [[srd/pf2e/compendium/spells/rank-1/Sleep|Sleep]]"
 sourcebook: "_Monster Core_, page 215."
 ```
 

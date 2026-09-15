@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-You can use the Craft activity to create alchemical items. When you select this feat, you immediately add the formulas for four common 1st-level alchemical items to your [[srd/pf2e/compendium/equipment/adventuring-gear/formula-book-blank|formula book]].
+You can use the Craft activity to create alchemical items. When you select this feat, you immediately add the formulas for four common 1st-level alchemical items to your [[srd/pf2e/compendium/equipment/adventuring-gear/Formula Book (Blank)|formula book]].
 
 *Source: Player Core p. 252*

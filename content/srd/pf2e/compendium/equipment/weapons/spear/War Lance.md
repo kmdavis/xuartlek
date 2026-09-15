@@ -24,7 +24,7 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Spear
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Spear|Spear]]
 
 This lance appears shorter and stockier in comparison to other weapons of its type. The war lance notably features shielding integrated into its vamplate, exchanging its reach for a sturdier base when defending against attacks or attempting to overpower an opponent.
 

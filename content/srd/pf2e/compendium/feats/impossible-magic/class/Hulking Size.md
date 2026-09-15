@@ -19,6 +19,6 @@ Your eidolon grows substantially. Your eidolon becomes Large, instead of their p
 
 ### Hulking Size leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/towering-size|Towering Size]]
+[[srd/pf2e/compendium/feats/impossible-magic/class/Towering Size|Towering Size]]
 
 *Source: Impossible Magic p. 82*

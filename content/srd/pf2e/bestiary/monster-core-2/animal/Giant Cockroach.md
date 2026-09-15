@@ -28,7 +28,7 @@ perception:
     desc: "+6; darkvision, scent (imprecise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +8"
 abilityMods: [1, 3, 1, -5, 1, -1]
 ac: 16
 armorclass:
@@ -48,7 +48,7 @@ abilities_mid:
 speed: "25 feet, climb 25 feet, fly 15 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ mandibles +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]) __Damage__ 1d6+1 piercing Cockroach Species Beyond the common giant cockroach, other flesh-eating cockroaches exist throughout the world. These variations include the giant hissing cockroach, the noxious venomroach, the huge spitting cockroach (which can incapacitate enemies from a distance), the aggressive sawback cockroach, and the mysterious and rare dragonroach."
+    desc: "⬻ mandibles +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]]) __Damage__ 1d6+1 piercing Cockroach Species Beyond the common giant cockroach, other flesh-eating cockroaches exist throughout the world. These variations include the giant hissing cockroach, the noxious venomroach, the huge spitting cockroach (which can incapacitate enemies from a distance), the aggressive sawback cockroach, and the mysterious and rare dragonroach."
 sourcebook: "_Monster Core 2_, page 76."
 ```
 

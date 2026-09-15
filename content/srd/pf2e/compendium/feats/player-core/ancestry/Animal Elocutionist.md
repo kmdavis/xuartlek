@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Gnome`
 
-You hear animal sounds as conversations instead of unintelligent noise, and you can respond in turn. You can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill with animals. In most cases, wild animals will give you time to make your case. You gain a +1 circumstance bonus to Make an Impression on animals.
+You hear animal sounds as conversations instead of unintelligent noise, and you can respond in turn. You can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] skill with animals. In most cases, wild animals will give you time to make your case. You gain a +1 circumstance bonus to Make an Impression on animals.
 
 *Source: Player Core p. 52*

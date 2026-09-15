@@ -9,9 +9,7 @@ socialImage: og-image.png
 
 # Conscious Minds
 
-A psychic's conscious mind determines their spellcasting attribute, their initial psi cantrips and the shape of their unleashed psyche.
-
-The psychic chooses one. Each is a separate note:
+6 entries, one note each:
 
 - [[The Distant Grasp]]
 - [[The Infinite Eye]]

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/seneschal|Seneschal]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/seneschal-witch-dedication|Seneschal Witch Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Seneschal|Seneschal]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Seneschal Witch Dedication|Seneschal Witch Dedication]]
 
 Without the firm hand of a patron, your power begins to reflect deeper complexities, sometimes latching onto entirely unexpected sources of magical potency. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|cast]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] manifest will, you can choose any tradition’s manifestation. While the spell is active, you and allies in its area gain a +1 status bonus to saves against spells with that tradition trait.
 

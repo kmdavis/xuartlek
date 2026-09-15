@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/druid|Druid]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/druid-dedication|Druid Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Druid|Druid]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Druid Dedication|Druid Dedication]]
 
 You gain the initial order spell from your order. This is a focus spell, granting you a focus pool or expanding that pool. You can Refocus by being one with nature. (For more on focus spells, see page 298.)
 

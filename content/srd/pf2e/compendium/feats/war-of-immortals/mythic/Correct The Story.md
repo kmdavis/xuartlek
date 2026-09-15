@@ -18,6 +18,6 @@ socialImage: og-image.png
 
 - **Trigger**: An enemy critically succeeds at an attack roll or saving throw.
 
-You know the story of your journey well and can correct it when your enemy tells it incorrectly. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]. The enemy must reroll the triggering [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] roll or save and take the new result.
+You know the story of your journey well and can correct it when your enemy tells it incorrectly. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]. The enemy must reroll the triggering [[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]] roll or save and take the new result.
 
 *Source: War of Immortals p. 82*

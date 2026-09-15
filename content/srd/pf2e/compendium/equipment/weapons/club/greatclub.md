@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Backswing`  `Shove`
 
-- **Favored Weapon**: Balumbdar, [[srd/pf2e/compendium/deities/giant-gods/haggakal|Haggakal]], [[srd/pf2e/compendium/deities/qlippoth-lords/thuskchoon|Thuskchoon]], Yamatsumi, [[srd/pf2e/compendium/deities/monitor-demigods/ydajisk|Ydajisk]]
+- **Favored Weapon**: Balumbdar, [[srd/pf2e/compendium/deities/giant-gods/Haggakal|Haggakal]], [[srd/pf2e/compendium/deities/qlippoth-lords/Thuskchoon|Thuskchoon]], Yamatsumi, [[srd/pf2e/compendium/deities/monitor-demigods/Ydajisk|Ydajisk]]
 - **Price**: 1 gp
 - **Damage**: 1d10 B
 - **Bulk**: 2
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Club
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|Club]]
 
 While many greatclubs are intricately carved, others are little more than a sturdy tree branch. These massive clubs are too heavy to wield with only one hand.
 
@@ -32,6 +32,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/conflagration-club|Conflagration Club]], Kinetic Club
+[[srd/pf2e/compendium/equipment/weapons/Conflagration Club|Conflagration Club]], Kinetic Club
 
 *Source: Player Core p. 278*

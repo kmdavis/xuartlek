@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Barbarian`  `Rage`
 
-Desperate to finish the fight, you pour all your rage into one final blow. Make a Strike. If it hits, you gain a circumstance bonus to damage equal to the number of rounds remaining in your Rage (maximum 10). After this Strike, your [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|Rage]] immediately ends, and you are [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] until you rest for at least 10 minutes.
+Desperate to finish the fight, you pour all your rage into one final blow. Make a Strike. If it hits, you gain a circumstance bonus to damage equal to the number of rounds remaining in your Rage (maximum 10). After this Strike, your [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|Rage]] immediately ends, and you are [[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|fatigued]] until you rest for at least 10 minutes.
 
 *Source: Player Core 2 p. 77*

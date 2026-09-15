@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Detection`  `Manipulate`
 
-- **Traditions**: Divine, Occult, Primal
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: touch
 - **Target**: 1 willing living creature
 - **Duration**: until your next daily preparations

@@ -24,23 +24,23 @@ Strength or Dexterity
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/trident|Trident]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/Trident|Trident]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Travel|Travel]], [[srd/pf2e/compendium/character/domains#Water|Water]], [[srd/pf2e/compendium/character/domains#Wealth|Wealth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]], [[srd/pf2e/compendium/character/Domains#Water|Water]], [[srd/pf2e/compendium/character/Domains#Wealth|Wealth]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Freedom|Freedom]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/hydraulic-push|Hydraulic Push]]
+[[srd/pf2e/compendium/spells/rank-1/Hydraulic Push|Hydraulic Push]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/aqueous-orb|Aqueous Orb]]
+[[srd/pf2e/compendium/spells/rank-3/Aqueous Orb|Aqueous Orb]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/control-water|Control Water]]
+[[srd/pf2e/compendium/spells/rank-5/Control Water|Control Water]]
 
 *Source: Divine Mysteries p. 145*

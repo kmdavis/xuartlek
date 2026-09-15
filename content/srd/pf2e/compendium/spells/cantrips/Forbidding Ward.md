@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Divine, Occult
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 30 feet
 - **Target**: 1 ally and 1 enemy
 - **Duration**: sustained up to 1 minute

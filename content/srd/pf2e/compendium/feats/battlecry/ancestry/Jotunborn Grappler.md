@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Jotunborn`
 
-Wrestling is a common pastime for jotunborn, and you’ve done your fair share. You are trained in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]. If you would automatically become trained in Athletics (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the [[srd/pf2e/compendium/feats/player-core/skill/titan-wrestler|Titan Wrestler]] skill feat.
+Wrestling is a common pastime for jotunborn, and you’ve done your fair share. You are trained in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]. If you would automatically become trained in Athletics (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the [[srd/pf2e/compendium/feats/player-core/skill/Titan Wrestler|Titan Wrestler]] skill feat.
 
 *Source: Battlecry! p. 13*

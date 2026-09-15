@@ -30,16 +30,16 @@ modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; scent (imprecise) 30 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +16, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +16, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +14"
 abilityMods: [6, 4, 6, -2, 3, 0]
 abilities_top:
   - name: "Limited Vision"
-    desc: "An aigamuxa's eyes are located on the bottom of their feet, making it difficult for them to see. An aigamuxa is typically [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blind]]. If they [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]], they can see normally until the end of their turn."
+    desc: "An aigamuxa's eyes are located on the bottom of their feet, making it difficult for them to see. An aigamuxa is typically [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blind]]. If they [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]], they can see normally until the end of their turn."
   - name: "Weak Feet"
-    desc: "If an aigamuxa takes damage from Striding or Stepping into hazardous terrain or a square with similar grounded hazards (such as [[srd/pf2e/compendium/equipment/adventuring-gear/caltrops|caltrops]]), they can't [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] until the end of their next turn."
+    desc: "If an aigamuxa takes damage from Striding or Stepping into hazardous terrain or a square with similar grounded hazards (such as [[srd/pf2e/compendium/equipment/adventuring-gear/Caltrops|caltrops]]), they can't [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] until the end of their next turn."
 ac: 27
 armorclass:
   - name: "AC"
@@ -51,7 +51,7 @@ health:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d8+9 slashing plus Grab"
+    desc: "⬻ claw +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 2d8+9 slashing plus Grab"
   - name: "Melee"
     desc: "⬻ jaws +20 __Damage__ 2d12+9 piercing"
 abilities_bot:
@@ -60,7 +60,7 @@ abilities_bot:
   - name: "Requirements"
     desc: "The aigamuxa is [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hiding]] in dirt, sand, or another soft surface"
   - name: "Effect"
-    desc: "The aigamuxa makes a claw Strike against a creature within reach. On a hit, the aigamuxa can attempt to Grab the creature as a free action. Whether or not they hit, the aigamuxa then Strides. If they have a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]], the creature moves with the aigamuxa."
+    desc: "The aigamuxa makes a claw Strike against a creature within reach. On a hit, the aigamuxa can attempt to Grab the creature as a free action. Whether or not they hit, the aigamuxa then Strides. If they have a creature [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]], the creature moves with the aigamuxa."
   - name: "Burrowing Concealment"
     desc: "⬺"
   - name: "Requirements"
@@ -68,13 +68,13 @@ abilities_bot:
   - name: "Effect"
     desc: "The aigamuxa digs into the surface and [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hides]]. They leave their feet partially exposed, allowing them to see out from the surface. The aigamuxa can hold their breath for up to 10 minutes while hiding in this way."
   - name: "Swallow Whole"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]]) Small, 2d12+4 bludgeoning, Rupture 22"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|Attack]]) Small, 2d12+4 bludgeoning, Rupture 22"
   - name: "Toss Up and Gulp Down"
     desc: "⬻"
   - name: "Requirements"
-    desc: "A Small or smaller creature is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] in the aigamuxa's claw"
+    desc: "A Small or smaller creature is [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] in the aigamuxa's claw"
   - name: "Effect"
-    desc: "The aigamuxa tosses the creature into the air and distends their jaw to catch it in their mouth. The target is grabbed in the aigamuxa's jaws, and the aigamuxa attempts to Swallow it Whole. If the aigamuxa fails the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check, the target misses the aigamuxa's mouth and falls 30 feet instead of being grabbed. The First Aigamuxas Stories say aigamuxas were once giants who entered into a wager with [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu]], claiming they could stand on their hands longer than any other creature. Lamashtu produced a simple chimpanzee, pointed to its feet and called them hands. The giants couldn't hold their positions and fell. Lamashtu moved their eyes to their feet and told them, “If you wish to boast of your ability, let this be your blessing.”"
+    desc: "The aigamuxa tosses the creature into the air and distends their jaw to catch it in their mouth. The target is grabbed in the aigamuxa's jaws, and the aigamuxa attempts to Swallow it Whole. If the aigamuxa fails the [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check, the target misses the aigamuxa's mouth and falls 30 feet instead of being grabbed. The First Aigamuxas Stories say aigamuxas were once giants who entered into a wager with [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Lamashtu|Lamashtu]], claiming they could stand on their hands longer than any other creature. Lamashtu produced a simple chimpanzee, pointed to its feet and called them hands. The giants couldn't hold their positions and fell. Lamashtu moved their eyes to their feet and told them, “If you wish to boast of your ability, let this be your blessing.”"
 sourcebook: "_Monster Core 2_, page 21."
 ```
 

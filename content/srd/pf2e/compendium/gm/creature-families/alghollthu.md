@@ -18,7 +18,7 @@ In bygone millennia, aquatic monsters known as alghollthus used their occult pow
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core-2/aberration/aqudel|Aqudel]] (Creature 7), Fulthrethu (Creature 5), [[srd/pf2e/bestiary/monster-core-2/aberration/nymolus|Nymolus]] (Creature 10), [[srd/pf2e/bestiary/monster-core/aberration/ugothol|Ugothol]] (Creature 4), [[srd/pf2e/bestiary/monster-core/aberration/vidileth|Vidileth]] (Creature 14)
+[[srd/pf2e/bestiary/monster-core-2/aberration/Aqudel|Aqudel]] (Creature 7), Fulthrethu (Creature 5), [[srd/pf2e/bestiary/monster-core-2/aberration/Nymolus|Nymolus]] (Creature 10), [[srd/pf2e/bestiary/monster-core/aberration/Ugothol|Ugothol]] (Creature 4), [[srd/pf2e/bestiary/monster-core/aberration/Vidileth|Vidileth]] (Creature 14)
 
 ### Alghollthu Memory Crystals
 

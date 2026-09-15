@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Illusion`  `Manipulate`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/ceyannan|Ceyannan]], [[srd/pf2e/compendium/deities/empyreal-lords/eritrice|Eritrice]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]], [[srd/pf2e/compendium/deities/goblin-gods/teki-stronggut|Teki Stronggut]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/Ceyannan|Ceyannan]], [[srd/pf2e/compendium/deities/empyreal-lords/Eritrice|Eritrice]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Nethys|Nethys]], [[srd/pf2e/compendium/deities/goblin-gods/Teki Stronggut|Teki Stronggut]]
 - **Range**: touch
 - **Target**: 1 object or willing creature
 - **Duration**: unlimited

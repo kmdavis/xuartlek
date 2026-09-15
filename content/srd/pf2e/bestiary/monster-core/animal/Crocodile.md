@@ -28,7 +28,7 @@ perception:
     desc: "+7; low-light vision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +7"
 abilityMods: [4, 1, 3, -5, 1, -4]
 abilities_top:
   - name: "Deep Breath"
@@ -46,16 +46,16 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +10 __Damage__ 1d10+4 piercing plus Grab"
   - name: "Melee"
-    desc: "⬻ tail +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+4 bludgeoning"
+    desc: "⬻ tail +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d6+4 bludgeoning"
 abilities_bot:
   - name: "Aquatic Ambush"
     desc: "⬻ 35 feet"
   - name: "Death Roll"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]])"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|Attack]])"
   - name: "Requirements"
-    desc: "The crocodile must have a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]"
+    desc: "The crocodile must have a creature [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]]"
   - name: "Effect"
-    desc: "The crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. If it fails, it releases the creature."
+    desc: "The crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]. If it fails, it releases the creature."
 sourcebook: "_Monster Core_, page 69."
 ```
 

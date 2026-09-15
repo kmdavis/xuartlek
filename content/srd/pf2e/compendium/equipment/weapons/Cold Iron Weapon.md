@@ -13,9 +13,9 @@ socialImage: og-image.png
 
 - **Usage**: varies by weapon
 - **Bulk**: varies by weapon
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/cold-iron|Cold Iron]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/Cold Iron|Cold Iron]]
 
-Cold iron weapons deal additional damage to creatures with weakness to cold iron, like demons and [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]].
+Cold iron weapons deal additional damage to creatures with weakness to cold iron, like demons and [[srd/pf2e/compendium/rules-elements/traits/player-core/Fey|fey]].
 
 ### Cold Iron Weapon (Low-Grade)
 

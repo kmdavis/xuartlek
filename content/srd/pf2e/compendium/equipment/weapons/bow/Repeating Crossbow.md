@@ -23,8 +23,8 @@ socialImage: og-image.png
 - **Reload**: 0
 - **Type**: Ranged
 - **Category**: Advanced
-- **Group**: Bow
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/crossbow/repeating-crossbow-magazine|Repeating Crossbow Magazine]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bow|Bow]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/crossbow/Repeating Crossbow Magazine|Repeating Crossbow Magazine]]
 
 This crossbow has an internal chamber that can be loaded with up to five bolts. An automated catch mechanism at the top of the flight groove, just in front of the latch, locks the bowstring and launches bolts with the pull of a trigger.
 

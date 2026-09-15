@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `Lineage`  `Reflection`
 
-You were formed from a [[srd/pf2e/compendium/spells/rituals/clone|_clone_]] ritual or alchemical experiment. Created as a vessel for another creature, you can suppress your sentience momentarily, making your mind harder to alter. You gain the Empty Vessel reaction.
+You were formed from a [[srd/pf2e/compendium/spells/rituals/Clone|_clone_]] ritual or alchemical experiment. Created as a vessel for another creature, you can suppress your sentience momentarily, making your mind harder to alter. You gain the Empty Vessel reaction.
 
- **Empty Vessel** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Trigger** You would take mental damage or be affected by a [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effect; **Effect** You gain a +2 circumstance bonus to Will saves and resistance to mental damage equal to your level against the triggering effect. This applies only to the initial effect, not successive saves, persistent mental damage, or other repeated effects.
+ **Empty Vessel** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) **Frequency** once per day; **Trigger** You would take mental damage or be affected by a [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effect; **Effect** You gain a +2 circumstance bonus to Will saves and resistance to mental damage equal to your level against the triggering effect. This applies only to the initial effect, not successive saves, persistent mental damage, or other repeated effects.
 
 ### Clone-Risen leads to...
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/ancestry/replicate|Replicate]]
+[[srd/pf2e/compendium/feats/dark-archives-remastered/ancestry/Replicate|Replicate]]
 
 *Source: Dark Archives (Remastered) p. 120*

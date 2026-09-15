@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Halfling`
 
-You were either pressed into indentured servitude or shackled in a prison, but you've since escaped and have trained to ensure you'll never be caught again. Whenever you roll a success on a check to Escape or a saving throw against an effect that would impose the [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]], [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]], or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] condition on you, you get a critical success instead. Whenever a creature rolls a failure on a check to Grapple you, it gets a critical failure instead.
+You were either pressed into indentured servitude or shackled in a prison, but you've since escaped and have trained to ensure you'll never be caught again. Whenever you roll a success on a check to Escape or a saving throw against an effect that would impose the [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]], [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]], or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] condition on you, you get a critical success instead. Whenever a creature rolls a failure on a check to Grapple you, it gets a critical failure instead.
 
 *Source: Player Core p. 60*

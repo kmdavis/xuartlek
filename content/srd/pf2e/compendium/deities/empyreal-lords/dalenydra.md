@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** must choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/light-mace|Light Mace]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Light Mace|Light Mace]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Repose|Repose]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Healing|Healing]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Repose|Repose]], [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Soul|Soul]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Soul|Soul]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]]
+[[srd/pf2e/compendium/spells/rank-1/Soothe|Soothe]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/liminal-doorway|Liminal Doorway]]
+[[srd/pf2e/compendium/spells/rank-4/Liminal Doorway|Liminal Doorway]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/contingency|Contingency]]
+[[srd/pf2e/compendium/spells/rank-7/Contingency|Contingency]]
 
 *Source: Divine Mysteries p. 308*

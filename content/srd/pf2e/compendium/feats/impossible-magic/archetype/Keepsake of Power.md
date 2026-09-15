@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/hedge-mage|Hedge Mage]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/hedge-mage-dedication|Hedge Mage Dedication]]; Master in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], Master in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], Master in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], or Master in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Hedge Mage|Hedge Mage]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Hedge Mage Dedication|Hedge Mage Dedication]]; Master in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], Master in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], Master in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], or Master in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
-Your keepsake might be disdained by your more orthodox peers as a crutch to your studies, but you know it grants you an understated, yet undeniable, power. Increase your limit on [[srd/pf2e/compendium/rules-elements/traits/gm-core/invested|invested]] items from 10 to 12. If you have [[srd/pf2e/compendium/feats/player-core/general/incredible-investiture|Incredible Investiture]], instead increase your limit to 14. [[srd/pf2e/compendium/rules-elements/actions/gm-core#Invest an Item|Investing worn magic items is explained here.]].
+Your keepsake might be disdained by your more orthodox peers as a crutch to your studies, but you know it grants you an understated, yet undeniable, power. Increase your limit on [[srd/pf2e/compendium/rules-elements/traits/gm-core/Invested|invested]] items from 10 to 12. If you have [[srd/pf2e/compendium/feats/player-core/general/Incredible Investiture|Incredible Investiture]], instead increase your limit to 14. [[srd/pf2e/compendium/rules-elements/actions/gm-core#Invest an Item|Investing worn magic items is explained here.]].
 
 *Source: Impossible Magic p. 95*

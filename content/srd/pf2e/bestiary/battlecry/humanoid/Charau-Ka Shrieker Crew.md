@@ -30,10 +30,10 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; darkvision, scent (imprecise) 30 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Mwangi|Mwangi]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Mwangi|Mwangi]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +16, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +16, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +14"
 abilityMods: [4, 6, 3, 0, 3, 1]
 ac: 26
 armorclass:
@@ -42,7 +42,7 @@ armorclass:
 hp: 135
 health:
   - name: "HP"
-    desc: "135 (4 segments); __Weaknesses__ area damage 8, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 8"
+    desc: "135 (4 segments); __Weaknesses__ area damage 8, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 8"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
@@ -53,11 +53,11 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The charau-ka engage in a coordinated melee attack against each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] (DC 23 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). The damage depends on the number of actions. ⬻ 1d6+2 slashing damage ⬺ 2d6+10 slashing damage ⬽ 3d6+13 slashing damage"
+    desc: "The charau-ka engage in a coordinated melee attack against each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] (DC 23 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save). The damage depends on the number of actions. ⬻ 1d6+2 slashing damage ⬺ 2d6+10 slashing damage ⬽ 3d6+13 slashing damage"
   - name: "Shrieking Charge"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]]) With raucous shrieks, the shrieker crew charges forward. The troop [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Strides]] twice. If they move at least 10 feet, the crew deals 3d6+13 slashing damage (DC 23 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save) to each enemy in a 5-foot emanation at the end of the crew's movement. Each target who fails this save is also deafened for 1 round."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|Auditory]]) With raucous shrieks, the shrieker crew charges forward. The troop [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Strides]] twice. If they move at least 10 feet, the crew deals 3d6+13 slashing damage (DC 23 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save) to each enemy in a 5-foot emanation at the end of the crew's movement. Each target who fails this save is also deafened for 1 round."
   - name: "Storm of Daggers"
-    desc: "⬺ The charau-ka hurl daggers as a ranged attack in the form of a barrage. This barrage is a 10-foot burst within 30 feet that deals 5d4 piercing damage (DC 23 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). The range increases by 15 feet if the charau-ka are above their targets. When the shrieker crew is reduced to 2 segments, this area decreases to a 5-foot burst."
+    desc: "⬺ The charau-ka hurl daggers as a ranged attack in the form of a barrage. This barrage is a 10-foot burst within 30 feet that deals 5d4 piercing damage (DC 23 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save). The range increases by 15 feet if the charau-ka are above their targets. When the shrieker crew is reduced to 2 segments, this area decreases to a 5-foot burst."
 sourcebook: "_Battlecry!_, page 175."
 ```
 

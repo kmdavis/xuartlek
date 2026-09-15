@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/guardian|Guardian]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/guardian-dedication|Guardian Dedication]]; class granting no more Hit Points than 10 + your Constitution modifier
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Guardian|Guardian]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Guardian Dedication|Guardian Dedication]]; class granting no more Hit Points than 10 + your Constitution modifier
 
 You gain 3 additional Hit Points for each guardian archetype class feat you have. As you continue selecting guardian archetype class feats, you continue to gain additional Hit Points in this way.
 

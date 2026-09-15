@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Fighter`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bastion|Bastion]] (Level 6), [[srd/pf2e/compendium/character/archetypes/viking|Viking]] (Level 6)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Bastion|Bastion]] (Level 6), [[srd/pf2e/compendium/character/archetypes/Viking|Viking]] (Level 6)
 
 When your shield is up, your enemies’ blows can’t touch you. When you have your shield raised, you can Stride to move half your Speed without triggering reactions that are triggered by your movement (such as Reactive Strikes). You can use Shielded Stride while Flying or Swimming instead of Striding if you have the corresponding movement type.
 

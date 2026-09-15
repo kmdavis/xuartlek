@@ -13,7 +13,7 @@ socialImage: og-image.png
 
 - **Class**: Bard
 
-You draw upon magic from esoteric knowledge. You are a spellcaster and can cast spells of the occult tradition using the Cast a Spell activity (see Casting Spells). As a bard, when you cast spells, your incantations might be musical riffs or clever limericks, your gestures might incorporate dance and dramatic pantomiming, and you might accompany your spellcasting by playing a musical instrument.
+You draw upon magic from esoteric knowledge. You are a spellcaster and can cast spells of the [occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3) tradition using the Cast a Spell activity (see Casting Spells). As a bard, when you cast spells, your incantations might be musical riffs or clever limericks, your gestures might incorporate dance and dramatic pantomiming, and you might accompany your spellcasting by playing a musical instrument.
 
  Each day, you can cast up to two 1st-rank spells. You must know spells to cast them, and you learn them via the spell repertoire class feature. The number of spells you can cast each day is called your spell slots. As you increase in level as a bard, your number of spells per day increases, as does the highest rank of spells you can cast, as shown on the Bard Spells per Day table.
 

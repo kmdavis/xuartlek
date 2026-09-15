@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Necromancer`
 
-- **Prerequisites**: reaper fatal method
+- **Prerequisites**: [[srd/pf2e/compendium/character/Fatal Methods#Reaper|reaper fatal method]]
 
-You bind the spirit of a dead hero into you, gaining some of their talent. You learn the [[srd/pf2e/compendium/spells/focus/bind-heroic-spirit|_bind heroic spirit_]] grave spell.
+You bind the spirit of a dead hero into you, gaining some of their talent. You learn the [[srd/pf2e/compendium/spells/focus/Bind Heroic Spirit|_bind heroic spirit_]] grave spell.
 
 ### Bind Heroic Spirit leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/final-union|Final Union]]
+[[srd/pf2e/compendium/feats/impossible-magic/class/Final Union|Final Union]]
 
 *Source: Impossible Magic p. 35*

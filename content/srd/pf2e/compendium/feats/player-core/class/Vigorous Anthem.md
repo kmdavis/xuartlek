@@ -18,6 +18,6 @@ socialImage: og-image.png
 
 `Auditory`  `Bard`  `Concentrate`  `Spellshape`  `Metamagic`
 
-You instill magical vigor in your allies when you inspire them to attack. If your next action is to cast the [[srd/pf2e/compendium/spells/cantrips/courageous-anthem|_courageous anthem_]] [[srd/pf2e/compendium/rules-elements/traits/player-core/composition|composition]] cantrip, you and all affected allies gain temporary HP equal to 3 + your Charisma modifier that last for 1 minute.
+You instill magical vigor in your allies when you inspire them to attack. If your next action is to cast the [[srd/pf2e/compendium/spells/cantrips/Courageous Anthem|_courageous anthem_]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Composition|composition]] cantrip, you and all affected allies gain temporary HP equal to 3 + your Charisma modifier that last for 1 minute.
 
 *Source: Player Core p. 106*

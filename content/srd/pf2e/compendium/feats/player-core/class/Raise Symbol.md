@@ -22,6 +22,6 @@ If the religious symbol you’re raising is a shield, such as with Emblazon Arma
 
 ### Raise Symbol leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/sapping-symbol|Sapping Symbol]]
+[[srd/pf2e/compendium/feats/player-core/class/Sapping Symbol|Sapping Symbol]]
 
 *Source: Player Core p. 116*

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-You attempt to bring a creature back to life to fight by your side. You learn the [[srd/pf2e/compendium/spells/focus/perfected-thrall|_reanimate foe_]] grave spell.
+You attempt to bring a creature back to life to fight by your side. You learn the [[srd/pf2e/compendium/spells/focus/Reanimate Foe|_reanimate foe_]] grave spell.
 
 *Source: Impossible Magic p. 41*

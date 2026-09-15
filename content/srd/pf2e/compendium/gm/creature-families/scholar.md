@@ -14,7 +14,7 @@ True power comes from knowledge—the power to shape the growth of kingdoms by m
 
 ### Members
 
-[[srd/pf2e/bestiary/npc-core/humanoid/astronomer|Astronomer]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/avuncular-professor|Avuncular Professor]] (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/departmental-chair|Departmental Chair]] (Creature 7), [[srd/pf2e/bestiary/npc-core/humanoid/eldritch-emeritus|Eldritch Emeritus]] (Creature 17), [[srd/pf2e/bestiary/npc-core/humanoid/exuberant-apprentice|Exuberant Apprentice]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/globetrotting-scholar|Globetrotting Scholar]] (Creature 13), [[srd/pf2e/bestiary/npc-core/humanoid/librarian|Librarian]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/obsessive-researcher|Obsessive Researcher]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/sage|Sage]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/teacher|Teacher]] (Creature -1)
+[[srd/pf2e/bestiary/npc-core/humanoid/Astronomer|Astronomer]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/Avuncular Professor|Avuncular Professor]] (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/Departmental Chair|Departmental Chair]] (Creature 7), [[srd/pf2e/bestiary/npc-core/humanoid/Eldritch Emeritus|Eldritch Emeritus]] (Creature 17), [[srd/pf2e/bestiary/npc-core/humanoid/Exuberant Apprentice|Exuberant Apprentice]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/Globetrotting Scholar|Globetrotting Scholar]] (Creature 13), [[srd/pf2e/bestiary/npc-core/humanoid/Librarian|Librarian]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/Obsessive Researcher|Obsessive Researcher]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/Sage|Sage]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/Teacher|Teacher]] (Creature -1)
 
 ### Academic Pranks
 
@@ -30,7 +30,7 @@ It is a fond tradition at most universities in the Inner Sea for young scholars 
 
 ### Crossover Ancestry NPCs
 
-Several of the NPCs elsewhere in NPC Core can fit well in this group: [[srd/pf2e/bestiary/npc-core/humanoid/catfolk-name-collector|Catfolk name collector]] (level 6), [[srd/pf2e/bestiary/npc-core/humanoid/dromaar-lorekeeper|dromaar lorekeeper]] (level 5), [[srd/pf2e/bestiary/npc-core/humanoid/gnome-philomath|gnome philomath]] (level –1)
+Several of the NPCs elsewhere in NPC Core can fit well in this group: [[srd/pf2e/bestiary/npc-core/humanoid/Catfolk Name Collector|Catfolk name collector]] (level 6), [[srd/pf2e/bestiary/npc-core/humanoid/Dromaar Lorekeeper|dromaar lorekeeper]] (level 5), [[srd/pf2e/bestiary/npc-core/humanoid/Gnome Philomath|gnome philomath]] (level –1)
 
 ### Fashionable Familiars
 

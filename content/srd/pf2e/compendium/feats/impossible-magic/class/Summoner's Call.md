@@ -21,6 +21,6 @@ socialImage: og-image.png
 
 In a moment of danger, you call your eidolon to your side. Your eidolon teleports to an open space adjacent to you.
 
-**Special** This feat has the trait matching your eidolon’s tradition ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]).
+**Special** This feat has the trait matching your eidolon’s tradition ([[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]]).
 
 *Source: Impossible Magic p. 84*

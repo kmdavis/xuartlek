@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Alchemist`
 
-Integrating your own personal energy into the elixirs you create causes them to affect you for longer. When you consume one of your alchemical items that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/elixir|elixir]] and [[srd/pf2e/compendium/rules-elements/traits/player-core-2/infused|infused]] traits and a duration of 1 minute or longer, that elixir's duration is doubled. If you created the item with [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Quick Alchemy|Quick Alchemy]], this can't cause it to exceed the 10-minute duration limit.
+Integrating your own personal energy into the elixirs you create causes them to affect you for longer. When you consume one of your alchemical items that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Elixir|elixir]] and [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Infused|infused]] traits and a duration of 1 minute or longer, that elixir's duration is doubled. If you created the item with [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Quick Alchemy|Quick Alchemy]], this can't cause it to exceed the 10-minute duration limit.
 
 ### Extend Elixir leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/eternal-elixir|Eternal Elixir]], [[srd/pf2e/compendium/feats/player-core-2/class/persistent-mutagen|Persistent Mutagen]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Eternal Elixir|Eternal Elixir]], [[srd/pf2e/compendium/feats/player-core-2/class/Persistent Mutagen|Persistent Mutagen]]
 
 *Source: Player Core 2 p. 67*

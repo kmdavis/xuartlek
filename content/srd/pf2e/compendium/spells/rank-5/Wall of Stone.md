@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Earth`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/anubis|Anubis]], Arqueros, [[srd/pf2e/compendium/deities/vudrani-gods/ashukharma|Ashukharma]], Mazludeh
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/Anubis|Anubis]], Arqueros, [[srd/pf2e/compendium/deities/vudrani-gods/Ashukharma|Ashukharma]], Mazludeh
 - **Range**: 120 feet
 
 You shape a wall of solid stone. You create a 1-inch-thick wall of stone up to 120 feet long, and 20 feet high. You can shape the wall's path, placing each 5 feet of the wall on the border between squares. The wall doesn't need to stand vertically, so you can use it to form a bridge or set of stairs, for example. You must conjure the wall in an unbroken open space so its edges don't pass through any creatures or objects, or the spell is lost. 

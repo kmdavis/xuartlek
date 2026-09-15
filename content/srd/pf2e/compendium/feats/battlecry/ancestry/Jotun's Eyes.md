@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Jotunborn`
 
-- **Prerequisites**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Low-Light Vision|low-light vision]]
+- **Prerequisites**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Low-Light Vision|low-light vision]]
 
 Your vision has adapted to the darkness between planes. You gain darkvision.
 

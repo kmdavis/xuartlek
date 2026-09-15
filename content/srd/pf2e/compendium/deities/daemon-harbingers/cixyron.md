@@ -24,23 +24,23 @@ Dexterity or Intelligence
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
 **Favored Weapon** Flintlock Musket
 
-**Domains** [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Lightning|Lightning]], [[srd/pf2e/compendium/character/domains#Metal|Metal]], [[srd/pf2e/compendium/character/domains#Toil|Toil]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Lightning|Lightning]], [[srd/pf2e/compendium/character/Domains#Metal|Metal]], [[srd/pf2e/compendium/character/Domains#Toil|Toil]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Fire|Fire]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Fire|Fire]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/conductive-weapon|Conductive Weapon]]
+[[srd/pf2e/compendium/spells/rank-1/Conductive Weapon|Conductive Weapon]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/toxic-cloud|Toxic Cloud]]
+[[srd/pf2e/compendium/spells/rank-5/Toxic Cloud|Toxic Cloud]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/chain-lightning|Chain Lightning]]
+[[srd/pf2e/compendium/spells/rank-6/Chain Lightning|Chain Lightning]]
 
 *Source: Divine Mysteries p. 302*

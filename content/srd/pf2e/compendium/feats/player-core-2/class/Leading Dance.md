@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Bravado`  `Move`  `Swashbuckler`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]
 - **Requirements**: You are adjacent to an enemy.
 
 You sweep your foe into your dance. Attempt a Performance check against an adjacent enemy's Will DC.
@@ -27,6 +27,6 @@ You sweep your foe into your dance. Attempt a Performance check against an adjac
 
 **Failure** The foe doesn't follow your steps. You can move 5 feet if you choose, but this movement triggers reactions normally.
 
-**Critical Failure** You stumble, falling [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] in your space.
+**Critical Failure** You stumble, falling [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] in your space.
 
 *Source: Player Core 2 p. 166*

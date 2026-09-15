@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Attack`  `Concentrate`  `Manipulate`  `Vitality`  `Positive`
 
-- **Traditions**: Occult, Primal
+- **Traditions**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: touch
 - **Target**: 1 living creature
 - **Defense**: AC

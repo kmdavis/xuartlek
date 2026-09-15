@@ -24,41 +24,41 @@ Intelligence or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/katar|Katar]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Katar|Katar]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Air|Air]], [[srd/pf2e/compendium/character/domains#Cities|Cities]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Magic|Magic]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Air|Air]], [[srd/pf2e/compendium/character/Domains#Cities|Cities]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Magic|Magic]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Dreams|Dreams]], [[srd/pf2e/compendium/character/domains#Wealth|Wealth]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Dreams|Dreams]], [[srd/pf2e/compendium/character/Domains#Wealth|Wealth]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/charm|Charm]]
+[[srd/pf2e/compendium/spells/rank-1/Charm|Charm]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/animus-mine|Animus Mine]]
+[[srd/pf2e/compendium/spells/rank-2/Animus Mine|Animus Mine]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/enthrall|Enthrall]]
+[[srd/pf2e/compendium/spells/rank-3/Enthrall|Enthrall]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]]
+[[srd/pf2e/compendium/spells/rank-4/Suggestion|Suggestion]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/wave-of-despair|Wave of Despair]]
+[[srd/pf2e/compendium/spells/rank-5/Wave of Despair|Wave of Despair]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/mislead|Mislead]]
+[[srd/pf2e/compendium/spells/rank-6/Mislead|Mislead]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/warp-mind|Warp Mind]]
+[[srd/pf2e/compendium/spells/rank-7/Warp Mind|Warp Mind]]
 
 - **8th**
-[[srd/pf2e/compendium/spells/rank-8/hidden-mind|Hidden Mind]]
+[[srd/pf2e/compendium/spells/rank-8/Hidden Mind|Hidden Mind]]
 
 - **9th**
-[[srd/pf2e/compendium/spells/rank-9/phantasmagoria|Phantasmagoria]]
+[[srd/pf2e/compendium/spells/rank-9/Phantasmagoria|Phantasmagoria]]
 
 *Source: Divine Mysteries p. 318*

@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 15 feet
 - **Target**: 1 creature or an unattended object of 2 Bulk or less
 - **Defense**: Fortitude
@@ -28,7 +28,7 @@ You conjure a magical hook and rope that hurtles toward the target and pulls the
 
 **Failure** The target is pulled to the nearest empty space adjacent to you.
 
-**Critical Failure** As failure, and the target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] for 1 round.
+**Critical Failure** As failure, and the target is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] for 1 round.
 
 ---
 **Heightened (5th)** The range increases to 30 feet.

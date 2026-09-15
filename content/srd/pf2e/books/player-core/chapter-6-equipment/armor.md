@@ -1,6 +1,7 @@
 ---
 title: "Armor"
 aliases: ["Armor"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2166"
 citation: "Player Core pg. 271"
-socialImage: og-image.png
 ---
 
 # Armor
@@ -90,4 +90,4 @@ The traits for each suit of armor presented in this book appear in this entry.
 
 ## Armor Specialization Effects
 
-Certain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends on which armor group your armor belongs to, as listed here.
+Certain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends on which armor group your armor belongs to, as [listed here.](https://2e.aonprd.com/ArmorGroups.aspx)

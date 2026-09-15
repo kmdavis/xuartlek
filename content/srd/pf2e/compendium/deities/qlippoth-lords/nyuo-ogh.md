@@ -24,23 +24,23 @@ Dexterity or Intelligence
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/lance|Lance]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/Lance|Lance]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/domains#Nightmares|Nightmares]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/Domains#Nightmares|Nightmares]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/befuddle|Befuddle]]
+[[srd/pf2e/compendium/spells/rank-1/Befuddle|Befuddle]]
 
 - **4th**
 False Nature
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/warp-mind|Warp Mind]]
+[[srd/pf2e/compendium/spells/rank-7/Warp Mind|Warp Mind]]
 
 *Source: Divine Mysteries p. 320*

@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Wyrwood`
 
-A wyrwood is a small, sapient living construct crafted of wood and powered with an [[srd/pf2e/compendium/equipment/worn-items/aeon-stone|aeon stone]] or a similar magical stone.
+A wyrwood is a small, sapient living construct crafted of wood and powered with an [[srd/pf2e/compendium/equipment/worn-items/Aeon Stone|aeon stone]] or a similar magical stone.
 
 *Source: Monster Core 2 p. 366*

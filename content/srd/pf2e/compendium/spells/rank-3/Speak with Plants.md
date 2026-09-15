@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
-- **Traditions**: Divine, Occult, Primal
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Deity**: Hearth and Harvest
 - **Duration**: 1 hour
 

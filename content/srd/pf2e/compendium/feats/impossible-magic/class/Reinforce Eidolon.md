@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Summoner`
 
-You buffer your eidolon. You gain the [[srd/pf2e/compendium/spells/cantrips/reinforce-eidolon|_reinforce eidolon_]] link cantrip.
+You buffer your eidolon. You gain the [[srd/pf2e/compendium/spells/cantrips/Reinforce Eidolon|_reinforce eidolon_]] link cantrip.
 
 *Source: Impossible Magic p. 80*

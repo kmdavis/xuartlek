@@ -15,20 +15,20 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 500 feet
 - **Area**: 10-foot burst or 30-foot line
 - **Defense**: Reflex
 
-You grasp a piece of the landscape—such as a tree, carriage, or piece of masonry—and lob it in your foe's direction. Your missile crashes down in either a 10-foot burst (for most missiles) or a 30-foot line (for something long and tall, like a tree or a ship's mast), dealing 14d6 bludgeoning damage and turning its area into [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] as it breaks into rubble. All creatures in the area must attempt a Reflex save. If the area is a line, it doesn't have to start from your square but can instead start anywhere in range, as long as the entire area remains within range.
+You grasp a piece of the landscape—such as a tree, carriage, or piece of masonry—and lob it in your foe's direction. Your missile crashes down in either a 10-foot burst (for most missiles) or a 30-foot line (for something long and tall, like a tree or a ship's mast), dealing 14d6 bludgeoning damage and turning its area into [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Difficult Terrain|difficult terrain]] as it breaks into rubble. All creatures in the area must attempt a Reflex save. If the area is a line, it doesn't have to start from your square but can instead start anywhere in range, as long as the entire area remains within range.
 
 **Critical Success** The creature is unaffected.
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
+**Failure** The creature takes full damage and is knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]].
 
-**Critical Failure** The creature takes double damage, is knocked prone, and is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1.
+**Critical Failure** The creature takes double damage, is knocked prone, and is [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]] 1.
 
 ---
 **Heightened (+1)** The damage increases by 2d6.

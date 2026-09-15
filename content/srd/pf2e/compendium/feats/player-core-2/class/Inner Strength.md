@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Barbarian`  `Concentrate`  `Rage`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/spirit|spirit instinct]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/Spirit|spirit instinct]]
 
-Your strength is part of your rage. As long as your anger remains, you can gather your strength and rage to overcome any sort of enfeeblement. You reduce your [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] condition's value by 1.
+Your strength is part of your rage. As long as your anger remains, you can gather your strength and rage to overcome any sort of enfeeblement. You reduce your [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]] condition's value by 1.
 
 *Source: Player Core 2 p. 79*

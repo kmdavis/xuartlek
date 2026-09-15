@@ -21,6 +21,6 @@ The weight of your swing drives your enemy back. You push the enemy back 5 feet,
 
 ### Knockback leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/awesome-blow|Awesome Blow]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Awesome Blow|Awesome Blow]]
 
 *Source: Player Core 2 p. 82*

@@ -19,8 +19,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Illusion`  `Incapacitation`  `Manipulate`  `Mental`  `Visual`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/infernal-dukes/haborym|Haborym]], [[srd/pf2e/compendium/deities/demon-lords/shivaska|Shivaska]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/infernal-dukes/Haborym|Haborym]], [[srd/pf2e/compendium/deities/demon-lords/Shivaska|Shivaska]]
 - **Range**: 50 feet
 - **Target**: 1 creature
 - **Defense**: Will

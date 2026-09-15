@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 `Eidolon`  `Evolution`  `Summoner`
 
-Your eidolon [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Strides]] up to double their Speed and can move through the spaces of creatures at least one size smaller, Trampling each creature whose space they enter. They can attempt to Trample the same creature only once in a single Trample. Your eidolon deals bludgeoning damage equal to the damage of their secondary attack against these creatures, with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save against your spell DC.
+Your eidolon [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Strides]] up to double their Speed and can move through the spaces of creatures at least one size smaller, Trampling each creature whose space they enter. They can attempt to Trample the same creature only once in a single Trample. Your eidolon deals bludgeoning damage equal to the damage of their secondary attack against these creatures, with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save against your spell DC.
 
 *Source: Impossible Magic p. 85*

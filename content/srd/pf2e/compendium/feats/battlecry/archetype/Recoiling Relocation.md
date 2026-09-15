@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`  `Unstable`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/munitions-master|Munitions Master]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/munitions-master-dedication|Munitions Master Dedication]]
-- **Trigger**: You launch your [[srd/pf2e/compendium/character/innovations#Light Mortar|light mortar]].
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Munitions Master|Munitions Master]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Munitions Master Dedication|Munitions Master Dedication]]
+- **Trigger**: You launch your [[srd/pf2e/compendium/character/Innovations#Light Mortar|light mortar]].
 - **Requirements**: You are adjacent to your light mortar.
 
 Your innovation contains a chamber to store a small amount of compressed exhaust gas from your Launches. You can release this gas coinciding with the recoil to propel your mortar and yourself through the air to reach a better firing position. You and your light mortar move up to the light mortar's Speed in the direction of your choice. You must end this movement adjacent to your innovation.

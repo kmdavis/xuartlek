@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Athamaru`  `Locathah`
 
-As an emissary, you have assisted land-bound creatures in journeying underwater to visit your settlements. You gain [[srd/pf2e/compendium/spells/rank-3/feet-to-fins|_feet to fins_]] and [[srd/pf2e/compendium/spells/rank-2/water-breathing|_water breathing_]] as 3rd-rank primal innate spells. You can cast each of these spells once per day.
+As an emissary, you have assisted land-bound creatures in journeying underwater to visit your settlements. You gain [[srd/pf2e/compendium/spells/rank-3/Feet to Fins|_feet to fins_]] and [[srd/pf2e/compendium/spells/rank-2/Water Breathing|_water breathing_]] as 3rd-rank primal innate spells. You can cast each of these spells once per day.
 
 *Source: Howl of the Wild p. 20*

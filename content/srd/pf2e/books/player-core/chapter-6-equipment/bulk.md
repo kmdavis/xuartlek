@@ -1,6 +1,7 @@
 ---
 title: "Bulk"
 aliases: ["Bulk"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2153"
 citation: "Player Core pg. 269"
-socialImage: og-image.png
 ---
 
 # Bulk
@@ -20,7 +20,7 @@ Carrying especially heavy or unwieldy items can make it more difficult for you t
 
 ## Bulk Limits
 
-You can carry an amount of Bulk equal to 5 plus your Strength modifier without penalty; if you carry more, you gain the encumbered condition. You can’t hold or carry more Bulk than 10 plus your Strength modifier.
+You can carry an amount of Bulk equal to 5 plus your Strength modifier without penalty; if you carry more, you gain the [[srd/pf2e/compendium/rules-elements/Conditions|encumbered]] condition. You can’t hold or carry more Bulk than 10 plus your Strength modifier.
 
 > [!pf2-sidebar] ENCUMBERED
 >

@@ -14,7 +14,7 @@ A sargassum heap is a mass of semi-intelligent seaweed that floats through the o
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core/plant/doldrums-heap|Doldrums Heap]] (Creature 9), [[srd/pf2e/bestiary/monster-core/plant/sargassum-heap|Sargassum Heap]] (Creature 6)
+[[srd/pf2e/bestiary/monster-core/plant/Doldrums Heap|Doldrums Heap]] (Creature 9), [[srd/pf2e/bestiary/monster-core/plant/Sargassum Heap|Sargassum Heap]] (Creature 6)
 
 ### Sargassum Bulbs
 

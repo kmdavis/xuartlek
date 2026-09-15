@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 `Concentrate`  `Mythic`  `Uncommon`
 
-You defy any external force blocking your mythic purpose. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]], and remove any one condition you’re afflicted with, end the ongoing effects of any one spell you’re currently affected by, or free yourself from the effects of any one [[srd/pf2e/compendium/rules-elements/traits/player-core/trap|trap]] or [[srd/pf2e/books/gm-core/chapter-2-building-games/hazards|hazard]] (such as a [[srd/pf2e/compendium/rules-elements/traits/player-core-2/snare|snare]] or bottomless pit). When freeing yourself from a hazard in this way, you immediately move to the nearest safe location adjacent to the hazard.
+You defy any external force blocking your mythic purpose. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]], and remove any one condition you’re afflicted with, end the ongoing effects of any one spell you’re currently affected by, or free yourself from the effects of any one [[srd/pf2e/compendium/rules-elements/traits/player-core/Trap|trap]] or [[srd/pf2e/books/gm-core/chapter-2-building-games/Hazards|hazard]] (such as a [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Snare|snare]] or bottomless pit). When freeing yourself from a hazard in this way, you immediately move to the nearest safe location adjacent to the hazard.
 
 *Source: War of Immortals p. 84*

@@ -1,6 +1,7 @@
 ---
 title: "Shields"
 aliases: ["Shields"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2180"
 citation: "Player Core pg. 274"
-socialImage: og-image.png
 ---
 
 # Shields
@@ -26,15 +26,15 @@ If you have access to the Shield Block reaction (from your class or from a feat)
 
 ## Shield Statistics
 
-Shields have statistics that follow the same rules as armor: Price, Speed Penalty, and Bulk. See [[srd/pf2e/books/player-core/chapter-6-equipment/armor|armor]] for the rules for those statistics. Their other statistics are described here.
+Shields have statistics that follow the same rules as armor: Price, Speed Penalty, and Bulk. See [[srd/pf2e/books/player-core/chapter-6-equipment/Armor|armor]] for the rules for those statistics. Their other statistics are described here.
 
 ### AC Bonus
 
-A shield grants a circumstance bonus to AC, but only when the shield is raised. This requires using the Raise a Shield action.
+A shield grants a circumstance bonus to AC, but only when the shield is raised. This requires using the [Raise a Shield](https://2e.aonprd.com/Actions.aspx?ID=98) action.
 
 ### Hardness
 
-Whenever a shield takes damage, the amount of damage it takes is reduced by this amount. This number is particularly relevant for shields because of the [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] feat . The rules for Hardness appear [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage|here]].
+Whenever a shield takes damage, the amount of damage it takes is reduced by this amount. This number is particularly relevant for shields because of the [[srd/pf2e/compendium/feats/player-core/general/Shield Block|Shield Block]] feat . The rules for Hardness appear [[srd/pf2e/books/player-core/chapter-6-equipment/Item Damage|here]].
 
 ### HP (BT)
 
@@ -42,4 +42,4 @@ This column lists the shield’s Hit Points (HP) and Broken Threshold (BT). Thes
 
 ## Attacking with a Shield
 
-A shield can be used as a martial weapon for attacks, using the statistics listed for a [[srd/pf2e/compendium/equipment/weapons/shield/shield-bash|shield bash]] on the Martial Melee Weapons table. The shield bash is an option only for shields that weren't designed to be used as weapons. A shield can't have runes added to it. You can also buy and attach a [[srd/pf2e/compendium/equipment/weapons/shield/shield-boss|shield boss]] or [[srd/pf2e/compendium/equipment/weapons/shield/shield-spikes|shield spikes]] to a shield to make it a more practical weapon. These can also be found on the Martial Melee Weapons table. These work like other weapons and can even be etched with runes.
+A shield can be used as a martial weapon for attacks, using the statistics listed for a [[srd/pf2e/compendium/equipment/weapons/shield/Shield Bash|shield bash]] on the Martial Melee Weapons table. The shield bash is an option only for shields that weren't designed to be used as weapons. A shield can't have runes added to it. You can also buy and attach a [[srd/pf2e/compendium/equipment/weapons/shield/Shield Boss|shield boss]] or [[srd/pf2e/compendium/equipment/weapons/shield/Shield Spikes|shield spikes]] to a shield to make it a more practical weapon. These can also be found on the Martial Melee Weapons table. These work like other weapons and can even be etched with runes.

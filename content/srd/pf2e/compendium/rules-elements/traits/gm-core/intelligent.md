@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Intelligent`
 
-An item with this trait is intelligent and has its own will and personality, as well as several statistics that most items don’t have. Intelligent items can’t be crafted by normal means, and they are always [[srd/pf2e/compendium/rules-elements/traits/player-core/rare|rare]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/unique|unique]].
+An item with this trait is intelligent and has its own will and personality, as well as several statistics that most items don’t have. Intelligent items can’t be crafted by normal means, and they are always [[srd/pf2e/compendium/rules-elements/traits/player-core/Rare|rare]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Unique|unique]].
 
 *Source: GM Core p. 304*

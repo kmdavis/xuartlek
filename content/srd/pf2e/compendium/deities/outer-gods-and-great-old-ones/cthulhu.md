@@ -24,23 +24,23 @@ Strength or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|Dagger]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|Dagger]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/domains#Star|Star]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/Domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/Domains#Star|Star]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Water|Water]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Water|Water]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/grim-tendrils|Grim Tendrils]]
+[[srd/pf2e/compendium/spells/rank-1/Grim Tendrils|Grim Tendrils]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/nightmare|Nightmare]]
+[[srd/pf2e/compendium/spells/rank-4/Nightmare|Nightmare]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/strange-geometry|Strange Geometry]]
+[[srd/pf2e/compendium/spells/rank-5/Strange Geometry|Strange Geometry]]
 
 *Source: Divine Mysteries p. 318*

@@ -28,10 +28,10 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Sussuran|Sussuran]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +14"
 abilityMods: [3, 5, 2, -2, 1, 0]
 ac: 24
 armorclass:
@@ -40,12 +40,12 @@ armorclass:
 hp: 50
 health:
   - name: "HP"
-    desc: "50; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
+    desc: "50; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]"
 abilities_mid:
   - name: "High Winds"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]], [[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]]) 20 feet. Air within the emanation is difficult terrain for [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flying]] creatures that don't have the [[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]] trait."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Air|air]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]]) 20 feet. Air within the emanation is difficult terrain for [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flying]] creatures that don't have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Air|air]] trait."
   - name: "Disperse"
-    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]])"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Air|air]])"
   - name: "Trigger"
     desc: "The living whirlwind takes damage from a hostile action"
   - name: "Effect"
@@ -53,10 +53,10 @@ abilities_mid:
 speed: "fly 50 feet; swiftness"
 attacks:
   - name: "Melee"
-    desc: "⬻ gust +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d6+7 bludgeoning"
+    desc: "⬻ gust +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 2d6+7 bludgeoning"
 abilities_bot:
   - name: "Forceful Winds"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/air|Air]]) The living whirlwind creates a 60-foot line of violent wind. Creatures in the area must succeed at a DC 25 Fortitude save or be pushed back 10 feet and knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Air|Air]]) The living whirlwind creates a 60-foot line of violent wind. Creatures in the area must succeed at a DC 25 Fortitude save or be pushed back 10 feet and knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]."
   - name: "Swiftness"
     desc: "The living whirlwind's movement doesn't trigger reactions."
 sourcebook: "_Monster Core_, page 140."

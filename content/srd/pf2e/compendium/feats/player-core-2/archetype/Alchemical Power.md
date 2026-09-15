@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/alchemist|Alchemist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/alchemist-dedication|Alchemist Dedication]]; Master in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Alchemist|Alchemist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Alchemist Dedication|Alchemist Dedication]]; Master in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
 You become an expert in the alchemist class DC. When you create an infused alchemical item that allows a saving throw, you can change its DC to your class DC.
 

@@ -30,10 +30,10 @@ modifier: 17
 perception:
   - name: "Perception"
     desc: "+17"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +19, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +18, [[srd/pf2e/compendium/rules-elements/skills/lore|Military Lore]] +14, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +14, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +15, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +19"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +19, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +18, [[srd/pf2e/compendium/rules-elements/skills/Lore|Military Lore]] +14, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +14, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +15, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] +19"
 abilityMods: [4, 2, 3, -1, 2, 1]
 ac: 26
 armorclass:
@@ -42,7 +42,7 @@ armorclass:
 hp: 180
 health:
   - name: "HP"
-    desc: "180; __Weaknesses__ area damage 10, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 10"
+    desc: "180; __Weaknesses__ area damage 10, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 10"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""

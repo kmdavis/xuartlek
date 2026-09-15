@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Druid`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/incredible-companion-druid|Incredible Companion (Druid)]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Incredible Companion (Druid)|Incredible Companion (Druid)]]
 
 Your companion can let out a howl laced with your primal magic. It gains the following advanced maneuver, in addition to any advanced maneuvers it already knows. 
 
-**Primal Howl** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]]) **Frequency** once per hour; **Effect** Your animal companion screeches and howls, empowered with natural magic. All creatures in a 30-foot cone take 1d6 sonic damage for every 2 levels your companion has, with a basic Fortitude save against your spell DC. Creatures that fail become [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1, and creatures that critically fail become frightened 2. The fright is an [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effect.
+**Primal Howl** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sonic|sonic]]) **Frequency** once per hour; **Effect** Your animal companion screeches and howls, empowered with natural magic. All creatures in a 30-foot cone take 1d6 sonic damage for every 2 levels your companion has, with a basic Fortitude save against your spell DC. Creatures that fail become [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] 1, and creatures that critically fail become frightened 2. The fright is an [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effect.
 
 *Source: Player Core p. 133*

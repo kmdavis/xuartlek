@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Gunslinger`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/gunslinger|gunslinger]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Gunslinger|gunslinger]] class.
 
 *Source: Guns & Gears (Remastered) p. 233*

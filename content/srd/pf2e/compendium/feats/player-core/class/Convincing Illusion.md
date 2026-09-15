@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Wizard`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 - **Trigger**: A creature succeeded, but didn’t critically succeed, at a Perception check or Will save to disbelieve an illusion from a spell that you cast
 - **Requirements**: You are within 30 feet of the observer and the illusion
 

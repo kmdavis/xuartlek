@@ -26,19 +26,19 @@ Prioritize Intelligence to prepare a panoply of facts and figures. Wisdom lets y
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
 ### Methodology
 
-[[srd/pf2e/compendium/character/methodologies#Empiricism|Empiricism]]
+[[srd/pf2e/compendium/character/Methodologies#Empiricism|Empiricism]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core-2/class/flexible-studies|Flexible Studies]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Flexible Studies|Flexible Studies]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core-2/class/person-of-interest|Person of Interest]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/class/lie-detector|Lie Detector]] (4th), [[srd/pf2e/compendium/feats/player-core/archetype/blind-fight|Blind-Fight]] (8th), [[srd/pf2e/compendium/feats/player-core-2/class/empiricists-eye|Empiricist's Eye]] (12th)
+[[srd/pf2e/compendium/feats/player-core-2/class/Person of Interest|Person of Interest]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/class/Lie Detector|Lie Detector]] (4th), [[srd/pf2e/compendium/feats/player-core/archetype/Blind-Fight|Blind-Fight]] (8th), [[srd/pf2e/compendium/feats/player-core-2/class/Empiricist's Eye|Empiricist's Eye]] (12th)
 
 *Source: Player Core 2 p. 110*
 
@@ -52,15 +52,15 @@ Improve your Charisma first, then Constitution, Dexterity, and Wisdom.
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+[[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
 ### Eidolon
 
-[[srd/pf2e/compendium/character/eidolons/angel|Angel]]
+[[srd/pf2e/compendium/character/eidolons/Angel|Angel]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/glider-form|Glider Form]] (1st), [[srd/pf2e/compendium/feats/impossible-magic/class/ranged-combatant|Ranged Combatant]] (2nd), [[srd/pf2e/compendium/feats/impossible-magic/class/lifelink-surge|Lifelink Surge]] (4th), [[srd/pf2e/compendium/feats/impossible-magic/class/ostentatious-arrival|Ostentatious Arrival]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/protective-bond|Protective Bond]] (10th), [[srd/pf2e/compendium/feats/impossible-magic/class/airborne-form|Airborne Form]] (12th), [[srd/pf2e/compendium/feats/impossible-magic/class/ever-vigilant-senses|Ever-Vigilant Senses]] (16th)
+[[srd/pf2e/compendium/feats/impossible-magic/class/Glider Form|Glider Form]] (1st), [[srd/pf2e/compendium/feats/impossible-magic/class/Ranged Combatant|Ranged Combatant]] (2nd), [[srd/pf2e/compendium/feats/impossible-magic/class/Lifelink Surge|Lifelink Surge]] (4th), [[srd/pf2e/compendium/feats/impossible-magic/class/Ostentatious Arrival|Ostentatious Arrival]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/Protective Bond|Protective Bond]] (10th), [[srd/pf2e/compendium/feats/impossible-magic/class/Airborne Form|Airborne Form]] (12th), [[srd/pf2e/compendium/feats/impossible-magic/class/Ever-Vigilant Senses|Ever-Vigilant Senses]] (16th)
 
 *Source: Impossible Magic p. 82*
 
@@ -74,19 +74,19 @@ Increase your Strength as high as you can, followed by your Constitution and Dex
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Instinct
 
-[[srd/pf2e/compendium/character/instincts/animal|Animal Instinct]]
+[[srd/pf2e/compendium/character/instincts/Animal|Animal Instinct]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core-2/class/raging-intimidation|Raging Intimidation]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Raging Intimidation|Raging Intimidation]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core-2/class/no-escape|No Escape]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/class/animal-skin|Animal Skin]] (6th), [[srd/pf2e/compendium/feats/player-core-2/class/animalistic-brutality|Animalistic Brutality]] (8th), [[srd/pf2e/compendium/feats/player-core-2/class/terrifying-howl|Terrifying Howl]] (10th), [[srd/pf2e/compendium/feats/player-core-2/class/predators-pounce|Predator's Pounce]] (12th)
+[[srd/pf2e/compendium/feats/player-core-2/class/No Escape|No Escape]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/class/Animal Skin|Animal Skin]] (6th), [[srd/pf2e/compendium/feats/player-core-2/class/Animalistic Brutality|Animalistic Brutality]] (8th), [[srd/pf2e/compendium/feats/player-core-2/class/Terrifying Howl|Terrifying Howl]] (10th), [[srd/pf2e/compendium/feats/player-core-2/class/Predator's Pounce|Predator's Pounce]] (12th)
 
 *Source: Player Core 2 p. 80*
 
@@ -100,19 +100,19 @@ Prioritize Dexterity, followed by Constitution and Wisdom. Take Strength if you 
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Hunter's Edge
 
-[[srd/pf2e/compendium/character/hunters-edges#Outwit|outwit]]
+[[srd/pf2e/compendium/character/Hunters Edges#Outwit|outwit]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core/class/animal-companion|Animal Companion]]
+[[srd/pf2e/compendium/feats/player-core/class/Animal Companion|Animal Companion]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core/archetype/companions-cry|Companion's Cry]] (4th), [[srd/pf2e/compendium/feats/player-core/archetype/mature-animal-companion-ranger|Mature Animal Companion (Ranger)]] (6th), [[srd/pf2e/compendium/feats/player-core/archetype/incredible-companion-ranger|Incredible Companion (Ranger)]] (10th), [[srd/pf2e/compendium/feats/player-core/class/side-by-side-ranger|Side by Side (Ranger)]] (12th), [[srd/pf2e/compendium/feats/player-core/archetype/specialized-companion-ranger|Specialized Companion (Ranger)]] (16th), [[srd/pf2e/compendium/feats/player-core/class/masterful-companion|Masterful Companion]] (18th)
+[[srd/pf2e/compendium/feats/player-core/archetype/Companion's Cry|Companion's Cry]] (4th), [[srd/pf2e/compendium/feats/player-core/archetype/Mature Animal Companion (Ranger)|Mature Animal Companion (Ranger)]] (6th), [[srd/pf2e/compendium/feats/player-core/archetype/Incredible Companion (Ranger)|Incredible Companion (Ranger)]] (10th), [[srd/pf2e/compendium/feats/player-core/class/Side by Side (Ranger)|Side by Side (Ranger)]] (12th), [[srd/pf2e/compendium/feats/player-core/archetype/Specialized Companion (Ranger)|Specialized Companion (Ranger)]] (16th), [[srd/pf2e/compendium/feats/player-core/class/Masterful Companion|Masterful Companion]] (18th)
 
 *Source: Player Core p. 160*
 
@@ -126,15 +126,15 @@ Make Dexterity your highest modifier, followed by Intelligence and Charisma.
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
 ### Hybrid Study
 
-Laughing shadow
+[[srd/pf2e/compendium/character/Hybrid Studies#Laughing Shadow|Laughing shadow]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/arcane-fists|Arcane Fists]] (1st), [[srd/pf2e/compendium/feats/impossible-magic/class/distracting-spellstrike|Distracting Spellstrike]] (4th), [[srd/pf2e/compendium/feats/impossible-magic/class/spell-swipe|Spell Swipe]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/dimensional-disappearance|Dimensional Disappearance]] (8th)
+[[srd/pf2e/compendium/feats/impossible-magic/class/Arcane Fists|Arcane Fists]] (1st), [[srd/pf2e/compendium/feats/impossible-magic/class/Distracting Spellstrike|Distracting Spellstrike]] (4th), [[srd/pf2e/compendium/feats/impossible-magic/class/Spell Swipe|Spell Swipe]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/Dimensional Disappearance|Dimensional Disappearance]] (8th)
 
 *Source: Impossible Magic p. 18*
 
@@ -148,15 +148,15 @@ Make Strength your highest modifier, followed by Intelligence, and choose a good
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
+[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]]
 
 ### Hybrid Study
 
-Inexorable iron
+[[srd/pf2e/compendium/character/Hybrid Studies#Inexorable Iron|Inexorable iron]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/force-fang|Force Fang]] (2nd), [[srd/pf2e/compendium/feats/impossible-magic/class/devastating-spellstrike|Devastating Spellstrike]] (4th), [[srd/pf2e/compendium/feats/player-core-2/archetype/reactive-strike|Reactive Strike]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/fused-staff|Fused Staff]] (8th)
+[[srd/pf2e/compendium/feats/impossible-magic/class/Force Fang|Force Fang]] (2nd), [[srd/pf2e/compendium/feats/impossible-magic/class/Devastating Spellstrike|Devastating Spellstrike]] (4th), [[srd/pf2e/compendium/feats/player-core-2/archetype/Reactive Strike|Reactive Strike]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/Fused Staff|Fused Staff]] (8th)
 
 *Source: Impossible Magic p. 16*
 
@@ -170,15 +170,15 @@ Prioritize Dexterity. Constitution and Wisdom helps with survivability, and Stre
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core/archetype/point-blank-stance|Point Blank Stance]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Point Blank Stance|Point Blank Stance]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core/archetype/double-shot|Double Shot]] (4th), [[srd/pf2e/compendium/feats/player-core/archetype/triple-shot|Triple Shot]] (6th), [[srd/pf2e/compendium/feats/player-core/class/debilitating-shot|Debilitating Shot]] (10th), [[srd/pf2e/compendium/feats/player-core/class/opening-stance-fighter|Opening Stance (Fighter)]] (14th), [[srd/pf2e/compendium/feats/player-core/archetype/multishot-stance|Multishot Stance]] (16th), [[srd/pf2e/compendium/feats/player-core/archetype/impossible-volley|Impossible Volley]] (18th)
+[[srd/pf2e/compendium/feats/player-core/archetype/Double Shot|Double Shot]] (4th), [[srd/pf2e/compendium/feats/player-core/archetype/Triple Shot|Triple Shot]] (6th), [[srd/pf2e/compendium/feats/player-core/class/Debilitating Shot|Debilitating Shot]] (10th), [[srd/pf2e/compendium/feats/player-core/class/Opening Stance (Fighter)|Opening Stance (Fighter)]] (14th), [[srd/pf2e/compendium/feats/player-core/archetype/Multishot Stance|Multishot Stance]] (16th), [[srd/pf2e/compendium/feats/player-core/archetype/Impossible Volley|Impossible Volley]] (18th)
 
 *Source: Player Core p. 148*
 
@@ -192,19 +192,19 @@ Prioritize Strength for melee combat and Intelligence for your inventor abilitie
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
 ### Innovation
 
-[[srd/pf2e/compendium/character/innovations#Armor|Armor]]
+[[srd/pf2e/compendium/character/Innovations#Armor|Armor]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/class/tamper|Tamper]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/class/Tamper|Tamper]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/class/collapse-armor|Collapse Armor]] (2nd), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/megaton-strike|Megaton Strike]] (4th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/clockwork-celerity|Clockwork Celerity]] (6th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/gigaton-strike|Gigaton Strike]] (8th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/electrify-armor|Electrify Armor]] (10th)
+[[srd/pf2e/compendium/feats/guns-gears-remastered/class/Collapse Armor|Collapse Armor]] (2nd), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Megaton Strike|Megaton Strike]] (4th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Clockwork Celerity|Clockwork Celerity]] (6th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Gigaton Strike|Gigaton Strike]] (8th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Electrify Armor|Electrify Armor]] (10th)
 
 *Source: Guns & Gears (Remastered) p. 26*
 
@@ -218,19 +218,19 @@ Prioritize Intelligence. Dexterity is your second priority, followed by Constitu
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
 ### Fatal Method
 
-Puppeteer
+[[srd/pf2e/compendium/character/Fatal Methods#Puppeteer|Puppeteer]]
 
 ### Grim Fascination
 
-Blood
+[[srd/pf2e/compendium/character/Grim Fascinations#Blood|Blood]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/vampiric-spell|Vampiric Spell]] (4th), [[srd/pf2e/compendium/feats/impossible-magic/class/bloody-tendrils|Bloody Tendrils]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/sanguine-transference|Sanguine Transference]] (8th), [[srd/pf2e/compendium/feats/impossible-magic/class/sanguine-mastery|Sanguine Mastery]] (12th)
+[[srd/pf2e/compendium/feats/impossible-magic/class/Vampiric Spell|Vampiric Spell]] (4th), [[srd/pf2e/compendium/feats/impossible-magic/class/Bloody Tendrils|Bloody Tendrils]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/Sanguine Transference|Sanguine Transference]] (8th), [[srd/pf2e/compendium/feats/impossible-magic/class/Sanguine Mastery|Sanguine Mastery]] (12th)
 
 *Source: Impossible Magic p. 38*
 
@@ -244,15 +244,15 @@ Constitution will maximize your health, and Strength will allow you to better re
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/battlecry/class/bodyguard|Bodyguard]]
+[[srd/pf2e/compendium/feats/battlecry/class/Bodyguard|Bodyguard]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/battlecry/class/covering-stance|Covering Stance]] (2nd), [[srd/pf2e/compendium/feats/battlecry/class/area-armor|Area Armor]] (4th), [[srd/pf2e/compendium/feats/battlecry/class/retaliating-rescue|Retaliating Rescue]] (6th), [[srd/pf2e/compendium/feats/battlecry/class/get-behind-me|Get Behind Me!]] (10th), [[srd/pf2e/compendium/feats/battlecry/class/bloody-denial|Bloody Denial]] (14th), [[srd/pf2e/compendium/feats/battlecry/class/never|Never!]] (16th)
+[[srd/pf2e/compendium/feats/battlecry/class/Covering Stance|Covering Stance]] (2nd), [[srd/pf2e/compendium/feats/battlecry/class/Area Armor|Area Armor]] (4th), [[srd/pf2e/compendium/feats/battlecry/class/Retaliating Rescue|Retaliating Rescue]] (6th), [[srd/pf2e/compendium/feats/battlecry/class/Get Behind Me!|Get Behind Me!]] (10th), [[srd/pf2e/compendium/feats/battlecry/class/Bloody Denial|Bloody Denial]] (14th), [[srd/pf2e/compendium/feats/battlecry/class/Never!|Never!]] (16th)
 
 *Source: Battlecry! p. 44*
 
@@ -266,19 +266,19 @@ Prioritize Intelligence and Dexterity. Constitution helps you survive explosions
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
 ### Research Field
 
-[[srd/pf2e/compendium/character/research-fields#Bomber|Bomber]]
+[[srd/pf2e/compendium/character/Research Fields#Bomber|Bomber]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core-2/class/quick-bomber|Quick Bomber]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Quick Bomber|Quick Bomber]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core-2/class/smoke-bomb|Smoke Bomb]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/archetype/directional-bombs|Directional Bombs]] (6th), [[srd/pf2e/compendium/feats/player-core-2/class/sticky-bomb|Sticky Bomb]] (8th), [[srd/pf2e/compendium/feats/player-core-2/archetype/expanded-splash|Expanded Splash]] (10th), [[srd/pf2e/compendium/feats/player-core-2/class/mega-bomb|Mega Bomb]] (20th)
+[[srd/pf2e/compendium/feats/player-core-2/class/Smoke Bomb|Smoke Bomb]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/archetype/Directional Bombs|Directional Bombs]] (6th), [[srd/pf2e/compendium/feats/player-core-2/class/Sticky Bomb|Sticky Bomb]] (8th), [[srd/pf2e/compendium/feats/player-core-2/archetype/Expanded Splash|Expanded Splash]] (10th), [[srd/pf2e/compendium/feats/player-core-2/class/Mega Bomb|Mega Bomb]] (20th)
 
 *Source: Player Core 2 p. 66*
 
@@ -292,15 +292,15 @@ Prioritizing Strength and Constitution. Wisdom helps with survivability and incr
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
+[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core/archetype/vicious-swing|Vicious Swing]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Vicious Swing|Vicious Swing]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core/archetype/slam-down|Slam Down]] (4th), [[srd/pf2e/compendium/feats/player-core/class/furious-focus|Furious Focus]] (6th), [[srd/pf2e/compendium/feats/player-core/class/positioning-assault|Positioning Assault]] (8th), [[srd/pf2e/compendium/feats/player-core/archetype/brutal-finish|Brutal Finish]] (12th), [[srd/pf2e/compendium/feats/player-core/class/savage-critical|Savage Critical]] (18th)
+[[srd/pf2e/compendium/feats/player-core/archetype/Slam Down|Slam Down]] (4th), [[srd/pf2e/compendium/feats/player-core/class/Furious Focus|Furious Focus]] (6th), [[srd/pf2e/compendium/feats/player-core/class/Positioning Assault|Positioning Assault]] (8th), [[srd/pf2e/compendium/feats/player-core/archetype/Brutal Finish|Brutal Finish]] (12th), [[srd/pf2e/compendium/feats/player-core/class/Savage Critical|Savage Critical]] (18th)
 
 *Source: Player Core p. 144*
 
@@ -314,7 +314,7 @@ A high Dexterity will help you make the most of your ranged attacks.
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]], [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
 ### Epithets
 
@@ -324,12 +324,12 @@ The Radiant, Of Verse Unbroken, Thief of Moonlight
 
 **Eye-Catching Spot**
  **Gaze Sharp as Steel**
- **Unfailing Bow**: [[srd/pf2e/compendium/feats/war-of-immortals/class/red-gold-mortality|Red–Gold Mortality]] (2nd), [[srd/pf2e/compendium/feats/war-of-immortals/class/through-the-needles-eye|Through the Needle's Eye]] (4th), [[srd/pf2e/compendium/feats/war-of-immortals/class/binding-serpents-celestial-arrow|Binding Serpents Celestial Arrow]] (6th)
+ **Unfailing Bow**: [[srd/pf2e/compendium/feats/war-of-immortals/class/Red-Gold Mortality|Red–Gold Mortality]] (2nd), [[srd/pf2e/compendium/feats/war-of-immortals/class/Through the Needle's Eye|Through the Needle's Eye]] (4th), [[srd/pf2e/compendium/feats/war-of-immortals/class/Binding Serpents Celestial Arrow|Binding Serpents Celestial Arrow]] (6th)
  **Thousand-League Sandals**
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/war-of-immortals/class/sanctified-soul|Sanctified Soul (Holy)]] (1st), [[srd/pf2e/compendium/feats/war-of-immortals/class/additional-ikon|Additional Ikon]] (8th), [[srd/pf2e/compendium/feats/war-of-immortals/class/journey-of-the-sky-chariot|Journey Of the Sky Chariot]] (10th)
+[[srd/pf2e/compendium/feats/war-of-immortals/class/Sanctified Soul|Sanctified Soul (Holy)]] (1st), [[srd/pf2e/compendium/feats/war-of-immortals/class/Additional Ikon|Additional Ikon]] (8th), [[srd/pf2e/compendium/feats/war-of-immortals/class/Journey Of the Sky Chariot|Journey Of the Sky Chariot]] (10th)
 
 *Source: War of Immortals p. 40*
 
@@ -343,19 +343,19 @@ Prioritize Intelligence for your alchemy and deductive reasoning. Dexterity help
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
 ### Methodology
 
-[[srd/pf2e/compendium/character/methodologies#Alchemical Sciences|Alchemical sciences]]
+[[srd/pf2e/compendium/character/Methodologies#Alchemical Sciences|Alchemical sciences]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core-2/class/known-weaknesses|Known Weaknesses]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Known Weaknesses|Known Weaknesses]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core-2/class/alchemical-discoveries|Alchemical Discoveries]] (4th), [[srd/pf2e/compendium/feats/player-core-2/archetype/predictive-purchase|Predictive Purchase]] (6th), [[srd/pf2e/compendium/feats/player-core-2/archetype/implausible-purchase|Implausible Purchase]] (16th)
+[[srd/pf2e/compendium/feats/player-core-2/class/Alchemical Discoveries|Alchemical Discoveries]] (4th), [[srd/pf2e/compendium/feats/player-core-2/archetype/Predictive Purchase|Predictive Purchase]] (6th), [[srd/pf2e/compendium/feats/player-core-2/archetype/Implausible Purchase|Implausible Purchase]] (16th)
 
 *Source: Player Core 2 p. 112*
 
@@ -369,19 +369,19 @@ Prioritize Intelligence and Wisdom. Constitution increases your survivability, a
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Research Field
 
-[[srd/pf2e/compendium/character/research-fields#Chirurgeon|Chirurgeon]]
+[[srd/pf2e/compendium/character/Research Fields#Chirurgeon|Chirurgeon]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core-2/class/soothing-vials|Soothing Vials]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Soothing Vials|Soothing Vials]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core-2/class/clotting-elixirs|Clotting Elixirs]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/class/invigorating-elixir|Invigorating Elixir]] (4th), [[srd/pf2e/compendium/feats/player-core-2/class/combine-elixirs|Combine Elixirs]] (6th), [[srd/pf2e/compendium/feats/player-core-2/class/improved-invigorating-elixir|Improved Invigorating Elixir]] (8th), [[srd/pf2e/compendium/feats/player-core-2/class/supreme-invigorating-elixir|Supreme Invigorating Elixir]] (12th), [[srd/pf2e/compendium/feats/player-core-2/class/miracle-worker|Miracle Worker]] (18th), [[srd/pf2e/compendium/feats/player-core-2/class/craft-philosophers-stone|Craft Philosopher's Stone]] (20th)
+[[srd/pf2e/compendium/feats/player-core-2/class/Clotting Elixirs|Clotting Elixirs]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/class/Invigorating Elixir|Invigorating Elixir]] (4th), [[srd/pf2e/compendium/feats/player-core-2/class/Combine Elixirs|Combine Elixirs]] (6th), [[srd/pf2e/compendium/feats/player-core-2/class/Improved Invigorating Elixir|Improved Invigorating Elixir]] (8th), [[srd/pf2e/compendium/feats/player-core-2/class/Supreme Invigorating Elixir|Supreme Invigorating Elixir]] (12th), [[srd/pf2e/compendium/feats/player-core-2/class/Miracle Worker|Miracle Worker]] (18th), [[srd/pf2e/compendium/feats/player-core-2/class/Craft Philosopher's Stone|Craft Philosopher's Stone]] (20th)
 
 *Source: Player Core 2 p. 64*
 
@@ -395,19 +395,19 @@ Intelligence comes first, followed by Wisdom to support your perceptiveness and 
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Methodology
 
-[[srd/pf2e/compendium/character/methodologies#Forensic Medicine|Forensic medicine]]
+[[srd/pf2e/compendium/character/Methodologies#Forensic Medicine|Forensic medicine]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core-2/class/thats-odd|That's Odd]]
+[[srd/pf2e/compendium/feats/player-core-2/class/That's Odd|That's Odd]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core-2/class/scalpels-point|Scalpel's Point]] (4th), [[srd/pf2e/compendium/feats/player-core-2/archetype/thorough-research|Thorough Research]] (6th), [[srd/pf2e/compendium/feats/player-core-2/class/surgical-shock|Surgical Shock]] (12th), [[srd/pf2e/compendium/feats/player-core-2/class/strategic-bypass|Strategic Bypass]] (14th), [[srd/pf2e/compendium/feats/player-core/class/reconstruct-the-scene|Reconstruct The Scene]] (16th)
+[[srd/pf2e/compendium/feats/player-core-2/class/Scalpel's Point|Scalpel's Point]] (4th), [[srd/pf2e/compendium/feats/player-core-2/archetype/Thorough Research|Thorough Research]] (6th), [[srd/pf2e/compendium/feats/player-core-2/class/Surgical Shock|Surgical Shock]] (12th), [[srd/pf2e/compendium/feats/player-core-2/class/Strategic Bypass|Strategic Bypass]] (14th), [[srd/pf2e/compendium/feats/player-core/class/Reconstruct The Scene|Reconstruct The Scene]] (16th)
 
 *Source: Player Core 2 p. 108*
 
@@ -421,7 +421,7 @@ Prioritize Strength and Constitution to let you dish out damage and disregard th
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
 ### Epithets
 
@@ -430,12 +430,12 @@ The Prideful, Born of the Bones of the Earth, Teacher of Heroes
 ### Ikons and Feats
 
 **Hands of the Wildling**
- **Scar of the Survivor**: [[srd/pf2e/compendium/feats/war-of-immortals/class/leap-the-falls|Leap the Falls]] (2nd), [[srd/pf2e/compendium/feats/war-of-immortals/class/breath-of-vital-ash|Breath of Vital Ash]] (10th)
- **Bands of Imprisonment**: [[srd/pf2e/compendium/feats/war-of-immortals/class/steel-on-steel|Steel on Steel]] (4th)
+ **Scar of the Survivor**: [[srd/pf2e/compendium/feats/war-of-immortals/class/Leap the Falls|Leap the Falls]] (2nd), [[srd/pf2e/compendium/feats/war-of-immortals/class/Breath of Vital Ash|Breath of Vital Ash]] (10th)
+ **Bands of Imprisonment**: [[srd/pf2e/compendium/feats/war-of-immortals/class/Steel on Steel|Steel on Steel]] (4th)
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/war-of-immortals/class/vow-of-mortal-defiance|Vow of Mortal Defiance]] (1st), [[srd/pf2e/compendium/feats/player-core-2/archetype/reactive-strike|Reactive Strike]] (6th), [[srd/pf2e/compendium/feats/war-of-immortals/class/raise-island|Raise Island]] (8th)
+[[srd/pf2e/compendium/feats/war-of-immortals/class/Vow of Mortal Defiance|Vow of Mortal Defiance]] (1st), [[srd/pf2e/compendium/feats/player-core-2/archetype/Reactive Strike|Reactive Strike]] (6th), [[srd/pf2e/compendium/feats/war-of-immortals/class/Raise Island|Raise Island]] (8th)
 
 *Source: War of Immortals p. 42*
 
@@ -449,15 +449,15 @@ Make Charisma highest, followed by Dexterity. Add to Constitution for more healt
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]
 
 ### Muse
 
-[[srd/pf2e/compendium/character/muses#Maestro|Maestro]]
+[[srd/pf2e/compendium/character/Muses#Maestro|Maestro]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core/class/uplifting-overture|Uplifting Overture]] (2nd), [[srd/pf2e/compendium/feats/player-core/class/triple-time|Triple Time]] (4th), [[srd/pf2e/compendium/feats/player-core/class/allegro|Allegro]] (14th)
+[[srd/pf2e/compendium/feats/player-core/class/Uplifting Overture|Uplifting Overture]] (2nd), [[srd/pf2e/compendium/feats/player-core/class/Triple Time|Triple Time]] (4th), [[srd/pf2e/compendium/feats/player-core/class/Allegro|Allegro]] (14th)
 
 *Source: Player Core p. 102*
 
@@ -471,15 +471,15 @@ Prioritize Charisma. Intelligence will help you learn more skills, and a good De
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
 ### Bloodline
 
-[[srd/pf2e/compendium/character/bloodlines#Draconic|Draconic (Fortune Dragon)]]
+[[srd/pf2e/compendium/character/Bloodlines#Draconic|Draconic (Fortune Dragon)]]
 
 ### Higher-Level Feats
 
-Entreat with Forebears (2nd), [[srd/pf2e/compendium/feats/player-core-2/archetype/split-shot|Split Shot]] (4th), [[srd/pf2e/compendium/feats/player-core-2/class/advanced-bloodline|Advanced Bloodline]] (6th), [[srd/pf2e/compendium/feats/player-core-2/class/explosion-of-power|Explosion of Power]] (8th), [[srd/pf2e/compendium/feats/player-core-2/class/greater-bloodline|Greater Bloodline]] (10th), [[srd/pf2e/compendium/feats/player-core-2/class/bloodline-focus|Bloodline Focus]] (12th)
+Entreat with Forebears (2nd), [[srd/pf2e/compendium/feats/player-core-2/archetype/Split Shot|Split Shot]] (4th), [[srd/pf2e/compendium/feats/player-core-2/class/Advanced Bloodline|Advanced Bloodline]] (6th), [[srd/pf2e/compendium/feats/player-core-2/class/Explosion of Power|Explosion of Power]] (8th), [[srd/pf2e/compendium/feats/player-core-2/class/Greater Bloodline|Greater Bloodline]] (10th), [[srd/pf2e/compendium/feats/player-core-2/class/Bloodline Focus|Bloodline Focus]] (12th)
 
 *Source: Player Core 2 p. 156*
 
@@ -493,19 +493,19 @@ Prioritize Dexterity, followed by Strength and Constitution.
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
 ### Way
 
-[[srd/pf2e/compendium/character/ways#Way of the Drifter|Drifter]]
+[[srd/pf2e/compendium/character/Ways#Way of the Drifter|Drifter]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/sword-and-pistol|Sword and Pistol]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Sword and Pistol|Sword and Pistol]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/class/fake-out|Fake Out]] (2nd), [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/black-powder-boost|Black Powder Boost]] (4th)
+[[srd/pf2e/compendium/feats/guns-gears-remastered/class/Fake Out|Fake Out]] (2nd), [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Black Powder Boost|Black Powder Boost]] (4th)
 
 *Source: Guns & Gears (Remastered) p. 114*
 
@@ -519,15 +519,15 @@ Depending on the weapons you wield, Strength or Dexterity is your highest priori
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
 ### Hybrid Study
 
-Twofold twine
+[[srd/pf2e/compendium/character/Hybrid Studies#Twofold Tine|Twofold twine]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/spirit-sheath|Spirit Sheath]] (2nd), [[srd/pf2e/compendium/feats/impossible-magic/class/recharging-flurry|Recharging Flurry]] (4th), [[srd/pf2e/compendium/feats/player-core-2/archetype/reactive-strike|Reactive Strike]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/split-spellstrike|Split Spellstrike]] (10th)
+[[srd/pf2e/compendium/feats/impossible-magic/class/Spirit Sheath|Spirit Sheath]] (2nd), [[srd/pf2e/compendium/feats/impossible-magic/class/Recharging Flurry|Recharging Flurry]] (4th), [[srd/pf2e/compendium/feats/player-core-2/archetype/Reactive Strike|Reactive Strike]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/Split Spellstrike|Split Spellstrike]] (10th)
 
 *Source: Impossible Magic p. 22*
 
@@ -541,15 +541,15 @@ Prioritize Strength. Dexterity and Wisdom help with survivability and versatilit
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core/archetype/snagging-strike|Snagging Strike]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Snagging Strike|Snagging Strike]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core/archetype/dueling-parry-fighter|Dueling Parry (Fighter)]] (2nd), [[srd/pf2e/compendium/feats/player-core/archetype/disarming-stance|Disarming Stance]] (6th), [[srd/pf2e/compendium/feats/player-core/archetype/disarming-twist|Disarming Twist]] (10th), [[srd/pf2e/compendium/feats/player-core/archetype/dueling-dance-fighter|Dueling Dance (Fighter)]] (12th), [[srd/pf2e/compendium/feats/player-core/class/opening-stance-fighter|Opening Stance (Fighter)]] (14th), [[srd/pf2e/compendium/feats/player-core/class/master-of-many-styles|Master of Many Styles]] (16th)
+[[srd/pf2e/compendium/feats/player-core/archetype/Dueling Parry (Fighter)|Dueling Parry (Fighter)]] (2nd), [[srd/pf2e/compendium/feats/player-core/archetype/Disarming Stance|Disarming Stance]] (6th), [[srd/pf2e/compendium/feats/player-core/archetype/Disarming Twist|Disarming Twist]] (10th), [[srd/pf2e/compendium/feats/player-core/archetype/Dueling Dance (Fighter)|Dueling Dance (Fighter)]] (12th), [[srd/pf2e/compendium/feats/player-core/class/Opening Stance (Fighter)|Opening Stance (Fighter)]] (14th), [[srd/pf2e/compendium/feats/player-core/class/Master of Many Styles|Master of Many Styles]] (16th)
 
 *Source: Player Core p. 146*
 
@@ -564,19 +564,19 @@ Constitution, Dexterity, Charisma
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
 ### Gate's Threshold
 
-**5th** [[srd/pf2e/compendium/feats/rage-of-elements/class/ravel-of-thorns|Ravel of Thorns]]; **9th** [[srd/pf2e/compendium/feats/rage-of-elements/class/call-the-hurricane|Call the Hurricane]]; **13th** [[srd/pf2e/compendium/feats/rage-of-elements/class/rock-rampart|Rock Rampart]]; **17th** [[srd/pf2e/compendium/feats/rage-of-elements/class/alloy-flesh-and-steel|Alloy Flesh and Steel]]
+**5th** [[srd/pf2e/compendium/feats/rage-of-elements/class/Ravel of Thorns|Ravel of Thorns]]; **9th** [[srd/pf2e/compendium/feats/rage-of-elements/class/Call the Hurricane|Call the Hurricane]]; **13th** [[srd/pf2e/compendium/feats/rage-of-elements/class/Rock Rampart|Rock Rampart]]; **17th** [[srd/pf2e/compendium/feats/rage-of-elements/class/Alloy Flesh and Steel|Alloy Flesh and Steel]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/rage-of-elements/class/flying-flame|Flying Flame]]
+[[srd/pf2e/compendium/feats/rage-of-elements/class/Flying Flame|Flying Flame]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/rage-of-elements/class/four-winds|Four Winds]] (1st), [[srd/pf2e/compendium/feats/rage-of-elements/class/whisper-on-the-wind|Whisper on the Wind]] (1st), [[srd/pf2e/compendium/feats/rage-of-elements/class/two-element-infusion|Two-Element Infusion]] (6th)
+[[srd/pf2e/compendium/feats/rage-of-elements/class/Four Winds|Four Winds]] (1st), [[srd/pf2e/compendium/feats/rage-of-elements/class/Whisper on the Wind|Whisper on the Wind]] (1st), [[srd/pf2e/compendium/feats/rage-of-elements/class/Two-Element Infusion|Two-Element Infusion]] (6th)
 
 *Source: Rage of Elements p. 20*
 
@@ -590,19 +590,19 @@ Prioritize Dexterity for accuracy, as well as Charisma for Deception.
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
 ### Swashbuckler's Style
 
-Fencer
+[[srd/pf2e/compendium/character/Styles#Fencer|Fencer]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core-2/class/goading-feint|Goading Feint]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Goading Feint|Goading Feint]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core-2/class/tumble-behind-swashbuckler|Tumble Behind (Swashbuckler)]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/archetype/reactive-strike|Reactive Strike]] (6th), [[srd/pf2e/compendium/feats/player-core-2/class/reflexive-riposte|Reflexive Riposte]] (10th), [[srd/pf2e/compendium/feats/player-core-2/class/felicitous-riposte|Felicitous Riposte]] (16th)
+[[srd/pf2e/compendium/feats/player-core-2/class/Tumble Behind (Swashbuckler)|Tumble Behind (Swashbuckler)]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/archetype/Reactive Strike|Reactive Strike]] (6th), [[srd/pf2e/compendium/feats/player-core-2/class/Reflexive Riposte|Reflexive Riposte]] (10th), [[srd/pf2e/compendium/feats/player-core-2/class/Felicitous Riposte|Felicitous Riposte]] (16th)
 
 *Source: Player Core 2 p. 168*
 
@@ -616,15 +616,15 @@ Prioritize Charisma for your spellcasting and Dexterity to help keep you out of 
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
 ### Mystery
 
-[[srd/pf2e/compendium/character/mysteries#Flames|Flames]]
+[[srd/pf2e/compendium/character/Mysteries#Flames|Flames]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core-2/class/foretell-harm|Foretell Harm]] (1st), [[srd/pf2e/compendium/feats/player-core-2/class/domain-acumen|Domain Acumen]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/class/thousand-visions|Thousand Visions]] (4th), [[srd/pf2e/compendium/feats/player-core-2/class/advanced-revelation|Advanced Revelation]] (6th), [[srd/pf2e/compendium/feats/player-core-2/archetype/surging-might|Surging Might]] (8th), [[srd/pf2e/compendium/feats/player-core-2/class/trial-by-skyfire|Trial by Skyfire]] (10th)
+[[srd/pf2e/compendium/feats/player-core-2/class/Foretell Harm|Foretell Harm]] (1st), [[srd/pf2e/compendium/feats/player-core-2/class/Domain Acumen|Domain Acumen]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/class/Thousand Visions|Thousand Visions]] (4th), [[srd/pf2e/compendium/feats/player-core-2/class/Advanced Revelation|Advanced Revelation]] (6th), [[srd/pf2e/compendium/feats/player-core-2/archetype/Surging Might|Surging Might]] (8th), [[srd/pf2e/compendium/feats/player-core-2/class/Trial by Skyfire|Trial by Skyfire]] (10th)
 
 *Source: Player Core 2 p. 136*
 
@@ -638,19 +638,19 @@ Prioritize Intelligence. Wisdom will make you perceptive and act quicker once co
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Fatal Method
 
-Puppeteer
+[[srd/pf2e/compendium/character/Fatal Methods#Puppeteer|Puppeteer]]
 
 ### Grim Fascination
 
-Flesh
+[[srd/pf2e/compendium/character/Grim Fascinations#Flesh|Flesh]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/muscle-barrier|Muscle Barrier]] (2nd), [[srd/pf2e/compendium/feats/impossible-magic/class/zombie-horde|Zombie Horde]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/conglomerate-of-limbs|Conglomerate of Limbs]] (8th), [[srd/pf2e/compendium/feats/impossible-magic/class/overburdening-spell|Overburdening Spell]] (10th), [[srd/pf2e/compendium/feats/impossible-magic/class/thick-skin|Thick Skin]] (12th), [[srd/pf2e/compendium/feats/impossible-magic/class/flesh-tsunami|Flesh Tsunami]] (16th)
+[[srd/pf2e/compendium/feats/impossible-magic/class/Muscle Barrier|Muscle Barrier]] (2nd), [[srd/pf2e/compendium/feats/impossible-magic/class/Zombie Horde|Zombie Horde]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/Conglomerate of Limbs|Conglomerate of Limbs]] (8th), [[srd/pf2e/compendium/feats/impossible-magic/class/Overburdening Spell|Overburdening Spell]] (10th), [[srd/pf2e/compendium/feats/impossible-magic/class/Thick Skin|Thick Skin]] (12th), [[srd/pf2e/compendium/feats/impossible-magic/class/Flesh Tsunami|Flesh Tsunami]] (16th)
 
 *Source: Impossible Magic p. 40*
 
@@ -664,19 +664,19 @@ Prioritize your Strength, then your Constitution and Dexterity. Wisdom can make 
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
 ### Instinct
 
-[[srd/pf2e/compendium/character/instincts/fury|Fury instinct]]
+[[srd/pf2e/compendium/character/instincts/Fury|Fury instinct]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core/class/sudden-charge|Sudden Charge]]
+[[srd/pf2e/compendium/feats/player-core/class/Sudden Charge|Sudden Charge]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core-2/class/furious-finish|Furious Finish]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/class/scars-of-steel|Scars of Steel]] (4th), [[srd/pf2e/compendium/feats/player-core-2/archetype/reactive-strike|Reactive Strike]] (6th), [[srd/pf2e/compendium/feats/player-core/archetype/whirlwind-strike|Whirlwind Strike]] (14th)
+[[srd/pf2e/compendium/feats/player-core-2/class/Furious Finish|Furious Finish]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/class/Scars of Steel|Scars of Steel]] (4th), [[srd/pf2e/compendium/feats/player-core-2/archetype/Reactive Strike|Reactive Strike]] (6th), [[srd/pf2e/compendium/feats/player-core/archetype/Whirlwind Strike|Whirlwind Strike]] (14th)
 
 *Source: Player Core 2 p. 84*
 
@@ -690,15 +690,15 @@ Focus on Charisma, Constitution, and then Strength.
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Eidolon
 
-[[srd/pf2e/compendium/character/eidolons/beast|Beast]]
+[[srd/pf2e/compendium/character/eidolons/Beast|Beast]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/advanced-weaponry|Advanced Weaponry]] (1st), [[srd/pf2e/compendium/feats/impossible-magic/class/reinforce-eidolon|Reinforce Eidolon]] (2nd), [[srd/pf2e/compendium/feats/impossible-magic/class/tandem-strike|Tandem Strike]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/hulking-size|Hulking Size]] (8th), [[srd/pf2e/compendium/feats/impossible-magic/class/towering-size|Towering Size]] (12th), [[srd/pf2e/compendium/feats/impossible-magic/class/resilient-shell|Resilient Shell]] (14th), [[srd/pf2e/compendium/feats/impossible-magic/class/eidolons-trample|Eidolon's Trample]] (16th)
+[[srd/pf2e/compendium/feats/impossible-magic/class/Advanced Weaponry|Advanced Weaponry]] (1st), [[srd/pf2e/compendium/feats/impossible-magic/class/Reinforce Eidolon|Reinforce Eidolon]] (2nd), [[srd/pf2e/compendium/feats/impossible-magic/class/Tandem Strike|Tandem Strike]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/Hulking Size|Hulking Size]] (8th), [[srd/pf2e/compendium/feats/impossible-magic/class/Towering Size|Towering Size]] (12th), [[srd/pf2e/compendium/feats/impossible-magic/class/Resilient Shell|Resilient Shell]] (14th), [[srd/pf2e/compendium/feats/impossible-magic/class/Eidolon's Trample|Eidolon's Trample]] (16th)
 
 *Source: Impossible Magic p. 84*
 
@@ -712,19 +712,19 @@ Take Wisdom for your spellcasting and Strength for attacks.
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Deity
 
-[[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]] (divine font: [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]])
+[[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Gozreh|Gozreh]] (divine font: [[srd/pf2e/compendium/spells/rank-1/Heal|_heal_]])
 
 ### Doctrine
 
-[[srd/pf2e/compendium/character/doctrines#Warpriest|warpriest]]
+[[srd/pf2e/compendium/character/Doctrines#Warpriest|warpriest]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core/class/emblazon-armament|Emblazon Armament]] (2nd), [[srd/pf2e/compendium/feats/player-core/class/divine-weapon|Divine Weapon]] (6th)
+[[srd/pf2e/compendium/feats/player-core/class/Emblazon Armament|Emblazon Armament]] (2nd), [[srd/pf2e/compendium/feats/player-core/class/Divine Weapon|Divine Weapon]] (6th)
 
 *Source: Player Core p. 118*
 
@@ -738,15 +738,15 @@ Since you’ll be using your spells on yourself more than your enemies, aim for 
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
 ### Mystery
 
-[[srd/pf2e/compendium/character/mysteries#Battle|Battle]]
+[[srd/pf2e/compendium/character/Mysteries#Battle|Battle]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core-2/class/oracular-warning|Oracular Warning]] (1st), [[srd/pf2e/compendium/feats/player-core-2/class/meddling-futures|Meddling Futures]] (2nd), [[srd/pf2e/compendium/feats/player-core/archetype/bespell-strikes|Bespell Strikes]] (4th), [[srd/pf2e/compendium/feats/player-core/archetype/steady-spellcasting|Steady Spellcasting]] (6th), [[srd/pf2e/compendium/feats/player-core-2/class/water-walker|Water Walker]] (8th), [[srd/pf2e/compendium/feats/player-core/archetype/quickened-casting|Quickened Casting]] (10th), [[srd/pf2e/compendium/feats/player-core-2/class/epiphany-at-the-crossroads|Epiphany at the Crossroads]] (12th)
+[[srd/pf2e/compendium/feats/player-core-2/class/Oracular Warning|Oracular Warning]] (1st), [[srd/pf2e/compendium/feats/player-core-2/class/Meddling Futures|Meddling Futures]] (2nd), [[srd/pf2e/compendium/feats/player-core/archetype/Bespell Strikes|Bespell Strikes]] (4th), [[srd/pf2e/compendium/feats/player-core/archetype/Steady Spellcasting|Steady Spellcasting]] (6th), [[srd/pf2e/compendium/feats/player-core-2/class/Water Walker|Water Walker]] (8th), [[srd/pf2e/compendium/feats/player-core/archetype/Quickened Casting|Quickened Casting]] (10th), [[srd/pf2e/compendium/feats/player-core-2/class/Epiphany at the Crossroads|Epiphany at the Crossroads]] (12th)
 
 *Source: Player Core 2 p. 142*
 
@@ -760,15 +760,15 @@ Prioritize Intelligence first, then Strength and Wisdom.
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/smithing-weapons|Smithing Weapons]]
+[[srd/pf2e/compendium/feats/impossible-magic/class/Smithing Weapons|Smithing Weapons]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/terrifying-invocation|Terrifying Invocation]] (4th), [[srd/pf2e/compendium/feats/impossible-magic/class/swiping-trace|Swiping Trace]] (8th), [[srd/pf2e/compendium/feats/impossible-magic/class/clashing-compound-invocation|Clashing Compound Invocation]] (10th), [[srd/pf2e/compendium/feats/impossible-magic/class/define-the-canvas|Define the Canvas]] (14th)
+[[srd/pf2e/compendium/feats/impossible-magic/class/Terrifying Invocation|Terrifying Invocation]] (4th), [[srd/pf2e/compendium/feats/impossible-magic/class/Swiping Trace|Swiping Trace]] (8th), [[srd/pf2e/compendium/feats/impossible-magic/class/Clashing Compound Invocation|Clashing Compound Invocation]] (10th), [[srd/pf2e/compendium/feats/impossible-magic/class/Define the Canvas|Define the Canvas]] (14th)
 
 *Source: Impossible Magic p. 56*
 
@@ -782,19 +782,19 @@ Intelligence fuels your spells. Dexterity and Constitution provide solid defense
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+[[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
 ### Lessons
 
-Basic: [[srd/pf2e/compendium/character/lessons#Lesson of Protection|protection]]; greater: [[srd/pf2e/compendium/character/lessons#Lesson of Mischief|mischief]]; major: [[srd/pf2e/compendium/character/lessons#Lesson of Renewal|renewal]]
+Basic: [[srd/pf2e/compendium/character/Lessons#Lesson of Protection|protection]]; greater: [[srd/pf2e/compendium/character/Lessons#Lesson of Mischief|mischief]]; major: [[srd/pf2e/compendium/character/Lessons#Lesson of Renewal|renewal]]
 
 ### Patron
 
-[[srd/pf2e/compendium/character/patrons#Spinner of Threads|Spinner of threads]]
+[[srd/pf2e/compendium/character/Patrons#Spinner of Threads|Spinner of threads]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core/class/cauldron|Cauldron]] (1st), [[srd/pf2e/compendium/feats/player-core/class/basic-lesson|Basic Lesson]] (2nd), [[srd/pf2e/compendium/feats/player-core/class/greater-lesson|Greater Lesson]] (6th), [[srd/pf2e/compendium/feats/player-core/class/witchs-bottle|Witch’s Bottle]] (8th), [[srd/pf2e/compendium/feats/player-core/class/major-lesson|Major Lesson]] (10th), [[srd/pf2e/compendium/feats/player-core/class/hex-focus|Hex Focus]] (12th)
+[[srd/pf2e/compendium/feats/player-core/class/Cauldron|Cauldron]] (1st), [[srd/pf2e/compendium/feats/player-core/class/Basic Lesson|Basic Lesson]] (2nd), [[srd/pf2e/compendium/feats/player-core/class/Greater Lesson|Greater Lesson]] (6th), [[srd/pf2e/compendium/feats/player-core/class/Witch’s Bottle|Witch’s Bottle]] (8th), [[srd/pf2e/compendium/feats/player-core/class/Major Lesson|Major Lesson]] (10th), [[srd/pf2e/compendium/feats/player-core/class/Hex Focus|Hex Focus]] (12th)
 
 *Source: Player Core p. 188*
 
@@ -808,19 +808,19 @@ Intelligence is crucial for your spells. Wisdom makes you perceptive and support
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Lessons
 
-Basic: [[srd/pf2e/compendium/character/lessons#Lesson of the Elements|elements]]; greater: [[srd/pf2e/compendium/character/lessons#Lesson of Snow|snow]]; major: [[srd/pf2e/compendium/character/lessons#Lesson of Death|death]]
+Basic: [[srd/pf2e/compendium/character/Lessons#Lesson of the Elements|elements]]; greater: [[srd/pf2e/compendium/character/Lessons#Lesson of Snow|snow]]; major: [[srd/pf2e/compendium/character/Lessons#Lesson of Death|death]]
 
 ### Patron
 
-[[srd/pf2e/compendium/character/patrons#Silence in Snow|Silence in Snow]]
+[[srd/pf2e/compendium/character/Patrons#Silence in Snow|Silence in Snow]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core/class/cackle|Cackle]] (1st), [[srd/pf2e/compendium/feats/player-core/class/basic-lesson|Basic Lesson]] (2nd), [[srd/pf2e/compendium/feats/player-core/class/greater-lesson|Greater Lesson]] (6th), [[srd/pf2e/compendium/feats/player-core/class/murksight|Murksight]] (8th), [[srd/pf2e/compendium/feats/player-core/class/major-lesson|Major Lesson]] (10th), [[srd/pf2e/compendium/feats/player-core/class/hex-focus|Hex Focus]] (12th)
+[[srd/pf2e/compendium/feats/player-core/class/Cackle|Cackle]] (1st), [[srd/pf2e/compendium/feats/player-core/class/Basic Lesson|Basic Lesson]] (2nd), [[srd/pf2e/compendium/feats/player-core/class/Greater Lesson|Greater Lesson]] (6th), [[srd/pf2e/compendium/feats/player-core/class/Murksight|Murksight]] (8th), [[srd/pf2e/compendium/feats/player-core/class/Major Lesson|Major Lesson]] (10th), [[srd/pf2e/compendium/feats/player-core/class/Hex Focus|Hex Focus]] (12th)
 
 *Source: Player Core p. 190*
 
@@ -834,15 +834,15 @@ Prioritize Strength and Constitution for maximum effectiveness in a fight. In ad
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/battlecry/class/long-distance-taunt|Long-distance Taunt]]
+[[srd/pf2e/compendium/feats/battlecry/class/Long-distance Taunt|Long-distance Taunt]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/battlecry/class/taunting-strike|Taunting Strike]] (2nd), [[srd/pf2e/compendium/feats/battlecry/class/stomp-ground|Stomp Ground]] (6th), [[srd/pf2e/compendium/feats/battlecry/class/juggernaut-charge|Juggernaut Charge]] (8th), [[srd/pf2e/compendium/feats/battlecry/class/tough-cookie|Tough Cookie]] (10th), [[srd/pf2e/compendium/feats/battlecry/class/scattering-charge|Scattering Charge]] (12th), [[srd/pf2e/compendium/feats/battlecry/class/bloody-denial|Bloody Denial]] (14th), [[srd/pf2e/compendium/feats/battlecry/class/clobber|Clobber]] (16th), [[srd/pf2e/compendium/feats/battlecry/class/demolish-defenses|Demolish Defenses]] (18th)
+[[srd/pf2e/compendium/feats/battlecry/class/Taunting Strike|Taunting Strike]] (2nd), [[srd/pf2e/compendium/feats/battlecry/class/Stomp Ground|Stomp Ground]] (6th), [[srd/pf2e/compendium/feats/battlecry/class/Juggernaut Charge|Juggernaut Charge]] (8th), [[srd/pf2e/compendium/feats/battlecry/class/Tough Cookie|Tough Cookie]] (10th), [[srd/pf2e/compendium/feats/battlecry/class/Scattering Charge|Scattering Charge]] (12th), [[srd/pf2e/compendium/feats/battlecry/class/Bloody Denial|Bloody Denial]] (14th), [[srd/pf2e/compendium/feats/battlecry/class/Clobber|Clobber]] (16th), [[srd/pf2e/compendium/feats/battlecry/class/Demolish Defenses|Demolish Defenses]] (18th)
 
 *Source: Battlecry! p. 48*
 
@@ -856,7 +856,7 @@ Prioritize Wisdom. Take Dexterity and Constitution for your defenses, and Charis
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Order
 
@@ -864,11 +864,11 @@ Leaf
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core/class/plant-empathy|Plant Empathy]]
+[[srd/pf2e/compendium/feats/player-core/class/Plant Empathy|Plant Empathy]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core/class/call-of-the-wild|Call of the Wild]] (2nd), [[srd/pf2e/compendium/feats/player-core/class/forest-passage|Forest Passage]] (4th), [[srd/pf2e/compendium/feats/player-core/class/plant-shape|Plant Shape]] (10th)
+[[srd/pf2e/compendium/feats/player-core/class/Call of the Wild|Call of the Wild]] (2nd), [[srd/pf2e/compendium/feats/player-core/class/Forest Passage|Forest Passage]] (4th), [[srd/pf2e/compendium/feats/player-core/class/Plant Shape|Plant Shape]] (10th)
 
 *Source: Player Core p. 134*
 
@@ -882,15 +882,15 @@ Focus on Charisma to boost your magic, and Wisdom and Intelligence to help under
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/lore|Lore]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Mystery
 
-[[srd/pf2e/compendium/character/mysteries#Life|Life]]
+[[srd/pf2e/compendium/character/Mysteries#Life|Life]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core-2/class/nudge-the-scales|Nudge the Scales]] (1st), [[srd/pf2e/compendium/feats/player-core/class/reach-spell|Reach Spell]] (1st), [[srd/pf2e/compendium/feats/player-core-2/class/knowledge-of-shapes|Knowledge of Shapes]] (4th), [[srd/pf2e/compendium/feats/player-core-2/class/gifted-power|Gifted Power]] (6th), [[srd/pf2e/compendium/feats/player-core-2/archetype/read-disaster|Read Disaster]] (8th), [[srd/pf2e/compendium/feats/player-core-2/class/waters-of-creation|Waters of Creation]] (10th)
+[[srd/pf2e/compendium/feats/player-core-2/class/Nudge the Scales|Nudge the Scales]] (1st), [[srd/pf2e/compendium/feats/player-core/class/Reach Spell|Reach Spell]] (1st), [[srd/pf2e/compendium/feats/player-core-2/class/Knowledge of Shapes|Knowledge of Shapes]] (4th), [[srd/pf2e/compendium/feats/player-core-2/class/Gifted Power|Gifted Power]] (6th), [[srd/pf2e/compendium/feats/player-core-2/archetype/Read Disaster|Read Disaster]] (8th), [[srd/pf2e/compendium/feats/player-core-2/class/Waters of Creation|Waters of Creation]] (10th)
 
 *Source: Player Core 2 p. 140*
 
@@ -904,15 +904,15 @@ Raise Charisma as well as other mental abilities, plus Constitution for survivab
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+[[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/class/diverse-lore|Diverse Lore]]
+[[srd/pf2e/compendium/feats/dark-archives-remastered/class/Diverse Lore|Diverse Lore]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/class/esoteric-warden|Esoteric Warden]] (2nd), [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/instructive-strike|Instructive Strike]] (4th), [[srd/pf2e/compendium/feats/player-core/archetype/know-it-all|Know-It-All]] (8th), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/shared-warding|Shared Warding]] (12th)
+[[srd/pf2e/compendium/feats/dark-archives-remastered/class/Esoteric Warden|Esoteric Warden]] (2nd), [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Instructive Strike|Instructive Strike]] (4th), [[srd/pf2e/compendium/feats/player-core/archetype/Know-It-All|Know-It-All]] (8th), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Shared Warding|Shared Warding]] (12th)
 
 *Source: Dark Archives (Remastered) p. 46*
 
@@ -926,19 +926,19 @@ Focus on Wisdom to boost your magic, followed by Strength and Constitution for s
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Preferred Primary Apparition
 
-[[srd/pf2e/compendium/character/apparitions#Steward of Stone and Fire|Steward of Stone and Fire]]
+[[srd/pf2e/compendium/character/Apparitions#Steward of Stone and Fire|Steward of Stone and Fire]]
 
 ### Animist Practice
 
-Medium
+[[srd/pf2e/compendium/character/Practices#Medium|Medium]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/war-of-immortals/class/spiritual-expansion-spell|Spiritual Expansion Spell]] (2nd), [[srd/pf2e/compendium/feats/war-of-immortals/class/apparitions-enhancement|Apparition's Enhancement]] (4th), [[srd/pf2e/compendium/feats/war-of-immortals/class/blazing-spirit|Blazing Spirit]] (6th), [[srd/pf2e/compendium/feats/war-of-immortals/class/instinctive-maneuvers|Instinctive Maneuvers]] (8th), [[srd/pf2e/compendium/feats/war-of-immortals/class/apparitions-quickening|Apparition's Quickening]] (10th)
+[[srd/pf2e/compendium/feats/war-of-immortals/class/Spiritual Expansion Spell|Spiritual Expansion Spell]] (2nd), [[srd/pf2e/compendium/feats/war-of-immortals/class/Apparition's Enhancement|Apparition's Enhancement]] (4th), [[srd/pf2e/compendium/feats/war-of-immortals/class/Blazing Spirit|Blazing Spirit]] (6th), [[srd/pf2e/compendium/feats/war-of-immortals/class/Instinctive Maneuvers|Instinctive Maneuvers]] (8th), [[srd/pf2e/compendium/feats/war-of-immortals/class/Apparition's Quickening|Apparition's Quickening]] (10th)
 
 *Source: War of Immortals p. 24*
 
@@ -952,11 +952,11 @@ Prioritize Intelligence. Increase Dexterity and Charisma so you can sneak and de
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
 ### Arcane School
 
-[[srd/pf2e/compendium/character/arcane-schools#School of Mentalism|School of Mentalism]]
+[[srd/pf2e/compendium/character/Arcane Schools#School of Mentalism|School of Mentalism]]
 
 ### Thesis
 
@@ -964,7 +964,7 @@ Spell blending
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core/class/conceal-spell|Conceal Spell]] (2nd), [[srd/pf2e/compendium/feats/player-core/class/convincing-illusion|Convincing Illusion]] (6th), [[srd/pf2e/compendium/feats/player-core/archetype/advanced-school-spell|Advanced School Spell]] (8th), [[srd/pf2e/compendium/feats/player-core/archetype/magic-sense|Magic Sense]] (12th)
+[[srd/pf2e/compendium/feats/player-core/class/Conceal Spell|Conceal Spell]] (2nd), [[srd/pf2e/compendium/feats/player-core/class/Convincing Illusion|Convincing Illusion]] (6th), [[srd/pf2e/compendium/feats/player-core/archetype/Advanced School Spell|Advanced School Spell]] (8th), [[srd/pf2e/compendium/feats/player-core/archetype/Magic Sense|Magic Sense]] (12th)
 
 *Source: Player Core p. 202*
 
@@ -978,19 +978,19 @@ Prioritize Intelligence and Strength. Constitution helps you survive transformat
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Research Field
 
-[[srd/pf2e/compendium/character/research-fields#Mutagenist|Mutagenist]]
+[[srd/pf2e/compendium/character/Research Fields#Mutagenist|Mutagenist]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core-2/class/alchemical-familiar|Alchemical Familiar]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Alchemical Familiar|Alchemical Familiar]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core-2/class/revivifying-mutagen|Revivifying Mutagen]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/class/regurgitate-mutagen|Regurgitate Mutagen]] (4th), [[srd/pf2e/compendium/feats/player-core-2/class/mutant-physique|Mutant Physique]] (8th), [[srd/pf2e/compendium/feats/player-core-2/class/mutant-innervation|Mutant Innervation]] (14th), [[srd/pf2e/compendium/feats/player-core-2/class/persistent-mutagen|Persistent Mutagen]] (16th), [[srd/pf2e/compendium/feats/player-core-2/class/alchemical-revivification|Alchemical Revivification]] (20th)
+[[srd/pf2e/compendium/feats/player-core-2/class/Revivifying Mutagen|Revivifying Mutagen]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/class/Regurgitate Mutagen|Regurgitate Mutagen]] (4th), [[srd/pf2e/compendium/feats/player-core-2/class/Mutant Physique|Mutant Physique]] (8th), [[srd/pf2e/compendium/feats/player-core-2/class/Mutant Innervation|Mutant Innervation]] (14th), [[srd/pf2e/compendium/feats/player-core-2/class/Persistent Mutagen|Persistent Mutagen]] (16th), [[srd/pf2e/compendium/feats/player-core-2/class/Alchemical Revivification|Alchemical Revivification]] (20th)
 
 *Source: Player Core 2 p. 68*
 
@@ -1004,7 +1004,7 @@ Charisma, Dexterity, Constitution
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Subconscious
 
@@ -1016,7 +1016,7 @@ The Unbound Step
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/class/warp-space|Warp Space]] (2nd), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/homing-beacon|Homing Beacon]] (4th), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/whispering-steps|Whispering Steps]] (8th)
+[[srd/pf2e/compendium/feats/dark-archives-remastered/class/Warp Space|Warp Space]] (2nd), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Homing Beacon|Homing Beacon]] (4th), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Whispering Steps|Whispering Steps]] (8th)
 
 *Source: Dark Archives (Remastered) p. 28*
 
@@ -1030,19 +1030,19 @@ Prioritize Intelligence for your tactics and class DCs and Dexterity to improve 
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]], [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]], [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
 ### Starting Tactics
 
-[[srd/pf2e/compendium/character/tactics#Double Team|Double Team]], [[srd/pf2e/compendium/character/tactics#Gather to Me!|Gather to Me!]], [[srd/pf2e/compendium/character/tactics#Passage of Lines|Passage of Lines]], [[srd/pf2e/compendium/character/tactics#Pincer Attack|Pincer Attack]], [[srd/pf2e/compendium/character/tactics#Tactical Takedown|Tactical Takedown]]
+[[srd/pf2e/compendium/character/Tactics#Double Team|Double Team]], [[srd/pf2e/compendium/character/Tactics#Gather to Me!|Gather to Me!]], [[srd/pf2e/compendium/character/Tactics#Passage of Lines|Passage of Lines]], [[srd/pf2e/compendium/character/Tactics#Pincer Attack|Pincer Attack]], [[srd/pf2e/compendium/character/Tactics#Tactical Takedown|Tactical Takedown]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core/archetype/combat-assessment|Combat Assessment]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Combat Assessment|Combat Assessment]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/battlecry/class/set-up-strike|Set-up Strike]] (2nd), [[srd/pf2e/compendium/feats/battlecry/class/observational-analysis|Observational Analysis]] (4th), [[srd/pf2e/compendium/feats/battlecry/class/efficient-preparation|Efficient Preparation]] (6th), [[srd/pf2e/compendium/feats/battlecry/class/officers-education|Officer's Education]] (8th), [[srd/pf2e/compendium/feats/battlecry/class/targeting-strike|Targeting Strike]] (10th)
+[[srd/pf2e/compendium/feats/battlecry/class/Set-up Strike|Set-up Strike]] (2nd), [[srd/pf2e/compendium/feats/battlecry/class/Observational Analysis|Observational Analysis]] (4th), [[srd/pf2e/compendium/feats/battlecry/class/Efficient Preparation|Efficient Preparation]] (6th), [[srd/pf2e/compendium/feats/battlecry/class/Officer's Education|Officer's Education]] (8th), [[srd/pf2e/compendium/feats/battlecry/class/Targeting Strike|Targeting Strike]] (10th)
 
 *Source: Battlecry! p. 32*
 
@@ -1056,19 +1056,19 @@ Prioritize Wisdom. Charisma helps you spread the word of your faith.
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+[[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
 ### Deity
 
-[[srd/pf2e/compendium/character/doctrines#Cloistered Cleric|cloistered cleric]] ([[srd/pf2e/compendium/character/domains#Death|death]] domain)
+[[srd/pf2e/compendium/character/Doctrines#Cloistered Cleric|cloistered cleric]] ([[srd/pf2e/compendium/character/Domains#Death|death]] domain)
 
 ### Doctrine
 
-[[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]] (divine font: [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]])
+[[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Pharasma|Pharasma]] (divine font: [[srd/pf2e/compendium/spells/rank-1/Heal|_heal_]])
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core/class/panic-the-dead|Panic the Dead]] (2nd), [[srd/pf2e/compendium/feats/player-core/class/selective-energy|Selective Energy]] (6th)
+[[srd/pf2e/compendium/feats/player-core/class/Panic the Dead|Panic the Dead]] (2nd), [[srd/pf2e/compendium/feats/player-core/class/Selective Energy|Selective Energy]] (6th)
 
 *Source: Player Core p. 120*
 
@@ -1082,7 +1082,7 @@ Charisma, Wisdom, Constitution
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+[[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
 ### Subconscious
 
@@ -1094,7 +1094,7 @@ The Distant Grasp
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/class/psi-burst|Psi Burst]] (2nd), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/violent-unleash|Violent Unleash]] (4th), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/strain-mind|Strain Mind]] (6th)
+[[srd/pf2e/compendium/feats/dark-archives-remastered/class/Psi Burst|Psi Burst]] (2nd), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Violent Unleash|Violent Unleash]] (4th), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Strain Mind|Strain Mind]] (6th)
 
 *Source: Dark Archives (Remastered) p. 26*
 
@@ -1108,11 +1108,11 @@ Prioritize Dexterity, followed by Charisma and Constitution.
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
 ### Way
 
-[[srd/pf2e/compendium/character/ways#Way of the Pistolero|Pistolero]]
+[[srd/pf2e/compendium/character/Ways#Way of the Pistolero|Pistolero]]
 
 ### Starting Feat
 
@@ -1120,7 +1120,7 @@ Dual-Weapon Reload
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/pistol-twirl|Pistol Twirl]] (2nd), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/paired-shots|Paired Shots]] (4th)
+[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Pistol Twirl|Pistol Twirl]] (2nd), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Paired Shots|Paired Shots]] (4th)
 
 *Source: Guns & Gears (Remastered) p. 116*
 
@@ -1134,15 +1134,15 @@ Raise Charisma, Constitution, and enough Strength and Dexterity for your armor.
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
+[[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/class/root-to-life|Root to Life]]
+[[srd/pf2e/compendium/feats/dark-archives-remastered/class/Root to Life|Root to Life]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/class/turn-away-misfortune|Turn Away Misfortune]] (2nd), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/paired-link|Paired Link]] (4th), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/seven-part-link|Seven-Part Link]] (16th)
+[[srd/pf2e/compendium/feats/dark-archives-remastered/class/Turn Away Misfortune|Turn Away Misfortune]] (2nd), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Paired Link|Paired Link]] (4th), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Seven-Part Link|Seven-Part Link]] (16th)
 
 *Source: Dark Archives (Remastered) p. 44*
 
@@ -1156,21 +1156,21 @@ Prioritize Strength. Wisdom empowers your qi spells, Perception, and Will saves.
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/qi-spells|Qi Spells (_inner upheaval_, occult)]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Qi Spells|Qi Spells (_inner upheaval_, occult)]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core-2/class/elemental-fist|Elemental Fist]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/class/harmonize-self|Harmonize Self]] (4th), [[srd/pf2e/compendium/feats/player-core-2/class/advanced-qi-spells|Advanced Qi Spells (_qi blast_)]] (6th), [[srd/pf2e/compendium/feats/player-core-2/class/meditative-focus|Meditative Focus]] (12th), [[srd/pf2e/compendium/feats/player-core-2/class/master-qi-spells|Master Qi Spells (_touch of death_)]] (16th), [[srd/pf2e/compendium/feats/player-core-2/class/grandmaster-qi-spells|Grandmaster Qi Spells (_embrace nothingness_)]] (18th)
+[[srd/pf2e/compendium/feats/player-core-2/class/Elemental Fist|Elemental Fist]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/class/Harmonize Self|Harmonize Self]] (4th), [[srd/pf2e/compendium/feats/player-core-2/class/Advanced Qi Spells|Advanced Qi Spells (_qi blast_)]] (6th), [[srd/pf2e/compendium/feats/player-core-2/class/Meditative Focus|Meditative Focus]] (12th), [[srd/pf2e/compendium/feats/player-core-2/class/Master Qi Spells|Master Qi Spells (_touch of death_)]] (16th), [[srd/pf2e/compendium/feats/player-core-2/class/Grandmaster Qi Spells|Grandmaster Qi Spells (_embrace nothingness_)]] (18th)
 
 *Source: Player Core 2 p. 122*
 
 ## Redeemer
 
-_Your truth and compassion glow strong as the sun, bringing the wicked into the light of your goddess, the [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Dawnflower]]._
+_Your truth and compassion glow strong as the sun, bringing the wicked into the light of your goddess, the [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Sarenrae|Dawnflower]]._
 
 ### Attributes
 
@@ -1178,19 +1178,19 @@ Take a high Strength for your combat abilities, and a good Charisma for your dev
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
 ### Deity, Sanctification, and Cause
 
-[[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]], and [[srd/pf2e/compendium/character/causes#Redemption|redemption]]
+[[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Sarenrae|Sarenrae]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]], and [[srd/pf2e/compendium/character/Causes#Redemption|redemption]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core-2/class/deitys-domain|Deity's Domain (truth)]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Deity's Domain|Deity's Domain (truth)]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core-2/class/divine-grace|Divine Grace]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/archetype/mercy|Mercy]] (4th), [[srd/pf2e/compendium/feats/player-core-2/archetype/greater-mercy|Greater Mercy]] (8th), [[srd/pf2e/compendium/feats/player-core-2/archetype/ultimate-mercy|Ultimate Mercy]] (18th)
+[[srd/pf2e/compendium/feats/player-core-2/class/Divine Grace|Divine Grace]] (2nd), [[srd/pf2e/compendium/feats/player-core-2/archetype/Mercy|Mercy]] (4th), [[srd/pf2e/compendium/feats/player-core-2/archetype/Greater Mercy|Greater Mercy]] (8th), [[srd/pf2e/compendium/feats/player-core-2/archetype/Ultimate Mercy|Ultimate Mercy]] (18th)
 
 *Source: Player Core 2 p. 96*
 
@@ -1204,19 +1204,19 @@ Prioritize Dexterity, plus Strength to deal extra damage. Charisma helps you int
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]], [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]], [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
 ### Rogue's Racket
 
-[[srd/pf2e/compendium/character/rackets#Ruffian|Ruffian]]
+[[srd/pf2e/compendium/character/Rackets#Ruffian|Ruffian]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core/archetype/youre-next|You're Next]]
+[[srd/pf2e/compendium/feats/player-core/archetype/You're Next|You're Next]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core/class/brutal-beating|Brutal Beating]] (2nd), [[srd/pf2e/compendium/feats/player-core/class/head-stomp|Head Stomp]] (4th), [[srd/pf2e/compendium/feats/player-core/class/vicious-debilitations|Vicious Debilitations]] (10th), [[srd/pf2e/compendium/feats/player-core/class/stay-down|Stay Down!]] (14th), [[srd/pf2e/compendium/feats/player-core/class/powerful-sneak|Powerful Sneak]] (18th)
+[[srd/pf2e/compendium/feats/player-core/class/Brutal Beating|Brutal Beating]] (2nd), [[srd/pf2e/compendium/feats/player-core/class/Head Stomp|Head Stomp]] (4th), [[srd/pf2e/compendium/feats/player-core/class/Vicious Debilitations|Vicious Debilitations]] (10th), [[srd/pf2e/compendium/feats/player-core/class/Stay Down!|Stay Down!]] (14th), [[srd/pf2e/compendium/feats/player-core/class/Powerful Sneak|Powerful Sneak]] (18th)
 
 *Source: Player Core p. 174*
 
@@ -1230,15 +1230,15 @@ Intelligence should be your highest modifier, followed by Dexterity for accuracy
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/remote-detonation|Remote Detonation]]
+[[srd/pf2e/compendium/feats/impossible-magic/class/Remote Detonation|Remote Detonation]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/pattern-flight|Pattern Flight]] (2nd), [[srd/pf2e/compendium/feats/impossible-magic/class/tracing-trance|Tracing Trance]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/unerring-runic-attraction|Unerring Runic Attraction]] (14th), [[srd/pf2e/compendium/feats/impossible-magic/class/unbounded-invocations|Unbounded Invocations]] (18th)
+[[srd/pf2e/compendium/feats/impossible-magic/class/Pattern Flight|Pattern Flight]] (2nd), [[srd/pf2e/compendium/feats/impossible-magic/class/Tracing Trance|Tracing Trance]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/Unerring Runic Attraction|Unerring Runic Attraction]] (14th), [[srd/pf2e/compendium/feats/impossible-magic/class/Unbounded Invocations|Unbounded Invocations]] (18th)
 
 *Source: Impossible Magic p. 58*
 
@@ -1252,15 +1252,15 @@ Intelligence makes your runes more difficult to resist. Increase Dexterity and S
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/engraving-strike|Engraving Strike]]
+[[srd/pf2e/compendium/feats/impossible-magic/class/Engraving Strike|Engraving Strike]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/artists-attendance|Artist's Attendance]] (4th), [[srd/pf2e/compendium/feats/impossible-magic/class/engraving-maneuver|Engraving Maneuver]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/drawn-in-vital-ink|Drawn in Vital Ink]] (8th), [[srd/pf2e/compendium/feats/impossible-magic/class/dance-of-bloody-ink|Dance of Bloody Ink]] (14th)
+[[srd/pf2e/compendium/feats/impossible-magic/class/Artist's Attendance|Artist's Attendance]] (4th), [[srd/pf2e/compendium/feats/impossible-magic/class/Engraving Maneuver|Engraving Maneuver]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/Drawn in Vital Ink|Drawn in Vital Ink]] (8th), [[srd/pf2e/compendium/feats/impossible-magic/class/Dance of Bloody Ink|Dance of Bloody Ink]] (14th)
 
 *Source: Impossible Magic p. 54*
 
@@ -1274,19 +1274,19 @@ Prioritize Wisdom for your spellcasting and Dexterity to improve your defenses a
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+[[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
 ### Preferred Primary Apparition
 
-[[srd/pf2e/compendium/character/apparitions#Impostor in Hidden Places|Impostor in Hidden Places]]
+[[srd/pf2e/compendium/character/Apparitions#Impostor in Hidden Places|Impostor in Hidden Places]]
 
 ### Animist Practice
 
-Seer
+[[srd/pf2e/compendium/character/Practices#Seer|Seer]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core/class/conceal-spell|Conceal Spell]] (2nd), [[srd/pf2e/compendium/feats/war-of-immortals/class/mediums-awareness|Medium's Awareness]] (6th), [[srd/pf2e/compendium/feats/war-of-immortals/class/spirit-walk|Spirit Walk]] (8th), [[srd/pf2e/compendium/feats/war-of-immortals/class/shadows-within-shadows|Shadows Within Shadows]] (12th), [[srd/pf2e/compendium/feats/war-of-immortals/class/spirits-sacrifice|Spirit's Sacrifice]] (18th)
+[[srd/pf2e/compendium/feats/player-core/class/Conceal Spell|Conceal Spell]] (2nd), [[srd/pf2e/compendium/feats/war-of-immortals/class/Medium's Awareness|Medium's Awareness]] (6th), [[srd/pf2e/compendium/feats/war-of-immortals/class/Spirit Walk|Spirit Walk]] (8th), [[srd/pf2e/compendium/feats/war-of-immortals/class/Shadows Within Shadows|Shadows Within Shadows]] (12th), [[srd/pf2e/compendium/feats/war-of-immortals/class/Spirit's Sacrifice|Spirit's Sacrifice]] (18th)
 
 *Source: War of Immortals p. 20*
 
@@ -1300,15 +1300,15 @@ Strength will help you hit harder when you attack, and Constitution will allow y
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/player-core/archetype/reactive-shield|Reactive Shield]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Reactive Shield|Reactive Shield]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/battlecry/class/shielding-taunt|Shielding Taunt]] (2nd), [[srd/pf2e/compendium/feats/battlecry/class/shielded-attrition|Shielded Attrition]] (4th), [[srd/pf2e/compendium/feats/player-core/archetype/reflexive-shield|Reflexive Shield]] (6th), [[srd/pf2e/compendium/feats/battlecry/class/shield-from-arrows|Shield from Arrows]] (8th), [[srd/pf2e/compendium/feats/player-core-2/archetype/shield-salvation|Shield Salvation]] (10th), [[srd/pf2e/compendium/feats/player-core/archetype/improved-reflexive-shield|Improved Reflexive Shield]] (16th), [[srd/pf2e/compendium/feats/battlecry/class/shield-from-spells|Shield from Spells]] (18th)
+[[srd/pf2e/compendium/feats/battlecry/class/Shielding Taunt|Shielding Taunt]] (2nd), [[srd/pf2e/compendium/feats/battlecry/class/Shielded Attrition|Shielded Attrition]] (4th), [[srd/pf2e/compendium/feats/player-core/archetype/Reflexive Shield|Reflexive Shield]] (6th), [[srd/pf2e/compendium/feats/battlecry/class/Shield from Arrows|Shield from Arrows]] (8th), [[srd/pf2e/compendium/feats/player-core-2/archetype/Shield Salvation|Shield Salvation]] (10th), [[srd/pf2e/compendium/feats/player-core/archetype/Improved Reflexive Shield|Improved Reflexive Shield]] (16th), [[srd/pf2e/compendium/feats/battlecry/class/Shield from Spells|Shield from Spells]] (18th)
 
 *Source: Battlecry! p. 46*
 
@@ -1322,7 +1322,7 @@ Prioritize Strength for your melee attacks. A touch of Charisma will help you na
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
 ### Epithets
 
@@ -1330,13 +1330,13 @@ The Mournful, Peerless Under Heaven, The Last Ruler
 
 ### Ikons and Feats
 
-**Ancient Reaper**: [[srd/pf2e/compendium/feats/war-of-immortals/class/motionless-cutter|Motionless Cutter]] (6th)
+**Ancient Reaper**: [[srd/pf2e/compendium/feats/war-of-immortals/class/Motionless Cutter|Motionless Cutter]] (6th)
  **Barrow's Edge**
  **Victor's Wreath**
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/war-of-immortals/class/energized-spark|Energized Spark (Cold)]] (1st), [[srd/pf2e/compendium/feats/player-core/archetype/lightning-swap|Lightning Swap]] (2nd), [[srd/pf2e/compendium/feats/war-of-immortals/class/only-the-worthy|Only the Worthy]] (4th), [[srd/pf2e/compendium/feats/war-of-immortals/class/battle-hymn-to-the-lost|Battle Hymn to the Lost]] (8th), [[srd/pf2e/compendium/feats/war-of-immortals/class/fish-from-the-falls-edge|Fish from the Falls' Edge]] (10th)
+[[srd/pf2e/compendium/feats/war-of-immortals/class/Energized Spark|Energized Spark (Cold)]] (1st), [[srd/pf2e/compendium/feats/player-core/archetype/Lightning Swap|Lightning Swap]] (2nd), [[srd/pf2e/compendium/feats/war-of-immortals/class/Only the Worthy|Only the Worthy]] (4th), [[srd/pf2e/compendium/feats/war-of-immortals/class/Battle Hymn to the Lost|Battle Hymn to the Lost]] (8th), [[srd/pf2e/compendium/feats/war-of-immortals/class/Fish from the Falls' Edge|Fish from the Falls' Edge]] (10th)
 
 *Source: War of Immortals p. 38*
 
@@ -1351,19 +1351,19 @@ Prioritize Dexterity. Wisdom can improve your Perception and make your stubborn 
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Way
 
-[[srd/pf2e/compendium/character/ways#Way of the Sniper|Sniper]]
+[[srd/pf2e/compendium/character/Ways#Way of the Sniper|Sniper]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/cover-fire|Cover Fire]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Cover Fire|Cover Fire]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/risky-reload|Risky Reload]] (2nd), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/alchemical-shot|Alchemical Shot]] (4th)
+[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Risky Reload|Risky Reload]] (2nd), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Alchemical Shot|Alchemical Shot]] (4th)
 
 *Source: Guns & Gears (Remastered) p. 118*
 
@@ -1377,15 +1377,15 @@ Dexterity is your most important attribute modifier, followed by Intelligence. A
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
 ### Hybrid Study
 
-Starlit span
+[[srd/pf2e/compendium/character/Hybrid Studies#Starlit Span|Starlit span]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/expansive-spellstrike|Expansive Spellstrike]] (2nd), [[srd/pf2e/compendium/feats/impossible-magic/class/starlit-eyes|Starlit Eyes]] (4th), [[srd/pf2e/compendium/feats/impossible-magic/class/runic-impression|Runic Impression]] (8th)
+[[srd/pf2e/compendium/feats/impossible-magic/class/Expansive Spellstrike|Expansive Spellstrike]] (2nd), [[srd/pf2e/compendium/feats/impossible-magic/class/Starlit Eyes|Starlit Eyes]] (4th), [[srd/pf2e/compendium/feats/impossible-magic/class/Runic Impression|Runic Impression]] (8th)
 
 *Source: Impossible Magic p. 20*
 
@@ -1399,15 +1399,15 @@ Make Dexterity your highest attribute modifier, followed by Intelligence and Wis
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Hybrid Study
 
-Volatile Spark
+[[srd/pf2e/compendium/character/Hybrid Studies#Volatile Spark|Volatile Spark]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/expansive-spellstrike|Expansive Spellstrike]] (2nd), [[srd/pf2e/compendium/feats/impossible-magic/class/exploding-bullet|Exploding Bullet]] (4th), [[srd/pf2e/compendium/feats/impossible-magic/class/runic-impression|Runic Impression]] (8th), [[srd/pf2e/compendium/feats/impossible-magic/class/killshots-report|Killshot's Report]] (10th)
+[[srd/pf2e/compendium/feats/impossible-magic/class/Expansive Spellstrike|Expansive Spellstrike]] (2nd), [[srd/pf2e/compendium/feats/impossible-magic/class/Exploding Bullet|Exploding Bullet]] (4th), [[srd/pf2e/compendium/feats/impossible-magic/class/Runic Impression|Runic Impression]] (8th), [[srd/pf2e/compendium/feats/impossible-magic/class/Killshot's Report|Killshot's Report]] (10th)
 
 *Source: Impossible Magic p. 24*
 
@@ -1421,19 +1421,19 @@ Prioritize Dexterity first, followed by Intelligence.
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
 ### Way
 
-[[srd/pf2e/compendium/character/ways#Way of the Spellshot|Spellshot]]
+[[srd/pf2e/compendium/character/Ways#Way of the Spellshot|Spellshot]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/class/munitions-crafter|Munitions Crafter]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/class/Munitions Crafter|Munitions Crafter]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/spellshot-dedication|Spellshot Dedication]] (2nd), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/alchemical-shot|Alchemical Shot]] (4th), [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/fulminating-shot|Fulminating Shot]] (6th)
+[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Spellshot Dedication|Spellshot Dedication]] (2nd), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Alchemical Shot|Alchemical Shot]] (4th), [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Fulminating Shot|Fulminating Shot]] (6th)
 
 *Source: Guns & Gears (Remastered) p. 141*
 
@@ -1447,19 +1447,19 @@ Prioritize Intelligence. Take Strength and Constitution to increase your front-l
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]
 
 ### Fatal Method
 
-Reaper
+[[srd/pf2e/compendium/character/Fatal Methods#Reaper|Reaper]]
 
 ### Grim Fascination
 
-Spirit
+[[srd/pf2e/compendium/character/Grim Fascinations#Spirit|Spirit]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/draining-strike|Draining Strike]] (2nd), [[srd/pf2e/compendium/feats/impossible-magic/class/bind-heroic-spirit|Bind Heroic Spirit]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/become-as-spirit|Become as Spirit]] (12th), [[srd/pf2e/compendium/feats/impossible-magic/class/anatomical-quartering|Anatomical Quartering]] (16th)
+[[srd/pf2e/compendium/feats/impossible-magic/class/Draining Strike|Draining Strike]] (2nd), [[srd/pf2e/compendium/feats/impossible-magic/class/Bind Heroic Spirit|Bind Heroic Spirit]] (6th), [[srd/pf2e/compendium/feats/impossible-magic/class/Become as Spirit|Become as Spirit]] (12th), [[srd/pf2e/compendium/feats/impossible-magic/class/Anatomical Quartering|Anatomical Quartering]] (16th)
 
 *Source: Impossible Magic p. 36*
 
@@ -1473,19 +1473,19 @@ Prioritize Intelligence for your tactics and class DCs, Strength to improve your
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Starting Tactics
 
-[[srd/pf2e/compendium/character/tactics#Coordinating Maneuvers|Coordinating Maneuvers]] , [[srd/pf2e/compendium/character/tactics#Defensive Retreat|Defensive Retreat]], [[srd/pf2e/compendium/character/tactics#Mountaineering Training|Mountaineering Training]], [[srd/pf2e/compendium/character/tactics#End it!|End It!]], [[srd/pf2e/compendium/character/tactics#Strike Hard!|Strike Hard!]]
+[[srd/pf2e/compendium/character/Tactics#Coordinating Maneuvers|Coordinating Maneuvers]] , [[srd/pf2e/compendium/character/Tactics#Defensive Retreat|Defensive Retreat]], [[srd/pf2e/compendium/character/Tactics#Mountaineering Training|Mountaineering Training]], [[srd/pf2e/compendium/character/Tactics#End it!|End It!]], [[srd/pf2e/compendium/character/Tactics#Strike Hard!|Strike Hard!]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/battlecry/class/armor-regiment-training|Armor Regiment Training]]
+[[srd/pf2e/compendium/feats/battlecry/class/Armor Regiment Training|Armor Regiment Training]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/battlecry/class/rapid-assessment|Rapid Assessment]] (2nd), [[srd/pf2e/compendium/feats/battlecry/class/banner-twirl|Banner Twirl]] (4th), [[srd/pf2e/compendium/feats/player-core-2/archetype/reactive-strike|Reactive Strike]] (6th), [[srd/pf2e/compendium/feats/battlecry/class/defiant-banner|Defiant Banner]] (8th), [[srd/pf2e/compendium/feats/battlecry/class/standard-bearers-sacrifice|Standard-Bearer's Sacrifice]] (10th)
+[[srd/pf2e/compendium/feats/battlecry/class/Rapid Assessment|Rapid Assessment]] (2nd), [[srd/pf2e/compendium/feats/battlecry/class/Banner Twirl|Banner Twirl]] (4th), [[srd/pf2e/compendium/feats/player-core-2/archetype/Reactive Strike|Reactive Strike]] (6th), [[srd/pf2e/compendium/feats/battlecry/class/Defiant Banner|Defiant Banner]] (8th), [[srd/pf2e/compendium/feats/battlecry/class/Standard-Bearer's Sacrifice|Standard-Bearer's Sacrifice]] (10th)
 
 *Source: Battlecry! p. 34*
 
@@ -1499,7 +1499,7 @@ Prioritize Wisdom. You typically stay at range, so take a high Dexterity. You ca
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 ### Order
 
@@ -1507,7 +1507,7 @@ storm
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core/class/widen-spell|Widen Spell]] (1st), [[srd/pf2e/compendium/feats/player-core/class/storm-retribution|Storm Retribution]] (6th), [[srd/pf2e/compendium/feats/player-core/class/wind-caller|Wind Caller]] (8th), [[srd/pf2e/compendium/feats/player-core/class/primal-focus|Primal Focus]] (12th), [[srd/pf2e/compendium/feats/player-core/class/invoke-disaster|Invoke Disaster]] (18th)
+[[srd/pf2e/compendium/feats/player-core/class/Widen Spell|Widen Spell]] (1st), [[srd/pf2e/compendium/feats/player-core/class/Storm Retribution|Storm Retribution]] (6th), [[srd/pf2e/compendium/feats/player-core/class/Wind Caller|Wind Caller]] (8th), [[srd/pf2e/compendium/feats/player-core/class/Primal Focus|Primal Focus]] (12th), [[srd/pf2e/compendium/feats/player-core/class/Invoke Disaster|Invoke Disaster]] (18th)
 
 *Source: Player Core p. 132*
 
@@ -1521,11 +1521,11 @@ Prioritize Intelligence. Dexterity, Constitution, and Wisdom round out your defe
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
 ### Arcane School
 
-[[srd/pf2e/compendium/character/arcane-schools#School of the Boundary|School of the Boundary]]
+[[srd/pf2e/compendium/character/Arcane Schools#School of the Boundary|School of the Boundary]]
 
 ### Thesis
 
@@ -1533,7 +1533,7 @@ Improved familiar attunement
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core/archetype/enhanced-familiar|Enhanced Familiar]] (2nd), [[srd/pf2e/compendium/feats/player-core/archetype/advanced-school-spell|Advanced School Spell]] (8th), [[srd/pf2e/compendium/feats/player-core/class/effortless-concentration|Effortless Concentration]] (16th)
+[[srd/pf2e/compendium/feats/player-core/archetype/Enhanced Familiar|Enhanced Familiar]] (2nd), [[srd/pf2e/compendium/feats/player-core/archetype/Advanced School Spell|Advanced School Spell]] (8th), [[srd/pf2e/compendium/feats/player-core/class/Effortless Concentration|Effortless Concentration]] (16th)
 
 *Source: Player Core p. 200*
 
@@ -1547,7 +1547,7 @@ Intelligence, Wisdom, and Charisma
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
 ### Subconscious
 
@@ -1559,7 +1559,7 @@ The Silent Whisper
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/class/mental-balm|Mental Balm]] (2nd), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/astral-tether|Astral Tether]] (4th), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/thoughtsense|Thoughtsense]] (8th)
+[[srd/pf2e/compendium/feats/dark-archives-remastered/class/Mental Balm|Mental Balm]] (2nd), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Astral Tether|Astral Tether]] (4th), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Thoughtsense|Thoughtsense]] (8th)
 
 *Source: Dark Archives (Remastered) p. 22*
 
@@ -1573,15 +1573,15 @@ Raise Charisma, Constitution, and Dexterity or Strength, depending on your weapo
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+[[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/class/divine-disharmony|Divine Disharmony]]
+[[srd/pf2e/compendium/feats/dark-archives-remastered/class/Divine Disharmony|Divine Disharmony]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/class/talisman-esoterica|Talisman Esoterica]] (2nd), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/elaborate-talisman-esoterica|Elaborate Talisman Esoterica]] (8th), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/grand-talisman-esoterica|Grand Talisman Esoterica]] (14th), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/sever-magic|Sever Magic]] (16th)
+[[srd/pf2e/compendium/feats/dark-archives-remastered/class/Talisman Esoterica|Talisman Esoterica]] (2nd), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Elaborate Talisman Esoterica|Elaborate Talisman Esoterica]] (8th), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Grand Talisman Esoterica|Grand Talisman Esoterica]] (14th), [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Sever Magic|Sever Magic]] (16th)
 
 *Source: Dark Archives (Remastered) p. 40*
 
@@ -1595,7 +1595,7 @@ Prioritize Wisdom and Strength so you can cast spells and enter melee combat. Yo
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
 ### Order
 
@@ -1603,7 +1603,7 @@ untamed
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/player-core/class/form-control|Form Control]] (4th), [[srd/pf2e/compendium/feats/player-core/class/insect-shape|Insect Shape]] (6th), [[srd/pf2e/compendium/feats/player-core/class/soaring-shape|Soaring Shape]] (8th), [[srd/pf2e/compendium/feats/player-core/class/plant-shape|Plant Shape]] (10th), [[srd/pf2e/compendium/feats/player-core/class/monstrosity-shape|Monstrosity Shape]] (16th)
+[[srd/pf2e/compendium/feats/player-core/class/Form Control|Form Control]] (4th), [[srd/pf2e/compendium/feats/player-core/class/Insect Shape|Insect Shape]] (6th), [[srd/pf2e/compendium/feats/player-core/class/Soaring Shape|Soaring Shape]] (8th), [[srd/pf2e/compendium/feats/player-core/class/Plant Shape|Plant Shape]] (10th), [[srd/pf2e/compendium/feats/player-core/class/Monstrosity Shape|Monstrosity Shape]] (16th)
 
 *Source: Player Core p. 130*
 
@@ -1617,18 +1617,18 @@ Prioritize Intelligence for your inventor abilities and Dexterity to hit with yo
 
 ### Skills
 
-[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]], [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]], [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
 ### Innovation
 
-[[srd/pf2e/compendium/character/innovations#Weapon|Weapon]]
+[[srd/pf2e/compendium/character/Innovations#Weapon|Weapon]]
 
 ### Starting Feat
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/class/explosive-leap|Explosive Leap]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/class/Explosive Leap|Explosive Leap]]
 
 ### Higher-Level Feats
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/class/searing-restoration|Searing Restoration]] (2nd), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/dual-form-weapon|Dual-Form Weapon]] (4th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/megavolt|Megavolt]] (6th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/manifold-modifications|Manifold Modifications]] (8th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/helpful-tinkering|Helpful Tinkering]] (10th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/gigavolt|Gigavolt]] (12th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/unstable-redundancies|Unstable Redundancies]] (14th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/persistent-boost|Persistent Boost]] (16th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/devastating-weaponry|Devastating Weaponry]] (18th)
+[[srd/pf2e/compendium/feats/guns-gears-remastered/class/Searing Restoration|Searing Restoration]] (2nd), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Dual-Form Weapon|Dual-Form Weapon]] (4th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Megavolt|Megavolt]] (6th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Manifold Modifications|Manifold Modifications]] (8th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Helpful Tinkering|Helpful Tinkering]] (10th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Gigavolt|Gigavolt]] (12th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Unstable Redundancies|Unstable Redundancies]] (14th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Persistent Boost|Persistent Boost]] (16th), [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Devastating Weaponry|Devastating Weaponry]] (18th)
 
 *Source: Guns & Gears (Remastered) p. 30*

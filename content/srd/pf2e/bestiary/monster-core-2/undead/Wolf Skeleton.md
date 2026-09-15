@@ -34,7 +34,7 @@ perception:
     desc: "+8; darkvision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +6"
 abilityMods: [2, 4, 1, -5, 2, 0]
 ac: 16
 armorclass:
@@ -43,14 +43,14 @@ armorclass:
 hp: 12
 health:
   - name: "HP"
-    desc: "12 (void healing); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Death Effects|death effects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5, piercing 5, slashing 5"
+    desc: "12 (void healing); __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Death Effects|death effects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|electricity]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] 5, piercing 5, slashing 5"
 speed: "35 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ jaws +8 __Damage__ 1d4+2 piercing plus Knockdown"
 abilities_bot:
   - name: "Surge of Speed"
-    desc: "⬺ The wolf skeleton Strides three times, but it's [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the start of its next turn."
+    desc: "⬺ The wolf skeleton Strides three times, but it's [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] until the start of its next turn."
 sourcebook: "_Monster Core 2_, page 289."
 ```
 

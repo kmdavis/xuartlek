@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Athamaru`  `Locathah`
 
-You grow specialized organs that allow you to detect even the faintest of heartbeats. You can sense living creatures and any creature with the [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] trait as an imprecise sense with a range of 20 feet. This range doubles while you are underwater, though only in the body of water you're in.
+You grow specialized organs that allow you to detect even the faintest of heartbeats. You can sense living creatures and any creature with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|electricity]] trait as an imprecise sense with a range of 20 feet. This range doubles while you are underwater, though only in the body of water you're in.
 
 *Source: Howl of the Wild p. 20*

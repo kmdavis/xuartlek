@@ -20,11 +20,11 @@ socialImage: og-image.png
 
 `Auditory`  `Concentrate`  `Emotion`  `General`  `Linguistic`  `Mental`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
 You launch an insightful quip at a foe, distracting them. Choose a foe within 30 feet and roll a Diplomacy check against the target's Will DC.
 
-**Critical Success** The target is distracted and takes a –3 status penalty to Perception and Will saves for 1 minute. The target can end the effect early with a retort to your Bon Mot. This can either be a single action that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait or an appropriate skill action to frame their retort. The GM determines which skill actions qualify, though they must take at least 1 action. Typically, the retort needs to use a linguistic Charisma-based skill action.
+**Critical Success** The target is distracted and takes a –3 status penalty to Perception and Will saves for 1 minute. The target can end the effect early with a retort to your Bon Mot. This can either be a single action that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] trait or an appropriate skill action to frame their retort. The GM determines which skill actions qualify, though they must take at least 1 action. Typically, the retort needs to use a linguistic Charisma-based skill action.
 
 **Success** As critical success, but the penalty is –2.
 

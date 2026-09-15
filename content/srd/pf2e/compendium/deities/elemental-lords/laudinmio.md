@@ -24,24 +24,24 @@ Strength or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bomb/alchemical-bomb|Alchemical Bomb]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bomb/Alchemical Bomb|Alchemical Bomb]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Metal|Metal]], [[srd/pf2e/compendium/character/domains#Sorrow|Sorrow]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Metal|Metal]], [[srd/pf2e/compendium/character/Domains#Sorrow|Sorrow]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Wealth|Wealth]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Wealth|Wealth]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/fold-metal|Fold Metal]]
+[[srd/pf2e/compendium/spells/rank-1/Fold Metal|Fold Metal]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/summon-elemental|Summon Elemental]]
+[[srd/pf2e/compendium/spells/rank-2/Summon Elemental|Summon Elemental]]
 (metal only)
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/impaling-spike|Impaling Spike]]
+[[srd/pf2e/compendium/spells/rank-5/Impaling Spike|Impaling Spike]]
 
 *Source: Divine Mysteries p. 306*

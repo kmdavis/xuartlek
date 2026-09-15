@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Monk`
 
-You move as fast and freely as the wind. You're permanently [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]]. You can use your extra action to Stride or [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]], or to provide one of the actions needed for a [[srd/pf2e/compendium/rules-elements/actions/player-core#High Jump|High Jump]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Long Jump|Long Jump]].
+You move as fast and freely as the wind. You're permanently [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]]. You can use your extra action to Stride or [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]], or to provide one of the actions needed for a [[srd/pf2e/compendium/rules-elements/actions/player-core#High Jump|High Jump]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Long Jump|Long Jump]].
 
 *Source: Player Core 2 p. 127*

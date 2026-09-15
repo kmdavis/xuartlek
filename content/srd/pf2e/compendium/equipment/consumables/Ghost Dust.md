@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 - **Price**: 1, 800 gp
 - **Usage**: affixed to armor
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]])
 - **Requirement**: You are trained in Stealth
 
 This small vial is filled with a grayish-green dust rendered from dried ectoplasm. When you activate the dust, it casts a 4th-rank _invisibility_ spell on you. You may then Stride or Step. You can instead Burrow, Climb, Fly, or Swim if you have the corresponding Speed.

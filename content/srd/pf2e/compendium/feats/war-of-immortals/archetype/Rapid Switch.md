@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wildspell|Wildspell]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wildspell|Wildspell]]
 - **Frequency**: once per round
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/wildspell-dedication|Wildspell Dedication]]
-- **Requirements**: Your [[srd/pf2e/compendium/spells/focus/spellsurge|_spellsurge_]] aura is active.
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Wildspell Dedication|Wildspell Dedication]]
+- **Requirements**: Your [[srd/pf2e/compendium/spells/focus/Spellsurge|_spellsurge_]] aura is active.
 
 You’ve honed your control over your _spellsurge_ aura and can rapidly alter its effects. [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] spellsurge to choose a different effect for its aura.
 

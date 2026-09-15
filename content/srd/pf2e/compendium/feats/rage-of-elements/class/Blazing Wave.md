@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Fire`  `Impulse`  `Kineticist`  `Overflow`  `Primal`
 
-Flames flow out of you in a cascade, engulfing everyone in a 30-foot cone. Each creature in the area takes 4d6 fire damage with a basic Reflex save against your class DC. A creature that critically fails its save is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
+Flames flow out of you in a cascade, engulfing everyone in a 30-foot cone. Each creature in the area takes 4d6 fire damage with a basic Reflex save against your class DC. A creature that critically fails its save is knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]].
 
 ---
 **Level (+2)** The damage increases by 1d6.

@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`  `Uncommon`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/winged-warrior|Winged Warrior]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/winged-warrior-dedication|Winged Warrior Dedication]]
-- **Access**: tengu, strix, or awakened animal ( flying animal ) ancestry
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Winged Warrior|Winged Warrior]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Winged Warrior Dedication|Winged Warrior Dedication]]
+- **Access**: tengu, strix, or awakened animal (flying animal) ancestry
 
 The skies are your rightful place, and you will not suffer another to occupy them. Make a Strike against a flying creature. If the attack deals damage, the target must attempt a Reflex save against your class DC.
 
@@ -32,6 +32,6 @@ The skies are your rightful place, and you will not suffer another to occupy the
 
 ### Pluck From the Sky leads to...
 
-[[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/cratering-drop|Cratering Drop]]
+[[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Cratering Drop|Cratering Drop]]
 
 *Source: Howl of the Wild p. 83*

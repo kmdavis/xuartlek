@@ -18,6 +18,6 @@ socialImage: og-image.png
 
 - **Frequency**: once per 10 minutes
 
-You wave your banner in victory, signaling to your allies that the fight is won. You and all allies within the aura of your commander's banner gain a +4 status bonus to attack and damage rolls, a +10-foot status bonus to all your Speeds, and 40 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]]. These benefits last until the start of your next turn.
+You wave your banner in victory, signaling to your allies that the fight is won. You and all allies within the aura of your commander's banner gain a +4 status bonus to attack and damage rolls, a +10-foot status bonus to all your Speeds, and 40 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Temporary Hit Points|temporary Hit Points]]. These benefits last until the start of your next turn.
 
 *Source: Battlecry! p. 35*

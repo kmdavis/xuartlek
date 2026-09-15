@@ -30,10 +30,10 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; darkvision, scent (imprecise) 30 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +6, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +9, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +7"
 abilityMods: [3, 4, 2, -1, 2, -1]
 ac: 17
 armorclass:
@@ -42,7 +42,7 @@ armorclass:
 hp: 45
 health:
   - name: "HP"
-    desc: "45; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] 10"
+    desc: "45; __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|acid]] 10"
 abilities_mid:
   - name: "Tail Lash"
     desc: "⬲"
@@ -55,14 +55,14 @@ attacks:
   - name: "Melee"
     desc: "⬻ fangs +12 __Damage__ 2d8+3 piercing"
   - name: "Melee"
-    desc: "⬻ tail +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d6+3 bludgeoning"
+    desc: "⬻ tail +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 2d6+3 bludgeoning"
 abilities_bot:
   - name: "Caustic Mucus"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/acid|Acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The river drake spits a ball of caustic mucus up to a range of 50 feet that explodes in a 10-foot burst. Creatures within the burst take 4d6 acid damage (DC 19 basic Reflex save). Those that fail this save also take 1d6 persistent acid damage and take a –5-foot status penalty to their Speed. This Speed reduction ends with the persistent acid damage. The river drake can't use Caustic Mucus again for 1d6 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|Acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|Primal]]) The river drake spits a ball of caustic mucus up to a range of 50 feet that explodes in a 10-foot burst. Creatures within the burst take 4d6 acid damage (DC 19 basic Reflex save). Those that fail this save also take 1d6 persistent acid damage and take a –5-foot status penalty to their Speed. This Speed reduction ends with the persistent acid damage. The river drake can't use Caustic Mucus again for 1d6 rounds."
   - name: "Draconic Frenzy"
     desc: "⬺ The river drake makes one fangs Strike and two tail Strikes in any order."
   - name: "Speed Surge"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]])"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Move|Move]])"
   - name: "Frequency"
     desc: "three times per day"
   - name: "Effect"

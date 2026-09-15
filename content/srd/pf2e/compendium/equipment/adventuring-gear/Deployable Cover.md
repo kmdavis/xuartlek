@@ -34,6 +34,6 @@ This thick mat of canvas, foliage, and wood is mounted on a tripod of flexible m
 
 ---
 
-Specially crafted to protect against bullet fire, a ballistic cover also works against other physical projectiles, such as arrows, bolts, and [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown]] weapons. While a creature has cover from Taking Cover behind a ballistic cover, it gains resistance 2 to piercing damage from ranged weapons and ranged [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attacks.
+Specially crafted to protect against bullet fire, a ballistic cover also works against other physical projectiles, such as arrows, bolts, and [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown]] weapons. While a creature has cover from Taking Cover behind a ballistic cover, it gains resistance 2 to piercing damage from ranged weapons and ranged [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attacks.
 
 *Source: Guns & Gears (Remastered) p. 64*

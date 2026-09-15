@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Auditory`  `Flourish`  `Gunslinger`  `Linguistic`  `Mental`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/ways#Way of the Pistolero|way of the pistolero]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Ways#Way of the Pistolero|way of the pistolero]]
 
-With a stern call, carefully chosen barb, or some other challenging declaration, you demand your foe's attention in a duel. Choose an opponent within 30 feet who you can perceive and can hear you, and make your choice of a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check against the target's Will DC. No matter the result of the check, the foe is temporarily immune to your Pistolero's Challenge until noon the next day.
+With a stern call, carefully chosen barb, or some other challenging declaration, you demand your foe's attention in a duel. Choose an opponent within 30 feet who you can perceive and can hear you, and make your choice of a [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] check against the target's Will DC. No matter the result of the check, the foe is temporarily immune to your Pistolero's Challenge until noon the next day.
 
 **Success** Both you and the opponent gain a +2 status bonus to damage rolls with Strikes made against each other. If you're a master in the skill you used for the check, the status bonus to damage rolls increases to +3, and if you're legendary, it increases to +4. 
 You can have only one challenge in effect at a time; challenging a new opponent ends this effect on any current target. Otherwise, the effect lasts until one of you is defeated, flees, or the encounter ends.
@@ -29,6 +29,6 @@ You can have only one challenge in effect at a time; challenging a new opponent 
 
 ### Pistolero's Challenge leads to...
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/class/come-at-me|Come at Me!]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/class/Come at Me!|Come at Me!]]
 
 *Source: Guns & Gears (Remastered) p. 114*

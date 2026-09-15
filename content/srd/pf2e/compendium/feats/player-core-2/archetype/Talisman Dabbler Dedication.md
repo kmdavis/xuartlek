@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/talisman-dabbler|Talisman Dabbler]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Talisman Dabbler|Talisman Dabbler]]
 
-You are trained in the use of talismans and similar magical paraphernalia. This training might have occurred in a formal classroom or been an accumulation of folk magic picked up over time. You can craft talismans and know the formulas for all common talismans of your level or lower. You remember talisman formulas and don't need a formula book for them. 
+You are trained in the use of [talismans](https://2e.aonprd.com/Equipment.aspx?Category=15&Subcategory=19) and similar magical paraphernalia. This training might have occurred in a formal classroom or been an accumulation of folk magic picked up over time. You can craft talismans and know the formulas for all common talismans of your level or lower. You remember talisman formulas and don't need a formula book for them. 
 Additionally, you carry a vast collection of magical baubles you can turn into temporary talismans. Each day during your daily preparations, you can make two talismans with an item level no higher than half your level. You must know each talisman's formula. A talisman created this way is a temporary item and loses its magic the next time you make your daily preparations if you haven't already used it. Any saving throw DC required by a temporary talisman you create uses the highest of your class DC, spell DC, or the talisman's DC. 
 Finally, when you [[srd/pf2e/compendium/rules-elements/actions/gm-core#Affix a Talisman|Affix a Talisman]], you can (in any combination) affix or remove up to four talismans in the 10-minute span.
 
 ### Talisman Dabbler Dedication leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/deeper-dabbler|Deeper Dabbler]], [[srd/pf2e/compendium/feats/player-core-2/archetype/quick-fix|Quick Fix]], [[srd/pf2e/compendium/feats/player-core-2/archetype/talismanic-sage|Talismanic Sage]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Deeper Dabbler|Deeper Dabbler]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Quick Fix|Quick Fix]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Talismanic Sage|Talismanic Sage]]
 
 *Source: Player Core 2 p. 217*

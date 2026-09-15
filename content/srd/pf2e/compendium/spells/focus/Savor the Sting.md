@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Cleric`  `Focus`  `Manipulate`  `Mental`  `Nonlethal`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Pain|Pain]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Pain|Pain]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Defense**: Will

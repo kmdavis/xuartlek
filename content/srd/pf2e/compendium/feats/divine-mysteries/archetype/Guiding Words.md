@@ -19,10 +19,10 @@ socialImage: og-image.png
 
 `Archetype`  `Auditory`  `Concentrate`  `Divine`  `Fortune`  `Linguistic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/mortal-herald|Mortal Herald]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Mortal Herald|Mortal Herald]]
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/mortal-herald-dedication|Mortal Herald Dedication]]; Master in [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Mortal Herald Dedication|Mortal Herald Dedication]]; Master in [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-Your words speak divine truth, guiding blades and arrows to their mark. Choose an ally within 30 feet and attempt a [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] check. The [[srd/pf2e/books/gm-core/chapter-1-running-the-game/difficulty-classes#Level-Based DCs|DC]] is equal to the [[srd/pf2e/books/gm-core/chapter-1-running-the-game/difficulty-classes#Adjusting Difficulty|hard difficulty]] DC of the level of your ally. On a success, the first time the targeted ally makes an attack roll before the end of their next turn, they roll the attack twice and use the better result. Regardless of the result, the target becomes immune to Guiding Words for 10 minutes.
+Your words speak divine truth, guiding blades and arrows to their mark. Choose an ally within 30 feet and attempt a [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] check. The [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Difficulty Classes#Level-Based DCs|DC]] is equal to the [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Difficulty Classes#Adjusting Difficulty|hard difficulty]] DC of the level of your ally. On a success, the first time the targeted ally makes an attack roll before the end of their next turn, they roll the attack twice and use the better result. Regardless of the result, the target becomes immune to Guiding Words for 10 minutes.
 
 *Source: Divine Mysteries p. 282*

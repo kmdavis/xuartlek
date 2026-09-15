@@ -17,7 +17,7 @@ socialImage: og-image.png
 - **Cast**: 1 hour
 - **Cost**: toy carriage, horse statues, rare incense, and feathers worth at least 50 gp total
 - **Secondary Casters**: 1
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (expert) or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] (expert) or [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] (expert)
 - **Secondary Checks**: Crafting or Driving Lore
 - **Duration**: 1 week or until the named destination is reached, whichever comes first
 

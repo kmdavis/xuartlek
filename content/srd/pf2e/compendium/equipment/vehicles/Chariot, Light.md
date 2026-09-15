@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 **Crew** 1 pilot
 
-**Piloting Check** Driving Lore (DC 14) or [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (DC 16 to DC 24, depending on pulling creature)
+**Piloting Check** Driving Lore (DC 14) or [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] (DC 16 to DC 24, depending on pulling creature)
 
 ---
 

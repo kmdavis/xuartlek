@@ -18,8 +18,8 @@ socialImage: og-image.png
 
 `Barbarian`  `Concentrate`  `Morph`  `Primal`  `Rage`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/animal|animal instinct]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/Animal|animal instinct]]
 
-You deepen the connection into your animal instincts. Your unarmed attack from bestial rage gains one of the following traits until you stop raging: [[srd/pf2e/compendium/rules-elements/traits/player-core/backswing|backswing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/parry|parry]], [[srd/pf2e/compendium/rules-elements/traits/player-core-2/razing|razing]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|sweep]]. You can't use this ability again until the next time you Rage. You can choose a different trait each time you use Animalistic Brutality
+You deepen the connection into your animal instincts. Your unarmed attack from bestial rage gains one of the following traits until you stop raging: [[srd/pf2e/compendium/rules-elements/traits/player-core/Backswing|backswing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Forceful|forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Parry|parry]], [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Razing|razing]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|sweep]]. You can't use this ability again until the next time you Rage. You can choose a different trait each time you use Animalistic Brutality
 
 *Source: Player Core 2 p. 80*

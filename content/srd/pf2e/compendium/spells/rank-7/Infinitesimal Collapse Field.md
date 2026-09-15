@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Aura`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Occult
-- **Area**: 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Area**: 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]]
 - **Defense**: Fortitude
 - **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] up to 1 minute
 
@@ -25,9 +25,9 @@ As your enemies attempt to approach you, you create a field around yourself that
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Encumbered|encumbered]] while in the area of the spell.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Encumbered|encumbered]] while in the area of the spell.
 
-**Failure** The target is encumbered and [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] while in the area of the spell.
+**Failure** The target is encumbered and [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed 1]] while in the area of the spell.
 
 **Critical Failure** The target is encumbered, slowed 1, and cannot take reactions while in the area of the spell.
 

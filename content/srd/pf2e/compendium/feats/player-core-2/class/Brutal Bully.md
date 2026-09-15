@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Barbarian`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
 You push your foes around and leave bruises. While raging, when you successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] an enemy, you deal that enemy bludgeoning damage equal to your Strength modifier; add this to the damage from a critical success to Trip.
 

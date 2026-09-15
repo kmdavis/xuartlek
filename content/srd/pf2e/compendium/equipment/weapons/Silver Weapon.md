@@ -13,7 +13,7 @@ socialImage: og-image.png
 
 - **Usage**: varies by weapon
 - **Bulk**: varies by weapon
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/silver|Silver]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/Silver|Silver]]
 
 Silver weapons deal additional damage to creatures with weakness to silver, like werewolves, and ignore the resistances of some other creatures, like devils.
 

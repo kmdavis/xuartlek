@@ -17,6 +17,6 @@ socialImage: og-image.png
 - **Frequency**: once per hour
 - **Requirements**: You are wearing medium or heavy armor.
 
-You take comfort in the safety of your armor. You gain a number of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] equal to your level that last for 1 minute, and you reduce your [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition value by 1 (to a minimum of 0).
+You take comfort in the safety of your armor. You gain a number of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Temporary Hit Points|temporary Hit Points]] equal to your level that last for 1 minute, and you reduce your [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] condition value by 1 (to a minimum of 0).
 
 *Source: Battlecry! p. 43*

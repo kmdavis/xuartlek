@@ -24,21 +24,21 @@ Constitution or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/shield/shield-boss|Shield Boss]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/shield/Shield Boss|Shield Boss]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Dreams|Dreams]], [[srd/pf2e/compendium/character/domains#Repose|Repose]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Dreams|Dreams]], [[srd/pf2e/compendium/character/Domains#Repose|Repose]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/penumbral-shroud|Penumbral Shroud]]
+[[srd/pf2e/compendium/spells/rank-1/Penumbral Shroud|Penumbral Shroud]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/wall-of-shadow|Wall of Shadow]]
+[[srd/pf2e/compendium/spells/rank-3/Wall of Shadow|Wall of Shadow]]
 
 - **7th**
 Shadow Raid

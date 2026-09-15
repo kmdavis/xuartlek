@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Inventor
 
-You've made a breakthrough in your field of study and discovered a powerful new way to enhance your [[srd/pf2e/compendium/character/innovations|innovation]]. Choose a breakthrough modification of your innovation's type to apply to your innovation. You can choose an initial modification of your innovation's type instead if you prefer.
+You've made a breakthrough in your field of study and discovered a powerful new way to enhance your [[srd/pf2e/compendium/character/Innovations|innovation]]. Choose a breakthrough modification of your innovation's type to apply to your innovation. You can choose an initial modification of your innovation's type instead if you prefer.
 
 *Source: Guns & Gears (Remastered) p. 15*

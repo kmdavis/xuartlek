@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/thaumaturge|Thaumaturge]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/thaumaturge-dedication|Thaumaturge Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Thaumaturge|Thaumaturge]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Thaumaturge Dedication|Thaumaturge Dedication]]
 
-You gain a 1st- or 2nd-level thaumaturge feat of your choice.
+You gain a 1st- or 2nd-level [thaumaturge feat](https://2e.aonprd.com/Feats.aspx?Traits=895) of your choice.
 
 ### Basic Thaumaturgy leads to...
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/advanced-thaumaturgy|Advanced Thaumaturgy]]
+[[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Advanced Thaumaturgy|Advanced Thaumaturgy]]
 
 *Source: Dark Archives (Remastered) p. 49*

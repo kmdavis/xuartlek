@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/skill/cat-fall|Cat Fall]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/skill/Cat Fall|Cat Fall]]
 
-You land with quick rolls that help you keep your momentum. If you fall and don't take damage (usually due to treating the fall as a shorter distance), you can use your reaction to immediately enter a short roll when you land and [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]]. If you are an expert in [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], you can use your reaction to Step or [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] up to half your Speed after you fall and don't take damage. If you're a master in Acrobatics, you can use this reaction to Step or Stride up to your full Speed. If you're legendary in Acrobatics, you don't trigger reactions triggered by movement when you Stride in this way.
+You land with quick rolls that help you keep your momentum. If you fall and don't take damage (usually due to treating the fall as a shorter distance), you can use your reaction to immediately enter a short roll when you land and [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]]. If you are an expert in [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], you can use your reaction to Step or [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] up to half your Speed after you fall and don't take damage. If you're a master in Acrobatics, you can use this reaction to Step or Stride up to your full Speed. If you're legendary in Acrobatics, you don't trigger reactions triggered by movement when you Stride in this way.
 
 *Source: Player Core 2 p. 233*

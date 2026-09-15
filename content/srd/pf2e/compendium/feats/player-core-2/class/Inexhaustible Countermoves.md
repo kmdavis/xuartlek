@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Swashbuckler`
 
-At the start of each enemy's turn, you gain an extra reaction you can use only during that turn to perform an [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Opportune Riposte|Opportune Riposte]], or a [[srd/pf2e/compendium/feats/player-core-2/archetype/reactive-strike|Reactive Strike]] if you have that reaction.
+At the start of each enemy's turn, you gain an extra reaction you can use only during that turn to perform an [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Opportune Riposte|Opportune Riposte]], or a [[srd/pf2e/compendium/feats/player-core-2/archetype/Reactive Strike|Reactive Strike]] if you have that reaction.
 
 *Source: Player Core 2 p. 169*

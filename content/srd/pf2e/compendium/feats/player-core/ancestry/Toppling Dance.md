@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Halfling`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/dance-underfoot|Dance Underfoot]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/Dance Underfoot|Dance Underfoot]]
 
-While sharing a creature's space using Dance Underfoot, your melee weapons and unarmed attacks gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|trip]] trait, but only against the creature whose space you share. You can be in the same space as a Large or larger prone creature, even if it's not your ally.
+While sharing a creature's space using Dance Underfoot, your melee weapons and unarmed attacks gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip|trip]] trait, but only against the creature whose space you share. You can be in the same space as a Large or larger prone creature, even if it's not your ally.
 
 *Source: Player Core p. 61*

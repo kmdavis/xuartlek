@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 `Deviant`  `Magical`  `Rare`
 
-You cause minor tremors that topple your enemies. All creatures in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] who are touching the ground take 1d6 bludgeoning damage for every 2 levels you have, with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. A creature that fails its save also falls [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
+You cause minor tremors that topple your enemies. All creatures in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] who are touching the ground take 1d6 bludgeoning damage for every 2 levels you have, with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save. A creature that fails its save also falls [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]].
 
 *Source: Dark Archives (Remastered) p. 101*

@@ -32,14 +32,14 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +15, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +15, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +14"
 abilityMods: [4, 3, 2, 2, 2, 1]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/club/greatclub|greatclub]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/Magic Weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/club/Greatclub|greatclub]]_"
 ac: 26
 armorclass:
   - name: "AC"
@@ -47,10 +47,10 @@ armorclass:
 hp: 135
 health:
   - name: "HP"
-    desc: "135 (fast healing 5); __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] 10"
+    desc: "135 (fast healing 5); __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] 10"
 abilities_mid:
   - name: "Mindbound"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) A nosferatu master exerts a fierce hold over their thrall's mind. If any creature other than the thrall's master targets them with an effect that would give them the [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]] condition, the thrall's master rolls a [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] check against it using their Dominate DC – 10 as the counteract check modifier."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]]) A nosferatu master exerts a fierce hold over their thrall's mind. If any creature other than the thrall's master targets them with an effect that would give them the [[srd/pf2e/compendium/rules-elements/Conditions#Controlled|controlled]] condition, the thrall's master rolls a [[srd/pf2e/books/player-core/chapter-7-spells/Counteracting|counteract]] check against it using their Dominate DC – 10 as the counteract check modifier."
   - name: "Mortal Shield"
     desc: "⬲"
   - name: "Trigger"
@@ -66,9 +66,9 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _greatclub_ +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/backswing|Backswing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|shove]]) __Damage__ 2d10+10 bludgeoning"
+    desc: "⬻ _greatclub_ +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Backswing|Backswing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Shove|shove]]) __Damage__ 2d10+10 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]]) __Damage__ 2d6+10 bludgeoning"
+    desc: "⬻ fist +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]]) __Damage__ 2d6+10 bludgeoning"
 abilities_bot:
   - name: "Swing Back"
     desc: "⬻"

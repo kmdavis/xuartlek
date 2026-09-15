@@ -1,6 +1,7 @@
 ---
 title: "Mythic Progression"
 aliases: ["Mythic Progression"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "War of Immortals"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3329"
 citation: "War of Immortals pg. 77"
-socialImage: og-image.png
 ---
 
 # Mythic Progression
@@ -26,8 +26,8 @@ As the GM of a mythic campaign, you should talk to your players about what mythi
 
 ### Rewrite Fate [free-action]
 
-[[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|Uncommon]] [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|Fortune]] [[srd/pf2e/compendium/rules-elements/traits/war-of-immortals/mythic|Mythic]]
-**Source** War of Immortals pg. 78
+[[srd/pf2e/compendium/rules-elements/traits/player-core/Uncommon|Uncommon]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|Fortune]] [[srd/pf2e/compendium/rules-elements/traits/war-of-immortals/Mythic|Mythic]]
+**Source** [War of Immortals pg. 78](https://2e.aonprd.com/Sources.aspx?ID=232)
 **Trigger** You roll a skill check or saving throw and don’t like the result.
 
 ---

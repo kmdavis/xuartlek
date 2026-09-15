@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/duelist-dedication|Duelist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Duelist|Duelist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Duelist Dedication|Duelist Dedication]]
 
 Select one enemy you can see and proclaim a challenge against it. That enemy is your dueling opponent until it's defeated, it flees from the encounter, or the encounter ends. Any time you hit that enemy using a single one-handed melee weapon while your other hand or hands are free, you gain a circumstance bonus to the Strike's damage equal to the number of damage dice your weapon deals.
 

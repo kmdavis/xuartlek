@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Press`  `Ranger`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/avenger|Avenger]] (Level 14)
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Avenger|Avenger]] (Level 14)
 - **Requirements**: You are wielding two melee weapons, each in a different hand
 
 You read your prey’s movements and transform them into openings, so failures with one weapon set up glancing blows with the other. Make a melee Strike with one of the required weapons against your hunted prey. The Strike gains the following failure effect. 

@@ -14,11 +14,11 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/celebrity|Celebrity]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/celebrity-dedication|Celebrity Dedication]]
-- **Trigger**: You would gain the [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] condition.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Celebrity|Celebrity]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Celebrity Dedication|Celebrity Dedication]]
+- **Trigger**: You would gain the [[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|fatigued]] condition.
 - **Requirements**: You are observed by at least three creatures who aren’t enemies.
 
-As long as you have an audience, you can continue to perform even when you are on the brink of collapse. Indeed, you must— you have an obligation to your fans! You delay the effects of the [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] condition for 1 minute or until you are no longer observed by at least three creatures who aren’t enemies, whichever comes first. If the fatigued condition has a duration, the duration begins to elapse only after the delay. You can’t further delay or prevent the fatigued condition after this ability ends.
+As long as you have an audience, you can continue to perform even when you are on the brink of collapse. Indeed, you must— you have an obligation to your fans! You delay the effects of the [[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|fatigued]] condition for 1 minute or until you are no longer observed by at least three creatures who aren’t enemies, whichever comes first. If the fatigued condition has a duration, the duration begins to elapse only after the delay. You can’t further delay or prevent the fatigued condition after this ability ends.
 
 *Source: Player Core 2 p. 194*

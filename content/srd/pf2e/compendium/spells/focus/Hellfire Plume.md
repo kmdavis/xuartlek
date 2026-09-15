@@ -20,10 +20,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Focus`  `Manipulate`  `Sorcerer`  `Spirit`  `Uncommon`
 
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Diabolic|Diabolic]]
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Diabolic|Diabolic]]
 - **Range**: 60 feet
 - **Area**: 10-foot radius, 60-foot-tall cylinder
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex
 
 You call forth a plume of hellfire that erupts from below, dealing 4d6 fire damage and 4d6 spirit damage.
 

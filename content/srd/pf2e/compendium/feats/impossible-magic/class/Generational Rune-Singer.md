@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Runesmith`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/prodigal-rune-singer|Prodigal Rune-Singer]]; Legendary in [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/Prodigal Rune-Singer|Prodigal Rune-Singer]]; Legendary in [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]
 
 You are a once-in-a-generation genius. You can [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Trace Rune|Trace a Rune]] with song at will and at a range of 60 feet.
 

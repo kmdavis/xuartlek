@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 - **Requirements**: Your previous action was to [[srd/pf2e/compendium/rules-elements/actions/dark-archives-remastered#Unleash Psyche|Unleash your Psyche]].
 
-The force of your mind unleashing itself releases a violent shock wave that batters your enemies. You deal 2d6 force damage to all creatures in a 20-foot emanation, with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save.
+The force of your mind unleashing itself releases a violent shock wave that batters your enemies. You deal 2d6 force damage to all creatures in a 20-foot emanation, with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save.
 
  At 5th level and every 2 levels thereafter, the damage increases by 1d6.
 

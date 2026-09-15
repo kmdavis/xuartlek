@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Beast`  `Eidolon`
 
-- **Tradition**: Primal
-- **Home Plane**: [[srd/pf2e/compendium/gm/planes#The Universe|The Universe]]
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Home Plane**: [[srd/pf2e/compendium/gm/Planes#The Universe|The Universe]]
 
 **Size** Medium
 
@@ -29,11 +29,11 @@ socialImage: og-image.png
 - Cha 0
 - AC ( Dex cap)
 
-**Skills** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
 **Senses** low-light vision
 
-**Language** [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]
+**Language** [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]]
 
 **Speed** 25 feet
 

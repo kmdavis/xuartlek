@@ -32,14 +32,14 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +11, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] +11, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +9, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] +9"
 abilityMods: [0, 2, 1, 4, 1, 1]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/consumables/invisibility-potion|_invisibility potion_]], spellbook, Staff, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|Thieves' Toolkit]]"
+    desc: "[[srd/pf2e/compendium/equipment/consumables/Invisibility Potion|_invisibility potion_]], spellbook, Staff, [[srd/pf2e/compendium/equipment/adventuring-gear/Thieves' Toolkit|Thieves' Toolkit]]"
 ac: 17
 armorclass:
   - name: "AC"
@@ -51,10 +51,10 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ staff +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d8]]) __Damage__ 1d4 bludgeoning"
+    desc: "⬻ staff +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Two-Hand|two-hand d8]]) __Damage__ 1d4 bludgeoning"
 spellcasting:
   - name: "Arcane Prepared Spells"
-    desc: "DC 20, attack +12 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/electric-arc|Electric Arc]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/message|Message]], [[srd/pf2e/compendium/spells/cantrips/shield|Shield]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/force-barrage|Force Barrage]], [[srd/pf2e/compendium/spells/rank-1/grease|Grease]], [[srd/pf2e/compendium/spells/rank-1/mystic-armor|Mystic Armor]], [[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/floating-flame|Floating Flame]], [[srd/pf2e/compendium/spells/rank-2/knock|Knock]], [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|See the Unseen]]"
+    desc: "DC 20, attack +12 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/Daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/Electric Arc|Electric Arc]], [[srd/pf2e/compendium/spells/cantrips/Light|Light]], [[srd/pf2e/compendium/spells/cantrips/Message|Message]], [[srd/pf2e/compendium/spells/cantrips/Shield|Shield]], [[srd/pf2e/compendium/spells/cantrips/Telekinetic Hand|Telekinetic Hand]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Force Barrage|Force Barrage]], [[srd/pf2e/compendium/spells/rank-1/Grease|Grease]], [[srd/pf2e/compendium/spells/rank-1/Mystic Armor|Mystic Armor]], [[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Floating Flame|Floating Flame]], [[srd/pf2e/compendium/spells/rank-2/Knock|Knock]], [[srd/pf2e/compendium/spells/rank-2/See the Unseen|See the Unseen]]"
 sourcebook: "_NPC Core_, page 82."
 ```
 

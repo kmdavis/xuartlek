@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Curse`  `Manipulate`
 
-- **Traditions**: Arcane, Occult, Primal
-- **Deities**: Camazotz, [[srd/pf2e/compendium/deities/demon-lords/nurgal|Nurgal]], Set
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Camazotz, [[srd/pf2e/compendium/deities/demon-lords/Nurgal|Nurgal]], Set
 - **Range**: 30 feet
 - **Target**: 1 living creature
 - **Defense**: Fortitude
@@ -27,7 +27,7 @@ You curse the target with a thirst no drink can quench. You can [[srd/pf2e/compe
 
 **Critical Success** The creature is unaffected and is temporarily immune for 1 hour.
 
-**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] for 1 round.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|fatigued]] for 1 round.
 
 **Failure** The creature is immediately afflicted by thirst as if it hadn’t had a drink in days. It becomes fatigued and takes 1d4 damage each hour that can’t be healed until it quenches its thirst. No amount of drinking can quench the creature’s thirst during the spell’s duration.
 

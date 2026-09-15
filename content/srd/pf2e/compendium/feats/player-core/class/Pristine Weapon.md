@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Druid`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/verdant-weapon|Verdant Weapon]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Verdant Weapon|Verdant Weapon]]
 
 Your verdant weapon can cut through the resistances of magical creatures. The weapon is treated as cold iron and silver. If you critically hit a creature that has a weakness to cold iron or silver, the target takes 1d6 persistent bleed damage as the primal energies within your weapon slow its natural healing.
 

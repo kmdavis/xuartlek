@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Requirements**: You're wielding a loaded crossbow or loaded firearm in each hand.
 
-You fire at an enemy while targeting a part of its anatomy that will disrupt its balance. Make two Strikes against the same target, one with each of the required weapons. If both Strikes are successful, the target is also knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
+You fire at an enemy while targeting a part of its anatomy that will disrupt its balance. Make two Strikes against the same target, one with each of the required weapons. If both Strikes are successful, the target is also knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]].
 
 *Source: Guns & Gears (Remastered) p. 116*

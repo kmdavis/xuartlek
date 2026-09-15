@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Thaumaturge`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/class/scroll-esoterica|Scroll Esoterica]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Scroll Esoterica|Scroll Esoterica]]
 
 You've picked up more scraps of magic texts, improving your makeshift scrolls. In addition to your daily scrolls from Scroll Esoterica, add a scroll with a 3rd-rank spell. At 14th level, add a scroll with a 4th-rank spell. At 16th level, add a scroll with a 5th-rank spell.
 
 ### Elaborate Scroll Esoterica leads to...
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/class/grand-scroll-esoterica|Grand Scroll Esoterica]]
+[[srd/pf2e/compendium/feats/dark-archives-remastered/class/Grand Scroll Esoterica|Grand Scroll Esoterica]]
 
 *Source: Dark Archives (Remastered) p. 46*

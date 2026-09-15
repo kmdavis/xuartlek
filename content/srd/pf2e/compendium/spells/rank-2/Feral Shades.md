@@ -17,10 +17,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Void`  `Negative`
 
-- **Traditions**: Occult, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/jezelda|Jezelda]], Orcus, [[srd/pf2e/compendium/deities/monitor-demigods/the-pale-horse|The Pale Horse]]
-- **Area**: 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]]
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude
+- **Traditions**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/Jezelda|Jezelda]], Orcus, [[srd/pf2e/compendium/deities/monitor-demigods/The Pale Horse|The Pale Horse]]
+- **Area**: 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Cone|cone]]
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Fortitude
 
 A wave of gray mist formed of energy from the Void spills out from your outstretched hand, briefly taking the shape of a pack of predatory animals that set viciously on your foes. You deal 2d4 slashing damage and 2d4 void damage to creatures in the area, with a basic Fortitude save. The shades set upon the vulnerable with greater ferocity: prone creatures or those taking persistent bleed damage take a –2 status penalty to the save.
 

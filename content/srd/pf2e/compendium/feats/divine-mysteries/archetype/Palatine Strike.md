@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/palatine-detective|Palatine Detective]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/palatine-detective-dedication|Palatine Detective Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Palatine Detective|Palatine Detective]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Palatine Detective Dedication|Palatine Detective Dedication]]
 
-Your strikes are particularly deadly against supernatural creatures. Whenever you deal precision damage with [[srd/pf2e/compendium/character/classes/investigator|strategic strike]] to a creature about which you have successfully used [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]], you deal an additional 2d6 precision damage with your strategic strike.
+Your strikes are particularly deadly against supernatural creatures. Whenever you deal precision damage with [[srd/pf2e/compendium/character/classes/Investigator|strategic strike]] to a creature about which you have successfully used [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] or [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]], you deal an additional 2d6 precision damage with your strategic strike.
 
 *Source: Divine Mysteries p. 289*

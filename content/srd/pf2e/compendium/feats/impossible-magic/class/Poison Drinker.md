@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Healing`  `Necromancer`  `Occult`  `Poison`
 
-- **Trigger**: You critically succeed on a Fortitude save against a [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] effect.
+- **Trigger**: You critically succeed on a Fortitude save against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] effect.
 
-You temporarily transform your digestive system to instead gain a burst of sustenance from the poison you ingest. You regain Hit Points equal to the level of the [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] (or double the spell’s rank if the poison was caused by a spell), and you gain as much nourishment as one square meal.
+You temporarily transform your digestive system to instead gain a burst of sustenance from the poison you ingest. You regain Hit Points equal to the level of the [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] (or double the spell’s rank if the poison was caused by a spell), and you gain as much nourishment as one square meal.
 
 *Source: Impossible Magic p. 37*

@@ -18,6 +18,6 @@ It takes more to kill you than most. You die from the dying condition at dying 5
 
 ### Diehard leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/general/numb-to-death|Numb to Death]]
+[[srd/pf2e/compendium/feats/player-core-2/general/Numb to Death|Numb to Death]]
 
 *Source: Player Core p. 254*

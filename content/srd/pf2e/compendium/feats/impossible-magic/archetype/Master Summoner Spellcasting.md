@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/summoner|Summoner]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/expert-summoner-spellcasting|Expert Summoner Spellcasting]]; legendary in the skill associated with your eidolon’s tradition
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Summoner|Summoner]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Expert Summoner Spellcasting|Expert Summoner Spellcasting]]; legendary in the skill associated with your eidolon’s tradition
 
 You gain the master spellcasting benefits.
 

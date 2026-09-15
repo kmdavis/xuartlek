@@ -20,8 +20,8 @@ socialImage: og-image.png
 
 - **Frequency**: once per 10 minutes
 - **Trigger**: A creature damages you with a melee attack
-- **Requirements**: Your attuned apparition grants Battlegrounds [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] or Volcano Lore as an apparition skill.
+- **Requirements**: Your attuned apparition grants Battlegrounds [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] or Volcano Lore as an apparition skill.
 
-Your apparition grants fiery defenses. You gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] equal to your level against the triggering damage, and the triggering creature takes 1d6 fire damage and 1 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent fire damage]]. This damage increases to 2d6 fire damage and 2 persistent fire damage at 12th level, and 3d6 fire damage and 3 persistent fire damage at 18th level.
+Your apparition grants fiery defenses. You gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistance]] equal to your level against the triggering damage, and the triggering creature takes 1d6 fire damage and 1 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent fire damage]]. This damage increases to 2d6 fire damage and 2 persistent fire damage at 12th level, and 3d6 fire damage and 3 persistent fire damage at 18th level.
 
 *Source: War of Immortals p. 25*

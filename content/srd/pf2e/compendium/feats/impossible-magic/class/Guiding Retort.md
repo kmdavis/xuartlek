@@ -1,19 +1,23 @@
 ---
-aliases: ["Guiding Retort"]
-source: "Impossible Magic"
-aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9271"
-socialImage: og-image.png
+cssclasses: pf2e,pf2e-feat
 tags:
-- compendium/src/pf2e/feat
+- compendium/src/pf2e/impossible-magic
+- trait/eidolon
+- trait/evolution
+- trait/summoner
+- feat/level/14
+aliases: ["Guiding Retort"]
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9271"
+source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Guiding Retort  *Feat 14*
 
-**Source** [Impossible Magic](https://2e.aonprd.com/Sources.aspx) pg. 84
+`Eidolon`  `Evolution`  `Summoner`
 
-**Prerequisites**
-[Eidolon's Retort](https://2e.aonprd.com/Feats.aspx)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/Eidolon's Retort|Eidolon's Retort]]
 
----
+With a cunning twist of their unarmed attack, your eidolon shifts the position of a foe. When your eidolon uses Eidolon’s Retort to Strike and hits, your eidolon can [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]] the target up to 10 feet.
 
-With a cunning twist of their unarmed attack, your eidolon shifts the position of a foe. When your eidolon uses Eidolon’s Retort to [Strike](https://2e.aonprd.com/Actions.aspx) and hits, your eidolon can [Reposition](https://2e.aonprd.com/Actions.aspx) the target up to 10 feet.
+*Source: Impossible Magic p. 84*

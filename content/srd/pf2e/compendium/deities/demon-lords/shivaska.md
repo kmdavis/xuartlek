@@ -24,23 +24,23 @@ Constitution or Charisma
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/war-flail|War Flail]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/War Flail|War Flail]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Abomination|Abomination]], [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Pain|Pain]], [[srd/pf2e/compendium/character/domains#Time|Time]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Abomination|Abomination]], [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Pain|Pain]], [[srd/pf2e/compendium/character/Domains#Time|Time]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Metal|Metal]], [[srd/pf2e/compendium/character/domains#Sorrow|Sorrow]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Metal|Metal]], [[srd/pf2e/compendium/character/Domains#Sorrow|Sorrow]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/tether|Tether]]
+[[srd/pf2e/compendium/spells/rank-1/Tether|Tether]]
 
 - **3rd**
 Phantom Prison
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/slither|Slither]]
+[[srd/pf2e/compendium/spells/rank-5/Slither|Slither]]
 
 *Source: Divine Mysteries p. 304*

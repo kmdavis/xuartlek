@@ -24,23 +24,23 @@ Dexterity or Strength
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/maul|Maul]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/Maul|Maul]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/domains#Star|Star]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/Domains#Star|Star]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Freedom|Freedom]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/pummeling-rubble|Pummeling Rubble]]
+[[srd/pf2e/compendium/spells/rank-1/Pummeling Rubble|Pummeling Rubble]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/acid-grip|Acid Grip]]
+[[srd/pf2e/compendium/spells/rank-2/Acid Grip|Acid Grip]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/disintegrate|Disintegrate]]
+[[srd/pf2e/compendium/spells/rank-6/Disintegrate|Disintegrate]]
 
 *Source: Divine Mysteries p. 137*

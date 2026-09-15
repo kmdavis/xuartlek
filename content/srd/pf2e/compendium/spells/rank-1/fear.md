@@ -18,10 +18,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Emotion`  `Fear`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
-- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Demonic|Demonic]], [[srd/pf2e/compendium/character/bloodlines#Draconic|Draconic]]
-- **Deity**: [[srd/pf2e/compendium/deities/vudrani-gods/dhalavei|Dhalavei]]
-- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Starless Shadow|Starless Shadow]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Bloodlines**: [[srd/pf2e/compendium/character/Bloodlines#Demonic|Demonic]], [[srd/pf2e/compendium/character/Bloodlines#Draconic|Draconic]]
+- **Deity**: [[srd/pf2e/compendium/deities/vudrani-gods/Dhalavei|Dhalavei]]
+- **Patron Theme**: [[srd/pf2e/compendium/character/Patrons#Starless Shadow|Starless Shadow]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will
@@ -35,7 +35,7 @@ You plant fear in the target; it must attempt a Will save.
 
 **Failure** The target is frightened 2.
 
-**Critical Failure** The target is frightened 3 and [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] for 1 round.
+**Critical Failure** The target is frightened 3 and [[srd/pf2e/compendium/rules-elements/Conditions#Fleeing|fleeing]] for 1 round.
 
 ---
 **Heightened (3rd)** You can target up to five creatures.

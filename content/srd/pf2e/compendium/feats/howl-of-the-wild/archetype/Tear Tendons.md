@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/clawdancer|Clawdancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/clawdancer-dedication|Clawdancer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Clawdancer|Clawdancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Clawdancer Dedication|Clawdancer Dedication]]
 - **Requirements**: You are in claw stance and have two open hands.
 
-You rake into your opponent with two claws, cutting into their muscle and depriving them of needed strength. Make two frenzied claw attacks against the same target, increasing the multiple attack penalty normally. If both attacks hit, the target must succeed at a Fortitude save against your class DC or be [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 2]] for 1 round; if it critically fails, it's instead enfeebled 2 for 1 minute.
+You rake into your opponent with two claws, cutting into their muscle and depriving them of needed strength. Make two frenzied claw attacks against the same target, increasing the multiple attack penalty normally. If both attacks hit, the target must succeed at a Fortitude save against your class DC or be [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled 2]] for 1 round; if it critically fails, it's instead enfeebled 2 for 1 minute.
 
 *Source: Howl of the Wild p. 69*

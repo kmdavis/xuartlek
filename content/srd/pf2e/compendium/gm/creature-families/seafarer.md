@@ -14,7 +14,7 @@ Adventurers may need passage on a swift vessel, or they might face danger from r
 
 ### Members
 
-[[srd/pf2e/bestiary/npc-core/humanoid/bosun|Bosun]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/castaway|Castaway]] (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/diver|Diver]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/navigator|Navigator]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/ocean-nomad|Ocean Nomad]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/pirate|Pirate]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/rigger|Rigger]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/ship-captain|Ship Captain]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/subaquatic-marauder|Subaquatic Marauder]] (Creature 5)
+[[srd/pf2e/bestiary/npc-core/humanoid/Bosun|Bosun]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/Castaway|Castaway]] (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/Diver|Diver]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/Navigator|Navigator]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/Ocean Nomad|Ocean Nomad]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/Pirate|Pirate]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/Rigger|Rigger]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/Ship Captain|Ship Captain]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/Subaquatic Marauder|Subaquatic Marauder]] (Creature 5)
 
 ### Conscription
 
@@ -22,11 +22,11 @@ While slavery is outlawed across Golarion, the practice of plying sailors into s
 
 ### Crossover Ancestry NPCs
 
-Several of the NPCs elsewhere in NPC Core can fit well in this group: [[srd/pf2e/bestiary/npc-core/humanoid/jinx-eater|Jinx eater]] (level 4)
+Several of the NPCs elsewhere in NPC Core can fit well in this group: [[srd/pf2e/bestiary/npc-core/humanoid/Jinx Eater|Jinx eater]] (level 4)
 
 ### Religion
 
-Faith for those who sail the waves is frequently a matter of appeasement rather than piety. Sailors will commonly pray to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]] and [[srd/pf2e/compendium/deities/tian-gods/hei-feng|Hei Feng]] for favorable weather; to [[srd/pf2e/compendium/deities/other-gods/besmara|Besmara]] in the hopes of avoiding pirates and sea monsters; and to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]] and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]] for aid in navigation. Navies with strong national religions turn a blind eye to this behavior. Rahadoumi vessels are an exception and prohibit such worship. Foreigners among their crews must be secretive in their devotions.
+Faith for those who sail the waves is frequently a matter of appeasement rather than piety. Sailors will commonly pray to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Gozreh|Gozreh]] and [[srd/pf2e/compendium/deities/tian-gods/Hei Feng|Hei Feng]] for favorable weather; to [[srd/pf2e/compendium/deities/other-gods/Besmara|Besmara]] in the hopes of avoiding pirates and sea monsters; and to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Desna|Desna]] and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Sarenrae|Sarenrae]] for aid in navigation. Navies with strong national religions turn a blind eye to this behavior. Rahadoumi vessels are an exception and prohibit such worship. Foreigners among their crews must be secretive in their devotions.
 
 ### Sea Maps
 

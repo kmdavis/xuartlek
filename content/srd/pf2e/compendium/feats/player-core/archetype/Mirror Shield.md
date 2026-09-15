@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Fighter`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bastion|Bastion]] (Level 12), Knight Vigilant (Level 12)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Bastion|Bastion]] (Level 12), Knight Vigilant (Level 12)
 - **Trigger**: An opponent casting a spell that targets you critically fails a spell attack roll against your AC
 - **Requirements**: You have a shield raised
 

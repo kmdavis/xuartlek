@@ -36,7 +36,7 @@ While most gnomes adopt some of the cultural practices of the region in which th
 
 ### Alignment and Religion
 
-Though gnomes are impulsive tricksters with inscrutable motives and confusing methods, many at least attempt to make the world a better place. They are prone to fits of powerful emotion and are rarely shy about helping those they believe deserve it. Gnomes most commonly worship deities that value individuality and nature, such as [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/cayden-cailean|Cayden Cailean]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]], and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]].
+Though gnomes are impulsive tricksters with inscrutable motives and confusing methods, many at least attempt to make the world a better place. They are prone to fits of powerful emotion and are rarely shy about helping those they believe deserve it. Gnomes most commonly worship deities that value individuality and nature, such as [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Cayden Cailean|Cayden Cailean]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Desna|Desna]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Gozreh|Gozreh]], and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Shelyn|Shelyn]].
 
  **Popular Edicts** seek new experiences, embrace your inspiration, move from obsession to obsession
  **Popular Anathema** slow down to explain yourself, deprive someone of all stimulation
@@ -57,16 +57,16 @@ Abroshtor, Bastargre, Besh, Fijit, Halungalom, Krolmnite, Neji, Majet, Pai, Posh
 
 #### Languages
 
-[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
-[[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]
+[[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]]
 
-[[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]]
+[[srd/pf2e/compendium/rules-elements/Languages#Gnomish|Gnomish]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]], and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/Languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/Languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/Languages#Orcish|Orcish]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 #### Low-Light Vision
 
-You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition due to dim light.
 
 *Source: Player Core p. 50*

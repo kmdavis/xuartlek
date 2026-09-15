@@ -16,15 +16,15 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Shadow`
 
-- **Traditions**: Arcane, Occult
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]]
-- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/abraxas|Abraxas]], Etaris, [[srd/pf2e/compendium/deities/demon-lords/gogunta|Gogunta]], [[srd/pf2e/compendium/deities/demon-lords/shivaska|Shivaska]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/yog-sothoth|Yog-Sothoth]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Aberrant|Aberrant]]
+- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/Abraxas|Abraxas]], Etaris, [[srd/pf2e/compendium/deities/demon-lords/Gogunta|Gogunta]], [[srd/pf2e/compendium/deities/demon-lords/Shivaska|Shivaska]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Yog-Sothoth|Yog-Sothoth]]
 - **Range**: 120 feet
 - **Area**: 20-foot burst
 - **Defense**: Reflex
 - **Duration**: 1 minute
 
-A mass of snakes made of shadow rise up to capture creatures in the area. Each creature in the area when you Cast the Spell takes 3d6 piercing damage and 1d6 persistent poison damage from a biting snake, and it's [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] depending on its Reflex save. A creature that ends its turn in the area must also attempt this save, even if it's already grabbed or restrained by the snakes. You can Dismiss the spell.
+A mass of snakes made of shadow rise up to capture creatures in the area. Each creature in the area when you Cast the Spell takes 3d6 piercing damage and 1d6 persistent poison damage from a biting snake, and it's [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] depending on its Reflex save. A creature that ends its turn in the area must also attempt this save, even if it's already grabbed or restrained by the snakes. You can Dismiss the spell.
 
 **Success** The creature is unaffected.
 

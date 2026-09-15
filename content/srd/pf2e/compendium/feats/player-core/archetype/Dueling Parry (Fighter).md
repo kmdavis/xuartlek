@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Fighter`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Duelist|Duelist]] (Level 4)
 - **Requirements**: You are wielding a single one-handed melee weapon and hold nothing else in your hands
 
 You can parry attacks against you with your one-handed weapon. You gain a +2 circumstance bonus to AC until the start of your next turn as long as you continue to meet the requirements.
 
 ### Dueling Parry (Fighter) leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/dueling-dance-fighter|Dueling Dance (Fighter)]], [[srd/pf2e/compendium/feats/player-core/archetype/dueling-riposte|Dueling Riposte]], [[srd/pf2e/compendium/feats/player-core-2/archetype/selfless-parry|Selfless Parry]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Dueling Dance (Fighter)|Dueling Dance (Fighter)]], [[srd/pf2e/compendium/feats/player-core/archetype/Dueling Riposte|Dueling Riposte]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Selfless Parry|Selfless Parry]]
 
 *Source: Player Core p. 141*

@@ -19,9 +19,9 @@ socialImage: og-image.png
 - **Price**: 140 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-This bottle contains a shrunken bird preserved with its feathers intact. When opened, the contents reconstitute into a Gargantuan effigy of a great roc, which can appear in the air instead of on the ground. The roc Grabs up to two creatures, then Flies up to 90 feet and Releases the creatures. The creatures must be within 15 feet of the roc for it to Grab them; if any of them are unwilling to be [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]], the roc must Grapple them with a +17 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] modifier or fail to pick them up.
+This bottle contains a shrunken bird preserved with its feathers intact. When opened, the contents reconstitute into a Gargantuan effigy of a great roc, which can appear in the air instead of on the ground. The roc Grabs up to two creatures, then Flies up to 90 feet and Releases the creatures. The creatures must be within 15 feet of the roc for it to Grab them; if any of them are unwilling to be [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]], the roc must Grapple them with a +17 [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] modifier or fail to pick them up.
 
 **Craft Requirements** Supply the corpse of a roc.
 

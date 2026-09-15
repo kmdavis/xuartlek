@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Thaumaturge`
 
-- **Prerequisites**: Legendary in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], Legendary in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], Legendary in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], or Legendary in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+- **Prerequisites**: Legendary in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], Legendary in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], Legendary in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], or Legendary in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
 The thaumaturge's path culminates with the working of wonders. Once per day, you can align your esoterica to cast a spell of 8th rank or lower that takes 1, 2, or 3 actions to cast. The spell must be common or one to which you have access. You can choose a spell of any tradition for which you're legendary in the associated skill (Arcana for arcane, Nature for primal, Occultism for occult, or Religion for divine). Use your thaumaturge class DC in place of any necessary spell DC and your thaumaturge class DC – 10 in place of any necessary counteract modifier or spell attack modifier.
 

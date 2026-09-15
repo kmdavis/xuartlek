@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/spellshifter|Spellshifter]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/spellshifter-dedication|Spellshifter Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Spellshifter|Spellshifter]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Spellshifter Dedication|Spellshifter Dedication]]
 
 Your intuitive understanding of magic allows you to read the energy of a spell in the air. You gain the Analyze Magic spellshift.
 

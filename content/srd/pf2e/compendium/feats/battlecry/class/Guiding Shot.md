@@ -21,6 +21,6 @@ Your ranged attack helps guide your allies into striking your enemy's weak point
 
 ### Guiding Shot leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/class/fortunate-blow|Fortunate Blow]], [[srd/pf2e/compendium/feats/battlecry/class/targeting-strike|Targeting Strike]]
+[[srd/pf2e/compendium/feats/battlecry/class/Fortunate Blow|Fortunate Blow]], [[srd/pf2e/compendium/feats/battlecry/class/Targeting Strike|Targeting Strike]]
 
 *Source: Battlecry! p. 30*

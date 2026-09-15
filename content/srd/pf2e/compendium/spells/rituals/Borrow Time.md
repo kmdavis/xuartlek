@@ -17,7 +17,7 @@ socialImage: og-image.png
 - **Cast**: 1 hour
 - **Cost**: bells, hourglasses, and water clocks worth a total of 1, 000 gp
 - **Secondary Casters**: 1 or more
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (legendary) or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (legendary)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] (legendary) or [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] (legendary)
 - **Secondary Checks**: Arcana or Occultism
 - **Area**: 30-foot burst centered on you
 - **Target(s)**: you and all secondary casters

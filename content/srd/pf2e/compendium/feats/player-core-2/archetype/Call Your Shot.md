@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/gladiator|Gladiator]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/play-to-the-crowd|Play to the Crowd]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Gladiator|Gladiator]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Play to the Crowd|Play to the Crowd]]
 
 When you successfully Play to the Crowd, add the following to the list of benefits you can choose from: 
-A creature you can see within 30 feet becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 2]]. This effect has the [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] traits.
+A creature you can see within 30 feet becomes [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened 2]]. This effect has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]] traits.
 
 *Source: Player Core 2 p. 201*

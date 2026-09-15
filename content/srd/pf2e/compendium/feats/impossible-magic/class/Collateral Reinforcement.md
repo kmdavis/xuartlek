@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Necromancer`  `Occult`
 
-With a combination of bony armor, extra flesh layers, and tactical incorporeal phasing, you protect your thralls from collateral damage. For 1 round, your thralls become immune to area and [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage.
+With a combination of bony armor, extra flesh layers, and tactical incorporeal phasing, you protect your thralls from collateral damage. For 1 round, your thralls become immune to area and [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage.
 
 *Source: Impossible Magic p. 36*

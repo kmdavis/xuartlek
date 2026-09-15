@@ -20,13 +20,13 @@ socialImage: og-image.png
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 Your limbs become extremely limber, letting you stretch and twist to extreme degrees at the cost of fine motor skills. 
 
-**Benefit** You gain the listed item bonus to [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] checks to Escape, Squeeze, and Tumble Through, and you increase your reach by the listed amount. 
+**Benefit** You gain the listed item bonus to [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] checks to Escape, Squeeze, and Tumble Through, and you increase your reach by the listed amount. 
 
-**Drawback** You take a –1 penalty to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] checks, and attack rolls, and a –1 penalty per damage die to all weapon and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack damage.
+**Drawback** You take a –1 penalty to [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] checks, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] checks, and attack rolls, and a –1 penalty per damage die to all weapon and [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack damage.
 
 ### Bendy-Arm Mutagen (Lesser)
 
@@ -36,7 +36,7 @@ Your limbs become extremely limber, letting you stretch and twist to extreme deg
 
 ---
 
-The bonus is +1, your [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] increases by 5 feet, and the duration is 1 minute.
+The bonus is +1, your [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach]] increases by 5 feet, and the duration is 1 minute.
 
 ### Bendy-Arm Mutagen (Moderate)
 

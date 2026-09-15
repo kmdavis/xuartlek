@@ -30,10 +30,10 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Muan|Muan]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Muan|Muan]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, Plane of Wood Lore +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +7, Plane of Wood Lore +4, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +6"
 abilityMods: [3, 1, 2, 0, 3, 0]
 ac: 16
 armorclass:
@@ -42,12 +42,12 @@ armorclass:
 hp: 20
 health:
   - name: "HP"
-    desc: "20; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ axes 2, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 2"
+    desc: "20; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/Weapon Groups#Axe|axes]] 2, [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] 2"
 abilities_mid:
   - name: "Resonance"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]], [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|wood]]) 30 feet. All wisps vibrate at a frequency attuned to their element, resonating with and empowering all creatures and effects sharing that trait. A creature in the area gains a +1 status bonus to attack and damage rolls for effects with the [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|wood]] trait; a creature with the [[srd/pf2e/compendium/rules-elements/traits/player-core/elemental|elemental]] trait and either plant trait or wood trait gains this bonus to all attack and damage rolls. For wood wisps, this bonus also applies to nonmagical wooden weapons, such as staves and clubs."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Wood|wood]]) 30 feet. All wisps vibrate at a frequency attuned to their element, resonating with and empowering all creatures and effects sharing that trait. A creature in the area gains a +1 status bonus to attack and damage rolls for effects with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Wood|wood]] trait; a creature with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Elemental|elemental]] trait and either plant trait or wood trait gains this bonus to all attack and damage rolls. For wood wisps, this bonus also applies to nonmagical wooden weapons, such as staves and clubs."
   - name: "Accord Essence"
-    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]])"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]])"
   - name: "Trigger"
     desc: "An ally within 30 feet that benefited from the wisp's resonance in the last hour is targeted by an attack"
   - name: "Effect"
@@ -55,7 +55,7 @@ abilities_mid:
 speed: "fly 20 feet, climb 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ thorny vine +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d4 bludgeoning plus 1 piercing"
+    desc: "⬻ thorny vine +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 1d4 bludgeoning plus 1 piercing"
 abilities_bot:
   - name: "In Concert"
     desc: "When a wood wisp rolls a critical failure on a check to Aid, they get a failure instead, and when they roll a success, they get a critical success instead."

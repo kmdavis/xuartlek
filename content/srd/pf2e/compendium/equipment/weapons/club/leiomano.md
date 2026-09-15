@@ -22,7 +22,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Club
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|Club]]
 
 This thick club is inset with sharp teeth, typically from a shark, that easily tear flesh. It's the preferred weapon of many Minatan warriors.
 
@@ -32,6 +32,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Dragontooth Club, [[srd/pf2e/compendium/equipment/weapons/dragontooth-leiomano|Dragontooth Leiomano]]
+Dragontooth Club, [[srd/pf2e/compendium/equipment/weapons/Dragontooth Leiomano|Dragontooth Leiomano]]
 
 *Source: Treasure Vault (Remastered) p. 27*

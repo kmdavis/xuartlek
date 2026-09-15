@@ -43,7 +43,7 @@ A _staff of water_ is most often made of driftwood, sometimes lacquered blue. Ca
 ---
 
 The resistance is 5. 
-**2nd** [[srd/pf2e/compendium/spells/rank-2/mist|_mist_]], [[srd/pf2e/compendium/spells/rank-2/water-walk|_water walk_]]**3rd** [[srd/pf2e/compendium/spells/rank-3/aqueous-orb|_aqueous orb_]], _wall of water_
+**2nd** [[srd/pf2e/compendium/spells/rank-2/Mist|_mist_]], [[srd/pf2e/compendium/spells/rank-2/Water Walk|_water walk_]]**3rd** [[srd/pf2e/compendium/spells/rank-3/Aqueous Orb|_aqueous orb_]], _wall of water_
 
 ### Staff of Water (Major)
 

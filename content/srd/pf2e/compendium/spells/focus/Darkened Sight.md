@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Darkness`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Darkness|Darkness]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]]
 - **Range**: 60 feet
 - **Target**: 1 creature
 - **Duration**: 1 minute

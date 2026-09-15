@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/mortal-herald|Mortal Herald]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/mortal-herald-dedication|Mortal Herald Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Mortal Herald|Mortal Herald]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Mortal Herald Dedication|Mortal Herald Dedication]]
 
-You are granted access to your deity’s realm and can travel there quickly. You can cast [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|_interplanar teleport_]] once per day as an innate divine spell with a casting time of only 1 minute. You act as the planar key for the destination, and you can only travel to your deity’s realm. You and the other targets of the spell always appear in the center of your deity’s realm, and you (but not necessarily your allies) are immune to all the realm’s harmful conditions (such as toxic air or [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Temperature|extreme temperatures]]) while there. You can return to your previous location by spending 1 minute picturing your destination; you can bring up to 8 willing creatures back with you in this way, and they need not be the same targets of the previous casting of _interplanar teleport_.
+You are granted access to your deity’s realm and can travel there quickly. You can cast [[srd/pf2e/compendium/spells/rank-7/Interplanar Teleport|_interplanar teleport_]] once per day as an innate [divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2) spell with a casting time of only 1 minute. You act as the planar key for the destination, and you can only travel to your deity’s realm. You and the other targets of the spell always appear in the center of your deity’s realm, and you (but not necessarily your allies) are immune to all the realm’s harmful conditions (such as toxic air or [[srd/pf2e/books/gm-core/chapter-2-building-games/Environment#Temperature|extreme temperatures]]) while there. You can return to your previous location by spending 1 minute picturing your destination; you can bring up to 8 willing creatures back with you in this way, and they need not be the same targets of the previous casting of _interplanar teleport_.
 
 *Source: Divine Mysteries p. 283*

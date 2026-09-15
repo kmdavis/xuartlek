@@ -5,13 +5,13 @@ tags:
 - trait/grimoire
 - trait/magical
 - equipment/level/10
-aliases: ["Book Of Lingering Blaze"]
+aliases: ["Book of Lingering Blaze"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5123"
 source: "Impossible Magic"
 socialImage: og-image.png
 ---
 
-# Book Of Lingering Blaze  *Item 10*
+# Book of Lingering Blaze  *Item 10*
 
 `Grimoire`  `Magical`
 
@@ -20,6 +20,6 @@ socialImage: og-image.png
 
 The common saying, “Where there is progress in the field of magic, there is always someone who uses it to set things on fire,” is engraved in gold on the cover of this red spellbook. 
 
-**Activate—Overheat Spell** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|spellshape]]) **Frequency** once per day; **Effect** If your next action is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a prepared Spell]] that deals fire damage, you superheat the flames, allowing the spell to ignore up to 10 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] to fire of creatures affected by the spell.
+**Activate—Overheat Spell** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Spellshape|spellshape]]) **Frequency** once per day; **Effect** If your next action is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a prepared Spell]] that deals fire damage, you superheat the flames, allowing the spell to ignore up to 10 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistance]] to fire of creatures affected by the spell.
 
 *Source: Impossible Magic p. 229*

@@ -19,8 +19,8 @@ socialImage: og-image.png
 
 `Auditory`  `Concentrate`  `Death`  `Manipulate`  `Void`  `Negative`
 
-- **Traditions**: Divine, Occult
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Undead|Undead]]
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Undead|Undead]]
 - **Area**: 40-foot emanation
 - **Defense**: Fortitude
 

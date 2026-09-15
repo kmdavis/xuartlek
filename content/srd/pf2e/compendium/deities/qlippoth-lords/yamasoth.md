@@ -24,13 +24,13 @@ Constitution or Intelligence
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/halberd|Halberd]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/Halberd|Halberd]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Abomination|Abomination]], [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Earth|Earth]], [[srd/pf2e/compendium/character/domains#Pain|Pain]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Abomination|Abomination]], [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Earth|Earth]], [[srd/pf2e/compendium/character/Domains#Pain|Pain]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Cities|Cities]], [[srd/pf2e/compendium/character/domains#Toil|Toil]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Cities|Cities]], [[srd/pf2e/compendium/character/Domains#Toil|Toil]]
 
 **Cleric Spells**
 
@@ -38,9 +38,9 @@ Constitution or Intelligence
 Draw Ire
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/bestial-curse|Bestial Curse]]
+[[srd/pf2e/compendium/spells/rank-4/Bestial Curse|Bestial Curse]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/mask-of-terror|Mask of Terror]]
+[[srd/pf2e/compendium/spells/rank-7/Mask of Terror|Mask of Terror]]
 
 *Source: Divine Mysteries p. 320*

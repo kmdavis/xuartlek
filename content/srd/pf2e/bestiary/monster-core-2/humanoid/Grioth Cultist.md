@@ -29,17 +29,17 @@ trait_03: "Rare"
 modifier: 10
 perception:
   - name: "Perception"
-    desc: "+10; [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Darkvision and Greater Darkvision|greater darkvision]], echolocation (precise) 20 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], Grioth; telepathy 30 feet"
+    desc: "+10; [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Darkvision and Greater Darkvision|greater darkvision]], echolocation (precise) 20 feet"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Aklo|Aklo]], Grioth; telepathy 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +9, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] +9, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +10, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +10"
 abilityMods: [0, 3, 2, 2, 3, 0]
 abilities_top:
   - name: "Echolocation"
     desc: "A grioth can use their hearing as a precise sense at the listed range."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/knife/kukri|voidglass kukri]]"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/knife/Kukri|voidglass kukri]]"
 ac: 18
 armorclass:
   - name: "AC"
@@ -47,7 +47,7 @@ armorclass:
 hp: 40
 health:
   - name: "HP"
-    desc: "40; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5"
+    desc: "40; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] 5"
 abilities_mid:
   - name: "Light Blindness"
     desc: ""
@@ -56,24 +56,24 @@ abilities_mid:
 speed: "25 feet, fly 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ kukri +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|trip]]) __Damage__ 1d6+2 slashing"
+    desc: "⬻ kukri +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip|trip]]) __Damage__ 1d6+2 slashing"
   - name: "Melee"
-    desc: "⬻ jaws +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]) __Damage__ 1d8+2 piercing plus grioth venom"
+    desc: "⬻ jaws +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]]) __Damage__ 1d8+2 piercing plus grioth venom"
 abilities_bot:
   - name: "Grioth Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]])"
   - name: "Saving Throw"
     desc: "DC 20 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1 (1 round)"
+    desc: "[[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] 1 (1 round)"
   - name: "Stage 2"
     desc: "frightened 2 (1 round)"
   - name: "Stage 3"
     desc: "frightened 3 (1 round)"
   - name: "Invoke Haunter of the Dark"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]])"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]])"
   - name: "Frequency"
     desc: "once per day"
   - name: "Effect"
@@ -83,16 +83,16 @@ abilities_bot:
   - name: "Success"
     desc: "The creature takes half damage"
   - name: "Failure"
-    desc: "The creature takes full damage and becomes [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 for 1 round"
+    desc: "The creature takes full damage and becomes [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] 1 for 1 round"
   - name: "Critical Failure"
     desc: "The creature takes double damage and becomes stupefied 1 for 1 minute."
   - name: "Shock Mind"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) The grioth scout makes a Strike with a voidglass weapon. If the Strike hits, it deals an additional 2d6 mental damage, and the target must succeed at a DC 20 Will save (this has the [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]] trait) or become [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 round."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]]) The grioth scout makes a Strike with a voidglass weapon. If the Strike hits, it deals an additional 2d6 mental damage, and the target must succeed at a DC 20 Will save (this has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|incapacitation]] trait) or become [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]] for 1 round."
 spellcasting:
   - name: "Divine Prepared Spells"
-    desc: "DC 20, attack +12 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/divine-lance|Divine Lance]], [[srd/pf2e/compendium/spells/cantrips/forbidding-ward|Forbidding Ward]], [[srd/pf2e/compendium/spells/cantrips/message|Message]], [[srd/pf2e/compendium/spells/cantrips/prestidigitation|Prestidigitation]], [[srd/pf2e/compendium/spells/cantrips/stabilize|Stabilize]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/fear|Fear]], [[srd/pf2e/compendium/spells/rank-1/harm|Harm]], [[srd/pf2e/compendium/spells/rank-1/heal|Heal]], [[srd/pf2e/compendium/spells/rank-1/ventriloquism|Ventriloquism]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/dispel-magic|Dispel Magic]], [[srd/pf2e/compendium/spells/rank-1/heal|Heal]], [[srd/pf2e/compendium/spells/rank-2/noise-blast|Noise Blast]]"
+    desc: "DC 20, attack +12 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/Divine Lance|Divine Lance]], [[srd/pf2e/compendium/spells/cantrips/Forbidding Ward|Forbidding Ward]], [[srd/pf2e/compendium/spells/cantrips/Message|Message]], [[srd/pf2e/compendium/spells/cantrips/Prestidigitation|Prestidigitation]], [[srd/pf2e/compendium/spells/cantrips/Stabilize|Stabilize]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Fear|Fear]], [[srd/pf2e/compendium/spells/rank-1/Harm|Harm]], [[srd/pf2e/compendium/spells/rank-1/Heal|Heal]], [[srd/pf2e/compendium/spells/rank-1/Ventriloquism|Ventriloquism]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Dispel Magic|Dispel Magic]], [[srd/pf2e/compendium/spells/rank-1/Heal|Heal]], [[srd/pf2e/compendium/spells/rank-2/Noise Blast|Noise Blast]]"
   - name: "Occult Innate Spells"
-    desc: "DC 19, attack +11 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-projectile|Telekinetic Projectile]] - __2nd__ [[srd/pf2e/compendium/spells/rank-1/phantom-pain|Phantom Pain]]"
+    desc: "DC 19, attack +11 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/Daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/Telekinetic Hand|Telekinetic Hand]], [[srd/pf2e/compendium/spells/cantrips/Telekinetic Projectile|Telekinetic Projectile]] - __2nd__ [[srd/pf2e/compendium/spells/rank-1/Phantom Pain|Phantom Pain]]"
 sourcebook: "_Monster Core 2_, page 179."
 ```
 

@@ -21,6 +21,6 @@ socialImage: og-image.png
 - **Frequency**: once per day
 - **Trigger**: An ally within 30 feet would be reduced to 0 HP but not immediately killed.
 
-You give a daring yowl, calling your companion back from the brink of unconsciousness. Your ally isn't knocked out and remains at 1 Hit Point. Their [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] condition still increases by 1 as though they had been dying and recovered.
+You give a daring yowl, calling your companion back from the brink of unconsciousness. Your ally isn't knocked out and remains at 1 Hit Point. Their [[srd/pf2e/compendium/rules-elements/Conditions#Wounded|wounded]] condition still increases by 1 as though they had been dying and recovered.
 
 *Source: Player Core 2 p. 11*

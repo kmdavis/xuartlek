@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Ranger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bounty-hunter|Bounty Hunter]] (Level 14), Game Hunter (Level 14)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Bounty Hunter|Bounty Hunter]] (Level 14), Game Hunter (Level 14)
 
 You can focus on two foes at once, hunting both of them down. When you use the Hunt Prey action, you can pick two creatures as your prey.
 
 ### Double Prey leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/shared-prey|Shared Prey]]
+[[srd/pf2e/compendium/feats/player-core/class/Shared Prey|Shared Prey]]
 
 *Source: Player Core p. 162*

@@ -18,6 +18,6 @@ Your experience in the field has taught you how to focus your aim at a distance,
 
 ### Far Shot leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/legendary-shot|Legendary Shot]]
+[[srd/pf2e/compendium/feats/player-core/class/Legendary Shot|Legendary Shot]]
 
 *Source: Player Core p. 159*

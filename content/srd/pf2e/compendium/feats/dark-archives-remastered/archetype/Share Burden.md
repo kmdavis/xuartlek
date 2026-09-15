@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/curse-maelstrom|Curse Maelstrom]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/curse-maelstrom-dedication|Curse Maelstrom Dedication]]
-- **Trigger**: An ally within 60 feet would be affected by a [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] effect, and you wouldn't be affected but are an eligible target for the effect.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Curse Maelstrom|Curse Maelstrom]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]
+- **Trigger**: An ally within 60 feet would be affected by a [[srd/pf2e/compendium/rules-elements/traits/player-core/Curse|curse]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|misfortune]] effect, and you wouldn't be affected but are an eligible target for the effect.
 
 You draw the misfortune or curse into yourself, potentially enabling you to enter your curse maelstrom state. Instead of affecting your ally, the triggering curse or misfortune effect affects you.
 

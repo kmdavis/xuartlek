@@ -1,6 +1,7 @@
 ---
 title: "Chapter 3: Classes"
 aliases: ["Chapter 3: Classes"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2098"
 citation: "Player Core pg. 91"
-socialImage: og-image.png
 ---
 
 # Chapter 3: Classes
@@ -28,6 +28,6 @@ The entries on the pages that follow describe 8 classes in Pathfinder. Each entr
 
 ## Contents
 
-- [[srd/pf2e/books/player-core/chapter-3-classes/reading-class-entries|Reading Class Entries]]
-- [[srd/pf2e/books/player-core/chapter-3-classes/companions|Companions]]
-- [[srd/pf2e/books/player-core/chapter-3-classes/archetypes|Archetypes]]
+- [[srd/pf2e/books/player-core/chapter-3-classes/Reading Class Entries|Reading Class Entries]]
+- [[srd/pf2e/books/player-core/chapter-3-classes/Companions|Companions]]
+- [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes|Archetypes]]

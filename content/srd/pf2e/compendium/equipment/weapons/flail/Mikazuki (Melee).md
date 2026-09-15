@@ -24,13 +24,13 @@ socialImage: og-image.png
 - **Hands**: 1+
 - **Category**: Martial
 
-The mikazuki combines a [[srd/pf2e/compendium/equipment/weapons/flail/sansetsukon|sansetsukon]] with a thin length of metal string and several locking mechanisms built into the joints, allowing it to be quickly locked into configuration as a bow.
+The mikazuki combines a [[srd/pf2e/compendium/equipment/weapons/flail/Sansetsukon|sansetsukon]] with a thin length of metal string and several locking mechanisms built into the joints, allowing it to be quickly locked into configuration as a bow.
 
 ### Melee
 
 **Damage** 1d6 B
 
-**Group** Flail
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Flail|Flail]]
 
 ### Ranged
 
@@ -40,7 +40,7 @@ The mikazuki combines a [[srd/pf2e/compendium/equipment/weapons/flail/sansetsuko
 
 **Reload** 0
 
-**Group** Bow
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bow|Bow]]
 
 **Ammunition** Arrows
 

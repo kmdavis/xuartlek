@@ -20,6 +20,6 @@ When you apply your will to invoke a vulnerability, the result is more powerful,
 
  While you have mortal weakness applied, your Strikes also apply that weakness against any creature that has that weakness, not just creatures of the exact same kind. For instance, if you used mortal weakness against a cinder dragon to apply its weakness to cold to your Strikes, those Strikes would also apply to the weakness to cold of fire elementals or any other creature with a weakness to cold.
 
- While you have personal antithesis applied to a non-[[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoid]] creature, you can apply your custom weakness to all creatures of the exact same kind. For example, if you used personal antithesis against an [[srd/pf2e/bestiary/monster-core/fiend/ort|ort]], the custom weakness would apply to other orts but not to other types of [[srd/pf2e/compendium/gm/creature-families/devil|devils]].
+ While you have personal antithesis applied to a non-[[srd/pf2e/compendium/rules-elements/traits/player-core/Humanoid|humanoid]] creature, you can apply your custom weakness to all creatures of the exact same kind. For example, if you used personal antithesis against an [[srd/pf2e/bestiary/monster-core/fiend/Ort|ort]], the custom weakness would apply to other orts but not to other types of [[srd/pf2e/compendium/gm/creature-families/Devil|devils]].
 
 *Source: Dark Archives (Remastered) p. 45*

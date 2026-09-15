@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 `Monk`  `Void`  `Negative`
 
-You carefully target a creature's pressure points to block its inner life force. Make an unarmed Strike. If it deals damage to a living creature, that creature takes 2d6 persistent void damage and is [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] until the persistent damage ends. If you're 18th level or higher, the persistent void damage increases to 3d6.
+You carefully target a creature's pressure points to block its inner life force. Make an unarmed Strike. If it deals damage to a living creature, that creature takes 2d6 persistent void damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled 1]] until the persistent damage ends. If you're 18th level or higher, the persistent void damage increases to 3d6.
 
 *Source: Player Core 2 p. 124*

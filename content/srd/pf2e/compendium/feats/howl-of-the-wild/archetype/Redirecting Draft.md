@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/winged-warrior|Winged Warrior]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/winged-warrior-dedication|Winged Warrior Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Winged Warrior|Winged Warrior]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Winged Warrior Dedication|Winged Warrior Dedication]]
 - **Trigger**: You or an ally within 10 feet of you is the target of a ranged physical Strike.
 
 You flap your wings to blow arrows off course. You or the triggering ally gain a +2 circumstance bonus to AC against the triggering attack. If the attack misses, you redirected the attack's flight path.

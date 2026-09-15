@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/scout|Scout]], Verduran Shadow (Level 6)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/scout-dedication|Scout Dedication]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Scout|Scout]], Verduran Shadow (Level 6)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Scout Dedication|Scout Dedication]]
 
 You're able to quickly disappear and then move about without drawing the attention of your enemies. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]], then [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]] twice.
 

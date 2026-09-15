@@ -17,14 +17,14 @@ socialImage: og-image.png
 
 `Concentrate`  `Darkness`  `Manipulate`  `Shadow`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/other-gods/aleth|Aleth]], [[srd/pf2e/compendium/deities/empyreal-lords/black-butterfly|Black Butterfly]], [[srd/pf2e/compendium/deities/pantheons/cosmic-caravan|Cosmic Caravan]], [[srd/pf2e/compendium/deities/eldest/count-ranalc|Count Ranalc]], Kerkamoth, [[srd/pf2e/compendium/deities/other-gods/nocticula|Nocticula]], Set, [[srd/pf2e/compendium/deities/sakhil-tormentors/shawnari|Shawnari]], [[srd/pf2e/compendium/deities/other-gods/thamir|Thamir]], The Lady of the North Star
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/Aleth|Aleth]], [[srd/pf2e/compendium/deities/empyreal-lords/Black Butterfly|Black Butterfly]], [[srd/pf2e/compendium/deities/pantheons/Cosmic Caravan|Cosmic Caravan]], [[srd/pf2e/compendium/deities/eldest/Count Ranalc|Count Ranalc]], Kerkamoth, [[srd/pf2e/compendium/deities/other-gods/Nocticula|Nocticula]], Set, [[srd/pf2e/compendium/deities/sakhil-tormentors/Shawnari|Shawnari]], [[srd/pf2e/compendium/deities/other-gods/Thamir|Thamir]], The Lady of the North Star
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Reflex
 - **Duration**: 10 minutes
 
-You envelop the target in a shroud of shadow. The target perceives [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Light|light]] as one step lower than it actually is ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Bright Light|bright light]] becomes [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Dim Light|dim light]], for example), affecting their ability to sense creatures and objects accordingly. The shroud also provides the target a +1 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]] effects. This effect is helpful to creatures sensitive to light, and a creature can willingly choose to be subject to the failure effect of the spell.
+You envelop the target in a shroud of shadow. The target perceives [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Light|light]] as one step lower than it actually is ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Bright Light|bright light]] becomes [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Dim Light|dim light]], for example), affecting their ability to sense creatures and objects accordingly. The shroud also provides the target a +1 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/Light|light]] effects. This effect is helpful to creatures sensitive to light, and a creature can willingly choose to be subject to the failure effect of the spell.
 
 **Critical Success** The target is unaffected.
 

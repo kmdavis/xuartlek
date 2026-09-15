@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 An enormous, perfect, ripe seed from a tree important to a region's druids, an _elder seed_ exudes vitality. Plant life grows quickly and abundantly around it. Anyone who touches the seed understands the nature of its power. Swallowing it whole imparts its effects, but succeeding at the save against the boon causes the swallower to regurgitate the seed.
 
@@ -28,7 +28,7 @@ An enormous, perfect, ripe seed from a tree important to a region's druids, an _
 
 ---
 
-**Stage 2 (1 Month)** You gain low-light vision and fluency in Arboreal. However, your body feels stiffer, your mind slower to move to intense emotions, and you are prone to take your time making decisions. You become clumsy 1, take a –1 status penalty to initiative rolls, and gain a weakness to fire damage equal to half your level, and you take the same amount of additional damage from axes.
+**Stage 2 (1 Month)** You gain low-light vision and fluency in Arboreal. However, your body feels stiffer, your mind slower to move to intense emotions, and you are prone to take your time making decisions. You become clumsy 1, take a –1 status penalty to initiative rolls, and gain a weakness to fire damage equal to half your level, and you take the same amount of additional damage from [[srd/pf2e/compendium/rules-elements/Weapon Groups#Axe|axes]].
 
 If you die at this stage or higher, your body sinks into the earth, forming rich soil. Over several days, a mature, full-sized tree of the seed's type grows where you fell. If plant growth is impossible, such as due to lack of sunlight, fungi grow there instead, extending mycelia through the earth until they reach a place the tree can grow. Then, the tree grows. An arboreal can tend this tree to cause it to regrow one _elder seed_ after 3 years and 3 days.
 
@@ -42,6 +42,6 @@ If you die at this stage or higher, your body sinks into the earth, forming rich
 
 ---
 
-**Purging** You must seek out an arboreal, [[srd/pf2e/compendium/character/classes/druid|druid]], or nature-loving [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]] that is your level or higher whom you have never met, and pledge your allegiance to that being. Doing so places you under a _geas_ to accomplish at least one meaningful service, usually a quest, for your new liege. While under the geas, you can't advance to stage 4. Once you complete your service, you regurgitate the _elder seed_, and its effects on you end.
+**Purging** You must seek out an arboreal, [[srd/pf2e/compendium/character/classes/Druid|druid]], or nature-loving [[srd/pf2e/compendium/rules-elements/traits/player-core/Fey|fey]] that is your level or higher whom you have never met, and pledge your allegiance to that being. Doing so places you under a _geas_ to accomplish at least one meaningful service, usually a quest, for your new liege. While under the geas, you can't advance to stage 4. Once you complete your service, you regurgitate the _elder seed_, and its effects on you end.
 
 *Source: Treasure Vault (Remastered) p. 187*

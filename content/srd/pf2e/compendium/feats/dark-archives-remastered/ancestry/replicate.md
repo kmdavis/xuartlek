@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Reflection`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/ancestry/clone-risen|Clone-Risen]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/ancestry/Clone-Risen|Clone-Risen]]
 
-You've learned to reshape your malleable form. You can cast [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|_illusory disguise_]] once per day as an innate occult spell. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/morph|morph]] effect, as your body physically transforms, rather than an illusion effect.
+You've learned to reshape your malleable form. You can cast [[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|_illusory disguise_]] once per day as an innate occult spell. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Morph|morph]] effect, as your body physically transforms, rather than an illusion effect.
 
 *Source: Dark Archives (Remastered) p. 121*

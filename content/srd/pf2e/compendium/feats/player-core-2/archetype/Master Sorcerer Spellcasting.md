@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/sorcerer|Sorcerer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/expert-sorcerer-spellcasting|Expert Sorcerer Spellcasting]]; legendary in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]], depending on bloodline
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Sorcerer|Sorcerer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Expert Sorcerer Spellcasting|Expert Sorcerer Spellcasting]]; legendary in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], or [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]], depending on bloodline
 
 You gain the master spellcasting benefits.
 

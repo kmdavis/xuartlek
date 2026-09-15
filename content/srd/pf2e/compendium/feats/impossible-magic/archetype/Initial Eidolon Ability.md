@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/summoner|Summoner]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/summoner-dedication|Summoner Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Summoner|Summoner]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Summoner Dedication|Summoner Dedication]]
 
-Your link to your eidolon strengthens, granting them a new ability. Your eidolon gains the initial ability for an eidolon of their type.
+Your link to your [[srd/pf2e/compendium/character/eidolons/eidolons|eidolon]] strengthens, granting them a new ability. Your eidolon gains the initial ability for an eidolon of their type.
 
 *Source: Impossible Magic p. 91*

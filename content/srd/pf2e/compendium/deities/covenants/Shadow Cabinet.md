@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: glean sensitive information through underhanded means, infiltrate powerful organizations, keep your own secrets
 - **Anathema**: allow your agenda to be discovered through carelessness, destroy information when it doesn’t personally benefit you
 - **Area of Concern**: opportunities, secret agendas and alliances, shadow government, spies
-- **Pantheon Members**: [[srd/pf2e/compendium/deities/vudrani-gods/dhalavei|Dhalavei]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/norgorber|Norgorber]], [[srd/pf2e/compendium/deities/other-gods/thamir|Thamir]]
+- **Pantheon Members**: [[srd/pf2e/compendium/deities/vudrani-gods/Dhalavei|Dhalavei]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Norgorber|Norgorber]], [[srd/pf2e/compendium/deities/other-gods/Thamir|Thamir]]
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Intelligence or Charisma
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|Dagger]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|Dagger]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Disorientation|Disorientation]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Disorientation|Disorientation]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/illusory-disguise|Illusory Disguise]]
+[[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|Illusory Disguise]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/clairvoyance|Clairvoyance]]
+[[srd/pf2e/compendium/spells/rank-4/Clairvoyance|Clairvoyance]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/mislead|Mislead]]
+[[srd/pf2e/compendium/spells/rank-6/Mislead|Mislead]]
 
 *Source: Divine Mysteries p. 240*

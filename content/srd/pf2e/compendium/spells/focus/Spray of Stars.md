@@ -20,7 +20,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Focus`  `Light`  `Manipulate`  `Oracle`  `Uncommon`
 
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Cosmos|Cosmos]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Cosmos|Cosmos]]
 - **Area**: 15-foot cone
 - **Defense**: Reflex
 
@@ -28,7 +28,7 @@ You fling a spray of tiny shooting stars, dealing 2d4 fire damage. Each creature
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round.
+**Success** The creature takes half damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] for 1 round.
 
 **Failure** The creature takes full damage and is dazzled for 3 rounds.
 

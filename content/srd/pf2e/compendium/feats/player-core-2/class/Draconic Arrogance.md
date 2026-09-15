@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Barbarian`  `Rage`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/dragon|dragon instinct]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/Dragon|dragon instinct]]
 
-Few can sway you from your goals while the fury of combat fills you. While raging, you gain a +2 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effects.
+Few can sway you from your goals while the fury of combat fills you. While raging, you gain a +2 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]] effects.
 
 *Source: Player Core 2 p. 77*

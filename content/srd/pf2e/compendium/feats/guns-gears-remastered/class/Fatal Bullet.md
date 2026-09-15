@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Gunslinger`
 
-You're especially talented at striking your enemies in their most vulnerable areas. When you critically hit with a [[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal]] firearm, you deal an additional die of the appropriate size and damage type for the fatal trait after doubling the weapon's damage. For example, after getting a critical hit with a fatal d12 weapon, you add an additional 1d12 damage to the attack after doubling its damage.
+You're especially talented at striking your enemies in their most vulnerable areas. When you critically hit with a [[srd/pf2e/compendium/rules-elements/traits/player-core/Fatal|fatal]] firearm, you deal an additional die of the appropriate size and damage type for the fatal trait after doubling the weapon's damage. For example, after getting a critical hit with a fatal d12 weapon, you add an additional 1d12 damage to the attack after doubling its damage.
 
 *Source: Guns & Gears (Remastered) p. 118*

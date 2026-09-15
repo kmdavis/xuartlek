@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Bard`
 
-You can shape the area of your [[srd/pf2e/compendium/rules-elements/traits/player-core/composition|composition]] spells. Whenever you cast a composition spell whose area is an [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]], you can change the spell’s area to a cone 10 feet larger, to a maximum of twice the original area. For example, you could modify a composition spell that affects a 30-foot emanation to affect a 40-foot cone, but a 5-foot emanation could only become a 10-foot cone.
+You can shape the area of your [[srd/pf2e/compendium/rules-elements/traits/player-core/Composition|composition]] spells. Whenever you cast a composition spell whose area is an [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]], you can change the spell’s area to a cone 10 feet larger, to a maximum of twice the original area. For example, you could modify a composition spell that affects a 30-foot emanation to affect a 40-foot cone, but a 5-foot emanation could only become a 10-foot cone.
 
 *Source: Player Core p. 101*

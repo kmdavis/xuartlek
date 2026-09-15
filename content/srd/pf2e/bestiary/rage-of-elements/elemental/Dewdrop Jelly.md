@@ -30,10 +30,10 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +7"
 abilityMods: [2, 3, 3, -4, 1, 0]
 ac: 16
 armorclass:
@@ -42,7 +42,7 @@ armorclass:
 hp: 20
 health:
   - name: "HP"
-    desc: "20; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5"
+    desc: "20; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] 5"
 abilities_mid:
   - name: "Dissolve"
     desc: "⬲"
@@ -56,7 +56,7 @@ attacks:
     desc: "⬻ tentacle +8 __Damage__ 1d6+2 bludgeoning"
 abilities_bot:
   - name: "Overflow"
-    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]]) The dewdrop jelly flattens its bell and shoots forward, Flying or Swimming twice in a straight line toward its target and attempting a tentacle Strike. On a success, the dewdrop attaches to the target's face, covering its mouth in the suspended water of its gelatinous body. If the target cannot breathe water, it begins to drown. The DC to Escape is 16."
+    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Move|Move]]) The dewdrop jelly flattens its bell and shoots forward, Flying or Swimming twice in a straight line toward its target and attempting a tentacle Strike. On a success, the dewdrop attaches to the target's face, covering its mouth in the suspended water of its gelatinous body. If the target cannot breathe water, it begins to drown. The DC to Escape is 16."
 sourcebook: "_Rage of Elements_, page 180."
 ```
 

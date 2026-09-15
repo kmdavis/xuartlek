@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/druid|Druid]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/basic-wilding|Basic Wilding]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Druid|Druid]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Basic Wilding|Basic Wilding]]
 
 You gain one druid feat. For the purpose of meeting its prerequisites, your druid level is equal to half your character level.
 

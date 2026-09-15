@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Leshy`
 
-Your spirit has endured many challenges over its long existence. You gain a +1 circumstance bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effects. If you roll a success on a saving throw against an emotion effect, you get a critical success instead.
+Your spirit has endured many challenges over its long existence. You gain a +1 circumstance bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]] effects. If you roll a success on a saving throw against an emotion effect, you get a critical success instead.
 
 *Source: Player Core p. 68*

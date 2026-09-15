@@ -1,6 +1,7 @@
 ---
 title: "Rumored Cryptid"
 aliases: ["Rumored Cryptid"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Dark Archives (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3497"
 citation: "Dark Archives (Remastered) pg. 61"
-socialImage: og-image.png
 ---
 
 # Rumored Cryptid
@@ -18,4 +18,4 @@ socialImage: og-image.png
 
 As stories spread about a rumored cryptid, the weight of collective belief transforms the creature to match the tales. The limits of its physical body no longer confine it.
 
-Rumored Cryptid Template
+[Rumored Cryptid Template](https://2e.aonprd.com/MonsterTemplates.aspx?ID=59)

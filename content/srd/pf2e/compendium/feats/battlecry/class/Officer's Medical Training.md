@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 - **Requirements**: You can prepare at least three tactics.
 
-You received formal training in battlefield triage and wound treatment. You are trained in [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] and can use your Intelligence modifier in place of your Wisdom modifier for Medicine checks. If you are already trained in Medicine, you instead become trained in another skill of your choosing. You gain the [[srd/pf2e/compendium/feats/player-core/skill/battle-medicine|Battle Medicine]] feat.
+You received formal training in battlefield triage and wound treatment. You are trained in [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] and can use your Intelligence modifier in place of your Wisdom modifier for Medicine checks. If you are already trained in Medicine, you instead become trained in another skill of your choosing. You gain the [[srd/pf2e/compendium/feats/player-core/skill/Battle Medicine|Battle Medicine]] feat.
 
 ### Officer's Medical Training leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/class/desperate-resuscitation|Desperate Resuscitation]], [[srd/pf2e/compendium/feats/battlecry/class/shielded-recovery|Shielded Recovery]]
+[[srd/pf2e/compendium/feats/battlecry/class/Desperate Resuscitation|Desperate Resuscitation]], [[srd/pf2e/compendium/feats/battlecry/class/Shielded Recovery|Shielded Recovery]]
 
 *Source: Battlecry! p. 30*

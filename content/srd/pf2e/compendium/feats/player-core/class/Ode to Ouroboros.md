@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Bard`
 
-You learn the [[srd/pf2e/compendium/spells/focus/ode-to-ouroboros|_ode to ouroboros_]] [[srd/pf2e/compendium/rules-elements/traits/player-core/composition|composition]] spell, which enables you to temporarily spare your allies from death.
+You learn the [[srd/pf2e/compendium/spells/focus/Ode to Ouroboros|_ode to ouroboros_]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Composition|composition]] spell, which enables you to temporarily spare your allies from death.
 
 *Source: Player Core p. 105*

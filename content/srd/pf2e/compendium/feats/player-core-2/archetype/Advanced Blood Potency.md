@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/sorcerer|Sorcerer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/basic-blood-potency|Basic Blood Potency]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Sorcerer|Sorcerer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Basic Blood Potency|Basic Blood Potency]]
 
-You gain one sorcerer feat. For the purpose of prerequisites, your sorcerer level is half your character level.
+You gain one [sorcerer feat](https://2e.aonprd.com/Feats.aspx?Traits=148). For the purpose of prerequisites, your sorcerer level is half your character level.
 
 **Special** You can select this feat more than once. Each time you do, you gain another sorcerer feat.
 

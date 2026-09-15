@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/bard|Bard]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/bard-dedication|Bard Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Bard|Bard]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Bard Dedication|Bard Dedication]]
 
-You gain the [[srd/pf2e/compendium/spells/focus/counter-performance|_counter performance_]] composition spell. This is a [[srd/pf2e/books/player-core/chapter-7-spells/focus-spells|focus spell]], granting you a focus pool or expanding that pool. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]] by engaging your muse.
+You gain the [[srd/pf2e/compendium/spells/focus/Counter Performance|_counter performance_]] composition spell. This is a [[srd/pf2e/books/player-core/chapter-7-spells/Focus Spells|focus spell]], granting you a focus pool or expanding that pool. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]] by engaging your muse.
 
 *Source: Player Core p. 216*

@@ -24,13 +24,13 @@ Dexterity or Constitution
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/fist|fang]] or [[srd/pf2e/compendium/equipment/weapons/knife/katar|Katar]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/Fist|fang]] or [[srd/pf2e/compendium/equipment/weapons/knife/Katar|Katar]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Dragon|Dragon]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Dragon|Dragon]]
 
 **Cleric Spells**
 
@@ -39,10 +39,10 @@ Animal Allies
 (summons snakes)
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/slough-skin|Slough Skin]]
+[[srd/pf2e/compendium/spells/rank-2/Slough Skin|Slough Skin]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/cursed-metamorphosis|Cursed Metamorphosis]]
+[[srd/pf2e/compendium/spells/rank-6/Cursed Metamorphosis|Cursed Metamorphosis]]
 (snake only)
 
 *Source: Divine Mysteries p. 318*

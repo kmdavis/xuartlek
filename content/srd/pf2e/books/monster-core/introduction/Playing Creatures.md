@@ -1,6 +1,7 @@
 ---
 title: "Playing Creatures"
 aliases: ["Playing Creatures"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3259"
 citation: "Monster Core pg. 5"
-socialImage: og-image.png
 ---
 
 # Playing Creatures
@@ -22,11 +22,11 @@ While the other players portray their characters, you as the Game Master get to 
 
 Each creature’s rules appear in a stat block, with a structure similar to those of feats, spells, and magic items. Because creatures have more abilities than those game elements, however, their statistics include more entries, many of which have special formatting.
 
-A creature’s traits line sometimes begins with a rarity; if the creature’s rarity is common, no rarity is listed. The next entry is the creature’s size (Tiny, Small, Medium, Large, Huge, or Gargantuan). Any other traits are then listed alphabetically. The traits appearing in this book, including some traits from Pathfinder Player Core, can be found in Creature Traits.
+A creature’s traits line sometimes begins with a rarity; if the creature’s rarity is common, no rarity is listed. The next entry is the creature’s size (Tiny, Small, Medium, Large, Huge, or Gargantuan). Any other traits are then listed alphabetically. The traits appearing in this book, including some traits from [Pathfinder Player Core](https://2e.aonprd.com/Sources.aspx?ID=216), can be found in [Creature Traits](https://2e.aonprd.com/Traits.aspx).
 
 Actions and activities the creature can use have the appropriate icons next to those abilities’ names noting how many actions they require. A creature always has the requisite proficiency ranks or other abilities required to use what’s listed in its stat block. For instance, a spellcasting creature can perform the Cast a Spell activity, and a creature is never untrained with any of its items.
 
-Some abilities are abbreviated in stat blocks, with their full text in the Ability Glossary.
+Some abilities are abbreviated in stat blocks, with their full text in the [Ability Glossary](https://2e.aonprd.com/MonsterAbilities.aspx).
 
 ### Creature Name Level
 
@@ -48,10 +48,10 @@ RaritySizeOther Traits
 ---
 
 **Speed**, followed by any other Speeds or movement abilities.
-**Melee** [one-action] (traits; some weapon traits, such as [[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly]], include their calculations for convenience) The name of the weapon or unarmed attack the creature uses for a melee Strike, followed by the attack modifier and traits in parentheses. If a creature has any abilities or gear that would affect its attack modifier, such as a weapon with a [[srd/pf2e/compendium/equipment/runes/weapon-potency|+1 weapon potency]] rune, those calculations are already included, **Damage** amount and damage type, plus any additional effects (this entry is **Effect** if the Strike doesn’t deal damage).
+**Melee** [one-action] (traits; some weapon traits, such as [[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly]], include their calculations for convenience) The name of the weapon or unarmed attack the creature uses for a melee Strike, followed by the attack modifier and traits in parentheses. If a creature has any abilities or gear that would affect its attack modifier, such as a weapon with a [[srd/pf2e/compendium/equipment/runes/Weapon Potency|+1 weapon potency]] rune, those calculations are already included, **Damage** amount and damage type, plus any additional effects (this entry is **Effect** if the Strike doesn’t deal damage).
 **Ranged** [one-action] As Melee, but also lists range or range increment with traits, **Damage** as Melee.
 **Spells** The entry starts with the magical tradition and whether the spells are prepared or spontaneous, followed by the DC (and spell attack modifier if any spells require spell attack rolls). Spells are listed by rank, followed by cantrips. A spell prepared multiple times lists the number of times in parentheses—for example, “(×2).” Spontaneous spells list the number of spell slots after the spell rank.
-**Innate Spells** These are listed like other spells, but can also include constant, at-will, and focus spells. If the creature has a focus spell as an innate spell, it works like other innate spells with listed uses, rather than costing Focus Points. Spells that can be used an unlimited number of times list “(at will)” after the spell’s name. Constant spells appear at the end, separated by rank. Rules for constant and at-will spells appear in the Ability Glossary.
+**Innate Spells** These are listed like other spells, but can also include constant, at-will, and focus spells. If the creature has a focus spell as an innate spell, it works like other innate spells with listed uses, rather than costing Focus Points. Spells that can be used an unlimited number of times list “(at will)” after the spell’s name. Constant spells appear at the end, separated by rank. Rules for [constant](https://2e.aonprd.com/MonsterAbilities.aspx?ID=56) and [at-will](https://2e.aonprd.com/MonsterAbilities.aspx?ID=52) spells appear in the [Ability Glossary](https://2e.aonprd.com/MonsterAbilities.aspx).
 **Focus Spells** If a creature has focus spells, this entry lists the spells’ rank, the Focus Points in the creature’s focus pool, the DC, and those spells.
 **Rituals** Any rituals the creature can cast appear here.
 **Offensive or Proactive Abilities** Any actions, activities, or abilities that automatically affect the creature’s offense, as well as free actions or reactions that are usually triggered on the creature’s turn, appear here in alphabetical order.

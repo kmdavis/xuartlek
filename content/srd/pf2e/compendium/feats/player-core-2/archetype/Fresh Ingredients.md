@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/herbalist|Herbalist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/herbalist-dedication|Herbalist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Herbalist|Herbalist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Herbalist Dedication|Herbalist Dedication]]
 
-It is amazing the difference fresh herbs can make. When using [[srd/pf2e/compendium/feats/player-core/skill/natural-medicine|Natural Medicine]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]], you gain the +2 circumstance bonus from having fresh ingredients, even if not in wilderness. If you do this in the wilderness, you gain a +4 circumstance bonus instead.
+It is amazing the difference fresh herbs can make. When using [[srd/pf2e/compendium/feats/player-core/skill/Natural Medicine|Natural Medicine]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]], you gain the +2 circumstance bonus from having fresh ingredients, even if not in wilderness. If you do this in the wilderness, you gain a +4 circumstance bonus instead.
 
 *Source: Player Core 2 p. 202*

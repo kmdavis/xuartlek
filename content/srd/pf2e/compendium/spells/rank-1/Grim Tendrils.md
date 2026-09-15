@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Void`  `Negative`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/other-gods/ah-pook|Ah Pook]], [[srd/pf2e/compendium/deities/qlippoth-lords/aonaurious|Aonaurious]], Apep, [[srd/pf2e/compendium/deities/apocalypse-riders/charon|Charon]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/cthulhu|Cthulhu]], [[srd/pf2e/compendium/deities/other-gods/dajermube|Dajermube]], Fumeiyoshi, [[srd/pf2e/compendium/deities/sakhil-tormentors/iggeret|Iggeret]], [[srd/pf2e/compendium/deities/empyreal-lords/neshen|Neshen]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nhimbaloth|Nhimbaloth]], [[srd/pf2e/compendium/deities/orc-gods/nulgreth|Nulgreth]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-haunter-in-the-dark|Nyarlathotep (Haunter in the Dark)]], Orcus, [[srd/pf2e/compendium/deities/demon-lords/treerazer|Treerazer]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/Ah Pook|Ah Pook]], [[srd/pf2e/compendium/deities/qlippoth-lords/Aonaurious|Aonaurious]], Apep, [[srd/pf2e/compendium/deities/apocalypse-riders/Charon|Charon]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Cthulhu|Cthulhu]], [[srd/pf2e/compendium/deities/other-gods/Dajermube|Dajermube]], Fumeiyoshi, [[srd/pf2e/compendium/deities/sakhil-tormentors/Iggeret|Iggeret]], [[srd/pf2e/compendium/deities/empyreal-lords/Neshen|Neshen]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nhimbaloth|Nhimbaloth]], [[srd/pf2e/compendium/deities/orc-gods/Nulgreth|Nulgreth]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (Haunter in the Dark)|Nyarlathotep (Haunter in the Dark)]], Orcus, [[srd/pf2e/compendium/deities/demon-lords/Treerazer|Treerazer]]
 - **Area**: 30-foot line
 - **Defense**: Fortitude
 

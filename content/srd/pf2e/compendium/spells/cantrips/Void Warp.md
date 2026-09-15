@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Manipulate`  `Void`  `Negative`
 
-- **Traditions**: Arcane, Divine, Occult
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Undead|Undead]]
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Bones|Bones]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Undead|Undead]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Bones|Bones]]
 - **Range**: 30 feet
 - **Target**: 1 living creature
 - **Defense**: basic Fortitude

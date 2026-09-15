@@ -30,10 +30,10 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Wildsong|Wildsong]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Wildsong|Wildsong]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +9, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +9, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +11, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +9, [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] +9, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +11, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +9"
 abilityMods: [4, 1, 0, 0, 4, 2]
 abilities_top:
   - name: "Items"
@@ -41,7 +41,7 @@ abilities_top:
 ac: 19
 armorclass:
   - name: "AC"
-    desc: "19; __Fort__: +7; __Ref__: +8; __Will__: +11 +2 circumstance to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/gm-core/dream|dream]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
+    desc: "19; __Fort__: +7; __Ref__: +8; __Will__: +11 +2 circumstance to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/gm-core/Dream|dream]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]"
 hp: 45
 health:
   - name: "HP"
@@ -49,14 +49,14 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claws +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d4+4 slashing"
+    desc: "⬻ claws +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d4+4 slashing"
   - name: "Melee"
-    desc: "⬻ staff +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d8]]) __Damage__ 1d4+4 bludgeoning"
+    desc: "⬻ staff +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Two-Hand|two-hand d8]]) __Damage__ 1d4+4 bludgeoning"
   - name: "Melee"
-    desc: "⬻ sickle +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d4+4 slashing"
+    desc: "⬻ sickle +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip|Trip]]) __Damage__ 1d4+4 slashing"
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 21, attack +11 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/ignition|Ignition]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/read-aura|Read Aura]], [[srd/pf2e/compendium/spells/cantrips/tangle-vine|Tangle Vine]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/darkness|Darkness]], [[srd/pf2e/compendium/spells/rank-2/humanoid-form|Humanoid Form]], [[srd/pf2e/compendium/spells/rank-1/breathe-fire|Breathe Fire]], [[srd/pf2e/compendium/spells/rank-1/spider-sting|Spider Sting]], [[srd/pf2e/compendium/spells/rank-1/ventriloquism|Ventriloquism]] __Druid Order Spells 2 Focus Points,__ DC 21 - __2nd__ [[srd/pf2e/compendium/spells/focus/untamed-form|Untamed Form]], [[srd/pf2e/compendium/spells/focus/untamed-shift|Untamed Shift]]"
+    desc: "DC 21, attack +11 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/Ignition|Ignition]], [[srd/pf2e/compendium/spells/cantrips/Light|Light]], [[srd/pf2e/compendium/spells/cantrips/Read Aura|Read Aura]], [[srd/pf2e/compendium/spells/cantrips/Tangle Vine|Tangle Vine]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Darkness|Darkness]], [[srd/pf2e/compendium/spells/rank-2/Humanoid Form|Humanoid Form]], [[srd/pf2e/compendium/spells/rank-1/Breathe Fire|Breathe Fire]], [[srd/pf2e/compendium/spells/rank-1/Spider Sting|Spider Sting]], [[srd/pf2e/compendium/spells/rank-1/Ventriloquism|Ventriloquism]] __Druid Order Spells 2 Focus Points,__ DC 21 - __2nd__ [[srd/pf2e/compendium/spells/focus/Untamed Form|Untamed Form]], [[srd/pf2e/compendium/spells/focus/Untamed Shift|Untamed Shift]]"
 sourcebook: "_Monster Core_, page 60."
 ```
 

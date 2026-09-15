@@ -17,14 +17,14 @@ socialImage: og-image.png
 
 `Agile`  `Finesse`  `Twin`  `Uncommon`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/achaekek|Achaekek]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/Achaekek|Achaekek]]
 - **Price**: 5 gp
 - **Damage**: 1d6 S
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Advanced
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 The signature weapon of the Red Mantis assassins, this curved blade is serrated like a saw, hence the name.
 

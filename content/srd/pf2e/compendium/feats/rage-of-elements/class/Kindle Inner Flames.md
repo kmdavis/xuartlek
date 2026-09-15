@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Fire`  `Impulse`  `Kineticist`  `Primal`  `Stance`
 
-As a candle can light another, you awaken the latent potential to channel fire in other creatures. You shed faint, glowing embers, as do your allies while they're in your kinetic aura. Anyone shedding these embers gains a +1 status bonus to Reflex saves and [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] checks and can Step as a free action once per round. When an affected creature takes a [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action, its Strikes deal an extra 2 fire damage until the end of its turn.
+As a candle can light another, you awaken the latent potential to channel fire in other creatures. You shed faint, glowing embers, as do your allies while they're in your kinetic aura. Anyone shedding these embers gains a +1 status bonus to Reflex saves and [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] checks and can Step as a free action once per round. When an affected creature takes a [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] action, its Strikes deal an extra 2 fire damage until the end of its turn.
 
 ---
 **Level (12th)** The status bonus to Reflex saves and Acrobatics checks is +2, and the Strikes gain the _flaming_ rune instead of the extra 2 fire damage.

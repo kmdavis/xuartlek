@@ -14,15 +14,15 @@ You know a great deal about ancient philosophies, esoteric lore, obscure mystici
 
 ### Occultism Untrained General Actions
 
-- Recall Knowledge about ancient mysteries; obscure philosophies; creatures of occult significance (like [[srd/pf2e/compendium/rules-elements/traits/player-core/aberration|aberrations]], spirits, and [[srd/pf2e/compendium/rules-elements/traits/player-core/ooze|oozes]]); and esoteric planes like the [[srd/pf2e/compendium/gm/planes#Astral Plane|Astral Plane]], [[srd/pf2e/compendium/gm/planes#Creation's Forge|Creation's Forge]], the [[srd/pf2e/compendium/gm/planes#Ethereal Plane|Ethereal Plane]], [[srd/pf2e/compendium/gm/planes#The Netherworld|the Netherworld]], and [[srd/pf2e/compendium/gm/planes#The Void|the Void]].
+- Recall Knowledge about ancient mysteries; obscure philosophies; creatures of occult significance (like [[srd/pf2e/compendium/rules-elements/traits/player-core/Aberration|aberrations]], spirits, and [[srd/pf2e/compendium/rules-elements/traits/player-core/Ooze|oozes]]); and esoteric planes like the [[srd/pf2e/compendium/gm/Planes#Astral Plane|Astral Plane]], [[srd/pf2e/compendium/gm/Planes#Creation's Forge|Creation's Forge]], the [[srd/pf2e/compendium/gm/Planes#Ethereal Plane|Ethereal Plane]], [[srd/pf2e/compendium/gm/Planes#The Netherworld|the Netherworld]], and [[srd/pf2e/compendium/gm/Planes#The Void|the Void]].
 
 ### Occultism Trained General Actions
 
 - Decipher Writing on occult topics, including complex metaphysical systems, syncretic principles, obscure philosophies, and incoherent ramblings.
 
-- Identify Magic, particularly magic of the occult tradition.
+- Identify Magic, particularly magic of the [occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3) tradition.
 
-- Learn a Spell from the occult tradition.
+- Learn a Spell from the [occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3) tradition.
 
 ### Item Bonuses for Occultism
 
@@ -47,27 +47,27 @@ Other
 No
 Item Bonus
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Lesser)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Lesser)]]
 +1
 1
 Alchemical Elixirs
 Yes
 
-[[srd/pf2e/compendium/equipment/armor/accoutrements-of-bone|Accoutrements Of Bone]]
+[[srd/pf2e/compendium/equipment/armor/Accoutrements of Bone|Accoutrements of Bone]]
 +2
 9
 Specific Magic Armor
 No
 Item bonus to Occultism checks.
 
-[[srd/pf2e/compendium/equipment/held-items/fulu-compendium|Fulu Compendium]]
+[[srd/pf2e/compendium/equipment/held-items/Fulu Compendium|Fulu Compendium]]
 +2
 9
 Held Items
 No
 Item bonus to determine a fulu's function or authenticity.
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -88,7 +88,7 @@ Held Items
 No
 When worn with the black velvet lining facing out, the _stage magician’s cloak_ grants a +2 item bonus to Occultism checks.
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Moderate)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Moderate)]]
 +2
 3
 Alchemical Elixirs
@@ -101,34 +101,34 @@ Other
 No
 Item Bonus
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-[[srd/pf2e/compendium/equipment/apex-items/archivists-gaze|Archivist's Gaze]]
+[[srd/pf2e/compendium/equipment/apex-items/Archivist's Gaze|Archivist's Gaze]]
 +3
 18
 Apex Items
 No
 Item bonus to Occultism.
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Greater)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Greater)]]
 +3
 11
 Alchemical Elixirs
 Yes
 
-[[srd/pf2e/compendium/equipment/apex-items/archivists-gaze|Archivist's Gaze]]
+[[srd/pf2e/compendium/equipment/apex-items/Archivist's Gaze|Archivist's Gaze]]
 +4
 18
 Apex Items
 No
 Item bonus to Occultism when Investigating.
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Major)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Major)]]
 +4
 17
 Alchemical Elixirs

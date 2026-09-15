@@ -24,23 +24,23 @@ Intelligence or Charisma
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/ranseur|Ranseur]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/Ranseur|Ranseur]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Passion|Passion]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Passion|Passion]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Might|Might]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Might|Might]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/charm|Charm]]
+[[srd/pf2e/compendium/spells/rank-1/Charm|Charm]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/humanoid-form|Humanoid Form]]
+[[srd/pf2e/compendium/spells/rank-2/Humanoid Form|Humanoid Form]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/enthrall|Enthrall]]
+[[srd/pf2e/compendium/spells/rank-3/Enthrall|Enthrall]]
 
 *Source: Divine Mysteries p. 300*

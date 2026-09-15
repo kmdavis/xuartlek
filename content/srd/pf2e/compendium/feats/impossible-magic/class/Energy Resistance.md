@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Evolution`  `Summoner`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/energy-heart|Energy Heart]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/Energy Heart|Energy Heart]]
 
-Your eidolon has stronger resistance. Their [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] from Energy Heart and Dual Energy Heart increases to your level.
+Your eidolon has stronger resistance. Their [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistance]] from Energy Heart and Dual Energy Heart increases to your level.
 
 *Source: Impossible Magic p. 82*

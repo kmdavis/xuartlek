@@ -24,21 +24,21 @@ Wisdom or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/war-flail|War Flail]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/War Flail|War Flail]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Fate|Fate]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Fate|Fate]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Truth|Truth]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Truth|Truth]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/share-lore|Share Lore]]
+[[srd/pf2e/compendium/spells/rank-1/Share Lore|Share Lore]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/hypercognition|Hypercognition]]
+[[srd/pf2e/compendium/spells/rank-3/Hypercognition|Hypercognition]]
 
 - **6th**
 Chromatic Image

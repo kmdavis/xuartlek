@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Halfling`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/distracting-shadows|Distracting Shadows]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/Distracting Shadows|Distracting Shadows]]
 
-You excel at going unnoticed, especially among a crowd. You no longer need to have cover or be [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] to Hide or Sneak. If you would have lesser cover from a creature, you gain standard cover instead and can Take Cover; if you would have standard cover from a creature, you gain greater cover instead.
+You excel at going unnoticed, especially among a crowd. You no longer need to have cover or be [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] to Hide or Sneak. If you would have lesser cover from a creature, you gain standard cover instead and can Take Cover; if you would have standard cover from a creature, you gain greater cover instead.
 
 *Source: Player Core p. 61*

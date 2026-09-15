@@ -24,23 +24,23 @@ Intelligence or Charisma
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|Dagger]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|Dagger]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Truth|Truth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Truth|Truth]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Introspection|Introspection]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Introspection|Introspection]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/mindlink|Mindlink]]
+[[srd/pf2e/compendium/spells/rank-1/Mindlink|Mindlink]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/embed-message|Embed Message]]
+[[srd/pf2e/compendium/spells/rank-2/Embed Message|Embed Message]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/enthrall|Enthrall]]
+[[srd/pf2e/compendium/spells/rank-3/Enthrall|Enthrall]]
 
 *Source: Divine Mysteries p. 308*

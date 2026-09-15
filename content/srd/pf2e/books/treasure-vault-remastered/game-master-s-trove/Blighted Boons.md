@@ -1,6 +1,7 @@
 ---
 title: "Blighted Boons"
 aliases: ["Blighted Boons"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Treasure Vault (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1962"
 citation: "Treasure Vault (Remastered) pg. 186"
-socialImage: og-image.png
 ---
 
 # Blighted Boons
@@ -50,4 +50,4 @@ Most blighted boons affect those who die under the boon's effects in special, un
 
 ## Purging
 
-A blighted boon is difficult to get rid of, and the Purging section of each boon entry details the only way to do so. If a [[#Partaking|partaker]] satisfies the Purging conditions, all the blighted boon's effects end. For other effects that suppress or dispel magic, treat a blighted boon as an artifact.
+A blighted boon is difficult to get rid of, and the Purging section of each boon entry details the only way to do so. If a [[#Partaking|partaker]] satisfies the Purging conditions, all the blighted boon's effects end. For other effects that suppress or [dispel magic](https://2e.aonprd.com/Spells.aspx?ID=78), treat a blighted boon as an [artifact](https://2e.aonprd.com/Traits.aspx?ID=253).

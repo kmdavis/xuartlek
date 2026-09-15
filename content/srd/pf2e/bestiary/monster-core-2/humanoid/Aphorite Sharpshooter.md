@@ -30,10 +30,10 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Utopian"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], Utopian"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +10, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +10, [[srd/pf2e/compendium/rules-elements/skills/lore|Engineering Lore]] +12, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +10, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +10, [[srd/pf2e/compendium/rules-elements/skills/Lore|Engineering Lore]] +12, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +10"
 abilityMods: [2, 4, 2, 1, 0, 2]
 abilities_top:
   - name: "Items"
@@ -49,7 +49,7 @@ health:
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ shortsword +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d6+8 piercing"
+    desc: "⬻ shortsword +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d6+8 piercing"
   - name: "Ranged"
     desc: "⬻ crossbow +14 (range increment 60, reload 1) __Damage__ 1d8+6 piercing"
 abilities_bot:
@@ -60,12 +60,12 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per day"
   - name: "Effect"
-    desc: "The sharpshooter becomes [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] for 4 rounds, though they can't use the concealment to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]], as normal for concealment where their position is obvious."
+    desc: "The sharpshooter becomes [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] for 4 rounds, though they can't use the concealment to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]], as normal for concealment where their position is obvious."
   - name: "Hurtful Critique"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The sharpshooter makes witty but disparaging comments about the fighting style of a target within 30 feet, expressing sympathy over every missed blow and providing sarcastic advice on how to improve. The target must succeed at a DC 18 Will save or take a –1 circumstance penalty to attack rolls (–2 on a critical failure) for 1 minute or until it makes a successful Strike against the sharpshooter. A creature that critically succeeds or who Strikes the sharpshooter after failing is immune to that sharpshooter's Hurtful Critique for 1 hour. Aphorite Gear Due to their propensity for tinkering, many aphorite soldiers and mercenaries carry odd or improbable weapons— such as crossbows with precision sights, exquisitely balanced blades, or partitioned quivers with arrows for every occasion. Outsiders often express skepticism about these weapons, but no one can deny their effectiveness."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]]) The sharpshooter makes witty but disparaging comments about the fighting style of a target within 30 feet, expressing sympathy over every missed blow and providing sarcastic advice on how to improve. The target must succeed at a DC 18 Will save or take a –1 circumstance penalty to attack rolls (–2 on a critical failure) for 1 minute or until it makes a successful Strike against the sharpshooter. A creature that critically succeeds or who Strikes the sharpshooter after failing is immune to that sharpshooter's Hurtful Critique for 1 hour. Aphorite Gear Due to their propensity for tinkering, many aphorite soldiers and mercenaries carry odd or improbable weapons— such as crossbows with precision sights, exquisitely balanced blades, or partitioned quivers with arrows for every occasion. Outsiders often express skepticism about these weapons, but no one can deny their effectiveness."
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 18 - __1st__ [[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]]"
+    desc: "DC 18 - __1st__ [[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]]"
 sourcebook: "_Monster Core 2_, page 255."
 ```
 

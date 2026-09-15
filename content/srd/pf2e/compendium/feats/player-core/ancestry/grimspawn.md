@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Lineage`  `Nephilim`
 
-Your lineage traces back to a daemon, one of the manifestations of horrific forms of death that devour souls within their foul home of [[srd/pf2e/compendium/gm/planes#Abaddon|Abaddon]]. As a result, you cling tenaciously to the last shreds of your own life force. You gain the Diehard general feat.
+Your lineage traces back to a daemon, one of the manifestations of horrific forms of death that devour souls within their foul home of [[srd/pf2e/compendium/gm/Planes#Abaddon|Abaddon]]. As a result, you cling tenaciously to the last shreds of your own life force. You gain the Diehard general feat.
 
 *Source: Player Core p. 79*

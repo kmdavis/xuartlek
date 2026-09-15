@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Witch
 
-At 2nd level and every 2 levels thereafter, you gain a witch class feat.
+At 2nd level and every 2 levels thereafter, you gain a [witch class feat](https://2e.aonprd.com/Feats.aspx?Traits=323).
 
 *Source: Player Core p. 178*

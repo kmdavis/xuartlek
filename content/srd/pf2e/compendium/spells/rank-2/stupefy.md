@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Occult
-- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]], [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
-- **Deities**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/cayden-cailean|Cayden Cailean]], Halcamora, [[srd/pf2e/compendium/deities/other-gods/razmir|Razmir]], The Lady of the North Star
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodlines**: [[srd/pf2e/compendium/character/Bloodlines#Aberrant|Aberrant]], [[srd/pf2e/compendium/character/Bloodlines#Hag|Hag]]
+- **Deities**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Cayden Cailean|Cayden Cailean]], Halcamora, [[srd/pf2e/compendium/deities/other-gods/Razmir|Razmir]], The Lady of the North Star
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

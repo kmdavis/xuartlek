@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Witch`
 
-This trait indicates abilities from the [[srd/pf2e/compendium/character/classes/witch|witch]] class.
+This trait indicates abilities from the [[srd/pf2e/compendium/character/classes/Witch|witch]] class.
 
 *Source: Player Core p. 463*

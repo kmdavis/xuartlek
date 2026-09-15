@@ -18,10 +18,10 @@ socialImage: og-image.png
 - **Usage**: affixed to armor or a weapon
 
 This miniature wooden hand has fully articulated fingers with brass joints. The tiny hand twitches infrequently of its own accord, especially if scrutinized for too long.
-**• Armor** You increase your maximum and [[srd/pf2e/compendium/rules-elements/conditions#Encumbered|encumbered]] Bulk limit by 1.
+**• Armor** You increase your maximum and [[srd/pf2e/compendium/rules-elements/Conditions#Encumbered|encumbered]] Bulk limit by 1.
 **• Weapon** You gain a +1 item bonus to skill checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Aid|Aid]] when wielding the weapon. 
 
-**Activate** Cast a Spell **Effect** You cast _[[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|_telekinetic hand_]]._
+**Activate** Cast a Spell **Effect** You cast _[[srd/pf2e/compendium/spells/cantrips/Telekinetic Hand|_telekinetic hand_]]._
 
 ### Helping Hand
 
@@ -33,9 +33,9 @@ This miniature wooden hand has fully articulated fingers with brass joints. The 
 
 ---
 
-When affixed to armor, increase your maximum and [[srd/pf2e/compendium/rules-elements/conditions#Encumbered|encumbered]] Bulk limit by 2. When affixed to a weapon, the item bonus is +2. 
+When affixed to armor, increase your maximum and [[srd/pf2e/compendium/rules-elements/Conditions#Encumbered|encumbered]] Bulk limit by 2. When affixed to a weapon, the item bonus is +2. 
 
-**Activate** Cast a Spell **Frequency** once per day; **Effect** You cast 3rd-rank _[[srd/pf2e/compendium/spells/rank-1/mending|_mending_]]._
+**Activate** Cast a Spell **Frequency** once per day; **Effect** You cast 3rd-rank _[[srd/pf2e/compendium/spells/rank-1/Mending|_mending_]]._
 
 ### Major Helping Hand
 
@@ -43,10 +43,10 @@ When affixed to armor, increase your maximum and [[srd/pf2e/compendium/rules-ele
 
 ---
 
-When affixed to armor, increase your maximum and [[srd/pf2e/compendium/rules-elements/conditions#Encumbered|encumbered]] Bulk limit by 3. When affixed to a weapon, the item bonus is +2. 
+When affixed to armor, increase your maximum and [[srd/pf2e/compendium/rules-elements/Conditions#Encumbered|encumbered]] Bulk limit by 3. When affixed to a weapon, the item bonus is +2. 
 
-**Activate** Cast a Spell **Frequency** once per day; **Effect** You cast _[[srd/pf2e/compendium/spells/rank-5/imaginary-lockbox|_imaginary lockbox._]]_ 
+**Activate** Cast a Spell **Frequency** once per day; **Effect** You cast _[[srd/pf2e/compendium/spells/rank-5/Imaginary Lockbox|_imaginary lockbox._]]_ 
 
-**Activate** Cast a Spell **Frequency** once per day; **Effect** You cast _[[srd/pf2e/compendium/spells/rank-5/telekinetic-haul|_telekinetic haul_]]._
+**Activate** Cast a Spell **Frequency** once per day; **Effect** You cast _[[srd/pf2e/compendium/spells/rank-5/Telekinetic Haul|_telekinetic haul_]]._
 
 *Source: Impossible Magic p. 236*

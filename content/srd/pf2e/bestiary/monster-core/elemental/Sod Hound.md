@@ -30,7 +30,7 @@ perception:
     desc: "+9; crystal sense (imprecise) 60 feet, darkvision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +9"
 abilityMods: [4, -1, 3, -4, 2, -1]
 abilities_top:
   - name: "Crystal Sense"
@@ -42,7 +42,7 @@ armorclass:
 hp: 44
 health:
   - name: "HP"
-    desc: "44; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
+    desc: "44; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]"
 speed: "30 feet, burrow 20 feet; earth glide"
 attacks:
   - name: "Melee"

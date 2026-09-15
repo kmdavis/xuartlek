@@ -17,14 +17,14 @@ socialImage: og-image.png
 
 `Fighter`  `Ranger`  `Rogue`  `Stance`
 
-- **Requirements**: You are wielding a two-handed hammer, spear, or polearm.
+- **Requirements**: You are wielding a two-handed [[srd/pf2e/compendium/rules-elements/Weapon Groups#Hammer|hammer]], [[srd/pf2e/compendium/rules-elements/Weapon Groups#Spear|spear]], or [[srd/pf2e/compendium/rules-elements/Weapon Groups#Polearm|polearm]].
 
-You enter a stance that allows you to leverage the haft of your weapon to brutal effect as an effective and frighteningly efficient weapon in its own right. You treat the haft of your wielded weapon as a simple weapon dealing 1d4 bludgeoning damage. The haft is in the club group and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]] traits. The haft shares any [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Fundamental Runes|fundamental runes]] attached to the main weapon, so long as it would normally qualify for them.
+You enter a stance that allows you to leverage the haft of your weapon to brutal effect as an effective and frighteningly efficient weapon in its own right. You treat the haft of your wielded weapon as a simple weapon dealing 1d4 bludgeoning damage. The haft is in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|club]] group and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]] traits. The haft shares any [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/Armor & Armaments#Fundamental Runes|fundamental runes]] attached to the main weapon, so long as it would normally qualify for them.
 
 While in Haft Striker Stance, you can use feats and abilities that normally require you to be wielding two melee weapons each in a different hand, treating the haft as the second weapon, but you can’t use abilities that require you to be wielding a two-handed weapon.
 
 ### Haft Striker Stance leads to...
 
-[[srd/pf2e/compendium/feats/war-of-immortals/class/haft-beatdown|Haft Beatdown]]
+[[srd/pf2e/compendium/feats/war-of-immortals/class/Haft Beatdown|Haft Beatdown]]
 
 *Source: War of Immortals p. 59*

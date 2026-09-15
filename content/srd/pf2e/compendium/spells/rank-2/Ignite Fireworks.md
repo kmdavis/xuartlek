@@ -17,20 +17,20 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Manipulate`  `Sonic`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 60 feet
-- **Area**: 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
+- **Area**: 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
 - **Defense**: Reflex
 
 A brilliant and clamorous display of magical sparks and colorful fireworks explode around your enemies, dealing 1d8 fire damage and 1d8 sonic damage to creatures within a 10-foot burst. All creatures in the area must attempt a Reflex save.
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round.
+**Success** The creature takes half damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] for 1 round.
 
 **Failure** The creature takes full damage and is dazzled for 3 rounds.
 
-**Critical Failure** The creature takes double damage, takes 1d4 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent fire damage]], and is dazzled for 1 minute.
+**Critical Failure** The creature takes double damage, takes 1d4 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent fire damage]], and is dazzled for 1 minute.
 
 ---
 **Heightened (+2)** The initial fire damage increases by 1d8, the sonic damage increases by 1d8, and the persistent fire damage a creature takes on a critical failure increases by 1d4.

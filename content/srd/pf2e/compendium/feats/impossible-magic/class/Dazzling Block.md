@@ -16,16 +16,16 @@ socialImage: og-image.png
 
 `Light`  `Magus`  `Visual`
 
-- **Prerequisites**: sparkling targe hybrid study
-- **Trigger**: You use [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]].
+- **Prerequisites**: [[srd/pf2e/compendium/character/Hybrid Studies#Sparkling Targe|sparkling targe hybrid study]]
+- **Trigger**: You use [[srd/pf2e/compendium/feats/player-core/general/Shield Block|Shield Block]].
 
-As your shield blocks an assault, you create a flash of brilliant, multicolored light in a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]]. Each creature in the area must attempt a Fortitude save against your spell DC, with the following effects.
+As your shield blocks an assault, you create a flash of brilliant, multicolored light in a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Cone|cone]]. Each creature in the area must attempt a Fortitude save against your spell DC, with the following effects.
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] for 1 round.
 
-**Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round and dazzled for 1 minute. The creature can spend an [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] action rubbing its eyes to end this blinded condition.
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] for 1 round and dazzled for 1 minute. The creature can spend an [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] action rubbing its eyes to end this blinded condition.
 
 **Critical Failure** The creature is blinded for 1 round and dazzled for 1 hour.
 

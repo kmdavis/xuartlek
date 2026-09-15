@@ -16,16 +16,16 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`  `Uncommon`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/aldori-duelist|Aldori Duelist]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Aldori Duelist|Aldori Duelist]]
 - **Prerequisites**: trained in martial weapons
 - **Access**: You are from the Broken Lands region.
 
-Your Aldori duelist training teaches you martial techniques and increases your dedication to the Aldori dueling sword. You become trained in your choice of [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]; if you were already trained in that skill, you become an expert instead. You gain the [[srd/pf2e/compendium/feats/player-core/skill/additional-lore|Additional Lore]] feat for Dueling Lore; if you were already trained in Dueling Lore, you also become trained in a Lore skill of your choice. 
+Your Aldori duelist training teaches you martial techniques and increases your dedication to the Aldori dueling sword. You become trained in your choice of [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]; if you were already trained in that skill, you become an expert instead. You gain the [[srd/pf2e/compendium/feats/player-core/skill/Additional Lore|Additional Lore]] feat for Dueling Lore; if you were already trained in Dueling Lore, you also become trained in a Lore skill of your choice. 
 
-You have familiarity with [[srd/pf2e/compendium/equipment/weapons/sword/aldori-dueling-sword|Aldori dueling swords]], treating them as martial weapons for the purposes of proficiency. You gain access to Aldori dueling swords.
+You have familiarity with [[srd/pf2e/compendium/equipment/weapons/sword/Aldori Dueling Sword|Aldori dueling swords]], treating them as martial weapons for the purposes of proficiency. You gain access to Aldori dueling swords.
 
 ### Aldori Duelist Dedication leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/archetype/aldori-parry|Aldori Parry]], [[srd/pf2e/compendium/feats/battlecry/archetype/aldori-swordlord|Aldori Swordlord]], [[srd/pf2e/compendium/feats/battlecry/archetype/aldoris-retort|Aldori's Retort]], [[srd/pf2e/compendium/feats/battlecry/archetype/devastating-duelist|Devastating Duelist]], [[srd/pf2e/compendium/feats/battlecry/archetype/dueling-acumen|Dueling Acumen]], [[srd/pf2e/compendium/feats/battlecry/archetype/duelists-edge|Duelist's Edge]], [[srd/pf2e/compendium/feats/battlecry/archetype/duelists-form|Duelist's Form]], [[srd/pf2e/compendium/feats/battlecry/archetype/one-on-one|One-on-One]], [[srd/pf2e/compendium/feats/battlecry/archetype/saving-slash|Saving Slash]], [[srd/pf2e/compendium/feats/battlecry/archetype/swordlord-exile|Swordlord Exile]], [[srd/pf2e/compendium/feats/battlecry/archetype/tempo-duelist|Tempo Duelist]], [[srd/pf2e/compendium/feats/battlecry/archetype/unnerving-prowess|Unnerving Prowess]]
+[[srd/pf2e/compendium/feats/battlecry/archetype/Aldori Parry|Aldori Parry]], [[srd/pf2e/compendium/feats/battlecry/archetype/Aldori Swordlord|Aldori Swordlord]], [[srd/pf2e/compendium/feats/battlecry/archetype/Aldori's Retort|Aldori's Retort]], [[srd/pf2e/compendium/feats/battlecry/archetype/Devastating Duelist|Devastating Duelist]], [[srd/pf2e/compendium/feats/battlecry/archetype/Dueling Acumen|Dueling Acumen]], [[srd/pf2e/compendium/feats/battlecry/archetype/Duelist's Edge|Duelist's Edge]], [[srd/pf2e/compendium/feats/battlecry/archetype/Duelist's Form|Duelist's Form]], [[srd/pf2e/compendium/feats/battlecry/archetype/One-on-One|One-on-One]], [[srd/pf2e/compendium/feats/battlecry/archetype/Saving Slash|Saving Slash]], [[srd/pf2e/compendium/feats/battlecry/archetype/Swordlord Exile|Swordlord Exile]], [[srd/pf2e/compendium/feats/battlecry/archetype/Tempo Duelist|Tempo Duelist]], [[srd/pf2e/compendium/feats/battlecry/archetype/Unnerving Prowess|Unnerving Prowess]]
 
 *Source: Battlecry! p. 54*

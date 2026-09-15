@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Barbarian`  `Rage`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/superstition|superstition instinct]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/Superstition|superstition instinct]]
 - **Requirements**: You’ve seen the target [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]].
 
-You use your hatred of magic to lash out at a known spellcaster. Make a melee Strike against the required creature. If you hit and deal damage, the target is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]], or stupefied 2 on a critical hit, until the beginning of your next turn.
+You use your hatred of magic to lash out at a known spellcaster. Make a melee Strike against the required creature. If you hit and deal damage, the target is [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied 1]], or stupefied 2 on a critical hit, until the beginning of your next turn.
 
 *Source: Player Core 2 p. 79*

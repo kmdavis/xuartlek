@@ -18,7 +18,7 @@ socialImage: og-image.png
 `Auditory`  `Divine`  `Healing`  `Nephilim`
 
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/ancestry/battleblooded|Battleblooded]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/ancestry/Battleblooded|Battleblooded]]
 
 You call upon your ascendant blood with a mighty cry that fills you with a revitalizing energy for 1 minute or until you critically fail a Strike, whichever comes first. For the duration, the first time each round you successfully Strike a creature of your level or higher, you regain Hit Points equal to half your level.
 

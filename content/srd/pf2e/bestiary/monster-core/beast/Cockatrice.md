@@ -28,7 +28,7 @@ perception:
     desc: "+8; darkvision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +11"
 abilityMods: [-2, 4, 1, -3, 1, -1]
 ac: 17
 armorclass:
@@ -37,14 +37,14 @@ armorclass:
 hp: 45
 health:
   - name: "HP"
-    desc: "45; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrification]]"
+    desc: "45; __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Petrified|petrification]]"
 speed: "20 feet, fly 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ ; beak +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 1d8–2 piercing plus calcification"
+    desc: "⬻ ; beak +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]]) __Damage__ 1d8–2 piercing plus calcification"
 abilities_bot:
   - name: "Calcification"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) A peck from a cockatrice hardens the flesh of the creature struck. The target must succeed at a DC 20 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] (or slowed 2 on a critical failure). Further failed saves against calcification increase the slowed condition. Once a creature's actions are reduced to 0 by calcification, that creature becomes [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]]. If the creature isn't petrified, the slowed conditions end once 1 minute passes without the creature failing a save against calcification. Every 24 hours after it was petrified, the victim can attempt a DC 20 Fortitude save to recover. On a success, it becomes flesh again, but is slowed 1 for the next 24 hours. On a critical success, the creature recovers and isn't slowed. On a failure, the creature remains petrified but can try again in 24 hours. On a critical failure, the petrification is permanent, and the creature can't attempt any more saves. Cockatrice Treasure Cockatrice lairs sometimes include discarded gear from past victims or smooth, pretty stones disgorged from the creature's craw. Gem workers especially prize precious stones that have been polished to perfection in a cockatrice's crop, and may pay a high price for these so-called “cockatrice rocks.” Soft materials suitable for nesting, such as cloth and leather, rarely survive a cockatrice's attentions, but metal goods are often left in fine working order, since cockatrices seem to have little interest in anything shiny they can't fit in their gullet."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|Primal]]) A peck from a cockatrice hardens the flesh of the creature struck. The target must succeed at a DC 20 Fortitude save or become [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed 1]] (or slowed 2 on a critical failure). Further failed saves against calcification increase the slowed condition. Once a creature's actions are reduced to 0 by calcification, that creature becomes [[srd/pf2e/compendium/rules-elements/Conditions#Petrified|petrified]]. If the creature isn't petrified, the slowed conditions end once 1 minute passes without the creature failing a save against calcification. Every 24 hours after it was petrified, the victim can attempt a DC 20 Fortitude save to recover. On a success, it becomes flesh again, but is slowed 1 for the next 24 hours. On a critical success, the creature recovers and isn't slowed. On a failure, the creature remains petrified but can try again in 24 hours. On a critical failure, the petrification is permanent, and the creature can't attempt any more saves. Cockatrice Treasure Cockatrice lairs sometimes include discarded gear from past victims or smooth, pretty stones disgorged from the creature's craw. Gem workers especially prize precious stones that have been polished to perfection in a cockatrice's crop, and may pay a high price for these so-called “cockatrice rocks.” Soft materials suitable for nesting, such as cloth and leather, rarely survive a cockatrice's attentions, but metal goods are often left in fine working order, since cockatrices seem to have little interest in anything shiny they can't fit in their gullet."
 sourcebook: "_Monster Core_, page 66."
 ```
 

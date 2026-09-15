@@ -1,6 +1,7 @@
 ---
 title: "Primeval Cryptid"
 aliases: ["Primeval Cryptid"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Dark Archives (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3496"
 citation: "Dark Archives (Remastered) pg. 60"
-socialImage: og-image.png
 ---
 
 # Primeval Cryptid
@@ -18,4 +18,4 @@ socialImage: og-image.png
 
 Scholars dream of discovering primeval creatures: remnants of an older age, long thought extinct. The immense bodies and vicious instincts that staved off death in the brutal world before still thrive in their intimidating forms. Primeval cryptids are resilient survivors of their kind or particularly clever individuals that find ways to extend their already prodigious lifespans.
 
-Primeval Cryptid Template
+[Primeval Cryptid Template](https://2e.aonprd.com/MonsterTemplates.aspx?ID=58)

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/inventor|Inventor]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/inventor-dedication|Inventor Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Inventor|Inventor]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Inventor Dedication|Inventor Dedication]]
 
-Your [[srd/pf2e/compendium/character/innovations|innovation]] can explode on command. You gain the [[srd/pf2e/compendium/rules-elements/actions/guns-gears-remastered#Explode|Explode]] action.
+Your [[srd/pf2e/compendium/character/Innovations|innovation]] can explode on command. You gain the [[srd/pf2e/compendium/rules-elements/actions/guns-gears-remastered#Explode|Explode]] action.
 
 *Source: Guns & Gears (Remastered) p. 49*

@@ -24,23 +24,23 @@ Strength or Constitution
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/trident|Trident]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/Trident|Trident]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Water|Water]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Water|Water]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Abomination|Abomination]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Abomination|Abomination]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/hydraulic-push|Hydraulic Push]]
+[[srd/pf2e/compendium/spells/rank-1/Hydraulic Push|Hydraulic Push]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/feet-to-fins|Feet to Fins]]
+[[srd/pf2e/compendium/spells/rank-3/Feet to Fins|Feet to Fins]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/chain-lightning|Chain Lightning]]
+[[srd/pf2e/compendium/spells/rank-6/Chain Lightning|Chain Lightning]]
 
 *Source: Divine Mysteries p. 304*

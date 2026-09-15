@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/palatine-detective|Palatine Detective]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Palatine Detective|Palatine Detective]]
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/palatine-detective-dedication|Palatine Detective Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Palatine Detective Dedication|Palatine Detective Dedication]]
 
-Thanks to your diligence in the study of divine and occult mysteries, you can focus to temporarily attain a perception beyond the ordinary. A lightless flame appears in the center of your forehead. For 1 minute, you gain the benefits of a [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]] spell. In addition, when you attempt a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] during this time against a creature about which you could [[srd/pf2e/books/gm-core/chapter-1-running-the-game/difficulty-classes#Recall Knowledge|Recall Knowledge]] using [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]], the attack ignores circumstance penalties to the attack roll and any flat check required due to the target being [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] or [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]].
+Thanks to your diligence in the study of divine and occult mysteries, you can focus to temporarily attain a perception beyond the ordinary. A lightless flame appears in the center of your forehead. For 1 minute, you gain the benefits of a [[srd/pf2e/compendium/spells/rank-2/See the Unseen|_see the unseen_]] spell. In addition, when you attempt a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] during this time against a creature about which you could [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Difficulty Classes#Recall Knowledge|Recall Knowledge]] using [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] or [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]], the attack ignores circumstance penalties to the attack roll and any flat check required due to the target being [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]].
 
 *Source: Divine Mysteries p. 289*

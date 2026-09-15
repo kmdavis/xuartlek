@@ -1,6 +1,7 @@
 ---
 title: "Hexploration"
 aliases: ["Hexploration"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3103"
 citation: "GM Core pg. 206"
-socialImage: og-image.png
 ---
 
 # Hexploration
@@ -104,8 +104,8 @@ Group activities require the entire party to work together in order to be effect
 
 ### Travel
 
-Move
-**Source** Gamemastery Guide pg. 172
+[Move](https://2e.aonprd.com/Traits.aspx?ID=114)
+**Source** [Gamemastery Guide pg. 172](https://2e.aonprd.com/Sources.aspx?ID=22)
 
 ---
 
@@ -115,8 +115,8 @@ The Travel activity assumes you are walking overland. If you are flying or trave
 
 ### Reconnoiter
 
-Concentrate
-**Source** Gamemastery Guide pg. 173
+[Concentrate](https://2e.aonprd.com/Traits.aspx?ID=32)
+**Source** [Gamemastery Guide pg. 173](https://2e.aonprd.com/Sources.aspx?ID=22)
 
 ---
 
@@ -130,7 +130,7 @@ Not all hexploration activities need to be accomplished as a group. In place of 
 
 ### Fortify Camp
 
-**Source** Gamemastery Guide pg. 173
+**Source** [Gamemastery Guide pg. 173](https://2e.aonprd.com/Sources.aspx?ID=22)
 
 ---
 
@@ -138,8 +138,8 @@ You can spend time fortifying your camp for defense with a successful Crafting c
 
 ### Map the Area
 
-Concentrate
-**Source** Gamemastery Guide pg. 173
+[Concentrate](https://2e.aonprd.com/Traits.aspx?ID=32)
+**Source** [Gamemastery Guide pg. 173](https://2e.aonprd.com/Sources.aspx?ID=22)
 
 ---
 

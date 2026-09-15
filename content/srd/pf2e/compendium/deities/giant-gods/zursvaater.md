@@ -24,24 +24,24 @@ Strength or Intelligence
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/greatsword|Greatsword]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Greatsword|Greatsword]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/domains#Tyranny|Tyranny]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Fire|Fire]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/Domains#Tyranny|Tyranny]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/breathe-fire|Breathe Fire]]
+[[srd/pf2e/compendium/spells/rank-1/Breathe Fire|Breathe Fire]]
 
 - **3rd**
 Blazing Dive
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/elemental-form|Elemental Form]]
+[[srd/pf2e/compendium/spells/rank-5/Elemental Form|Elemental Form]]
 (fire elemental only)
 
 *Source: Divine Mysteries p. 312*

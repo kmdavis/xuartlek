@@ -17,10 +17,10 @@ socialImage: og-image.png
 
 `Aftermath`  `Fire`  `Primal`  `Rare`
 
-- **Prerequisites**: You've been brought to 0 Hit Points by an enemy that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] trait or an enemy's ability that has the fire trait.
+- **Prerequisites**: You've been brought to 0 Hit Points by an enemy that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] trait or an enemy's ability that has the fire trait.
 
 A sweltering heat and sparks of flame that take the form of tiny copies of you surround your body. You're hot to the touch, gaining resistance 5 to cold and fire. Whenever an adjacent creature Strikes you with a melee attack or touches you, it takes 1d6 persistent fire damage. You gain the Thermal Eruption action.
 
- **Thermal Eruption** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) **Frequency** once per day; **Effect** You concentrate your thermal energy and explode it outward. All creatures in a 20-foot emanation take 14d6 fire damage with a basic Reflex save. Afterward, you lose all effects of the Dormant Eruption feat until your next daily preparations.
+ **Thermal Eruption** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]]) **Frequency** once per day; **Effect** You concentrate your thermal energy and explode it outward. All creatures in a 20-foot emanation take 14d6 fire damage with a basic Reflex save. Afterward, you lose all effects of the Dormant Eruption feat until your next daily preparations.
 
 *Source: Dark Archives (Remastered) p. 57*

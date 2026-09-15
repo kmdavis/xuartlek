@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 - **Usage**: implanted
 
-Membranes that stretch between your arms and torso help you convert a fall into a glide. Treat falls as 25 feet shorter. Even if you take [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Falling|fall damage]], you can land on your feet by succeeding at a DC 15 [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] check.
+Membranes that stretch between your arms and torso help you convert a fall into a glide. Treat falls as 25 feet shorter. Even if you take [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Falling|fall damage]], you can land on your feet by succeeding at a DC 15 [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] check.
 
 ### Gliding Membranes (Lesser)
 

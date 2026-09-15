@@ -38,7 +38,7 @@ socialImage: og-image.png
 
 **HP** 80
 
-**Immunities** object immunities 
+**Immunities** object immunities
 
 ---
 
@@ -48,7 +48,7 @@ socialImage: og-image.png
 
 Orcs of Belkzen pioneered the invention of this siege engine, which merges the concepts of battering ram and catapult. A large stone block, one end honed to be like the engine’s namesake wolf fang, is attached to a wooden arm that can be winched back. When the lever is pulled, the arm swings the block forward with great force, the stone piercing almost any object directly ahead of it. 
 **Aim** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") rotate 45° 
-**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 2 times, requires a successful DC 20 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check 
-**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], manipulate, [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) The wolf fang makes a melee Strike at a +10 bonus against a structure or an unattended, stationary object directly in front of it. This Strike deals 5d8 piercing damage, ignoring [[srd/pf2e/books/player-core/chapter-6-equipment/shields#Hardness|Hardness]] 4 or lower.
+**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]]) 2 times, requires a successful DC 20 [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check 
+**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]], manipulate, [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) The wolf fang makes a melee Strike at a +10 bonus against a structure or an unattended, stationary object directly in front of it. This Strike deals 5d8 piercing damage, ignoring [[srd/pf2e/books/player-core/chapter-6-equipment/Shields#Hardness|Hardness]] 4 or lower.
 
 *Source: Battlecry! p. 107*

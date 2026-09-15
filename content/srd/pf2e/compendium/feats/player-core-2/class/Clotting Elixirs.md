@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Alchemist`
 
-Your restorative concoctions have a clotting effect on the drinker's blood. When a living creature drinks an [[srd/pf2e/compendium/rules-elements/traits/player-core-2/infused|infused]] [[srd/pf2e/compendium/rules-elements/traits/player-core/elixir|elixir]] with the [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] trait that you have created, it can immediately attempt a DC 10 flat check to remove any persistent bleed damage.
+Your restorative concoctions have a clotting effect on the drinker's blood. When a living creature drinks an [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Infused|infused]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Elixir|elixir]] with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Healing|healing]] trait that you have created, it can immediately attempt a DC 10 flat check to remove any persistent bleed damage.
 
 *Source: Player Core 2 p. 63*

@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/necromancer|Necromancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/necromancer-dedication|Necromancer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Necromancer|Necromancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Necromancer Dedication|Necromancer Dedication]]
 
 You gain the basic spellcasting benefits. Each time you gain a spell slot of a new rank from the necromancer archetype, add two common spells of that rank or lower to your dirge.
 
 ### Basic Necromancer Spellcasting leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/archetype/expert-necromancer-spellcasting|Expert Necromancer Spellcasting]]
+[[srd/pf2e/compendium/feats/impossible-magic/archetype/Expert Necromancer Spellcasting|Expert Necromancer Spellcasting]]
 
 *Source: Impossible Magic p. 89*

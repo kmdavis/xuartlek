@@ -19,11 +19,11 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Healing`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Toil|Toil]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Toil|Toil]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: sustained up to 1 minute
 
-You suppress your choice of one of the following conditions that’s affecting the target: [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/conditions#Encumbered|encumbered]], [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]], or [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]]. The duration of the condition doesn’t elapse while it is suppressed, so if you don’t remove the effect that caused the condition, the condition returns after the spell’s duration expires.
+You suppress your choice of one of the following conditions that’s affecting the target: [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/Conditions#Encumbered|encumbered]], [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]], or [[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|fatigued]]. The duration of the condition doesn’t elapse while it is suppressed, so if you don’t remove the effect that caused the condition, the condition returns after the spell’s duration expires.
 
 *Source: Divine Mysteries p. 271*

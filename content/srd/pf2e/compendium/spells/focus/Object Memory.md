@@ -18,11 +18,11 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 - **Target**: 1 weapon or tool
 - **Duration**: 1 minute
 
-By touching an object, you draw forth the experience of those who created and used it. If you touch a weapon, your proficiency rank with that weapon temporarily increases to trained (if it is not already trained or better). If you touch a [[srd/pf2e/compendium/equipment/adventuring-gear/tool|tool]], your proficiency rank with the next skill check you attempt with that tool (such as a [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check with a blacksmith’s hammer) within the spell’s duration temporarily increases to trained (if it is not already trained or better). This spell has no benefit for activities that take longer than a minute to complete.
+By touching an object, you draw forth the experience of those who created and used it. If you touch a weapon, your proficiency rank with that weapon temporarily increases to trained (if it is not already trained or better). If you touch a [[srd/pf2e/compendium/equipment/adventuring-gear/Tool|tool]], your proficiency rank with the next skill check you attempt with that tool (such as a [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] check with a blacksmith’s hammer) within the spell’s duration temporarily increases to trained (if it is not already trained or better). This spell has no benefit for activities that take longer than a minute to complete.
 
 ---
 **Heightened (6th)** Your proficiency rank increases to expert instead of trained.

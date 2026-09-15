@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Inventor`
 
-- **Prerequisites**: construct companion
+- **Prerequisites**: [[srd/pf2e/books/guns-gears-remastered/gears-characters/Construct Companions|construct companion]]
 
-You've upgraded your construct companion's power and decision-making ability. It becomes an [[srd/pf2e/books/guns-gears-remastered/gears-characters/construct-companions#Advanced Construct Companions|advanced construct companion]]. During an encounter, even if you don't use the [[srd/pf2e/books/guns-gears-remastered/gears-characters/construct-companions|Command a Construct]] action, your construct companion can still use 1 action on your turn that round to Stride or Strike.
+You've upgraded your construct companion's power and decision-making ability. It becomes an [[srd/pf2e/books/guns-gears-remastered/gears-characters/Construct Companions#Advanced Construct Companions|advanced construct companion]]. During an encounter, even if you don't use the [[srd/pf2e/books/guns-gears-remastered/gears-characters/Construct Companions|Command a Construct]] action, your construct companion can still use 1 action on your turn that round to Stride or Strike.
 
 ### Advanced Construct Companion leads to...
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/class/incredible-construct-companion|Incredible Construct Companion]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/class/Incredible Construct Companion|Incredible Construct Companion]]
 
 *Source: Guns & Gears (Remastered) p. 26*

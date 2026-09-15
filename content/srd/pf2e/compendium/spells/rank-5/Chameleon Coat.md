@@ -16,13 +16,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Illusion`  `Manipulate`
 
-- **Tradition**: Primal
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Deity**: Drokalion
 - **Range**: 15 feet
 - **Target**: up to 8 creatures
 - **Duration**: 10 minutes
 
-You shift the colors of the targets' outermost layer of clothing and gear to be closer to their environment when they remain still. Creatures affected by the spell gain a +3 status bonus to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]]. The changed color granted by the spell always shifts to match the environment, even if there are drastic changes. If any piece of gear or clothing affected by the spell is removed from a creature, the spell ends for that creature.
+You shift the colors of the targets' outermost layer of clothing and gear to be closer to their environment when they remain still. Creatures affected by the spell gain a +3 status bonus to [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]]. The changed color granted by the spell always shifts to match the environment, even if there are drastic changes. If any piece of gear or clothing affected by the spell is removed from a creature, the spell ends for that creature.
 
 ---
 **Heightened (6th)** If a creature affected by this spell rolls a critical failure on its Stealth check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]] within 30 feet of a creature that would spot it, it instead only fails its check, as the spell mildly hypnotizes the spotter.

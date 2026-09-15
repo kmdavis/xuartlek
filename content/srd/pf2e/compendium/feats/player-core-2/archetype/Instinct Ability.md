@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/barbarian|Barbarian]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/barbarian-dedication|Barbarian Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Barbarian|Barbarian]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Barbarian Dedication|Barbarian Dedication]]
 
-Your rage stokes the spark of your barbarian instinct into a roaring flame. You gain the instinct ability for the instinct you chose for [[srd/pf2e/compendium/feats/player-core-2/archetype/instinct-ability|Barbarian Dedication]].
+Your rage stokes the spark of your barbarian instinct into a roaring flame. You gain the instinct ability for the instinct you chose for [[srd/pf2e/compendium/feats/player-core-2/archetype/Instinct Ability|Barbarian Dedication]].
 
 *Source: Player Core 2 p. 176*

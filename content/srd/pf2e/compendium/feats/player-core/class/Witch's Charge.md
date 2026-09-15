@@ -21,6 +21,6 @@ You forge a magical link with another creature, granting you awareness of that c
 
 ### Witch's Charge leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/witchs-communion|Witch's Communion]]
+[[srd/pf2e/compendium/feats/player-core/class/Witch's Communion|Witch's Communion]]
 
 *Source: Player Core p. 188*

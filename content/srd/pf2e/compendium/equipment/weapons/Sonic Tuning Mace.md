@@ -17,11 +17,11 @@ socialImage: og-image.png
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/club/light-mace|Light Mace]]
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/club/Light Mace|Light Mace]]
 
-This _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/runes/thundering|thundering]] [[srd/pf2e/compendium/equipment/weapons/club/light-mace|light mace]]_ has twin tips, perfectly spaced to resonate when striking foes. 
+This _[[srd/pf2e/compendium/equipment/weapons/Magic Weapon|+1 striking]] [[srd/pf2e/compendium/equipment/runes/Thundering|thundering]] [[srd/pf2e/compendium/equipment/weapons/club/Light Mace|light mace]]_ has twin tips, perfectly spaced to resonate when striking foes. 
 
-**Activate—Cacophony** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You tap the _sonic tuning mace_ against a nearby surface to cast a 4th-rank _noise blast_ with a DC of 25.
+**Activate—Cacophony** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]]) **Frequency** once per day; **Effect** You tap the _sonic tuning mace_ against a nearby surface to cast a 4th-rank _noise blast_ with a DC of 25.
 
 ### Sonic Tuning Mace
 

@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/veil-dancer|Veil Dancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/veil-dancer-dedication|Veil Dancer Dedication]]
-- **Requirements**: Your previous action was a successful Strike against an [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creature.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Veil Dancer|Veil Dancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Veil Dancer Dedication|Veil Dancer Dedication]]
+- **Requirements**: Your previous action was a successful Strike against an [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] creature.
 
-Drawing upon your command of intangible spaces, you create an echo of your weapon to resonate through its victim. The creature takes 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent force damage]] per damage dice of your weapon.
+Drawing upon your command of intangible spaces, you create an echo of your weapon to resonate through its victim. The creature takes 1d6 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent force damage]] per damage dice of your weapon.
 
 *Source: Impossible Magic p. 104*

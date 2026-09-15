@@ -18,7 +18,7 @@ In hushed tones, superstitious people tell their children stories of wayangs— 
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core-2/humanoid/wayang-whisperblade|Wayang Whisperblade]] (Creature 1)
+[[srd/pf2e/bestiary/monster-core-2/humanoid/Wayang Whisperblade|Wayang Whisperblade]] (Creature 1)
 
 ### Wayang Whisper-Song
 

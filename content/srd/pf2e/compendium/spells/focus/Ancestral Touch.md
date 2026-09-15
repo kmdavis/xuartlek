@@ -20,7 +20,7 @@ socialImage: og-image.png
 
 `Emotion`  `Fear`  `Focus`  `Manipulate`  `Mental`  `Oracle`  `Uncommon`
 
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Ancestors|Ancestors]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Ancestors|Ancestors]]
 - **Range**: touch
 - **Target**: 1 living creature
 - **Defense**: Will
@@ -31,7 +31,7 @@ You touch a creature and force them to see and feel the ancestors surrounding yo
 
 **Success** The target takes half damage.
 
-**Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]] and takes full damage.
+**Failure** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened 1]] and takes full damage.
 
 **Critical Failure** The target is frightened 2 and takes double damage.
 

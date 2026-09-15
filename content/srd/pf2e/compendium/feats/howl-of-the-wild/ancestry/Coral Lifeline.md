@@ -17,7 +17,7 @@ socialImage: og-image.png
 `Athamaru`  `Healing`  `Locathah`
 
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/coral-symbiotes|Coral Symbiotes]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Coral Symbiotes|Coral Symbiotes]]
 
 Your coral symbiotes have grown into your bloodstream and are now curled around your heart. When you would die, the coral in your body releases a burst of healing energy. This prevents you from dying and restores 4d8 Hit Points. Once this ability is used, the coral fades to a dull gray and gives you no benefits until you complete your next daily preparations.
 

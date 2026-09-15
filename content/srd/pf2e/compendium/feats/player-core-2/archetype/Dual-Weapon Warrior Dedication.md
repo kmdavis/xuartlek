@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/dual-weapon-warrior|Dual-Weapon Warrior]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Dual-Weapon Warrior|Dual-Weapon Warrior]]
 
-You're exceptional in your use of two weapons. You gain the [[srd/pf2e/compendium/feats/player-core/class/double-slice|Double Slice]] fighter feat.
+You're exceptional in your use of two weapons. You gain the [[srd/pf2e/compendium/feats/player-core/class/Double Slice|Double Slice]] fighter feat.
 
 ### Dual-Weapon Warrior Dedication leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/dual-onslaught|Dual Onslaught]], [[srd/pf2e/compendium/feats/player-core-2/archetype/dual-thrower|Dual Thrower]], [[srd/pf2e/compendium/feats/player-core-2/archetype/dual-weapon-blitz|Dual-Weapon Blitz]], [[srd/pf2e/compendium/feats/player-core-2/archetype/dual-weapon-reload|Dual-Weapon Reload]], [[srd/pf2e/compendium/feats/player-core-2/archetype/flensing-slice|Flensing Slice]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Dual Onslaught|Dual Onslaught]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Dual Thrower|Dual Thrower]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Dual-Weapon Blitz|Dual-Weapon Blitz]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Dual-Weapon Reload|Dual-Weapon Reload]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Flensing Slice|Flensing Slice]]
 
 *Source: Player Core 2 p. 196*

@@ -26,10 +26,10 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; darkvision, scent (imprecise) 30 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; (can't speak any language)"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]; (can't speak any language)"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +10"
 abilityMods: [3, 4, 2, 0, 2, 3]
 ac: 18
 armorclass:
@@ -47,7 +47,7 @@ attacks:
   - name: "Melee"
     desc: "⬻ hoof +10 __Damage__ 1d8+5 bludgeoning"
   - name: "Melee"
-    desc: "⬻ wing +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+5 bludgeoning"
+    desc: "⬻ wing +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d6+5 bludgeoning"
 abilities_bot:
   - name: "Assisted Mount"
     desc: "⬻"

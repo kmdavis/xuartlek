@@ -1,6 +1,7 @@
 ---
 title: "Golarion and the Inner Sea"
 aliases: ["Golarion and the Inner Sea"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2066"
 citation: "Player Core pg. 31"
-socialImage: og-image.png
 ---
 
 # Golarion and the Inner Sea

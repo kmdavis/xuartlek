@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Automaton`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/heritages#Mage Automaton|Mage Automaton]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Mage Automaton|Mage Automaton]] heritage
 
 Your core allows you to draw more power from it. Select one 1st-rank arcane spell and one 2nd-rank or lower arcane spell, to which you have access. You can cast your chosen spells as arcane innate spells each once per day.
 

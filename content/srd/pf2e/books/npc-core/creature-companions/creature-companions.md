@@ -1,6 +1,7 @@
 ---
 title: "Creature Companions"
 aliases: ["Creature Companions"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3370"
 citation: "NPC Core pg. 216"
-socialImage: og-image.png
 ---
 
 # Creature Companions
@@ -22,6 +22,6 @@ When creating an NPC with a companion creature, it's important to decide what ge
 
 ## Contents
 
-- [[srd/pf2e/books/npc-core/creature-companions/pets-and-familiars|Pets and Familiars]]
-- [[srd/pf2e/books/npc-core/creature-companions/animal-companions|Animal Companions]]
-- [[srd/pf2e/books/npc-core/creature-companions/eidolons|Eidolons]]
+- [[srd/pf2e/books/npc-core/creature-companions/Pets and Familiars|Pets and Familiars]]
+- [[srd/pf2e/books/npc-core/creature-companions/Animal Companions|Animal Companions]]
+- [[srd/pf2e/books/npc-core/creature-companions/Eidolons|Eidolons]]

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Duskwalker`
 
-You are attuned to the minute sounds and sensations of restless spirits. Even if you aren't Searching, you can attempt a check to find [[srd/pf2e/compendium/rules-elements/traits/gm-core/haunt|haunts]] that normally require you to be Searching. You still need to meet any other requirements to find the haunt. You gain a +1 circumstance bonus to checks to disable haunts.
+You are attuned to the minute sounds and sensations of restless spirits. Even if you aren't Searching, you can attempt a check to find [[srd/pf2e/compendium/rules-elements/traits/gm-core/Haunt|haunts]] that normally require you to be Searching. You still need to meet any other requirements to find the haunt. You gain a +1 circumstance bonus to checks to disable haunts.
 
 *Source: Player Core 2 p. 49*

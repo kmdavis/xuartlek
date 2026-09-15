@@ -24,23 +24,23 @@ Strength or Charisma
 
 **Divine Sanctification** can choose holy or unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/trident|Trident]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/Trident|Trident]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Wealth|Wealth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Wealth|Wealth]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]]
+[[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]]
+[[srd/pf2e/compendium/spells/rank-2/Invisibility|Invisibility]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/weapon-storm|Weapon Storm]]
+[[srd/pf2e/compendium/spells/rank-4/Weapon Storm|Weapon Storm]]
 
 *Source: Divine Mysteries p. 322*

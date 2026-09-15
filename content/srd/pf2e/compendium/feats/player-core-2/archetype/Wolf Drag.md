@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Monk`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]] (Level 8), [[srd/pf2e/compendium/character/archetypes/wild-mimic|Wild Mimic]] (Level 8)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/wolf-stance|Wolf Stance]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Martial Artist|Martial Artist]] (Level 8), [[srd/pf2e/compendium/character/archetypes/Wild Mimic|Wild Mimic]] (Level 8)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Wolf Stance|Wolf Stance]]
 - **Requirements**: You are in Wolf Stance.
 
-You rip your enemy off their feet. Make a wolf jaw Strike. Your wolf jaw gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d12]] trait for this Strike, and if the attack succeeds, you knock the target [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
+You rip your enemy off their feet. Make a wolf jaw Strike. Your wolf jaw gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Fatal|fatal d12]] trait for this Strike, and if the attack succeeds, you knock the target [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]].
 
 *Source: Player Core 2 p. 123*

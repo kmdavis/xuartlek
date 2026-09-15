@@ -20,7 +20,7 @@ socialImage: og-image.png
 - **Price**: 6 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 Adder venom is a simple but effective way to enhance a weapon. 
 

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/kineticist|Kineticist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/rage-of-elements/archetype/kineticist-dedication|Kineticist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Kineticist|Kineticist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/rage-of-elements/archetype/Kineticist Dedication|Kineticist Dedication]]
 
 You become an expert in kineticist class DC and impulse attack rolls
 

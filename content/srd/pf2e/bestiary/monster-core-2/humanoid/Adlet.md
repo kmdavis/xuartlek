@@ -28,14 +28,14 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; low-light vision, scent (imprecise) 30 feet"
-languages: "Adlet, [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "Adlet, [[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +20, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +21, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +20, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +20, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +21, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +20, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +18"
 abilityMods: [5, 6, 4, 0, 4, 0]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/spear/spear|spear]]_ (2)"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/Magic Weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/spear/Spear|spear]]_ (2)"
 ac: 29
 armorclass:
   - name: "AC"
@@ -43,10 +43,10 @@ armorclass:
 hp: 180
 health:
   - name: "HP"
-    desc: "180; __Immunities__ cold; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 10"
+    desc: "180; __Immunities__ cold; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] 10"
 abilities_mid:
   - name: "Wolfstorm"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) 60 feet. A clammy, frigid mist billows forth ahead of the adlet. Creatures within the mist become [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], and creatures outside the mist become concealed to creatures within it. An adlet can see through the aura without penalty."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]]) 60 feet. A clammy, frigid mist billows forth ahead of the adlet. Creatures within the mist become [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]], and creatures outside the mist become concealed to creatures within it. An adlet can see through the aura without penalty."
   - name: "Avenging Bite"
     desc: "⬲"
   - name: "Trigger"
@@ -56,18 +56,18 @@ abilities_mid:
 speed: "40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _spear_ +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 2d6+9 piercing plus 1d6 cold"
+    desc: "⬻ _spear_ +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]]) __Damage__ 2d6+9 piercing plus 1d6 cold"
   - name: "Melee"
     desc: "⬻ jaws +19 __Damage__ 2d8+9 piercing plus 1d6 cold"
   - name: "Ranged"
-    desc: "⬻ spear +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 2d6+9 piercing plus 1d6 cold"
+    desc: "⬻ spear +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 20 feet]]) __Damage__ 2d6+9 piercing plus 1d6 cold"
 abilities_bot:
   - name: "Frozen Weapons"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) Weapons wielded by an adlet gain the effect of the [[srd/pf2e/compendium/equipment/runes/frost|_frost_]] property rune."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|Primal]]) Weapons wielded by an adlet gain the effect of the [[srd/pf2e/compendium/equipment/runes/Frost|_frost_]] property rune."
   - name: "Pack Attack"
     desc: "An adlet's Strikes deal an additional 2d6 damage to creatures that are within the reach of at least two of the adlet's allies."
   - name: "Wolfrime"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/cold|Cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) An adlet's mist turns biting cold and coalesces into a thick rime of frost that deals 6d6 cold damage to creatures inside the adlet's wolfstorm aura (DC 26 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude), and the aura is deactivated until the start of the adlet's next turn. Lost Cousins Legends about adlets’ origins suggest they might have fox-like kin. Some believe these kin are kitsune, while others point to the more powerful vulpinals as more likely progenitors."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|Cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]]) An adlet's mist turns biting cold and coalesces into a thick rime of frost that deals 6d6 cold damage to creatures inside the adlet's wolfstorm aura (DC 26 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Fortitude), and the aura is deactivated until the start of the adlet's next turn. Lost Cousins Legends about adlets’ origins suggest they might have fox-like kin. Some believe these kin are kitsune, while others point to the more powerful vulpinals as more likely progenitors."
 sourcebook: "_Monster Core 2_, page 9."
 ```
 

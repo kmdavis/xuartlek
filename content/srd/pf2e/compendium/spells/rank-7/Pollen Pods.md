@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 100 feet
 - **Area**: four unoccupied 5-foot squares, each of which is at least 20 feet apart
 - **Duration**: 12 hours
@@ -26,7 +26,7 @@ You cultivate four wooden bulbs, each filled with toxic pollen and sensitive to 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and becomes [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round.
+**Success** The creature takes half damage and becomes [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] for 1 round.
 
 **Failure** The creature takes full damage, becomes dazzled for 1 round, and becomes stupefied 1 for 1 minute.
 

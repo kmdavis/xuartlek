@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/summoner|Summoner]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/summoner-dedication|Summoner Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Summoner|Summoner]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Summoner Dedication|Summoner Dedication]]
 
 You gain a 1st- or 2nd-level summoner feat of your choice.
 
 ### Basic Synergy leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/archetype/advanced-synergy|Advanced Synergy]]
+[[srd/pf2e/compendium/feats/impossible-magic/archetype/Advanced Synergy|Advanced Synergy]]
 
 *Source: Impossible Magic p. 91*

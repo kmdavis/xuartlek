@@ -24,23 +24,23 @@ Constitution or Intelligence
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/staff|Staff]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Staff|Staff]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/domains#Wealth|Wealth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/Domains#Wealth|Wealth]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Duty|Duty]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Duty|Duty]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/illusory-object|Illusory Object]]
+[[srd/pf2e/compendium/spells/rank-1/Illusory Object|Illusory Object]]
 
 - **3rd**
 Bottomless Stomach
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/liminal-doorway|Liminal Doorway]]
+[[srd/pf2e/compendium/spells/rank-4/Liminal Doorway|Liminal Doorway]]
 
 *Source: Divine Mysteries p. 314*

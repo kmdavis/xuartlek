@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Primal`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wild-mimic|Wild Mimic]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/wild-mimic-dedication|Wild Mimic Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wild Mimic|Wild Mimic]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Wild Mimic Dedication|Wild Mimic Dedication]]
 
 Having experienced the harshest environs that nature has to offer, your body is able to adapt to intense heat and cold. During your daily preparations, you can choose to become protected from the effects of severe cold or severe heat until the next time you make your daily preparations. Starting at 12th level, this activity also protects you from the effects of extreme cold or extreme heat.
 

@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Munsahir`
 
-Munsahirs are elemental humanoids who reside on the [[srd/pf2e/compendium/gm/planes#Plane of Fire|Plane of Fire]].
+Munsahirs are elemental humanoids who reside on the [[srd/pf2e/compendium/gm/Planes#Plane of Fire|Plane of Fire]].
 
 *Source: Monster Core 2 p. 365*

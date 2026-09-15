@@ -16,13 +16,13 @@ socialImage: og-image.png
 
 `Cantrip`  `Fire`  `Manipulate`
 
-- **Traditions**: Arcane, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Trigger**: You would take fire damage.
 - **Duration**: until the end of your next turn
 
-You consume and ingest fire, making it less harmful to you. You gain resistance 5 to fire damage until the end of the current turn. During the remaining duration of the spell, you can use the Belch Smoke action. The spell ends if you fall [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], inhale, or exhale (this includes speaking).
+You consume and ingest fire, making it less harmful to you. You gain resistance 5 to fire damage until the end of the current turn. During the remaining duration of the spell, you can use the Belch Smoke action. The spell ends if you fall [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]], inhale, or exhale (this includes speaking).
 
- **Belch Smoke** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") You exhale what remains of the smoke, ending the spell and creating a smoke cloud in a 5-foot burst within 20 feet. All creatures within the smoke cloud are [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.
+ **Belch Smoke** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") You exhale what remains of the smoke, ending the spell and creating a smoke cloud in a 5-foot burst within 20 feet. All creatures within the smoke cloud are [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]], and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.
 
 ---
 **Heightened (+3)** The resistance increases by 5.

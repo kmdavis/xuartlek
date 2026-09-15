@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Tengu`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/soaring-flight|Soaring Flight]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Soaring Flight|Soaring Flight]]
 
 You have a fly Speed of 20 feet at all times.
 

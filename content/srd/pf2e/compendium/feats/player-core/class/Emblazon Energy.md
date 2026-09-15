@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Cleric`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/emblazon-armament|Emblazon Armament]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Emblazon Armament|Emblazon Armament]]
 
 With elemental forces, you make your emblazoned symbols more potent. When you Emblazon an Armament, you can choose from the following effects instead of the effects listed in that feat. These effects have the same restrictions as the base options.
 

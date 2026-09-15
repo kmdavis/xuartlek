@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`  `Magical`  `Teleportation`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/veil-dancer|Veil Dancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/veil-dancer-dedication|Veil Dancer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Veil Dancer|Veil Dancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Veil Dancer Dedication|Veil Dancer Dedication]]
 
 Even creatures who take to the air can’t escape you. You teleport to any square within 60 feet that’s within reach of a creature, then make a melee Strike against that creature. After this Strike, you teleport back to your prior position.
 

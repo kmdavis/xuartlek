@@ -20,7 +20,7 @@ socialImage: og-image.png
 
 `Auditory`  `Concentrate`  `Emotion`  `General`  `Linguistic`  `Mental`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
 You attempt to reduce panic. Attempt a Diplomacy check, comparing it to the Will DC of creatures in a 10-foot emanation around you who are frightened. Each of them is temporarily immune for 1 hour.
 

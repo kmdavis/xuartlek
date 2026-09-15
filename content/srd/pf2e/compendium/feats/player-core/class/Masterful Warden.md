@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Ranger`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/initiate-warden|Initiate Warden]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Initiate Warden|Initiate Warden]]
 
-Your mastery of warden magic increases. You gain your choice of one warden spell from the master warden spells(or another you have access to).
+Your mastery of warden magic increases. You gain your choice of one warden spell from the master [warden spells](https://2e.aonprd.com/Spells.aspx?Trait=136)(or another you have access to).
 
 **Special** You can take this feat multiple times, choosing a different master warden spell each time.
 

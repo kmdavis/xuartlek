@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Cleric`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Time|Time]]
-- **Trigger**: A creature or object within range is hit by an [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]].
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Time|Time]]
+- **Trigger**: A creature or object within range is hit by an [[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]].
 - **Range**: 30 feet
 - **Target**: the triggering creature or object
 - **Duration**: 1 round

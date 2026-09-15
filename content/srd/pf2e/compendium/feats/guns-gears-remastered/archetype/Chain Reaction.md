@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/unexpected-sharpshooter|Unexpected Sharpshooter]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Unexpected Sharpshooter|Unexpected Sharpshooter]]
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/unexpected-sharpshooter-dedication|Unexpected Sharpshooter Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
 
 You fire your gun once, creating a devastating and unpredictable chain of events; perhaps your bullet strikes exactly the right spot on a water tower, causing it to flood and incite a stampede of horses which knock over a lantern that sets a city on fire. Whatever the exact chain reaction, and no matter how improbable, the indiscriminate catastrophe creates significant challenges for your enemies across a wide area while leaving everyone else alone.
 

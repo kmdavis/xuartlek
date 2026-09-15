@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Archetype`  `Primal`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ursine-avenger-hood|Ursine Avenger Hood]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ursine Avenger Hood|Ursine Avenger Hood]]
 
 You have a magical affinity for bears and can speak to them through sounds and body language. You can communicate with all bears, as well as other ursine creatures at the GM's discretion.
 

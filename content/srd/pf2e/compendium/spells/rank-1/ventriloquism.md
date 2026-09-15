@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Auditory`  `Concentrate`  `Illusion`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
-- **Spell Lists**: Elemental
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
 - **Duration**: 10 minutes
 
 Whenever you speak or make any other sound vocally, you can make your vocalization seem to originate from somewhere else within 60 feet, and you can change that apparent location freely as you vocalize. Any creature that hears the sound can attempt to disbelieve your illusion.

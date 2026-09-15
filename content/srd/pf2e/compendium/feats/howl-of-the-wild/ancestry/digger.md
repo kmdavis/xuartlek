@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Awakened Animal`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/heritages#Climbing Animal|Climbing Animal]] heritage or [[srd/pf2e/compendium/character/heritages#Running Animal|Running Animal]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Climbing Animal|Climbing Animal]] heritage or [[srd/pf2e/compendium/character/Heritages#Running Animal|Running Animal]] heritage
 
 You are used to building homes and defenses underground. You gain a burrow Speed of 15 feet.
 

@@ -16,11 +16,11 @@ socialImage: og-image.png
 
 `Air`  `Archetype`  `Sonic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/winged-warrior|Winged Warrior]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Winged Warrior|Winged Warrior]]
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/winged-warrior-dedication|Winged Warrior Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Winged Warrior Dedication|Winged Warrior Dedication]]
 - **Requirements**: You currently have a fly Speed.
 
-You can now achieve such flight speeds that your passage splits the very air. [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] twice. Any creature that is adjacent to you at any point during your movement takes 10d6 sonic damage (basic Fortitude save against your class DC). On a critical failure, the creature is also [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] for 1 hour.
+You can now achieve such flight speeds that your passage splits the very air. [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] twice. Any creature that is adjacent to you at any point during your movement takes 10d6 sonic damage (basic Fortitude save against your class DC). On a critical failure, the creature is also [[srd/pf2e/compendium/rules-elements/Conditions#Deafened|deafened]] for 1 hour.
 
 *Source: Howl of the Wild p. 83*

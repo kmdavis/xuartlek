@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-You create a myriad of swift skeletal warriors. You learn the [[srd/pf2e/compendium/spells/focus/skeletal-lancers|_skeletal lancers_]] grave spell.
+You create a myriad of swift skeletal warriors. You learn the [[srd/pf2e/compendium/spells/focus/Skeletal Lancers|_skeletal lancers_]] grave spell.
 
 *Source: Impossible Magic p. 39*

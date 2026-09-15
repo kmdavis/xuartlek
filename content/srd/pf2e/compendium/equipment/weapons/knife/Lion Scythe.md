@@ -23,7 +23,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Knife
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Knife|Knife]]
 
 A lion scythe resembles a common sickle but is specially weighted to allow for greater power when attacking.
 

@@ -15,19 +15,19 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Tradition**: Occult
+- **Tradition**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: touch
 - **Target**: 1 living creature
 - **Defense**: Fortitude
 
-Your hand glows with impossible colors from beyond the stars, and your touch saps both color and vitality from the living. The target must attempt a Fortitude save; creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/gnome|gnome]] trait take a –2 circumstance penalty to this save.
+Your hand glows with impossible colors from beyond the stars, and your touch saps both color and vitality from the living. The target must attempt a Fortitude save; creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Gnome|gnome]] trait take a –2 circumstance penalty to this save.
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 2]] for 1 round.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled 2]] for 1 round.
 
-**Failure** The target is enfeebled 2 for 1 minute and [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]]. The target is also filled with listlessness and ennui. For 1 round, if the target tries to use a [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action, it must succeed at a Will save against your spell DC or the action is lost; this effect has the [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] traits.
+**Failure** The target is enfeebled 2 for 1 minute and [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained 1]]. The target is also filled with listlessness and ennui. For 1 round, if the target tries to use a [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] action, it must succeed at a Will save against your spell DC or the action is lost; this effect has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]] traits.
 
-**Critical Failure** As failure, but the creature is permanently enfeebled 2 and drained 2 (although magic such as [[srd/pf2e/compendium/spells/rank-2/sound-body|_sound body_]] can remove these conditions).
+**Critical Failure** As failure, but the creature is permanently enfeebled 2 and drained 2 (although magic such as [[srd/pf2e/compendium/spells/rank-2/Sound Body|_sound body_]] can remove these conditions).
 
 *Source: Player Core 2 p. 242*

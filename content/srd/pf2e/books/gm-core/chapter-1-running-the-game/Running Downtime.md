@@ -1,6 +1,7 @@
 ---
 title: "Running Downtime"
 aliases: ["Running Downtime"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2604"
 citation: "GM Core pg. 44"
-socialImage: og-image.png
 ---
 
 # Running Downtime
@@ -273,7 +273,7 @@ A character can live off the land instead, but each day they do, they typically 
 | Fine | 30 gp | 130 gp | 1,600 gp |
 | Extravagant | 100 gp | 430 gp | 5,200 gp |
 
-* You can attempt to Subsist using Society or Survival for free.
+* You can attempt to Subsist using [[srd/pf2e/compendium/rules-elements/skills/skills|Society]] or [[srd/pf2e/compendium/rules-elements/skills/skills|Survival]] for free.
 
 ## Long-Term Rest
 

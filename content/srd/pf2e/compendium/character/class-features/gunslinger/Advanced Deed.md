@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 You've learned a powerful new technique of your chosen way. You gain the advanced deed ability of the way you chose at 1st level.
 
- Gunslinger ways can be found [[srd/pf2e/compendium/character/ways|here]].
+ Gunslinger ways can be found [[srd/pf2e/compendium/character/Ways|here]].
 
 *Source: Guns & Gears (Remastered) p. 105*

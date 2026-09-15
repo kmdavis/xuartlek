@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/beastmaster|Beastmaster]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Beastmaster|Beastmaster]]
 - **Prerequisites**: Beastmaster Dedication; animal companion with a foot, hoof, or talon unarmed attack
 
 Your companion weaves in and out of combat, swiftly attacking before getting to a better position. Your companions with a qualifying unarmed attack learn the Running Kick activity.

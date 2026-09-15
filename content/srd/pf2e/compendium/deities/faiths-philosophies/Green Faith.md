@@ -24,23 +24,23 @@ Wisdom or Constitution
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/sickle|Sickle]] or [[srd/pf2e/compendium/equipment/weapons/brawling/fist|claw]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Sickle|Sickle]] or [[srd/pf2e/compendium/equipment/weapons/brawling/Fist|claw]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Air|Air]], [[srd/pf2e/compendium/character/domains#Earth|Earth]], [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Metal|Metal]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Water|Water]], [[srd/pf2e/compendium/character/domains#Wood|Wood]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Air|Air]], [[srd/pf2e/compendium/character/Domains#Earth|Earth]], [[srd/pf2e/compendium/character/Domains#Fire|Fire]], [[srd/pf2e/compendium/character/Domains#Metal|Metal]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Water|Water]], [[srd/pf2e/compendium/character/Domains#Wood|Wood]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Cold|Cold]], [[srd/pf2e/compendium/character/domains#Decay|Decay]], [[srd/pf2e/compendium/character/domains#Lightning|Lightning]], [[srd/pf2e/compendium/character/domains#Moon|Moon]], [[srd/pf2e/compendium/character/domains#Sun|Sun]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Cold|Cold]], [[srd/pf2e/compendium/character/Domains#Decay|Decay]], [[srd/pf2e/compendium/character/Domains#Lightning|Lightning]], [[srd/pf2e/compendium/character/Domains#Moon|Moon]], [[srd/pf2e/compendium/character/Domains#Sun|Sun]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/summon-animal|Summon Animal]]
+[[srd/pf2e/compendium/spells/rank-1/Summon Animal|Summon Animal]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/speak-with-animals|Speak with Animals]]
+[[srd/pf2e/compendium/spells/rank-2/Speak with Animals|Speak with Animals]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/wall-of-thorns|Wall of Thorns]]
+[[srd/pf2e/compendium/spells/rank-3/Wall of Thorns|Wall of Thorns]]
 
 *Source: Divine Mysteries p. 246*

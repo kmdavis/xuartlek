@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Summon`
 
-- **Tradition**: Primal
-- **Spell Lists**: Elemental
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 
-You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/giant|giant]] trait and whose
+You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Giant|giant]] trait and whose
 level is 5 or lower to fight for you.
 
 ---

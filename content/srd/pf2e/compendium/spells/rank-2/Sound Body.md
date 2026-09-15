@@ -18,17 +18,17 @@ socialImage: og-image.png
 
 `Concentrate`  `Healing`  `Manipulate`  `Vitality`  `Positive`
 
-- **Traditions**: Divine, Occult, Primal
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: touch
 - **Target**: 1 willing creature
 
-You send a surge of healing energy to restore the target's body. Attempt to counteract an effect of your choice imposing one of these conditions on the target: [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]], [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]], [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]], [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]], or [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]]. If you didn't counteract the effect, but you would have if its counteract rank were 2 lower, instead suppress the effect until the beginning of your next turn. The effect's duration doesn't elapse while it's suppressed. This spell can't counteract or suppress curses, diseases, or conditions that are part of the target's normal state.
+You send a surge of healing energy to restore the target's body. Attempt to counteract an effect of your choice imposing one of these conditions on the target: [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]], [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]], [[srd/pf2e/compendium/rules-elements/Conditions#Deafened|deafened]], [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]], or [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]]. If you didn't counteract the effect, but you would have if its counteract rank were 2 lower, instead suppress the effect until the beginning of your next turn. The effect's duration doesn't elapse while it's suppressed. This spell can't counteract or suppress curses, diseases, or conditions that are part of the target's normal state.
 
 ---
-**Heightened (4th)** Add [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] and [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] to the list of conditions.
+**Heightened (4th)** Add [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]] and [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]] to the list of conditions.
 
-**Heightened (6th)** As 4th rank, plus add [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]].
+**Heightened (6th)** As 4th rank, plus add [[srd/pf2e/compendium/rules-elements/Conditions#Petrified|petrified]].
 
-**Heightened (8th)** As 4th rank, plus add [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]] and [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]].
+**Heightened (8th)** As 4th rank, plus add [[srd/pf2e/compendium/rules-elements/Conditions#Petrified|petrified]] and [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]].
 
 *Source: Player Core p. 357*

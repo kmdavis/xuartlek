@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Nephilim`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/ancestry/battleblooded|Battleblooded]]
-- **Trigger**: You lose the [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] condition.
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/ancestry/Battleblooded|Battleblooded]]
+- **Trigger**: You lose the [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]] condition.
 
 You channel the undying spirit of the einherjar to join to fight. You Stand. This movement doesn’t trigger reactions.
 

@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: Recycle rot and waste into useful creations, eat the flesh of your own people, kill without mercy if it benefits your community, help to raise children
 - **Anathema**: Poison insects or scavengers, waste food or good materials, allow rot to poison an area, create undead
 - **Area of Concern**: Consumption, renewal, transformation
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/weight-of-the-world|Weight of the World]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Weight of the World|Weight of the World]]
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/sickle|Sickle]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Sickle|Sickle]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Decay|Decay]], [[srd/pf2e/compendium/character/domains#Nature|Nature]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Decay|Decay]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]]
+[[srd/pf2e/compendium/spells/rank-1/Soothe|Soothe]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/aerial-form|Aerial Form]]
+[[srd/pf2e/compendium/spells/rank-4/Aerial Form|Aerial Form]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/cursed-metamorphosis|Cursed Metamorphosis]]
+[[srd/pf2e/compendium/spells/rank-6/Cursed Metamorphosis|Cursed Metamorphosis]]
 
 *Source: Divine Mysteries p. 316*

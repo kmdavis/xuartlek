@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]]
 
 You stand up. This movement doesn’t trigger reactions.
 

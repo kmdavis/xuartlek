@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Primal`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wild-mimic|Wild Mimic]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/wild-mimic-dedication|Wild Mimic Dedication]]; [[srd/pf2e/compendium/feats/player-core/archetype/animal-empathy-ranger|Animal Empathy (Ranger)]] or the ability to speak with a type of animal
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wild Mimic|Wild Mimic]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Wild Mimic Dedication|Wild Mimic Dedication]]; [[srd/pf2e/compendium/feats/player-core/archetype/Animal Empathy (Ranger)|Animal Empathy (Ranger)]] or the ability to speak with a type of animal
 
-Your connection to the denizens of the wilds grows ever stronger, and you find yourself able to speak with animals like you would in your native tongue. You can speak with all [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beasts]]. If you have [[srd/pf2e/compendium/feats/player-core/archetype/animal-empathy-ranger|Animal Empathy]], you gain a +1 circumstance bonus to checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] on animals.
+Your connection to the denizens of the wilds grows ever stronger, and you find yourself able to speak with animals like you would in your native tongue. You can speak with all [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animals]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Beast|beasts]]. If you have [[srd/pf2e/compendium/feats/player-core/archetype/Animal Empathy (Ranger)|Animal Empathy]], you gain a +1 circumstance bonus to checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] on animals.
 
 *Source: Howl of the Wild p. 80*

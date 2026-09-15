@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/crossbow-infiltrator|Crossbow Infiltrator]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/crossbow-infiltrator-dedication|Crossbow Infiltrator Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Crossbow Infiltrator|Crossbow Infiltrator]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Crossbow Infiltrator Dedication|Crossbow Infiltrator Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
 You specialize in reloading while preparing for the next step in your infiltration. Interact to reload a weapon you have familiarity with from this archetype, then either [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Take Cover|Take Cover]].
 

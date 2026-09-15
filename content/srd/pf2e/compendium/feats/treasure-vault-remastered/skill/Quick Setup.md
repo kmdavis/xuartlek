@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 `General`  `Rare`  `Skill`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-_Note from Nethys:_ this skill feat is intended to be used with the [[srd/pf2e/books/treasure-vault-remastered/secrets-of-crafting/crafting-alternate-rules#Complex Crafting|Complex Crafting]] variant crafting rules.
+_Note from Nethys:_ this skill feat is intended to be used with the [[srd/pf2e/books/treasure-vault-remastered/secrets-of-crafting/Crafting Alternate Rules#Complex Crafting|Complex Crafting]] variant crafting rules.
 
-If you reduce the setup time for a batch of [[srd/pf2e/books/gm-core/chapter-2-building-games/building-items#Consumables|consumables]] at least 6 levels lower than you to less than 1 day, you can set it up in just 2 hours (allowing you to do so during an adventuring day if you have access to your tools and materials). If you rush the setup of a permanent item at least 6 levels lower than you and reduce the setup time to less than 1 day, you can perform the setup in 4 hours.
+If you reduce the setup time for a batch of [[srd/pf2e/books/gm-core/chapter-2-building-games/Building Items#Consumables|consumables]] at least 6 levels lower than you to less than 1 day, you can set it up in just 2 hours (allowing you to do so during an adventuring day if you have access to your tools and materials). If you rush the setup of a permanent item at least 6 levels lower than you and reduce the setup time to less than 1 day, you can perform the setup in 4 hours.
 
 *Source: Treasure Vault (Remastered) p. 159*

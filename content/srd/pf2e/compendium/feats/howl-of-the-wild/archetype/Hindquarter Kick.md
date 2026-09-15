@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/clawdancer|Clawdancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/clawdancer-dedication|Clawdancer Dedication]]
-- **Requirements**: You are in claw stance and have [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] a creature.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Clawdancer|Clawdancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Clawdancer Dedication|Clawdancer Dedication]]
+- **Requirements**: You are in claw stance and have [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] a creature.
 
 You hold your prey's defensive limbs in place with your claws while delivering a swift kick to their unprotected sides. Shift to talon stance and make two spinning talon Strikes against the grabbed creature. Apply your multiple attack penalty to these Strikes normally. You then release the grabbed creature.
 

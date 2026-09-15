@@ -15,9 +15,9 @@ socialImage: og-image.png
 `Druid`
 
 - **Archetype**: Nidalese Horselord (Level 16)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/incredible-companion-druid|Incredible Companion (Druid)]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Incredible Companion (Druid)|Incredible Companion (Druid)]]
 
-Your animal companion continues to grow in power and ability. It gains one specialization of your choice.
+Your animal companion continues to grow in power and ability. It gains one [[srd/pf2e/compendium/character/Animal Companions|specialization]] of your choice.
 
 **Special** You can select this feat up to three times. Each time, add a different specialization to your companion.
 

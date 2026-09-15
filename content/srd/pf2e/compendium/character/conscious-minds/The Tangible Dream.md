@@ -13,23 +13,23 @@ socialImage: og-image.png
 You pull colors and shapes from the depth of your mind, projecting impossible creations into the world as tapestries of astral thread or sculptures of force and light.
 
 **Granted Spells**
-- **1st** [[srd/pf2e/compendium/spells/rank-1/dizzying-colors|Dizzying Colors]]
-- **2nd** [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]]
-- **3rd** [[srd/pf2e/compendium/spells/rank-3/sea-of-thought|Sea of Thought]]
-- **4th** [[srd/pf2e/compendium/spells/rank-4/containment|Containment]]
-- **5th** [[srd/pf2e/compendium/spells/rank-5/etheric-shards|Etheric Shards]]
-- **6th** [[srd/pf2e/compendium/spells/rank-6/scintillating-safeguard|Scintillating Safeguard]]
-- **7th** [[srd/pf2e/compendium/spells/rank-7/project-image|Project Image]]
-- **8th** [[srd/pf2e/compendium/spells/rank-8/confusing-colors|Confusing Colors]]
-- **9th** [[srd/pf2e/compendium/spells/rank-9/resplendent-mansion|Resplendent Mansion]]
+- **1st** [[srd/pf2e/compendium/spells/rank-1/Dizzying Colors|Dizzying Colors]]
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/Invisibility|Invisibility]]
+- **3rd** [[srd/pf2e/compendium/spells/rank-3/Sea of Thought|Sea of Thought]]
+- **4th** [[srd/pf2e/compendium/spells/rank-4/Containment|Containment]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/Etheric Shards|Etheric Shards]]
+- **6th** [[srd/pf2e/compendium/spells/rank-6/Scintillating Safeguard|Scintillating Safeguard]]
+- **7th** [[srd/pf2e/compendium/spells/rank-7/Project Image|Project Image]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/Confusing Colors|Confusing Colors]]
+- **9th** [[srd/pf2e/compendium/spells/rank-9/Resplendent Mansion|Resplendent Mansion]]
 
-**Standard Psi Cantrips** [[srd/pf2e/compendium/spells/cantrips/figment|Figment]] and [[srd/pf2e/compendium/spells/cantrips/shield|Shield]]
+**Standard Psi Cantrips** [[srd/pf2e/compendium/spells/cantrips/Figment|Figment]] and [[srd/pf2e/compendium/spells/cantrips/Shield|Shield]]
 
-**Surface Psi Cantrip** [[srd/pf2e/compendium/spells/cantrips/imaginary-weapon|Imaginary Weapon]]
+**Surface Psi Cantrip** [[srd/pf2e/compendium/spells/cantrips/Imaginary Weapon|Imaginary Weapon]]
 
-**Deeper Psi Cantrip (Level 6)** [[srd/pf2e/compendium/spells/cantrips/astral-rain|Astral Rain]]
+**Deeper Psi Cantrip (Level 6)** [[srd/pf2e/compendium/spells/cantrips/Astral Rain|Astral Rain]]
 
-**Deepest Psi Cantrip (Level 10)** [[srd/pf2e/compendium/spells/cantrips/hologram-cage|Hologram Cage]]
+**Deepest Psi Cantrip (Level 10)** [[srd/pf2e/compendium/spells/cantrips/Hologram Cage|Hologram Cage]]
 
 ### Figment
 
@@ -39,7 +39,7 @@ Your minor illusions shift and dance in a way that draws the eye. The range of _
 
 ### Shield
 
-Your _shield_ spell can be deployed on behalf of others. When you cast _shield_, you can choose a target ally within 30 feet to gain the benefits of the spell instead of you. The option to [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] with the spell is up to you and uses your reaction, not the target's. Your _shield_ also gains the following amp.
+Your _shield_ spell can be deployed on behalf of others. When you cast _shield_, you can choose a target ally within 30 feet to gain the benefits of the spell instead of you. The option to [[srd/pf2e/compendium/feats/player-core/general/Shield Block|Shield Block]] with the spell is up to you and uses your reaction, not the target's. Your _shield_ also gains the following amp.
 
 **Amp** You create a layered barrier of three _shields_ to improve your defenses. The duration increases to sustained up to 1 minute. The shield still lowers at the start of each of your turns, but you can raise it again when you Sustain the Spell.
 

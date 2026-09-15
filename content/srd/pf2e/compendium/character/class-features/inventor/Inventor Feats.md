@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Inventor
 
-At 1st level and every even-numbered level, you gain an inventor class feat. Some features and feats use an assortment of gizmos you keep on your person. For simplicity, these are left abstract, but if you are deprived of your gear for some reason, you might lose access to many feats and features, subject to GM discretion.
+At 1st level and every even-numbered level, you gain an [inventor class feat](https://2e.aonprd.com/Feats.aspx?Traits=408). Some features and feats use an assortment of gizmos you keep on your person. For simplicity, these are left abstract, but if you are deprived of your gear for some reason, you might lose access to many feats and features, subject to GM discretion.
 
 *Source: Guns & Gears (Remastered) p. 15*

@@ -17,12 +17,12 @@ socialImage: og-image.png
 
 - **Requirements**: You are unarmored.
 
-You enter the stance of impenetrable iron, refusing to yield to any blow. You can make iron sweep unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/parry|parry]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|sweep]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] traits. 
+You enter the stance of impenetrable iron, refusing to yield to any blow. You can make iron sweep unarmed attacks. These deal 1d8 bludgeoning damage; are in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group; and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Parry|parry]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|sweep]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] traits. 
 
 While in Ironblood Stance, you gain resistance 2 to all damage. The resistance increases to 3 at 12th level, to 4 at 16th level, and to 5 at 20th level.
 
 ### Ironblood Stance leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/ironblood-surge|Ironblood Surge]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Ironblood Surge|Ironblood Surge]]
 
 *Source: Player Core 2 p. 123*

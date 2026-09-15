@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Ranger`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]; [[srd/pf2e/compendium/feats/player-core/skill/experienced-tracker|Experienced Tracker]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]; [[srd/pf2e/compendium/feats/player-core/skill/Experienced Tracker|Experienced Tracker]]
 
 Your keen eyes catch signs of passage even when you’re moving. You can move at your full Speed while you Track. If you have master proficiency in Survival, you don’t need to attempt a new Survival check every hour while Tracking. If you have legendary proficiency in Survival, you can use another exploration activity while Tracking.
 

@@ -34,11 +34,11 @@ perception:
     desc: "+11; low-light vision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +15"
 abilityMods: [-4, 5, 4, -5, 0, -5]
 abilities_top:
   - name: "Agile Swimmer"
-    desc: "Fire jellyfish swarms use [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]]."
+    desc: "Fire jellyfish swarms use [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]]."
 ac: 13
 armorclass:
   - name: "AC"
@@ -46,19 +46,19 @@ armorclass:
 hp: 155
 health:
   - name: "HP"
-    desc: "155; __Immunities__ [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Immunity to Critical Hits|critical hits]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], precision, swarm mind; __Resistances__ bludgeoning 9, piercing 9, [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] 10, slashing 5; __Weaknesses__ area damage 7, splash damage 7"
+    desc: "155; __Immunities__ [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Immunity to Critical Hits|critical hits]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], precision, swarm mind; __Resistances__ bludgeoning 9, piercing 9, [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] 10, slashing 5; __Weaknesses__ area damage 7, splash damage 7"
 speed: "swim 20 feet"
 abilities_bot:
   - name: "Burning Swarm"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]]) Each enemy in the swarm's space takes 3d8 poison damage (DC 24 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save) and is exposed to fire jelly venom."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]]) Each enemy in the swarm's space takes 3d8 poison damage (DC 24 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save) and is exposed to fire jelly venom."
   - name: "Fire Jelly Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 24 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 (1 round)"
+    desc: "[[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]] 1 (1 round)"
   - name: "Stage 2"
     desc: "clumsy 2 (1 round)"
   - name: "Stage 3"

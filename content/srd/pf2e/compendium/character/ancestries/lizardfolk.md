@@ -36,7 +36,7 @@ Known among themselves as iruxis, lizardfolk are raised communally from the mome
 
 ### Alignment and Religion
 
-Most iruxis are unconcerned with heavy questions of morality and focus their efforts on a local level. Iruxi religion plays a large role in their culture, but in a heavily practical way, blending animism and ancestor worship with druidic rites. Of the gods, only [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]] is commonly revered.
+Most iruxis are unconcerned with heavy questions of morality and focus their efforts on a local level. Iruxi religion plays a large role in their culture, but in a heavily practical way, blending animism and ancestor worship with druidic rites. Of the gods, only [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Gozreh|Gozreh]] is commonly revered.
 
  **Popular Edicts** keep memories of the past alive, wait for your prey, adapt your plans to fit the environment
  **Popular Anathema** defy the will of the stars
@@ -61,18 +61,18 @@ Lizardfolk names are typically chosen by the clan's astrologer in accordance to 
 
 #### Languages
 
-[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
 Iruxi
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from Amurrun, Boggard, [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]], and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from Amurrun, Boggard, [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/Languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/Languages#Thalassic|Thalassic]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 #### Claws
 
-Your sharp claws offer an alternative to the fists other humanoids bring to a fight. You have a claw [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] &lt;%END> attack that deals 1d4 slashing damage, is in the brawling group, and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]] traits.
+Your sharp claws offer an alternative to the fists other humanoids bring to a fight. You have a claw [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack that deals 1d4 slashing damage, is in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group, and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]] traits.
 
 #### Aquatic Adaptation
 
-Your reptilian biology allows you to hold your breath for a long time. You gain the [[srd/pf2e/compendium/feats/player-core/general/breath-control|Breath Control]] general feat as a bonus feat.
+Your reptilian biology allows you to hold your breath for a long time. You gain the [[srd/pf2e/compendium/feats/player-core/general/Breath Control|Breath Control]] general feat as a bonus feat.
 
 *Source: Player Core 2 p. 24*

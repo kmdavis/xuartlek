@@ -19,8 +19,8 @@ socialImage: og-image.png
 
 `Auditory`  `Concentrate`  `Emotion`  `Fear`  `Manipulate`  `Mental`
 
-- **Tradition**: Occult
-- **Deities**: [[srd/pf2e/compendium/deities/dwarven-gods/angradd|Angradd]], [[srd/pf2e/compendium/deities/archdevils/mephistopheles|Mephistopheles]], [[srd/pf2e/compendium/deities/monitor-demigods/ydajisk|Ydajisk]]
+- **Tradition**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/dwarven-gods/Angradd|Angradd]], [[srd/pf2e/compendium/deities/archdevils/Mephistopheles|Mephistopheles]], [[srd/pf2e/compendium/deities/monitor-demigods/Ydajisk|Ydajisk]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will
@@ -31,7 +31,7 @@ A heap of insults and invectives spew from your mouth—words so devastating you
 
 **Success** The target takes half the persistent fire damage.
 
-**Failure** The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]] and takes the full persistent fire damage.
+**Failure** The target becomes [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened 1]] and takes the full persistent fire damage.
 
 **Critical Failure** The target becomes frightened 2 and takes double the persistent fire damage.
 

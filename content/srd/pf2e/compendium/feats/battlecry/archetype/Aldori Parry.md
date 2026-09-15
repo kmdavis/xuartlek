@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/aldori-duelist|Aldori Duelist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/aldori-duelist-dedication|Aldori Duelist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Aldori Duelist|Aldori Duelist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Aldori Duelist Dedication|Aldori Duelist Dedication]]
 
-You can parry attacks against you with your Aldori dueling sword. [[srd/pf2e/compendium/equipment/weapons/sword/aldori-dueling-sword|Aldori dueling swords]] you're wielding gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/parry|parry]] trait. If you have your other hand or hands free while wielding an Aldori dueling sword, you gain a +2 circumstance bonus to AC while parrying instead of the usual +1.
+You can parry attacks against you with your Aldori dueling sword. [[srd/pf2e/compendium/equipment/weapons/sword/Aldori Dueling Sword|Aldori dueling swords]] you're wielding gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/Parry|parry]] trait. If you have your other hand or hands free while wielding an Aldori dueling sword, you gain a +2 circumstance bonus to AC while parrying instead of the usual +1.
 
 ### Aldori Parry leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/archetype/aldori-riposte|Aldori Riposte]]
+[[srd/pf2e/compendium/feats/battlecry/archetype/Aldori Riposte|Aldori Riposte]]
 
 *Source: Battlecry! p. 54*

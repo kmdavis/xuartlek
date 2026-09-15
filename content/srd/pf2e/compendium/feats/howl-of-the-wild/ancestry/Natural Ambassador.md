@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: awakened mind
 
-You remember what it was like to speak easily with other animals, using old, familiar ways of communication to learn what they want and ask for favors in return. You can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill with all [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]], not just those of your kind. You gain a +1 circumstance bonus to Diplomacy when you do, or a +2 circumstance bonus with animals of your kind.
+You remember what it was like to speak easily with other animals, using old, familiar ways of communication to learn what they want and ask for favors in return. You can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] skill with all [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animals]], not just those of your kind. You gain a +1 circumstance bonus to Diplomacy when you do, or a +2 circumstance bonus with animals of your kind.
 
 *Source: Howl of the Wild p. 26*

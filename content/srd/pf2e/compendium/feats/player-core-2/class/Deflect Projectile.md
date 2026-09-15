@@ -15,12 +15,12 @@ socialImage: og-image.png
 `Monk`
 
 - **Trigger**: You are the target of a physical ranged attack.
-- **Requirements**: You’re aware of the attack, are not [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against it, and have a hand free.
+- **Requirements**: You’re aware of the attack, are not [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] against it, and have a hand free.
 
 You gain a +4 circumstance bonus to AC against the triggering attack. If the attack misses, you have deflected it. You cannot use this feat to deflect unusually massive ranged projectiles (such as boulders or ballista bolts).
 
 ### Deflect Projectile leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/projectile-snatching|Projectile Snatching]], [[srd/pf2e/compendium/feats/player-core-2/class/return-fire|Return Fire]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Projectile Snatching|Projectile Snatching]], [[srd/pf2e/compendium/feats/player-core-2/class/Return Fire|Return Fire]]
 
 *Source: Player Core 2 p. 121*

@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/gladiator|Gladiator]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/gladiator-dedication|Gladiator Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Gladiator|Gladiator]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Gladiator Dedication|Gladiator Dedication]]
 
-You're skilled with flashy weapons and can use them to great effect. You have familiarity with the [[srd/pf2e/compendium/equipment/weapons/club/bo-staff|bo staff]], [[srd/pf2e/compendium/equipment/adventuring-gear/dueling-cape|dueling cape]], [[srd/pf2e/compendium/equipment/weapons/flail/spiked-chain|spiked chain]], [[srd/pf2e/compendium/equipment/weapons/sword/sword-cane|sword cane]], [[srd/pf2e/compendium/equipment/weapons/spear/trident|trident]], [[srd/pf2e/compendium/equipment/weapons/flail/war-flail|war flail]], and [[srd/pf2e/compendium/equipment/weapons/flail/whip|whip]]. For the purposes of proficiency, you treat these as simple weapons. The GM may add other martial weapons to this list as appropriate for the world or region you are playing in.
+You're skilled with flashy weapons and can use them to great effect. You have familiarity with the [[srd/pf2e/compendium/equipment/weapons/club/Bo Staff|bo staff]], [[srd/pf2e/compendium/equipment/adventuring-gear/Dueling Cape|dueling cape]], [[srd/pf2e/compendium/equipment/weapons/flail/Spiked Chain|spiked chain]], [[srd/pf2e/compendium/equipment/weapons/sword/Sword Cane|sword cane]], [[srd/pf2e/compendium/equipment/weapons/spear/Trident|trident]], [[srd/pf2e/compendium/equipment/weapons/flail/War Flail|war flail]], and [[srd/pf2e/compendium/equipment/weapons/flail/Whip|whip]]. For the purposes of proficiency, you treat these as simple weapons. The GM may add other martial weapons to this list as appropriate for the world or region you are playing in.
 
  Whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 

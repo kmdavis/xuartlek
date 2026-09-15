@@ -23,7 +23,7 @@ The floating camouflage blind comprises a wooden platform fastened to a pair of 
 
 **Passengers** 3
 
-**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 21) or [[srd/pf2e/compendium/rules-elements/skills/lore|Sailing Lore]] (DC 19)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] (DC 21) or [[srd/pf2e/compendium/rules-elements/skills/Lore|Sailing Lore]] (DC 19)
 
 ---
 
@@ -35,13 +35,13 @@ The floating camouflage blind comprises a wooden platform fastened to a pair of 
 
 **HP** 50 (BT 25)
 
-**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/Item Damage#Object Immunities|object immunities]]
 
-**Weaknesses** fire 5 until [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]]
+**Weaknesses** fire 5 until [[srd/pf2e/compendium/rules-elements/Conditions#Broken|broken]]
 
 ---
 
-**Speed** swim 10 feet ([[srd/pf2e/compendium/rules-elements/traits/monster-core-2/clockwork|clockwork]])
+**Speed** swim 10 feet ([[srd/pf2e/compendium/rules-elements/traits/monster-core-2/Clockwork|clockwork]])
 
 **Collision** 2d10 (DC 19)
 

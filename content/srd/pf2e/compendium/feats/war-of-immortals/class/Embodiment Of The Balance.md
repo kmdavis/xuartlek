@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Animist`
 
-Your place in the balance between the forces of life and entropy expands the spells you can pull from the spirit realms. You add [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]] and [[srd/pf2e/compendium/spells/rank-1/harm|_harm_]] to your apparition spell repertoire, allowing you to cast them with your apparition spellcasting.
+Your place in the balance between the forces of life and entropy expands the spells you can pull from the spirit realms. You add [[srd/pf2e/compendium/spells/rank-1/Heal|_heal_]] and [[srd/pf2e/compendium/spells/rank-1/Harm|_harm_]] to your apparition spell repertoire, allowing you to cast them with your apparition spellcasting.
 
 ### Embodiment Of The Balance leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/echoing-channel|Echoing Channel]]
+[[srd/pf2e/compendium/feats/player-core/class/Echoing Channel|Echoing Channel]]
 
 *Source: War of Immortals p. 23*

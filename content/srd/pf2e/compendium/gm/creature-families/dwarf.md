@@ -14,7 +14,7 @@ A dwarf's strength comes from their stoic determination, quality equipment, and 
 
 ### Members
 
-[[srd/pf2e/bestiary/npc-core/humanoid/dwarf-battalion|Dwarf Battalion]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/dwarf-general|Dwarf General]] (Creature 8), [[srd/pf2e/bestiary/battlecry/humanoid/dwarf-longshot-squad|Dwarf Longshot Squad]] (Creature 10), [[srd/pf2e/bestiary/npc-core/humanoid/dwarf-smith|Dwarf Smith]] (Creature 0), [[srd/pf2e/bestiary/monster-core/humanoid/dwarf-stonecaster|Dwarf Stonecaster]] (Creature 4), [[srd/pf2e/bestiary/monster-core/humanoid/dwarf-warrior|Dwarf Warrior]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/spirit-priest|Spirit Priest]] (Creature 5)
+[[srd/pf2e/bestiary/npc-core/humanoid/Dwarf Battalion|Dwarf Battalion]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/Dwarf General|Dwarf General]] (Creature 8), [[srd/pf2e/bestiary/battlecry/humanoid/Dwarf Longshot Squad|Dwarf Longshot Squad]] (Creature 10), [[srd/pf2e/bestiary/npc-core/humanoid/Dwarf Smith|Dwarf Smith]] (Creature 0), [[srd/pf2e/bestiary/monster-core/humanoid/Dwarf Stonecaster|Dwarf Stonecaster]] (Creature 4), [[srd/pf2e/bestiary/monster-core/humanoid/Dwarf Warrior|Dwarf Warrior]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/Spirit Priest|Spirit Priest]] (Creature 5)
 
 ### Clan Memory
 

@@ -1,6 +1,7 @@
 ---
 title: "Classic Firearms"
 aliases: ["Classic Firearms"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Guns & Gears (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1649"
 citation: "Guns & Gears (Remastered) pg. 150"
-socialImage: og-image.png
 ---
 
 # Classic Firearms
@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 The following rules cover the use of firearms and includes the firearms and ammunition types available. All firearms are subject to misfires if they're not properly maintained, as described in the sidebar.
 
-The [[srd/pf2e/compendium/feats/guns-gears-remastered/ancestry/clan-pistol|clan pistol]] and [[srd/pf2e/compendium/equipment/weapons/firearm/dwarven-scattergun|dwarven scattergun]] have the dwarf trait, the [[srd/pf2e/compendium/equipment/weapons/firearm/dawnsilver-tree|mithral tree]] has the elf trait, and the [[srd/pf2e/compendium/equipment/weapons/firearm/flingflenser|flingflenser]] has the goblin trait. However, feats such as Dwarven Weapon Familiarity, which normally grants access to all uncommon weapons with the dwarf trait, don't grant access to firearms with the listed traits unless the character separately has access to firearms. For instance, dwarves who've never seen a firearm and then train in traditional dwarven weapons don't have access to clan pistols and dwarven scatterguns. You can find more information on this and other firearm access details on page 148.
+The [[srd/pf2e/compendium/feats/guns-gears-remastered/ancestry/Clan Pistol|clan pistol]] and [[srd/pf2e/compendium/equipment/weapons/firearm/Dwarven Scattergun|dwarven scattergun]] have the [dwarf](https://2e.aonprd.com/Traits.aspx?ID=54) trait, the [[srd/pf2e/compendium/equipment/weapons/firearm/Dawnsilver Tree|mithral tree]] has the [elf](https://2e.aonprd.com/Traits.aspx?ID=58) trait, and the [[srd/pf2e/compendium/equipment/weapons/firearm/Flingflenser|flingflenser]] has the [goblin](https://2e.aonprd.com/Traits.aspx?ID=81) trait. However, feats such as [Dwarven Weapon Familiarity](https://2e.aonprd.com/Feats.aspx?ID=2), which normally grants access to all uncommon weapons with the dwarf trait, don't grant access to firearms with the listed traits unless the character separately has access to firearms. For instance, dwarves who've never seen a firearm and then train in traditional dwarven weapons don't have access to clan pistols and dwarven scatterguns. You can find more information on this and other firearm access details on page 148.
 
 > [!pf2-sidebar] MISFIRES
 >
@@ -28,4 +28,4 @@ The [[srd/pf2e/compendium/feats/guns-gears-remastered/ancestry/clan-pistol|clan 
 
 ## Ammunition
 
-Firearms require ammunition consisting of a projectile and black powder. A round of ammo can vary in its composition but is typically either a prepackaged paper cartridge, including wadding, bullet, and black powder, or loose shot packed in manually. Some weapons, like hand cannons and blunderbusses, can fire other materials, but their ammunition has the same Price due to the cost of the black powder. Because making rounds of firearm ammunition requires creating black powder, you need the Alchemical Crafting skill feat to make them. Firearm rounds are a valid option for magical ammunition, just like arrows or bolts. Crafting magical firearm ammunition requires you to be able to craft both alchemical and magical items.
+Firearms require ammunition consisting of a projectile and black powder. A round of ammo can vary in its composition but is typically either a prepackaged paper cartridge, including wadding, bullet, and black powder, or loose shot packed in manually. Some weapons, like hand cannons and blunderbusses, can fire other materials, but their ammunition has the same Price due to the cost of the black powder. Because making rounds of firearm ammunition requires creating black powder, you need the [Alchemical Crafting](https://2e.aonprd.com/Feats.aspx?ID=752) skill feat to make them. Firearm rounds are a valid option for magical ammunition, just like arrows or bolts. Crafting magical firearm ammunition requires you to be able to craft both alchemical and magical items.

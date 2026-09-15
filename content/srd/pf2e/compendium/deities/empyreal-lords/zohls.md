@@ -24,23 +24,23 @@ Intelligence or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/crossbow/heavy-crossbow|Heavy Crossbow]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/crossbow/Heavy Crossbow|Heavy Crossbow]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Cities|Cities]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Truth|Truth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Cities|Cities]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Truth|Truth]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Introspection|Introspection]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Introspection|Introspection]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/share-lore|Share Lore]]
+[[srd/pf2e/compendium/spells/rank-1/Share Lore|Share Lore]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/hypercognition|Hypercognition]]
+[[srd/pf2e/compendium/spells/rank-3/Hypercognition|Hypercognition]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/retrocognition|Retrocognition]]
+[[srd/pf2e/compendium/spells/rank-7/Retrocognition|Retrocognition]]
 
 *Source: Divine Mysteries p. 310*

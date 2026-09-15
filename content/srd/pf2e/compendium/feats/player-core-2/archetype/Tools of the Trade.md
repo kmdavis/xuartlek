@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/bounty-hunter|Bounty Hunter]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/bounty-hunter-dedication|Bounty Hunter Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Bounty Hunter|Bounty Hunter]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Bounty Hunter Dedication|Bounty Hunter Dedication]]
 
 You’re well-versed in weapons that allow you to bring bounties back in one piece, or at least alive. You have familiarity with the bola, sap, and whip; for the purposes of proficiency, you treat these weapons as simple weapons. You deal an additional 1d4 precision damage with these weapons when using them to make nonlethal Strikes against your prey while they’re off-guard to you. In addition, you take no penalty when making a nonlethal attack with a weapon without the nonlethal trait.
 

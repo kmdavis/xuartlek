@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `General`  `Manipulate`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], Trained in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], Trained in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], or Trained in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], Trained in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], Trained in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], or Trained in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
 You examine a magic item you normally couldn’t use in an effort to fool it and activate it temporarily. For example, this might allow a fighter to cast a spell from a wand or allow a wizard to cast a spell that’s not on the arcane list using a scroll. You must know what activating the item does, or you can’t attempt to trick it.
 

@@ -20,7 +20,7 @@ socialImage: og-image.png
 
 `Attack`  `Cleric`  `Concentrate`  `Fire`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Fire|Fire]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Fire|Fire]]
 - **Range**: 60 feet
 - **Target**: 1 creature
 - **Defense**: AC

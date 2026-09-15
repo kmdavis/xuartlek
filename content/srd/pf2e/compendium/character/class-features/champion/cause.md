@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 You devote yourself to a specific cause in your deity’s name. Some causes are limited to certain sanctifications. Your cause adds to your edicts and anathema and grants you a special protective reaction called your champion’s reaction.
 
-Causes can be found [[srd/pf2e/compendium/character/causes|here]].
+Causes can be found [[srd/pf2e/compendium/character/Causes|here]].
 
 *Source: Player Core 2 p. 86*

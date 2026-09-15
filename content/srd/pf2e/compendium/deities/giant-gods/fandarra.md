@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** can choose holy or unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|Dagger]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|Dagger]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Nature|Nature]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Earth|Earth]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Earth|Earth]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/endure|Endure]]
+[[srd/pf2e/compendium/spells/rank-1/Endure|Endure]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/wall-of-thorns|Wall of Thorns]]
+[[srd/pf2e/compendium/spells/rank-3/Wall of Thorns|Wall of Thorns]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/blister|Blister]]
+[[srd/pf2e/compendium/spells/rank-5/Blister|Blister]]
 
 *Source: Divine Mysteries p. 310*

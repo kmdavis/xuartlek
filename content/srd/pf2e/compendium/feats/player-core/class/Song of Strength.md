@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: warrior muse
 
-Your performances inspire strength in your allies to aid them at physical tasks. You learn the [[srd/pf2e/compendium/spells/cantrips/song-of-strength|_song of strength_]] composition cantrip.
+Your performances inspire strength in your allies to aid them at physical tasks. You learn the [[srd/pf2e/compendium/spells/cantrips/Song of Strength|_song of strength_]] composition cantrip.
 
 *Source: Player Core p. 102*

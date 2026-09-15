@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Bravado`  `Swashbuckler`
 
-You tumble around your foes, expertly avoiding their reactions. Stride up to half your Speed and roll an [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] check. Compare the result to the Reflex DC of each enemy whose reach you began in or enter during the movement, in sequence.
+You tumble around your foes, expertly avoiding their reactions. Stride up to half your Speed and roll an [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] check. Compare the result to the Reflex DC of each enemy whose reach you began in or enter during the movement, in sequence.
 
-**Critical Success** This movement doesn't trigger reactions from the enemy, and the enemy is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to you until the end of your turn
+**Critical Success** This movement doesn't trigger reactions from the enemy, and the enemy is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to you until the end of your turn
 
 **Success** This movement doesn't trigger reactions from the enemy.
 

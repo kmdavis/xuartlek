@@ -1,7 +1,7 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/player-core
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/agile
 - trait/monk
 - trait/thrown
@@ -9,7 +9,7 @@ tags:
 - weapon/level/0
 aliases: ["Shuriken"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=439"
-source: "Player Core"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -27,7 +27,7 @@ socialImage: og-image.png
 - **Reload**: 0
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Dart
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Dart|Dart]]
 
 This “throwing star” is a small piece of flat metal with sharp edges, designed to be flung with a flick of the wrist.
 
@@ -35,4 +35,4 @@ This “throwing star” is a small piece of flat metal with sharp edges, design
 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
 
-*Source: Player Core p. 280*
+*Source: Tian Xia Character Guide p. 128*

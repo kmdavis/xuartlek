@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Divine`  `Oracle`
 
-- **Trigger**: You attempt a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] effect, but you haven’t rolled yet.
+- **Trigger**: You attempt a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]] effect, but you haven’t rolled yet.
 
-A barrier offers protection against other magic but leaves you exposed to divine energy. Until the beginning of your next turn, you gain a +1 circumstance bonus to saving throws against nondivine magical effects, but you also take a –1 circumstance penalty to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] effects.
+A barrier offers protection against other magic but leaves you exposed to divine energy. Until the beginning of your next turn, you gain a +1 circumstance bonus to saving throws against nondivine magical effects, but you also take a –1 circumstance penalty to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]] effects.
 
 *Source: Player Core 2 p. 138*

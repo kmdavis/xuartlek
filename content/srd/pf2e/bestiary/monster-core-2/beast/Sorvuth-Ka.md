@@ -28,10 +28,10 @@ modifier: 42
 perception:
   - name: "Perception"
     desc: "+42; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]]; (can't speak any language)"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Aklo|Aklo]]; (can't speak any language)"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +45, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +45, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +41, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +45"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +45, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +45, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +41, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +45"
 abilityMods: [12, 9, 12, 10, 7, 5]
 abilities_top:
   - name: "Slumbering Armageddon"
@@ -43,14 +43,14 @@ armorclass:
 hp: 550
 health:
   - name: "HP"
-    desc: "550 , regeneration absolute 25; __Immunities__ adaptive defenses, [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]], [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]"
+    desc: "550 , regeneration absolute 25; __Immunities__ adaptive defenses, [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/Conditions#Petrified|petrified]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]], [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]]"
 abilities_mid:
   - name: "Absolute Regeneration"
-    desc: "Sorvuth-ka's regeneration can be deactivated by slaying it with a weapon made from the bones of Chemnosit, Kothogaz, Ulunat, [[srd/pf2e/bestiary/monster-core-2/beast/volnagur|Volnagur]], and Xotani."
+    desc: "Sorvuth-ka's regeneration can be deactivated by slaying it with a weapon made from the bones of Chemnosit, Kothogaz, Ulunat, [[srd/pf2e/bestiary/monster-core-2/beast/Volnagur|Volnagur]], and Xotani."
   - name: "Adaptive Defenses"
     desc: "When injured, Sorvuth-ka's body adapts to ensure that the triggering insult can't harm it again. Immediately after it takes damage, it becomes immune to that type of damage. It can become immune to three different types of damage in this way, with newer immunities replacing older ones."
   - name: "Frightful Presence"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 300 feet, DC 45"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]]) 300 feet, DC 45"
   - name: "Reactive"
     desc: "Sorvuth-ka gains 3 reactions each round. It can still use only one reaction per trigger"
   - name: "Bleed Destruction"
@@ -64,28 +64,28 @@ abilities_mid:
 speed: "60 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +44 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 4d8+27 slashing plus Improved Grab"
+    desc: "⬻ claw +44 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 4d8+27 slashing plus Improved Grab"
   - name: "Ranged"
-    desc: "⬻ crystallized blood +44 ([[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 120 feet) __Damage__ 5d6+21 slashing"
+    desc: "⬻ crystallized blood +44 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Propulsive|Propulsive]], range increment 120 feet) __Damage__ 5d6+21 slashing"
 abilities_bot:
   - name: "Amber Strikes"
     desc: "⬻"
   - name: "Requirements"
     desc: "Sorvuth-ka's previous action was a successful Strike against the target"
   - name: "Effect"
-    desc: "After landing a Strike, Sorvuth-ka commands it blood to continue the assault, choosing one of the three following options: Crystallize, Inject, or Splash. If the previous attack was a critical hit, Amber Strikes is a free action. _Crystallize_ Sorvuth-ka's blood flows around the target's limbs before hardening. The creature must succeed at a DC 48 Reflex save or become [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] and [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]]. If the creature was [[srd/pf2e/books/npc-core/creature-companions/pets-and-familiars#Flying|flying]], it [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Falling|falls]]._Inject_ Sorvuth-ka's blood invades the target through its wounds. The target must succeed at a DC 48 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 2 (sickened 3 on a critical failure). As long as the target is sickened, Sorvuth-ka's blood will attempt to [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] any effect that could restore Hit Points to the target (counteract rank 10, counteract modifier +38)._Splash_ Sorvuth-ka's blood splashes violently, [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzling]] the target until the end of its next turn and creating a blood pool in a square adjacent to the target"
+    desc: "After landing a Strike, Sorvuth-ka commands it blood to continue the assault, choosing one of the three following options: Crystallize, Inject, or Splash. If the previous attack was a critical hit, Amber Strikes is a free action. _Crystallize_ Sorvuth-ka's blood flows around the target's limbs before hardening. The creature must succeed at a DC 48 Reflex save or become [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] and [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]]. If the creature was [[srd/pf2e/books/npc-core/creature-companions/Pets and Familiars#Flying|flying]], it [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Falling|falls]]._Inject_ Sorvuth-ka's blood invades the target through its wounds. The target must succeed at a DC 48 Fortitude save or become [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] 2 (sickened 3 on a critical failure). As long as the target is sickened, Sorvuth-ka's blood will attempt to [[srd/pf2e/books/player-core/chapter-7-spells/Counteracting|counteract]] any effect that could restore Hit Points to the target (counteract rank 10, counteract modifier +38)._Splash_ Sorvuth-ka's blood splashes violently, [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzling]] the target until the end of its next turn and creating a blood pool in a square adjacent to the target"
   - name: "Detonate Blood"
     desc: "⬺"
   - name: "Requirements"
     desc: "A pool of Sorvuth-ka's blood is within 500 feet"
   - name: "Effect"
-    desc: "Sorvuth-ka's blood detonates into crystalline amber flechettes. Every creature either in the required blood pool's square or in a 10- foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] of that pool other than Sorvuth-ka takes 20d8 piercing damage (DC 48 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). On a critical failure, any [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Immunities, Weaknesses, and Resistances|resistances]] to physical damage the creature has are reduced by 10 for 1 minute."
+    desc: "Sorvuth-ka's blood detonates into crystalline amber flechettes. Every creature either in the required blood pool's square or in a 10- foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] of that pool other than Sorvuth-ka takes 20d8 piercing damage (DC 48 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save). On a critical failure, any [[srd/pf2e/books/gm-core/chapter-2-building-games/Building Creatures#Immunities, Weaknesses, and Resistances|resistances]] to physical damage the creature has are reduced by 10 for 1 minute."
   - name: "Rough Rampage"
     desc: "⬻"
   - name: "Requirements"
-    desc: "Sorvuth-ka has at least one creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]]"
+    desc: "Sorvuth-ka has at least one creature [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]]"
   - name: "Effect"
-    desc: "Sorvuth-ka Strides, dragging any creatures it's grabbed or restrained along with it. Each grabbed or restrained creature takes 11d6 bludgeoning damage (DC 48 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude save). On a failure, the creature is also [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 2 (or clumsy 3 on a critical failure) until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]]."
+    desc: "Sorvuth-ka Strides, dragging any creatures it's grabbed or restrained along with it. Each grabbed or restrained creature takes 11d6 bludgeoning damage (DC 48 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Fortitude save). On a failure, the creature is also [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]] 2 (or clumsy 3 on a critical failure) until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]]."
 sourcebook: "_Monster Core 2_, page 300."
 ```
 

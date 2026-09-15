@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Duskwalker`
 
-Your duskwalker heritage allows you to extend protection against void energy. You gain resistance 5 to void, and once per day, you can cast [[srd/pf2e/compendium/spells/rank-2/false-vitality|_false vitality_]] as a 5th-rank divine innate spell.
+Your duskwalker heritage allows you to extend protection against void energy. You gain resistance 5 to void, and once per day, you can cast [[srd/pf2e/compendium/spells/rank-2/False Vitality|_false vitality_]] as a 5th-rank divine innate spell.
 
 *Source: Player Core 2 p. 49*

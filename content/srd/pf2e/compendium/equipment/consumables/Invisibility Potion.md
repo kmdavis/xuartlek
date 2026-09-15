@@ -21,7 +21,7 @@ socialImage: og-image.png
 - **Price**: 20 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 An _invisibility potion_ is colorless and oddly lightweight. Upon drinking it, you gain the effects of a 2nd-rank _invisibility_ spell.
 

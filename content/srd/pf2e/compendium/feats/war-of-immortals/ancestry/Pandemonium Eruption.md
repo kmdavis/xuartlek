@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Nephilim`
 
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/ancestry/proteankin|Proteankin]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/ancestry/Proteankin|Proteankin]]
 
 You unleash the pent-up chaos within you, becoming a nexus of unbridled destruction that wreaks unfettered havoc on everyone in your vicinity. Each creature within 15 feet of you takes 14d6 acid, electricity, or sonic damage, chosen randomly for each target. Each target receives a basic Reflex save against the higher of your class DC or spell DC, but any creature that is subjected to the type of damage for which you currently have resistance through your Proteankin lineage takes a –2 penalty to the save. Any target that critically fails the save is also confused until the end of their next turn.
 

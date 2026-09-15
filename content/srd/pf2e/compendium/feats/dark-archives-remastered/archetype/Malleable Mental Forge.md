@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/mind-smith|Mind Smith]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/mind-smith-dedication|Mind Smith Dedication]]; [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/mental-forge|Mental Forge]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Mind Smith|Mind Smith]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Mind Smith Dedication|Mind Smith Dedication]]; [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Mental Forge|Mental Forge]]
 
 You open your mind to further weapon customization. During your daily preparations, you can choose any two weapon traits from the Mental Forge feat to place on your weapon for 24 hours or until your next daily preparations (whichever comes first), replacing the traits you chose from the Mental Forge feat. Each day, you can swap the choices with any other options on the list.
 

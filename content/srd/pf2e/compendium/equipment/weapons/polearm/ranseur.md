@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Disarm`  `Reach`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/archdevils/belial|Belial]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/bokrug|Bokrug]], [[srd/pf2e/compendium/deities/empyreal-lords/neshen|Neshen]], Pharimia, [[srd/pf2e/compendium/deities/sarkorian-gods/stag-mother-of-the-forest-of-stones|Stag Mother of the Forest of Stones]], [[srd/pf2e/compendium/deities/demon-lords/xoveron|Xoveron]], [[srd/pf2e/compendium/deities/daemon-harbingers/zelishkar|Zelishkar]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/archdevils/Belial|Belial]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Bokrug|Bokrug]], [[srd/pf2e/compendium/deities/empyreal-lords/Neshen|Neshen]], Pharimia, [[srd/pf2e/compendium/deities/sarkorian-gods/Stag Mother of the Forest of Stones|Stag Mother of the Forest of Stones]], [[srd/pf2e/compendium/deities/demon-lords/Xoveron|Xoveron]], [[srd/pf2e/compendium/deities/daemon-harbingers/Zelishkar|Zelishkar]]
 - **Price**: 2 gp
 - **Damage**: 1d10 P
 - **Bulk**: 2
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Polearm
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Polearm|Polearm]]
 
 This polearm is a long trident with a central prong that's longer than the other two.
 

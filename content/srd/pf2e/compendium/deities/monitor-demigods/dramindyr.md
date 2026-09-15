@@ -24,23 +24,23 @@ Intelligence or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/shield/shield-spikes|Shield Spikes]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/shield/Shield Spikes|Shield Spikes]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/domains#Perfection|Perfection]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Travel|Travel]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/Domains#Perfection|Perfection]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/interposing-earth|Interposing Earth]]
+[[srd/pf2e/compendium/spells/rank-1/Interposing Earth|Interposing Earth]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/containment|Containment]]
+[[srd/pf2e/compendium/spells/rank-4/Containment|Containment]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/magic-passage|Magic Passage]]
+[[srd/pf2e/compendium/spells/rank-5/Magic Passage|Magic Passage]]
 
 *Source: Divine Mysteries p. 314*

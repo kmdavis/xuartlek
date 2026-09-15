@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Evolution`  `Summoner`
 
-Your eidolon moves more quickly. Your eidolon’s [[srd/pf2e/books/guns-gears-remastered/gears-characters/construct-companions#Speed|Speed]] increases by 10 feet.
+Your eidolon moves more quickly. Your eidolon’s [[srd/pf2e/books/guns-gears-remastered/gears-characters/Construct Companions#Speed|Speed]] increases by 10 feet.
 
 *Source: Impossible Magic p. 79*

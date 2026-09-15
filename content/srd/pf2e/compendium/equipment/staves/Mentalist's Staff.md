@@ -30,7 +30,7 @@ This polished wooden staff bears a swirling motif reminiscent of the folds of a 
 
 ---
 
- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/daze|_daze_]] **1st** [[srd/pf2e/compendium/spells/rank-1/mindlink|_mindlink_]], [[srd/pf2e/compendium/spells/rank-1/phantom-pain|_phantom pain_]] 
+ **Cantrip** [[srd/pf2e/compendium/spells/cantrips/Daze|_daze_]] **1st** [[srd/pf2e/compendium/spells/rank-1/Mindlink|_mindlink_]], [[srd/pf2e/compendium/spells/rank-1/Phantom Pain|_phantom pain_]] 
 
 ### Mentalist's Staff (Greater)
 
@@ -38,7 +38,7 @@ This polished wooden staff bears a swirling motif reminiscent of the folds of a 
 
 ---
 
- **2nd** [[srd/pf2e/compendium/spells/rank-2/paranoia|_paranoia_]] **3rd** [[srd/pf2e/compendium/spells/rank-3/hypercognition|_hypercognition_]], phantom pain 
+ **2nd** [[srd/pf2e/compendium/spells/rank-2/Paranoia|_paranoia_]] **3rd** [[srd/pf2e/compendium/spells/rank-3/Hypercognition|_hypercognition_]], phantom pain 
 
 ### Mentalist's Staff (Major)
 
@@ -46,6 +46,6 @@ This polished wooden staff bears a swirling motif reminiscent of the folds of a 
 
 ---
 
- **4th** [[srd/pf2e/compendium/spells/rank-4/rewrite-memory|_rewrite memory_]], [[srd/pf2e/compendium/spells/rank-4/telepathy|_telepathy_]] **5th** [[srd/pf2e/compendium/spells/rank-5/hallucination|_hallucination_]], phantom pain, [[srd/pf2e/compendium/spells/rank-5/synaptic-pulse|_synaptic pulse_]]
+ **4th** [[srd/pf2e/compendium/spells/rank-4/Rewrite Memory|_rewrite memory_]], [[srd/pf2e/compendium/spells/rank-4/Telepathy|_telepathy_]] **5th** [[srd/pf2e/compendium/spells/rank-5/Hallucination|_hallucination_]], phantom pain, [[srd/pf2e/compendium/spells/rank-5/Synaptic Pulse|_synaptic pulse_]]
 
 *Source: GM Core p. 279*

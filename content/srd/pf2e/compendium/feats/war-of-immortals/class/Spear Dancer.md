@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Fighter`
 
-- **Requirements**: You are wielding a weapon from the spear or polearm group
+- **Requirements**: You are wielding a weapon from the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Spear|spear]] or [[srd/pf2e/compendium/rules-elements/Weapon Groups#Polearm|polearm]] group
 
-You favor weapons that allow you to lash out viciously while keeping enemies at bay, giving you an opportunity to strike without fear of reprisal. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]] and then [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with a spear or polearm you are wielding, or Strike with the spear or polearm and then Step.
+You favor weapons that allow you to lash out viciously while keeping enemies at bay, giving you an opportunity to strike without fear of reprisal. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]] and then [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with a [[srd/pf2e/compendium/rules-elements/Weapon Groups#Spear|spear]] or [[srd/pf2e/compendium/rules-elements/Weapon Groups#Polearm|polearm]] you are wielding, or Strike with the spear or polearm and then Step.
 
 *Source: War of Immortals p. 67*

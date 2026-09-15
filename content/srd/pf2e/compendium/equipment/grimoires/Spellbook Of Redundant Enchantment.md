@@ -5,13 +5,13 @@ tags:
 - trait/grimoire
 - trait/magical
 - equipment/level/8
-aliases: ["Spellbook Of Redundant Enchantment"]
+aliases: ["Spellbook of Redundant Enchantment"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5133"
 source: "Impossible Magic"
 socialImage: og-image.png
 ---
 
-# Spellbook Of Redundant Enchantment  *Item 8*
+# Spellbook of Redundant Enchantment  *Item 8*
 
 `Grimoire`  `Magical`
 
@@ -20,6 +20,6 @@ socialImage: og-image.png
 
 When opening the book, whispers can be heard on the wind, or laughter rings in the distance. 
 
-**Activate—Retain Incantation** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Trigger** You Cast a prepared mental Spell that has no effect because all targets critically succeeded on their saving throws; **Effect** You quickly divert the failed magical energy into yourself to retain your favored spell in place of another. You lose another spell you prepared of an equal or higher rank to the triggering [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] spell but retain the ability to Cast the mental Spell again.
+**Activate—Retain Incantation** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) **Frequency** once per day; **Trigger** You Cast a prepared mental Spell that has no effect because all targets critically succeeded on their saving throws; **Effect** You quickly divert the failed magical energy into yourself to retain your favored spell in place of another. You lose another spell you prepared of an equal or higher rank to the triggering [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] spell but retain the ability to Cast the mental Spell again.
 
 *Source: Impossible Magic p. 230*

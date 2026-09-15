@@ -24,23 +24,23 @@ Strength or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/sickle|Sickle]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Sickle|Sickle]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Truth|Truth]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Healing|Healing]], [[srd/pf2e/compendium/character/Domains#Truth|Truth]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]]
+[[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/hypercognition|Hypercognition]]
+[[srd/pf2e/compendium/spells/rank-3/Hypercognition|Hypercognition]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/disintegrate|Disintegrate]]
+[[srd/pf2e/compendium/spells/rank-6/Disintegrate|Disintegrate]]
 
 *Source: Divine Mysteries p. 302*

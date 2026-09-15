@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-Using your accumulated knowledge of all forms of necromancy, you create the perfect thrall. You learn the [[srd/pf2e/compendium/spells/focus/perfected-thrall|_perfected thrall_]] grave spell.
+Using your accumulated knowledge of all forms of necromancy, you create the perfect thrall. You learn the [[srd/pf2e/compendium/spells/focus/Perfected Thrall|_perfected thrall_]] grave spell.
 
 *Source: Impossible Magic p. 41*

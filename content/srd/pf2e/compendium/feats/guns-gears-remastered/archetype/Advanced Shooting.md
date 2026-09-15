@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/gunslinger|Gunslinger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/basic-shooting|Basic Shooting]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Gunslinger|Gunslinger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Basic Shooting|Basic Shooting]]
 
-You gain one gunslinger feat. For the purpose of meeting its prerequisites, your gunslinger level is equal to half your level.
+You gain one [gunslinger feat](https://2e.aonprd.com/Feats.aspx?Traits=406). For the purpose of meeting its prerequisites, your gunslinger level is equal to half your level.
 
 **Special** You can select this feat more than once. Each time you select it, you gain another gunslinger feat.
 

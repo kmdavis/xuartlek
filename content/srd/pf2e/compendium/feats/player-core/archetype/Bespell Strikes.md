@@ -16,20 +16,20 @@ socialImage: og-image.png
 
 `Oracle`  `Sorcerer`  `Wizard`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bloodrager|Bloodrager]] (Level 8), [[srd/pf2e/compendium/character/archetypes/battle-harbinger|Battle Harbinger]] (Level 6)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Bloodrager|Bloodrager]] (Level 8), [[srd/pf2e/compendium/character/archetypes/Battle Harbinger|Battle Harbinger]] (Level 6)
 - **Frequency**: once per turn
 - **Requirements**: Your most recent action was to cast a non-cantrip spell
 
 You siphon spell energy into one weapon you’re wielding, or into one of your unarmed attacks, such as a fist. Until the end of your turn, the weapon or unarmed attack deals an extra 1d6 force damage and gains the associated trait (see below) if it didn’t have it already. If the spell dealt a different type of damage, the Strike deals this type of damage instead (or one type of your choice if the spell could deal multiple types of damage).
 
-**Oracle**: Your strike gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] trait.
+**Oracle**: Your strike gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]] trait.
 
 **Sorcerer:** Your strike gains the trait of your bloodline’s magical tradition.
 
-**Wizard**: Your strike gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]] trait.
+**Wizard**: Your strike gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]] trait.
 
 ### Bespell Strikes leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/archetype/arcana-of-iron|Arcana of Iron]]
+[[srd/pf2e/compendium/feats/battlecry/archetype/Arcana of Iron|Arcana of Iron]]
 
 *Source: Player Core p. 202*

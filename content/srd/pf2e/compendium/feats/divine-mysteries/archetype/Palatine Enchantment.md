@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/palatine-detective|Palatine Detective]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/palatine-detective-dedication|Palatine Detective Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Palatine Detective|Palatine Detective]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Palatine Detective Dedication|Palatine Detective Dedication]]
 
-You have found yourself facing supernatural beings often and have learned how to combat them. Whenever you [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Devise a Stratagem|Devise a Stratagem]] against a creature about which you could Recall Knowledge using [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]], you can make the subsequent [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against that creature as if the weapon has either a [[srd/pf2e/compendium/equipment/runes/ghost-touch|ghost touch]] or [[srd/pf2e/compendium/equipment/runes/vitalizing|vitalizing]] property rune.
+You have found yourself facing supernatural beings often and have learned how to combat them. Whenever you [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Devise a Stratagem|Devise a Stratagem]] against a creature about which you could Recall Knowledge using [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] or [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]], you can make the subsequent [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against that creature as if the weapon has either a [[srd/pf2e/compendium/equipment/runes/Ghost Touch|ghost touch]] or [[srd/pf2e/compendium/equipment/runes/Vitalizing|vitalizing]] property rune.
 
 *Source: Divine Mysteries p. 289*

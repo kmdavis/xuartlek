@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Archetype`  `Primal`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/world-rouser|World Rouser]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/world-rouser-dedication|World Rouser Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/World Rouser|World Rouser]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/World Rouser Dedication|World Rouser Dedication]]
 - **Requirements**: Your waking world is active.
 
-You call on the world to hamper your foes. Plants grab at them, wind or water currents buffet them, the footing shifts under their feet. Your waking world becomes [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] for your enemies until the start of your next turn.
+You call on the world to hamper your foes. Plants grab at them, wind or water currents buffet them, the footing shifts under their feet. Your waking world becomes [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Difficult Terrain|difficult terrain]] for your enemies until the start of your next turn.
 
 *Source: Impossible Magic p. 106*

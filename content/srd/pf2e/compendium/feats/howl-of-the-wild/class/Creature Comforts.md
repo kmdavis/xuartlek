@@ -16,8 +16,8 @@ socialImage: og-image.png
 `Barbarian`  `Druid`
 
 - **Prerequisites**: animal instinct or untamed order
-- **Trigger**: You become [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]].
-- **Requirements**: You’re under a [[srd/pf2e/compendium/rules-elements/traits/player-core/morph|morph]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] effect.
+- **Trigger**: You become [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]].
+- **Requirements**: You’re under a [[srd/pf2e/compendium/rules-elements/traits/player-core/Morph|morph]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]] effect.
 
 You've found comfort in the forms of other creatures, insulating yourself from feelings of fear. Reduce your frightened condition value by 1 (to a minimum of 0).
 

@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Barbarian`  `Flourish`  `Rage`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-You attack with enough force to knock the weapon out of your foe's hands. Make a melee Strike; if you hit, you can attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]] that enemy.
+You attack with enough force to knock the weapon out of your foe's hands. Make a melee Strike; if you hit, you can attempt an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]] that enemy.
 
 *Source: Player Core 2 p. 81*

@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Aquadynamic`
 
-This armor is made for use underwater, with streamlined design and buoyant materials used in strategic places. You don’t apply the armor’s [[srd/pf2e/books/player-core/chapter-6-equipment/armor#Check Penalty|check penalty]] to [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks in water or similar liquids.
+This armor is made for use underwater, with streamlined design and buoyant materials used in strategic places. You don’t apply the armor’s [[srd/pf2e/books/player-core/chapter-6-equipment/Armor#Check Penalty|check penalty]] to [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks in water or similar liquids.
 
 *Source: Howl of the Wild p. 216*

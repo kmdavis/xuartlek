@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/rogue|Rogue]], [[srd/pf2e/compendium/character/archetypes/assassin|Assassin]] (Level 6), Verduran Shadow (Level 6), Lion Blade (Level 4)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/rogue-dedication|Rogue Dedication]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Rogue|Rogue]], [[srd/pf2e/compendium/character/archetypes/Assassin|Assassin]] (Level 6), Verduran Shadow (Level 6), Lion Blade (Level 4)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Rogue Dedication|Rogue Dedication]]
 
-You gain the [[srd/pf2e/compendium/character/classes/rogue|sneak attack]] class feature, except it deals 1d4 damage, increasing to 1d6 at 6th level. You don't increase the number of dice as you gain levels.
+You gain the [[srd/pf2e/compendium/character/classes/Rogue|sneak attack]] class feature, except it deals 1d4 damage, increasing to 1d6 at 6th level. You don't increase the number of dice as you gain levels.
 
 *Source: Player Core p. 221*

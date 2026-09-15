@@ -16,13 +16,13 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`  `Multiclass`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/rogue|Rogue]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Rogue|Rogue]]
 - **Prerequisites**: Dexterity +2
 
-You gain a skill feat and the rogue's [[srd/pf2e/compendium/character/classes/rogue|surprise attack]] class feature. You become trained in light armor. In addition, you become trained in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] or [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] plus one skill of your choice; if you are already trained in both Stealth and Thievery, you become trained in an additional skill of your choice. You become trained in rogue class DC.
+You gain a skill feat and the rogue's [[srd/pf2e/compendium/character/classes/Rogue|surprise attack]] class feature. You become trained in light armor. In addition, you become trained in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] or [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] plus one skill of your choice; if you are already trained in both Stealth and Thievery, you become trained in an additional skill of your choice. You become trained in rogue class DC.
 
 ### Rogue Dedication leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/basic-trickery|Basic Trickery]], [[srd/pf2e/compendium/feats/player-core/archetype/evasiveness-rogue|Evasiveness (Rogue)]], [[srd/pf2e/compendium/feats/player-core/archetype/skill-mastery-rogue|Skill Mastery (Rogue)]], [[srd/pf2e/compendium/feats/player-core/archetype/sneak-attacker|Sneak Attacker]], [[srd/pf2e/compendium/feats/player-core/archetype/uncanny-dodge|Uncanny Dodge]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Basic Trickery|Basic Trickery]], [[srd/pf2e/compendium/feats/player-core/archetype/Evasiveness (Rogue)|Evasiveness (Rogue)]], [[srd/pf2e/compendium/feats/player-core/archetype/Skill Mastery (Rogue)|Skill Mastery (Rogue)]], [[srd/pf2e/compendium/feats/player-core/archetype/Sneak Attacker|Sneak Attacker]], [[srd/pf2e/compendium/feats/player-core/archetype/Uncanny Dodge|Uncanny Dodge]]
 
 *Source: Player Core p. 221*

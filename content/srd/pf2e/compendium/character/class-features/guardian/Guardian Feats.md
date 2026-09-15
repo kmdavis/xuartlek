@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Guardian
 
-At 1st level and every even-numbered level thereafter, you gain a guardian class feat.
+At 1st level and every even-numbered level thereafter, you gain a [guardian class feat](https://2e.aonprd.com/Feats.aspx?Traits=859).
 
 *Source: Battlecry! p. 37*

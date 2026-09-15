@@ -30,10 +30,10 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Petran|Petran]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +3, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +5, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +3, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +3, [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] +5, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +3, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +5"
 abilityMods: [4, 1, 2, 0, 2, 0]
 abilities_top:
   - name: "Items"
@@ -54,9 +54,9 @@ abilities_mid:
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ bastard sword +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d12]]) __Damage__ 1d8+4 slashing"
+    desc: "⬻ bastard sword +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Two-Hand|two-hand d12]]) __Damage__ 1d8+4 slashing"
   - name: "Ranged"
-    desc: "⬻ light hammer +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d6+4 bludgeoning"
+    desc: "⬻ light hammer +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 20 feet]]) __Damage__ 1d6+4 bludgeoning"
 abilities_bot:
   - name: "Vicious Blow"
     desc: "⬺ The oread guard makes a melee Strike. This counts as two attacks when calculating the guard's multiple attack penalty. If this Strike hits, the oread guard deals an extra die of weapon damage."

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Backstabber`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/coatl-tribunal/tolte-coatl|Tolte Coatl]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/coatl-tribunal/Tolte Coatl|Tolte Coatl]]
 - **Price**: 8 gp
 - **Damage**: 1d10 P
 - **Bulk**: 2
@@ -23,8 +23,8 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Crossbow
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/crossbow/bolts|Bolts]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Crossbow|Crossbow]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/crossbow/Bolts|Bolts]]
 
 This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy
 
@@ -34,6 +34,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/jistkan-war-crossbow|Jistkan War Crossbow]]
+[[srd/pf2e/compendium/equipment/weapons/Jistkan War Crossbow|Jistkan War Crossbow]]
 
 *Source: Player Core p. 280*

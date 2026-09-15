@@ -30,10 +30,10 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; low-light vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] +4"
 abilityMods: [2, 4, 1, 1, 1, 0]
 abilities_top:
   - name: "Items"
@@ -51,7 +51,7 @@ attacks:
   - name: "Melee"
     desc: "⬻ trident +7 __Damage__ 1d8+2 piercing"
   - name: "Ranged"
-    desc: "⬻ trident +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d8+2 piercing"
+    desc: "⬻ trident +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 20 feet]]) __Damage__ 1d8+2 piercing"
 abilities_bot:
   - name: "Aquatic Dash"
     desc: "⬺ The merfolk warrior swims and attacks in one of two patterns. They either [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]] twice and Strike at the end of their movement, or Swim once and Strike at any point during their movement."

@@ -30,14 +30,14 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; low-light vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Kholo|Kholo]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Kholo|Kholo]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +15, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +13, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +15, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +18"
 abilityMods: [4, 3, 2, 1, 3, 0]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/weapons/bow/composite-shortbow|composite shortbow]]_ (20 arrows), _+1 [[srd/pf2e/compendium/equipment/weapons/axe/hatchet|hatchet]]_ (2), Hide Armor"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/weapons/bow/Composite Shortbow|composite shortbow]]_ (20 arrows), _+1 [[srd/pf2e/compendium/equipment/weapons/axe/Hatchet|hatchet]]_ (2), Hide Armor"
 ac: 25
 armorclass:
   - name: "AC"
@@ -52,13 +52,13 @@ abilities_mid:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _hatchet_ +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d6+7 slashing"
+    desc: "⬻ _hatchet_ +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|Sweep]]) __Damage__ 1d6+7 slashing"
   - name: "Melee"
     desc: "⬻ jaws +18 __Damage__ 1d6+7 piercing"
   - name: "Ranged"
-    desc: "⬻ _hatchet_ +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d6+7 slashing"
+    desc: "⬻ _hatchet_ +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|Sweep]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 10 feet]]) __Damage__ 1d6+7 slashing"
   - name: "Ranged"
-    desc: "⬻ _composite shortbow_ +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 60 feet, reload 0) __Damage__ 1d6+5 piercing"
+    desc: "⬻ _composite shortbow_ +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Propulsive|Propulsive]], range increment 60 feet, reload 0) __Damage__ 1d6+5 piercing"
 abilities_bot:
   - name: "Bloody Flurry"
     desc: "⬺ The kholo outrider Strikes, Steps, then Strikes again. If the kholo outrider hits the same enemy with both Strikes, that enemy takes an additional 1d6 persistent bleed damage."

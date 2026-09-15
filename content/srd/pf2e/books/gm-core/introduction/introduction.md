@@ -1,6 +1,7 @@
 ---
 title: "Introduction"
 aliases: ["Introduction"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2460"
 citation: "GM Core pg. 4"
-socialImage: og-image.png
 ---
 
 # Introduction
@@ -20,6 +20,6 @@ The focus of every Pathfinder game is the player characters—they’re the star
 
 ## Contents
 
-- [[srd/pf2e/books/gm-core/introduction/the-game-master|The Game Master]]
-- [[srd/pf2e/books/gm-core/introduction/how-to-use-this-book|How to Use This Book]]
-- [[srd/pf2e/books/gm-core/introduction/choosing-your-tools|Choosing Your Tools]]
+- [[srd/pf2e/books/gm-core/introduction/The Game Master|The Game Master]]
+- [[srd/pf2e/books/gm-core/introduction/How to Use This Book|How to Use This Book]]
+- [[srd/pf2e/books/gm-core/introduction/Choosing Your Tools|Choosing Your Tools]]

@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/pistol-phenom|Pistol Phenom]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/pistol-phenom-dedication|Pistol Phenom Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Pistol Phenom|Pistol Phenom]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Pistol Phenom Dedication|Pistol Phenom Dedication]]
 - **Requirements**: You're wielding a loaded firearm.
 
-Using a carefully aimed shot, you make a creature “dance.” You shoot at the ground near a target's feet, causing them to react involuntarily; even [[srd/pf2e/compendium/rules-elements/traits/player-core/mindless|mindless]] creatures have unconscious responses to dodge an attack, and you can capitalize off those uncontrollable reflexes to achieve your aim. As they dance to the sweet tune of your pistol's retort, you ensure your foe can't use whatever nasty surprise they had planned in store for you and your allies. Make an attack roll against the Reflex DC of a target creature within your firearm's first range increment.
+Using a carefully aimed shot, you make a creature “dance.” You shoot at the ground near a target's feet, causing them to react involuntarily; even [[srd/pf2e/compendium/rules-elements/traits/player-core/Mindless|mindless]] creatures have unconscious responses to dodge an attack, and you can capitalize off those uncontrollable reflexes to achieve your aim. As they dance to the sweet tune of your pistol's retort, you ensure your foe can't use whatever nasty surprise they had planned in store for you and your allies. Make an attack roll against the Reflex DC of a target creature within your firearm's first range increment.
 
-**Critical Success** The creature can't use reactions, is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]], and takes a –2 circumstance penalty to Reflex saves. These effects last until the start of its next turn.
+**Critical Success** The creature can't use reactions, is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]], and takes a –2 circumstance penalty to Reflex saves. These effects last until the start of its next turn.
 
 **Success** The creature can't use reactions until the start of its next turn.
 

@@ -20,6 +20,6 @@ Your connection to your iruxi ancestors manifests as a simple primal spell that 
 
 ### Bone Magic leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/ancestry/bone-investiture|Bone Investiture]], [[srd/pf2e/compendium/feats/player-core-2/ancestry/fossil-rider|Fossil Rider]]
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Bone Investiture|Bone Investiture]], [[srd/pf2e/compendium/feats/player-core-2/ancestry/Fossil Rider|Fossil Rider]]
 
 *Source: Player Core 2 p. 26*

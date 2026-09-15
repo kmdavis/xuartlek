@@ -26,13 +26,13 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Category**: Martial
 
-A recently developed weapon created for an elven champion from Jinin, the three-peaked tree can be used as both a trident and a [[srd/pf2e/compendium/equipment/weapons/firearm/dawnsilver-tree|dawnsilver tree]]. A three-peaked tree has a length of silken rope attached to the butt of its haft, allowing it to be quickly retrieved after thrown.
+A recently developed weapon created for an elven champion from Jinin, the three-peaked tree can be used as both a trident and a [[srd/pf2e/compendium/equipment/weapons/firearm/Dawnsilver Tree|dawnsilver tree]]. A three-peaked tree has a length of silken rope attached to the butt of its haft, allowing it to be quickly retrieved after thrown.
 
 ### Melee
 
 **Damage** 1d8 P
 
-**Group** Spear
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Spear|Spear]]
 
 ### Ranged
 
@@ -42,9 +42,9 @@ A recently developed weapon created for an elven champion from Jinin, the three-
 
 **Reload** 1
 
-**Group** Firearm
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
 
-**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
 ### Critical Specialization Effects
 

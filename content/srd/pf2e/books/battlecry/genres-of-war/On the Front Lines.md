@@ -1,6 +1,7 @@
 ---
 title: "On the Front Lines"
 aliases: ["On the Front Lines"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3431"
 citation: "Battlecry! pg. 198"
-socialImage: og-image.png
 ---
 
 # On the Front Lines

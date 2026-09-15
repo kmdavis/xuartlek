@@ -28,10 +28,10 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +5, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +5"
 abilityMods: [4, 2, 3, 0, 1, -1]
 abilities_top:
   - name: "Items"
@@ -57,7 +57,7 @@ attacks:
     desc: "⬻ heavy crossbow +8 (range increment 120 feet, reload 2) __Damage__ 1d10 piercing"
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 15 - __1st__ [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|Illusory Disguise]]"
+    desc: "DC 15 - __1st__ [[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|Illusory Disguise]]"
 sourcebook: "_Monster Core_, page 173."
 ```
 

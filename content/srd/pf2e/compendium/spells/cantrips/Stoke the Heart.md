@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Emotion`  `Hex`  `Uncommon`  `Witch`
 
-- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Faith's Flamekeeper|Faith's Flamekeeper]]
+- **Patron Theme**: [[srd/pf2e/compendium/character/Patrons#Faith's Flamekeeper|Faith's Flamekeeper]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: sustained up to 1 minute

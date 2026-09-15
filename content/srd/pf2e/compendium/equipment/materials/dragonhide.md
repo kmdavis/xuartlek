@@ -18,7 +18,7 @@ socialImage: og-image.png
 - **Price**: 350 gp
 - **Bulk**: L
 
-The hide and scales of a dragon can be used to [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] any item normally made of ordinary leather or hide. Dragonhide varies in color and texture, depending on the dragon it came from. Due to dragonhide's resiliency, it can also be used to Craft armor usually made out of metal plates (such as a [[srd/pf2e/compendium/equipment/armor#Breastplate|breastplate]], [[srd/pf2e/compendium/equipment/armor#Half Plate|half plate]], and [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]), allowing such armor to be made without metal. Dragonhide objects are immune to one damage type, depending on the tradition associated with the dragon. 
+The hide and scales of a dragon can be used to [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] any item normally made of ordinary leather or hide. Dragonhide varies in color and texture, depending on the dragon it came from. Due to dragonhide's resiliency, it can also be used to Craft armor usually made out of metal plates (such as a [[srd/pf2e/compendium/equipment/Armor#Breastplate|breastplate]], [[srd/pf2e/compendium/equipment/Armor#Half Plate|half plate]], and [[srd/pf2e/compendium/equipment/Armor#Full Plate|full plate]]), allowing such armor to be made without metal. Dragonhide objects are immune to one damage type, depending on the tradition associated with the dragon. 
 
 ## 
 
@@ -32,17 +32,15 @@ The hide and scales of a dragon can be used to [[srd/pf2e/compendium/rules-eleme
 
 #### Material Uses
 
-[[srd/pf2e/compendium/equipment/armor/dragonhide-armor|Dragonhide Armor]]
+[[srd/pf2e/compendium/equipment/armor/Dragonhide Armor|Dragonhide Armor]]
 
-[[srd/pf2e/compendium/equipment/shields/dragonhide-shield|Dragonhide Shield]]
+[[srd/pf2e/compendium/equipment/shields/Dragonhide Shield|Dragonhide Shield]]
 
 ### Dragonhide Object (Standard-Grade)
 
 **Price** 350 gp (per Bulk)
 
 **Bulk** L
-
-**Craft Requirements** The initial raw materials must include dragonhide worth at least 200 gp + 20 per Bulk
 
 ### Dragonhide Object (High-Grade)
 

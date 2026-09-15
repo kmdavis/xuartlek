@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/spellshifter|Spellshifter]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/spellshifter-dedication|Spellshifter Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Spellshifter|Spellshifter]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Spellshifter Dedication|Spellshifter Dedication]]
 
 Your innate power can shut down other magic. You gain the Dismantle Spell spellshift.
 
-**Spellshift—Dismantle Spell** You attempt to [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] a spell or at least suppress its effect for a time.
+**Spellshift—Dismantle Spell** You attempt to [[srd/pf2e/books/player-core/chapter-7-spells/Counteracting|counteract]] a spell or at least suppress its effect for a time.
 
 **Critical Success** The spell is counteracted if its rank is no more than 1 higher than half your level rounded up.
 

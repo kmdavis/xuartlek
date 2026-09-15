@@ -17,12 +17,12 @@ socialImage: og-image.png
 
 `Cold`  `Concentrate`  `Manipulate`  `Water`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Reflex
 - **Duration**: sustained up to 1 minute
 
-Ice crystallizes around a creature, imprisoning it within an icy pillar. On a successful saving throw, the creature is pushed to an adjacent space of its choice; otherwise, it's frozen inside the pillar and becomes [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] as its body can barely move within the ice. The ice has AC 10, Hardness 10, and 60 Hit Point; it's immune to critical hits, cold damage, and precision damage, and it has weakness 15 to fire. If the ice is destroyed, the creature within is freed and the spell immediately ends.
+Ice crystallizes around a creature, imprisoning it within an icy pillar. On a successful saving throw, the creature is pushed to an adjacent space of its choice; otherwise, it's frozen inside the pillar and becomes [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] as its body can barely move within the ice. The ice has AC 10, Hardness 10, and 60 Hit Point; it's immune to critical hits, cold damage, and precision damage, and it has weakness 15 to fire. If the ice is destroyed, the creature within is freed and the spell immediately ends.
 
 *Source: Rage of Elements p. 173*

@@ -24,21 +24,21 @@ Constitution or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|Shortsword]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Shortsword|Shortsword]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/domains#Luck|Luck]], [[srd/pf2e/compendium/character/domains#Soul|Soul]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Healing|Healing]], [[srd/pf2e/compendium/character/Domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/Domains#Luck|Luck]], [[srd/pf2e/compendium/character/Domains#Soul|Soul]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Swarm|Swarm]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Swarm|Swarm]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/ill-omen|Ill Omen]]
+[[srd/pf2e/compendium/spells/rank-1/Ill Omen|Ill Omen]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/insect-form|Insect Form]]
+[[srd/pf2e/compendium/spells/rank-3/Insect Form|Insect Form]]
 
 - **5th**
 Flammable Fumes

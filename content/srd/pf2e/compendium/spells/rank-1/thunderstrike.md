@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Electricity`  `Manipulate`  `Sonic`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: Anras, Baekho, [[srd/pf2e/compendium/deities/infernal-dukes/haborym|Haborym]], [[srd/pf2e/compendium/deities/orc-gods/rull|Rull]], [[srd/pf2e/compendium/deities/empyreal-lords/valani|Valani]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Anras, Baekho, [[srd/pf2e/compendium/deities/infernal-dukes/Haborym|Haborym]], [[srd/pf2e/compendium/deities/orc-gods/Rull|Rull]], [[srd/pf2e/compendium/deities/empyreal-lords/Valani|Valani]]
 - **Range**: 120 feet
 - **Target**: 1 creature
 - **Defense**: basic Reflex

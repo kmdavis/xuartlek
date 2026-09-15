@@ -1,6 +1,7 @@
 ---
 title: "Connection Subsystem"
 aliases: ["Connection Subsystem"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3398"
 citation: "NPC Core pg. 226"
-socialImage: og-image.png
 ---
 
 # Connection Subsystem
@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 The connection subsystem is designed to be used for adventure arcs or campaigns that span multiple sessions and is flexible for a range of relationship types. It can be used to track the changes in a romantic relationship, friendship, business partnership, or the bond between siblings. A PC advances through Connection Tiers by investing in relationships with NPCs or loses Connection Tiers by affronting NPCs.
 
-This subsystem has many similarities to [[srd/pf2e/books/gm-core/chapter-4-subsystems/reputation#Reputations|reputation]] but is simplified since it's meant to be overall more interpersonal and less campaign-shaping. It's also notably harder to improve from the worst depths of a hostile connection.
+This subsystem has many similarities to [[srd/pf2e/books/gm-core/chapter-4-subsystems/Reputation#Reputations|reputation]] but is simplified since it's meant to be overall more interpersonal and less campaign-shaping. It's also notably harder to improve from the worst depths of a hostile connection.
 
 > [!pf2-sidebar] CONSENT, SAFETY, AND IN-GAME RELATIONSHIPS
 >
@@ -30,7 +30,7 @@ This subsystem has many similarities to [[srd/pf2e/books/gm-core/chapter-4-subsy
 >
 > ## Check-Ins And Calibrations
 >
-> Participants—Game Masters and players—should never be forced into roleplaying a romantic relationship without their consent. When it seems like romantic relationships may come up in the game, all participants should discuss their boundaries. This should include both the type of relationship they're interested in exploring in the game and the amount of detail involved. For example, a player may want to have an NPC as a background relationship that rarely comes into the spotlight, while another player may want to be more detailed. When considering these boundaries, consider the relationship between the players and the level of trust. [[srd/pf2e/books/gm-core/chapter-1-running-the-game/a-welcoming-environment#The Pathfinder Baseline|Specific safety tools]] can be helpful in defining these boundaries and providing a safety net during play.
+> Participants—Game Masters and players—should never be forced into roleplaying a romantic relationship without their consent. When it seems like romantic relationships may come up in the game, all participants should discuss their boundaries. This should include both the type of relationship they're interested in exploring in the game and the amount of detail involved. For example, a player may want to have an NPC as a background relationship that rarely comes into the spotlight, while another player may want to be more detailed. When considering these boundaries, consider the relationship between the players and the level of trust. [[srd/pf2e/books/gm-core/chapter-1-running-the-game/A Welcoming Environment#The Pathfinder Baseline|Specific safety tools]] can be helpful in defining these boundaries and providing a safety net during play.
 >
 > Out-of-character check-ins and calibrations are useful after big moments between two characters (such as a rejection of an advance or a pivotal moment that makes a relationship more intense). However, they should also occur any time events in a game seem to affect the relationship between players. Check-ins can occur mid-scene, particularly if a participant is reacting negatively to the way the game is playing out. Since the excitement of playing can influence emotions, it's also good practice to do occasional check-ins outside of gaming sessions.
 >

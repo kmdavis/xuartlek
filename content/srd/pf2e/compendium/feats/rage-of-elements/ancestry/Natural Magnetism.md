@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 Your connection with elemental iron grants you a natural field of weak magnetic attraction. You can cast _magnetic attraction_ and _magnetic repulsion_ once per day each as 2nd-rank primal innate spells.
 
-**Special** If you chose the [[srd/pf2e/compendium/feats/rage-of-elements/ancestry/gildedsoul|gildedsoul]] lineage, you can replace one of the above spells with _enthrall_.
+**Special** If you chose the [[srd/pf2e/compendium/feats/rage-of-elements/ancestry/Gildedsoul|gildedsoul]] lineage, you can replace one of the above spells with _enthrall_.
 
 *Source: Rage of Elements p. 53*

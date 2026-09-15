@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/weapon-improviser|Weapon Improviser]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/weapon-improviser-dedication|Weapon Improviser Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Weapon Improviser|Weapon Improviser]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Weapon Improviser Dedication|Weapon Improviser Dedication]]
 
 You quickly snatch up whatever is nearby and then attack with it as an improvised weapon. You Interact to pick up an unattended object in reach you could use as an improvised weapon, then [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with that improvised weapon.
 

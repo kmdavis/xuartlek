@@ -16,17 +16,17 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`  `Multiclass`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/summoner|Summoner]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Summoner|Summoner]]
 - **Prerequisites**: Charisma +2
 
-You’ve formed a bond with an eidolon, an entity that manifests in a physical body only through their link to your life force. You gain an eidolon as well as the Manifest Eidolon activity. Due to your tenuous link, you can’t gain or use [[srd/pf2e/compendium/rules-elements/traits/impossible-magic/tandem|tandem]] actions. Because you don’t have Act Together, only you or your eidolon can perform an [[srd/pf2e/books/player-core/chapter-1-introduction/playing-the-game#Exploration|exploration]] activity at one time. 
+You’ve formed a bond with an eidolon, an entity that manifests in a physical body only through their link to your life force. You gain an [[srd/pf2e/compendium/character/eidolons/eidolons|eidolon]] as well as the Manifest Eidolon activity. Due to your tenuous link, you can’t gain or use [[srd/pf2e/compendium/rules-elements/traits/impossible-magic/Tandem|tandem]] actions. Because you don’t have Act Together, only you or your eidolon can perform an [[srd/pf2e/books/player-core/chapter-1-introduction/Playing the Game#Exploration|exploration]] activity at one time. 
 
-Your eidolon is trained in unarmed attacks and unarmored defense, and shares your proficiency rank for [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Perception|Perception]], saving throws, and skill checks. Choose an eidolon type. You become trained in your eidolon’s listed skills. For each of those skills that you’re already trained in, you become trained in a different skill of your choice. Your eidolon’s initial attributes are reduced. Instead of starting with a +4 attribute modifier in Strength or Dexterity and +2 in the other, your eidolon starts with a +3 in Strength or Dexterity and +2 in the other attribute. They otherwise gain the statistics listed for an eidolon of that type. 
+Your eidolon is trained in unarmed attacks and unarmored defense, and shares your proficiency rank for [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation#Perception|Perception]], saving throws, and skill checks. Choose an eidolon type. You become trained in your eidolon’s listed skills. For each of those skills that you’re already trained in, you become trained in a different skill of your choice. Your eidolon’s initial attributes are reduced. Instead of starting with a +4 attribute modifier in Strength or Dexterity and +2 in the other, your eidolon starts with a +3 in Strength or Dexterity and +2 in the other attribute. They otherwise gain the statistics listed for an eidolon of that type. 
 
 At 5th level, the eidolon’s attribute modifier that was reduced to +3 increases to +4, before applying attribute boosts. At levels 5, 10, 15, and 20, your eidolon also gets four attribute boosts, which follow the same rules as yours.
 
 ### Summoner Dedication leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/archetype/basic-summoner-spellcasting|Basic Summoner Spellcasting]], [[srd/pf2e/compendium/feats/impossible-magic/archetype/basic-synergy|Basic Synergy]], [[srd/pf2e/compendium/feats/impossible-magic/archetype/expert-combat-eidolon|Expert Combat Eidolon]], [[srd/pf2e/compendium/feats/impossible-magic/archetype/initial-eidolon-ability|Initial Eidolon Ability]]
+[[srd/pf2e/compendium/feats/impossible-magic/archetype/Basic Summoner Spellcasting|Basic Summoner Spellcasting]], [[srd/pf2e/compendium/feats/impossible-magic/archetype/Basic Synergy|Basic Synergy]], [[srd/pf2e/compendium/feats/impossible-magic/archetype/Expert Combat Eidolon|Expert Combat Eidolon]], [[srd/pf2e/compendium/feats/impossible-magic/archetype/Initial Eidolon Ability|Initial Eidolon Ability]]
 
 *Source: Impossible Magic p. 91*

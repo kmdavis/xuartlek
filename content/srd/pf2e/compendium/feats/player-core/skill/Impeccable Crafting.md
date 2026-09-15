@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]; [[srd/pf2e/compendium/feats/player-core/skill/specialty-crafting|Specialty Crafting]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]; [[srd/pf2e/compendium/feats/player-core/skill/Specialty Crafting|Specialty Crafting]]
 
 You craft flawless creations with great efficiency. Whenever you roll a success at a Crafting check to make an item of the type you chose with Specialty Crafting, you get a critical success instead.
 

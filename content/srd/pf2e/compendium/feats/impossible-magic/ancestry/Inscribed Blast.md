@@ -22,6 +22,6 @@ Some of the patterning on your exterior covering is not just decorative but is i
 
 At 10th level and every 5 levels thereafter, the damage increases by 1d4.
 
-**Enhancement** You can re-inscribe your runes with 10 minutes of work as an [[srd/pf2e/books/player-core/chapter-1-introduction/playing-the-game#Exploration|exploration]] activity.
+**Enhancement** You can re-inscribe your runes with 10 minutes of work as an [[srd/pf2e/books/player-core/chapter-1-introduction/Playing the Game#Exploration|exploration]] activity.
 
 *Source: Impossible Magic p. 111*

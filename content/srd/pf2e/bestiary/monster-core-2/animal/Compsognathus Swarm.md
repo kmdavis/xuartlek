@@ -32,7 +32,7 @@ perception:
     desc: "+9; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +10"
 abilityMods: [2, 4, 2, 0, 1, 0]
 ac: 19
 armorclass:
@@ -41,7 +41,7 @@ armorclass:
 hp: 40
 health:
   - name: "HP"
-    desc: "40; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]], precision, [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]], swarm mind; __Resistances__ bludgeoning 2, piercing 5, slashing 5; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
+    desc: "40; __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]], precision, [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]], [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]], swarm mind; __Resistances__ bludgeoning 2, piercing 5, slashing 5; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 5"
 abilities_mid:
   - name: "Evade"
     desc: "⬲"
@@ -52,15 +52,15 @@ abilities_mid:
 speed: "30 feet, swim 15 feet"
 abilities_bot:
   - name: "Venomous Bites"
-    desc: "⬻ Each enemy in the swarm's space takes 2d4 piercing damage (DC 20 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). A creature who fails the save is also exposed to compsognathus venom."
+    desc: "⬻ Each enemy in the swarm's space takes 2d4 piercing damage (DC 20 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save). A creature who fails the save is also exposed to compsognathus venom."
   - name: "Compsognathus Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 20 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "1d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 (1 round)"
+    desc: "1d6 poison damage and [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]] 1 (1 round)"
   - name: "Stage 2"
     desc: "1d8 poison damage and enfeebled 1 (1 round) Dinosaur Swarms Because they all depend on laying eggs to reproduce, dinosaurs generally have nesting areas of which they're fiercely protective. While larger dinosaurs like allosauruses are slightly more prepared to take on a threat alone, smaller species often rely on safety in numbers to protect their homes. Once a threat is posed to their eggs, these diminutive creatures seem to form a cloud of frenzied jaws and claws, all moving together as if sharing one mind."
 sourcebook: "_Monster Core 2_, page 106."

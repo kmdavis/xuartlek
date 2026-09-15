@@ -24,23 +24,23 @@ Constitution or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/warhammer|Warhammer]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/Warhammer|Warhammer]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Decay|Decay]], [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Decay|Decay]], [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Disorientation|Disorientation]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Disorientation|Disorientation]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/ill-omen|Ill Omen]]
+[[srd/pf2e/compendium/spells/rank-1/Ill Omen|Ill Omen]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/synaptic-pulse|Synaptic Pulse]]
+[[srd/pf2e/compendium/spells/rank-5/Synaptic Pulse|Synaptic Pulse]]
 
 - **9th**
-[[srd/pf2e/compendium/spells/rank-9/unfathomable-song|Unfathomable Song]]
+[[srd/pf2e/compendium/spells/rank-9/Unfathomable Song|Unfathomable Song]]
 
 *Source: Divine Mysteries p. 318*

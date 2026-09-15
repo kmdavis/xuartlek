@@ -20,6 +20,6 @@ You unlock deeper revelations hidden within your mystery. You gain your mysteryâ
 
 ### Greater Revelation leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/paradoxical-mystery|Paradoxical Mystery]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Paradoxical Mystery|Paradoxical Mystery]]
 
 *Source: Player Core 2 p. 142*

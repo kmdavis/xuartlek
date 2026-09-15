@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Athamaru`  `Locathah`
 
-You've tended to your coral jewelry so well that you have formed a symbiotic relationship with it. The powerful filtration properties of this coral protect you from impurities. You gain a +1 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poisons]], and your flat check to remove persistent poison damage is DC 10 instead of DC 15, which is reduced to DC 5 if another creature uses a particularly appropriate action to help. You must submerge yourself in water once every 24 hours to hydrate your coral or you lose the bonuses granted by the symbiotes.
+You've tended to your coral jewelry so well that you have formed a symbiotic relationship with it. The powerful filtration properties of this coral protect you from impurities. You gain a +1 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poisons]], and your flat check to remove persistent poison damage is DC 10 instead of DC 15, which is reduced to DC 5 if another creature uses a particularly appropriate action to help. You must submerge yourself in water once every 24 hours to hydrate your coral or you lose the bonuses granted by the symbiotes.
 
 ### Coral Symbiotes leads to...
 
-[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/coral-detoxification|Coral Detoxification]], [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/coral-growth|Coral Growth]], [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/coral-lifeline|Coral Lifeline]], [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/coral-reserve|Coral Reserve]]
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Coral Detoxification|Coral Detoxification]], [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Coral Growth|Coral Growth]], [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Coral Lifeline|Coral Lifeline]], [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Coral Reserve|Coral Reserve]]
 
 *Source: Howl of the Wild p. 19*

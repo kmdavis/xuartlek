@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Uncommon`  `Water`
 
-- **Traditions**: Arcane, Divine, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Cast**: 1 minute
 - **Target**: 1 body of water of at least 5 square feet
 - **Duration**: sustained up to 10 minutes

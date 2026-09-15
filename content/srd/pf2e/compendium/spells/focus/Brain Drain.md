@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Focus`  `Manipulate`  `Mental`  `Oracle`  `Uncommon`
 
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Lore|Lore]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Lore|Lore]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Summoner`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/summoner|summoner class.]]
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Summoner|summoner class.]]
 
 *Source: Impossible Magic p. 254*

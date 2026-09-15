@@ -16,15 +16,15 @@ socialImage: og-image.png
 
 `Concentrate`  `Light`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 120 feet
-- **Area**: 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
+- **Area**: 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
 - **Defense**: Fortitude
 - **Duration**: 1 minute
 
-You create an area of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Bright Light|bright light]]. Creatures with light blindness that are [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] by radiant field and remain in the area must attempt a Fortitude save at the start of their turns. On a failure, a creature remains blinded for 1 round; this is an [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]] effect. This spell also suppresses magical [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Darkness|darkness]] of your radiant field spell’s rank or lower.
+You create an area of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Bright Light|bright light]]. Creatures with light blindness that are [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] by radiant field and remain in the area must attempt a Fortitude save at the start of their turns. On a failure, a creature remains blinded for 1 round; this is an [[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|incapacitation]] effect. This spell also suppresses magical [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Darkness|darkness]] of your radiant field spell’s rank or lower.
 
 ---
-**Heightened (4th)** Creatures seen through the area are [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] to creatures outside the area. Creatures with light blindness can continue to be blinded by the field as long as the field is visible, even when outside of the field.
+**Heightened (4th)** Creatures seen through the area are [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] to creatures outside the area. Creatures with light blindness can continue to be blinded by the field as long as the field is visible, even when outside of the field.
 
 *Source: Divine Mysteries p. 259*

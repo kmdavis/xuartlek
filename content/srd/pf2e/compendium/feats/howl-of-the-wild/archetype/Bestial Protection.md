@@ -17,9 +17,9 @@ socialImage: og-image.png
 
 `Archetype`  `Emotion`  `Fear`  `Mental`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/beastmaster|Beastmaster]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Beastmaster|Beastmaster]]
 - **Prerequisites**: Beastmaster Dedication; animal companion that’s Large or larger
 
-Your companion's mere presence is enough to rattle creatures that fall under its shadow. When a creature adjacent to your animal companion that's smaller than it targets you with an attack, that creature becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]].
+Your companion's mere presence is enough to rattle creatures that fall under its shadow. When a creature adjacent to your animal companion that's smaller than it targets you with an attack, that creature becomes [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened 1]].
 
 *Source: Howl of the Wild p. 66*

@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Tradition**: Primal
-- **Deities**: Etaris, [[srd/pf2e/compendium/deities/faiths-philosophies/green-faith|Green Faith]], Rowdrosh
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Etaris, [[srd/pf2e/compendium/deities/faiths-philosophies/Green Faith|Green Faith]], Rowdrosh
 - **Duration**: 1 hour
 
-You can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill with animals. The spell doesn't make them more friendly than normal. Cunning animals are likely to be terse and evasive, while less intelligent ones often make inane comments.
+You can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] skill with animals. The spell doesn't make them more friendly than normal. Cunning animals are likely to be terse and evasive, while less intelligent ones often make inane comments.
 
 *Source: Player Core p. 358*

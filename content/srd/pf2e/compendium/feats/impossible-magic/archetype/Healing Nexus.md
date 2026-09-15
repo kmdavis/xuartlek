@@ -17,9 +17,9 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`  `Healing`  `Magical`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/living-nexus|Living Nexus]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Living Nexus|Living Nexus]]
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/living-nexus-dedication|Living Nexus Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Living Nexus Dedication|Living Nexus Dedication]]
 - **Requirements**: You are overflowing.
 
 You metabolize some of the magic you absorb into your internal nexus to stitch together any wounds on the rest of your body. You heal 30 Hit Points. At 10th level and every 2 levels thereafter, the amount of healing increases by 5. You are no longer overflowing.

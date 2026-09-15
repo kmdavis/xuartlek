@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Magical`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/vehicle-mechanic|Vehicle Mechanic]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/vehicle-mechanic-dedication|Vehicle Mechanic Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Vehicle Mechanic|Vehicle Mechanic]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]]
 
-With superior engineering and magical application, you have freed your signature vehicle from the bonds of gravity, allowing it to soar through the sky like a dragon. The vehicle gains magical propulsion and a fly Speed equal to its fastest current Speed. If your signature vehicle already had a fly Speed, reduce the distance the vehicle needs to make a 90-degree turn to half the usual length (typically half the length of the vehicle).
+With superior engineering and magical application, you have freed your signature [[srd/pf2e/compendium/equipment/vehicles/vehicles|vehicle]] from the bonds of gravity, allowing it to soar through the sky like a dragon. The vehicle gains magical propulsion and a fly Speed equal to its fastest current Speed. If your signature vehicle already had a fly Speed, reduce the distance the vehicle needs to make a 90-degree turn to half the usual length (typically half the length of the vehicle).
 
 *Source: Guns & Gears (Remastered) p. 57*

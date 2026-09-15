@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Guardian`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/class/shield-from-arrows|Shield from Arrows]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/class/Shield from Arrows|Shield from Arrows]]
 
 Your prowess with a shield allows you to block magic and more. You can use Shield from Arrows against ranged spell attacks and other ranged attacks, not just physical ranged Strikes.
 

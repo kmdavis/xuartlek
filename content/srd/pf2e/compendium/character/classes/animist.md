@@ -59,7 +59,7 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 #### Skills
 
-Trained in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] and either [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+Trained in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] and either [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] or [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
  Trained in a number of additional skills equal to 2 plus your Intelligence modifier
 
 | | |
@@ -120,11 +120,11 @@ In addition to what you get from your class at 1st level, you have four free boo
 
 Animists have a gift for divine magic that allows them to serve as conduits or bridges for otherworldly spiritual entities known collectively as apparitions; through them, these entities can commune and interact with the physical world in a process called attunement. Apparitions are myriad and diverse: they may be human spirits lingering on the border between becoming phantoms or ghosts, animal spirits with particularly strong connections to the physical world but lacking the malice that would spur a transition into true undeath, manifestations of natural locations that have grown thought and purpose over time, or they may be a different variation altogether. Some animists attune to one or more specific apparitions that accompany them in their travels, forming deep partnerships over time, while others adapt to their surroundings by befriending the local apparitions who dwell wherever the animist's journey takes them.
 
- Each day during your daily preparations, choose two apparitions to attune to. Of these, choose one to be your primary apparition. Your attuned apparitions each grant you knowledge in the form of [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] skills and a repertoire of additional spells you can cast using apparition spellcasting (see below), and your primary apparition grants you even further power in the form a unique vessel focus spell and, when you are higher level, a unique [[srd/pf2e/compendium/spells/rank-10/avatar|_avatar_]] form.
+ Each day during your daily preparations, choose two apparitions to attune to. Of these, choose one to be your primary apparition. Your attuned apparitions each grant you knowledge in the form of [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] skills and a repertoire of additional spells you can cast using apparition spellcasting (see below), and your primary apparition grants you even further power in the form a unique vessel focus spell and, when you are higher level, a unique [[srd/pf2e/compendium/spells/rank-10/Avatar|_avatar_]] form.
 
  When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]], you can change which of your currently attuned apparitions is your primary apparition, selecting from any of the apparitions you attuned to during your daily preparations. All your apparitions typically remain attuned to you until your next daily preparations, but some animist abilities can temporarily disperse them, usually in exchange for a powerful boon. If an apparition is dispersed, you lose access to its gifts—you forget its apparition skills, its spells are removed from your apparition spell repertoire, and you can't use its vessel spell or _avatar_ form—until you attune to it again. When you disperse your primary apparition, one of your remaining apparitions becomes your primary apparition, chosen by you at the time of dispersal.
 
- See [[srd/pf2e/compendium/character/apparitions|Animist Apparitions]] for more information.
+ See [[srd/pf2e/compendium/character/Apparitions|Animist Apparitions]] for more information.
 
 #### Animist & Apparition Spellcasting
 
@@ -166,11 +166,11 @@ Your role as a spiritual medium connecting the mortal Universe to the realms bey
 
 #### Animistic Practice
 
-At 1st level, you choose an animistic practice that influences the way your power grows and develops, and you gain its first invocation. At 9th level, you gain its second invocation, and at 17th, you gain its third.
+At 1st level, you choose an [[srd/pf2e/compendium/character/Practices|animistic practice]] that influences the way your power grows and develops, and you gain its first invocation. At 9th level, you gain its second invocation, and at 17th, you gain its third.
 
 | | |
 | --- | --- |
-| **Animist Feats** | At 2nd level and every even-numbered level, you gain an animist class feat. |
+| **Animist Feats** | At 2nd level and every even-numbered level, you gain an [animist class feat](https://2e.aonprd.com/Feats.aspx?Traits=836). |
 | **Skill Feats** | At 2nd level and every 2 levels thereafter, you gain a skill feat. You must be trained or better in the corresponding skill to select a skill feat. |
 | **Fortitude Expertise** | Spiritual energy reinforces your body, making you more resilient. Your proficiency rank for Fortitude saves increases to expert. |
 | **General Feats** | At 3rd level and every 4 levels thereafter, you gain a general feat. |
@@ -224,6 +224,6 @@ You are a near-perfect channel for the magical energies of the realms beyond. Yo
 
 #### Supreme Incarnation
 
-You become a nexus between the mortal and spiritual realms through which your apparition can embody its full might. You gain a 10th-rank apparition spell slot. In addition to heightened versions of your apparition spells, you can use this slot to cast [[srd/pf2e/compendium/spells/rank-10/avatar|_avatar_]]. When you cast _avatar_ in this way, you do not become an avatar of a deity; rather, your primary attuned apparition incarnates itself using your body, transforming you into the avatar described in your primary attuned apparition's entry.
+You become a nexus between the mortal and spiritual realms through which your apparition can embody its full might. You gain a 10th-rank apparition spell slot. In addition to heightened versions of your apparition spells, you can use this slot to cast [[srd/pf2e/compendium/spells/rank-10/Avatar|_avatar_]]. When you cast _avatar_ in this way, you do not become an avatar of a deity; rather, your primary attuned apparition incarnates itself using your body, transforming you into the avatar described in your primary attuned apparition's entry.
 
 *Source: War of Immortals p. 10*

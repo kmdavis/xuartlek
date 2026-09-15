@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 - **Frequency**: once per day
 
-You secrete a cloak of concentrated poison that harms any who dare attack you. For 1 minute, any creature that touches you or damages you with an unarmed attack or melee weapon without the [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] trait takes 3d6 poison damage.
+You secrete a cloak of concentrated poison that harms any who dare attack you. For 1 minute, any creature that touches you or damages you with an unarmed attack or melee weapon without the [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach]] trait takes 3d6 poison damage.
 
 *Source: Player Core p. 69*

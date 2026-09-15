@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Guardian`
 
-Even if you're knocked off balance, your armor continues to protect you. You don't take a penalty to AC from the [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] condition if you're wearing medium or heavy armor. Your clumsy condition still applies to other Dexterity-based checks and DCs, and this benefit is negated if the armor is broken.
+Even if you're knocked off balance, your armor continues to protect you. You don't take a penalty to AC from the [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]] condition if you're wearing medium or heavy armor. Your clumsy condition still applies to other Dexterity-based checks and DCs, and this benefit is negated if the armor is broken.
 
 *Source: Battlecry! p. 46*

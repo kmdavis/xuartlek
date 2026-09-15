@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Healing`  `Manipulate`  `Vitality`  `Positive`
 
-- **Tradition**: Divine
+- **Tradition**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2)
 - **Range**: 60 feet
 - **Target**: 1 willing living creature
 

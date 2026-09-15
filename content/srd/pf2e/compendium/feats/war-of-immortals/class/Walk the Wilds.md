@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Animist`
 
-You know the ways of birds and beasts and have gained the right to wear their forms. You add [[srd/pf2e/compendium/spells/rank-2/animal-form|_animal form_]] to your apparition spell repertoire, allowing you to cast it with your apparition spellcasting.
+You know the ways of birds and beasts and have gained the right to wear their forms. You add [[srd/pf2e/compendium/spells/rank-2/Animal Form|_animal form_]] to your apparition spell repertoire, allowing you to cast it with your apparition spellcasting.
 
-**Special** If you cast the [[srd/pf2e/compendium/spells/focus/darkened-forest-form|_darkened forest form_]] focus spell to turn into a form granted by animal form, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] it up to 5 minutes instead of its normal duration.
+**Special** If you cast the [[srd/pf2e/compendium/spells/focus/Darkened Forest Form|_darkened forest form_]] focus spell to turn into a form granted by animal form, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] it up to 5 minutes instead of its normal duration.
 
 ### Walk the Wilds leads to...
 
-[[srd/pf2e/compendium/feats/war-of-immortals/class/wind-seeker|Wind Seeker]]
+[[srd/pf2e/compendium/feats/war-of-immortals/class/Wind Seeker|Wind Seeker]]
 
 *Source: War of Immortals p. 24*

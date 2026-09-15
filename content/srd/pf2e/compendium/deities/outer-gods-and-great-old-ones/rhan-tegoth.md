@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/sickle|Sickle]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Sickle|Sickle]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Decay|Decay]], [[srd/pf2e/compendium/character/domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/domains#Time|Time]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Decay|Decay]], [[srd/pf2e/compendium/character/Domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/Domains#Time|Time]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Star|Star]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Star|Star]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/sleep|Sleep]]
+[[srd/pf2e/compendium/spells/rank-1/Sleep|Sleep]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/one-with-stone|One with Stone]]
+[[srd/pf2e/compendium/spells/rank-3/One with Stone|One with Stone]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/phantasmal-calamity|Phantasmal Calamity]]
+[[srd/pf2e/compendium/spells/rank-6/Phantasmal Calamity|Phantasmal Calamity]]
 
 *Source: Divine Mysteries p. 318*

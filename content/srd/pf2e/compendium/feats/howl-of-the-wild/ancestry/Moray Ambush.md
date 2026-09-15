@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Athamaru`  `Locathah`
 
-- **Trigger**: You are [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] and a creature who hasn’t detected you passes within 20 feet of you.
+- **Trigger**: You are [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] and a creature who hasn’t detected you passes within 20 feet of you.
 
-Like the moray eels athamaru communities raise and train, you know how to quickly strike from hiding. Stride or [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]] directly toward the triggering creature and make a melee Strike against it. The target creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to this attack.
+Like the moray eels athamaru communities raise and train, you know how to quickly strike from hiding. Stride or [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]] directly toward the triggering creature and make a melee Strike against it. The target creature is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to this attack.
 
 **Special** If you’re mounted on an eel, you can have the eel move instead of yourself.
 

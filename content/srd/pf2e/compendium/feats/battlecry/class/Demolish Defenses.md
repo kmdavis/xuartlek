@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Guardian`
 
-With a powerful blow, you crack a foe's armor or tough hide, opening it up for further attacks. Make a melee Strike. This Strike deals one additional weapon die of damage; if the target is your taunted enemy, this increases to two additional weapon die of damage. This counts as two attacks for the purposes of calculating your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Multiple Attack Penalty|multiple attack penalty]]. If you hit and deal damage, the target must attempt a Fortitude saving throw against your class DC. 
+With a powerful blow, you crack a foe's armor or tough hide, opening it up for further attacks. Make a melee Strike. This Strike deals one additional weapon die of damage; if the target is your taunted enemy, this increases to two additional weapon die of damage. This counts as two attacks for the purposes of calculating your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Multiple Attack Penalty|multiple attack penalty]]. If you hit and deal damage, the target must attempt a Fortitude saving throw against your class DC. 
 **Critical Success** The target takes no additional effect. 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the end of your next turn. 
-**Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 2 until the end of your next turn. Once it loses this clumsy condition, it's off-guard for 1 round. 
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] until the end of your next turn. 
+**Failure** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]] 2 until the end of your next turn. Once it loses this clumsy condition, it's off-guard for 1 round. 
 **Critical Failure** As failure, but the target is clumsy 3.
 
 *Source: Battlecry! p. 49*

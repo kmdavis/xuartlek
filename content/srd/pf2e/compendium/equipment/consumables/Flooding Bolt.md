@@ -17,7 +17,7 @@ socialImage: og-image.png
 `Consumable`  `Magical`  `Water`
 
 - **Price**: 75 gp
-- **Ammunition**: heavy ballista bolt ([[srd/pf2e/compendium/equipment/siege-weapons/heavy-ballista|heavy ballista]])
+- **Ammunition**: heavy ballista bolt ([[srd/pf2e/compendium/equipment/siege-weapons/Heavy Ballista|heavy ballista]])
 
 The hardened glass head of this bolt is filled with sloshing sea water. Designed for sinking ships in naval combat, this bolt does damage as normal for its weapon type. If it deals damage to the ship’s hull, it pierces through the wall and lodges itself in place, the tip shattering and flooding the hold at a rate of 10 gallons per round for 1 minute. This bolt can be removed from the hull with an [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] action.
 

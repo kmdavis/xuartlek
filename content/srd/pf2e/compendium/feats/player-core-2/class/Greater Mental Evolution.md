@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Sorcerer`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/arcane-evolution|Arcane Evolution]] or [[srd/pf2e/compendium/feats/player-core-2/class/occult-evolution|Occult Evolution]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Arcane Evolution|Arcane Evolution]] or [[srd/pf2e/compendium/feats/player-core-2/class/Occult Evolution|Occult Evolution]]
 
 Your bloodline's deep connection to mental essence greatly enhances your spell repertoire. Add one spell to your spell repertoire for each spell rank you can cast.
 

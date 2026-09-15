@@ -16,11 +16,11 @@ socialImage: og-image.png
 
 `Invocation`  `Mental`  `Runesmith`
 
-Invoking runes from two schools of magic that both manipulate the intangible realm of thought results in waves of mental interference that stagger your foes. You [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Invoke Rune|Invoke two Runes]]; one must be an [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]] rune, and one must be an [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]] rune. In addition to the runes’ normal effects, one creature within 30 feet of both invoked runes must attempt a Will saving throw.
+Invoking runes from two schools of magic that both manipulate the intangible realm of thought results in waves of mental interference that stagger your foes. You [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Invoke Rune|Invoke two Runes]]; one must be an [[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]] rune, and one must be an [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]] rune. In addition to the runes’ normal effects, one creature within 30 feet of both invoked runes must attempt a Will saving throw.
 
 **Critical Success** The target is unaffected by the compound invocation.
 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 until the end of your next turn.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] 1 until the end of your next turn.
 
 **Failure** The target is stupefied 2 until the end of your next turn.
 

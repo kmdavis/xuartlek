@@ -16,8 +16,8 @@ socialImage: og-image.png
 `Fortune`  `Nephilim`
 
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/ancestry/aeonbound|Aeonbound]]
-- **Trigger**: You would critically fail a [[srd/pf2e/compendium/rules-elements/traits/player-core/skill|skill]] check or suffer an effect with the [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] trait.
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/ancestry/Aeonbound|Aeonbound]]
+- **Trigger**: You would critically fail a [[srd/pf2e/compendium/rules-elements/traits/player-core/Skill|skill]] check or suffer an effect with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|misfortune]] trait.
 
 You shift the underlying fabric of reality to impose a baseline of order. If the trigger was a skill check, you instead receive a result of 10 + your proficiency bonus (don’t apply any other bonuses, penalties, or modifiers). If the trigger was an effect with the misfortune trait, the misfortune and fortune effects cancel each other out as normal, negating the triggering misfortune effect.
 

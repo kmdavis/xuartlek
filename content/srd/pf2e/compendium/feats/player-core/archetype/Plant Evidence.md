@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Rogue`
 
 - **Archetypes**: Alkenstar Agent (Level 4), Twilight Talon (Level 6)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/skill/pickpocket|Pickpocket]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/skill/Pickpocket|Pickpocket]]
 
 You can put a single item you’re holding of light or negligible Bulk onto a person without them noticing by succeeding at a Thievery check against their Perception DC. If you have the ruffian racket, you can do this as a free action when you successfully Shove a target.
 

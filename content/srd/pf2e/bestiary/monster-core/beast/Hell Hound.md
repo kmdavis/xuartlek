@@ -32,10 +32,10 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; darkvision, scent (imprecise) 60 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]]; (can't speak any language)"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Diabolic|Diabolic]]; (can't speak any language)"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +9"
 abilityMods: [4, 3, 2, -2, 2, -2]
 ac: 17
 armorclass:
@@ -44,14 +44,14 @@ armorclass:
 hp: 40
 health:
   - name: "HP"
-    desc: "40; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 5"
+    desc: "40; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]] 5"
 speed: "40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]]) __Damage__ 1d8+4 piercing plus 1d6 fire"
+    desc: "⬻ jaws +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|Unholy]]) __Damage__ 1d8+4 piercing plus 1d6 fire"
 abilities_bot:
   - name: "Hellfire Breath"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]]) The hell hound breathes flames that deal 4d6 fire damage to all creatures in a 15-foot cone (DC 19 basic Reflex save). The hell hound can't use Hellfire Breath again for 1d4 rounds. If the hell hound would take fire damage or be targeted by a [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] effect, their Hellfire Breath recharges."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|Unholy]]) The hell hound breathes flames that deal 4d6 fire damage to all creatures in a 15-foot cone (DC 19 basic Reflex save). The hell hound can't use Hellfire Breath again for 1d4 rounds. If the hell hound would take fire damage or be targeted by a [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] effect, their Hellfire Breath recharges."
   - name: "Pack Attack"
     desc: "The hell hound's Strikes deal 1d4 extra damage to creatures within the reach of at least two of the hell hounds' allies."
 sourcebook: "_Monster Core_, page 194."

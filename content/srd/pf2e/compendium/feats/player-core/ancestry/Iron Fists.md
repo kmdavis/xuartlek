@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Orc`
 
-Your fists have been forged by battle, your naturally tough skin and dense bone further hardened by conflict. Your fist unarmed attacks no longer have the [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] trait and gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|shove]] weapon trait.
+Your fists have been forged by battle, your naturally tough skin and dense bone further hardened by conflict. Your fist unarmed attacks no longer have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]] trait and gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/Shove|shove]] weapon trait.
 
 *Source: Player Core p. 72*

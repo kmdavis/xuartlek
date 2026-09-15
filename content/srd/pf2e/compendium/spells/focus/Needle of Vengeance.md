@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Focus`  `Hex`  `Manipulate`  `Mental`  `Uncommon`  `Witch`
 
-- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Vengeance|Lesson of Vengeance]]
+- **Lesson**: [[srd/pf2e/compendium/character/Lessons#Lesson of Vengeance|Lesson of Vengeance]]
 - **Range**: 30 feet
 - **Target**: 1 enemy
 - **Defense**: basic Will

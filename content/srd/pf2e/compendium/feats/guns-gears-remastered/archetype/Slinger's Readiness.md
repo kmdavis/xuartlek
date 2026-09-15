@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/gunslinger|Gunslinger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/gunslinger-dedication|Gunslinger Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Gunslinger|Gunslinger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Gunslinger Dedication|Gunslinger Dedication]]
 
-You've learned a gunslinger's tricks for staking out your territory in a fight. You gain the initial deed for the [[srd/pf2e/compendium/character/ways|way]] you selected with Gunslinger's Dedication.
+You've learned a gunslinger's tricks for staking out your territory in a fight. You gain the initial deed for the [[srd/pf2e/compendium/character/Ways|way]] you selected with Gunslinger's Dedication.
 
 *Source: Guns & Gears (Remastered) p. 127*

@@ -30,14 +30,14 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; darkvision, tremorsense (imprecise) 60 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Girtablilu"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], Girtablilu"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +17, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +16, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +17, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +16, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +17"
 abilityMods: [6, 4, 6, 3, 4, 3]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/armor#Hide Armor|Hide Armor]], _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]]_"
+    desc: "[[srd/pf2e/compendium/equipment/Armor#Hide Armor|Hide Armor]], _[[srd/pf2e/compendium/equipment/weapons/Magic Weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/spear/Longspear|longspear]]_"
 ac: 27
 armorclass:
   - name: "AC"
@@ -49,24 +49,24 @@ health:
 speed: "40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ longspear +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d8+9 piercing"
+    desc: "⬻ longspear +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 2d8+9 piercing"
   - name: "Melee"
-    desc: "⬻ pincer +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]]) __Damage__ 2d8+9 bludgeoning plus Grab"
+    desc: "⬻ pincer +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]]) __Damage__ 2d8+9 bludgeoning plus Grab"
   - name: "Melee"
-    desc: "⬻ stinger +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]]) __Damage__ 2d6+9 piercing plus girtablilu venom"
+    desc: "⬻ stinger +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]]) __Damage__ 2d6+9 piercing plus girtablilu venom"
 abilities_bot:
   - name: "Constrict"
     desc: "⬻ 2d8+6 bludgeoning, DC 24"
   - name: "Desert Passage"
-    desc: "A girtablilu [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Ignore Difficult Terrain|ignores natural difficult terrain]] in the desert."
+    desc: "A girtablilu [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Ignore Difficult Terrain|ignores natural difficult terrain]] in the desert."
   - name: "Girtablilu Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 24 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "2d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 (1 round)"
+    desc: "2d6 poison damage and [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]] 1 (1 round)"
   - name: "Stage 2"
     desc: "3d6 poison damage and enfeebled 1 (1 round)"
   - name: "Stage 3"

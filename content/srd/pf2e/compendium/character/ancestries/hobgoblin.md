@@ -60,14 +60,14 @@ Like goblins, hobgoblin names tend to be simple, though hobgoblin names usually 
 
 #### Languages
 
-[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
-[[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]]
+[[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]], [[srd/pf2e/compendium/rules-elements/languages#Kholo|Kholo]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]], and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/Languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/Languages#Halfling|Halfling]], [[srd/pf2e/compendium/rules-elements/Languages#Kholo|Kholo]], [[srd/pf2e/compendium/rules-elements/Languages#Orcish|Orcish]], and any other languages to which you have access (such as the languages prevalent in your region).
 
-#### [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Darkvision and Greater Darkvision|Darkvision]]
+#### [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Darkvision and Greater Darkvision|Darkvision]]
 
-You can see in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Darkness|darkness]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Dim Light|dim light]] just as well as you can see in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Bright Light|bright light]], though your vision in darkness is in black and white.
+You can see in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Darkness|darkness]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Dim Light|dim light]] just as well as you can see in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Bright Light|bright light]], though your vision in darkness is in black and white.
 
 *Source: Player Core 2 p. 12*

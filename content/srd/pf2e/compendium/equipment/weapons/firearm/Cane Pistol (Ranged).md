@@ -31,7 +31,7 @@ This fashionable cane's handle hides a dueling pistol fired through the thin, pa
 
 **Damage** 1d6 B
 
-**Group** Club
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|Club]]
 
 ### Ranged
 
@@ -41,9 +41,9 @@ This fashionable cane's handle hides a dueling pistol fired through the thin, pa
 
 **Reload** 1
 
-**Group** Firearm
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
 
-**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
 ### Critical Specialization Effects
 

@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Legendary in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]; [[srd/pf2e/compendium/feats/player-core/skill/swift-sneak|Swift Sneak]]
+- **Prerequisites**: Legendary in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]; [[srd/pf2e/compendium/feats/player-core/skill/Swift Sneak|Swift Sneak]]
 
 You’re always sneaking unless you choose to be seen, even when there’s nowhere to hide. You can Hide and Sneak even without cover or being concealed. When you employ an exploration tactic other than Avoiding Notice, you also gain the benefits of Avoiding Notice unless you choose not to. See page 438 for more information about exploration tactics.
 

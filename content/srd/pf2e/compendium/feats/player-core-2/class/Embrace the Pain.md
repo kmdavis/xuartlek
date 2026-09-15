@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 - **Trigger**: A creature within your reach damages you with a melee attack.
 
-Ignoring your pain, you reach out and grab the creature or weapon that caused you harm. Attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] the triggering creature or to [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]] the creature of the weapon it damaged you with.
+Ignoring your pain, you reach out and grab the creature or weapon that caused you harm. Attempt an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] the triggering creature or to [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]] the creature of the weapon it damaged you with.
 
 *Source: Player Core 2 p. 82*

@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Guardian`  `Stance`
 
-Your very presence on the field of battle protects nearby allies from harm. At the end of each of your turns while you're in this stance, choose one ally adjacent to you to gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|lesser cover]] until the start of your next turn. That ally loses this benefit if they move to a space that is no longer adjacent to you at any point during their move. If you [[srd/pf2e/compendium/rules-elements/actions/battlecry#Intercept Attack|Intercept an Attack]] that would harm the ally you're covering, that ally can Step as a free action after your reaction is complete.
+Your very presence on the field of battle protects nearby allies from harm. At the end of each of your turns while you're in this stance, choose one ally adjacent to you to gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Cover|lesser cover]] until the start of your next turn. That ally loses this benefit if they move to a space that is no longer adjacent to you at any point during their move. If you [[srd/pf2e/compendium/rules-elements/actions/battlecry#Intercept Attack|Intercept an Attack]] that would harm the ally you're covering, that ally can Step as a free action after your reaction is complete.
 
 *Source: Battlecry! p. 42*

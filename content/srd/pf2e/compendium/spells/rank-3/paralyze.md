@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Incapacitation`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/archdevils/barbatos|Barbatos]], [[srd/pf2e/compendium/deities/sakhil-tormentors/chamiaholom|Chamiaholom]], Dammerich, [[srd/pf2e/compendium/deities/demon-lords/kabriri|Kabriri]], Kalekot, Selket
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/archdevils/Barbatos|Barbatos]], [[srd/pf2e/compendium/deities/sakhil-tormentors/Chamiaholom|Chamiaholom]], Dammerich, [[srd/pf2e/compendium/deities/demon-lords/Kabriri|Kabriri]], Kalekot, Selket
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will
@@ -30,7 +30,7 @@ You block the target's motor impulses before they can leave its mind, freezing t
 
 **Success** The target is stunned 1.
 
-**Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]] for 1 round.
+**Failure** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]] for 1 round.
 
 **Critical Failure** The target is paralyzed for 4 rounds. At the end of each of its turns, it can attempt a new Will save to reduce the remaining duration by 1 round, or end it entirely on a critical success.
 

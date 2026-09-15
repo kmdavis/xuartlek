@@ -30,10 +30,10 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "+12"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +11, [[srd/pf2e/compendium/rules-elements/skills/lore|Settlement Lore]] +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +11, [[srd/pf2e/compendium/rules-elements/skills/Lore|Settlement Lore]] +9"
 abilityMods: [5, 0, 3, 0, 2, 2]
 abilities_top:
   - name: "Seek Quarry"
@@ -45,7 +45,7 @@ armorclass:
 hp: 75
 health:
   - name: "HP"
-    desc: "75 (4 segments); __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
+    desc: "75 (4 segments); __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 5"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""

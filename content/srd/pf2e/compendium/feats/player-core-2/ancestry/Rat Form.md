@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 `Concentrate`  `Polymorph`  `Primal`  `Ratfolk`
 
-You can transform into an innocuous-looking rat. You gain the effects of a 1st-rank [[srd/pf2e/compendium/spells/rank-1/pest-form|_pest form_]] spell, but you must assume the battle form of a Tiny rat.
+You can transform into an innocuous-looking rat. You gain the effects of a 1st-rank [[srd/pf2e/compendium/spells/rank-1/Pest Form|_pest form_]] spell, but you must assume the battle form of a Tiny rat.
 
 *Source: Player Core 2 p. 31*

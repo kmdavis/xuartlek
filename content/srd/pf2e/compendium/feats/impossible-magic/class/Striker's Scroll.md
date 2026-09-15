@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 - **Prerequisites**: [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Spellstrike|Spellstrike]]
 
-You can attach a [[srd/pf2e/compendium/rules-elements/traits/gm-core/scroll|scroll]] to your weapon or [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows|_handwraps of mighty blows_]] to blend its spell into an attack, carefully folding it around a part of the weapon or sealing it to the weapon’s surface. Attaching a scroll requires using the [[srd/pf2e/compendium/rules-elements/actions/gm-core#Affix a Talisman|Affix a Talisman]] action. You can have only one scroll affixed to a weapon at a time, and you can’t have both a talisman and scroll attached. 
+You can attach a [[srd/pf2e/compendium/rules-elements/traits/gm-core/Scroll|scroll]] to your weapon or [[srd/pf2e/compendium/equipment/worn-items/Handwraps of Mighty Blows|_handwraps of mighty blows_]] to blend its spell into an attack, carefully folding it around a part of the weapon or sealing it to the weapon’s surface. Attaching a scroll requires using the [[srd/pf2e/compendium/rules-elements/actions/gm-core#Affix a Talisman|Affix a Talisman]] action. You can have only one scroll affixed to a weapon at a time, and you can’t have both a talisman and scroll attached. 
 
 You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast the Spell]] from the scroll as part of a Spellstrike, provided the spell is one you could normally use with Spellstrike. You can’t Cast the Spell in any other way while it’s affixed, though you can use Affix a Talisman again to remove the scroll and use it as a normal—if a bit crumpled—scroll.
 

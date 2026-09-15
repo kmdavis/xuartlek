@@ -22,7 +22,7 @@ socialImage: og-image.png
 - **Range**: 30 ft.
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Dart
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Dart|Dart]]
 
 Often used for hunting exceptionally large aquatic creatures, the harpoon is similar to a javelin but features a barbed head and rope tether so it (or the corpse it's attached to) can be easily retrieved.
 

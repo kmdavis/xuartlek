@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wrestler|Wrestler]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/wrestler-dedication|Wrestler Dedication]]
-- **Requirements**: You have a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]].
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wrestler|Wrestler]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Wrestler Dedication|Wrestler Dedication]]
+- **Requirements**: You have a creature [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]].
 
 You bend your opponent’s body or limbs into agonizing positions that make it difficult for them to maintain their grip. Make an unarmed melee Strike against the creature you have grabbed or restrained. This Strike has the following effects in addition to its usual effects.
 

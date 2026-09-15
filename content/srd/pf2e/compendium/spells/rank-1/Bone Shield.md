@@ -14,11 +14,11 @@ socialImage: og-image.png
 
 `Concentrate`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Requirements**: You have a free hand.
 - **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] up to 1 minute
 
-You create an expendable shield of rough, raw bone in a free hand that can easily be replaced over and over again. When you Cast the Spell or the first time each round you Sustain this spell on subsequent rounds, you can Raise this Shield, granting you a +2 circumstance bonus to AC. While this spell is in effect, you gain the [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] reaction, but only with the bone shield. The bone shield has Hardness 3 and 1 HP (with no Broken Threshold). This shield also gains a +2 circumstance bonus to its Hardness against attacks that deal piercing or slashing damage. If the shield is destroyed, it's recreated already raised in a free hand when you Sustain the Spell.
+You create an expendable shield of rough, raw bone in a free hand that can easily be replaced over and over again. When you Cast the Spell or the first time each round you Sustain this spell on subsequent rounds, you can Raise this Shield, granting you a +2 circumstance bonus to AC. While this spell is in effect, you gain the [[srd/pf2e/compendium/feats/player-core/general/Shield Block|Shield Block]] reaction, but only with the bone shield. The bone shield has Hardness 3 and 1 HP (with no Broken Threshold). This shield also gains a +2 circumstance bonus to its Hardness against attacks that deal piercing or slashing damage. If the shield is destroyed, it's recreated already raised in a free hand when you Sustain the Spell.
 
 ---
 **Heightened (+2)** The shield’s Hardness increases by 3.

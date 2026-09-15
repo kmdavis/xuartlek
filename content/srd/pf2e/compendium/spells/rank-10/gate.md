@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Teleportation`  `Uncommon`
 
-- **Traditions**: Arcane, Divine, Occult
-- **Spell Lists**: Elemental
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
 - **Range**: 120 feet
 - **Duration**: sustained up to 1 minute
 

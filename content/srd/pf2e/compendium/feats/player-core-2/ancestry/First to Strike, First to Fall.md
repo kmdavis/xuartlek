@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Kholo`  `Gnoll`
 
-Whenever you successfully Strike a creature that has not acted in the first round of combat, that creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the end of your next turn. If that creature is reduced to 0 Hit Points before the end of your next turn, you and all allies within 30 feet of the creature become [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] until the end of your next turn. You can use the extra action only to Step, Stride, or Strike.
+Whenever you successfully Strike a creature that has not acted in the first round of combat, that creature is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] until the end of your next turn. If that creature is reduced to 0 Hit Points before the end of your next turn, you and all allies within 30 feet of the creature become [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]] until the end of your next turn. You can use the extra action only to Step, Stride, or Strike.
 
 *Source: Player Core 2 p. 19*

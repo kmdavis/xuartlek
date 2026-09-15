@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Nagaji`
 
-Nagaji are brawny humanoids with scaled skin and serpentine heads, many of whom serve or respect [[srd/pf2e/compendium/gm/creature-families/naga|nagas]].
+Nagaji are brawny humanoids with scaled skin and serpentine heads, many of whom serve or respect [[srd/pf2e/compendium/gm/creature-families/Naga|nagas]].
 
 *Source: Monster Core 2 p. 365*

@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Acid`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: Telvrys, [[srd/pf2e/compendium/deities/other-gods/the-devourer|The Devourer]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Telvrys, [[srd/pf2e/compendium/deities/other-gods/The Devourer|The Devourer]]
 - **Range**: 120 feet
 - **Target**: 1 creature
 - **Defense**: Reflex

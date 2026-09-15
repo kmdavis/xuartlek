@@ -11,7 +11,7 @@ socialImage: og-image.png
 
 # Alchemical Bomb  *Weapon 0*
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/monitor-demigods/inna|Inna]], [[srd/pf2e/compendium/deities/elemental-lords/laudinmio|Laudinmio]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/monitor-demigods/Inna|Inna]], [[srd/pf2e/compendium/deities/elemental-lords/Laudinmio|Laudinmio]]
 - **Price**: (Varies)
 - **Damage**: Varies
 - **Bulk**: L
@@ -19,9 +19,11 @@ socialImage: og-image.png
 - **Range**: 20 ft.
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Bomb
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bomb|Bomb]]
 
 These bombs come in a variety of types and levels of power, but no matter the variety, you throw the bomb at the target and it explodes, unleashing its alchemical blast. 
+
+](https://2e.aonprd.com/Equipment.aspx?Category=6&Subcategory=7)
 
 ### Critical Specialization Effects
 

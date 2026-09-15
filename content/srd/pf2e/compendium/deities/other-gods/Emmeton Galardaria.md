@@ -24,23 +24,23 @@ Dexterity or Intelligence
 
 **Divine Sanctification** must choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/frying-pan|Frying Pan]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Frying Pan|Frying Pan]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Cities|Cities]], [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Cities|Cities]], [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Travel|Travel]], [[srd/pf2e/compendium/character/domains#Wealth|Wealth]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Travel|Travel]], [[srd/pf2e/compendium/character/Domains#Wealth|Wealth]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/anticipate-peril|Anticipate Peril]]
+[[srd/pf2e/compendium/spells/rank-1/Anticipate Peril|Anticipate Peril]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/cozy-cabin|Cozy Cabin]]
+[[srd/pf2e/compendium/spells/rank-3/Cozy Cabin|Cozy Cabin]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/wall-of-force|Wall of Force]]
+[[srd/pf2e/compendium/spells/rank-6/Wall of Force|Wall of Force]]
 
 *Source: Divine Mysteries p. 139*

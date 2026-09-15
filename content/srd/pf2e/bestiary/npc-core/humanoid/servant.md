@@ -28,10 +28,10 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +4, [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] +6, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +2"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +4, [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] +6, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +2"
 abilityMods: [1, 3, 1, 0, 1, 2]
 abilities_top:
   - name: "Items"
@@ -56,14 +56,14 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ cutlery +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+1 piercing"
+    desc: "⬻ cutlery +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+1 piercing"
   - name: "Melee"
-    desc: "⬻ fist +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+1 bludgeoning"
+    desc: "⬻ fist +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+1 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ cutlery +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+1 piercing"
+    desc: "⬻ cutlery +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+1 piercing"
 abilities_bot:
   - name: "Protective Platter"
-    desc: "The servant can raise their serving platter using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise a Shield]] action. The platter has the same statistics as a [[srd/pf2e/compendium/equipment/shields#Buckler|buckler]] but requires a hand to hold."
+    desc: "The servant can raise their serving platter using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise a Shield]] action. The platter has the same statistics as a [[srd/pf2e/compendium/equipment/Shields#Buckler|buckler]] but requires a hand to hold."
 sourcebook: "_NPC Core_, page 66."
 ```
 

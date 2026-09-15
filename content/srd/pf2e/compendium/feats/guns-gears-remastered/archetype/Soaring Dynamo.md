@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/sterling-dynamo|Sterling Dynamo]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/sterling-dynamo-dedication|Sterling Dynamo Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Sterling Dynamo|Sterling Dynamo]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Sterling Dynamo Dedication|Sterling Dynamo Dedication]]
 
 You've built clockwork wings or jets into your dynamo, allowing you to use your prosthesis to fly. You gain a fly Speed equal to your Speed. Each minute of flight reduces the operational time of your sterling dynamo by 1 hour, measured from the first time you use the Fly action in a given minute.
 

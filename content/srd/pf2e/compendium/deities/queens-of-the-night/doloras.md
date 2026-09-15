@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/kukri|Kukri]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Kukri|Kukri]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Pain|Pain]], [[srd/pf2e/compendium/character/domains#Repose|Repose]], [[srd/pf2e/compendium/character/domains#Sorrow|Sorrow]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Pain|Pain]], [[srd/pf2e/compendium/character/Domains#Repose|Repose]], [[srd/pf2e/compendium/character/Domains#Sorrow|Sorrow]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/phantom-pain|Phantom Pain]]
+[[srd/pf2e/compendium/spells/rank-1/Phantom Pain|Phantom Pain]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/earthbind|Earthbind]]
+[[srd/pf2e/compendium/spells/rank-3/Earthbind|Earthbind]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/synaptic-pulse|Synaptic Pulse]]
+[[srd/pf2e/compendium/spells/rank-5/Synaptic Pulse|Synaptic Pulse]]
 
 *Source: Divine Mysteries p. 320*

@@ -24,41 +24,41 @@ Intelligence or Wisdom
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/whip|Whip]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/Whip|Whip]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Dragon|Dragon]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Magic|Magic]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Dragon|Dragon]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Magic|Magic]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Glyph|Glyph]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Glyph|Glyph]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/share-lore|Share Lore]]
+[[srd/pf2e/compendium/spells/rank-1/Share Lore|Share Lore]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/ghostly-carrier|Ghostly Carrier]]
+[[srd/pf2e/compendium/spells/rank-2/Ghostly Carrier|Ghostly Carrier]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/hypercognition|Hypercognition]]
+[[srd/pf2e/compendium/spells/rank-3/Hypercognition|Hypercognition]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/reflective-scales|Reflective Scales]]
+[[srd/pf2e/compendium/spells/rank-4/Reflective Scales|Reflective Scales]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/slither|Slither]]
+[[srd/pf2e/compendium/spells/rank-5/Slither|Slither]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/never-mind|Never Mind]]
+[[srd/pf2e/compendium/spells/rank-6/Never Mind|Never Mind]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/contingency|Contingency]]
+[[srd/pf2e/compendium/spells/rank-7/Contingency|Contingency]]
 
 - **8th**
-[[srd/pf2e/compendium/spells/rank-8/unrelenting-observation|Unrelenting Observation]]
+[[srd/pf2e/compendium/spells/rank-8/Unrelenting Observation|Unrelenting Observation]]
 
 - **9th**
-[[srd/pf2e/compendium/spells/rank-9/detonate-magic|Detonate Magic]]
+[[srd/pf2e/compendium/spells/rank-9/Detonate Magic|Detonate Magic]]
 
 *Source: Divine Mysteries p. 302*

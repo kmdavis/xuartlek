@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Attack`  `Cleric`  `Earth`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Earth|Earth]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Earth|Earth]]
 - **Range**: 60 feet
 - **Target**: 1 creature
 - **Defense**: AC

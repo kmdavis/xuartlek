@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Evolution`  `Summoner`
 
-Your eidolon gains [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Tremorsense|tremorsense]] as an [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Imprecise Senses|imprecise sense]] with a range of 30 feet. If [[srd/pf2e/compendium/rules-elements/traits/player-core/aquatic|aquatic]], they instead gain wavesense as an imprecise sense with a range of 30 feet. If [[srd/pf2e/compendium/rules-elements/traits/player-core/amphibious|amphibious]], they gain both.
+Your eidolon gains [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Tremorsense|tremorsense]] as an [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Imprecise Senses|imprecise sense]] with a range of 30 feet. If [[srd/pf2e/compendium/rules-elements/traits/player-core/Aquatic|aquatic]], they instead gain wavesense as an imprecise sense with a range of 30 feet. If [[srd/pf2e/compendium/rules-elements/traits/player-core/Amphibious|amphibious]], they gain both.
 
 *Source: Impossible Magic p. 81*

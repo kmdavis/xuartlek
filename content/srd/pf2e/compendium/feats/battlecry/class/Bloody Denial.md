@@ -19,6 +19,6 @@ You strike a foe with force to prevent them from reacting. Make a Strike. If you
 **Critical Success** The creature is unaffected. 
 **Success** Choose an ally. Until the start of your next turn, the creature can't use reactions against that ally. 
 **Failure** The creature can't use reactions until the start of your next turn. 
-**Critical Failure** As failure, plus the creature is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1.
+**Critical Failure** As failure, plus the creature is [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]] 1.
 
 *Source: Battlecry! p. 48*

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Dwarf`
 
-You are naturally calm and collected in the face of imminent danger. At the end of your turn, reduce your [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition by 2 instead of 1.
+You are naturally calm and collected in the face of imminent danger. At the end of your turn, reduce your [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] condition by 2 instead of 1.
 
 *Source: Player Core p. 43*

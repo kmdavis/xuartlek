@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Animist
 
-At 2nd level and every even-numbered level, you gain an animist class feat.
+At 2nd level and every even-numbered level, you gain an [animist class feat](https://2e.aonprd.com/Feats.aspx?Traits=836).
 
 *Source: War of Immortals p. 10*

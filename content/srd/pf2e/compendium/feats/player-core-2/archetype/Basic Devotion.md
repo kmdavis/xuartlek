@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/champion|Champion]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/champion-dedication|Champion Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Champion|Champion]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Champion Dedication|Champion Dedication]]
 
-You gain a 1st- or 2nd-level champion feat.
+You gain a 1st- or 2nd-level [champion feat](https://2e.aonprd.com/Feats.aspx?Traits=24).
 
 ### Basic Devotion leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/advanced-devotion|Advanced Devotion]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Advanced Devotion|Advanced Devotion]]
 
 *Source: Player Core 2 p. 177*

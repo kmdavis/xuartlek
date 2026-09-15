@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Tengu`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/tengu-feather-fan|Tengu Feather Fan]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Tengu Feather Fan|Tengu Feather Fan]]
 
-Your fan can stir up even more powerful winds. You can use the Wave Fan activation one additional time per day. Add a 3rd-rank [[srd/pf2e/compendium/spells/rank-3/wall-of-wind|_wall of wind_]] spell to the spells contained within your fan.
+Your fan can stir up even more powerful winds. You can use the Wave Fan activation one additional time per day. Add a 3rd-rank [[srd/pf2e/compendium/spells/rank-3/Wall of Wind|_wall of wind_]] spell to the spells contained within your fan.
 
 *Source: Player Core 2 p. 35*

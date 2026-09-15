@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Finisher`  `Swashbuckler`
 
-You attack with a flashy assault that leaves your target off balance. Make a melee Strike. If you hit and deal damage, the target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the end of your next turn.
+You attack with a flashy assault that leaves your target off balance. Make a melee Strike. If you hit and deal damage, the target is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] until the end of your next turn.
 
 *Source: Player Core 2 p. 165*

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Jotunborn`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/ancestry/caretakers-restoration|Caretaker's Restoration]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/ancestry/Caretaker's Restoration|Caretaker's Restoration]]
 
 You’ve mastered how to tap into your restorative powers at a higher frequency. You can use Caretaker’s Restoration once per hour instead of once per day.
 

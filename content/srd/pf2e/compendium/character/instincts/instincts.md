@@ -9,9 +9,7 @@ socialImage: og-image.png
 
 # Instincts
 
-A barbarian chooses an instinct, which shapes their rage and grants them specific abilities.
-
-The barbarian chooses one. Each is a separate note:
+8 entries, one note each:
 
 - [[Animal]]
 - [[Bloodrager]]

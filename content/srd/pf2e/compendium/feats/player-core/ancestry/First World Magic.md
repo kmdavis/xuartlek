@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Gnome`
 
-Your connection to the First World grants you a primal innate spell, much like those of the fey. Choose one cantrip from the primal spell list. You can cast this spell as a primal innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
+Your connection to the First World grants you a primal innate spell, much like those of the fey. Choose one cantrip from the [primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4) spell list. You can cast this spell as a primal innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
 
 *Source: Player Core p. 52*

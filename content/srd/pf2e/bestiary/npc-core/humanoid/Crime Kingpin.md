@@ -28,14 +28,14 @@ modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; (24 to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]])"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +25, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +24, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +22, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +28, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +24, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +23, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +24, [[srd/pf2e/compendium/rules-elements/skills/lore|Underworld Lore]] +24"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +25, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +24, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +22, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +28, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +24, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +23, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] +24, [[srd/pf2e/compendium/rules-elements/skills/Lore|Underworld Lore]] +24"
 abilityMods: [3, 5, 3, 2, 2, 6]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/crossbow/hand-crossbow|hand crossbow]]_ (10 bolts), _+1 [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]_, [[srd/pf2e/compendium/equipment/consumables/potion-of-flying|_potion of flying_]], [[srd/pf2e/compendium/equipment/consumables/healing-potion|_moderate potion of healing_]] (2), _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/Striking|striking]] [[srd/pf2e/compendium/equipment/weapons/crossbow/Hand Crossbow|hand crossbow]]_ (10 bolts), _+1 [[srd/pf2e/compendium/equipment/Armor#Leather Armor|leather armor]]_, [[srd/pf2e/compendium/equipment/consumables/Potion of Flying|_potion of flying_]], [[srd/pf2e/compendium/equipment/consumables/Healing Potion|_moderate potion of healing_]] (2), _+1 [[srd/pf2e/compendium/equipment/runes/Striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/Rapier|rapier]]_"
 ac: 32
 armorclass:
   - name: "AC"
@@ -46,13 +46,13 @@ health:
     desc: "250"
 abilities_mid:
   - name: "Kingpin's Presence"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 30 feet. Allies in the aura gain a +2 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effects."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]]) 30 feet. Allies in the aura gain a +2 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effects."
   - name: "Deny Advantage"
-    desc: "The kingpin isn't [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to creatures of 12th level or lower that are [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]], flanking, or using surprise attack."
+    desc: "The kingpin isn't [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to creatures of 12th level or lower that are [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]], [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]], flanking, or using surprise attack."
   - name: "Reactive Strike"
     desc: "⬲"
   - name: "You'll Pay for That"
-    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]])"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Linguistic|linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]])"
   - name: "Trigger"
     desc: "An enemy damages the kingpin"
   - name: "Effect"
@@ -60,11 +60,11 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _rapier_ +26 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 2d6+11 piercing"
+    desc: "⬻ _rapier_ +26 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]]) __Damage__ 2d6+11 piercing"
   - name: "Melee"
-    desc: "⬻ fist +26 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+11 bludgeoning"
+    desc: "⬻ fist +26 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+11 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ _hand crossbow_ +26 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], range increment 60 feet, reload 1) __Damage__ 2d6+8 piercing"
+    desc: "⬻ _hand crossbow_ +26 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], range increment 60 feet, reload 1) __Damage__ 2d6+8 piercing"
 abilities_bot:
   - name: "Fencing Brawl"
     desc: "⬺ The kingpin attempts a rapier Strike followed by a [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] attempt against the same enemy. These count as one attack for the kingpin's multiple attack penalty, and the penalty doesn't increase until after both attacks."
@@ -75,9 +75,9 @@ abilities_bot:
   - name: "Effect"
     desc: "The kingpin kicks the weapon up to 20 feet in any direction. If the kingpin kicks the weapon into an ally's square, that ally can catch the weapon as a free action, Releasing anything else they're holding if necessary."
   - name: "Kingpin's Command"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The crime kingpin shouts a command to an ally of their choice. That ally can spend a reaction to Stride and Strike. The ally becomes immune to Kingpin's Command for 24 hours."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]]) The crime kingpin shouts a command to an ally of their choice. That ally can spend a reaction to Stride and Strike. The ally becomes immune to Kingpin's Command for 24 hours."
   - name: "Sneak Attack"
-    desc: "The crime kingpin deals an additional 3d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
+    desc: "The crime kingpin deals an additional 3d6 precision damage to [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] creatures."
 sourcebook: "_NPC Core_, page 24."
 ```
 

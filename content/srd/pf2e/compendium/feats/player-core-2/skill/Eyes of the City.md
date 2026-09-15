@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] or Trained in [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] or Trained in [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
 You can track down targets with the help of locals. You can use Diplomacy or Society, whichever you're trained in, to [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]] creatures in settlements. You chat with locals to help follow the trail of creatures you Track. At the GM's discretion, there might not be enough people to speak with to keep following the trail.
 

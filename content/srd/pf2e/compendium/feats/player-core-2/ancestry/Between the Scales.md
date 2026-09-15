@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Kobold`
 
-You've learned to take advantage of slips in your foes' defenses. When you Strike an [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creature using a melee weapon or unarmed attack that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]] traits, it gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/backstabber|backstabber]] trait.
+You've learned to take advantage of slips in your foes' defenses. When you Strike an [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] creature using a melee weapon or unarmed attack that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]] traits, it gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Backstabber|backstabber]] trait.
 
 *Source: Player Core 2 p. 23*

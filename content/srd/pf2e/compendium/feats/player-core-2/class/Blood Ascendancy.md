@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Sorcerer`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/blood-rising|Blood Rising]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Blood Rising|Blood Rising]]
 
 When you would benefit from a blood magic effect through Blood Rising, you can choose to benefit from two different blood magic effects you know. The effects follow the same rules as given in Blood Rising, and each effect can have a different target.
 

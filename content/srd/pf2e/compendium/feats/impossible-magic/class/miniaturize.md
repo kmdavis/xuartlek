@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Evolution`  `Summoner`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/shrink-down|Shrink Down]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/Shrink Down|Shrink Down]]
 
 Your eidolon can shrink even further. When using Shrink Down, your eidolon can reduce their size to Tiny. When Tiny, their reach is 0 feet.
 

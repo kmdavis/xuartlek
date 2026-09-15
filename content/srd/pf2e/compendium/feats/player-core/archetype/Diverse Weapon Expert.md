@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/fighter|Fighter]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/fighter-dedication|Fighter Dedication]]; expert in any kind of weapon or unarmed attack
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Fighter|Fighter]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Fighter Dedication|Fighter Dedication]]; expert in any kind of weapon or unarmed attack
 
 Your proficiency ranks for simple weapons and martial weapons increase to expert, and your proficiency rank for advanced weapons increases to trained.
 

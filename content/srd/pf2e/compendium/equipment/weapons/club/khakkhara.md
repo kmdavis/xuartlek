@@ -1,7 +1,7 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/player-core
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/monk
 - trait/shove
 - trait/two-hand
@@ -10,7 +10,7 @@ tags:
 - weapon/level/0
 aliases: ["Khakkhara"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=412"
-source: "Player Core"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -26,7 +26,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Club
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|Club]]
 
 This staff is topped by a pointed metal circle from which hang several smaller rings that jingle and clang noisily as the staff is moved, allowing you to announce your presence and scare off wild animals as you walk.
 
@@ -36,6 +36,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/chatterer-of-follies|Chatterer Of Follies]], Worldringer
+[[srd/pf2e/compendium/equipment/weapons/Chatterer of Follies|Chatterer of Follies]], [[srd/pf2e/compendium/equipment/weapons/Worldringer|Worldringer]]
 
-*Source: Player Core p. 278*
+*Source: Tian Xia Character Guide p. 127*

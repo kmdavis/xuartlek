@@ -14,7 +14,7 @@ Whether you are emotionally sensitive to the spirits around you; worship ancesto
 
 ### Instinct Ability—Spirit Rage
 
-When you rage, you can increase the additional damage from Rage from 2 to 3 and change its damage type to spirit, instead of the damage type for your weapon or unarmed attack (choose each time you Rage). If you choose to deal spirit damage, your weapon or unarmed attack gains the effects of the [[srd/pf2e/compendium/equipment/runes/ghost-touch|_ghost touch_]] property rune, which makes it more effective against [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]] creatures, and your Rage action gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]] traits.
+When you rage, you can increase the additional damage from Rage from 2 to 3 and change its damage type to spirit, instead of the damage type for your weapon or unarmed attack (choose each time you Rage). If you choose to deal spirit damage, your weapon or unarmed attack gains the effects of the [[srd/pf2e/compendium/equipment/runes/Ghost Touch|_ghost touch_]] property rune, which makes it more effective against [[srd/pf2e/compendium/rules-elements/traits/gm-core/Incorporeal|incorporeal]] creatures, and your Rage action gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]] traits.
 
 ### Specialization Ability
 
@@ -22,6 +22,6 @@ When using spirit rage, increase the damage from Rage from 3 to 7. If you have g
 
 ### Raging Resistance
 
-You resist void damage, as well as damage dealt by the attacks and abilities of [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] creatures, regardless of the damage type.
+You resist void damage, as well as damage dealt by the attacks and abilities of [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]] creatures, regardless of the damage type.
 
 *Source: Player Core 2 p. 75*

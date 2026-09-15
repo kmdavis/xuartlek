@@ -1,6 +1,7 @@
 ---
 title: "Chapter 2: Ancestries & Backgrounds"
 aliases: ["Chapter 2: Ancestries & Backgrounds"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2074"
 citation: "Player Core pg. 41"
-socialImage: og-image.png
 ---
 
 # Chapter 2: Ancestries & Backgrounds
@@ -29,8 +29,8 @@ This chapter is divided into four parts:
 
 ## Contents
 
-- [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/ancestry-entries|Ancestry Entries]]
-- [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/versatile-heritages|Versatile Heritages]]
-- [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/mixed-ancestry|Mixed Ancestry]]
-- [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/backgrounds|Backgrounds]]
-- [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/languages|Languages]]
+- [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/Ancestry Entries|Ancestry Entries]]
+- [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/Versatile Heritages|Versatile Heritages]]
+- [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/Mixed Ancestry|Mixed Ancestry]]
+- [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/Backgrounds|Backgrounds]]
+- [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/Languages|Languages]]

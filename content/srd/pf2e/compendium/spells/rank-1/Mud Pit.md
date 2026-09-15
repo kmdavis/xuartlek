@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Earth`  `Manipulate`  `Water`
 
-- **Traditions**: Arcane, Primal
-- **Deity**: [[srd/pf2e/compendium/deities/empyreal-lords/keltheald|Keltheald]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deity**: [[srd/pf2e/compendium/deities/empyreal-lords/Keltheald|Keltheald]]
 - **Range**: 60 feet
 - **Area**: squares on the ground in a 15-foot burst
 - **Duration**: 1 minute

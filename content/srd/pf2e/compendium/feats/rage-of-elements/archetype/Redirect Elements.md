@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/elementalist|Elementalist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/rage-of-elements/archetype/elementalist-dedication|Elementalist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Elementalist|Elementalist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/rage-of-elements/archetype/Elementalist Dedication|Elementalist Dedication]]
 - **Trigger**: The spell attack roll for a foe's spell with an elemental trait targeting you fails or critically fails, and the elemental trait is in your elemental philosophy.
 
 You seize the elemental essence of an incoming spell and redirect the spell to a creature of your choice within the spell's area. The attacker rerolls the spell's attack roll against the new target.

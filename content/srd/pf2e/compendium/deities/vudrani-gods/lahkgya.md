@@ -24,23 +24,23 @@ Dexterity or Intelligence
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/fist|jaw]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/Fist|jaw]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Swarm|Swarm]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Swarm|Swarm]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Wealth|Wealth]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Wealth|Wealth]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/fleet-step|Fleet Step]]
+[[srd/pf2e/compendium/spells/rank-1/Fleet Step|Fleet Step]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/mad-monkeys|Mad Monkeys]]
+[[srd/pf2e/compendium/spells/rank-3/Mad Monkeys|Mad Monkeys]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/confusion|Confusion]]
+[[srd/pf2e/compendium/spells/rank-4/Confusion|Confusion]]
 
 *Source: Divine Mysteries p. 322*

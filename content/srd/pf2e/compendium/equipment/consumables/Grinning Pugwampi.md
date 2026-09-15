@@ -20,8 +20,8 @@ socialImage: og-image.png
 
 - **Price**: 700 gp
 - **Usage**: affixed to a weapon
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
-- **Trigger**: You damage a [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creature with the affixed weapon.
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]])
+- **Trigger**: You damage a [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] creature with the affixed weapon.
 
 This bone statuette of a sneering gremlin crumbles to dust when activated, imparting a fraction of its subject's infamous misfortune on those you strike. The damaged creature must attempt a DC 33 Will save.
 

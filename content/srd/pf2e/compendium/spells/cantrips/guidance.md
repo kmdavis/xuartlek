@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`
 
-- **Traditions**: Divine, Occult, Primal
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Ancestors|Ancestors]]
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Ancestors|Ancestors]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: until the start of your next turn

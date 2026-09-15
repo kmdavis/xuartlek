@@ -30,10 +30,10 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; darkvision, scent (imprecise) 30 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +13, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +15, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +14, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +13, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +15, [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] +14, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +14"
 abilityMods: [6, 3, 6, 0, 3, 4]
 ac: 25
 armorclass:
@@ -42,30 +42,30 @@ armorclass:
 hp: 120
 health:
   - name: "HP"
-    desc: "120; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]"
+    desc: "120; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]]"
 abilities_mid:
   - name: "Fearless Rush"
     desc: "⬲"
   - name: "Trigger"
-    desc: "The karkadann becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]]"
+    desc: "The karkadann becomes [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]]"
   - name: "Effect"
     desc: "The karkadann reduces their frightened value by 1 (to a minimum of 0). The karkadann then Strides toward an enemy."
 speed: "45 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ horn +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 2d10+8 piercing and ghost touch"
+    desc: "⬻ horn +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]]) __Damage__ 2d10+8 piercing and ghost touch"
   - name: "Melee"
-    desc: "⬻ hoof +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 2d6+8 bludgeoning and ghost touch"
+    desc: "⬻ hoof +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]]) __Damage__ 2d6+8 bludgeoning and ghost touch"
 abilities_bot:
   - name: "Ghost Touch"
-    desc: "A karkadann's Strikes have the effects of a [[srd/pf2e/compendium/equipment/runes/ghost-touch|_ghost touch_]] property rune."
+    desc: "A karkadann's Strikes have the effects of a [[srd/pf2e/compendium/equipment/runes/Ghost Touch|_ghost touch_]] property rune."
   - name: "Impaling Charge"
     desc: "⬺ The karkadann Strides twice, then Strikes with their horn. If the Strike hits, it also deals 1d10 persistent bleed damage."
   - name: "Trample"
     desc: "⬽ Medium or smaller, hoof, DC 25"
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 25 - __Cantrips (4th)__ [[srd/pf2e/compendium/spells/cantrips/light|Light]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/cleanse-cuisine|Cleanse Cuisine]] (×3) - __3rd__ [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|Cleanse Affliction]] (×2)"
+    desc: "DC 25 - __Cantrips (4th)__ [[srd/pf2e/compendium/spells/cantrips/Light|Light]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Cleanse Cuisine|Cleanse Cuisine]] (×3) - __3rd__ [[srd/pf2e/compendium/spells/rank-2/Cleanse Affliction|Cleanse Affliction]] (×2)"
 sourcebook: "_Howl of the Wild_, page 190."
 ```
 

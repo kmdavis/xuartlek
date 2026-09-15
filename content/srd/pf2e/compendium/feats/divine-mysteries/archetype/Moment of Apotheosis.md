@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/mortal-herald|Mortal Herald]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/mortal-herald-dedication|Mortal Herald Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Mortal Herald|Mortal Herald]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Mortal Herald Dedication|Mortal Herald Dedication]]
 
-For a small moment, you can assume the form of your god. You can cast [[srd/pf2e/compendium/spells/rank-10/avatar|_avatar_]] once per day as an innate divine spell.
+For a small moment, you can assume the form of your god. You can cast [[srd/pf2e/compendium/spells/rank-10/Avatar|_avatar_]] once per day as an innate [divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2) spell.
 
 *Source: Divine Mysteries p. 283*

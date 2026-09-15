@@ -21,12 +21,12 @@ socialImage: og-image.png
 
 `Attack`  `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Uncommon`  `Void`  `Negative`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Decay|Decay]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Decay|Decay]]
 - **Range**: touch
 - **Target**: 1 creature or object
 - **Defense**: AC
 
-Your touch rots organic material and decays objects. Make a spell attack against the target’s AC. Your touch deals 1d12 [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] damage plus 1d4 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent void damage]]. If a creature uses an item to block withering grasp, such as with the [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] reaction, the item is automatically affected, but the creature doesn’t take damage (even if there is damage left over after the shield’s [[srd/pf2e/books/player-core/chapter-6-equipment/shields#Hardness|Hardness]]). Unlike normal void damage, the void damage from _withering grasp_ damages [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Objects|objects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/construct|constructs]], and the like by eroding away their substance.
+Your touch rots organic material and decays objects. Make a spell attack against the target’s AC. Your touch deals 1d12 [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]] damage plus 1d4 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent void damage]]. If a creature uses an item to block withering grasp, such as with the [[srd/pf2e/compendium/feats/player-core/general/Shield Block|Shield Block]] reaction, the item is automatically affected, but the creature doesn’t take damage (even if there is damage left over after the shield’s [[srd/pf2e/books/player-core/chapter-6-equipment/Shields#Hardness|Hardness]]). Unlike normal void damage, the void damage from _withering grasp_ damages [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Objects|objects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Construct|constructs]], and the like by eroding away their substance.
 
 **Critical Success** Your touch deals double damage (both initial and persistent). If you target an object, lower its Hardness by 4 for 1 minute.
 

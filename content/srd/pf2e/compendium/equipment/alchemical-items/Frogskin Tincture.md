@@ -20,10 +20,10 @@ socialImage: og-image.png
 - **Price**: 50 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 Once you imbibe this bitter elixir, your skin exudes a toxin for 1 hour, affecting any creature that hits you with a jaws [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] or other bite attack. If you are Swallowed Whole by another creature, they are automatically exposed to the poison every round and take a –2 penalty to their saving throw against it.
 
- **Frogskin Tincture Poison** ([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]) **Saving Throw** DC 22 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d4 poison damage (1 round); **Stage 2** 2d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 2]] (1 round); **Stage 3** 3d6 poison damage, enfeebled 3, and [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] (1 round)
+ **Frogskin Tincture Poison** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]]) **Saving Throw** DC 22 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d4 poison damage (1 round); **Stage 2** 2d6 poison damage and [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled 2]] (1 round); **Stage 3** 3d6 poison damage, enfeebled 3, and [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] (1 round)
 
 *Source: Howl of the Wild p. 110*

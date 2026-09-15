@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Concentrate`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Trigger**: A shield within range would be reduced to 0 Hit Points by a damaging effect
 - **Requirements**: The triggering shield had more than 1 Hit Point before taking damage.
 - **Range**: 60 feet

@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Uncommon`
 
-- **Traditions**: Arcane, Divine, Occult
-- **Spell Lists**: Elemental
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
 - **Range**: 120 feet
 - **Area**: 60-foot burst
 - **Duration**: until your next daily preparations
 
-You create a visible magical barrier that attempts to counteract [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]] effects and planar travel into or out of the area, including items that allow access to [[srd/pf2e/compendium/rules-elements/traits/player-core/extradimensional|extradimensional]] spaces. _Planar seal_ tries to counteract any attempt to [[srd/pf2e/compendium/rules-elements/traits/player-core/summon|summon]] a creature into the area but doesn't stop the creature from departing when the summoning ends.
+You create a visible magical barrier that attempts to counteract [[srd/pf2e/compendium/rules-elements/traits/player-core/Teleportation|teleportation]] effects and planar travel into or out of the area, including items that allow access to [[srd/pf2e/compendium/rules-elements/traits/player-core/Extradimensional|extradimensional]] spaces. _Planar seal_ tries to counteract any attempt to [[srd/pf2e/compendium/rules-elements/traits/player-core/Summon|summon]] a creature into the area but doesn't stop the creature from departing when the summoning ends.
 
 *Source: Player Core p. 350*

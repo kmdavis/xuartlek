@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-You transfer your blood and soul into a thrall. You learn the [[srd/pf2e/compendium/spells/focus/sanguine-transference|_sanguine transference_]] grave spell.
+You transfer your blood and soul into a thrall. You learn the [[srd/pf2e/compendium/spells/focus/Sanguine Transference|_sanguine transference_]] grave spell.
 
 *Source: Impossible Magic p. 37*

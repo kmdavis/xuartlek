@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Impulse`  `Kineticist`  `Primal`
 
-- **Prerequisites**: one or more [[srd/pf2e/compendium/rules-elements/traits/player-core/stance|stance]] [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/impulse|impulses]] that affect your kinetic aura
+- **Prerequisites**: one or more [[srd/pf2e/compendium/rules-elements/traits/player-core/Stance|stance]] [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/Impulse|impulses]] that affect your kinetic aura
 - **Trigger**: Your turn begins.
 
 Your glowing and majestic kinetic aura marks you as a true child of the elements. Use a stance impulse that affects your kinetic aura.

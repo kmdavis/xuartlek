@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Air`  `Concentrate`  `Manipulate`  `Monk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/wild-winds-initiate|Wild Winds Initiate]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Wild Winds Initiate|Wild Winds Initiate]]
 - **Requirements**: You are in Wild Winds Stance.
 
 You build air pressure with repeated motions, before releasing an enormous crescent of rushing wind strikes. Make a wind crash Strike against each creature in your choice of a 30-foot cone or a 60 foot line. These attacks all count toward your multiple attack penalty, but the penalty doesn't increase until after you make all the attacks.

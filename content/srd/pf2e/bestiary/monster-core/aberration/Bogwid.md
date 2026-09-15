@@ -28,7 +28,7 @@ perception:
     desc: "+12; darkvision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +11, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +11, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +10"
 abilityMods: [5, 4, 4, -4, -2, 1]
 ac: 20
 armorclass:
@@ -40,7 +40,7 @@ health:
     desc: "100"
 abilities_mid:
   - name: "Revolting Aura"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/olfactory|olfactory]]) 20 feet. A creature entering the aura or beginning their turn in the aura must succeed at a DC 20 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 (or sickened 2 on a critical failure). A creature that succeeds is temporarily immune to the aura for 1 minute."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Olfactory|olfactory]]) 20 feet. A creature entering the aura or beginning their turn in the aura must succeed at a DC 20 Fortitude save or become [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] 1 (or sickened 2 on a critical failure). A creature that succeeds is temporarily immune to the aura for 1 minute."
 speed: "25 feet, climb 20 feet, swim 20 feet"
 attacks:
   - name: "Melee"
@@ -49,7 +49,7 @@ attacks:
     desc: "⬻ larval spit +14 (range increment 10 feet) __Damage__ 2d8 persistent bleed plus ravenous young"
 abilities_bot:
   - name: "Bogwid Fever"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|Disease]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|Disease]])"
   - name: "Saving Throw"
     desc: "DC 20 Fortitude"
   - name: "Onset"
@@ -63,7 +63,7 @@ abilities_bot:
   - name: "Stage 4"
     desc: "enfeebled 4, the DC to recover from persistent bleed is increased by 5, and you take 1d8 persistent bleed damage every 1d4 hours (1 day)"
   - name: "Ravenous Young"
-    desc: "The larvae launched from the bogwid attach themselves to the target and begin to feed. Once a larva is attached, the target becomes [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]]. While the larva remains attached, the target cannot recover from persistent bleed. To remove the larva, the target can attempt a DC 21 [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] check. Additionally, any area damage dealt to the target destroys all attached larvae. Swamp Bodies While a bogwid does not have a lair and does not carry any treasure, a bogwid's presence is often foreshadowed by the discovery of bodies with large gaping holes in their chests. Though these will often just come in the form of crocodiles and other large predators, a lucky adventurer might just stumble upon the corpse of a much less lucky adventurer."
+    desc: "The larvae launched from the bogwid attach themselves to the target and begin to feed. Once a larva is attached, the target becomes [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained 1]]. While the larva remains attached, the target cannot recover from persistent bleed. To remove the larva, the target can attempt a DC 21 [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] check. Additionally, any area damage dealt to the target destroys all attached larvae. Swamp Bodies While a bogwid does not have a lair and does not carry any treasure, a bogwid's presence is often foreshadowed by the discovery of bodies with large gaping holes in their chests. Though these will often just come in the form of crocodiles and other large predators, a lucky adventurer might just stumble upon the corpse of a much less lucky adventurer."
 sourcebook: "_Monster Core_, page 46."
 ```
 

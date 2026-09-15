@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/thaumaturge|Thaumaturge]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/thaumaturge-dedication|Thaumaturge Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Thaumaturge|Thaumaturge]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Thaumaturge Dedication|Thaumaturge Dedication]]
 
-Mastery of an implement is the sign of a studied thaumaturge. You gain your implement's initiate benefit. If the benefit affects the target of Exploit Vulnerability, for you it affects the target of Glimpse Vulnerability instead.
+Mastery of an [[srd/pf2e/compendium/character/implements/implements|implement]] is the sign of a studied thaumaturge. You gain your implement's initiate benefit. If the benefit affects the target of Exploit Vulnerability, for you it affects the target of Glimpse Vulnerability instead.
 
 *Source: Dark Archives (Remastered) p. 49*

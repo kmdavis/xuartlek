@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/battle-harbinger|Battle Harbinger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/harbingers-armament|Harbinger's Armament]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Battle Harbinger|Battle Harbinger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Harbinger's Armament|Harbinger's Armament]]
 
-Your weapons have greater power available to them. Add [[srd/pf2e/compendium/equipment/runes/brilliant|_brilliant_]], [[srd/pf2e/compendium/equipment/runes/corrosive|_corrosive_]], [[srd/pf2e/compendium/equipment/runes/flaming|_flaming_]], [[srd/pf2e/compendium/equipment/runes/frost|_frost_]], [[srd/pf2e/compendium/equipment/runes/holy|_holy_]], [[srd/pf2e/compendium/equipment/runes/shock|_shock_]], [[srd/pf2e/compendium/equipment/runes/thundering|_thundering_]], and [[srd/pf2e/compendium/equipment/runes/unholy|_unholy_]] to the list of property runes you can add to your weapon during your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Daily Preparations|daily preparations]].
+Your weapons have greater power available to them. Add [[srd/pf2e/compendium/equipment/runes/Brilliant|_brilliant_]], [[srd/pf2e/compendium/equipment/runes/Corrosive|_corrosive_]], [[srd/pf2e/compendium/equipment/runes/Flaming|_flaming_]], [[srd/pf2e/compendium/equipment/runes/Frost|_frost_]], [[srd/pf2e/compendium/equipment/runes/Holy|_holy_]], [[srd/pf2e/compendium/equipment/runes/Shock|_shock_]], [[srd/pf2e/compendium/equipment/runes/Thundering|_thundering_]], and [[srd/pf2e/compendium/equipment/runes/Unholy|_unholy_]] to the list of property runes you can add to your weapon during your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Running Exploration#Daily Preparations|daily preparations]].
 
 *Source: Divine Mysteries p. 275*

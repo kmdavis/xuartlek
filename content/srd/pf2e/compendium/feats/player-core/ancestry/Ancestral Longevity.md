@@ -20,6 +20,6 @@ You have accumulated a vast array of lived knowledge over the years. During your
 
 ### Ancestral Longevity leads to...
 
-[[srd/pf2e/compendium/feats/player-core/ancestry/expert-longevity|Expert Longevity]]
+[[srd/pf2e/compendium/feats/player-core/ancestry/Expert Longevity|Expert Longevity]]
 
 *Source: Player Core p. 48*

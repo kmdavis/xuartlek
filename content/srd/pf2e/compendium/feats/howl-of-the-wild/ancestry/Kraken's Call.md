@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 - **Frequency**: once per day
 
-You call forth the sleeping [[srd/pf2e/bestiary/monster-core/beast/kraken|krakens]] of the deep to crush your enemies. You open a dozen small portals to some lightless, watery abyss in a 30-foot burst within 120 feet. The powerful tentacles of a kraken reach through to grab at each creature in the area. Each affected creature takes 8d6 damage depending on its Fortitude save against the higher of your class DC or spell DC. You can Sustain the call up to 1 minute. The first time you Sustain it on each subsequent turn, each creature in the area not already [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by the tentacles must attempt the save.
+You call forth the sleeping [[srd/pf2e/bestiary/monster-core/beast/Kraken|krakens]] of the deep to crush your enemies. You open a dozen small portals to some lightless, watery abyss in a 30-foot burst within 120 feet. The powerful tentacles of a kraken reach through to grab at each creature in the area. Each affected creature takes 8d6 damage depending on its Fortitude save against the higher of your class DC or spell DC. You can Sustain the call up to 1 minute. The first time you Sustain it on each subsequent turn, each creature in the area not already [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] by the tentacles must attempt the save.
 
 **Success** The creature is unaffected.
 

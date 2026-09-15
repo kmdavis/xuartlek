@@ -20,10 +20,10 @@ socialImage: og-image.png
 - **Price**: 110 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 This carefully concocted mixture of fungal spores and ground bones has paralytic properties that make it a valuable poison. 
 
-**Saving Throw** DC 28 Fortitude; **Onset** 10 minutes; **Maximum Duration** 6 minutes; **Stage 1** [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] (1 minute); Stage 2 5d6 poison damage and fatigued (1 minute); Stage 3 6d6 poison damage, fatigued, and [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]] (1 minute)
+**Saving Throw** DC 28 Fortitude; **Onset** 10 minutes; **Maximum Duration** 6 minutes; **Stage 1** [[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|fatigued]] (1 minute); Stage 2 5d6 poison damage and fatigued (1 minute); Stage 3 6d6 poison damage, fatigued, and [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]] (1 minute)
 
 *Source: Player Core 2 p. 292*

@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: healing font
 
-You can remove conditions with divine grace. You can sacrifice one heal spell you've prepared in your extra slots from your healing font to cast one of the following spells instead: [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|_cleanse affliction_]], [[srd/pf2e/compendium/spells/rank-2/clear-mind|_clear mind_]], [[srd/pf2e/compendium/spells/rank-2/sound-body|_sound body_]], or [[srd/pf2e/compendium/spells/rank-2/sure-footing|_sure footing_]]. The spell is heightened to the same rank as the spell you sacrificed.
+You can remove conditions with divine grace. You can sacrifice one heal spell you've prepared in your extra slots from your healing font to cast one of the following spells instead: [[srd/pf2e/compendium/spells/rank-2/Cleanse Affliction|_cleanse affliction_]], [[srd/pf2e/compendium/spells/rank-2/Clear Mind|_clear mind_]], [[srd/pf2e/compendium/spells/rank-2/Sound Body|_sound body_]], or [[srd/pf2e/compendium/spells/rank-2/Sure Footing|_sure footing_]]. The spell is heightened to the same rank as the spell you sacrificed.
 
 *Source: Player Core p. 117*

@@ -17,10 +17,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Mythic`  `Spellshape`  `Metamagic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wildspell|Wildspell]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wildspell|Wildspell]]
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/wildspell-dedication|Wildspell Dedication]]
-- **Requirements**: Your [[srd/pf2e/compendium/spells/focus/spellsurge|_spellsurge_]] aura is active.
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Wildspell Dedication|Wildspell Dedication]]
+- **Requirements**: Your [[srd/pf2e/compendium/spells/focus/Spellsurge|_spellsurge_]] aura is active.
 
 You reabsorb the magic of your _spellsurge_ aura to power a piece of powerful magic. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]. Your _spellsurge_ ends. If your next action is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] that’s at least 2 ranks lower than the highest spell slot you have, you reduce the number of actions to cast it by 1 (minimum 1 action). You then immediately regain the ability to cast that spell again (with the normal parameters) or the spell slot used.
 

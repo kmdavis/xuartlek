@@ -16,44 +16,44 @@ Crafters in the vault are found in dungeons, forges, or other places where creat
 **Apparition Skills** Architecture Lore, Engineering Lore
 
 **Apparition Spells**
-- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/sigil|Sigil]]
-- **1st** [[srd/pf2e/compendium/spells/rank-1/mending|Mending]]
-- **2nd** [[srd/pf2e/compendium/spells/rank-2/knock|Knock]]
-- **3rd** [[srd/pf2e/compendium/spells/rank-3/ghostly-weapon|Ghostly Weapon]]
-- **4th** [[srd/pf2e/compendium/spells/rank-4/creation|Creation]]
-- **5th** [[srd/pf2e/compendium/spells/rank-5/impaling-spike|Impaling Spike]]
-- **6th** [[srd/pf2e/compendium/spells/rank-6/wall-of-metal|Wall of Metal]]
-- **7th** [[srd/pf2e/compendium/spells/rank-7/beheading-buzz-saw|Beheading Buzz Saw]]
-- **8th** [[srd/pf2e/compendium/spells/rank-8/ferrous-form|Ferrous Form]]
-- **9th** [[srd/pf2e/compendium/spells/rank-9/resplendent-mansion|Resplendent Mansion]]
+- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/Sigil|Sigil]]
+- **1st** [[srd/pf2e/compendium/spells/rank-1/Mending|Mending]]
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/Knock|Knock]]
+- **3rd** [[srd/pf2e/compendium/spells/rank-3/Ghostly Weapon|Ghostly Weapon]]
+- **4th** [[srd/pf2e/compendium/spells/rank-4/Creation|Creation]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/Impaling Spike|Impaling Spike]]
+- **6th** [[srd/pf2e/compendium/spells/rank-6/Wall of Metal|Wall of Metal]]
+- **7th** [[srd/pf2e/compendium/spells/rank-7/Beheading Buzz Saw|Beheading Buzz Saw]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/Ferrous Form|Ferrous Form]]
+- **9th** [[srd/pf2e/compendium/spells/rank-9/Resplendent Mansion|Resplendent Mansion]]
 
-**Vessel Spell** [[srd/pf2e/compendium/spells/focus/traveling-workshop|Traveling Workshop]]
+**Vessel Spell** [[srd/pf2e/compendium/spells/focus/Traveling Workshop|Traveling Workshop]]
 
-**Avatar** _Incarnate Dungeon_ Speed 50 feet, either burrow Speed 50 feet or fly Speed 50 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") dungeon trap ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile B or P]]), **Damage** 6d6+6 slashing plus Grab; **Ranged** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") deadly darts (range 120 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile poison]]), **Damage** 6d6+6 piercing
+**Avatar** _Incarnate Dungeon_ Speed 50 feet, either burrow Speed 50 feet or fly Speed 50 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") dungeon trap ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile B or P]]), **Damage** 6d6+6 slashing plus Grab; **Ranged** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") deadly darts (range 120 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile poison]]), **Damage** 6d6+6 piercing
 
 *Source: War of Immortals p. 17*
 
 ## Custodian of Groves and Gardens
 
-Custodians of groves and gardens frequent tended greenery and farmlands cared for by loving stewards, and other places of reflection and restoration where green things grow. Some of these apparitions linger in the mortal realms not because they have lost their way, but because they believe they have already found [[srd/pf2e/compendium/gm/planes#Elysium|Elysium]]. Others are the cultivated spiritual essence of the location itself. Custodians of groves and gardens are peaceful, quiet, and averse to conflict.
+Custodians of groves and gardens frequent tended greenery and farmlands cared for by loving stewards, and other places of reflection and restoration where green things grow. Some of these apparitions linger in the mortal realms not because they have lost their way, but because they believe they have already found [[srd/pf2e/compendium/gm/Planes#Elysium|Elysium]]. Others are the cultivated spiritual essence of the location itself. Custodians of groves and gardens are peaceful, quiet, and averse to conflict.
 
 **Apparition Skills** Farming Lore, Herbalism Lore
 
 **Apparition Spells**
-- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/tangle-vine|Tangle Vine]]
-- **1st** [[srd/pf2e/compendium/spells/rank-1/protector-tree|Protector Tree]]
-- **2nd** [[srd/pf2e/compendium/spells/rank-2/gentle-breeze|Gentle Breeze]]
-- **3rd** [[srd/pf2e/compendium/spells/rank-3/safe-passage|Safe Passage]]
-- **4th** [[srd/pf2e/compendium/spells/rank-4/peaceful-bubble|Peaceful Bubble]]
-- **5th** [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]
-- **6th** [[srd/pf2e/compendium/spells/rank-6/field-of-life|Field of Life]]
-- **7th** [[srd/pf2e/compendium/spells/rank-7/lifewood-cage|Lifewood Cage]]
-- **8th** [[srd/pf2e/compendium/spells/rank-8/moment-of-renewal|Moment of Renewal]]
-- **9th** [[srd/pf2e/compendium/spells/rank-9/natures-enmity|Nature’s Enmity]]
+- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/Tangle Vine|Tangle Vine]]
+- **1st** [[srd/pf2e/compendium/spells/rank-1/Protector Tree|Protector Tree]]
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/Gentle Breeze|Gentle Breeze]]
+- **3rd** [[srd/pf2e/compendium/spells/rank-3/Safe Passage|Safe Passage]]
+- **4th** [[srd/pf2e/compendium/spells/rank-4/Peaceful Bubble|Peaceful Bubble]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/Truespeech|Truespeech]]
+- **6th** [[srd/pf2e/compendium/spells/rank-6/Field of Life|Field of Life]]
+- **7th** [[srd/pf2e/compendium/spells/rank-7/Lifewood Cage|Lifewood Cage]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/Moment of Renewal|Moment of Renewal]]
+- **9th** [[srd/pf2e/compendium/spells/rank-9/Nature’s Enmity|Nature’s Enmity]]
 
-**Vessel Spell** [[srd/pf2e/compendium/spells/focus/garden-of-healing|Garden of Healing]]
+**Vessel Spell** [[srd/pf2e/compendium/spells/focus/Garden of Healing|Garden of Healing]]
 
-**Avatar** _Peaceful Reaches_ Speed 60 feet, ignore difficult terrain and greater difficult terrain; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") garden's cradle ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|trip]]), **Damage** 6d6+6 bludgeoning plus Grab; **Ranged** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") impose peace ([[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]], range 120 feet), **Damage** 6d6+6 mental
+**Avatar** _Peaceful Reaches_ Speed 60 feet, ignore difficult terrain and greater difficult terrain; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") garden's cradle ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|trip]]), **Damage** 6d6+6 bludgeoning plus Grab; **Ranged** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") impose peace ([[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]], range 120 feet), **Damage** 6d6+6 mental
 
 *Source: War of Immortals p. 18*
 
@@ -64,20 +64,20 @@ Echoes of lost moments are apparitions born from memories that everyone has forg
 **Apparition Skills** Fortune-Telling Lore, Genealogy Lore
 
 **Apparition Spells**
-- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/figment|Figment]]
-- **1st** [[srd/pf2e/compendium/spells/rank-1/déjà-vu|Déjà Vu]]
-- **2nd** [[srd/pf2e/compendium/spells/rank-2/dispel-magic|Dispel Magic]]
-- **3rd** [[srd/pf2e/compendium/spells/rank-3/curse-of-lost-time|Curse of Lost Time]]
-- **4th** [[srd/pf2e/compendium/spells/rank-4/vision-of-death|Vision of Death]]
-- **5th** [[srd/pf2e/compendium/spells/rank-5/illusory-scene|Illusory Scene]]
-- **6th** [[srd/pf2e/compendium/spells/rank-6/phantasmal-calamity|Phantasmal Calamity]]
-- **7th** [[srd/pf2e/compendium/spells/rank-7/retrocognition|Retrocognition]]
-- **8th** [[srd/pf2e/compendium/spells/rank-8/quandary|Quandary]]
-- **9th** [[srd/pf2e/compendium/spells/rank-9/foresight|Foresight]]
+- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/Figment|Figment]]
+- **1st** [[srd/pf2e/compendium/spells/rank-1/Déjà Vu|Déjà Vu]]
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/Dispel Magic|Dispel Magic]]
+- **3rd** [[srd/pf2e/compendium/spells/rank-3/Curse of Lost Time|Curse of Lost Time]]
+- **4th** [[srd/pf2e/compendium/spells/rank-4/Vision of Death|Vision of Death]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/Illusory Scene|Illusory Scene]]
+- **6th** [[srd/pf2e/compendium/spells/rank-6/Phantasmal Calamity|Phantasmal Calamity]]
+- **7th** [[srd/pf2e/compendium/spells/rank-7/Retrocognition|Retrocognition]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/Quandary|Quandary]]
+- **9th** [[srd/pf2e/compendium/spells/rank-9/Foresight|Foresight]]
 
-**Vessel Spell** [[srd/pf2e/compendium/spells/focus/store-time|Store Time]]
+**Vessel Spell** [[srd/pf2e/compendium/spells/focus/Store Time|Store Time]]
 
-**Avatar** _Devourer of Lost Time_ Speed 30 feet, fly Speed 50 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") devour potential ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]), **Damage** 6d10+6 void; **Ranged** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") scream of loss (range 120 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]), **Damage** 6d6+6 void
+**Avatar** _Devourer of Lost Time_ Speed 30 feet, fly Speed 50 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") devour potential ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]]), **Damage** 6d10+6 void; **Ranged** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") scream of loss (range 120 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]]), **Damage** 6d6+6 void
 
 *Source: War of Immortals p. 18*
 
@@ -88,20 +88,20 @@ Impostors in hidden places whisper in quiet corners where mortal voices rarely r
 **Apparition Skills** Fortune-Telling Lore, Underworld Lore
 
 **Apparition Spells**
-- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]]
-- **1st** [[srd/pf2e/compendium/spells/rank-1/ill-omen|Ill Omen]]
-- **2nd** [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]]
-- **3rd** [[srd/pf2e/compendium/spells/rank-3/veil-of-privacy|Veil of Privacy]]
-- **4th** [[srd/pf2e/compendium/spells/rank-4/liminal-doorway|Liminal Doorway]]
-- **5th** [[srd/pf2e/compendium/spells/rank-5/strange-geometry|Strange Geometry]]
-- **6th** [[srd/pf2e/compendium/spells/rank-6/mislead|Mislead]]
-- **7th** [[srd/pf2e/compendium/spells/rank-7/planar-palace|Planar Palace]]
-- **8th** [[srd/pf2e/compendium/spells/rank-8/disappearance|Disappearance]]
-- **9th** [[srd/pf2e/compendium/spells/rank-9/phantasmagoria|Phantasmagoria]]
+- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/Telekinetic Hand|Telekinetic Hand]]
+- **1st** [[srd/pf2e/compendium/spells/rank-1/Ill Omen|Ill Omen]]
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/Invisibility|Invisibility]]
+- **3rd** [[srd/pf2e/compendium/spells/rank-3/Veil of Privacy|Veil of Privacy]]
+- **4th** [[srd/pf2e/compendium/spells/rank-4/Liminal Doorway|Liminal Doorway]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/Strange Geometry|Strange Geometry]]
+- **6th** [[srd/pf2e/compendium/spells/rank-6/Mislead|Mislead]]
+- **7th** [[srd/pf2e/compendium/spells/rank-7/Planar Palace|Planar Palace]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/Disappearance|Disappearance]]
+- **9th** [[srd/pf2e/compendium/spells/rank-9/Phantasmagoria|Phantasmagoria]]
 
-**Vessel Spell** [[srd/pf2e/compendium/spells/focus/discomfiting-whisper|Discomfiting Whisper]]
+**Vessel Spell** [[srd/pf2e/compendium/spells/focus/Discomfiting Whisper|Discomfiting Whisper]]
 
-**Avatar** _Whisper Hiding in Shadows_ Speed 50 feet, fly Speed 50 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") shadowed touch ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile cold]]), **Damage** 6d10+6 void; **Ranged** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") whisper of despair (range 120 feet), **Damage** 6d6+6 void
+**Avatar** _Whisper Hiding in Shadows_ Speed 50 feet, fly Speed 50 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") shadowed touch ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile cold]]), **Damage** 6d10+6 void; **Ranged** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") whisper of despair (range 120 feet), **Damage** 6d6+6 void
 
 *Source: War of Immortals p. 18*
 
@@ -114,44 +114,44 @@ Lurkers in devouring dark are most often near old shipwrecks, deadly icebergs, a
 **Apparition Skills** Ocean Lore, Sailing Lore
 
 **Apparition Spells**
-- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/caustic-blast|Caustic Blast]]
-- **1st** [[srd/pf2e/compendium/spells/rank-1/grim-tendrils|Grim Tendrils]]
-- **2nd** [[srd/pf2e/compendium/spells/rank-2/acid-grip|Acid Grip]]
-- **3rd** [[srd/pf2e/compendium/spells/rank-3/aqueous-orb|Aqueous Orb]]
-- **4th** [[srd/pf2e/compendium/spells/rank-4/grasp-of-the-deep|Grasp of the Deep]]
-- **5th** [[srd/pf2e/compendium/spells/rank-5/wall-of-ice|Wall of Ice]]
-- **6th** [[srd/pf2e/compendium/spells/rank-6/frost-pillar|Frost Pillar]]
-- **7th** [[srd/pf2e/compendium/spells/rank-7/hungry-depths|Hungry Depths]]
-- **8th** [[srd/pf2e/compendium/spells/rank-8/arctic-rift|Arctic Rift]]
-- **9th** [[srd/pf2e/compendium/spells/rank-9/implosion|Implosion]]
+- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/Caustic Blast|Caustic Blast]]
+- **1st** [[srd/pf2e/compendium/spells/rank-1/Grim Tendrils|Grim Tendrils]]
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/Acid Grip|Acid Grip]]
+- **3rd** [[srd/pf2e/compendium/spells/rank-3/Aqueous Orb|Aqueous Orb]]
+- **4th** [[srd/pf2e/compendium/spells/rank-4/Grasp of the Deep|Grasp of the Deep]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/Wall of Ice|Wall of Ice]]
+- **6th** [[srd/pf2e/compendium/spells/rank-6/Frost Pillar|Frost Pillar]]
+- **7th** [[srd/pf2e/compendium/spells/rank-7/Hungry Depths|Hungry Depths]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/Arctic Rift|Arctic Rift]]
+- **9th** [[srd/pf2e/compendium/spells/rank-9/Implosion|Implosion]]
 
-**Vessel Spell** [[srd/pf2e/compendium/spells/focus/devouring-dark-form|Devouring Dark Form]]
+**Vessel Spell** [[srd/pf2e/compendium/spells/focus/Devouring Dark Form|Devouring Dark Form]]
 
-**Avatar** _Tentacles from the Dark_ Speed 70 feet, swim Speed 70 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") grasping tentacles ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 30 feet]]), **Damage** 6d10+6 bludgeoning plus Grab
+**Avatar** _Tentacles from the Dark_ Speed 70 feet, swim Speed 70 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") grasping tentacles ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 30 feet]]), **Damage** 6d10+6 bludgeoning plus Grab
 
 *Source: War of Immortals p. 19*
 
 ## Monarch of the Fey Courts
 
-Monarchs of the fey courts make their homes near places with strong ties to the [[srd/pf2e/compendium/gm/planes#First World|First World]], or in places where [[srd/pf2e/compendium/gm/creature-families/nymph|nymphs]] once held sway. They are drawn to animists who blend an appreciation for art and nature's beauty with a ruler's ambition. Monarchs of fey courts are vain, capricious, and do not easily forgive slights or poor manners.
+Monarchs of the fey courts make their homes near places with strong ties to the [[srd/pf2e/compendium/gm/Planes#First World|First World]], or in places where [[srd/pf2e/compendium/gm/creature-families/Nymph|nymphs]] once held sway. They are drawn to animists who blend an appreciation for art and nature's beauty with a ruler's ambition. Monarchs of fey courts are vain, capricious, and do not easily forgive slights or poor manners.
 
 **Apparition Skills** Art Lore, Fey Lore
 
 **Apparition Spells**
-- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/tangle-vine|Tangle Vine]]
-- **1st** [[srd/pf2e/compendium/spells/rank-1/charm|Charm]]
-- **2nd** [[srd/pf2e/compendium/spells/rank-2/create-food|Create Food]]
-- **3rd** [[srd/pf2e/compendium/spells/rank-3/enthrall|Enthrall]]
-- **4th** [[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]]
-- **5th** [[srd/pf2e/compendium/spells/rank-5/hallucination|Hallucination]]
-- **6th** [[srd/pf2e/compendium/spells/rank-6/dominate|Dominate]]
-- **7th** [[srd/pf2e/compendium/spells/rank-7/mask-of-terror|Mask of Terror]]
-- **8th** [[srd/pf2e/compendium/spells/rank-8/uncontrollable-dance|Uncontrollable Dance]]
-- **9th** [[srd/pf2e/compendium/spells/rank-9/unfathomable-song|Unfathomable Song]]
+- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/Tangle Vine|Tangle Vine]]
+- **1st** [[srd/pf2e/compendium/spells/rank-1/Charm|Charm]]
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/Create Food|Create Food]]
+- **3rd** [[srd/pf2e/compendium/spells/rank-3/Enthrall|Enthrall]]
+- **4th** [[srd/pf2e/compendium/spells/rank-4/Suggestion|Suggestion]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/Hallucination|Hallucination]]
+- **6th** [[srd/pf2e/compendium/spells/rank-6/Dominate|Dominate]]
+- **7th** [[srd/pf2e/compendium/spells/rank-7/Mask of Terror|Mask of Terror]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/Uncontrollable Dance|Uncontrollable Dance]]
+- **9th** [[srd/pf2e/compendium/spells/rank-9/Unfathomable Song|Unfathomable Song]]
 
-**Vessel Spell** [[srd/pf2e/compendium/spells/focus/nymphs-grace|Nymph's Grace]]
+**Vessel Spell** [[srd/pf2e/compendium/spells/focus/Nymph's Grace|Nymph's Grace]]
 
-**Avatar** _Queen of the Winter Court_ Speed 50 feet, fly Speed 50 feet, swim Speed 50 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") queen's caress ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]), **Damage** 6d10+6 mental; **Ranged** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") monarch's spite ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], range 120 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile cold]]), **Damage** 6d6+6 mental
+**Avatar** _Queen of the Winter Court_ Speed 50 feet, fly Speed 50 feet, swim Speed 50 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") queen's caress ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]]), **Damage** 6d10+6 mental; **Ranged** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") monarch's spite ([[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], range 120 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile cold]]), **Damage** 6d6+6 mental
 
 *Source: War of Immortals p. 19*
 
@@ -162,20 +162,20 @@ Revelers in lost glee are twisted apparitions that arise in desolate and abandon
 **Apparition Skills** Circus Lore, Fortune-Telling Lore
 
 **Apparition Spells**
-- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/prestidigitation|Prestidigitation]]
-- **1st** [[srd/pf2e/compendium/spells/rank-1/dizzying-colors|Dizzying Colors]]
-- **2nd** [[srd/pf2e/compendium/spells/rank-2/laughing-fit|Laughing Fit]]
-- **3rd** [[srd/pf2e/compendium/spells/rank-3/hypnotize|Hypnotize]]
-- **4th** [[srd/pf2e/compendium/spells/rank-4/confusion|Confusion]]
-- **5th** [[srd/pf2e/compendium/spells/rank-5/illusory-scene|Illusory Scene]]
-- **6th** [[srd/pf2e/compendium/spells/rank-6/vibrant-pattern|Vibrant Pattern]]
-- **7th** [[srd/pf2e/compendium/spells/rank-7/warp-mind|Warp Mind]]
-- **8th** [[srd/pf2e/compendium/spells/rank-8/quandary|Quandary]]
-- **9th** [[srd/pf2e/compendium/spells/rank-9/wails-of-the-damned|Wails of the Damned]]
+- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/Prestidigitation|Prestidigitation]]
+- **1st** [[srd/pf2e/compendium/spells/rank-1/Dizzying Colors|Dizzying Colors]]
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/Laughing Fit|Laughing Fit]]
+- **3rd** [[srd/pf2e/compendium/spells/rank-3/Hypnotize|Hypnotize]]
+- **4th** [[srd/pf2e/compendium/spells/rank-4/Confusion|Confusion]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/Illusory Scene|Illusory Scene]]
+- **6th** [[srd/pf2e/compendium/spells/rank-6/Vibrant Pattern|Vibrant Pattern]]
+- **7th** [[srd/pf2e/compendium/spells/rank-7/Warp Mind|Warp Mind]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/Quandary|Quandary]]
+- **9th** [[srd/pf2e/compendium/spells/rank-9/Wails of the Damned|Wails of the Damned]]
 
-**Vessel Spell** [[srd/pf2e/compendium/spells/focus/tricksters-mirrors|Trickster's Mirrors]]
+**Vessel Spell** [[srd/pf2e/compendium/spells/focus/Trickster's Mirrors|Trickster's Mirrors]]
 
-**Avatar** _Ringmaster of the Dark Celebration_ Speed 50 feet, ignore difficult terrain and greater difficult terrain; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ringmaster's whip ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|trip]]), **Damage** 6d10+6 slashing; **Ranged** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") feast of the lost ([[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], range 120 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile void]]), **Damage** 6d6+6 acid
+**Avatar** _Ringmaster of the Dark Celebration_ Speed 50 feet, ignore difficult terrain and greater difficult terrain; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ringmaster's whip ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip|trip]]), **Damage** 6d10+6 slashing; **Ranged** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") feast of the lost ([[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|acid]], range 120 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile void]]), **Damage** 6d6+6 acid
 
 *Source: War of Immortals p. 19*
 
@@ -186,20 +186,20 @@ Stalkers in darkened boughs make their homes in ancient forests and jungles unfr
 **Apparition Skills** Forest Lore, Hunting Lore
 
 **Apparition Spells**
-- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/gouging-claw|Gouging Claw]]
-- **1st** [[srd/pf2e/compendium/spells/rank-1/runic-body|Runic Body]]
-- **2nd** [[srd/pf2e/compendium/spells/rank-2/vomit-swarm|Vomit Swarm]]
-- **3rd** [[srd/pf2e/compendium/spells/rank-3/wall-of-thorns|Wall of Thorns]]
-- **4th** [[srd/pf2e/compendium/spells/rank-4/bestial-curse|Bestial Curse]]
-- **5th** [[srd/pf2e/compendium/spells/rank-5/moon-frenzy|Moon Frenzy]]
-- **6th** [[srd/pf2e/compendium/spells/rank-6/tangling-creepers|Tangling Creepers]]
-- **7th** [[srd/pf2e/compendium/spells/rank-7/unfettered-pack|Unfettered Pack]]
-- **8th** [[srd/pf2e/compendium/spells/rank-8/monstrosity-form|Monstrosity Form]]
-- **9th** [[srd/pf2e/compendium/spells/rank-9/wrathful-storm|Wrathful Storm]]
+- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/Gouging Claw|Gouging Claw]]
+- **1st** [[srd/pf2e/compendium/spells/rank-1/Runic Body|Runic Body]]
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/Vomit Swarm|Vomit Swarm]]
+- **3rd** [[srd/pf2e/compendium/spells/rank-3/Wall of Thorns|Wall of Thorns]]
+- **4th** [[srd/pf2e/compendium/spells/rank-4/Bestial Curse|Bestial Curse]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/Moon Frenzy|Moon Frenzy]]
+- **6th** [[srd/pf2e/compendium/spells/rank-6/Tangling Creepers|Tangling Creepers]]
+- **7th** [[srd/pf2e/compendium/spells/rank-7/Unfettered Pack|Unfettered Pack]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/Monstrosity Form|Monstrosity Form]]
+- **9th** [[srd/pf2e/compendium/spells/rank-9/Wrathful Storm|Wrathful Storm]]
 
-**Vessel Spell** [[srd/pf2e/compendium/spells/focus/darkened-forest-form|Darkened Forest Form]]
+**Vessel Spell** [[srd/pf2e/compendium/spells/focus/Darkened Forest Form|Darkened Forest Form]]
 
-**Avatar** _Beast of the Boughs_ Speed 70 feet, fly Speed 70 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") devouring jaws ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly 3d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]), **Damage** 6d10+6 piercing
+**Avatar** _Beast of the Boughs_ Speed 70 feet, fly Speed 70 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") devouring jaws ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly 3d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]), **Damage** 6d10+6 piercing
 
 *Source: War of Immortals p. 20*
 
@@ -210,20 +210,20 @@ Stewards of stone and fire linger near volcanoes and deep places near the heart 
 **Apparition Skills** Mountain Lore, Volcano Lore
 
 **Apparition Spells**
-- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/ignition|Ignition]]
-- **1st** [[srd/pf2e/compendium/spells/rank-1/interposing-earth|Interposing Earth]]
-- **2nd** [[srd/pf2e/compendium/spells/rank-2/exploding-earth|Exploding Earth]]
-- **3rd** [[srd/pf2e/compendium/spells/rank-3/fireball|Fireball]]
-- **4th** [[srd/pf2e/compendium/spells/rank-4/wall-of-fire|Wall of Fire]]
-- **5th** [[srd/pf2e/compendium/spells/rank-5/wall-of-stone|Wall of Stone]]
-- **6th** [[srd/pf2e/compendium/spells/rank-6/petrify|Petrify]]
-- **7th** [[srd/pf2e/compendium/spells/rank-7/volcanic-eruption|Volcanic Eruption]]
-- **8th** [[srd/pf2e/compendium/spells/rank-8/earthquake|Earthquake]]
-- **9th** [[srd/pf2e/compendium/spells/rank-9/falling-stars|Falling Stars]]
+- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/Ignition|Ignition]]
+- **1st** [[srd/pf2e/compendium/spells/rank-1/Interposing Earth|Interposing Earth]]
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/Exploding Earth|Exploding Earth]]
+- **3rd** [[srd/pf2e/compendium/spells/rank-3/Fireball|Fireball]]
+- **4th** [[srd/pf2e/compendium/spells/rank-4/Wall of Fire|Wall of Fire]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/Wall of Stone|Wall of Stone]]
+- **6th** [[srd/pf2e/compendium/spells/rank-6/Petrify|Petrify]]
+- **7th** [[srd/pf2e/compendium/spells/rank-7/Volcanic Eruption|Volcanic Eruption]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/Earthquake|Earthquake]]
+- **9th** [[srd/pf2e/compendium/spells/rank-9/Falling Stars|Falling Stars]]
 
-**Vessel Spell** [[srd/pf2e/compendium/spells/focus/earths-bile|Earth's Bile]]
+**Vessel Spell** [[srd/pf2e/compendium/spells/focus/Earth's Bile|Earth's Bile]]
 
-**Avatar** _Blood of Planets_ Speed 50 feet, burrow Speed 50 feet, ignore difficult terrain and greater difficult terrain; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") avalanche of molten stone ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile B]]), **Damage** 6d10+6 fire; **Ranged** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") cleansing eruption ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], range 120 feet), **Damage** 6d6+6 fire
+**Avatar** _Blood of Planets_ Speed 50 feet, burrow Speed 50 feet, ignore difficult terrain and greater difficult terrain; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") avalanche of molten stone ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile B]]), **Damage** 6d10+6 fire; **Ranged** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") cleansing eruption ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]], range 120 feet), **Damage** 6d6+6 fire
 
 *Source: War of Immortals p. 20*
 
@@ -234,20 +234,20 @@ Vanguards of roaring waters are found where rivers carve their way through mount
 **Apparition Skills** Mountain Lore, River Lore
 
 **Apparition Spells**
-- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/rousing-splash|Rousing Splash]]
-- **1st** [[srd/pf2e/compendium/spells/rank-1/hydraulic-push|Hydraulic Push]]
-- **2nd** [[srd/pf2e/compendium/spells/rank-2/mist|Mist]]
-- **3rd** [[srd/pf2e/compendium/spells/rank-3/crashing-wave|Crashing Wave]]
-- **4th** [[srd/pf2e/compendium/spells/rank-4/hydraulic-torrent|Hydraulic Torrent]]
-- **5th** [[srd/pf2e/compendium/spells/rank-5/control-water|Control Water]]
-- **6th** [[srd/pf2e/compendium/spells/rank-6/personal-ocean|Personal Ocean]]
-- **7th** [[srd/pf2e/compendium/spells/rank-7/dancing-fountain|Dancing Fountain]]
-- **8th** [[srd/pf2e/compendium/spells/rank-8/whirlpool|Whirlpool]]
-- **9th** [[srd/pf2e/compendium/spells/rank-9/wrathful-storm|Wrathful Storm]]
+- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/Rousing Splash|Rousing Splash]]
+- **1st** [[srd/pf2e/compendium/spells/rank-1/Hydraulic Push|Hydraulic Push]]
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/Mist|Mist]]
+- **3rd** [[srd/pf2e/compendium/spells/rank-3/Crashing Wave|Crashing Wave]]
+- **4th** [[srd/pf2e/compendium/spells/rank-4/Hydraulic Torrent|Hydraulic Torrent]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/Control Water|Control Water]]
+- **6th** [[srd/pf2e/compendium/spells/rank-6/Personal Ocean|Personal Ocean]]
+- **7th** [[srd/pf2e/compendium/spells/rank-7/Dancing Fountain|Dancing Fountain]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/Whirlpool|Whirlpool]]
+- **9th** [[srd/pf2e/compendium/spells/rank-9/Wrathful Storm|Wrathful Storm]]
 
-**Vessel Spell** [[srd/pf2e/compendium/spells/focus/river-carving-mountains|River Carving Mountains]]
+**Vessel Spell** [[srd/pf2e/compendium/spells/focus/River Carving Mountains|River Carving Mountains]]
 
-**Avatar** _River that Splits the World_ Speed 50 feet, swim Speed 70 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") parting mountains ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]]), **Damage** 6d10+6 bludgeoning **Ranged** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") crash into the sea (range 120 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile P]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]]), **Damage** 6d6+6 bludgeoning
+**Avatar** _River that Splits the World_ Speed 50 feet, swim Speed 70 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") parting mountains ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Water|water]]), **Damage** 6d10+6 bludgeoning **Ranged** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") crash into the sea (range 120 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile P]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Water|water]]), **Damage** 6d6+6 bludgeoning
 
 *Source: War of Immortals p. 21*
 
@@ -258,19 +258,19 @@ Witnesses to ancient battles may be the lingering remnants of soldiers who never
 **Apparition Skills** Battlegrounds Lore, Heraldry Lore
 
 **Apparition Spells**
-- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/shield|Shield]]
-- **1st** [[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]]
-- **2nd** [[srd/pf2e/compendium/spells/rank-2/enlarge|Enlarge]]
-- **3rd** [[srd/pf2e/compendium/spells/rank-3/ghostly-weapon|Ghostly Weapon]]
-- **4th** [[srd/pf2e/compendium/spells/rank-4/weapon-storm|Weapon Storm]]
-- **5th** [[srd/pf2e/compendium/spells/rank-5/invoke-spirits|Invoke Spirits]]
-- **6th** [[srd/pf2e/compendium/spells/rank-6/phantasmal-calamity|Phantasmal Calamity]]
-- **7th** [[srd/pf2e/compendium/spells/rank-7/true-target|True Target]]
-- **8th** [[srd/pf2e/compendium/spells/rank-8/canticle-of-everlasting-grief|Canticle of Everlasting Grief]]
-- **9th** [[srd/pf2e/compendium/spells/rank-9/weapon-of-judgment|Weapon of Judgment]]
+- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/Shield|Shield]]
+- **1st** [[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]]
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/Enlarge|Enlarge]]
+- **3rd** [[srd/pf2e/compendium/spells/rank-3/Ghostly Weapon|Ghostly Weapon]]
+- **4th** [[srd/pf2e/compendium/spells/rank-4/Weapon Storm|Weapon Storm]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/Invoke Spirits|Invoke Spirits]]
+- **6th** [[srd/pf2e/compendium/spells/rank-6/Phantasmal Calamity|Phantasmal Calamity]]
+- **7th** [[srd/pf2e/compendium/spells/rank-7/True Target|True Target]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/Canticle of Everlasting Grief|Canticle of Everlasting Grief]]
+- **9th** [[srd/pf2e/compendium/spells/rank-9/Weapon of Judgment|Weapon of Judgment]]
 
-**Vessel Spell** [[srd/pf2e/compendium/spells/focus/embodiment-of-battle|Embodiment of Battle]]
+**Vessel Spell** [[srd/pf2e/compendium/spells/focus/Embodiment of Battle|Embodiment of Battle]]
 
-**Avatar** _General of Endless Battle_ Speed 70 feet, immune to [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]]; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") final strike ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d12]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]), **Damage** 6d8+6 slashing
+**Avatar** _General of Endless Battle_ Speed 70 feet, immune to [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]]; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") final strike ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fatal|fatal d12]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]), **Damage** 6d8+6 slashing
 
 *Source: War of Immortals p. 21*

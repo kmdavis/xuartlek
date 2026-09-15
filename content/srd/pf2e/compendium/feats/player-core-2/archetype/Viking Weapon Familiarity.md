@@ -14,11 +14,11 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/viking|Viking]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/viking-dedication|Viking Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Viking|Viking]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Viking Dedication|Viking Dedication]]
 
-From childhood, you have been exposed to traditional viking combat techniques, and you soon learned to handle axe, sword, and shield in battle. Now, you can raid proudly alongside your fellows. You gain the [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] reaction. Additionally, you have familiarity with the [[srd/pf2e/compendium/equipment/weapons/axe/battle-axe|battle axe]], [[srd/pf2e/compendium/equipment/weapons/axe/hatchet|hatchet]], [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]], [[srd/pf2e/compendium/equipment/weapons/shield/shield-boss|shield boss]], [[srd/pf2e/compendium/equipment/weapons/shield/shield-spikes|shield spikes]], and [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|shortsword]]—for the purposes of proficiency, you treat any of these weapons as simple weapons. 
+From childhood, you have been exposed to traditional viking combat techniques, and you soon learned to handle axe, sword, and shield in battle. Now, you can raid proudly alongside your fellows. You gain the [[srd/pf2e/compendium/feats/player-core/general/Shield Block|Shield Block]] reaction. Additionally, you have familiarity with the [[srd/pf2e/compendium/equipment/weapons/axe/Battle Axe|battle axe]], [[srd/pf2e/compendium/equipment/weapons/axe/Hatchet|hatchet]], [[srd/pf2e/compendium/equipment/weapons/sword/Longsword|longsword]], [[srd/pf2e/compendium/equipment/weapons/shield/Shield Boss|shield boss]], [[srd/pf2e/compendium/equipment/weapons/shield/Shield Spikes|shield spikes]], and [[srd/pf2e/compendium/equipment/weapons/sword/Shortsword|shortsword]]—for the purposes of proficiency, you treat any of these weapons as simple weapons. 
 
-At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
+At 5th level, whenever you get a critical hit with one of these weapons, you get its [[srd/pf2e/compendium/rules-elements/Weapon Groups|critical specialization effect]].
 
 *Source: Player Core 2 p. 220*

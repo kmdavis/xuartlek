@@ -16,13 +16,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Area**: 5-foot burst
 - **Defense**: Fortitude (see text)
 - **Duration**: 1 minute
 
-You stir the inner fire of all things within the area, driving out moisture. All creatures in the area take 1d6 persistent fire damage with a basic Fortitude save; creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] traits get a result one degree of success worse than they rolled. The spell ends for a creature when its persistent damage ends.
+You stir the inner fire of all things within the area, driving out moisture. All creatures in the area take 1d6 persistent fire damage with a basic Fortitude save; creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Water|water]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]] traits get a result one degree of success worse than they rolled. The spell ends for a creature when its persistent damage ends.
 
  A creature affected by _dehydrate_ attempts an additional Fortitude save at the end of each of its turns, before rolling to recover from the persistent damage. It can forgo this additional save if it consumed water or a similar hydrating liquid within the last round (drinking typically requires a single action).
 

@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Finisher`  `Swashbuckler`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/flying-blade|Flying Blade]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Flying Blade|Flying Blade]]
 
-Your thrown weapons seem to defy physics as they soar through the air and spin back to you after a strike. Make a [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown]] weapon Strike, ignoring the penalty for making ranged attacks within the second and third range increment. The weapon returns to your hand after the attack unless you critically failed on the attack roll.
+Your thrown weapons seem to defy physics as they soar through the air and spin back to you after a strike. Make a [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown]] weapon Strike, ignoring the penalty for making ranged attacks within the second and third range increment. The weapon returns to your hand after the attack unless you critically failed on the attack roll.
 
 *Source: Player Core 2 p. 166*

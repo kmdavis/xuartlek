@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Magus`
 
-Your physical training encompasses unarmed combat forms. The damage die for your [[srd/pf2e/compendium/equipment/weapons/brawling/fist|fist]] changes to 1d6 instead of 1d4. You don’t take the normal –2 circumstance penalty when making a lethal attack with your fist or any other unarmed attacks. Your unarmed attacks gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]] trait, making them magical. At 5th level, you also gain the [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Specialization|critical specialization]] effects of unarmed attacks in the brawling group and weapons in the brawling group, using your spell DC instead of class DC.
+Your physical training encompasses unarmed combat forms. The damage die for your [[srd/pf2e/compendium/equipment/weapons/brawling/Fist|fist]] changes to 1d6 instead of 1d4. You don’t take the normal –2 circumstance penalty when making a lethal attack with your fist or any other unarmed attacks. Your unarmed attacks gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]] trait, making them magical. At 5th level, you also gain the [[srd/pf2e/books/player-core/chapter-6-equipment/Weapons#Critical Specialization|critical specialization]] effects of unarmed attacks in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group and weapons in the brawling group, using your spell DC instead of class DC.
 
 *Source: Impossible Magic p. 16*

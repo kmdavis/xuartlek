@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 Your studies have made you savvy in a broad spectrum of areas, but one particular investigative process drew your intense—even obsessive—interest. Choose a methodology. 
 
-Methodologies can be found in [[srd/pf2e/compendium/character/Methodologies|Methodologies]].
+Methodologies can be found [[srd/pf2e/compendium/character/Methodologies|here]].
 
 *Source: Player Core 2 p. 100*

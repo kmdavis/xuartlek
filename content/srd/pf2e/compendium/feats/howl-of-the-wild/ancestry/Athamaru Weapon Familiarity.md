@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Athamaru`  `Locathah`
 
-You wield weapons designed to work underwater with ease. You have familiarity with weapons with the [[srd/pf2e/compendium/rules-elements/traits/monster-core/athamaru|athamaru]] trait and with [[srd/pf2e/compendium/equipment/weapons/crossbow/crossbow|crossbows]], [[srd/pf2e/compendium/equipment/weapons/crossbow/heavy-crossbow|heavy crossbows]], [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspears]], [[srd/pf2e/compendium/equipment/weapons/spear/spear|spears]], and [[srd/pf2e/compendium/equipment/weapons/spear/trident|tridents]]—for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons.
+You wield weapons designed to work underwater with ease. You have familiarity with weapons with the [[srd/pf2e/compendium/rules-elements/traits/monster-core/Athamaru|athamaru]] trait and with [[srd/pf2e/compendium/equipment/weapons/crossbow/Crossbow|crossbows]], [[srd/pf2e/compendium/equipment/weapons/crossbow/Heavy Crossbow|heavy crossbows]], [[srd/pf2e/compendium/equipment/weapons/spear/Longspear|longspears]], [[srd/pf2e/compendium/equipment/weapons/spear/Spear|spears]], and [[srd/pf2e/compendium/equipment/weapons/spear/Trident|tridents]]—for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons.
 
  At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 

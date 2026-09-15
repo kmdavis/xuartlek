@@ -16,9 +16,9 @@ socialImage: og-image.png
 `Uncommon`  `Unholy`
 
 - **Cast**: 1 day
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (expert; you must be a [[srd/pf2e/compendium/rules-elements/traits/player-core/demon|demon]])
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] (expert; you must be a [[srd/pf2e/compendium/rules-elements/traits/player-core/Demon|demon]])
 
-You call in a favor from one [[srd/pf2e/compendium/rules-elements/traits/player-core/demon|demon]] of level 2 or lower, two demons of level 0 or lower, or three demons of level –1 or lower.
+You call in a favor from one [[srd/pf2e/compendium/rules-elements/traits/player-core/Demon|demon]] of level 2 or lower, two demons of level 0 or lower, or three demons of level –1 or lower.
 
 **Critical Success** You conjure the demon or demons. They are eager to pursue the task, so they don't ask for a favor.
 

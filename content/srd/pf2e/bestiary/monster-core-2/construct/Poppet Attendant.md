@@ -30,16 +30,16 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; one language their creator speaks"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]; one language their creator speaks"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +6, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +5, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +6, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +5, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +5, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +6"
 abilityMods: [2, 0, 2, 0, 1, 3]
 abilities_top:
   - name: "Simple Doll"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) The poppet attendant looks like an ordinary doll, fooling others into leaving them alone. When they're in their place of business, the poppet attendant can [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] without cover or [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealment]]. Once a creature realizes that the poppet attendant is alive, the attendant can't Hide from them in this way again."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) The poppet attendant looks like an ordinary doll, fooling others into leaving them alone. When they're in their place of business, the poppet attendant can [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] without cover or [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealment]]. Once a creature realizes that the poppet attendant is alive, the attendant can't Hide from them in this way again."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit]], [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|Repair Toolkit]], Shears, Sling (10 sling bullets)"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/Artisan's Toolkit|Artisan's Toolkit]], [[srd/pf2e/compendium/equipment/adventuring-gear/Repair Toolkit|Repair Toolkit]], Shears, Sling (10 sling bullets)"
 ac: 15
 armorclass:
   - name: "AC"
@@ -47,7 +47,7 @@ armorclass:
 hp: 17
 health:
   - name: "HP"
-    desc: "17; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Weaknesses__ fire 2"
+    desc: "17; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], [[srd/pf2e/compendium/rules-elements/Conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]] attacks, [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]], [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]]; __Weaknesses__ fire 2"
 abilities_mid:
   - name: "Pincushion"
     desc: "⬲"
@@ -58,11 +58,11 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ shears +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile P]]) __Damage__ 1d4+2 slashing"
+    desc: "⬻ shears +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile P]]) __Damage__ 1d4+2 slashing"
   - name: "Melee"
-    desc: "⬻ fist +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ fist +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ sling +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 50 feet) __Damage__ 1d6+ bludgeoning"
+    desc: "⬻ sling +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Propulsive|Propulsive]], range increment 50 feet) __Damage__ 1d6+ bludgeoning"
 sourcebook: "_Monster Core 2_, page 256."
 ```
 

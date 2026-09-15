@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Incapacitation`  `Manipulate`  `Mental`
 
-- **Tradition**: Occult
-- **Deities**: [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/azathoth|Azathoth]], [[srd/pf2e/compendium/deities/queens-of-the-night/doloras|Doloras]], [[srd/pf2e/compendium/deities/faiths-philosophies/esoteric-order-of-the-palatine-eye|Esoteric Order Of The Palatine Eye]], [[srd/pf2e/compendium/deities/sakhil-tormentors/nameless|Nameless]], [[srd/pf2e/compendium/deities/monitor-demigods/ssilameshnik|Ssila’meshnik]], [[srd/pf2e/compendium/deities/empyreal-lords/vildeis|Vildeis]]
+- **Tradition**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Azathoth|Azathoth]], [[srd/pf2e/compendium/deities/queens-of-the-night/Doloras|Doloras]], [[srd/pf2e/compendium/deities/faiths-philosophies/Esoteric Order Of The Palatine Eye|Esoteric Order Of The Palatine Eye]], [[srd/pf2e/compendium/deities/sakhil-tormentors/Nameless|Nameless]], [[srd/pf2e/compendium/deities/monitor-demigods/Ssila’meshnik|Ssila’meshnik]], [[srd/pf2e/compendium/deities/empyreal-lords/Vildeis|Vildeis]]
 - **Area**: 30-foot emanation
 - **Defense**: Will
 - **Duration**: 1 round

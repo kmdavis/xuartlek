@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Automaton`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/heritages#Hunter Automaton|Hunter Automaton]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Hunter Automaton|Hunter Automaton]] heritage
 
 You have developed magical techniques to aid you with stalking your prey. You can cast _blur_ and _invisibility_ each once per day as 2nd-level arcane innate spells.
 

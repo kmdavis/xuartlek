@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Monk`
 
-- **Trigger**: A creature within your reach uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action or leaves a square during a move action it’s using.
+- **Trigger**: A creature within your reach uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] action or leaves a square during a move action it’s using.
 
-You strike out when your foe tries to flee. Make a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action, you disrupt that action.
+You strike out when your foe tries to flee. Make a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] action, you disrupt that action.
 
 *Source: Player Core 2 p. 121*

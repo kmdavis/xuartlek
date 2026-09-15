@@ -33,7 +33,7 @@ Rumored to be the result of a gnomish dare to make a variant of a hooked hammer 
 
 **Damage** 1d8 B
 
-**Group** Hammer
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Hammer|Hammer]]
 
 ### Ranged
 
@@ -43,9 +43,9 @@ Rumored to be the result of a gnomish dare to make a variant of a hooked hammer 
 
 **Reload** 2
 
-**Group** Firearm
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
 
-**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
 ### Critical Specialization Effects
 

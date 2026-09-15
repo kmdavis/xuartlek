@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Archetype`  `Primal`  `Sonic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wild-mimic|Wild Mimic]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wild Mimic|Wild Mimic]]
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/wild-mimic-dedication|Wild Mimic Dedication]]; you have been targeted by a creature’s [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] ability that effects an area or have identified a creature with an auditory ability that effects an area
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Wild Mimic Dedication|Wild Mimic Dedication]]; you have been targeted by a creature’s [[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]] ability that effects an area or have identified a creature with an auditory ability that effects an area
 
 You unleash a roar so loud that it's felt as deeply as it's heard. All creatures within a 15-foot emanation take 8d6 sonic damage and must attempt a Fortitude save against the higher of your class DC or spell DC. This damage increases by 2d6 at 14th level and every 2 levels thereafter.
 
@@ -26,7 +26,7 @@ You unleash a roar so loud that it's felt as deeply as it's heard. All creatures
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]]. If the creature is adjacent to you, they're also [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] for 1 round.
+**Failure** The creature takes full damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned 1]]. If the creature is adjacent to you, they're also [[srd/pf2e/compendium/rules-elements/Conditions#Deafened|deafened]] for 1 round.
 
 **Critical Failure** The creature takes double damage and is stunned 2. If the creature is adjacent to you, they're also deafened for 1 minute.
 

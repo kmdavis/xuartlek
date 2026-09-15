@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/elementalist|Elementalist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/rage-of-elements/archetype/elementalist-dedication|Elementalist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Elementalist|Elementalist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/rage-of-elements/archetype/Elementalist Dedication|Elementalist Dedication]]
 - **Trigger**: You take damage from a foe's spell or magical ability with a trait of one of the elements in your elemental philosophy.
 
-Your rapidly metabolize the elemental particles in your opponent's spell to gain a boost of energy. You gain the [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] condition until the end of your next turn. You can use the extra action only to Step or Stride.
+Your rapidly metabolize the elemental particles in your opponent's spell to gain a boost of energy. You gain the [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]] condition until the end of your next turn. You can use the extra action only to Step or Stride.
 
 *Source: Rage of Elements p. 59*

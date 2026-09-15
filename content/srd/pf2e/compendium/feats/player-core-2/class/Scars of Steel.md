@@ -16,7 +16,7 @@ socialImage: og-image.png
 `Barbarian`  `Rage`
 
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/fury|fury instinct]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/Fury|fury instinct]]
 - **Trigger**: An opponent critically hits you with an attack that deals physical damage.
 
 When you are struck with the mightiest of blows, you can flex your muscles to turn aside some of the damage. You gain resistance to the triggering attack equal to your Constitution modifier plus half your level.

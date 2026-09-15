@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/gelid-shard|Gelid Shard]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Gelid Shard|Gelid Shard]]
 
 Snow and ice are no hindrance to you. You ignore difficult terrain caused by snow and ice, treat greater difficult terrain created by snow and ice as difficult terrain, and leave no tracks when moving through areas of snow or ice.
 

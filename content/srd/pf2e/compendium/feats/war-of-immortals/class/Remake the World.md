@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Divine`  `Exemplar`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/class/strike-rivers-seize-winds|Strike Rivers, Seize Winds]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/class/Strike Rivers, Seize Winds|Strike Rivers, Seize Winds]]
 
-For the briefest of moments, you can reach into the realm of true gods, gaining the power to shape reality to your will. Once per day, you can create the effects of a divine spell of 8th level or lower. The spell must be common or one to which you otherwise have access, and it costs as many actions as it would typically take to cast. Use your class DC in place of any necessary spell DC and your class DC –10 in place of any necessary counteract modifier or spell attack modifier. Because you are creating these effects with your godly might rather than Casting a Spell, they can’t be dispelled or counteracted, like Strike Rivers, Seize Winds.
+For the briefest of moments, you can reach into the realm of true gods, gaining the power to shape reality to your will. Once per day, you can create the effects of a [divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2) spell of 8th level or lower. The spell must be common or one to which you otherwise have access, and it costs as many actions as it would typically take to cast. Use your class DC in place of any necessary spell DC and your class DC –10 in place of any necessary counteract modifier or spell attack modifier. Because you are creating these effects with your godly might rather than Casting a Spell, they can’t be dispelled or counteracted, like Strike Rivers, Seize Winds.
 
 *Source: War of Immortals p. 43*

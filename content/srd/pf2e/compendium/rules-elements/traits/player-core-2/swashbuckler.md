@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Swashbuckler`
 
-This trait indicates abilities from the [[srd/pf2e/compendium/character/classes/swashbuckler|swashbuckler]] class.
+This trait indicates abilities from the [[srd/pf2e/compendium/character/classes/Swashbuckler|swashbuckler]] class.
 
 *Source: Player Core 2 p. 318*

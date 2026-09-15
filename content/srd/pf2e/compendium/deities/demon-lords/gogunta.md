@@ -24,23 +24,23 @@ Strength or Wisdom
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/whip|Whip]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/Whip|Whip]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Tyranny|Tyranny]], [[srd/pf2e/compendium/character/domains#Water|Water]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Tyranny|Tyranny]], [[srd/pf2e/compendium/character/Domains#Water|Water]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/jump|Jump]]
+[[srd/pf2e/compendium/spells/rank-1/Jump|Jump]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/aqueous-orb|Aqueous Orb]]
+[[srd/pf2e/compendium/spells/rank-3/Aqueous Orb|Aqueous Orb]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/slither|Slither]]
+[[srd/pf2e/compendium/spells/rank-5/Slither|Slither]]
 
 *Source: Divine Mysteries p. 304*

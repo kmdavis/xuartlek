@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Animist`  `Apparition`  `Wandering`
 
-- **Requirements**: Your attuned apparition grants Forest [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] or Ocean Lore as one of its apparition skills.
+- **Requirements**: Your attuned apparition grants Forest [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] or Ocean Lore as one of its apparition skills.
 
-Your apparitions share with you the monstrous nature of those creatures who dwell in deep seas or ancient woods. You add [[srd/pf2e/compendium/spells/rank-8/monstrosity-form|_monstrosity form_]] to your apparition spell repertoire, allowing you to cast it with your apparition spellcasting.
+Your apparitions share with you the monstrous nature of those creatures who dwell in deep seas or ancient woods. You add [[srd/pf2e/compendium/spells/rank-8/Monstrosity Form|_monstrosity form_]] to your apparition spell repertoire, allowing you to cast it with your apparition spellcasting.
 
-**Special** If you are attuned to a stalker in darkened boughs, add the phoenix form from [[srd/pf2e/compendium/spells/rank-8/monstrosity-form|_monstrosity form_]] to your available [[srd/pf2e/compendium/spells/focus/darkened-forest-form|_darkened forest form_]] options when you cast the spell heightened to 8th rank.
+**Special** If you are attuned to a stalker in darkened boughs, add the phoenix form from [[srd/pf2e/compendium/spells/rank-8/Monstrosity Form|_monstrosity form_]] to your available [[srd/pf2e/compendium/spells/focus/Darkened Forest Form|_darkened forest form_]] options when you cast the spell heightened to 8th rank.
 
-If you are attuned to a lurker in devouring dark, add the cave worm and sea serpent forms to your [[srd/pf2e/compendium/spells/focus/devouring-dark-form|_devouring dark form _]] options as a [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] effect when you cast the spell heightened to 8th rank.
+If you are attuned to a lurker in devouring dark, add the cave worm and sea serpent forms to your [[srd/pf2e/compendium/spells/focus/Devouring Dark Form|_devouring dark form _]] options as a [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]] effect when you cast the spell heightened to 8th rank.
 
 *Source: War of Immortals p. 26*

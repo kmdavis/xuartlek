@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Aura`  `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 - **Area**: 15-foot emanation
 - **Duration**: sustained up to 1 minute
 

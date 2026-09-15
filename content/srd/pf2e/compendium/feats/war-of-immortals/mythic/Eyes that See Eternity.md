@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 `Concentrate`  `Mythic`  `Uncommon`
 
-Mythic power opens your eyes to the secrets of reality and eternity. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]; for the next minute, you gain the effects of [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]] and roll all [[srd/pf2e/books/player-core/chapter-1-introduction/playing-the-game#Perception|Perception]] checks with mythic proficiency.
+Mythic power opens your eyes to the secrets of reality and eternity. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]; for the next minute, you gain the effects of [[srd/pf2e/compendium/spells/rank-6/Truesight|_truesight_]] and roll all [[srd/pf2e/books/player-core/chapter-1-introduction/Playing the Game#Perception|Perception]] checks with mythic proficiency.
 
 *Source: War of Immortals p. 84*

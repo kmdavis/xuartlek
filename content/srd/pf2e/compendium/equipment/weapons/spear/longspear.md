@@ -14,14 +14,14 @@ socialImage: og-image.png
 
 `Reach`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/infernal-dukes/haborym|Haborym]], Lubaiko, [[srd/pf2e/compendium/deities/other-gods/vudravati|Vudravati]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/infernal-dukes/Haborym|Haborym]], Lubaiko, [[srd/pf2e/compendium/deities/other-gods/Vudravati|Vudravati]]
 - **Price**: 5 sp
 - **Damage**: 1d8 P
 - **Bulk**: 2
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Simple
-- **Group**: Spear
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Spear|Spear]]
 
 This very long spear, sometimes called a pike, is purely for thrusting rather than throwing. Used by many soldiers and city watch for crowd control and defense against charging enemies, it must be wielded with two hands.
 
@@ -31,6 +31,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Dragon's Tongue, Hydra Spear, [[srd/pf2e/compendium/equipment/weapons/icicle|Icicle]]
+Dragon's Tongue, Hydra Spear, [[srd/pf2e/compendium/equipment/weapons/Icicle|Icicle]]
 
 *Source: Player Core p. 277*

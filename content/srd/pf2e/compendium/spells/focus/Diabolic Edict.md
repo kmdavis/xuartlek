@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Focus`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Diabolic|Diabolic]]
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Diabolic|Diabolic]]
 - **Range**: 30 feet
 - **Target**: 1 willing living creature
 - **Duration**: 1 round

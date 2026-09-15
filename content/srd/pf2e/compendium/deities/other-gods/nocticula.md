@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: create art true to yourself, protect marginalized artists, punish those who take advantage of offered trust and shelter
 - **Anathema**: deny shelter to the desperate, destroy harmless art you dislike, finish a work of art during daylight hours
 - **Area of Concern**: artists, exiles, midnight
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/wheels-of-innovation|Wheels of Innovation]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Wheels of Innovation|Wheels of Innovation]]
 
 ### Devotee Benefits
 
@@ -25,30 +25,30 @@ Dexterity or Charisma
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|Dagger]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|Dagger]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Travel|Travel]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/penumbral-shroud|Penumbral Shroud]]
+[[srd/pf2e/compendium/spells/rank-1/Penumbral Shroud|Penumbral Shroud]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/veil-of-privacy|Veil of Privacy]]
+[[srd/pf2e/compendium/spells/rank-3/Veil of Privacy|Veil of Privacy]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/creation|Creation]]
+[[srd/pf2e/compendium/spells/rank-4/Creation|Creation]]
 
 ### Divine Intercession
 
 The Redeemer Queen smiles upon those who seek to better themselves through introspection, but she is quick to reward betrayal with a stinging rebuke. 
 
-**Minor Boon** The night sky inspires you in a specific way. Once, when you roll a failure on a [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] or [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check under the night sky, you critically succeed instead. Nocticula typically grants this boon for a consequential piece of artwork or performance.
+**Minor Boon** The night sky inspires you in a specific way. Once, when you roll a failure on a [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] or [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] check under the night sky, you critically succeed instead. Nocticula typically grants this boon for a consequential piece of artwork or performance.
 
 **Moderate Boon** You draw on the power of midnight to guide you on your journeys. You gain darkvision. If you already had darkvision, you can cast _darkness_ once per day as a divine innate spell.
 

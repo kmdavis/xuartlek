@@ -13,9 +13,9 @@ socialImage: og-image.png
 
 - **Usage**: worn armor
 - **Bulk**: varies by armor
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/silver|Silver]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/Silver|Silver]]
 
-Silver armor sickens certain creatures that touch it. A creature with weakness to silver that critically fails an unarmed attack against a creature in silver armor becomes [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1. A creature with weakness to silver is sickened 1 as long as it wears silver armor.
+Silver armor sickens certain creatures that touch it. A creature with weakness to silver that critically fails an unarmed attack against a creature in silver armor becomes [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] 1. A creature with weakness to silver is sickened 1 as long as it wears silver armor.
 
 ### Silver Armor (Low-Grade)
 

@@ -17,7 +17,7 @@ socialImage: og-image.png
 `Fighter`  `Ranger`  `Rogue`
 
 - **Frequency**: once per minute
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/class/haft-striker-stance|Haft Striker Stance]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/class/Haft Striker Stance|Haft Striker Stance]]
 - **Requirements**: You are in Haft Striker Stance.
 
 The momentum of each of your attacks feeds into the next blow in the routine, creating a brutal rhythm that enables you to give your target one continuous beatdown. [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] twice, once with your weapon and once with its haft. Each attack counts towards your multiple attack penalty, but do not increase your penalty until you have made both attacks. Then Strike twice again, once with your weapon and once with its haft.

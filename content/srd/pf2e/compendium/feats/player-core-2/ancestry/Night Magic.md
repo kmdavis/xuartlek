@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Dhampir`
 
-You can tap into the magic that runs through your blood. You gain [[srd/pf2e/compendium/spells/rank-2/animal-form|_animal form_]] (wolf only, using the statistics for a canine) and [[srd/pf2e/compendium/spells/rank-2/mist|_mist_]] as 2nd-rank divine innate spells. You can cast each of these spells once per day.
+You can tap into the magic that runs through your blood. You gain [[srd/pf2e/compendium/spells/rank-2/Animal Form|_animal form_]] (wolf only, using the statistics for a canine) and [[srd/pf2e/compendium/spells/rank-2/Mist|_mist_]] as 2nd-rank divine innate spells. You can cast each of these spells once per day.
 
 *Source: Player Core 2 p. 43*

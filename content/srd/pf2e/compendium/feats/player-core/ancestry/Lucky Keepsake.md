@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Leshy`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/leshy-superstition|Leshy Superstition]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/Leshy Superstition|Leshy Superstition]]
 
 You have a keepsake that grants you luck. You gain a +1 circumstance bonus to saves against spells and magical effects at all times, not just when you use Leshy Superstition. If you lose the keepsake, you lose the bonus until you designate a new keepsake, typically over the course of a week.
 

@@ -18,10 +18,10 @@ socialImage: og-image.png
 
 - **Frequency**: once per 10 minutes
 
-You use your thralls to restore yourself. Destroy up to three of your thralls within 60 feet and regain Hit Points equal to your level per thrall destroyed. If you destroy three thralls total, you can also decrease one of your [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], or [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] condition values by 1.
+You use your thralls to restore yourself. Destroy up to three of your thralls within 60 feet and regain Hit Points equal to your level per thrall destroyed. If you destroy three thralls total, you can also decrease one of your [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]], [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]], or [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] condition values by 1.
 
 ### Reclaim Power leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/power-hungry|Power Hungry]]
+[[srd/pf2e/compendium/feats/impossible-magic/class/Power Hungry|Power Hungry]]
 
 *Source: Impossible Magic p. 36*

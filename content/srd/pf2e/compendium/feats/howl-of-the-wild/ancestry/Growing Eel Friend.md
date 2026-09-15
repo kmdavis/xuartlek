@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Athamaru`  `Locathah`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/elver-pet|Elver Pet]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Elver Pet|Elver Pet]]
 
-Your eel pet grows larger and stronger. Your eel pet's size changes to Small, and the eel gains the [[srd/pf2e/compendium/character/familiar-abilities#Scent|scent]] and [[srd/pf2e/compendium/character/familiar-abilities#Tough|tough]] pet abilities. However, it becomes too large to carry in a water-filled globe.
+Your eel pet grows larger and stronger. Your eel pet's size changes to Small, and the eel gains the [[srd/pf2e/compendium/character/Familiar Abilities#Scent|scent]] and [[srd/pf2e/compendium/character/Familiar Abilities#Tough|tough]] pet abilities. However, it becomes too large to carry in a water-filled globe.
 
 *Source: Howl of the Wild p. 19*

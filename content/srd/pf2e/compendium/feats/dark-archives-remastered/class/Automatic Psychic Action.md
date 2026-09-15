@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Psychic`
 
-Your power wants to be free. You're permanently [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]], and can use the additional action only for psyche actions.
+Your power wants to be free. You're permanently [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]], and can use the additional action only for psyche actions.
 
 *Source: Dark Archives (Remastered) p. 29*

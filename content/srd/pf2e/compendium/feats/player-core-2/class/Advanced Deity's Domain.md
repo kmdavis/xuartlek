@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Champion`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/deitys-domain|Deity's Domain]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Deity's Domain|Deity's Domain]]
 
 Through your conviction, you have glimpsed the deeper secrets of your deity's domain. You gain an advanced domain spell from the domain you chose with Deity's Domain as a devotion spell.
 

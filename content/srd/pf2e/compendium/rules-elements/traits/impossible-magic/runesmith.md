@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Runesmith`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/runesmith|runesmith]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Runesmith|runesmith]] class.
 
 *Source: Impossible Magic p. 253*

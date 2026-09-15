@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/swarmkeeper|Swarmkeeper]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/swarmkeeper-dedication|Swarmkeeper Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Swarmkeeper|Swarmkeeper]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Swarmkeeper Dedication|Swarmkeeper Dedication]]
 
 When your swarm is sharing your space and Strides, you can choose to have your swarm carry you with it. You stay in the same basic position within its space while it moves and when you arrive at your new location (with your exact location determined by the GM if it's unclear). Because you're moving voluntarily, your movement isn't forced movement and therefore still triggers reactions based on movement. If your swarm [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]], and you don't have a fly Speed, you fall at the end of this movement.
 

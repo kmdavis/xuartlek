@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Electricity`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 120 feet
 - **Target**: 1 creature that’s either taller than you or higher in the air than you
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex
 - **Duration**: 1 minute
 
 Calling out to the skies, you summon a bolt of lightning to strike through a foe above you and channel the energy down into your weapon or body, charging it with electrical power. You must hold your weapon or an empty hand aloft as part of Casting this Spell. When you do, a bolt of lightning descends from a storm cloud in the air above you and through the target, dealing 3d12 electricity damage with a basic Reflex save. For the rest of the spell's duration, your first [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] each round with the weapon you held aloft (or with your unarmed attacks if you held an empty hand aloft) deals an additional 1d12 electricity damage.

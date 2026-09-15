@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/witch|Witch]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/basic-witch-spellcasting|Basic Witch Spellcasting]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Witch|Witch]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Basic Witch Spellcasting|Basic Witch Spellcasting]]
 
 You can cast more spells each day. Increase the spell slots you gain from witch archetype feats by 1 for each spell rank other than your two highest spell ranks
 

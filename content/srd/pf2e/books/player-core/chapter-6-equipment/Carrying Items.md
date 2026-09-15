@@ -1,6 +1,7 @@
 ---
 title: "Carrying Items"
 aliases: ["Carrying Items"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,14 +10,13 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2148"
 citation: "Player Core pg. 267"
-socialImage: og-image.png
 ---
 
 # Carrying Items
 
 <sup>PC1 p. 267</sup>
 
-A character carries items in three ways: held, worn, and stowed. **Held items** are in your hands; a character typically has two hands, allowing them to hold an item in each hand or a single two-handed item using both hands. **Worn items** are tucked into pockets, belt pouches, bandoliers, weapon sheaths, and so forth, and they can be retrieved and returned relatively quickly. **Stowed items** are in a backpack or a similar container, and they are more difficult to access.
+A character carries items in three ways: held, worn, and stowed. **Held items** are in your hands; a character typically has two hands, allowing them to hold an item in each hand or a single two-handed item using both hands. **Worn items** are tucked into pockets, belt pouches, bandoliers, weapon sheaths, and so forth, and they can be retrieved and returned relatively quickly. **Stowed items** are in a [backpack](https://2e.aonprd.com/Equipment.aspx?ID=4) or a similar container, and they are more difficult to access.
 
 ## Wielding Items
 
@@ -24,7 +24,7 @@ Some abilities require you to wield an item, typically a weapon. You’re wieldi
 
 ## Drawing and Stowing Items
 
-Drawing a worn item or changing how you're carrying an item usually requires you to use an Interact action (or sometimes the Release action). The options are detailed on page 268. Many ways of using items require you to spend multiple actions. For example, drinking a potion worn at your belt requires using an Interact action to draw it and then using a second action to drink it as described in its Activate entry.
+Drawing a worn item or changing how you're carrying an item usually requires you to use an Interact action (or sometimes the [Release](https://2e.aonprd.com/Actions.aspx?ID=83) action). The options are detailed on page 268. Many ways of using items require you to spend multiple actions. For example, drinking a potion worn at your belt requires using an Interact action to draw it and then using a second action to drink it as described in its Activate entry.
 
 The number of hands you need to Interact is usually clear, and if it changes during the action the action takes the maximum number of hands needed during it. The GM decides if it's unclear. You can draw, pick up, or hold an item that needs two hands using only one hand, but you need to subsequently change your grip to hold it in two hands if you want to wield or use it.
 

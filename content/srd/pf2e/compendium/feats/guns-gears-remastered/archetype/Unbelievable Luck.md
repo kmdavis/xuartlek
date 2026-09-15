@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/unexpected-sharpshooter|Unexpected Sharpshooter]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/unexpected-sharpshooter-dedication|Unexpected Sharpshooter Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Unexpected Sharpshooter|Unexpected Sharpshooter]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
 
-While no one, not even you, might appear to understand why, you demonstrate a greater ability to hit your targets regardless of the obstacles in your way. You can use the [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/unexpected-sharpshooter-dedication|Accidental Shot]] activity granted to you by the Unexpected Sharpshooter Dedication once per hour instead of once per day.
+While no one, not even you, might appear to understand why, you demonstrate a greater ability to hit your targets regardless of the obstacles in your way. You can use the [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Unexpected Sharpshooter Dedication|Accidental Shot]] activity granted to you by the Unexpected Sharpshooter Dedication once per hour instead of once per day.
 
 *Source: Guns & Gears (Remastered) p. 143*

@@ -17,14 +17,14 @@ socialImage: og-image.png
 
 `Backswing`  `Tearing`  `Uncommon`  `Versatile`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/ah-pook|Ah Pook]], Xiquiripat, Ytildos
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/Ah Pook|Ah Pook]], Xiquiripat, Ytildos
 - **Price**: 3 gp
 - **Damage**: 1d8 S
 - **Bulk**: 1
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Club
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|Club]]
 
 This wooden club is embedded with razorsharp blades, typically made of obsidian. The blades are inserted vertically around two sides of the weapon, leaving a central bludgeoning surface available for bashing.
 

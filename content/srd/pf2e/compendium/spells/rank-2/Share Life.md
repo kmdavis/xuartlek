@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Tradition**: Divine
+- **Tradition**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2)
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: 10 minutes

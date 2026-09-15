@@ -28,14 +28,14 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +17, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +16, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +16"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +17, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +16, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +16"
 abilityMods: [5, 2, 3, 2, 1, 1]
 abilities_top:
   - name: "Items"
-    desc: "alchemical grenades, [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|Alchemist's Toolkit]], Full Plate, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/hammer/maul|maul]]_"
+    desc: "alchemical grenades, [[srd/pf2e/compendium/equipment/adventuring-gear/Alchemist's Toolkit|Alchemist's Toolkit]], Full Plate, _+1 [[srd/pf2e/compendium/equipment/runes/Striking|striking]] [[srd/pf2e/compendium/equipment/weapons/hammer/Maul|maul]]_"
 ac: 27
 armorclass:
   - name: "AC"
@@ -47,14 +47,14 @@ health:
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _maul_ +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|Shove]]) __Damage__ 2d12+8 bludgeoning plus Knockdown"
+    desc: "⬻ _maul_ +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Shove|Shove]]) __Damage__ 2d12+8 bludgeoning plus Knockdown"
   - name: "Melee"
-    desc: "⬻ fist +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+8 bludgeoning"
+    desc: "⬻ fist +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+8 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ alchemical grenade +16 (range increment 20 feet, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|Splash]]) __Damage__ 2d8 acid, cold, electricity, or fire plus 2 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] and 2 [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage of the same type"
+    desc: "⬻ alchemical grenade +16 (range increment 20 feet, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|Splash]]) __Damage__ 2d8 acid, cold, electricity, or fire plus 2 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent damage]] and 2 [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage of the same type"
 abilities_bot:
   - name: "Shock and Awe"
-    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|Visual]])"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|Visual]])"
   - name: "Trigger"
     desc: "The hobgoblin vanguard critically hits a creature with an alchemical grenade Strike"
   - name: "Effect"

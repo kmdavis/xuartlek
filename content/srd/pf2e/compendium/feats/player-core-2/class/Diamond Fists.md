@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Monk`
 
-Your body hardens as you combine your attacks, making your finishing blows more damaging. Your unarmed attacks gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|forceful]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]] traits. Any that already had one or both of these traits increase their weapon damage dice by one step.
+Your body hardens as you combine your attacks, making your finishing blows more damaging. Your unarmed attacks gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/Forceful|forceful]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d10]] traits. Any that already had one or both of these traits increase their weapon damage dice by one step.
 
 *Source: Player Core 2 p. 127*

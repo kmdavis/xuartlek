@@ -17,7 +17,7 @@ socialImage: og-image.png
 - **PFS Note**: Characters with access to firearms gain access to accessories that can be used with those weapons.
 - **Bulk**: 1
 
-Powerful firearms like the arquebus were originally used to defend fortifications or ships, mounted on casements or pintles to steady their aim and offset their recoil. More mobile means of stabilizing weapons with [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/kickback|kickback]] were developed as firearms began to spread across the Inner Sea. The standard [[srd/pf2e/compendium/equipment/adventuring-gear/tripod|tripod]] takes an Interact action to deploy using one hand.
+Powerful firearms like the arquebus were originally used to defend fortifications or ships, mounted on casements or pintles to steady their aim and offset their recoil. More mobile means of stabilizing weapons with [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/Kickback|kickback]] were developed as firearms began to spread across the Inner Sea. The standard [[srd/pf2e/compendium/equipment/adventuring-gear/Tripod|tripod]] takes an Interact action to deploy using one hand.
 
 ### Portable Weapon Mount (Monopod)
 

@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Kobold`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/heritages#Spellhorn Kobold|Spellhorn Kobold]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Spellhorn Kobold|Spellhorn Kobold]] heritage
 
-Your inborn arcane power grows. Choose one common 1st-rank arcane spell and one common 2nd-rank arcane spell. You can cast each of these spells once per day as arcane innate spells.
+Your inborn arcane power grows. Choose one common 1st-rank [arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1) spell and one common 2nd-rank arcane spell. You can cast each of these spells once per day as arcane innate spells.
 
 ### Evolved Spellhorn leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/ancestry/resplendent-spellhorn|Resplendent Spellhorn]]
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Resplendent Spellhorn|Resplendent Spellhorn]]
 
 *Source: Player Core 2 p. 23*

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Gunslinger`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 - **Requirements**: You're wielding a loaded firearm.
 
 Who needs words when the roar of a gun is so much more succinct? You attempt to Demoralize a foe by firing your weapon into the air, using the firearm's maximum range rather than the usual range of 30 feet. This check doesn't take the –4 circumstance penalty if the target doesn't share a language with you.

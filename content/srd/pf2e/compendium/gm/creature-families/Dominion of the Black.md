@@ -14,7 +14,7 @@ The Dominion of the Black is a conglomeration of deep-space conquerors with a st
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core/aberration/gosreg|Gosreg]] (Creature 11), [[srd/pf2e/bestiary/monster-core/aberration/jah-tohl|Jah-Tohl]] (Creature 8), [[srd/pf2e/bestiary/monster-core/aberration/rhu-chalik|Rhu-Chalik]] (Creature 6), [[srd/pf2e/bestiary/monster-core/aberration/xoarian|Xoarian]] (Creature 8)
+[[srd/pf2e/bestiary/monster-core/aberration/Gosreg|Gosreg]] (Creature 11), [[srd/pf2e/bestiary/monster-core/aberration/Jah-Tohl|Jah-Tohl]] (Creature 8), [[srd/pf2e/bestiary/monster-core/aberration/Rhu-Chalik|Rhu-Chalik]] (Creature 6), [[srd/pf2e/bestiary/monster-core/aberration/Xoarian|Xoarian]] (Creature 8)
 
 ### Doomsday Dawn
 

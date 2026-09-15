@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/rivethun-involutionist|Rivethun Involutionist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/basic-rivethun-spellcasting|Basic Rivethun Spellcasting]]; Master in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Rivethun Involutionist|Rivethun Involutionist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Basic Rivethun Spellcasting|Basic Rivethun Spellcasting]]; Master in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
-You gain the [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|expert spellcasting]] benefits.
+You gain the [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Spellcasting Archetypes|expert spellcasting]] benefits.
 
 ### Expert Rivethun Spellcasting leads to...
 
-[[srd/pf2e/compendium/feats/divine-mysteries/archetype/master-rivethun-spellcasting|Master Rivethun Spellcasting]]
+[[srd/pf2e/compendium/feats/divine-mysteries/archetype/Master Rivethun Spellcasting|Master Rivethun Spellcasting]]
 
 *Source: Divine Mysteries p. 295*

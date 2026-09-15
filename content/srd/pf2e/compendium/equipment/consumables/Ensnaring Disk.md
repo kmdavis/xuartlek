@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 - **Price**: 70 gp
 - **Usage**: affixed to a shield
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]])
 - **Trigger**: You use the affixed shield to Shield Block a melee weapon attack
-- **Requirement**: You are an expert in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]].
+- **Requirement**: You are an expert in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]].
 
 This coin-sized metal disk is inscribed with arcane symbols and mounted on the inner surface of a shield. When you Activate the disk, the triggering weapon momentarily sticks to your shield, allowing you to attempt to Disarm it from its wielder with a +2 item bonus. If you roll a critical failure on this check, you get a failure instead.
 

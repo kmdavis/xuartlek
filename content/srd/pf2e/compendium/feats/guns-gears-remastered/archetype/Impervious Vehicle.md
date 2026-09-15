@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/vehicle-mechanic|Vehicle Mechanic]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/vehicle-mechanic-dedication|Vehicle Mechanic Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Vehicle Mechanic|Vehicle Mechanic]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]]
 
-From armor plating and flexible components, to reinforced materials and backup redundant functionality, you have built safeguards to protect your vehicle from the rigors of combat. Your signature vehicle gains a +1 circumstance bonus to AC and Fortitude saves, and increases its Hit Points by an amount equal to twice your level.
+From armor plating and flexible components, to reinforced materials and backup redundant functionality, you have built safeguards to protect your [[srd/pf2e/compendium/equipment/vehicles/vehicles|vehicle]] from the rigors of combat. Your signature vehicle gains a +1 circumstance bonus to AC and Fortitude saves, and increases its Hit Points by an amount equal to twice your level.
 
 *Source: Guns & Gears (Remastered) p. 57*

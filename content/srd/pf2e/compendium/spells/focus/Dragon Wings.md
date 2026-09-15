@@ -19,10 +19,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Focus`  `Manipulate`  `Morph`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Draconic|Draconic]]
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Draconic|Draconic]]
 - **Duration**: 1 minute
 
-Leathery wings sprout from your back, giving you a fly Speed of 60 feet or your Speed, whichever is faster. If you're still flying when this spell's duration would end, you float to the ground, with the effects of [[srd/pf2e/compendium/spells/rank-1/gentle-landing|_gentle landing_]].
+Leathery wings sprout from your back, giving you a fly Speed of 60 feet or your Speed, whichever is faster. If you're still flying when this spell's duration would end, you float to the ground, with the effects of [[srd/pf2e/compendium/spells/rank-1/Gentle Landing|_gentle landing_]].
 
 ---
 **Heightened (8th)** The duration increases to 10 minutes.

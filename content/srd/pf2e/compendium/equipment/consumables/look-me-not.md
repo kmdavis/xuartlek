@@ -8,20 +8,20 @@ tags:
 - trait/talisman
 - trait/visual
 - equipment/level/11
-aliases: ["Look-me-not"]
+aliases: ["Look-Me-Not"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5105"
 source: "Impossible Magic"
 socialImage: og-image.png
 ---
 
-# Look-me-not  *Item 11*
+# Look-Me-Not  *Item 11*
 
 `Consumable`  `Illusion`  `Magical`  `Talisman`  `Visual`
 
 - **Price**: 150 gp
 - **Usage**: affixed to a weapon
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]])
 
-This talisman takes the form of a flower from the sweetbriar rose, also called the eglantine rose, tied to the weapon with a bit of string. The talisman’s enchantment is such that the flower never wilts. When you activate it, your weapon becomes difficult to look at for 1 minute, as through a shimmer of heat or something seen out of the corner of your eye. While this effect is active, you gain a +2 status bonus to [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|Feint]]. If you’re untrained in Deception, you can use the Feint action anyway and add your level as your proficiency bonus despite being untrained. Additionally, your Strikes and damage from the affixed weapon can’t trigger reactions (such as the [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] reaction).
+This talisman takes the form of a flower from the sweetbriar rose, also called the eglantine rose, tied to the weapon with a bit of string. The talisman’s enchantment is such that the flower never wilts. When you activate it, your weapon becomes difficult to look at for 1 minute, as through a shimmer of heat or something seen out of the corner of your eye. While this effect is active, you gain a +2 status bonus to [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|Feint]]. If you’re untrained in Deception, you can use the Feint action anyway and add your level as your proficiency bonus despite being untrained. Additionally, your Strikes and damage from the affixed weapon can’t trigger reactions (such as the [[srd/pf2e/compendium/feats/player-core/general/Shield Block|Shield Block]] reaction).
 
 *Source: Impossible Magic p. 224*

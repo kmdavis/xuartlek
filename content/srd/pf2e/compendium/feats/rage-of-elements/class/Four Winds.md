@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Air`  `Impulse`  `Kineticist`  `Primal`
 
-Mimicking the [[srd/pf2e/bestiary/rage-of-elements/elemental/anemos|anemoi]]—monarchs of the four winds—you propel four creatures. Target up to four willing creatures within 30 feet of you. Each of those creatures can Stride up to half its Speed. If it has a fly Speed, it can instead Fly up to half its fly Speed.
+Mimicking the [[srd/pf2e/bestiary/rage-of-elements/elemental/Anemos|anemoi]]—monarchs of the four winds—you propel four creatures. Target up to four willing creatures within 30 feet of you. Each of those creatures can Stride up to half its Speed. If it has a fly Speed, it can instead Fly up to half its fly Speed.
 
 ---
 **Level (10th)** The targets move up to full Speed instead of half.

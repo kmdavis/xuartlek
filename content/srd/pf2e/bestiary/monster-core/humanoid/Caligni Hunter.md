@@ -28,10 +28,10 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; greater darkvision, light blindness"
-languages: "Caligni, [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
+languages: "Caligni, [[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +13, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +11, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +13, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] +11, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +12"
 abilityMods: [2, 5, 2, -1, 2, 1]
 abilities_top:
   - name: "Items"
@@ -46,21 +46,21 @@ health:
     desc: "60 (final fate)"
 abilities_mid:
   - name: "Final Fate"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]]) When the hunter dies, their soul leaves their body in an explosion of spiritual energy. All creatures in a 20-foot burst take 5d6 spirit damage (DC 19 basic Will save). The hunter's possessions are left in a pile where they died."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]]) When the hunter dies, their soul leaves their body in an explosion of spiritual energy. All creatures in a 20-foot burst take 5d6 spirit damage (DC 19 basic Will save). The hunter's possessions are left in a pile where they died."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ shortsword +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d6+7 piercing plus darkening poison"
+    desc: "⬻ shortsword +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d6+7 piercing plus darkening poison"
 abilities_bot:
   - name: "Double Slice"
     desc: "⬺ The caligni hunter makes two Strikes against the same target, one with each of their shortswords. The hunter combines the damage of any attacks that hit and applies precision damage, resistances, and weaknesses only once. Both attacks count toward the hunter's multiple attack penalty, but the penalty increases only after both attacks."
   - name: "Encircling Command"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]]) Each [[srd/pf2e/bestiary/monster-core/humanoid/caligni-skulker|caligni skulker]] within 30 feet of the hunter can Step. Each skulker can benefit from Encircling Command only once per round."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|Auditory]]) Each [[srd/pf2e/bestiary/monster-core/humanoid/Caligni Skulker|caligni skulker]] within 30 feet of the hunter can Step. Each skulker can benefit from Encircling Command only once per round."
   - name: "Sneak Attack"
-    desc: "The caligni hunter deals 1d6 extra precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
+    desc: "The caligni hunter deals 1d6 extra precision damage to [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] creatures."
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 19 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/figment|Figment]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/darkness|Darkness]] (at will), [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|See the Unseen]] (at will)"
+    desc: "DC 19 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/Figment|Figment]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Darkness|Darkness]] (at will), [[srd/pf2e/compendium/spells/rank-2/See the Unseen|See the Unseen]] (at will)"
 sourcebook: "_Monster Core_, page 49."
 ```
 

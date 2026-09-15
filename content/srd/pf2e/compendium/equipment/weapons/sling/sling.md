@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Propulsive`
 
-- **Favored Weapon**: Khepri, [[srd/pf2e/compendium/deities/empyreal-lords/lalaci|Lalaci]], [[srd/pf2e/compendium/deities/empyreal-lords/pulura|Pulura]], Sarshallatu
+- **Favored Weapon**: Khepri, [[srd/pf2e/compendium/deities/empyreal-lords/Lalaci|Lalaci]], [[srd/pf2e/compendium/deities/empyreal-lords/Pulura|Pulura]], Sarshallatu
 - **Price**: —
 - **Damage**: 1d6 B
 - **Bulk**: L
@@ -23,8 +23,8 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Simple
-- **Group**: Sling
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/sling/sling-bullets|Sling Bullets]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sling|Sling]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/sling/Sling Bullets|Sling Bullets]]
 
 Little more than a leather cup attached to a pair of straps, a sling can be used to fling smooth stones or sling bullets at a range.
 
@@ -34,6 +34,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/caterwaul-sling|Caterwaul Sling]], [[srd/pf2e/compendium/equipment/weapons/whip-tongue-sling|Whip-Tongue Sling]]
+[[srd/pf2e/compendium/equipment/weapons/Caterwaul Sling|Caterwaul Sling]], [[srd/pf2e/compendium/equipment/weapons/Whip-Tongue Sling|Whip-Tongue Sling]]
 
 *Source: Player Core p. 280*

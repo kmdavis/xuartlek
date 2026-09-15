@@ -28,10 +28,10 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; darkvision, scent (imprecise) 30 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +15, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +13, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +15, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +13, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +11"
 abilityMods: [5, 3, 4, -1, 1, 1]
 ac: 23
 armorclass:
@@ -40,12 +40,12 @@ armorclass:
 hp: 90
 health:
   - name: "HP"
-    desc: "90; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
+    desc: "90; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]"
 abilities_mid:
   - name: "Twisting Tail"
     desc: "⬲"
   - name: "Trigger"
-    desc: "A creature within reach of the jungle drake's stinger uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action or leaves a square during a move action they're using"
+    desc: "A creature within reach of the jungle drake's stinger uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] action or leaves a square during a move action they're using"
   - name: "Effect"
     desc: "The jungle drake Strikes the target with their stinger. If it hits, the jungle drake disrupts the creature's action."
 speed: "20 feet, fly 50 feet; forest passage"
@@ -53,32 +53,32 @@ attacks:
   - name: "Melee"
     desc: "⬻ fangs +17 __Damage__ 2d10+7 piercing plus Predatory Grab"
   - name: "Melee"
-    desc: "⬻ stinger +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d6+7 piercing plus jungle drake venom"
+    desc: "⬻ stinger +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 2d6+7 piercing plus jungle drake venom"
 abilities_bot:
   - name: "Draconic Frenzy"
     desc: "⬺ The jungle drake makes one fangs Strike and two stinger Strikes in any order."
   - name: "Forest Passage"
     desc: "The jungle drake ignores difficult terrain caused by plants, such as bushes, vines, and undergrowth. Even plants manipulated by magic don't impede their progress."
   - name: "Jungle Drake Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 24 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "1d6 poison and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] (1 round)"
+    desc: "1d6 poison and [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled 1]] (1 round)"
   - name: "Stage 2"
     desc: "1d6 poison and enfeebled 2 (1 round)"
   - name: "Predatory Grab"
-    desc: "⬻ As Grab, but the jungle drake's Grab doesn't end if they move away. Instead, they carry the [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] creature with them. A jungle drake can't [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] while grabbing a creature unless that creature can also Fly."
+    desc: "⬻ As Grab, but the jungle drake's Grab doesn't end if they move away. Instead, they carry the [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] creature with them. A jungle drake can't [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] while grabbing a creature unless that creature can also Fly."
   - name: "Speed Surge"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]])"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Move|Move]])"
   - name: "Frequency"
     desc: "three times per day"
   - name: "Effect"
     desc: "The jungle drake Strides or Flies twice."
   - name: "Spit Venom"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]]) A jungle drake can spit a sticky glob of their venom to a range of 50 feet that explodes in a 10-foot burst. Those in the burst must succeed at a DC 24 Reflex save or be exposed to jungle drake venom. The jungle drake can't use Spit Venom again for 1d6 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]]) A jungle drake can spit a sticky glob of their venom to a range of 50 feet that explodes in a 10-foot burst. Those in the burst must succeed at a DC 24 Reflex save or be exposed to jungle drake venom. The jungle drake can't use Spit Venom again for 1d6 rounds."
 sourcebook: "_Monster Core_, page 130."
 ```
 

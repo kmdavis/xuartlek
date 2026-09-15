@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Mental`  `Nonlethal`  `Occult`  `Psychic`
 
-- **Trigger**: You roll a critical success on a Will save against a [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effect from a creature.
+- **Trigger**: You roll a critical success on a Will save against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effect from a creature.
 
 Your thoughts sting back when a lesser mind tries to invade your own. You deal mental damage equal to your level to the triggering creature. If you so desire, you can also send the creature a single mental image to coincide with the damage, such as a watchful eye or the dread of floating in an infinite sea.
 

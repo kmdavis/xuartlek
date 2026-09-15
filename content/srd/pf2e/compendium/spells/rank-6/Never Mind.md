@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Curse`  `Incapacitation`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Occult
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]]
-- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/abraxas|Abraxas]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/arazni|Arazni]], [[srd/pf2e/compendium/deities/demon-lords/areshkagal|Areshkagal]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/gyronna|Gyronna]], [[srd/pf2e/compendium/deities/azlanti-pantheon/lissala|Lissala]], Lorthact, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-veiled-voice|Nyarlathotep (The Veiled Voice)]], Valmallos
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Aberrant|Aberrant]]
+- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/Abraxas|Abraxas]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Arazni|Arazni]], [[srd/pf2e/compendium/deities/demon-lords/Areshkagal|Areshkagal]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/Gyronna|Gyronna]], [[srd/pf2e/compendium/deities/azlanti-pantheon/Lissala|Lissala]], Lorthact, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (The Veiled Voice)|Nyarlathotep (The Veiled Voice)]], Valmallos
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

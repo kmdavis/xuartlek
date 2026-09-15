@@ -28,7 +28,7 @@ perception:
     desc: "+11; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +10"
 abilityMods: [5, 1, 4, -4, 2, 0]
 ac: 22
 armorclass:
@@ -41,12 +41,12 @@ health:
 speed: "30 feet, climb 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d8+7 piercing"
+    desc: "⬻ jaws +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 2d8+7 piercing"
   - name: "Melee"
-    desc: "⬻ tail +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d6+7 bludgeoning"
+    desc: "⬻ tail +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 2d6+7 bludgeoning"
 abilities_bot:
   - name: "Intimidating Display"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|Visual]]) The giant frilled lizard Strides. If it ends that Stride adjacent to at least one other creature, it suddenly displays its colorful neck frills and issues a frightening hiss. Each adjacent creature must succeed at a DC 21 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 2]] (or frightened 3 on a critical failure). The creature is then temporarily immune to Intimidating Display for 1 minute."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|Visual]]) The giant frilled lizard Strides. If it ends that Stride adjacent to at least one other creature, it suddenly displays its colorful neck frills and issues a frightening hiss. Each adjacent creature must succeed at a DC 21 Will save or become [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened 2]] (or frightened 3 on a critical failure). The creature is then temporarily immune to Intimidating Display for 1 minute."
 sourcebook: "_Monster Core_, page 225."
 ```
 

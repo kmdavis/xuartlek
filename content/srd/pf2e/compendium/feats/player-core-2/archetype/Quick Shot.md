@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/archer|Archer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/archer-dedication|Archer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Archer|Archer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Archer Dedication|Archer Dedication]]
 
-You draw your bow and attack with the same action. You Interact to draw a weapon from the bow or crossbow weapon group that is loaded or has reload 0, then Strike with that weapon.
+You draw your bow and attack with the same action. You Interact to draw a weapon from the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bow|bow]] or [[srd/pf2e/compendium/rules-elements/Weapon Groups#Crossbow|crossbow]] weapon group that is loaded or has reload 0, then Strike with that weapon.
 
 *Source: Player Core 2 p. 185*

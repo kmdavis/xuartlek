@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/werecreature|Werecreature]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/werecreature-dedication|Werecreature Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Werecreature|Werecreature]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Werecreature Dedication|Werecreature Dedication]]
 
-You can be injured by non-[[srd/pf2e/compendium/equipment/materials/silver|silver]] sources but recover with staggering speed. When you are reduced to 0 Hit Points by non-silver damage and don't immediately die from a [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effect or a high [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] value, you stabilize immediately afterward. You gain the [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] condition as normal.
+You can be injured by non-[[srd/pf2e/compendium/equipment/materials/Silver|silver]] sources but recover with staggering speed. When you are reduced to 0 Hit Points by non-silver damage and don't immediately die from a [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]] effect or a high [[srd/pf2e/compendium/rules-elements/Conditions#Dying|dying]] value, you stabilize immediately afterward. You gain the [[srd/pf2e/compendium/rules-elements/Conditions#Wounded|wounded]] condition as normal.
 
 *Source: Howl of the Wild p. 79*

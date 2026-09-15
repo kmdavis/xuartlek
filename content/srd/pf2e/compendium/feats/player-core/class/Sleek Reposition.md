@@ -22,6 +22,6 @@ While your opponent is still recovering from your prior attack, you snag its arm
 
 This Strike has the following failure effect.
 
-**Failure** The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the end of your current turn.
+**Failure** The target becomes [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] until the end of your current turn.
 
 *Source: Player Core p. 143*

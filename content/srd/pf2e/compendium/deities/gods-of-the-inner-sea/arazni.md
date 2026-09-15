@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: act with dignity, do whatever it takes to survive, despise and never forgive those who have hurt you
 - **Anathema**: create unwilling undead, insult Arazni
 - **Area of Concern**: the abused, dignity, unwilling undeath
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/guardians-of-the-sacred-self|Guardians of the Sacred Self]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Guardians of the Sacred Self|Guardians of the Sacred Self]]
 
 ### Devotee Benefits
 
@@ -25,24 +25,24 @@ Constitution or Intelligence
 
 **Divine Sanctification** can choose holy or unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/rapier|Rapier]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Rapier|Rapier]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/domains#Pain|Pain]], [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/Domains#Pain|Pain]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Sorrow|Sorrow]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Sorrow|Sorrow]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/endure|Endure]]
+[[srd/pf2e/compendium/spells/rank-1/Endure|Endure]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/animus-mine|Animus Mine]]
+[[srd/pf2e/compendium/spells/rank-2/Animus Mine|Animus Mine]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/never-mind|Never Mind]]
+[[srd/pf2e/compendium/spells/rank-6/Never Mind|Never Mind]]
 
 ### Divine Intercession
 

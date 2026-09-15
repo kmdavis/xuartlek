@@ -1,6 +1,7 @@
 ---
 title: "Building Skirmish Encounters"
 aliases: ["Building Skirmish Encounters"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3453"
 citation: "Battlecry! pg. 163"
-socialImage: og-image.png
 ---
 
 # Building Skirmish Encounters
@@ -26,29 +26,29 @@ Because skirmish encounters require more from the players and GM, they need to b
 >
 > A commander can choose a troop as a squadmate, treating them as one ally. They can choose troops led by allies as squadmates, too, if the ally allows it. The Under Command skirmish bond can make commanders more effective in skirmish warfare.
 >
-> Commanders should note the movement limit for units off their turn, as described under [[srd/pf2e/books/battlecry/skirmish-units/shared-space-and-movement#Combined Movement|Combined Movement]] . Tactics that can grant movement to multiple squadmates don’t get to double up for combined units. There might be some overlap between your tactics and the options you have for skirmish bonds. Check carefully to make sure you’re choosing combinations that actually work well together. For most commanders, the best choice of skirmish bond is Under Command.
+> Commanders should note the movement limit for units off their turn, as described under [[srd/pf2e/books/battlecry/skirmish-units/Shared Space and Movement#Combined Movement|Combined Movement]] . Tactics that can grant movement to multiple squadmates don’t get to double up for combined units. There might be some overlap between your tactics and the options you have for skirmish bonds. Check carefully to make sure you’re choosing combinations that actually work well together. For most commanders, the best choice of skirmish bond is [Under Command](https://2e.aonprd.com/SkirmishBonds.aspx?ID=13).
 
 ## 1. Set Objectives
 
 Given the large number of creatures involved in a skirmish encounter, it’s best to avoid just playing out a fight until everybody is at 0 HP. A skirmish encounter should have a specific objective! You can set up any objective that makes sense, which is usually relevant to the PCs but can sometimes be a shared objective both sides are competing to attain. Once the objective is attained or becomes impossible to complete, the encounter ends. It’s vitally important to make the objective clear to the players at the start of the encounter, usually while they’re making preparations. The more details you can give them, the better they can plan for the encounter and measure their success.
 
-Some of the basic types of objectives you might choose from while designing your skirmish encounters are defined in the [[srd/pf2e/compendium/gm/creature-families/military|Military]] section of NPC Core. They are: defend, eliminate, and seize.
+Some of the basic types of objectives you might choose from while designing your skirmish encounters are defined in the [[srd/pf2e/compendium/gm/creature-families/Military|Military]] section of NPC Core. They are: defend, eliminate, and seize.
 
 ### Defend
 
 The PCs must defend a place, people, or valuable asset against enemy forces. To keep a skirmish that features a defend objective from being a battle that carries on until an entire side is defeated, you can use a timer—the PCs need to defend for 3 rounds, for example. It’s also wise to define what counts as failing to defend the objective. Some examples could entail:
 
 - The PCs must protect a refugee caravan. They meet their objective if they defend the caravan for 3 rounds but lose it if the raiders destroy three or more wagons.
-- [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|Fiends]] are attacking a holy site, and the PCs must keep them from desecrating it. Allied [[srd/pf2e/compendium/character/classes/cleric|clerics]] can seal one of four doorways each round, and the PCs can choose the order in which they do it. If all four doors are sealed, the site is safe and the objective met!
-- Enemy [[srd/pf2e/compendium/rules-elements/traits/npc-core/troop|troops]] are trying to reach a teleportation portal to join a siege of a major city. The PCs must block a narrow mountain pass to delay them until the portal has closed. Blocking any of the enemy troops is a partial success toward the objective, but the more they stop, the safer the city will be.
+- [[srd/pf2e/compendium/rules-elements/traits/player-core/Fiend|Fiends]] are attacking a holy site, and the PCs must keep them from desecrating it. Allied [[srd/pf2e/compendium/character/classes/Cleric|clerics]] can seal one of four doorways each round, and the PCs can choose the order in which they do it. If all four doors are sealed, the site is safe and the objective met!
+- Enemy [[srd/pf2e/compendium/rules-elements/traits/npc-core/Troop|troops]] are trying to reach a teleportation portal to join a siege of a major city. The PCs must block a narrow mountain pass to delay them until the portal has closed. Blocking any of the enemy troops is a partial success toward the objective, but the more they stop, the safer the city will be.
 
 ### Eliminate
 
 Destroying a target could swing the tide of battle. PCs might look for all sorts of ways to achieve this objective, taking a more proactive approach than they would if they were defending. These encounters usually work best if the PCs can clearly find and identify the target they need to destroy—uncertainty can be especially annoying in a skirmish encounter. If you do want to make finding the target part of the encounter, such as by finding a cowardly enemy spellcaster and incapacitating them to end a ritual, give the PCs a limited number of clear places to search. Examples of eliminate objectives include:
 
-- [[srd/pf2e/compendium/rules-elements/traits/npc-core/troop|Troops]] are stationed at the estate of a powerful political figurehead. Get past the guards and assassinate this leader.
+- [[srd/pf2e/compendium/rules-elements/traits/npc-core/Troop|Troops]] are stationed at the estate of a powerful political figurehead. Get past the guards and assassinate this leader.
 - Multiple shipments of weapons have been transported to an isolated but centrally located fort before being sent out to arm several battalions. Destroy the stockpile!
-- Siege engines are laying waste to allied forces and keeping them holed up in a crumbling castle. Disable or destroy the siege engines to give your allies the chance to rush forward and take the fight to the enemy.
+- [Siege engines](https://2e.aonprd.com/Traits.aspx?ID=457) are laying waste to allied forces and keeping them holed up in a crumbling castle. Disable or destroy the siege engines to give your allies the chance to rush forward and take the fight to the enemy.
 
 ### Seize
 
@@ -74,7 +74,7 @@ If the battlefield is small, narrow, or has many impediments like walls in the w
 
 ### Terrain and Hazards
 
-[[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Difficult Terrain|Difficult terrain]], [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Hazardous Terrain|hazardous terrain]], and mechanical or magical [[srd/pf2e/books/gm-core/chapter-2-building-games/hazards|hazards]] can add more considerations to the battle. This isn’t always a good thing! Skirmish encounters are already complex, with players and the GM already needing to run troops in addition to their normal characters. If you incorporate these features, look for ones that either add to creativity or that grant certain combat participants advantages. For instance, if one of the PCs has a flying troop, you might place some terrain that makes them the best troop to go take out a ranged enemy troop. Alternatively, you might put a fortification of spikes or flaming coals down along the most direct path to the enemy but provide a slightly longer side path, so the PCs need to decide whether to rush through and take damage or get fewer attacks in by taking the long way. Either way, use special terrain and hazards sparingly!
+[[srd/pf2e/books/gm-core/chapter-1-running-the-game/Running Exploration#Difficult Terrain|Difficult terrain]], [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Running Exploration#Hazardous Terrain|hazardous terrain]], and mechanical or magical [[srd/pf2e/books/gm-core/chapter-2-building-games/Hazards|hazards]] can add more considerations to the battle. This isn’t always a good thing! Skirmish encounters are already complex, with players and the GM already needing to run troops in addition to their normal characters. If you incorporate these features, look for ones that either add to creativity or that grant certain combat participants advantages. For instance, if one of the PCs has a flying troop, you might place some terrain that makes them the best troop to go take out a ranged enemy troop. Alternatively, you might put a fortification of spikes or flaming coals down along the most direct path to the enemy but provide a slightly longer side path, so the PCs need to decide whether to rush through and take damage or get fewer attacks in by taking the long way. Either way, use special terrain and hazards sparingly!
 
 ### 3D Terrain
 
@@ -82,7 +82,7 @@ Skirmishes can occur across three dimensions if you make use of multiple floors 
 
 ## 3. Choose a Difficulty
 
-Designing a skirmish encounter starts the same way as designing a regular encounter. Choose a threat and [[srd/pf2e/books/gm-core/chapter-2-building-games/encounter-design#XP Budget|XP budget]] appropriate for your group. Then, add the troops you want the PCs to have to their side and increase the XP budget by the troops' XP value. For example, if you were designing a low-threat skirmish encounter for a 7th-level group of four PCs, you'd start with 60 XP for the budget If each PC had a 7th-level troop, you'd add 160 XP to the encounter budget since that's the XP for four 7th-level creatures. You would then have a total budget of 220 XP. This still counts as a low encounter, though if you later decide you want a moderate encounter, you can adjust the budget to 240 XP and add more adversaries or increase the level of the ones you have.
+Designing a skirmish encounter starts the same way as designing a regular encounter. Choose a threat and [[srd/pf2e/books/gm-core/chapter-2-building-games/Encounter Design#XP Budget|XP budget]] appropriate for your group. Then, add the troops you want the PCs to have to their side and increase the XP budget by the troops' XP value. For example, if you were designing a low-threat skirmish encounter for a 7th-level group of four PCs, you'd start with 60 XP for the budget If each PC had a 7th-level troop, you'd add 160 XP to the encounter budget since that's the XP for four 7th-level creatures. You would then have a total budget of 220 XP. This still counts as a low encounter, though if you later decide you want a moderate encounter, you can adjust the budget to 240 XP and add more adversaries or increase the level of the ones you have.
 
 ## 4. Add the Right Enemies
 
@@ -94,13 +94,13 @@ A skirmish encounter is large enough that some variety between troops is essenti
 
 ### Leaders
 
-A variety in leaders can be just as important as a variety of troops. Even two of the same [[srd/pf2e/compendium/rules-elements/traits/npc-core/troop|troop]] can play differently if they have two different leaders or one has a leader and the other doesn’t. Usually, you’ll want to choose leaders out of the base XP budget before adjusting for troops. If you want to focus the narrative on one significant leader, spend much of your budget on one NPC who’s 2 levels higher than the PCs. If you want a more even battle, choose leaders of the PCs’ level or 1 lower.
+A variety in leaders can be just as important as a variety of troops. Even two of the same [[srd/pf2e/compendium/rules-elements/traits/npc-core/Troop|troop]] can play differently if they have two different leaders or one has a leader and the other doesn’t. Usually, you’ll want to choose leaders out of the base XP budget before adjusting for troops. If you want to focus the narrative on one significant leader, spend much of your budget on one NPC who’s 2 levels higher than the PCs. If you want a more even battle, choose leaders of the PCs’ level or 1 lower.
 
 Including troops with no leaders lets you bring the full set of skirmish rules into play. Troops who can be routed can simplify the battlefield quickly and make the PCs feel powerful. Usually, you’ll want at least one or two leaderless troops in a skirmish encounter.
 
 ### Wild Cards
 
-Despite all the focus on [[srd/pf2e/compendium/rules-elements/traits/npc-core/troop|troops]] versus troops, non-troop monsters still work in skirmish encounters, so you might throw in a [[srd/pf2e/bestiary/monster-core/beast/manticore|manticore]], [[srd/pf2e/compendium/gm/creature-families/dragon|dragon]], or other creature for more variety. They can add surprise tactics and shake up the expected style of the encounter, and they don’t have the same weaknesses to troops’ offensive abilities that other troops do. Creatures that can [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]], or use other movement modes are especially useful. Individual humanoids, especially Medium or smaller creatures, are usually a poor addition to the encounter unless they’re leading a troop.
+Despite all the focus on [[srd/pf2e/compendium/rules-elements/traits/npc-core/Troop|troops]] versus troops, non-troop monsters still work in skirmish encounters, so you might throw in a [[srd/pf2e/bestiary/monster-core/beast/Manticore|manticore]], [[srd/pf2e/compendium/gm/creature-families/Dragon|dragon]], or other creature for more variety. They can add surprise tactics and shake up the expected style of the encounter, and they don’t have the same weaknesses to troops’ offensive abilities that other troops do. Creatures that can [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]], or use other movement modes are especially useful. Individual humanoids, especially Medium or smaller creatures, are usually a poor addition to the encounter unless they’re leading a troop.
 
 ## Special Considerations
 
@@ -108,7 +108,7 @@ The advice in this section addresses certain issues that might arise when planni
 
 ### Lone Wolf PCs
 
-So, you have a PC in your group who doesn’t play well with others. They might not be at all interested in leading a group because of their character’s personality or abilities. Usually, your best course of action as GM is to reduce the number of troops the PCs can command by one when building your encounter, which adjusts the [[srd/pf2e/books/gm-core/chapter-2-building-games/encounter-design#XP Budget|XP budget]] accordingly.
+So, you have a PC in your group who doesn’t play well with others. They might not be at all interested in leading a group because of their character’s personality or abilities. Usually, your best course of action as GM is to reduce the number of troops the PCs can command by one when building your encounter, which adjusts the [[srd/pf2e/books/gm-core/chapter-2-building-games/Encounter Design#XP Budget|XP budget]] accordingly.
 
 If you find that all or most of your group feels the same way, skirmish encounters are probably a bad fit for your campaign or adventure. You might look at ways to turn warfare into background or set dressing rather than making it an active part of combat that needs to be played out using these rules.
 

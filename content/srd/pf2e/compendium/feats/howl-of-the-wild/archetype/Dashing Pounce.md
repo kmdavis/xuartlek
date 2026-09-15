@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/clawdancer|Clawdancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/clawdancer-dedication|Clawdancer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Clawdancer|Clawdancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Clawdancer Dedication|Clawdancer Dedication]]
 - **Requirements**: You are in claw stance and have two open hands.
 
-With a burst of speed, you leap into the air, slashing with your hands. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]], and if you end your movement adjacent to an enemy, you make two frenzied claw unarmed strikes against it. Apply your multiple attack penalty to these Strikes normally. If both Strikes miss, you fall [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] at the end of your Leap.
+With a burst of speed, you leap into the air, slashing with your hands. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]], and if you end your movement adjacent to an enemy, you make two frenzied claw unarmed strikes against it. Apply your multiple attack penalty to these Strikes normally. If both Strikes miss, you fall [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] at the end of your Leap.
 
 *Source: Howl of the Wild p. 68*

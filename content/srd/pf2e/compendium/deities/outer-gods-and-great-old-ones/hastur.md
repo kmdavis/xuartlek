@@ -24,23 +24,23 @@ Intelligence or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/rapier|Rapier]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Rapier|Rapier]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/domains#Wealth|Wealth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/Domains#Wealth|Wealth]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/illusory-disguise|Illusory Disguise]]
+[[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|Illusory Disguise]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/confusion|Confusion]]
+[[srd/pf2e/compendium/spells/rank-4/Confusion|Confusion]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/hallucination|Hallucination]]
+[[srd/pf2e/compendium/spells/rank-5/Hallucination|Hallucination]]
 
 *Source: Divine Mysteries p. 318*

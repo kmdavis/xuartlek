@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/war-mage|War Mage]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/war-mage-dedication|War Mage Dedication]]; [[srd/pf2e/compendium/feats/player-core/archetype/bespell-strikes|Bespell Strikes]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/War Mage|War Mage]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/War Mage Dedication|War Mage Dedication]]; [[srd/pf2e/compendium/feats/player-core/archetype/Bespell Strikes|Bespell Strikes]]
 
 You eschew wands and staves for more advanced weaponry. You become trained in advanced weapons. If you gain the weapon expertise class feature, your proficiency in martial and advanced weapons increases to expert. The extra damage you deal with Bespell Strikes increases to 1d8. 
 
 ### Arcana of Iron leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/archetype/secrets-of-steel|Secrets of Steel]]
+[[srd/pf2e/compendium/feats/battlecry/archetype/Secrets of Steel|Secrets of Steel]]
 
 *Source: Battlecry! p. 68*

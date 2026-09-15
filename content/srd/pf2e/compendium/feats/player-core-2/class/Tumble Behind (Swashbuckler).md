@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Swashbuckler`
 
-Your tumbling puts your foes on the back foot. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Tumble Through|Tumble Through]] successfully, the foe you Tumbled Through is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against the next attack you make before the end of your turn.
+Your tumbling puts your foes on the back foot. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Tumble Through|Tumble Through]] successfully, the foe you Tumbled Through is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] against the next attack you make before the end of your turn.
 
 *Source: Player Core 2 p. 165*

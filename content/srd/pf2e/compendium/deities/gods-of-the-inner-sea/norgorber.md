@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: keep your true identity secret, sacrifice anyone necessary, take every advantage in a fight, work from the shadows
 - **Anathema**: allow your true identity to be connected to your foul dealings, share a secret freely, show mercy
 - **Area of Concern**: greed, murder, poison, secrets
-- **Pantheons**: [[srd/pf2e/compendium/deities/covenants/shadow-cabinet|Shadow Cabinet]], The Tides of Chaos
+- **Pantheons**: [[srd/pf2e/compendium/deities/covenants/Shadow Cabinet|Shadow Cabinet]], The Tides of Chaos
 
 ### Devotee Benefits
 
@@ -25,30 +25,30 @@ Dexterity or Intelligence
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|Shortsword]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Shortsword|Shortsword]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/domains#Wealth|Wealth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/Domains#Wealth|Wealth]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/illusory-disguise|Illusory Disguise]]
+[[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|Illusory Disguise]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]]
+[[srd/pf2e/compendium/spells/rank-2/Invisibility|Invisibility]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/vision-of-death|Vision of Death]]
+[[srd/pf2e/compendium/spells/rank-4/Vision of Death|Vision of Death]]
 
 ### Divine Intercession
 
 Norgorber’s favor and displeasure are subtle, yet powerful.
 
-**Minor Boon** Norgorber protects your secrets and lies. Once, when you roll a failure at a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] check to tell a Lie, you get a critical success instead. Norgorber typically chooses to grant this boon to protect an extremely consequential lie.
+**Minor Boon** Norgorber protects your secrets and lies. Once, when you roll a failure at a [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] check to tell a Lie, you get a critical success instead. Norgorber typically chooses to grant this boon to protect an extremely consequential lie.
 
 **Moderate Boon** Your poisons are everlasting. If your Strike with a poisoned weapon critically fails, or succeeds but fails to deal slashing or piercing damage, the poison is not spent. The poison is still spent once successfully applied to a creature.
 

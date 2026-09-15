@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/investigator|Investigator]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/investigator-dedication|Investigator Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Investigator|Investigator]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Investigator Dedication|Investigator Dedication]]
 
-You gain a 1st- or 2nd-level investigator feat of your choice.
+You gain a 1st- or 2nd-level [investigator feat](https://2e.aonprd.com/Feats.aspx?Traits=318) of your choice.
 
 ### Basic Deduction leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/advanced-deduction|Advanced Deduction]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Advanced Deduction|Advanced Deduction]]
 
 *Source: Player Core 2 p. 178*

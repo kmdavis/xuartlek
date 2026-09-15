@@ -14,7 +14,7 @@ Nagas are serpentine beings with magical powers and keen intellects. Physically,
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core/beast/smaranava|Smaranava]] (Creature 7), [[srd/pf2e/bestiary/monster-core/beast/vicharamuni|Vicharamuni]] (Creature 10)
+[[srd/pf2e/bestiary/monster-core/beast/Smaranava|Smaranava]] (Creature 7), [[srd/pf2e/bestiary/monster-core/beast/Vicharamuni|Vicharamuni]] (Creature 10)
 
 ### Nagajor
 
@@ -22,6 +22,6 @@ On Golarion, naga rule the nation of Nagajor—though most of the administration
 
 ### Ravithra
 
-[[srd/pf2e/compendium/deities/vudrani-gods/ravithra|Ravithra]], the Pillar of Karma, ruled over Vudra in ages long past, alongside the aeons. After the first in a series of betrayals, her severed head regrew a serpentine body as she became the Mother of Nagas. Those descendants that still follow her deal out pitiless justice, while also seeking to restore her power.
+[[srd/pf2e/compendium/deities/vudrani-gods/Ravithra|Ravithra]], the Pillar of Karma, ruled over Vudra in ages long past, alongside the aeons. After the first in a series of betrayals, her severed head regrew a serpentine body as she became the Mother of Nagas. Those descendants that still follow her deal out pitiless justice, while also seeking to restore her power.
 
 *Source: Monster Core p. 236*

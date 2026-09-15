@@ -1,6 +1,7 @@
 ---
 title: "Mixed Play"
 aliases: ["Mixed Play"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "War of Immortals Alternate Mythic Rules"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3344"
 citation: "War of Immortals Alternate Mythic Rules pg. 2"
-socialImage: og-image.png
 ---
 
 # Mixed Play
@@ -22,9 +22,9 @@ Presented below are some other points to consider and tools you can use to get t
 
 ## Free Archetype
 
-Characters gain extra feats from mythic progression at the same levels as extra feats from the [[srd/pf2e/books/gm-core/chapter-2-building-games/variant-rules#Free Archetype|free archetype variant rules]]. It's usually best to avoid using the free archetype variant if you're using mythic progression in your campaign. However, sometimes you can use the two side-by-side. If you're running a campaign where only some characters are mythic, one step you can take to help avoid creating a situation where only some characters feel like the heroes of the story is to allow the non-mythic characters to use the free archetype variant. This won't completely close the gap between mythic and non-mythic characters, but it will allow both sets of characters to achieve an equal depth of options and opportunities. Just like how mythic characters have a calling and a mythic destiny, it can be beneficial to plan out what archetype or archetypes the non-mythic characters are taking via the free archetype variant rules.
+Characters gain extra feats from mythic progression at the same levels as extra feats from the [[srd/pf2e/books/gm-core/chapter-2-building-games/Variant Rules#Free Archetype|free archetype variant rules]]. It's usually best to avoid using the free archetype variant if you're using mythic progression in your campaign. However, sometimes you can use the two side-by-side. If you're running a campaign where only some characters are mythic, one step you can take to help avoid creating a situation where only some characters feel like the heroes of the story is to allow the non-mythic characters to use the free archetype variant. This won't completely close the gap between mythic and non-mythic characters, but it will allow both sets of characters to achieve an equal depth of options and opportunities. Just like how mythic characters have a calling and a mythic destiny, it can be beneficial to plan out what archetype or archetypes the non-mythic characters are taking via the free archetype variant rules.
 
-Since free archetypes are being used here to help level the playing field between mythic and non-mythic characters, it's also useful to track them as a separate progression. If a character takes an archetype using their normal class feats, this shouldn't prevent them from taking other dedications with their free archetype feats. Normal restrictions should still apply within each grouping. For example, a rogue using free archetype instead of having mythic power should be allowed to take the fighter multiclass archetype with their normal 2nd-level feat and also take the [[srd/pf2e/compendium/character/archetypes/blessed-one|blessed one]] archetype with their free archetype feats. They should still need to take two more fighter archetype feats before selecting another dedication with their normal class feat progression, and two or more blessed one archetype feats before selecting another dedication with the feats granted to them by their free archetype.
+Since free archetypes are being used here to help level the playing field between mythic and non-mythic characters, it's also useful to track them as a separate progression. If a character takes an archetype using their normal class feats, this shouldn't prevent them from taking other dedications with their free archetype feats. Normal restrictions should still apply within each grouping. For example, a rogue using free archetype instead of having mythic power should be allowed to take the fighter multiclass archetype with their normal 2nd-level feat and also take the [[srd/pf2e/compendium/character/archetypes/Blessed One|blessed one]] archetype with their free archetype feats. They should still need to take two more fighter archetype feats before selecting another dedication with their normal class feat progression, and two or more blessed one archetype feats before selecting another dedication with the feats granted to them by their free archetype.
 
 ## Hero Points
 

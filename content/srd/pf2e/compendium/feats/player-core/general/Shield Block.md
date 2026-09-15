@@ -20,6 +20,6 @@ You snap your shield in place to ward off a blow. Your shield prevents you from 
 
 ### Shield Block leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/bastion-dedication|Bastion Dedication]], [[srd/pf2e/compendium/feats/player-core/class/channeling-block|Channeling Block]], [[srd/pf2e/compendium/feats/player-core/archetype/quick-shield-block|Quick Shield Block]], [[srd/pf2e/compendium/feats/battlecry/class/repositioning-block|Repositioning Block]], [[srd/pf2e/compendium/feats/player-core/archetype/shield-warden|Shield Warden]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Bastion Dedication|Bastion Dedication]], [[srd/pf2e/compendium/feats/player-core/class/Channeling Block|Channeling Block]], [[srd/pf2e/compendium/feats/player-core/archetype/Quick Shield Block|Quick Shield Block]], [[srd/pf2e/compendium/feats/battlecry/class/Repositioning Block|Repositioning Block]], [[srd/pf2e/compendium/feats/player-core/archetype/Shield Warden|Shield Warden]]
 
 *Source: Player Core p. 262*

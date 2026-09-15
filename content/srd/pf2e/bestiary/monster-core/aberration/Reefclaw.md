@@ -28,10 +28,10 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; (can't speak any language)"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]; (can't speak any language)"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +4"
 abilityMods: [1, 4, 2, -3, 1, 1]
 ac: 20
 armorclass:
@@ -51,18 +51,18 @@ abilities_mid:
 speed: "5 feet, swim 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+1 slashing plus reefclaw venom and Grab"
+    desc: "⬻ claw +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]]) __Damage__ 1d6+1 slashing plus reefclaw venom and Grab"
 abilities_bot:
   - name: "Constrict"
     desc: "⬻ 1d6 bludgeoning, DC 17"
   - name: "Reefclaw Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 17 Fortitude"
   - name: "Maximum Duration"
     desc: "4 rounds"
   - name: "Stage 1"
-    desc: "1d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] (1 round)"
+    desc: "1d6 poison damage and [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled 1]] (1 round)"
   - name: "Stage 2"
     desc: "1d6 poison damage and enfeebled 2 (1 round). Eating Reefclaws Reefclaws amass no treasure, but their meat—if kept fresh—can be sold in the right markets. However, in an increasing number of places, the practice of eating reefclaws has fallen out of favor—which means, of course, that the reefclaw market has simply shifted to black-market butchers, where all manner of meat gathered from dubious sources is available for purchase, and the value has increased accordingly."
 sourcebook: "_Monster Core_, page 291."

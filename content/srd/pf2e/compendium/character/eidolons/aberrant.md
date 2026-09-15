@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Aberration`  `Eidolon`
 
-- **Tradition**: Occult
-- **Home Plane**: Dimension of Dreams or [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]]
+- **Tradition**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Home Plane**: Dimension of Dreams or [[srd/pf2e/compendium/gm/Planes#The Universe|the Universe]]
 
 **Size** Medium or Small
 
@@ -29,11 +29,11 @@ socialImage: og-image.png
 - Cha -1
 - AC ( Dex cap)
 
-**Skills** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
 **Senses** darkvision
 
-**Language** [[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]]
+**Language** [[srd/pf2e/compendium/rules-elements/Languages#Aklo|Aklo]]
 
 **Speed** 25 feet
 
@@ -51,10 +51,10 @@ socialImage: og-image.png
 
 ### Unfathomable Mind
 
-Those who try to touch your eidolon's mind find their own minds shattered. When your eidolon succeeds at a saving throw against a mental effect from a creature, that creature takes 4d6 mental damage with a basic Will save against your spell DC. A creature who fails this save is also [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 (stupefied 2 on a critical failure). At 9th level and every 2 levels thereafter, the damage increases by 1d6.
+Those who try to touch your eidolon's mind find their own minds shattered. When your eidolon succeeds at a saving throw against a mental effect from a creature, that creature takes 4d6 mental damage with a basic Will save against your spell DC. A creature who fails this save is also [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] 1 (stupefied 2 on a critical failure). At 9th level and every 2 levels thereafter, the damage increases by 1d6.
 
 ### Maddening Whispers
 
-Your aberrant eidolon utters terrible secrets about the true nature of the universe. They can cast [[srd/pf2e/compendium/spells/rank-9/unfathomable-song|_unfathomable song_]] once per day as an innate occult spell. Your eidolon can Sustain this spell as a free action if they spend at least one action Striding toward one of the targets.
+Your aberrant eidolon utters terrible secrets about the true nature of the universe. They can cast [[srd/pf2e/compendium/spells/rank-9/Unfathomable Song|_unfathomable song_]] once per day as an innate occult spell. Your eidolon can Sustain this spell as a free action if they spend at least one action Striding toward one of the targets.
 
 *Source: Impossible Magic p. 70*

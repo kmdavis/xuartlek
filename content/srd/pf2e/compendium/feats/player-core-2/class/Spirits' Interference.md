@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Barbarian`  `Divine`  `Rage`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/spirit|spirit instinct]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/Spirit|spirit instinct]]
 
 You call forth protective spirits to ward off ranged attacks. Until your rage ends, anyone making a ranged attack against you must succeed at a DC 5 flat check or the attack misses with no effect.
 

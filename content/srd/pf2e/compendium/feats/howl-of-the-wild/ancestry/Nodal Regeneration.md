@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Surki`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/nodal-healing|Nodal Healing]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Nodal Healing|Nodal Healing]]
 
-Your body processes magic so effectively that you can induce true regeneration, replacing limbs and restoring organs. You can cast [[srd/pf2e/compendium/spells/rank-7/regenerate|_regenerate_]] once per day as an innate spell. Instead of being deactivated by acid or fire, your regeneration from the spell is deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], which slows your metabolism. You can target only yourself with the spell, but you can Cast the Spell as a reaction if you're reduced to 0 Hit Points by a non-cold effect.
+Your body processes magic so effectively that you can induce true regeneration, replacing limbs and restoring organs. You can cast [[srd/pf2e/compendium/spells/rank-7/Regenerate|_regenerate_]] once per day as an innate spell. Instead of being deactivated by acid or fire, your regeneration from the spell is deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]], which slows your metabolism. You can target only yourself with the spell, but you can Cast the Spell as a reaction if you're reduced to 0 Hit Points by a non-cold effect.
 
 *Source: Howl of the Wild p. 51*

@@ -24,23 +24,23 @@ Dexterity or Intelligence
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/fist|jaw]] or [[srd/pf2e/compendium/equipment/weapons/flail/flail|Flail]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/Fist|jaw]] or [[srd/pf2e/compendium/equipment/weapons/flail/Flail|Flail]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Undeath|Undeath]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Undeath|Undeath]], [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/jump|Jump]]
+[[srd/pf2e/compendium/spells/rank-1/Jump|Jump]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/expeditious-excavation|Expeditious Excavation]]
+[[srd/pf2e/compendium/spells/rank-2/Expeditious Excavation|Expeditious Excavation]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/paralyze|Paralyze]]
+[[srd/pf2e/compendium/spells/rank-3/Paralyze|Paralyze]]
 
 *Source: Divine Mysteries p. 304*

@@ -18,6 +18,6 @@ socialImage: og-image.png
 
 `Brandish`  `Commander`  `Flourish`  `Manipulate`  `Visual`
 
-You vigorously wave your banner to remind yourself and your allies that you can and must endure. You and all allies within the aura of your commander's banner when you use this action gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] to bludgeoning, piercing, and slashing damage equal to your Intelligence modifier until the start of your next turn.
+You vigorously wave your banner to remind yourself and your allies that you can and must endure. You and all allies within the aura of your commander's banner when you use this action gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistance]] to bludgeoning, piercing, and slashing damage equal to your Intelligence modifier until the start of your next turn.
 
 *Source: Battlecry! p. 32*

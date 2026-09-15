@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Nephilim`
 
-You’ve studied your extraplanar heritage with the intent of better defending yourself, whether against creatures aligned with or opposed to your extraplanar lineage, and you’ve found that your techniques are equally powerful against celestials, fiends, and other divine entities. You gain a +1 circumstance bonus to all saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] effects.
+You’ve studied your extraplanar heritage with the intent of better defending yourself, whether against creatures aligned with or opposed to your extraplanar lineage, and you’ve found that your techniques are equally powerful against celestials, fiends, and other divine entities. You gain a +1 circumstance bonus to all saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]] effects.
 
 *Source: Player Core p. 80*

@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Frequency**: once every 10 minutes
 
-Your alchemical mastery can resuscitate the recently slain. You can administer a [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|major or true elixir of life]] to a creature who has been dead for no more than 2 rounds. When you do, that creature is immediately returned to life with 1 Hit Point and becomes [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded 1]].
+Your alchemical mastery can resuscitate the recently slain. You can administer a [[srd/pf2e/compendium/equipment/alchemical-items/Elixir of Life|major or true elixir of life]] to a creature who has been dead for no more than 2 rounds. When you do, that creature is immediately returned to life with 1 Hit Point and becomes [[srd/pf2e/compendium/rules-elements/Conditions#Wounded|wounded 1]].
 
 *Source: Player Core 2 p. 69*

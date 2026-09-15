@@ -14,11 +14,11 @@ Lumbering, amphibious, and deathless humanoids known as deep ones inhabit coasta
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core-2/humanoid/deep-one|Deep One]] (Creature 1), [[srd/pf2e/bestiary/monster-core-2/humanoid/deep-one-elder|Deep One Elder]] (Creature 14), [[srd/pf2e/bestiary/monster-core-2/humanoid/deep-one-hybrid|Deep One Hybrid]] (Creature 1)
+[[srd/pf2e/bestiary/monster-core-2/humanoid/Deep One|Deep One]] (Creature 1), [[srd/pf2e/bestiary/monster-core-2/humanoid/Deep One Elder|Deep One Elder]] (Creature 14), [[srd/pf2e/bestiary/monster-core-2/humanoid/Deep One Hybrid|Deep One Hybrid]] (Creature 1)
 
 ### Coastal Communes
 
-Deep one religious communities, called shoals, often feature a vibrant mix of deep ones, deep one hybrids, and mundane humans all working in service of a local deep one elder. This elder lurks in the depths just off the coast or in [[srd/pf2e/compendium/deities/demon-lords/dagon|Dagon’s]] service directly. Those who fail to attract new human converts, however, will sometimes give up the coastal life and move permanently to coral reefs or even sunken cities in the depths of the ocean, coming ashore only to feed.
+Deep one religious communities, called shoals, often feature a vibrant mix of deep ones, deep one hybrids, and mundane humans all working in service of a local deep one elder. This elder lurks in the depths just off the coast or in [[srd/pf2e/compendium/deities/demon-lords/Dagon|Dagon’s]] service directly. Those who fail to attract new human converts, however, will sometimes give up the coastal life and move permanently to coral reefs or even sunken cities in the depths of the ocean, coming ashore only to feed.
 
 ### The Flavor of Fear
 

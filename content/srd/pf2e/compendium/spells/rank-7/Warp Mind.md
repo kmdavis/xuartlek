@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Emotion`  `Incapacitation`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Occult
-- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]], [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
-- **Deities**: Conqueror Worm, [[srd/pf2e/compendium/deities/qlippoth-lords/isph-aun-vuln|Isph-Aun-Vuln]], [[srd/pf2e/compendium/deities/daemon-harbingers/laivatiniel|Laivatiniel]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-faceless-sphinx|Nyarlathotep (The Faceless Sphinx)]], [[srd/pf2e/compendium/deities/qlippoth-lords/nyuo-ogh|Nyuo-Ogh]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/xhamen-dor|Xhamen-Dor]], Zeaki
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodlines**: [[srd/pf2e/compendium/character/Bloodlines#Aberrant|Aberrant]], [[srd/pf2e/compendium/character/Bloodlines#Hag|Hag]]
+- **Deities**: Conqueror Worm, [[srd/pf2e/compendium/deities/qlippoth-lords/Isph-Aun-Vuln|Isph-Aun-Vuln]], [[srd/pf2e/compendium/deities/daemon-harbingers/Laivatiniel|Laivatiniel]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Nethys|Nethys]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (The Faceless Sphinx)|Nyarlathotep (The Faceless Sphinx)]], [[srd/pf2e/compendium/deities/qlippoth-lords/Nyuo-Ogh|Nyuo-Ogh]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Xhamen-Dor|Xhamen-Dor]], Zeaki
 - **Range**: 120 feet
 - **Target**: 1 creature
 - **Defense**: Will
@@ -29,7 +29,7 @@ You scramble a creature's mental faculties and sensory input. The target must at
 
 **Critical Success** The target is unaffected.
 
-**Success** The target spends the first action on its next turn with the [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] condition.
+**Success** The target spends the first action on its next turn with the [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]] condition.
 
 **Failure** The target is confused for 1 minute.
 

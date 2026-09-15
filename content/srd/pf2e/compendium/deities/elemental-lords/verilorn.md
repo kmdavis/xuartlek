@@ -24,21 +24,21 @@ Constitution or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/sickle|Sickle]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Sickle|Sickle]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Wood|Wood]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Wood|Wood]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Perfection|Perfection]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Perfection|Perfection]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/protector-tree|Protector Tree]]
+[[srd/pf2e/compendium/spells/rank-1/Protector Tree|Protector Tree]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/oaken-resilience|Oaken Resilience]]
+[[srd/pf2e/compendium/spells/rank-2/Oaken Resilience|Oaken Resilience]]
 
 - **6th**
 Nature's Reprisal

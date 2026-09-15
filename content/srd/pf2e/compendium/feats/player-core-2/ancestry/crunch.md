@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Kholo`  `Gnoll`
 
-Your jaws can crush bone and bite through armor. Your jaws [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack deals 1d8 piercing damage instead of 1d6 and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/grapple|grapple]] trait.
+Your jaws can crush bone and bite through armor. Your jaws [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack deals 1d8 piercing damage instead of 1d6 and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Grapple|grapple]] trait.
 
 *Source: Player Core 2 p. 18*

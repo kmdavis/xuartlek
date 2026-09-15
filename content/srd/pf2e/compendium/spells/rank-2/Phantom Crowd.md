@@ -17,12 +17,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Illusion`  `Manipulate`  `Visual`
 
-- **Traditions**: Arcane, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 60 feet
 - **Area**: 10-foot-by-10-foot square
 - **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] up to 10 minutes
 
-A tightly packed crowd of humanoids appropriate to the area appear, facing you and agreeing loudly with anything you say. A creature that touches a member of the crowd or attempts a [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] action to examine the crowd can attempt to disbelieve your illusion. The crowd is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] for anyone who hasn’t disbelieved the illusion. When you spend 1 or more actions to cast a composition spell or to perform an activity that includes a [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check, you can also Sustain this Spell as part of that action.
+A tightly packed crowd of humanoids appropriate to the area appear, facing you and agreeing loudly with anything you say. A creature that touches a member of the crowd or attempts a [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] action to examine the crowd can attempt to disbelieve your illusion. The crowd is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Difficult Terrain|difficult terrain]] for anyone who hasn’t disbelieved the illusion. When you spend 1 or more actions to cast a composition spell or to perform an activity that includes a [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] check, you can also Sustain this Spell as part of that action.
 
 ---
 **Heightened (+1)** The crowd occupies an additional 10-foot-by-10-foot square in range. The additional square doesn’t need to be adjacent to any other square. It can overlap, but there’s no additional effect in the overlapped squares.

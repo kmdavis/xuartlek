@@ -22,6 +22,6 @@ With effort, you can call forth magical wings from your back, similar in appeara
 
 ### Divine Wings leads to...
 
-[[srd/pf2e/compendium/feats/player-core/ancestry/eternal-wings|Eternal Wings]]
+[[srd/pf2e/compendium/feats/player-core/ancestry/Eternal Wings|Eternal Wings]]
 
 *Source: Player Core p. 81*

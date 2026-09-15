@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Rogue`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
 You goad a foe into overextending. On a successful Feint, you can use the following success and critical success effects instead of any other effects that would occur when you Feint.
 

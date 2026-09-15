@@ -28,11 +28,11 @@ perception:
     desc: "+11; darkvision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +12, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +12, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +10, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +8"
 abilityMods: [2, 4, 5, -5, 1, 3]
 abilities_top:
   - name: "Wings Flat"
-    desc: "When the crying cicada is still and perched on a tree, it blends seamlessly into the environment. It has an automatic result of 30 on [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks and DCs to pass as part of the tree."
+    desc: "When the crying cicada is still and perched on a tree, it blends seamlessly into the environment. It has an automatic result of 30 on [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] checks and DCs to pass as part of the tree."
 ac: 19
 armorclass:
   - name: "AC"
@@ -40,7 +40,7 @@ armorclass:
 hp: 48
 health:
   - name: "HP"
-    desc: "48; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]"
+    desc: "48; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]]"
 speed: "15 feet, fly 30 feet"
 attacks:
   - name: "Melee"
@@ -49,25 +49,25 @@ attacks:
     desc: "⬻ slam +9 __Damage__ 1d6+4 bludgeoning plus crying cicada poison"
 abilities_bot:
   - name: "Crying Cicada Poison"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/gm-core/inhaled|Inhaled]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/gm-core/Inhaled|Inhaled]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 19 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "1d6 poison damage plus [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] (1 round)"
+    desc: "1d6 poison damage plus [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed 1]] (1 round)"
   - name: "Stage 2"
-    desc: "1d6 poison damage plus [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 2]] (1 round)"
+    desc: "1d6 poison damage plus [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed 2]] (1 round)"
   - name: "Stage 3"
-    desc: "2d6 poison damage plus slowed 2 and [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]] (1 round)."
+    desc: "2d6 poison damage plus slowed 2 and [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied 1]] (1 round)."
   - name: "Sob"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The crying cicada mimics the noise of a wounded animal or crying child. Non-cicada creatures within a 150-foot emanation must attempt a DC 19 Will save or be distressed by the pleas for help. The effect lasts for 1 round, but if the cicada uses this ability again on subsequent rounds, it extends the duration by 1 round for all affected creatures. Once a creature succeeds at any save against Sob, that creature is temporarily immune to Sob for 24 hours."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]]) The crying cicada mimics the noise of a wounded animal or crying child. Non-cicada creatures within a 150-foot emanation must attempt a DC 19 Will save or be distressed by the pleas for help. The effect lasts for 1 round, but if the cicada uses this ability again on subsequent rounds, it extends the duration by 1 round for all affected creatures. Once a creature succeeds at any save against Sob, that creature is temporarily immune to Sob for 24 hours."
   - name: "Success"
     desc: "The creature is unaffected."
   - name: "Failure"
-    desc: "The creature believes an animal or child needs help somewhere nearby. The creature is [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]], and it must spend each of its actions to [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] or move closer to the cicada as expediently as possible, while avoiding obvious dangers. If the creature is adjacent to the cicada, it stays still and doesn't act."
+    desc: "The creature believes an animal or child needs help somewhere nearby. The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Fascinated|fascinated]], and it must spend each of its actions to [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] or move closer to the cicada as expediently as possible, while avoiding obvious dangers. If the creature is adjacent to the cicada, it stays still and doesn't act."
   - name: "Steal Voice"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]])"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|Auditory]])"
   - name: "Requirements"
     desc: "An enemy creature has spoken since the crying cicada's last turn"
   - name: "Effect"

@@ -22,7 +22,7 @@ socialImage: og-image.png
 
 This slender metal wand is tinted green and small images of bladed weapons are etched on its surface.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-6/blessed-boundary|_blessed boundary_]] of the indicated rank. Damage from the wall also exposes the damaged creature to a poison determined by the wand’s type. The poison uses its normal DC. A creature can be exposed to the poison no more than once per turn.
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-6/Blessed Boundary|_blessed boundary_]] of the indicated rank. Damage from the wall also exposes the damaged creature to a poison determined by the wand’s type. The poison uses its normal DC. A creature can be exposed to the poison no more than once per turn.
 
 **Craft Requirements** Supply a casting of _blessed boundary_ of the appropriate rank.
 
@@ -34,7 +34,7 @@ This slender metal wand is tinted green and small images of bladed weapons are e
 
 ---
 
-The poison is [[srd/pf2e/compendium/equipment/alchemical-items/cave-worm-venom|cave worm venom]].
+The poison is [[srd/pf2e/compendium/equipment/alchemical-items/Cave Worm Venom|cave worm venom]].
 
 ### Wand of Toxic Blades (7th-Rank Spell)
 
@@ -44,7 +44,7 @@ The poison is [[srd/pf2e/compendium/equipment/alchemical-items/cave-worm-venom|c
 
 ---
 
-The poison is [[srd/pf2e/compendium/equipment/alchemical-items/deathcap-powder|deathcap powder]] with no onset.
+The poison is [[srd/pf2e/compendium/equipment/alchemical-items/Deathcap Powder|deathcap powder]] with no onset.
 
 ### Wand of Toxic Blades (8th-Rank Spell)
 
@@ -54,6 +54,6 @@ The poison is [[srd/pf2e/compendium/equipment/alchemical-items/deathcap-powder|d
 
 ---
 
-The poison is [[srd/pf2e/compendium/equipment/alchemical-items/cerulean-scourge|cerulean scourge]].
+The poison is [[srd/pf2e/compendium/equipment/alchemical-items/Cerulean Scourge|cerulean scourge]].
 
 *Source: Treasure Vault (Remastered) p. 143*

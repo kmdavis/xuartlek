@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Inventor`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/class/megaton-strike|Megaton Strike]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Megaton Strike|Megaton Strike]]
 
-When you use a full-power Megaton Strike, you can knock your foe back. When you succeed at your Strike while using an [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/unstable|unstable]] Megaton Strike, your target must attempt a Fortitude save against your class DC.
+When you use a full-power Megaton Strike, you can knock your foe back. When you succeed at your Strike while using an [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/Unstable|unstable]] Megaton Strike, your target must attempt a Fortitude save against your class DC.
 
 **Critical Success** The creature is unaffected.
 
@@ -26,6 +26,6 @@ When you use a full-power Megaton Strike, you can knock your foe back. When you 
 
 **Critical Failure** The creature is pushed back 20 feet.
 
-**Special** If your innovation is a [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]], this benefit applies on its unstable Megaton Strikes.
+**Special** If your innovation is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Minion|minion]], this benefit applies on its unstable Megaton Strikes.
 
 *Source: Guns & Gears (Remastered) p. 27*

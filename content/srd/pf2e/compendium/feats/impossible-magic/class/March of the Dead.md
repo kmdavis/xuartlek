@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 - **Frequency**: once per day
 
-You compel your horde of thralls, overwhelming your enemies. You command any number of thralls within 60 feet to Stride. After all their movement is complete, any enemy adjacent to three or more thralls must succeed at a Fortitude saving throw against your spell DC or become [[srd/pf2e/compendium/rules-elements/conditions#Encumbered|encumbered]] and [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 until the start of your next turn.
+You compel your horde of thralls, overwhelming your enemies. You command any number of thralls within 60 feet to Stride. After all their movement is complete, any enemy adjacent to three or more thralls must succeed at a Fortitude saving throw against your spell DC or become [[srd/pf2e/compendium/rules-elements/Conditions#Encumbered|encumbered]] and [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]] 1 until the start of your next turn.
 
 *Source: Impossible Magic p. 37*

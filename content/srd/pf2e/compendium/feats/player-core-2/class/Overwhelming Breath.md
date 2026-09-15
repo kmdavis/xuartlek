@@ -19,6 +19,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: Qi Spells
 
-You control your breathing and align it with your qi, exhaling with controlled force in order to overcome your opponent's resistance. If you use your next action to Cast a Spell that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/monk|monk]] trait and no duration, the spell and any Strikes you make as a result of casting it ignore an amount of the target's resistance to physical damage equal to your level.
+You control your breathing and align it with your qi, exhaling with controlled force in order to overcome your opponent's resistance. If you use your next action to Cast a Spell that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Monk|monk]] trait and no duration, the spell and any Strikes you make as a result of casting it ignore an amount of the target's resistance to physical damage equal to your level.
 
 *Source: Player Core 2 p. 125*

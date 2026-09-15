@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Champion`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/faithful-steed|Faithful Steed]]; [[srd/pf2e/compendium/spells/focus/lay-on-hands|_lay on hands_]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Faithful Steed|Faithful Steed]]; [[srd/pf2e/compendium/spells/focus/Lay on Hands|_lay on hands_]]
 
-Your devotion to your mount manifests as a surge of vital energy. When you cast [[srd/pf2e/compendium/spells/focus/lay-on-hands|_lay on hands_]] on your mount, instead of the normal amount, the spell restores 10 Hit Points, plus 10 for each heightened rank.
+Your devotion to your mount manifests as a surge of vital energy. When you cast [[srd/pf2e/compendium/spells/focus/Lay on Hands|_lay on hands_]] on your mount, instead of the normal amount, the spell restores 10 Hit Points, plus 10 for each heightened rank.
 
 *Source: Player Core 2 p. 97*

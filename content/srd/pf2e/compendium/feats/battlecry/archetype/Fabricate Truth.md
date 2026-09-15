@@ -19,11 +19,11 @@ socialImage: og-image.png
 
 `Archetype`  `Auditory`  `Concentrate`  `Emotion`  `Linguistic`  `Mental`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/field-propagandist|Field Propagandist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/field-propagandist-dedication|Field Propagandist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Field Propagandist|Field Propagandist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Field Propagandist Dedication|Field Propagandist Dedication]]
 
-You invent a false truth by fast talking, switching arguments, shifting the standard of evidence, and generally confounding others. Choose a creature within 30 feet that you're aware of. Attempt a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] check against that target's Will DC. Regardless of your result, the target is temporarily immune to your attempts to Fabricate Truth for 10 minutes. 
-**Critical Success** The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 2 for 1 round. 
+You invent a false truth by fast talking, switching arguments, shifting the standard of evidence, and generally confounding others. Choose a creature within 30 feet that you're aware of. Attempt a [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] check against that target's Will DC. Regardless of your result, the target is temporarily immune to your attempts to Fabricate Truth for 10 minutes. 
+**Critical Success** The target becomes [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] 2 for 1 round. 
 **Success** The target becomes stupefied 1 for 1 round.
 
 *Source: Battlecry! p. 58*

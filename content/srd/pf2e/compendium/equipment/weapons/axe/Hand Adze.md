@@ -24,7 +24,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Axe
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Axe|Axe]]
 
 The adze’s smaller version is useful for delicate woodworking in cramped spaces. Tripkees use hand adzes for crafting and as close quarters weapons.
 

@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/sorcerer|Sorcerer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/sorcerer-dedication|Sorcerer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Sorcerer|Sorcerer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Sorcerer Dedication|Sorcerer Dedication]]
 
-You gain a 1st- or 2nd-level sorcerer feat.
+You gain a 1st- or 2nd-level [sorcerer feat](https://2e.aonprd.com/Feats.aspx?Traits=148).
 
 ### Basic Blood Potency leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/advanced-blood-potency|Advanced Blood Potency]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Advanced Blood Potency|Advanced Blood Potency]]
 
 *Source: Player Core 2 p. 181*

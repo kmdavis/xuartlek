@@ -30,7 +30,7 @@ perception:
     desc: "+8; darkvision, wavesense (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +4, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +5, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +4"
 abilityMods: [1, 3, 2, -5, 2, 0]
 ac: 15
 armorclass:
@@ -50,7 +50,7 @@ abilities_mid:
 speed: "swim 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ gnathobase +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]) __Damage__ 1d4+1 slashing"
+    desc: "⬻ gnathobase +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]]) __Damage__ 1d4+1 slashing"
 abilities_bot:
   - name: "Quick Escape"
     desc: "⬺ The trilobite [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swims]] up to double its Speed and attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]]."

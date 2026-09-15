@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 - **Prerequisites**: Qi Spells
 
-You learn a mystical stance that transforms your qi into sticky smoke that shrouds your limbs. You gain the [[srd/pf2e/compendium/spells/focus/clinging-shadows-stance|_clinging shadows stance_]] qi. While entering the stance is a qi spell, the shadow grasp attacks it grants are not, so you can use them as often as you like while in the stance.
+You learn a mystical stance that transforms your qi into sticky smoke that shrouds your limbs. You gain the [[srd/pf2e/compendium/spells/focus/Clinging Shadows Stance|_clinging shadows stance_]] qi. While entering the stance is a qi spell, the shadow grasp attacks it grants are not, so you can use them as often as you like while in the stance.
 
 ### Clinging Shadows Initiate leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/shadows-web|Shadow's Web]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Shadow's Web|Shadow's Web]]
 
 *Source: Player Core 2 p. 123*

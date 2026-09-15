@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Healing`  `Manipulate`  `Vitality`  `Positive`
 
-- **Traditions**: Divine, Primal
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Target**: 1 dying creature
 

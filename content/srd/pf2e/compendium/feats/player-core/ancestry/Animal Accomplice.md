@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Gnome`
 
-You build a rapport with an animal, which becomes magically bonded to you. You gain a [[srd/pf2e/compendium/character/familiar-abilities|familiar]]. The type of animal is up to you, but most gnomes choose animals with a burrow Speed.
+You build a rapport with an animal, which becomes magically bonded to you. You gain a [[srd/pf2e/compendium/character/Familiar Abilities|familiar]]. The type of animal is up to you, but most gnomes choose animals with a burrow Speed.
 
 *Source: Player Core p. 52*

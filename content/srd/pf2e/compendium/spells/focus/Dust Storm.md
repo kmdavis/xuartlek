@@ -20,12 +20,12 @@ socialImage: og-image.png
 
 `Air`  `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Nonlethal`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Dust|Dust]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Dust|Dust]]
 - **Range**: 120 feet
-- **Area**: 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
+- **Area**: 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
 - **Duration**: 1 minute
 
-You call forth a swirling storm of dust. The dust storm obscures vision, as the effects of mist. The dust also makes the air unbreathable; creatures in the area must [[srd/pf2e/books/player-core/chapter-8-playing-the-game/encounter-mode#Drowning and Suffocating|hold their breath]], though wearing a scarf or similar clothing over the mouth increases the time the creature can hold its breath by 5 rounds. Creatures entering or starting their turn in the dust storm take 1d6 slashing damage. Creatures that have the [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] trait or that are made primarily of liquid take double damage.
+You call forth a swirling storm of dust. The dust storm obscures vision, as the effects of mist. The dust also makes the air unbreathable; creatures in the area must [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Encounter Mode#Drowning and Suffocating|hold their breath]], though wearing a scarf or similar clothing over the mouth increases the time the creature can hold its breath by 5 rounds. Creatures entering or starting their turn in the dust storm take 1d6 slashing damage. Creatures that have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Water|water]] trait or that are made primarily of liquid take double damage.
 
 ---
 **Heightened (+2)** The damage increases by 1d6.

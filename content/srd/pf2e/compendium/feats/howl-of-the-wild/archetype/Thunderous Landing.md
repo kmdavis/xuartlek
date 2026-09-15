@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/winged-warrior|Winged Warrior]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/winged-warrior-dedication|Winged Warrior Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Winged Warrior|Winged Warrior]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Winged Warrior Dedication|Winged Warrior Dedication]]
 - **Requirements**: You currently have a fly Speed and are airborne.
 
 You hurl away enemies with the force of your landing. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] and, if you end your movement on a solid surface, your landing sends out a shock wave of air. Each creature within 10 feet of your landing position must succeed at a Reflex save against your class DC or be pushed 10 feet away. This is forced movement.

@@ -28,7 +28,7 @@ perception:
     desc: "+12; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +10"
 abilityMods: [6, 0, 3, -4, 2, -1]
 ac: 21
 armorclass:
@@ -47,7 +47,7 @@ attacks:
     desc: "⬻ tusk +14 __Damage__ 2d8+6 piercing"
 abilities_bot:
   - name: "Daeodon Charge"
-    desc: "⬺ The daeodon Strides twice and then makes a tusk Strike. As long as it moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll. A Medium or smaller creature struck by this attack must succeed at a DC 19 Reflex save or be knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] by the blow."
+    desc: "⬺ The daeodon Strides twice and then makes a tusk Strike. As long as it moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll. A Medium or smaller creature struck by this attack must succeed at a DC 19 Reflex save or be knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] by the blow."
 sourcebook: "_Monster Core_, page 43."
 ```
 

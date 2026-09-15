@@ -1,6 +1,7 @@
 ---
 title: "Gears Characters"
 aliases: ["Gears Characters"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Guns & Gears (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1599"
 citation: "Guns & Gears (Remastered) pg. 12"
-socialImage: og-image.png
 ---
 
 # Gears Characters
@@ -24,5 +24,5 @@ Across much of Golarion, the options presented in this chapter are uncommon at b
 
 ## Contents
 
-- [[srd/pf2e/books/guns-gears-remastered/gears-characters/construct-companions|Construct Companions]]
-- [[srd/pf2e/books/guns-gears-remastered/gears-characters/gears-character-options|Gears Character Options]]
+- [[srd/pf2e/books/guns-gears-remastered/gears-characters/Construct Companions|Construct Companions]]
+- [[srd/pf2e/books/guns-gears-remastered/gears-characters/Gears Character Options|Gears Character Options]]

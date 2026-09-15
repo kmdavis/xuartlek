@@ -30,7 +30,7 @@ perception:
     desc: "+8; darkvision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +8"
 abilityMods: [0, 4, 3, -5, 0, -5]
 ac: 18
 armorclass:
@@ -39,11 +39,11 @@ armorclass:
 hp: 30
 health:
   - name: "HP"
-    desc: "30; __Immunities__ precision, swarm mind; __Resistances__ bludgeoning 2, piercing 5, slashing 5; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
+    desc: "30; __Immunities__ precision, swarm mind; __Resistances__ bludgeoning 2, piercing 5, slashing 5; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 5"
 speed: "5 feet, fly 25 feet"
 abilities_bot:
   - name: "Pyrexic Malaria"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|Disease]]) The victim can't reduce its [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] condition while it's affected by pyrexic malaria"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|Disease]]) The victim can't reduce its [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] condition while it's affected by pyrexic malaria"
   - name: "Saving Throw"
     desc: "DC 20 Fortitude"
   - name: "Onset"
@@ -51,15 +51,15 @@ abilities_bot:
   - name: "Stage 1"
     desc: "sickened 1 (1 day)"
   - name: "Stage 2"
-    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 and sickened 1 (1 day)"
+    desc: "[[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]] 1 and sickened 1 (1 day)"
   - name: "Stage 3"
     desc: "as stage 2 (1 day)"
   - name: "Stage 4"
-    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] (1 day)"
+    desc: "[[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]] (1 day)"
   - name: "Stage 5"
     desc: "dead"
   - name: "Swarming Bites"
-    desc: "⬻ Each enemy in the swarm's space takes 1d6 piercing damage (DC 20 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save) and is exposed to pyrexic malaria. Creatures that fail the saving throw also take 1d4 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]]."
+    desc: "⬻ Each enemy in the swarm's space takes 1d6 piercing damage (DC 20 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save) and is exposed to pyrexic malaria. Creatures that fail the saving throw also take 1d4 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent bleed damage]]."
 sourcebook: "_Monster Core 2_, page 228."
 ```
 

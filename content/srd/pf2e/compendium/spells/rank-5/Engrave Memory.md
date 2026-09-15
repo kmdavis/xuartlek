@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Earth`  `Manipulate`  `Uncommon`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Cast**: 1 minute
 - **Range**: touch
 - **Target**: 1 stone of at least 1 Bulk

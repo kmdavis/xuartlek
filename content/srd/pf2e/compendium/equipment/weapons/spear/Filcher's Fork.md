@@ -26,9 +26,9 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Spear
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Spear|Spear]]
 
-This [[srd/pf2e/compendium/character/ancestries/halfling|halfling]] weapon looks like a long, two-pronged fork and is used as both a weapon and a cooking implement.
+This [[srd/pf2e/compendium/character/ancestries/Halfling|halfling]] weapon looks like a long, two-pronged fork and is used as both a weapon and a cooking implement.
 
 ### Critical Specialization Effects
 

@@ -30,16 +30,16 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; low-light vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Muan|Muan]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Muan|Muan]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +3, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +6, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +3, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +3, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +6, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +3, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +7, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +6"
 abilityMods: [0, 3, 1, 1, 4, 0]
 abilities_top:
   - name: "Plant Empathy"
-    desc: "The ardande gardener can use [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] to Make an Impression and make very simple requests of plants."
+    desc: "The ardande gardener can use [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] to Make an Impression and make very simple requests of plants."
   - name: "Items"
-    desc: "gardening tools, [[srd/pf2e/compendium/equipment/consumables/glowing-lantern-fruit|_glowing lantern fruit_]], Shortbow (20 arrows), Sickle"
+    desc: "gardening tools, [[srd/pf2e/compendium/equipment/consumables/Glowing Lantern Fruit|_glowing lantern fruit_]], Shortbow (20 arrows), Sickle"
 ac: 16
 armorclass:
   - name: "AC"
@@ -51,19 +51,19 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ sickle +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d4 slashing"
+    desc: "⬻ sickle +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip|Trip]]) __Damage__ 1d4 slashing"
   - name: "Ranged"
-    desc: "⬻ shortbow +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], range increment 60 feet) __Damage__ 1d6 piercing"
+    desc: "⬻ shortbow +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d10]], range increment 60 feet) __Damage__ 1d6 piercing"
 abilities_bot:
   - name: "Decompose"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|Void]])"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|Primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|Void]])"
   - name: "Frequency"
     desc: "once per day"
   - name: "Effect"
-    desc: "Void energy seeps out of the ardande gardener, decaying everything within a 5-foot emanation and causing plants and foliage to age and decompose. Natural difficult terrain is destroyed, and creatures in the area with the [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|wood]] trait take 1d6 void damage (DC 16 basic Fortitude). First World Ardande Some ardandes are born in the [[srd/pf2e/compendium/gm/planes#First World|First World]], the children of dryads who take mortal lovers. These ardandes have little contact with other mortals and think of themselves as elemental fey rather than planar scions, a reasonable perspective when life in the First World means severance from the River of Souls."
+    desc: "Void energy seeps out of the ardande gardener, decaying everything within a 5-foot emanation and causing plants and foliage to age and decompose. Natural difficult terrain is destroyed, and creatures in the area with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Wood|wood]] trait take 1d6 void damage (DC 16 basic Fortitude). First World Ardande Some ardandes are born in the [[srd/pf2e/compendium/gm/Planes#First World|First World]], the children of dryads who take mortal lovers. These ardandes have little contact with other mortals and think of themselves as elemental fey rather than planar scions, a reasonable perspective when life in the First World means severance from the River of Souls."
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 17, attack +9 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/know-the-way|Know the Way]], [[srd/pf2e/compendium/spells/cantrips/take-root|Take Root]], [[srd/pf2e/compendium/spells/cantrips/tangle-vine|Tangle Vine]], [[srd/pf2e/compendium/spells/cantrips/timber|Timber]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/heal|Heal]], [[srd/pf2e/compendium/spells/rank-1/tailwind|Tailwind]], [[srd/pf2e/compendium/spells/rank-1/wall-of-shrubs|Wall of Shrubs]]"
+    desc: "DC 17, attack +9 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/Know the Way|Know the Way]], [[srd/pf2e/compendium/spells/cantrips/Take Root|Take Root]], [[srd/pf2e/compendium/spells/cantrips/Tangle Vine|Tangle Vine]], [[srd/pf2e/compendium/spells/cantrips/Timber|Timber]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Heal|Heal]], [[srd/pf2e/compendium/spells/rank-1/Tailwind|Tailwind]], [[srd/pf2e/compendium/spells/rank-1/Wall of Shrubs|Wall of Shrubs]]"
 sourcebook: "_Rage of Elements_, page 217."
 ```
 

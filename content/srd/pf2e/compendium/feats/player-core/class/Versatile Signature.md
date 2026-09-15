@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: polymath muse
 
-While most bards are known for certain signature performances and spells, you’re always tweaking your available repertoire. When you make your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Daily Preparations|daily preparations]], you can change one of your signature spells to a different spell of that rank from your repertoire.
+While most bards are known for certain signature performances and spells, you’re always tweaking your available repertoire. When you make your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Running Exploration#Daily Preparations|daily preparations]], you can change one of your signature spells to a different spell of that rank from your repertoire.
 
 *Source: Player Core p. 103*

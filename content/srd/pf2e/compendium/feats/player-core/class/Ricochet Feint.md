@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Rogue`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/ricochet-stance-rogue|Ricochet Stance (Rogue)]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Ricochet Stance (Rogue)|Ricochet Stance (Rogue)]]
 
 While in Ricochet Stance, you can bounce a thrown weapon off a foe to distract them. You can attempt a Feint against a creature within the first range increment of a thrown weapon you are wielding, rather than only creatures within your melee reach.
 

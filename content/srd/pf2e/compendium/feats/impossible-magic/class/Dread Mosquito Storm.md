@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-You release a massive swarm of deadly bloodsuckers. You learn the [[srd/pf2e/compendium/spells/focus/dread-mosquito-storm|_dread mosquito storm_]] grave spell.
+You release a massive swarm of deadly bloodsuckers. You learn the [[srd/pf2e/compendium/spells/focus/Dread Mosquito Storm|_dread mosquito storm_]] grave spell.
 
 *Source: Impossible Magic p. 41*

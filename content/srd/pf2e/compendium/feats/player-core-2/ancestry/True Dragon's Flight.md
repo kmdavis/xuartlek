@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Dragonblood`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/dragons-flight|Dragon's Flight]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Dragon's Flight|Dragon's Flight]]
 
 Your wings have grown more powerful, capable of keeping you aloft longer. You have a fly Speed of 20 feet at all times.
 

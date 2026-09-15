@@ -34,7 +34,7 @@ To most leshies, the concept of family is not a matter of birth, but rather dete
 
 ### Alignment and Religion
 
-Leshies' beliefs generally focus on the natural world. Those with a philosophical bent lean toward the [[srd/pf2e/compendium/deities/faiths-philosophies/green-faith|Green Faith]], and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]] is the most popular deity among faithful leshies. Some leshies also venerate green men, powerful spirits of nature.
+Leshies' beliefs generally focus on the natural world. Those with a philosophical bent lean toward the [[srd/pf2e/compendium/deities/faiths-philosophies/Green Faith|Green Faith]], and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Gozreh|Gozreh]] is the most popular deity among faithful leshies. Some leshies also venerate green men, powerful spirits of nature.
 
  **Popular Edicts** experience the physical world, form a family through loyalty and trust, protect parts of nature you embody
  **Popular Anathema** embrace unnatural magic or influences
@@ -55,15 +55,15 @@ Scarlet in Summer, Verdant Taleweaver, Lurking Hunter, Masterful Sun Drinker, No
 
 #### Languages
 
-[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
-[[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]
+[[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]], and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/Languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/Languages#Halfling|Halfling]], [[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 #### Low-Light Vision
 
-You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition due to dim light.
 
 #### Plant Nourishment
 

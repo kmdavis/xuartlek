@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Uncommon`  `Versatile`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/sarkorian-gods/dolok-darkfur|Dolok Darkfur]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/sarkorian-gods/Dolok Darkfur|Dolok Darkfur]]
 - **Price**: 2 sp
 - **Damage**: 1d6 B
 - **Bulk**: 1
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Simple
-- **Group**: Club
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|Club]]
 
 A war gavel is similar in construction to a palstave axe, but instead of inserting a metal wedge, it uses a heavier wooden head that is either carved into several points or inset with pointed objects like the teeth of large mammals.
 

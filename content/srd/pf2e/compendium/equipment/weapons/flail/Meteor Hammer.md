@@ -1,7 +1,7 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/treasure-vault-remastered
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/backswing
 - trait/disarm
 - trait/reach
@@ -9,7 +9,7 @@ tags:
 - weapon/level/0
 aliases: ["Meteor Hammer"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=296"
-source: "Treasure Vault (Remastered)"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -17,14 +17,14 @@ socialImage: og-image.png
 
 `Backswing`  `Disarm`  `Reach`  `Trip`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/izuyaku|Izuyaku]], [[srd/pf2e/compendium/deities/azlanti-pantheon/scal|Scal]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/Izuyaku|Izuyaku]], [[srd/pf2e/compendium/deities/azlanti-pantheon/Scal|Scal]]
 - **Price**: 3 gp
 - **Damage**: 1d8 B
 - **Bulk**: 2
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Flail
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Flail|Flail]]
 
 This weapon consists of a long chain connected to a heavy weight at each end. When a wielder swings the weights by the chain, they build momentum and can serve as deadly bludgeons with incredible reach.
 
@@ -34,6 +34,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/constricting-meteor|Constricting Meteor]]
+[[srd/pf2e/compendium/equipment/weapons/Constricting Meteor|Constricting Meteor]]
 
-*Source: Treasure Vault (Remastered) p. 27*
+*Source: Tian Xia Character Guide p. 127*

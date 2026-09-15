@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Oracle`
 
-This trait indicates abilities from the [[srd/pf2e/compendium/character/classes/oracle|oracle]] class.
+This trait indicates abilities from the [[srd/pf2e/compendium/character/classes/Oracle|oracle]] class.
 
 *Source: Player Core 2 p. 317*

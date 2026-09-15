@@ -24,23 +24,23 @@ Strength or Constitution
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/spiked-gauntlet|Spiked Gauntlet]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/Spiked Gauntlet|Spiked Gauntlet]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/Domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Swarm|Swarm]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Swarm|Swarm]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/summon-animal|Summon Animal]]
+[[srd/pf2e/compendium/spells/rank-1/Summon Animal|Summon Animal]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/reflective-scales|Reflective Scales]]
+[[srd/pf2e/compendium/spells/rank-4/Reflective Scales|Reflective Scales]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/unfettered-pack|Unfettered Pack]]
+[[srd/pf2e/compendium/spells/rank-7/Unfettered Pack|Unfettered Pack]]
 
 *Source: Divine Mysteries p. 302*

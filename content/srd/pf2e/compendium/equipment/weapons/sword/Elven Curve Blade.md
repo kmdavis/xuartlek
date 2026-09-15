@@ -23,7 +23,7 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 Essentially a longer version of the scimitar, this traditional elven weapon has a thinner blade than its cousin.
 

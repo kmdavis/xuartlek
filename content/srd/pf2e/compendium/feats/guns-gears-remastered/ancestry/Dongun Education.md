@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 - **Access**: You are from Dongun Hold or Alkenstar.
 
-You're knowledgeable in trades that are important to your people's survival and commercial interests. Pick two of the following [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] skills: Engineering Lore, Explosive Lore, or Firearm Lore. At 2nd level, you gain expert proficiency in these Lore skills; at 7th level, you gain master proficiency in these Lore skills; and at 15th level, you gain legendary proficiency in them.
+You're knowledgeable in trades that are important to your people's survival and commercial interests. Pick two of the following [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] skills: Engineering Lore, Explosive Lore, or Firearm Lore. At 2nd level, you gain expert proficiency in these Lore skills; at 7th level, you gain master proficiency in these Lore skills; and at 15th level, you gain legendary proficiency in them.
 
 *Source: Guns & Gears (Remastered) p. 200*

@@ -18,11 +18,11 @@ socialImage: og-image.png
 
 `Auditory`  `Cantrip`  `Concentrate`  `Manipulate`  `Sonic`
 
-- **Traditions**: Divine, Occult
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Area**: 15-foot cone
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Fortitude
 
-You echo a jarring hymn that only creatures in the area can hear. The hymn deals 1d8 sonic damage, with a basic Fortitude save. If a target critically fails the save, it's also [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] for 1 minute.
+You echo a jarring hymn that only creatures in the area can hear. The hymn deals 1d8 sonic damage, with a basic Fortitude save. If a target critically fails the save, it's also [[srd/pf2e/compendium/rules-elements/Conditions#Deafened|deafened]] for 1 minute.
 
 ---
 **Heightened (+2)** The damage increases by 1d8.

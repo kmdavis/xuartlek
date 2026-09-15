@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Minotaur`  `Stance`
 
-You can leverage your size and muscle to extend your reach and attack more distant foes. While in this stance, when you wield a melee weapon that requires two hands and doesn't have [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]], the weapon gains a reach of 10 feet.
+You can leverage your size and muscle to extend your reach and attack more distant foes. While in this stance, when you wield a melee weapon that requires two hands and doesn't have [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach]], the weapon gains a reach of 10 feet.
 
 *Source: Howl of the Wild p. 44*

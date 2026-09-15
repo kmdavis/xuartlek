@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Impulse`  `Kineticist`  `Metal`  `Primal`  `Stance`
 
-Four plates of pitted metal float around you to intercept attacks. You and allies in your kinetic aura gain a +1 circumstance bonus to AC. When any creature with this bonus would take damage from a physical attack, one of the plates reduces the damage by its Hardness of 5. If the damage exceeds the Hardness, that plate is destroyed. You can replenish all destroyed plates as a single action that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait.
+Four plates of pitted metal float around you to intercept attacks. You and allies in your kinetic aura gain a +1 circumstance bonus to AC. When any creature with this bonus would take damage from a physical attack, one of the plates reduces the damage by its Hardness of 5. If the damage exceeds the Hardness, that plate is destroyed. You can replenish all destroyed plates as a single action that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] trait.
 
 ---
 **Level (+2)** The Hardness increases by 1.

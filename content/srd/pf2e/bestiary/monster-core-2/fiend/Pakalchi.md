@@ -29,15 +29,15 @@ trait_03: "Unholy"
 modifier: 18
 perception:
   - name: "Perception"
-    desc: "+18; darkvision, [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]]"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], Requian; telepathy 100 feet, [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
+    desc: "+18; darkvision, [[srd/pf2e/compendium/spells/rank-6/Truesight|_truesight_]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/Languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/Languages#Empyrean|Empyrean]], Requian; telepathy 100 feet, [[srd/pf2e/compendium/spells/rank-5/Truespeech|_truespeech_]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +18, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +21, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +21, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +21, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +18, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +21, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +21, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +21, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +18"
 abilityMods: [4, 5, 4, 2, 3, 6]
 abilities_top:
   - name: "Easy to Call"
-    desc: "A sahkil's level is considered 2 lower for the purpose of being conjured by the [[srd/pf2e/compendium/spells/rituals/binding-circle|_binding circle_]] ritual (and potentially other rituals, at the GM's discretion), but it's always free to attack or leave instead of negotiate unless the primary caster's check is a critical success."
+    desc: "A sahkil's level is considered 2 lower for the purpose of being conjured by the [[srd/pf2e/compendium/spells/rituals/Binding Circle|_binding circle_]] ritual (and potentially other rituals, at the GM's discretion), but it's always free to attack or leave instead of negotiate unless the primary caster's check is a critical success."
 ac: 26
 armorclass:
   - name: "AC"
@@ -45,7 +45,7 @@ armorclass:
 hp: 150
 health:
   - name: "HP"
-    desc: "150; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5"
+    desc: "150; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]] 5"
 abilities_mid:
   - name: "Entangling Train"
     desc: "⬲"
@@ -56,27 +56,27 @@ abilities_mid:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ vine +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile P]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]) __Damage__ 2d10+6 slashing plus 1d6 spirit, 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed]], and betrayal toxin"
+    desc: "⬻ vine +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile P]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]]) __Damage__ 2d10+6 slashing plus 1d6 spirit, 1d6 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent bleed]], and betrayal toxin"
   - name: "Melee"
-    desc: "⬻ claw +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]) __Damage__ 2d10+6 slashing plus 1d6 spirit"
+    desc: "⬻ claw +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]]) __Damage__ 2d10+6 slashing plus 1d6 spirit"
   - name: "Ranged"
-    desc: "⬻ thorn +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], range increment 50 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]) __Damage__ 2d4+6 piercing plus 1d6 spirit, 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed]], and betrayal toxin"
+    desc: "⬻ thorn +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]], range increment 50 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]]) __Damage__ 2d4+6 piercing plus 1d6 spirit, 1d6 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent bleed]], and betrayal toxin"
 abilities_bot:
   - name: "Betrayal Toxin"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]) A creature affected by betrayal toxin hears whispers of incessant doubt in their head and can't treat any creature as their ally"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]]) A creature affected by betrayal toxin hears whispers of incessant doubt in their head and can't treat any creature as their ally"
   - name: "Saving Throw"
     desc: "DC 28 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 (1 round)"
+    desc: "[[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] 1 (1 round)"
   - name: "Stage 2"
     desc: "stupefied 2 (1 round)"
   - name: "Skip Between"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]]) The sahkil moves from [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] to the [[srd/pf2e/compendium/gm/planes#Ethereal Plane|Ethereal Plane]] or vice-versa. While in the Ethereal Plane, they're unable to affect anything in the Universe, and they cannot be seen by beings or abilities in the Universe, unless these have an ability that can gaze into the Ethereal Plane. While on the Material Plane the inverse is true for anything on the Ethereal Plane. A summoned sahkil can't use Skip Between."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Teleportation|teleportation]]) The sahkil moves from [[srd/pf2e/compendium/gm/Planes#The Universe|the Universe]] to the [[srd/pf2e/compendium/gm/Planes#Ethereal Plane|Ethereal Plane]] or vice-versa. While in the Ethereal Plane, they're unable to affect anything in the Universe, and they cannot be seen by beings or abilities in the Universe, unless these have an ability that can gaze into the Ethereal Plane. While on the Material Plane the inverse is true for anything on the Ethereal Plane. A summoned sahkil can't use Skip Between."
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 30 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]] - __5th__ [[srd/pf2e/compendium/spells/rank-2/calm|Calm]], [[srd/pf2e/compendium/spells/rank-1/charm|Charm]], [[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]] (at will) - __6th__ [[srd/pf2e/compendium/spells/rank-6/dominate|Dominate]] - __7th__ [[srd/pf2e/compendium/spells/rank-7/mask-of-terror|Mask of Terror]] (self only) - __Constant (6th)__ [[srd/pf2e/compendium/spells/rank-6/truesight|Truesight]], [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
+    desc: "DC 30 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]] - __5th__ [[srd/pf2e/compendium/spells/rank-2/Calm|Calm]], [[srd/pf2e/compendium/spells/rank-1/Charm|Charm]], [[srd/pf2e/compendium/spells/rank-4/Suggestion|Suggestion]] (at will) - __6th__ [[srd/pf2e/compendium/spells/rank-6/Dominate|Dominate]] - __7th__ [[srd/pf2e/compendium/spells/rank-7/Mask of Terror|Mask of Terror]] (self only) - __Constant (6th)__ [[srd/pf2e/compendium/spells/rank-6/Truesight|Truesight]], [[srd/pf2e/compendium/spells/rank-5/Truespeech|Truespeech]]"
 sourcebook: "_Monster Core 2_, page 276."
 ```
 

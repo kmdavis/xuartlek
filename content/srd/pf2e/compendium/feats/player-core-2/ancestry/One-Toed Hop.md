@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Tengu`
 
-Assuming a peculiar stance, you make a short hop on each toe. You make a vertical [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]] without triggering reactions that can be triggered by [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] actions or upon leaving or entering a square.
+Assuming a peculiar stance, you make a short hop on each toe. You make a vertical [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]] without triggering reactions that can be triggered by [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] actions or upon leaving or entering a square.
 
 *Source: Player Core 2 p. 34*

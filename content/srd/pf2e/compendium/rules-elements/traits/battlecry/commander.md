@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Commander`
 
-This trait indicates abilities from the [[srd/pf2e/compendium/character/classes/commander|commander]] class.
+This trait indicates abilities from the [[srd/pf2e/compendium/character/classes/Commander|commander]] class.
 
 *Source: Battlecry! p. 219*

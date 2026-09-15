@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Death`  `Illusion`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Occult
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
-- **Deities**: [[srd/pf2e/compendium/deities/apocalypse-riders/charon|Charon]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-crawling-chaos|Nyarlathotep (The Crawling Chaos)]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-faceless-sphinx|Nyarlathotep (The Faceless Sphinx)]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-veiled-voice|Nyarlathotep (The Veiled Voice)]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Hag|Hag]]
+- **Deities**: [[srd/pf2e/compendium/deities/apocalypse-riders/Charon|Charon]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (The Crawling Chaos)|Nyarlathotep (The Crawling Chaos)]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (The Faceless Sphinx)|Nyarlathotep (The Faceless Sphinx)]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (The Veiled Voice)|Nyarlathotep (The Veiled Voice)]]
 - **Range**: 120 feet
 - **Target**: any number of creatures
 - **Defense**: Will
@@ -31,7 +31,7 @@ You fill the targets' minds with endless images, like countless dreams and lives
 
 **Success** The target takes half damage and can't use reactions until the start of your next turn.
 
-**Failure** The target takes full damage and is [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] until the start of your next turn.
+**Failure** The target takes full damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]] until the start of your next turn.
 
 **Critical Failure** The target takes double damage and is confused for 1 minute.
 

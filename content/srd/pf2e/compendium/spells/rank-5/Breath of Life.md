@@ -17,12 +17,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Healing`  `Vitality`  `Positive`
 
-- **Tradition**: Divine
+- **Tradition**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2)
 - **Trigger**: A living creature within range would die
 - **Range**: 60 feet
 - **Target**: the triggering creature
 
-Your blessing revives a creature at the moment of its death. You prevent the target from dying and restore 5d8 Hit Points to the target. You can't use breath of life if the triggering effect was a [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effect or an effect that leaves no remains, such as _disintegrate_.
+Your blessing revives a creature at the moment of its death. You prevent the target from dying and restore 5d8 Hit Points to the target. You can't use breath of life if the triggering effect was a [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]] effect or an effect that leaves no remains, such as _disintegrate_.
 
 ---
 **Heightened (+2)** The healing increases by 1d8.

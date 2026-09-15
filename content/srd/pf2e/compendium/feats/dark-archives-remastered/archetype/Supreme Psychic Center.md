@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/psychic-duelist|Psychic Duelist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/psychic-duelist-dedication|Psychic Duelist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Psychic Duelist|Psychic Duelist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Psychic Duelist Dedication|Psychic Duelist Dedication]]
 - **Trigger**: Your turn in a psychic duel begins.
 
 With the merest thought, you realign your mental defenses to your duel's circumstances. You [[srd/pf2e/compendium/rules-elements/actions/dark-archives-remastered#Recenter|Recenter]].

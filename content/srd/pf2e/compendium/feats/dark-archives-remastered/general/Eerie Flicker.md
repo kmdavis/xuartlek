@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Deviant`  `Magical`  `Rare`
 
-- **Trigger**: An enemy’s Strike would hit you and you weren’t already [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] by that enemy.
+- **Trigger**: An enemy’s Strike would hit you and you weren’t already [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]], [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]], or [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]] by that enemy.
 
-Your body flickers momentarily into the [[srd/pf2e/compendium/gm/planes#Ethereal Plane|Ethereal Plane]]. You become [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] for 1 round, and the flat check for concealment applies to the Strike that would have hit you. If the flat check fails, the [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] misses you.
+Your body flickers momentarily into the [[srd/pf2e/compendium/gm/Planes#Ethereal Plane|Ethereal Plane]]. You become [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] for 1 round, and the flat check for concealment applies to the Strike that would have hit you. If the flat check fails, the [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] misses you.
 
 *Source: Dark Archives (Remastered) p. 102*

@@ -26,7 +26,7 @@ When you [[srd/pf2e/compendium/rules-elements/actions/dark-archives-remastered#U
 
 **Critical Success** The creature is unaffected.
 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1.
+**Success** The target is {{conditions 76 "frightened"}} 1.
 
 **Failure** The target is frightened 2.
 

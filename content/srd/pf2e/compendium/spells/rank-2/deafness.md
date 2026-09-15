@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude
@@ -24,7 +24,7 @@ The target loses its hearing. It must attempt a Fortitude save, and it is then t
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] for 1 round.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Deafened|deafened]] for 1 round.
 
 **Failure** The target is deafened for 10 minutes.
 

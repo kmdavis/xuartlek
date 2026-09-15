@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/fighter|Fighter]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/fighter-dedication|Fighter Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Fighter|Fighter]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Fighter Dedication|Fighter Dedication]]
 
-You gain a 1st- or 2nd-level fighter feat.
+You gain a 1st- or 2nd-level [fighter feat](https://2e.aonprd.com/Feats.aspx?Traits=71).
 
 ### Basic Maneuver leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/advanced-maneuver|Advanced Maneuver]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Advanced Maneuver|Advanced Maneuver]]
 
 *Source: Player Core p. 219*

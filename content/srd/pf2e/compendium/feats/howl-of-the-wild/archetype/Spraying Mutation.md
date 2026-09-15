@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ostilli-host|Ostilli Host]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/ostilli-host-dedication|Ostilli Host Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ostilli Host|Ostilli Host]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Ostilli Host Dedication|Ostilli Host Dedication]]
 
 Your ostilli can launch a multitude of darts at once over a short distance. When you Spit Ambient Magic, you can have it affect all creatures within a 15-foot cone instead of the normal target.
 

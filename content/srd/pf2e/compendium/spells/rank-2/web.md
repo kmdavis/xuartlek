@@ -15,13 +15,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: Followers of Fate, [[srd/pf2e/compendium/deities/other-gods/grandmother-spider|Grandmother Spider]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Followers of Fate, [[srd/pf2e/compendium/deities/other-gods/Grandmother Spider|Grandmother Spider]]
 - **Range**: 30 feet
 - **Area**: 10-foot burst
 - **Duration**: 1 minute
 
-You create a sticky web in the area that impedes creatures' movement. Squares filled with the web are difficult terrain. Each time a creature in the web begins to use a move action or enters the web during a [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action it's using, it must attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check or Reflex save against your spell DC to avoid taking a circumstance penalty to its Speeds or becoming [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]]. A creature that gets out of the web ceases to take a circumstance penalty to its Speed from the web.
+You create a sticky web in the area that impedes creatures' movement. Squares filled with the web are difficult terrain. Each time a creature in the web begins to use a move action or enters the web during a [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] action it's using, it must attempt an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check or Reflex save against your spell DC to avoid taking a circumstance penalty to its Speeds or becoming [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]]. A creature that gets out of the web ceases to take a circumstance penalty to its Speed from the web.
 
  Each square can be cleared of the web by a single attack or effect that deals at least 5 slashing damage or 1 fire damage. A square has AC 5, and it automatically fails its saving throws.
 

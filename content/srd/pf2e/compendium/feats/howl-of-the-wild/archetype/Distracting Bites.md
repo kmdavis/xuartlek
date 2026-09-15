@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/swarmkeeper|Swarmkeeper]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/swarmkeeper-dedication|Swarmkeeper Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Swarmkeeper|Swarmkeeper]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Swarmkeeper Dedication|Swarmkeeper Dedication]]
 
-You know how to take advantage of those your swarm has attacked. A creature who has taken damage from your swarm's Bite and Sting is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against the first Strike you make against it in the same turn.
+You know how to take advantage of those your swarm has attacked. A creature who has taken damage from your swarm's Bite and Sting is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] against the first Strike you make against it in the same turn.
 
 *Source: Howl of the Wild p. 73*

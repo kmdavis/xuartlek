@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Curse`  `Incapacitation`  `Manipulate`  `Polymorph`
 
-- **Traditions**: Arcane, Occult, Primal
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
-- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/mestama|Mestama]], [[srd/pf2e/compendium/deities/monitor-demigods/mother-vulture|Mother Vulture]], [[srd/pf2e/compendium/deities/eldest/the-lantern-king|The Lantern King]], [[srd/pf2e/compendium/deities/goblin-gods/venkelvore|Venkelvore]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/yig|Yig]], Zeaki
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Hag|Hag]]
+- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/Mestama|Mestama]], [[srd/pf2e/compendium/deities/monitor-demigods/Mother Vulture|Mother Vulture]], [[srd/pf2e/compendium/deities/eldest/The Lantern King|The Lantern King]], [[srd/pf2e/compendium/deities/goblin-gods/Venkelvore|Venkelvore]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Yig|Yig]], Zeaki
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/gladiator|Gladiator]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/gladiator-dedication|Gladiator Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Gladiator|Gladiator]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Gladiator Dedication|Gladiator Dedication]]
 
-You pull punches to give a better show. You don't take the usual –2 circumstance penalty when making a [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attack with a weapon or unarmed attack that doesn't have the nonlethal trait.
+You pull punches to give a better show. You don't take the usual –2 circumstance penalty when making a [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]] attack with a weapon or unarmed attack that doesn't have the nonlethal trait.
 
 *Source: Player Core 2 p. 201*

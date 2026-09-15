@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Minotaur`
 
-There are few twisting paths that can disorient you. When you roll a success on a [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Direction|Sense Direction]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]], you get a critical success instead.
+There are few twisting paths that can disorient you. When you roll a success on a [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Direction|Sense Direction]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]], you get a critical success instead.
 
 *Source: Howl of the Wild p. 43*

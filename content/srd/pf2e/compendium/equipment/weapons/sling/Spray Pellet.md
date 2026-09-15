@@ -15,7 +15,7 @@ socialImage: og-image.png
 - **Bulk**: L
 - **Type**: Ranged
 - **Category**: Ammunition
-- **Group**: Sling
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sling|Sling]]
 
 Specially prepared packet of spray pellets.
 

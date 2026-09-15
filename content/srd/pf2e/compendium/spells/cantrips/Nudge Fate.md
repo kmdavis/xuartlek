@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Hex`  `Uncommon`  `Witch`
 
-- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Spinner of Threads|Spinner of Threads]]
+- **Patron Theme**: [[srd/pf2e/compendium/character/Patrons#Spinner of Threads|Spinner of Threads]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: 1 minute

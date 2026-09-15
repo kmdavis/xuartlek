@@ -34,7 +34,7 @@ This object, made of silver light, takes the form of a small musical instrument,
 
 ---
 
-This _immaculate instrument_ has been cursed by the [[srd/pf2e/bestiary/war-of-immortals/fey/sublime-breath|sublime breath]] it was taken from, causing it to warp, rust, or tarnish, though the holder of the instrument cannot perceive this and rationalizes away any attempt to explain the instrument's obviously cursed nature. Whenever the _cursed immaculate instrument_ is used to produce a work, the holder must succeed on a DC 16 flat check or the work fails, leaving the holder frustrated and raising the DC of subsequent flat checks by 1.
+This _immaculate instrument_ has been cursed by the [[srd/pf2e/bestiary/war-of-immortals/fey/Sublime Breath|sublime breath]] it was taken from, causing it to warp, rust, or tarnish, though the holder of the instrument cannot perceive this and rationalizes away any attempt to explain the instrument's obviously cursed nature. Whenever the _cursed immaculate instrument_ is used to produce a work, the holder must succeed on a DC 16 flat check or the work fails, leaving the holder frustrated and raising the DC of subsequent flat checks by 1.
 
  When the DC reaches 20, the work fails as normal, but the holder continues to attempt it fruitlessly to the exclusion of all other activities, including eating, drinking, and sleep, until they expire or the curse is broken.
 

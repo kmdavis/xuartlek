@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/necromancer|Necromancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/necromancer-dedication|Necromancer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Necromancer|Necromancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Necromancer Dedication|Necromancer Dedication]]
 
-You gain a 1st- or 2nd-level [[srd/pf2e/compendium/character/classes/necromancer|necromancer]] feat of your choice.
+You gain a 1st- or 2nd-level [[srd/pf2e/compendium/character/classes/Necromancer|necromancer]] feat of your choice.
 
 ### Basic Death Dealing leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/archetype/advanced-death-dealing|Advanced Death Dealing]]
+[[srd/pf2e/compendium/feats/impossible-magic/archetype/Advanced Death Dealing|Advanced Death Dealing]]
 
 *Source: Impossible Magic p. 89*

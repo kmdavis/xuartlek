@@ -28,11 +28,11 @@ perception:
     desc: "+19; arcanosense (precise) 120 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +18, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] +18, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +14"
 abilityMods: [3, 6, 3, -4, 1, 2]
 abilities_top:
   - name: "Arcanosense"
-    desc: "A hexmoth can sense sources of magic at the listed range as though it has a 4th-rank [[srd/pf2e/compendium/spells/cantrips/detect-magic|_detect magic_]] constant innate spell."
+    desc: "A hexmoth can sense sources of magic at the listed range as though it has a 4th-rank [[srd/pf2e/compendium/spells/cantrips/Detect Magic|_detect magic_]] constant innate spell."
 ac: 27
 armorclass:
   - name: "AC"

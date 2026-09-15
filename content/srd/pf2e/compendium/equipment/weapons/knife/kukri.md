@@ -1,7 +1,7 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/player-core
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/agile
 - trait/finesse
 - trait/trip
@@ -9,7 +9,7 @@ tags:
 - weapon/level/0
 aliases: ["Kukri"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=413"
-source: "Player Core"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -18,14 +18,14 @@ socialImage: og-image.png
 `Agile`  `Finesse`  `Trip`  `Uncommon`
 
 - **PFS Note**: All Pathfinder agents have access to this weapon
-- **Favored Weapon**: Adanye, [[srd/pf2e/compendium/deities/sakhil-tormentors/ananshea|Ananshea]], [[srd/pf2e/compendium/deities/queens-of-the-night/doloras|Doloras]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-haunter-in-the-dark|Nyarlathotep (Haunter in the Dark)]], Tanagaar, Valmallos
+- **Favored Weapon**: Adanye, [[srd/pf2e/compendium/deities/sakhil-tormentors/Ananshea|Ananshea]], [[srd/pf2e/compendium/deities/queens-of-the-night/Doloras|Doloras]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (Haunter in the Dark)|Nyarlathotep (Haunter in the Dark)]], Tanagaar, Valmallos
 - **Price**: 6 sp
 - **Damage**: 1d6 S
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Knife
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Knife|Knife]]
 
 The blade of this foot-long knife curves inward and lacks a cross guard at the hilt.
 
@@ -35,6 +35,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/bloodletting-kukri|Bloodletting Kukri]]
+[[srd/pf2e/compendium/equipment/weapons/Bloodletting Kukri|Bloodletting Kukri]]
 
-*Source: Player Core p. 278*
+*Source: Tian Xia Character Guide p. 127*

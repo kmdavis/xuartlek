@@ -16,14 +16,14 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Cast**: 1 minute
 - **Range**: touch
 - **Target**: up to 1 gallon of non-magical liquid or up to 5 pounds of food
 - **Duration**: 1 hour
 
 You adjust the delicate levels of bitter ingredients in food and drink to draw out their full restorative and fortifying properties. Choose one of the benefits listed below. Any creature that consumes the targeted drink or food gains that benefit. Up to 10 creatures can partake in the meal, and a creature gets no extra benefit for consuming more than one portion. 
-Gain 5 temporary Hit Points.Gain resistance 2 to fire.Gain a +1 circumstance bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]].
+Gain 5 temporary Hit Points.Gain resistance 2 to fire.Gain a +1 circumstance bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]].
 
 ---
 **Heightened (4th)** Your remedy provides two benefits of your choice instead of one. The temporary Hit Points increase to 10, the resistance to fire increases to 3, the bonus against disease increases to +2, and the duration is 2 hours.

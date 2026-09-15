@@ -19,8 +19,8 @@ socialImage: og-image.png
 
 `Auditory`  `Concentrate`  `Emotion`  `Linguistic`  `Mental`  `Swashbuckler`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-With precisely the right words of encouragement, you bolster an ally's efforts. Designate an ally within 30 feet; this action counts as sufficient preparation to [[srd/pf2e/compendium/rules-elements/actions/player-core#Aid|Aid]] that ally. When you use the Aid reaction to help that ally, you can roll [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] in place of the usual check and the action gains the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/bravado|bravado]] trait.
+With precisely the right words of encouragement, you bolster an ally's efforts. Designate an ally within 30 feet; this action counts as sufficient preparation to [[srd/pf2e/compendium/rules-elements/actions/player-core#Aid|Aid]] that ally. When you use the Aid reaction to help that ally, you can roll [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] in place of the usual check and the action gains the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Bravado|bravado]] trait.
 
 *Source: Player Core 2 p. 164*

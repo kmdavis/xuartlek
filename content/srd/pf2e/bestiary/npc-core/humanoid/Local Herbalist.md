@@ -28,18 +28,18 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +6, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +4, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +6, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +4, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +7, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +7"
 abilityMods: [3, 0, 1, 1, 4, 0]
 abilities_top:
   - name: "Herbalism Specialist"
     desc: "For encounters involving collecting herbs or making medicine from them, the local herbalist is a 3rd-level challenge."
   - name: "Natural Medicine"
-    desc: "The herbalist can use [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] instead of [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Administer First Aid|Administer First Aid]], and gains a +3 circumstance bonus to the check if they're in the wilderness with access to fresh herbal ingredients."
+    desc: "The herbalist can use [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] instead of [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Administer First Aid|Administer First Aid]], and gains a +3 circumstance bonus to the check if they're in the wilderness with access to fresh herbal ingredients."
   - name: "Items"
-    desc: "cooking pot, medicine bag (functions as a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|healer's toolkit]]), Staff"
+    desc: "cooking pot, medicine bag (functions as a [[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit|healer's toolkit]]), Staff"
 ac: 13
 armorclass:
   - name: "AC"
@@ -60,18 +60,18 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ staff +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d8]]) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ staff +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Two-Hand|two-hand d8]]) __Damage__ 1d4+2 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ fungal spores +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fungus|Fungus]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]], range increment 10 feet) __Damage__ 1d4 poison plus 1d4 persistent poison"
+    desc: "⬻ fungal spores +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fungus|Fungus]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]], range increment 10 feet) __Damage__ 1d4 poison plus 1d4 persistent poison"
 abilities_bot:
   - name: "Prompt Poultice"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]])"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|Manipulate]])"
   - name: "Frequency"
     desc: "once per day"
   - name: "Effect"
-    desc: "The local herbalist quickly mixes together a potent healing salve with the most precious ingredients from their medicine bag. They create a temporary [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|lesser elixir of life]]. This elixir remains potent for 1 round before becoming sour and useless."
+    desc: "The local herbalist quickly mixes together a potent healing salve with the most precious ingredients from their medicine bag. They create a temporary [[srd/pf2e/compendium/equipment/alchemical-items/Elixir of Life|lesser elixir of life]]. This elixir remains potent for 1 round before becoming sour and useless."
 sourcebook: "_NPC Core_, page 60."
 ```
 

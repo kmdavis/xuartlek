@@ -1,14 +1,14 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/player-core-2
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/forceful
 - trait/propulsive
 - trait/uncommon
 - weapon/level/0
 aliases: ["Daikyu"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=472"
-source: "Player Core 2"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -25,8 +25,8 @@ socialImage: og-image.png
 - **Reload**: 0
 - **Type**: Ranged
 - **Category**: Advanced
-- **Group**: Bow
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/bow/arrows|Arrows]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bow|Bow]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/bow/Arrows|Arrows]]
 
 This asymmetrical bow, made of laminated bamboo, wood, and leather, stands 6 feet or more in height. It’s most often used while mounted.
 
@@ -34,4 +34,4 @@ This asymmetrical bow, made of laminated bamboo, wood, and leather, stands 6 fee
 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
 
-*Source: Player Core 2 p. 274*
+*Source: Tian Xia Character Guide p. 128*

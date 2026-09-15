@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Cleric`  `Divine`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/raise-symbol|Raise Symbol]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Raise Symbol|Raise Symbol]]
 - **Trigger**: While you have your symbol raised, you are about to take damage from a melee attack
 
 Your religious symbol glows with sacred energy, turning the attacker’s strength to weakness. Attempt a Religion check against the triggering creature’s Will DC. Regardless of the result, the creature is temporarily immune for 1 minute.

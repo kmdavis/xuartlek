@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Swashbuckler`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
 Your tricks make foes overextend their attacks. On a [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|Feint]], you can use the following success and critical success effects instead of any other effects you would gain when you Feint; if you do, other abilities that adjust the normal effects of your Feint no longer apply. You can choose whether to use the Goading Feint benefits or the normal benefits each time you Feint a given foe.
 

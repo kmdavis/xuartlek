@@ -21,8 +21,8 @@ socialImage: og-image.png
 - **Price**: 15 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-After you drink this bitter draft, your skin thickens like bark. You gain the effects of a 2nd-rank [[srd/pf2e/compendium/spells/rank-2/oaken-resilience|_oaken resilience_]] spell for 10 minutes.
+After you drink this bitter draft, your skin thickens like bark. You gain the effects of a 2nd-rank [[srd/pf2e/compendium/spells/rank-2/Oaken Resilience|_oaken resilience_]] spell for 10 minutes.
 
 *Source: GM Core p. 259*

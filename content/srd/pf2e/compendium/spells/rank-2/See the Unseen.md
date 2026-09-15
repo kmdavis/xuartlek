@@ -16,11 +16,11 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Revelation`
 
-- **Traditions**: Arcane, Divine, Occult
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Undead|Undead]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Undead|Undead]]
 - **Duration**: 10 minutes
 
-Your gaze pierces through illusions and finds [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] creatures and spirits. You can see invisible creatures as though they weren't invisible, although their features are blurred, making them [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] and difficult to identify. You can also see [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]] creatures, like ghosts, phased through an object from within 10 feet of an object's surface as blurry shapes seen through those objects. Subtler clues also grant you a +2 status bonus to checks you make to disbelieve illusions.
+Your gaze pierces through illusions and finds [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]] creatures and spirits. You can see invisible creatures as though they weren't invisible, although their features are blurred, making them [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] and difficult to identify. You can also see [[srd/pf2e/compendium/rules-elements/traits/gm-core/Incorporeal|incorporeal]] creatures, like ghosts, phased through an object from within 10 feet of an object's surface as blurry shapes seen through those objects. Subtler clues also grant you a +2 status bonus to checks you make to disbelieve illusions.
 
 ---
 **Heightened (5th)** This spell has a duration of 8 hours.

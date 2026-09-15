@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Merfolk`
 
-You're familiar with the basic spells that most educated merfolk know. Once per day, you can cast either [[srd/pf2e/compendium/spells/rank-1/create-water|_create water_]] or [[srd/pf2e/compendium/spells/rank-1/hydraulic-push|_hydraulic push_]] as a 1st-rank primal innate spell. Each time you cast _create water_, you choose if you create fresh water or salt water.
+You're familiar with the basic spells that most educated merfolk know. Once per day, you can cast either [[srd/pf2e/compendium/spells/rank-1/Create Water|_create water_]] or [[srd/pf2e/compendium/spells/rank-1/Hydraulic Push|_hydraulic push_]] as a 1st-rank primal innate spell. Each time you cast _create water_, you choose if you create fresh water or salt water.
 
 *Source: Howl of the Wild p. 37*

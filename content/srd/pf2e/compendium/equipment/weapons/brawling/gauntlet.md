@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Agile`  `Free-Hand`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/eldest/ng|Ng]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/eldest/Ng|Ng]]
 - **Price**: 2 sp
 - **Damage**: 1d4 B
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Simple
-- **Group**: Brawling
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|Brawling]]
 
 A pair of these metal gloves comes with full plate, half plate, and splint armor; they can also be purchased separately and worn with other types of armor. They not only protect your hands but also transform your hands into lethal weapons.
 

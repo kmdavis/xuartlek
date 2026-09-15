@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Air`  `Attack`  `Cantrip`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Requirements**: You have at least one free hand.
 - **Range**: 60 feet
 - **Target**: 1 or 2 creatures

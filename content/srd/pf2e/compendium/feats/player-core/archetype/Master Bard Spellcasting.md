@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/bard|Bard]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/expert-bard-spellcasting|Expert Bard Spellcasting]]; Legendary in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Bard|Bard]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Expert Bard Spellcasting|Expert Bard Spellcasting]]; Legendary in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-You gain the master [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|spellcasting benefits]].
+You gain the master [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Spellcasting Archetypes|spellcasting benefits]].
 
 *Source: Player Core p. 216*

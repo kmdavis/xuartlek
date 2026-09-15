@@ -24,23 +24,23 @@ Strength or Dexterity
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/longbow|Longbow]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/Longbow|Longbow]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Fire|Fire]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Fire|Fire]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]]
+[[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/fireball|Fireball]]
+[[srd/pf2e/compendium/spells/rank-3/Fireball|Fireball]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]]
+[[srd/pf2e/compendium/spells/rank-4/Translocate|Translocate]]
 
 *Source: Divine Mysteries p. 320*

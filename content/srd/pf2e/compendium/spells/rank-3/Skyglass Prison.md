@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Air`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude
@@ -26,11 +26,11 @@ The air around the target solidifies like glass, trapping the creature in a cage
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] or until the cage is destroyed. The cage is automatically destroyed at the start of your next turn.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] or until the cage is destroyed. The cage is automatically destroyed at the start of your next turn.
 
 **Failure** The target is immobilized until it Escapes or until the cage is destroyed.
 
-**Critical Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] until it Escapes or until the cage is destroyed.
+**Critical Failure** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] until it Escapes or until the cage is destroyed.
 
 ---
 **Heightened (+1)** The cage’s Hit Points increase by 10, and the slashing damage increases by 1d4.

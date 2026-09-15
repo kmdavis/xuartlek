@@ -19,8 +19,8 @@ socialImage: og-image.png
 - **Price**: 220 gp
 - **Usage**: worn armor
 - **Bulk**: 2
-- **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Hide Armor|Hide Armor]]
+- **Base Armor**: [[srd/pf2e/compendium/equipment/Armor#Hide Armor|Hide Armor]]
 
-Stitched together from pieces of ghoul skin, this suit of _+1 [[srd/pf2e/compendium/equipment/armor#Hide Armor|hide armor]]_ grants you a +1 item bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curses]] and makes you immune to the stench of ghouls. Ghoul hide with a [[srd/pf2e/compendium/equipment/runes/resilient|resilient rune]] increases the resilient rune's item bonus to saving throws against curses by 1 (maximum +4).
+Stitched together from pieces of ghoul skin, this suit of _+1 [[srd/pf2e/compendium/equipment/Armor#Hide Armor|hide armor]]_ grants you a +1 item bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/Curse|curses]] and makes you immune to the stench of ghouls. Ghoul hide with a [[srd/pf2e/compendium/equipment/runes/Resilient|resilient rune]] increases the resilient rune's item bonus to saving throws against curses by 1 (maximum +4).
 
 *Source: Player Core 2 p. 278*

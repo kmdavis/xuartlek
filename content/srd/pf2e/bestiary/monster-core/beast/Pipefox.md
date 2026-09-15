@@ -26,10 +26,10 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]]; [[srd/pf2e/compendium/spells/rank-2/translate|_translate_]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]]; [[srd/pf2e/compendium/spells/rank-2/Translate|_translate_]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +9, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +9, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] +9, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] +9, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +9, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +8"
 abilityMods: [3, 4, 3, 4, 1, 3]
 ac: 19
 armorclass:
@@ -42,19 +42,19 @@ health:
 speed: "25 feet, climb 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 0 feet]]) __Damage__ 1d6+4 piercing"
+    desc: "⬻ jaws +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 0 feet]]) __Damage__ 1d6+4 piercing"
 abilities_bot:
   - name: "Master of Tongues"
     desc: "Even if the pipefox does not speak a creature's language, it can rapidly pick up on inflection, root words, and body language. If the pipefox interacts or observes a creature for at least 10 minutes and that creature can speak a language, it can communicate basic concepts to that creature."
   - name: "Rapid Erudition"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]])"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]])"
   - name: "Requirements"
-    desc: "The pipefox saw a [[srd/pf2e/compendium/rules-elements/traits/player-core/cantrip|cantrip]] cast within the last minute"
+    desc: "The pipefox saw a [[srd/pf2e/compendium/rules-elements/traits/player-core/Cantrip|cantrip]] cast within the last minute"
   - name: "Effect"
     desc: "The pipefox can cast the cantrip it saw as an innate arcane spell for 1 minute. Hoarders of Knowledge Nothing is as valuable to a pipefox as knowledge. They often fill their space with the books and tools they've secretly collected over the years. While these books are often on seemingly mundane topics, it is not uncommon to find a magic scroll or two hidden away in a pipefox's home."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 18, attack +8 - __2nd__ [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (at will; self only Cantrips) - __Constant (2nd)__ [[srd/pf2e/compendium/spells/rank-2/translate|Translate]]"
+    desc: "DC 18, attack +8 - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Invisibility|Invisibility]] (at will; self only Cantrips) - __Constant (2nd)__ [[srd/pf2e/compendium/spells/rank-2/Translate|Translate]]"
 sourcebook: "_Monster Core_, page 265."
 ```
 

@@ -37,7 +37,7 @@ Kobolds have an ingrained cautiousness that keeps them alive. They're secretive 
 
 All but the most iconoclastic kobolds have a natural respect for hierarchies and rules, relying on their ancestral social strategies for survival.
 
- Organized religion feels natural for most kobolds. They're often drawn to deities related to their benefactors, such as [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]] if the benefactor is a devil, or dragon deities like Apsu and Dahak if the benefactor is a dragon. Kobolds also often find themselves drawn to cults, particularly those with powerful magical creatures as figureheads.
+ Organized religion feels natural for most kobolds. They're often drawn to deities related to their benefactors, such as [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Asmodeus|Asmodeus]] if the benefactor is a devil, or dragon deities like Apsu and Dahak if the benefactor is a dragon. Kobolds also often find themselves drawn to cults, particularly those with powerful magical creatures as figureheads.
 
  **Popular Edicts** find your place in any power structure, take pride in your allies' strength, win with your wits
  **Popular Anathema** face a threat alone, throw caution to the wind
@@ -62,14 +62,14 @@ A young kobold's given name is rarely more than a syllable or two. However, as t
 
 #### Languages
 
-[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
-[[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]
+[[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]], and [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]], and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/Languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/Languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/Languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/Languages#Gnomish|Gnomish]], and [[srd/pf2e/compendium/rules-elements/Languages#Petran|Petran]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 #### Darkvision
 
-You can see in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Darkness|darkness]] and dim light just as well as you can see in bright light, though your vision in darkness is in black and white.
+You can see in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Darkness|darkness]] and dim light just as well as you can see in bright light, though your vision in darkness is in black and white.
 
 *Source: Player Core 2 p. 20*

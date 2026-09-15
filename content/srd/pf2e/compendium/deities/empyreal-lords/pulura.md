@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: Aid travelers, comfort the lonely, teach the constellations
 - **Anathema**: Mock the homesick, deny warmth to others, pollute the skies with smoke or light
 - **Area of Concern**: Constellations, homesickness, northern lights
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/cosmic-caravan|Cosmic Caravan]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Cosmic Caravan|Cosmic Caravan]]
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sling/sling|Sling]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sling/Sling|Sling]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Cold|Cold]], [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Sorrow|Sorrow]], [[srd/pf2e/compendium/character/domains#Star|Star]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Cold|Cold]], [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Sorrow|Sorrow]], [[srd/pf2e/compendium/character/Domains#Star|Star]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/dizzying-colors|Dizzying Colors]]
+[[srd/pf2e/compendium/spells/rank-1/Dizzying Colors|Dizzying Colors]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/cloak-of-colors|Cloak of Colors]]
+[[srd/pf2e/compendium/spells/rank-5/Cloak of Colors|Cloak of Colors]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/teleport|Teleport]]
+[[srd/pf2e/compendium/spells/rank-6/Teleport|Teleport]]
 
 *Source: Divine Mysteries p. 308*

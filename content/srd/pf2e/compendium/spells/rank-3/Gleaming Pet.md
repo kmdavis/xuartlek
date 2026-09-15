@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Light`  `Manipulate`  `Visual`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Target**: your companion or eidolon
 - **Defense**: Fortitude
@@ -29,8 +29,8 @@ The target glows intensely with an otherworldly light, blinding any who approach
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round.
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] for 1 round.
 
-**Critical Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round.
+**Critical Failure** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] for 1 round.
 
 *Source: Impossible Magic p. 141*

@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: maestro muse
 
-By adding a flourish, you make your compositions last longer. You learn the [[srd/pf2e/compendium/spells/focus/lingering-composition|_lingering composition_]] focus spell.
+By adding a flourish, you make your compositions last longer. You learn the [[srd/pf2e/compendium/spells/focus/Lingering Composition|_lingering composition_]] focus spell.
 
 *Source: Player Core p. 101*

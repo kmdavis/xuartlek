@@ -1,6 +1,7 @@
 ---
 title: "The Pathfinder Baseline"
 aliases: ["The Pathfinder Baseline"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2265"
 citation: "Player Core pg. 397"
-socialImage: og-image.png
 ---
 
 # The Pathfinder Baseline

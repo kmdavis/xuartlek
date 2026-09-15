@@ -14,14 +14,14 @@ socialImage: og-image.png
 
 `Gunslinger`
 
-Bullets and bombs can be scarce in some parts, so you’ve learned to make your own. You become trained in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] and gain the advanced alchemy benefits. You can use the [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Alchemical Archetypes|advanced alchemy benefits]] to create a number of daily consumables equal to 4 + half your level (rounded up); these consumables must be bombs or alchemical ammunition.
+Bullets and bombs can be scarce in some parts, so you’ve learned to make your own. You become trained in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] and gain the advanced alchemy benefits. You can use the [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Alchemical Archetypes|advanced alchemy benefits]] to create a number of daily consumables equal to 4 + half your level (rounded up); these consumables must be bombs or alchemical ammunition.
 
- You gain a [[srd/pf2e/compendium/equipment/adventuring-gear/formula-book-blank|formula book]] that includes the formula for black powder and four 1st-level types of common or uncommon alchemical ammunition or bombs of your choice.
+ You gain a [[srd/pf2e/compendium/equipment/adventuring-gear/Formula Book (Blank)|formula book]] that includes the formula for black powder and four 1st-level types of common or uncommon alchemical ammunition or bombs of your choice.
 
  When crafting alchemical ammunition, including black powder in doses or rounds, using advanced alchemy, you create the ammunition in batches of 4 (meaning that if you were 4th level and used all of your advanced alchemy consumables to create alchemical ammunition, you could create a maximum of 24 rounds). You cannot use advanced alchemy to Craft horns or kegs of black powder.
 
 ### Munitions Crafter leads to...
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/class/munitions-machinist|Munitions Machinist]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/class/Munitions Machinist|Munitions Machinist]]
 
 *Source: Guns & Gears (Remastered) p. 111*

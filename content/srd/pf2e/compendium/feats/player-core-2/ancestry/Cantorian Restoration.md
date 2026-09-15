@@ -20,6 +20,6 @@ socialImage: og-image.png
 - **Frequency**: once per day
 - **Trigger**: A living creature within 60 feet would die.
 
-The energy that flows in your blood can save a life in the direst of times. You prevent the creature from dying and restore 6d8 + your Constitution modifier Hit Points to it. You can't use Cantorian Restoration if the triggering effect was a [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effect or an effect that leaves no remains, such as [[srd/pf2e/compendium/spells/rank-6/disintegrate|_disintegrate_]].
+The energy that flows in your blood can save a life in the direst of times. You prevent the creature from dying and restore 6d8 + your Constitution modifier Hit Points to it. You can't use Cantorian Restoration if the triggering effect was a [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]] effect or an effect that leaves no remains, such as [[srd/pf2e/compendium/spells/rank-6/Disintegrate|_disintegrate_]].
 
 *Source: Player Core 2 p. 15*

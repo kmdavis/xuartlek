@@ -15,11 +15,11 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/swarmkeeper|Swarmkeeper]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/swarmkeeper-dedication|Swarmkeeper Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Swarmkeeper|Swarmkeeper]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Swarmkeeper Dedication|Swarmkeeper Dedication]]
 - **Requirements**: Your swarm is outside your body.
 
-Your swarm's stings burn with agonizing pain, much like that caused by the bright red pyre ants that make their tunnels within the parched sands of deserts like Qadira. Each creature in your swarm's space must succeed at a Fortitude save against your class DC or spell DC, whichever is higher, or take 1d6 persistent poison damage. A creature that critically fails is also [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] for as long as it's taking this persistent poison damage.
+Your swarm's stings burn with agonizing pain, much like that caused by the bright red pyre ants that make their tunnels within the parched sands of deserts like Qadira. Each creature in your swarm's space must succeed at a Fortitude save against your class DC or spell DC, whichever is higher, or take 1d6 persistent poison damage. A creature that critically fails is also [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled 1]] for as long as it's taking this persistent poison damage.
 
  At 8th level and every 4 levels thereafter, the persistent poison damage increases by 1d6.
 

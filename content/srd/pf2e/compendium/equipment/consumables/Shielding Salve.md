@@ -19,8 +19,8 @@ socialImage: og-image.png
 - **Price**: 4 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-This shimmering paste has many properties of a [[srd/pf2e/compendium/spells/cantrips/shield|_shield_]] spell. When you slather it onto a creature or object, the target gains a +1 circumstance bonus to AC for 1 round. The first time a physical attack or a [[srd/pf2e/compendium/spells/rank-1/force-barrage|_force barrage_]] hits the target during that round, the oil prevents 5 damage from that attack or spell, and then the oil's effect ends.
+This shimmering paste has many properties of a [[srd/pf2e/compendium/spells/cantrips/Shield|_shield_]] spell. When you slather it onto a creature or object, the target gains a +1 circumstance bonus to AC for 1 round. The first time a physical attack or a [[srd/pf2e/compendium/spells/rank-1/Force Barrage|_force barrage_]] hits the target during that round, the oil prevents 5 damage from that attack or spell, and then the oil's effect ends.
 
 *Source: Player Core 2 p. 303*

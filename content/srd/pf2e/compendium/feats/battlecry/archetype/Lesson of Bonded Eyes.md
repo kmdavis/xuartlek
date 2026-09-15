@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/iridian-choirmaster|Iridian Choirmaster]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/iridian-choirmaster-dedication|Iridian Choirmaster Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Iridian Choirmaster|Iridian Choirmaster]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Iridian Choirmaster Dedication|Iridian Choirmaster Dedication]]
 
-You and your student share an understanding of your surroundings. As long as you and your student can see (giving this effect the visual trait) or hear (giving this effect the auditory trait) each other, if a [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] creature is observed by either of you, it's observed by both of you.
+You and your student share an understanding of your surroundings. As long as you and your student can see (giving this effect the visual trait) or hear (giving this effect the auditory trait) each other, if a [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] creature is observed by either of you, it's observed by both of you.
 
 *Source: Battlecry! p. 63*

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/snarecrafter|Snarecrafter]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/snarecrafter-dedication|Snarecrafter Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Snarecrafter|Snarecrafter]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Snarecrafter Dedication|Snarecrafter Dedication]]
 
-You can prepare incredible numbers of [[srd/pf2e/compendium/rules-elements/traits/player-core-2/snare|snares]] each day out of simple ingredients. Double the number of prepared snares granted by Snarecrafter Dedication.
+You can prepare incredible numbers of [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Snare|snares]] each day out of simple ingredients. Double the number of prepared snares granted by Snarecrafter Dedication.
 
 *Source: Player Core 2 p. 216*

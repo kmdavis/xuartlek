@@ -17,6 +17,6 @@ socialImage: og-image.png
 - **Prerequisites**: warrior muse
 - **Trigger**: You critically hit a foe with a melee weapon Strike or a melee unarmed attack
 
-With a triumphant shout, you inspire your allies. You cast a [[srd/pf2e/compendium/rules-elements/traits/player-core/composition|composition]] cantrip you know that normally takes a single action to cast.
+With a triumphant shout, you inspire your allies. You cast a [[srd/pf2e/compendium/rules-elements/traits/player-core/Composition|composition]] cantrip you know that normally takes a single action to cast.
 
 *Source: Player Core p. 106*

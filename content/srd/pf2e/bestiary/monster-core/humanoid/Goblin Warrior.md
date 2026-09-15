@@ -28,14 +28,14 @@ modifier: 2
 perception:
   - name: "Perception"
     desc: "+2; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +2, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +1, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +2, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +1, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +5"
 abilityMods: [0, 3, 1, 0, -1, 1]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/sword/dogslicer|Dogslicer]], Leather Armor, Shortbow (10 arrows)"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/sword/Dogslicer|Dogslicer]], Leather Armor, Shortbow (10 arrows)"
 ac: 16
 armorclass:
   - name: "AC"
@@ -54,9 +54,9 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dogslicer +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/backstabber|Backstabber]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6 slashing"
+    desc: "⬻ dogslicer +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Backstabber|Backstabber]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]]) __Damage__ 1d6 slashing"
   - name: "Ranged"
-    desc: "⬻ shortbow +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], range increment 60 feet, reload 0) __Damage__ 1d6 piercing"
+    desc: "⬻ shortbow +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d10]], range increment 60 feet, reload 0) __Damage__ 1d6 piercing"
 sourcebook: "_Monster Core_, page 174."
 ```
 

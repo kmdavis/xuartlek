@@ -19,8 +19,8 @@ socialImage: og-image.png
 - **Price**: 3 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-The stopper for a potion of emergency escape is crafted to easily snap open in dire circumstances. When you drink this potion, for 1 minute you become [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] from all hostile creatures you’re aware of. You gain a +40-foot status bonus to all Speeds as long as this fleeing condition lasts. You immediately [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]].
+The stopper for a potion of emergency escape is crafted to easily snap open in dire circumstances. When you drink this potion, for 1 minute you become [[srd/pf2e/compendium/rules-elements/Conditions#Fleeing|fleeing]] from all hostile creatures you’re aware of. You gain a +40-foot status bonus to all Speeds as long as this fleeing condition lasts. You immediately [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]].
 
 *Source: Player Core 2 p. 304*

@@ -1,6 +1,7 @@
 ---
 title: "Siege Weapons"
 aliases: ["Siege Weapons"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Guns & Gears (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1622"
 citation: "Guns & Gears (Remastered) pg. 72"
-socialImage: og-image.png
 ---
 
 # Siege Weapons
@@ -30,7 +30,7 @@ All siege weapons need more than one person to operate them, working together as
 
 > [!pf2-sidebar] BUILDING SIEGE WEAPONS
 >
-> Just like other items, building a siege weapon requires using the Craft activity. However, due to the size, it typically takes more than one person to prepare some of the materials (such as felling tall trees and working them to create a trebuchet arm) and assemble the weapon. You typically need a number of workers equal to the minimum crew size for the siege weapon to complete it in the standard amount of time. It can take much longer or even be impossible for a smaller team or individual. Due to their specific uses, you might be able to use Engineering Lore or Warfare Lore instead of the Crafting skill when you Craft a siege weapon. The GM determines whether you can—some strange or more complex engines might not be constructible with Warfare Lore.
+> Just like other items, building a siege weapon requires using the [Craft](https://2e.aonprd.com/Actions.aspx?ID=43) activity. However, due to the size, it typically takes more than one person to prepare some of the materials (such as felling tall trees and working them to create a trebuchet arm) and assemble the weapon. You typically need a number of workers equal to the minimum crew size for the siege weapon to complete it in the standard amount of time. It can take much longer or even be impossible for a smaller team or individual. Due to their specific uses, you might be able to use Engineering [[srd/pf2e/compendium/rules-elements/skills/skills|Lore]] or Warfare Lore instead of the [[srd/pf2e/compendium/rules-elements/skills/skills|Crafting]] skill when you Craft a siege weapon. The GM determines whether you can—some strange or more complex engines might not be constructible with Warfare Lore.
 
 > [!pf2-sidebar] DISASSEMBLING AND REASSEMBLING
 >
@@ -38,7 +38,7 @@ All siege weapons need more than one person to operate them, working together as
 
 > [!pf2-sidebar] DISABLING SIEGE WEAPONS
 >
-> Disable a Device can be used to deactivate most siege weapons that have complex moving parts. This typically doesn't require thieves' tools, takes one success, and uses the standard DC for the item level of the siege weapon.
+> [Disable a Device](https://2e.aonprd.com/Actions.aspx?ID=69) can be used to deactivate most siege weapons that have complex moving parts. This typically doesn't require [thieves' tools](https://2e.aonprd.com/Equipment.aspx?ID=58), takes one success, and uses the standard DC for the item level of the siege weapon.
 
 ## Mounted Siege Weapons
 
@@ -60,13 +60,13 @@ Any member of the crew can take the Load activity to prepare the weapon, resetti
 
 ### Launching
 
-A member of the crew adjacent to the siege weapon's release can use the Launch action to shoot the siege weapon. After the weapon has been Launched, it must be Loaded fully to be Launched again. No matter how quickly it's Loaded, a single siege weapon can never be Launched more than once per round. The aim remains where it was, and the weapon needs to be Aimed again only if the crew wishes to change the aim. Launch [one-action] (attack) **Requirements** The siege weapon is Loaded; **Effect** The siege weapon launches its payload, which targets or has an area where the weapon is Aimed.
+A member of the crew adjacent to the siege weapon's release can use the Launch action to shoot the siege weapon. After the weapon has been Launched, it must be Loaded fully to be Launched again. No matter how quickly it's Loaded, a single siege weapon can never be Launched more than once per round. The aim remains where it was, and the weapon needs to be Aimed again only if the crew wishes to change the aim. Launch [one-action] ([attack](https://2e.aonprd.com/Traits.aspx?ID=15)) **Requirements** The siege weapon is Loaded; **Effect** The siege weapon launches its payload, which targets or has an area where the weapon is Aimed.
 
 - **Single target** Targets a creature, unattended object, or structure in the square the weapon is Aimed at
 - **Burst** Centered on the grid corner the weapon is Aimed at
 - **Cone or Line** Directed where the weapon is Aimed
 
-Each creature, unattended object, and structure the siege weapon is Aimed at or that is in the area takes the amount of damage listed in the Launch action, with a basic saving throw against the DC listed in the stat block. If you're trained in any weapons of the category listed in the siege weapon's proficiency entry, you can use your class DC instead of the weapon's default save DC. The weapon's range increment penalty applies to the Launch DC, as does your multiple attack penalty. If the weapon is mounted on a vehicle, the penalties for attacking from a vehicle in combat also apply. Though a siege weapon doesn't require an attack roll, the Launch action still has the attack trait and therefore counts toward your multiple attack penalty.
+Each creature, unattended object, and structure the siege weapon is Aimed at or that is in the area takes the amount of damage listed in the Launch action, with a basic saving throw against the DC listed in the stat block. If you're trained in any weapons of the category listed in the siege weapon's proficiency entry, you can use your class DC instead of the weapon's default save DC. The weapon's range increment penalty applies to the Launch DC, as does your multiple attack penalty. If the weapon is mounted on a vehicle, the [penalties for attacking from a vehicle in combat](https://2e.aonprd.com/Rules.aspx?ID=1294) also apply. Though a siege weapon doesn't require an attack roll, the Launch action still has the attack trait and therefore counts toward your multiple attack penalty.
 
 ### Moving a Mounted Siege Weapon
 
@@ -82,7 +82,7 @@ Portable siege weapons require moving in concert and making a single attack supp
 
 ### Acting in Concert
 
-Because portable siege weapons require coordination, operating one requires following a crew leader. The rest of the crew must Ready an action to be taken when the crew leader calls to attack with the siege weapon. The siege weapon's special activity lists what action they need to Ready. For example, all of the crew operating a battering ram—except the crew leader—need to Ready to Stride. Each portable siege weapon has a special activity the crew leader can take if all the rest of the crew have Readied the necessary action. The number of actions it requires and the other specifics can vary greatly depending on what it takes to operate the weapon. It typically requires the crew leader to make a Strike.
+Because portable siege weapons require coordination, operating one requires following a crew leader. The rest of the crew must [Ready](https://2e.aonprd.com/Actions.aspx?ID=82) an action to be taken when the crew leader calls to attack with the siege weapon. The siege weapon's special activity lists what action they need to Ready. For example, all of the crew operating a battering ram—except the crew leader—need to Ready to Stride. Each portable siege weapon has a special activity the crew leader can take if all the rest of the crew have Readied the necessary action. The number of actions it requires and the other specifics can vary greatly depending on what it takes to operate the weapon. It typically requires the crew leader to make a Strike.
 
 ### Striking
 
@@ -90,7 +90,7 @@ A Strike with a siege weapon uses the crew leader's attack bonus. The siege weap
 
 ### Bulk
 
-A portable siege weapon has a Bulk entry. This is primarily used when someone is carrying the portable siege weapon around. When it's being used by a crew, this Bulk is distributed among them as they see fit, and it's usually not worth tracking the Bulk unless they're already heavily loaded. If characters try to have more than one of them carry the portable siege weapon when it's not being used (dragging it around a dungeon, for example), this is cumbersome, and they're encumbered due to the challenge of constantly coordinating their movement.
+A portable siege weapon has a Bulk entry. This is primarily used when someone is carrying the portable siege weapon around. When it's being used by a crew, this Bulk is distributed among them as they see fit, and it's usually not worth tracking the Bulk unless they're already heavily loaded. If characters try to have more than one of them carry the portable siege weapon when it's not being used (dragging it around a dungeon, for example), this is cumbersome, and they're [[srd/pf2e/compendium/rules-elements/Conditions|encumbered]] due to the challenge of constantly coordinating their movement.
 
 ## Siege Weapon Statistics
 

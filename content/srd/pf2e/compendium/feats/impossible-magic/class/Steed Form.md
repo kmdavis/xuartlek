@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Evolution`  `Summoner`
 
-Your eidolon changes to make them particularly effective as your mount. While you ride them, you get your full number of actions each round instead of reducing them to 2. This applies only when you ride your eidolon, not when anyone else does (see the Riding Sapient Creatures sidebar). Your eidolon still must be at least one size category larger than you to ride them. Since you work together to move, your eidolon’s move actions while you’re mounted gain the [[srd/pf2e/compendium/rules-elements/traits/impossible-magic/tandem|tandem]] trait.
+Your eidolon changes to make them particularly effective as your mount. While you ride them, you get your full number of actions each round instead of reducing them to 2. This applies only when you ride your eidolon, not when anyone else does (see the Riding Sapient Creatures sidebar). Your eidolon still must be at least one size category larger than you to ride them. Since you work together to move, your eidolon’s move actions while you’re mounted gain the [[srd/pf2e/compendium/rules-elements/traits/impossible-magic/Tandem|tandem]] trait.
 
 #### Riding Sapient Creatures
 

@@ -1,6 +1,7 @@
 ---
 title: "Encounter Mode"
 aliases: ["Encounter Mode"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2421"
 citation: "Player Core pg. 435"
-socialImage: og-image.png
 ---
 
 # Encounter Mode
@@ -26,7 +26,7 @@ An encounter is played out in a series of rounds, during which the player charac
 
 When the GM calls for it, you'll roll initiative to determine your place in the initiative order, which is the sequence in which the encounter's participants will take their turns. Rolling initiative marks the start of an encounter. More often than not, you'll roll initiative when you enter a battle.
 
-Typically, you'll roll a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Perception|Perception]] check to determine your initiative—the more aware you are of your surroundings, the more quickly you can respond. Sometimes, though, the GM might call on you to roll some other type of check. For instance, if you were [[srd/pf2e/compendium/rules-elements/actions/player-core#Avoid Notice|Avoiding Notice]] during [[srd/pf2e/books/player-core/chapter-8-playing-the-game/exploration-mode|exploration]], you'd roll a [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] check. A social encounter could call for a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] check. In most cases, you can still use Perception if you prefer.
+Typically, you'll roll a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Perception|Perception]] check to determine your initiative—the more aware you are of your surroundings, the more quickly you can respond. Sometimes, though, the GM might call on you to roll some other type of check. For instance, if you were [[srd/pf2e/compendium/rules-elements/actions/player-core#Avoid Notice|Avoiding Notice]] during [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Exploration Mode|exploration]], you'd roll a [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] check. A social encounter could call for a [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] check. In most cases, you can still use Perception if you prefer.
 
 The GM rolls initiative for anyone other than the player characters in the encounter. If these include a number of identical creatures, the GM could roll once for the group as a whole and have them take their turns within the group in any order. However, this can make battles less predictable and more dangerous, so the GM might want to roll initiative for some or all creatures individually unless it's too much of a burden.
 
@@ -44,7 +44,7 @@ Once everyone in the encounter has taken a turn, the round is over and the next 
 
 ### Step 4: End the Encounter
 
-When your foes are defeated, some sort of truce is reached, or some other event or circumstance ends the combat, the encounter is over. You and the other participants no longer follow the initiative order, and a more free-form style of play resumes, with the game typically moving into [[srd/pf2e/books/player-core/chapter-8-playing-the-game/exploration-mode|exploration mode]]. Sometimes, at the end of an encounter, the GM will award [[srd/pf2e/books/gm-core/chapter-1-running-the-game/rewards#Experience Points|Experience Points]] to the party or you’ll find [[srd/pf2e/books/gm-core/chapter-1-running-the-game/rewards#Treasure|treasure]] to divvy up.
+When your foes are defeated, some sort of truce is reached, or some other event or circumstance ends the combat, the encounter is over. You and the other participants no longer follow the initiative order, and a more free-form style of play resumes, with the game typically moving into [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Exploration Mode|exploration mode]]. Sometimes, at the end of an encounter, the GM will award [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Rewards#Experience Points|Experience Points]] to the party or you’ll find [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Rewards#Treasure|treasure]] to divvy up.
 
 ## Turns
 
@@ -56,12 +56,12 @@ Many things happen automatically at the start of your turn—it's a common point
 
 - If you created an effect lasting for a certain number of rounds, reduce the number of rounds remaining by 1. The effect ends if the duration is reduced to 0. For example, if you [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|cast a spell]] that lasts 3 rounds on yourself during your first turn of a fight, it would affect you during that turn, decrease to 2 rounds of duration at the start of your second turn, decrease to 1 round of duration at the start of your third turn, and expire at the start of your fourth turn.
 - You can use 1 free action or reaction with a trigger of “Your turn begins” or something similar.
-- If you're [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]], roll a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Recovery Checks|recovery check]].
-- Do anything else that is specified to happen at the start of your turn, such as regaining Hit Points from [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Fast Healing and Regeneration|fast healing or regeneration]].
+- If you're [[srd/pf2e/compendium/rules-elements/Conditions#Dying|dying]], roll a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Recovery Checks|recovery check]].
+- Do anything else that is specified to happen at the start of your turn, such as regaining Hit Points from [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Fast Healing and Regeneration|fast healing or regeneration]].
 
 The last step of starting your turn is always the same.
 
-- Regain your 3 actions and 1 reaction. If you haven't spent your reaction from your last turn, you lose it—you can't “save” actions or reactions from one turn to use during the next turn. Some abilities or conditions (such as [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]], [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]], and [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]]) can change how many actions you regain and whether you regain your reaction. (Details on [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|gaining and losing actions]].)
+- Regain your 3 actions and 1 reaction. If you haven't spent your reaction from your last turn, you lose it—you can't “save” actions or reactions from one turn to use during the next turn. Some abilities or conditions (such as [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]], [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]], and [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]]) can change how many actions you regain and whether you regain your reaction. (Details on [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|gaining and losing actions]].)
 
 > [!pf2-sidebar] TRACKING INITIATIVE
 >
@@ -71,11 +71,11 @@ The last step of starting your turn is always the same.
 >
 > ## Changing The Initiative Order
 >
-> Any method used to track the initiative order needs to be flexible because the order can change. A creature can use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Delay|Delay]] basic action to change its place in the order, in which case you can erase it from the list or pull its marker aside until it reenters the initiative order. When a creature gets knocked out, its initiative order also changes (see [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Getting Knocked Out|Getting Knocked Out]]). Using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Ready|Ready]] basic action doesn't change a creature's place in the initiative order, though, because the designated action becomes a reaction.
+> Any method used to track the initiative order needs to be flexible because the order can change. A creature can use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Delay|Delay]] basic action to change its place in the order, in which case you can erase it from the list or pull its marker aside until it reenters the initiative order. When a creature gets knocked out, its initiative order also changes (see [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Getting Knocked Out|Getting Knocked Out]]). Using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Ready|Ready]] basic action doesn't change a creature's place in the initiative order, though, because the designated action becomes a reaction.
 
 ### Step 2: Act
 
-You can use actions in any order you wish during your turn, but you have to complete one action or activity before beginning another; for example, you can't use a single action in the middle of performing a 2-action activity. What actions you can use often depend on your class features, skills, feats, and items, but there are default actions anyone can use, described in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions#Basic Actions|Basic Actions]]. Some effects might prevent you from acting. If you can't act, you can't use any actions, including reactions and free actions.
+You can use actions in any order you wish during your turn, but you have to complete one action or activity before beginning another; for example, you can't use a single action in the middle of performing a 2-action activity. What actions you can use often depend on your class features, skills, feats, and items, but there are default actions anyone can use, described in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Actions#Basic Actions|Basic Actions]]. Some effects might prevent you from acting. If you can't act, you can't use any actions, including reactions and free actions.
 
 If you begin a 2-action or 3-action activity on your turn, you must be able to complete it on your turn. You can't, for example, begin to [[srd/pf2e/compendium/rules-elements/actions/player-core#High Jump|High Jump]] using your final action on one turn and then complete it as your first action on your next turn.
 
@@ -86,13 +86,13 @@ Once you have spent all 3 of your actions, your turn ends (as described in [[#St
 Once you've done all the things you want to do with the actions you have available, you reach the end of your turn. Take the following steps in any order you choose. Play then proceeds to the next creature in the initiative order.
 
 - End any effects that last until the end of your turn. For example, spells with a sustained duration end at the end of your turn unless you used the [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain a Spell]] action during your turn to extend them. Some effects caused by enemies might also last through a certain number of your turns, and you decrease the remaining duration by 1 during this step, ending the effect if its duration is reduced to 0.
-- If you have a [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] condition, you take the damage at this point. After you take the damage, you can attempt the flat check to end the persistent damage. You then attempt any saving throws for ongoing [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions|afflictions]]. Many other conditions change at the end of your turn, such as the [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition decreasing in severity. These take place after you've taken any persistent damage, attempted flat checks to end the persistent damage, and attempted saves against any afflictions.
+- If you have a [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent damage]] condition, you take the damage at this point. After you take the damage, you can attempt the flat check to end the persistent damage. You then attempt any saving throws for ongoing [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions|afflictions]]. Many other conditions change at the end of your turn, such as the [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] condition decreasing in severity. These take place after you've taken any persistent damage, attempted flat checks to end the persistent damage, and attempted saves against any afflictions.
 - You can use 1 free action or reaction with a trigger of “Your turn ends” or something similar.
 - Resolve anything else specified to happen at the end of your turn.
 
 ## Activities in Encounters
 
-Activities that take longer than a turn can’t normally be performed during an encounter. Spells with a casting time of 1 minute or more are a common example, as are several skill actions. When you commit to an activity during your turn in an encounter, you commit to spending all of the actions it requires. If the activity gets interrupted partway through, you lose all of the actions you would have spent on that activity. Activities are described on [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions#Activities|here]].
+Activities that take longer than a turn can’t normally be performed during an encounter. Spells with a casting time of 1 minute or more are a common example, as are several skill actions. When you commit to an activity during your turn in an encounter, you commit to spending all of the actions it requires. If the activity gets interrupted partway through, you lose all of the actions you would have spent on that activity. Activities are described on [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Actions#Activities|here]].
 
 ## Reactions in Encounters
 
@@ -102,25 +102,25 @@ Your reactions let you respond immediately to what’s happening around you. The
 
 ### Mounted Combat
 
-You can ride some creatures into combat. As noted in the [[srd/pf2e/compendium/rules-elements/actions/player-core#Mount|Mount]] specialty basic action, your mount needs to be willing and at least one size larger than you. Your mount acts on your initiative. You must use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] action to get your mount to spend its actions. If you don't, the animal wastes its actions. If you have the [[srd/pf2e/compendium/feats/player-core/general/ride|Ride]] general feat, you succeed automatically when you Command an Animal that's your mount.
+You can ride some creatures into combat. As noted in the [[srd/pf2e/compendium/rules-elements/actions/player-core#Mount|Mount]] specialty basic action, your mount needs to be willing and at least one size larger than you. Your mount acts on your initiative. You must use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] action to get your mount to spend its actions. If you don't, the animal wastes its actions. If you have the [[srd/pf2e/compendium/feats/player-core/general/Ride|Ride]] general feat, you succeed automatically when you Command an Animal that's your mount.
 
-For example, if you are mounted on a [[srd/pf2e/compendium/gm/creature-families/horse|horse]] and you make three attacks, your horse would remain stationary since you didn't command it. If you instead spent your first action to Command an Animal and succeeded, you could get your mount to [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]]. You could spend your next action to attack or to command the horse to attack, but not both.
+For example, if you are mounted on a [[srd/pf2e/compendium/gm/creature-families/Horse|horse]] and you make three attacks, your horse would remain stationary since you didn't command it. If you instead spent your first action to Command an Animal and succeeded, you could get your mount to [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]]. You could spend your next action to attack or to command the horse to attack, but not both.
 
 #### Mounted Attacks
 
-You and your mount fight as a unit. Consequently, you share a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Multiple Attack Penalty|multiple attack penalty]]. For example, if you [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] and then [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] to have your mount Strike, your mount's attack takes a –5 multiple attack penalty.
+You and your mount fight as a unit. Consequently, you share a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Multiple Attack Penalty|multiple attack penalty]]. For example, if you [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] and then [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] to have your mount Strike, your mount's attack takes a –5 multiple attack penalty.
 
-You occupy every square of your mount's space for the purpose of making attacks. If you were a Medium creature on a Large mount, you could attack a creature on one side of your mount, then attack on the opposite side. On a Medium or smaller mount, use the normal reach of an attack. On a Large or Huge mount, you can attack any square adjacent to the mount if you have 5- or 10-foot reach, or any square within 10 feet of the mount (including diagonally) if you have 15-foot reach. Use the adjusted reach for determining [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Flanking|flanking]] and other rules that depend on reach.
+You occupy every square of your mount's space for the purpose of making attacks. If you were a Medium creature on a Large mount, you could attack a creature on one side of your mount, then attack on the opposite side. On a Medium or smaller mount, use the normal reach of an attack. On a Large or Huge mount, you can attack any square adjacent to the mount if you have 5- or 10-foot reach, or any square within 10 feet of the mount (including diagonally) if you have 15-foot reach. Use the adjusted reach for determining [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Flanking|flanking]] and other rules that depend on reach.
 
 #### Mounted Defenses
 
 Attackers can target either you or your mount. An area effect affects both of you as long as you're both in the area. You are in an attacker's reach or range if any square of your mount is within reach or range. Because your mount is larger than you and you share its space, you have lesser cover against attacks targeting you when you're mounted if the mount would be in the way (as determined by the GM).
 
-Because you can't move your body as freely while you're riding a mount, you take a –2 circumstance penalty to Reflex saves while mounted. Additionally, the only [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action you can use is the [[srd/pf2e/compendium/rules-elements/actions/player-core#Mount|Mount]] action to dismount.
+Because you can't move your body as freely while you're riding a mount, you take a –2 circumstance penalty to Reflex saves while mounted. Additionally, the only [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] action you can use is the [[srd/pf2e/compendium/rules-elements/actions/player-core#Mount|Mount]] action to dismount.
 
 ### Aerial Combat
 
-Many monsters can fly, and PCs can use spells and items to gain the ability to fly. Flying creatures have to use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] action to move through the air. Performing an especially tricky maneuver might require using [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Maneuver in Flight|Maneuver in Flight]]. Creatures might fall from the sky, using the [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Falling|falling]] rules. At the GM’s discretion, some ground-based actions might not work in the air. For instance, a flying creature couldn’t [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]].
+Many monsters can fly, and PCs can use spells and items to gain the ability to fly. Flying creatures have to use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] action to move through the air. Performing an especially tricky maneuver might require using [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Maneuver in Flight|Maneuver in Flight]]. Creatures might fall from the sky, using the [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Falling|falling]] rules. At the GM’s discretion, some ground-based actions might not work in the air. For instance, a flying creature couldn’t [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]].
 
 > [!pf2-sidebar] THREE-DIMENSIONAL COMBAT
 >
@@ -139,15 +139,15 @@ Many monsters can fly, and PCs can use spells and items to gain the ability to f
 
 Use these rules for battles in water or underwater:
 
-- You're [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] unless you have a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Swim Speed|swim Speed]].
-- You gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] 5 to [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]].
+- You're [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] unless you have a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Swim Speed|swim Speed]].
+- You gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistance]] 5 to [[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|acid]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]].
 - You take a –2 circumstance penalty to your attack roll for bludgeoning or slashing attacks that pass through water.
-- Ranged attacks made by an underwater creature or against an underwater target have their [[srd/pf2e/books/player-core/chapter-8-playing-the-game/effects#Range and Reach|range increments]] halved.
-- You can't cast fire spells or use actions with the fire trait underwater. As normal for how traits work, any part of the effect that's unrelated to fire still works. For example, an attack with a [[srd/pf2e/compendium/equipment/runes/flaming|flaming]] battle axe could still deal its physical damage, just not its fire damage.
+- Ranged attacks made by an underwater creature or against an underwater target have their [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Effects#Range and Reach|range increments]] halved.
+- You can't cast fire spells or use actions with the fire trait underwater. As normal for how traits work, any part of the effect that's unrelated to fire still works. For example, an attack with a [[srd/pf2e/compendium/equipment/runes/Flaming|flaming]] battle axe could still deal its physical damage, just not its fire damage.
 - At the GM's discretion, some ground-based actions might not work underwater or while floating.
 
 #### Drowning and Suffocating
 
 You can hold your breath for a number of rounds equal to 5 + your Constitution modifier. Reduce your remaining air by 1 round at the end of each of your turns, or by 2 if you attacked or cast any spells that turn. You also lose 1 round worth of air each time you are critically hit or critically fail a save against a damaging effect. If you speak (including [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Casting a Spell]]) you lose all remaining air.
 
-When you run out of air, you fall [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] and start suffocating. You can't recover from being unconscious and must attempt a DC 20 Fortitude save at the end of each of your turns. On a failure, you take 1d10 damage, and on a critical failure, you die. On each check after the first, the DC increases by 5 and the damage by 1d10; these increases are cumulative. Once your access to air is restored, you stop suffocating and are no longer unconscious (unless you're at 0 Hit Points).
+When you run out of air, you fall [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]] and start suffocating. You can't recover from being unconscious and must attempt a DC 20 Fortitude save at the end of each of your turns. On a failure, you take 1d10 damage, and on a critical failure, you die. On each check after the first, the DC increases by 5 and the damage by 1d10; these increases are cumulative. Once your access to air is restored, you stop suffocating and are no longer unconscious (unless you're at 0 Hit Points).

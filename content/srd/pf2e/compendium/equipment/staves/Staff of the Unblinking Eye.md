@@ -32,7 +32,7 @@ The stone head piece of this smooth wooden staff is carved to look like a lidles
 
 ---
 
-**Cantrip** [[srd/pf2e/compendium/spells/cantrips/detect-magic|_detect magic_]]**1st** [[srd/pf2e/compendium/spells/rank-1/sure-strike|_sure strike_]]**2nd** [[srd/pf2e/compendium/spells/rank-2/darkvision|_darkvision_]], [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]], [[srd/pf2e/compendium/spells/rank-2/translate|_translate_]]
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/Detect Magic|_detect magic_]]**1st** [[srd/pf2e/compendium/spells/rank-1/Sure Strike|_sure strike_]]**2nd** [[srd/pf2e/compendium/spells/rank-2/Darkvision|_darkvision_]], [[srd/pf2e/compendium/spells/rank-2/See the Unseen|_see the unseen_]], [[srd/pf2e/compendium/spells/rank-2/Translate|_translate_]]
 
 ### Staff of the Unblinking Eye (Greater)
 
@@ -40,7 +40,7 @@ The stone head piece of this smooth wooden staff is carved to look like a lidles
 
 ---
 
-**3rd** darkvision, [[srd/pf2e/compendium/spells/rank-3/mind-reading|_mind reading_]]**4th** [[srd/pf2e/compendium/spells/rank-4/clairvoyance|_clairvoyance_]], [[srd/pf2e/compendium/spells/rank-4/detect-scrying|_detect scrying_]], [[srd/pf2e/compendium/spells/rank-4/telepathy|_telepathy_]]
+**3rd** darkvision, [[srd/pf2e/compendium/spells/rank-3/Mind Reading|_mind reading_]]**4th** [[srd/pf2e/compendium/spells/rank-4/Clairvoyance|_clairvoyance_]], [[srd/pf2e/compendium/spells/rank-4/Detect Scrying|_detect scrying_]], [[srd/pf2e/compendium/spells/rank-4/Telepathy|_telepathy_]]
 
 ### Staff of the Unblinking Eye (Major)
 
@@ -48,6 +48,6 @@ The stone head piece of this smooth wooden staff is carved to look like a lidles
 
 ---
 
-**5th** [[srd/pf2e/compendium/spells/rank-5/mind-probe|_mind probe_]], [[srd/pf2e/compendium/spells/rank-5/scouting-eye|_scouting eye_]]**6th** telepathy, [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]]
+**5th** [[srd/pf2e/compendium/spells/rank-5/Mind Probe|_mind probe_]], [[srd/pf2e/compendium/spells/rank-5/Scouting Eye|_scouting eye_]]**6th** telepathy, [[srd/pf2e/compendium/spells/rank-6/Truesight|_truesight_]]
 
 *Source: GM Core p. 281*

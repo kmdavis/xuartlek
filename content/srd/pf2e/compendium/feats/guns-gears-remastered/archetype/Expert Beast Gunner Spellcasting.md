@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/beast-gunner|Beast Gunner]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/basic-beast-gunner-spellcasting|Basic Beast Gunner Spellcasting]] or [[srd/pf2e/compendium/feats/player-core/archetype/basic-wizard-spellcasting|Basic Wizard Spellcasting]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Beast Gunner|Beast Gunner]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Basic Beast Gunner Spellcasting|Basic Beast Gunner Spellcasting]] or [[srd/pf2e/compendium/feats/player-core/archetype/Basic Wizard Spellcasting|Basic Wizard Spellcasting]]
 
-You've learned the deeper secrets of beast guns, making you an expert in the magic they grant you. You gain the expert spellcasting benefits.
+You've learned the deeper secrets of [beast guns](https://2e.aonprd.com/Equipment.aspx?Category=37&Subcategory=74), making you an expert in the magic they grant you. You gain the expert spellcasting benefits.
 
 ### Expert Beast Gunner Spellcasting leads to...
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/master-beast-gunner-spellcasting|Master Beast Gunner Spellcasting]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Master Beast Gunner Spellcasting|Master Beast Gunner Spellcasting]]
 
 *Source: Guns & Gears (Remastered) p. 131*

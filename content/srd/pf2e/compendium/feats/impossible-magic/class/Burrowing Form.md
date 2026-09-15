@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Evolution`  `Summoner`
 
-Your eidolon can burrow through loose dirt. Your eidolon gains a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Burrow Speed|burrow Speed]] of 15 feet.
+Your eidolon can burrow through loose dirt. Your eidolon gains a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Burrow Speed|burrow Speed]] of 15 feet.
 
 *Source: Impossible Magic p. 83*

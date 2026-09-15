@@ -17,6 +17,6 @@ You weren't born with the power to cast spells, nor have you spent years dedicat
 
  Rather than interacting with you directly, your patron works through a familiar—a mystical creature that teaches you, serves as the conduit for your patron's magic, and maybe even keeps an eye on you to ensure you're furthering your patron's nebulous ends.
 
- At 1st level, choose your patron, which determines your spellcasting tradition and grants you the skill for that tradition of magic, your first witch's lesson and a unique familiar ability. The patron themes can be found [[srd/pf2e/compendium/character/patrons|here]].
+ At 1st level, choose your patron, which determines your spellcasting tradition and grants you the skill for that tradition of magic, your first witch's lesson and a unique familiar ability. The patron themes can be found [[srd/pf2e/compendium/character/Patrons|here]].
 
 *Source: Player Core p. 178*

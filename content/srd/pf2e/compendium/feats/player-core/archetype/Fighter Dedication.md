@@ -16,13 +16,13 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`  `Multiclass`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/fighter|Fighter]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Fighter|Fighter]]
 - **Prerequisites**: Strength +2; Dexterity +2
 
 You become trained in martial weapons. You become trained in your choice of Acrobatics or Athletics; if you are already trained in both of these skills, you instead become trained in a skill of your choice. You become trained in fighter class DC.
 
 ### Fighter Dedication leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/basic-maneuver|Basic Maneuver]], [[srd/pf2e/compendium/feats/player-core/archetype/diverse-weapon-expert|Diverse Weapon Expert]], [[srd/pf2e/compendium/feats/player-core/archetype/fighter-resiliency|Fighter Resiliency]], [[srd/pf2e/compendium/feats/player-core/archetype/reactive-striker|Reactive Striker]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Basic Maneuver|Basic Maneuver]], [[srd/pf2e/compendium/feats/player-core/archetype/Diverse Weapon Expert|Diverse Weapon Expert]], [[srd/pf2e/compendium/feats/player-core/archetype/Fighter Resiliency|Fighter Resiliency]], [[srd/pf2e/compendium/feats/player-core/archetype/Reactive Striker|Reactive Striker]]
 
 *Source: Player Core p. 219*

@@ -21,6 +21,6 @@ You use an attack with one weapon to distract your foe from a second attack comi
 
 ### Twin Feint leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/twin-distraction|Twin Distraction]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Twin Distraction|Twin Distraction]]
 
 *Source: Player Core p. 170*

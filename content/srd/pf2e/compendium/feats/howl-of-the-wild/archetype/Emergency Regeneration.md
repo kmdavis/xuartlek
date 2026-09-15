@@ -18,11 +18,11 @@ socialImage: og-image.png
 
 `Archetype`  `Healing`  `Primal`  `Vitality`  `Positive`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wild-mimic|Wild Mimic]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wild Mimic|Wild Mimic]]
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/wild-mimic-dedication|Wild Mimic Dedication]]; you have deactivated a creature’s regeneration for at least 1 round or have identified a creature with regeneration in combat
-- **Trigger**: You’re reduced to 0 hit points from damage that’s neither [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] nor [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]].
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Wild Mimic Dedication|Wild Mimic Dedication]]; you have deactivated a creature’s regeneration for at least 1 round or have identified a creature with regeneration in combat
+- **Trigger**: You’re reduced to 0 hit points from damage that’s neither [[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|acid]] nor [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]].
 
-You have battled against foes whose bodies naturally regenerate, and while yours doesn't do so all the time, it can happen in a pinch. You gain the effects of a 7th-rank [[srd/pf2e/compendium/spells/rank-7/regenerate|_regenerate_]] spell. At 20th level, you gain the effects of a 9th-rank _regenerate_ instead.
+You have battled against foes whose bodies naturally regenerate, and while yours doesn't do so all the time, it can happen in a pinch. You gain the effects of a 7th-rank [[srd/pf2e/compendium/spells/rank-7/Regenerate|_regenerate_]] spell. At 20th level, you gain the effects of a 9th-rank _regenerate_ instead.
 
 *Source: Howl of the Wild p. 81*

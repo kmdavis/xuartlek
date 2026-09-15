@@ -19,6 +19,6 @@ socialImage: og-image.png
 - **Trigger**: A creature within 30 feet of you targets you, and you can see the attacker.
 - **Requirements**: You are in dim or bright light.
 
-Your body's natural luster has been polished to a gleaming shine. You use this to reflect light back into your enemy's eyes, disrupting its aim and focus; it must succeed at a Reflex save against your class DC or be [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] until the end of your next turn.
+Your body's natural luster has been polished to a gleaming shine. You use this to reflect light back into your enemy's eyes, disrupting its aim and focus; it must succeed at a Reflex save against your class DC or be [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] until the end of your next turn.
 
 *Source: Rage of Elements p. 52*

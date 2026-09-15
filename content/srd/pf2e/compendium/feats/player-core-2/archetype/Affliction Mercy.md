@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Champion`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/blessed-one|Blessed One]] (Level 14)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/mercy|Mercy]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Blessed One|Blessed One]] (Level 14)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Mercy|Mercy]]
 
-The divine grace that flows through you grants reprieve from an affliction. Add mercy of recuperation to the types of mercy you can provide, allowing you to counteract an affliction instead of an effect causing a condition (typically an affliction is a [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]).
+The divine grace that flows through you grants reprieve from an affliction. Add mercy of recuperation to the types of mercy you can provide, allowing you to counteract an affliction instead of an effect causing a condition (typically an affliction is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]]).
 
 *Source: Player Core 2 p. 97*

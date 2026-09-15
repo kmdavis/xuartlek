@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Manipulate`  `Move`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/arshea|Arshea]], Chinostes (Nightwarden), Chinostes (Redeemer), [[srd/pf2e/compendium/deities/covenants/faith-in-the-fallen|Faith in the Fallen]], [[srd/pf2e/compendium/deities/demon-lords/gogunta|Gogunta]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Irori]], Jin Li, [[srd/pf2e/compendium/deities/demon-lords/kabriri|Kabriri]], Sun Wukong, The Divine Dare
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/Arshea|Arshea]], Chinostes (Nightwarden), Chinostes (Redeemer), [[srd/pf2e/compendium/deities/covenants/Faith in the Fallen|Faith in the Fallen]], [[srd/pf2e/compendium/deities/demon-lords/Gogunta|Gogunta]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Irori|Irori]], Jin Li, [[srd/pf2e/compendium/deities/demon-lords/Kabriri|Kabriri]], Sun Wukong, The Divine Dare
 
 Your legs surge with strength, ready to leap high and far. You jump 30 feet in any direction without touching the ground. You must land on a space of solid ground within 30 feet of you, or else you fall after using your next action.
 

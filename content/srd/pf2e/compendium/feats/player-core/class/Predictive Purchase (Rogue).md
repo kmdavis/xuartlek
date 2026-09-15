@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Rogue`
 
-You somehow manage to have just the thing for the situation. You gain the [[srd/pf2e/compendium/feats/player-core/general/prescient-planner|Prescient Planner]] and [[srd/pf2e/compendium/feats/player-core/general/prescient-consumable|Prescient Consumable]] feats . When using Prescient Planner, you can draw the item from your backpack (or a similar container) as a 2-action activity, instead of taking 1 minute to do so.
+You somehow manage to have just the thing for the situation. You gain the [[srd/pf2e/compendium/feats/player-core/general/Prescient Planner|Prescient Planner]] and [[srd/pf2e/compendium/feats/player-core/general/Prescient Consumable|Prescient Consumable]] feats . When using Prescient Planner, you can draw the item from your backpack (or a similar container) as a 2-action activity, instead of taking 1 minute to do so.
 
 ### Predictive Purchase (Rogue) leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/implausible-purchase-rogue|Implausible Purchase (Rogue)]]
+[[srd/pf2e/compendium/feats/player-core/class/Implausible Purchase (Rogue)|Implausible Purchase (Rogue)]]
 
 *Source: Player Core p. 174*

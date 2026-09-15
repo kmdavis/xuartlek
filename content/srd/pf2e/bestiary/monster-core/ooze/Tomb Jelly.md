@@ -30,7 +30,7 @@ perception:
     desc: "+7; motion sense (precise) 60 feet, no vision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +13"
 abilityMods: [6, -5, 6, -5, 0, -5]
 abilities_top:
   - name: "Motion Sense"
@@ -42,18 +42,18 @@ armorclass:
 hp: 150
 health:
   - name: "HP"
-    desc: "150; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], bleed, critical hits, [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], precision, slashing, [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]"
+    desc: "150; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|acid]], bleed, critical hits, [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], precision, slashing, [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]]"
 speed: "15 feet, climb 10 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ pseudopod +15 __Damage__ 1d8+6 bludgeoning plus 1d6 acid and tomb curse"
 abilities_bot:
   - name: "Bound in Death"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/healing|Healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|Void]]) The tomb jelly splatters some of its substance on a willing [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] creature within its reach. The target regains 5 HP and its melee Strikes get the benefits of tomb curse until the end of its next turn."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Healing|Healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|Void]]) The tomb jelly splatters some of its substance on a willing [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]] creature within its reach. The target regains 5 HP and its melee Strikes get the benefits of tomb curse until the end of its next turn."
   - name: "Flesh-dissolving Acid"
     desc: "A tomb jelly's acid damages only flesh."
   - name: "Tomb Curse"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|Void]]) A creature hit by a tomb jelly's pseudopod takes 1d6 persistent void damage. If the creature dies while it has this persistent damage, its corpse is affected by [[srd/pf2e/compendium/spells/rank-2/peaceful-rest|_peaceful rest_]], except the tomb jelly can still dissolve its flesh."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|Void]]) A creature hit by a tomb jelly's pseudopod takes 1d6 persistent void damage. If the creature dies while it has this persistent damage, its corpse is affected by [[srd/pf2e/compendium/spells/rank-2/Peaceful Rest|_peaceful rest_]], except the tomb jelly can still dissolve its flesh."
 sourcebook: "_Monster Core_, page 257."
 ```
 

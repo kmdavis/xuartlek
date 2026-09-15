@@ -27,8 +27,8 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Firearm
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
 This weapon is a specialty of the smiths of Alkenstar. The pepperbox has three barrels that each hold a single shot, and the shooter can manually rotate the whole barrel assembly to align a loaded barrel with the firing mechanism.
 
@@ -38,6 +38,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/liars-gun|Liar's Gun]], Liar's Gun, [[srd/pf2e/compendium/equipment/weapons/spark-dancer|Spark Dancer]], Spark Dancer
+[[srd/pf2e/compendium/equipment/weapons/Liar's Gun|Liar's Gun]], Liar's Gun, [[srd/pf2e/compendium/equipment/weapons/Spark Dancer|Spark Dancer]], Spark Dancer
 
 *Source: Guns & Gears (Remastered) p. 153*

@@ -24,41 +24,41 @@ Intelligence or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/bo-staff|Bo Staff]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Bo Staff|Bo Staff]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Fate|Fate]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Magic|Magic]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Fate|Fate]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Magic|Magic]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Glyph|Glyph]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Glyph|Glyph]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/message-rune|Message Rune]]
+[[srd/pf2e/compendium/spells/rank-1/Message Rune|Message Rune]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/blur|Blur]]
+[[srd/pf2e/compendium/spells/rank-2/Blur|Blur]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/hypercognition|Hypercognition]]
+[[srd/pf2e/compendium/spells/rank-3/Hypercognition|Hypercognition]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/vapor-form|Vapor Form]]
+[[srd/pf2e/compendium/spells/rank-4/Vapor Form|Vapor Form]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/subconscious-suggestion|Subconscious Suggestion]]
+[[srd/pf2e/compendium/spells/rank-5/Subconscious Suggestion|Subconscious Suggestion]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/never-mind|Never Mind]]
+[[srd/pf2e/compendium/spells/rank-6/Never Mind|Never Mind]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/contingency|Contingency]]
+[[srd/pf2e/compendium/spells/rank-7/Contingency|Contingency]]
 
 - **8th**
-[[srd/pf2e/compendium/spells/rank-8/disappearance|Disappearance]]
+[[srd/pf2e/compendium/spells/rank-8/Disappearance|Disappearance]]
 
 - **9th**
-[[srd/pf2e/compendium/spells/rank-9/phantasmagoria|Phantasmagoria]]
+[[srd/pf2e/compendium/spells/rank-9/Phantasmagoria|Phantasmagoria]]
 
 *Source: Divine Mysteries p. 318*

@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Sonic`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Destruction|Destruction]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]]
 - **Area**: 15-foot cone
 - **Defense**: basic Fortitude
 

@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: Seek those who break oaths and enforce just restitution, uphold your promises
 - **Anathema**: Lie, dishonor yourself or your family, shirk your duties, break an oath
 - **Area of Concern**: Duty, honor, promises
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/stones-blood|Stone's Blood]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Stone's Blood|Stone's Blood]]
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Strength or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/light-hammer|Light Hammer]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/Light Hammer|Light Hammer]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Truth|Truth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Truth|Truth]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/phantasmal-minion|Phantasmal Minion]]
+[[srd/pf2e/compendium/spells/rank-1/Phantasmal Minion|Phantasmal Minion]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]]
+[[srd/pf2e/compendium/spells/rank-4/Suggestion|Suggestion]]
 
 - **8th**
-[[srd/pf2e/compendium/spells/rank-8/unrelenting-observation|Unrelenting Observation]]
+[[srd/pf2e/compendium/spells/rank-8/Unrelenting Observation|Unrelenting Observation]]
 
 *Source: Divine Mysteries p. 304*

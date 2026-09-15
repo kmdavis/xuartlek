@@ -32,10 +32,10 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Muan|Muan]], Rasu, Utopian"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Muan|Muan]], Rasu, Utopian"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +10, Gardening Lore +11, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +10, Gardening Lore +11, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +10, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +11"
 abilityMods: [0, 4, 3, 0, 3, 1]
 ac: 17
 armorclass:
@@ -44,7 +44,7 @@ armorclass:
 hp: 50
 health:
   - name: "HP"
-    desc: "50; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 3, [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] 3"
+    desc: "50; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] 3, [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]] 3"
 abilities_mid:
   - name: "Scurry"
     desc: "⬲"
@@ -55,14 +55,14 @@ abilities_mid:
 speed: "30 feet, climb 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬺ grass lash +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 5 feet]]) __Damage__ 2d6 slashing plus Knockdown"
+    desc: "⬺ grass lash +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 5 feet]]) __Damage__ 2d6 slashing plus Knockdown"
 abilities_bot:
   - name: "Take Root"
     desc: "⬺"
   - name: "Requirements"
     desc: "The lomori sprout is on the ground"
   - name: "Effect"
-    desc: "The lomori sprout plants themself in the ground. Grasping roots erupt from the ground in a 5-foot burst within 60 feet of the lomori sprout, dealing 4d4 bludgeoning damage (DC 20 basic Reflex save) to creatures in the area; on a failed save, a creature gains the [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] condition until it Escapes (DC 20). The roots also make the area difficult terrain for 1 minute, after which they decompose into fertile mulch; the area is no longer difficult terrain, and any creatures still immobilized by the roots automatically Escape."
+    desc: "The lomori sprout plants themself in the ground. Grasping roots erupt from the ground in a 5-foot burst within 60 feet of the lomori sprout, dealing 4d4 bludgeoning damage (DC 20 basic Reflex save) to creatures in the area; on a failed save, a creature gains the [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] condition until it Escapes (DC 20). The roots also make the area difficult terrain for 1 minute, after which they decompose into fertile mulch; the area is no longer difficult terrain, and any creatures still immobilized by the roots automatically Escape."
   - name: "Greater Forest Passage"
     desc: "The lomori sprout ignores difficult terrain and greater difficult terrain from plants and fungi. Get Off My Lawn! Lomori sprouts are industrious yet skittish, halting their work only to hide from intruders—if they can be bothered to stop at all. They're ceaseless in their efforts, often working together in large groups to tend vast swaths of land. Nothing rouses a lomori sprout to violence faster than damaging their garden or other creations."
 sourcebook: "_Rage of Elements_, page 215."

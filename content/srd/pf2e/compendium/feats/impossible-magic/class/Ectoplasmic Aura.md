@@ -18,6 +18,6 @@ socialImage: og-image.png
 
 `Aura`  `Concentrate`  `Necromancer`  `Occult`  `Spirit`
 
-For the next 10 minutes, you and all allies in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] from you gain a +1 circumstance bonus to AC as the air between you and your enemies thickens with ectoplasm. Additionally, any enemy that ends its turn in this aura must attempt a Fortitude saving throw against your spell DC. On a failure, it can’t use reactions until the start of its next turn. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] this aura.
+For the next 10 minutes, you and all allies in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] from you gain a +1 circumstance bonus to AC as the air between you and your enemies thickens with ectoplasm. Additionally, any enemy that ends its turn in this aura must attempt a Fortitude saving throw against your spell DC. On a failure, it can’t use reactions until the start of its next turn. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] this aura.
 
 *Source: Impossible Magic p. 41*

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Ratfolk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/cheek-pouches|Cheek Pouches]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Cheek Pouches|Cheek Pouches]]
 
 Instead of storing up to four items of Light Bulk in your cheek pouches, you can store up to 1 Bulk worth of items. The maximum size of a given item is unchanged.
 

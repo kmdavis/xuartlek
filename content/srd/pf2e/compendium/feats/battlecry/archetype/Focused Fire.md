@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/munitions-master|Munitions Master]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/munitions-master-dedication|Munitions Master Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Munitions Master|Munitions Master]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Munitions Master Dedication|Munitions Master Dedication]]
 
-You limit the blast of your shot for accuracy. You Launch your [[srd/pf2e/compendium/character/innovations#Light Mortar|light mortar]], targeting a single square. The blast is limited to the targeted square but deals one additional die of damage.
+You limit the blast of your shot for accuracy. You Launch your [[srd/pf2e/compendium/character/Innovations#Light Mortar|light mortar]], targeting a single square. The blast is limited to the targeted square but deals one additional die of damage.
 
 *Source: Battlecry! p. 65*

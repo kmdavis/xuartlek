@@ -20,6 +20,6 @@ You put all your force into a single mighty, carefully controlled blow. Make an 
 
 ### One-inch Punch leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/one-millimeter-punch|One-millimeter Punch]]
+[[srd/pf2e/compendium/feats/player-core-2/class/One-millimeter Punch|One-millimeter Punch]]
 
 *Source: Player Core 2 p. 122*

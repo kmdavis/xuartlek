@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/battle-harbinger|Battle Harbinger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/battle-harbinger-dedication|Battle Harbinger Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Battle Harbinger|Battle Harbinger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Battle Harbinger Dedication|Battle Harbinger Dedication]]
 
-You’ve expanded your divine capabilities, granting you magic that better supports your combat focus. You gain two special 2nd-rank creed spell slots, which can be used to prepare [[srd/pf2e/compendium/spells/rank-2/resist-energy|_resist energy_]], [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]], [[srd/pf2e/compendium/spells/rank-1/sure-strike|_sure strike_]], and [[srd/pf2e/compendium/spells/rank-2/water-breathing|_water breathing_]] as divine spells. At 10th level, the extra slots increase to 3rd rank and you add [[srd/pf2e/compendium/spells/rank-3/haste|_haste_]] and [[srd/pf2e/compendium/spells/rank-3/heroism|_heroism_]] to the spells you can prepare in your creed spell slots. At 14th level, the extra slots increase to 4th rank and you add [[srd/pf2e/compendium/spells/rank-4/fly|_fly_]] and [[srd/pf2e/compendium/spells/rank-4/unfettered-movement|_unfettered movement_]].
+You’ve expanded your divine capabilities, granting you magic that better supports your combat focus. You gain two special 2nd-rank creed spell slots, which can be used to prepare [[srd/pf2e/compendium/spells/rank-2/Resist Energy|_resist energy_]], [[srd/pf2e/compendium/spells/rank-2/See the Unseen|_see the unseen_]], [[srd/pf2e/compendium/spells/rank-1/Sure Strike|_sure strike_]], and [[srd/pf2e/compendium/spells/rank-2/Water Breathing|_water breathing_]] as [divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2) spells. At 10th level, the extra slots increase to 3rd rank and you add [[srd/pf2e/compendium/spells/rank-3/Haste|_haste_]] and [[srd/pf2e/compendium/spells/rank-3/Heroism|_heroism_]] to the spells you can prepare in your creed spell slots. At 14th level, the extra slots increase to 4th rank and you add [[srd/pf2e/compendium/spells/rank-4/Fly|_fly_]] and [[srd/pf2e/compendium/spells/rank-4/Unfettered Movement|_unfettered movement_]].
 
 *Source: Divine Mysteries p. 274*

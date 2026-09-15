@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ostilli-host|Ostilli Host]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/ostilli-host-dedication|Ostilli Host Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ostilli Host|Ostilli Host]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Ostilli Host Dedication|Ostilli Host Dedication]]
 
 The dart fired by your ostilli can ricochet to strike another creature. The first time each round that a target takes damage when you Spit Ambient Magic, you can choose a second target within 20 feet of the first; that target is also affected by Spit Ambient Magic.
 

@@ -16,8 +16,8 @@ socialImage: og-image.png
 `Athamaru`  `Locathah`
 
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/coral-symbiotes|Coral Symbiotes]]
-- **Requirements**: You are [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] or [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]].
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Coral Symbiotes|Coral Symbiotes]]
+- **Requirements**: You are [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]] or [[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|fatigued]].
 
 Your coral symbiotes provide a store of energy that you can call upon when needed. You suppress your enfeebled or fatigued condition. (If you're affected by both, choose one to suppress.) After 1 minute, the condition returns with any remaining duration it had when you suppressed it.
 

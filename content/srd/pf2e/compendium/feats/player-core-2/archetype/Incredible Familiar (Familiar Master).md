@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/familiar-master|Familiar Master]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/enhanced-familiar|Enhanced Familiar]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Familiar Master|Familiar Master]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Enhanced Familiar|Enhanced Familiar]]
 
-Your familiar is infused with even more magic than other familiars. You can select six [[srd/pf2e/books/player-core/chapter-3-classes/companions#Familiar Abilities|familiar]] or [[srd/pf2e/books/player-core/chapter-3-classes/companions#Master Abilities|master abilities]] each day, instead of four.
+Your familiar is infused with even more magic than other familiars. You can select six [[srd/pf2e/books/player-core/chapter-3-classes/Companions#Familiar Abilities|familiar]] or [[srd/pf2e/books/player-core/chapter-3-classes/Companions#Master Abilities|master abilities]] each day, instead of four.
 
 *Source: Player Core 2 p. 200*

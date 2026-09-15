@@ -14,15 +14,15 @@ socialImage: og-image.png
 
 `Cleric`
 
-- **Archetypes**: Soul Warden (Level 16), [[srd/pf2e/compendium/character/archetypes/vindicator|Vindicator]] (Level 8), Campfire Chronicler (Level 8)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/domain-initiate|Domain Initiate]]
+- **Archetypes**: Soul Warden (Level 16), [[srd/pf2e/compendium/character/archetypes/Vindicator|Vindicator]] (Level 8), Campfire Chronicler (Level 8)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Domain Initiate|Domain Initiate]]
 
-Your prayers have unlocked deeper secrets of your deity’s domain. You gain an advanced domain spell from one of your [[srd/pf2e/compendium/character/domains|domains]] for which you have an initial domain spell.
+Your prayers have unlocked deeper secrets of your deity’s domain. You gain an advanced domain spell from one of your [[srd/pf2e/compendium/character/Domains|domains]] for which you have an initial domain spell.
 
 **Special** You can select this feat multiple times. Each time, you must select a different advanced domain spell.
 
 ### Advanced Domain leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/deitys-protection|Deity's Protection]]
+[[srd/pf2e/compendium/feats/player-core/class/Deity's Protection|Deity's Protection]]
 
 *Source: Player Core p. 117*

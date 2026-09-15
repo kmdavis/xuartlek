@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 - **Price**: 60 gp
 - **Usage**: held in 1 hand
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-When lit, this black candle's eerie blue flame reveals the presence of invisible creatures. Within a 10-foot radius of the lit candle, creatures don't benefit from the [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] condition. Their bodies are outlined, not fully visible, so they're [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]]. Once lit, the candle burns for 1 minute, after which the effect ends. If extinguished, it can't be relit.
+When lit, this black candle's eerie blue flame reveals the presence of invisible creatures. Within a 10-foot radius of the lit candle, creatures don't benefit from the [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]] condition. Their bodies are outlined, not fully visible, so they're [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]]. Once lit, the candle burns for 1 minute, after which the effect ends. If extinguished, it can't be relit.
 
 *Source: Player Core 2 p. 306*

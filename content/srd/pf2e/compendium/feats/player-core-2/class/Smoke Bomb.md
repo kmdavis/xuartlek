@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Additive`  `Alchemist`
 
-You can add a tarry additive to an alchemical bomb to make it emit smoke. When thrown, in addition to its normal effects, the bomb creates a cloud of smoke in a 10-foot burst. You choose which corner of the target's space (or the space in which the bomb lands) the cloud is centered on. Creatures within that area have the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dissipated by a strong wind.
+You can add a tarry additive to an alchemical bomb to make it emit smoke. When thrown, in addition to its normal effects, the bomb creates a cloud of smoke in a 10-foot burst. You choose which corner of the target's space (or the space in which the bomb lands) the cloud is centered on. Creatures within that area have the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dissipated by a strong wind.
 
 *Source: Player Core 2 p. 64*

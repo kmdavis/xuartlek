@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/covenants/good-neighbors|Good Neighbors]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]], Zipacna
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/covenants/Good Neighbors|Good Neighbors]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Nethys|Nethys]], Zipacna
 - **Range**: 120 feet
 - **Target**: 1 unattended object of up to 80 Bulk with no dimension longer than 20 feet
 - **Duration**: sustained up to 1 minute

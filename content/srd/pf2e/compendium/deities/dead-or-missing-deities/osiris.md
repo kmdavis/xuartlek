@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** must choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/flail|Flail]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/Flail|Flail]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Soul|Soul]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Healing|Healing]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Soul|Soul]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]]
+[[srd/pf2e/compendium/spells/rank-1/Soothe|Soothe]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/false-vitality|False Vitality]]
+[[srd/pf2e/compendium/spells/rank-2/False Vitality|False Vitality]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/tangling-creepers|Tangling Creepers]]
+[[srd/pf2e/compendium/spells/rank-6/Tangling Creepers|Tangling Creepers]]
 
 *Source: Divine Mysteries p. 314*

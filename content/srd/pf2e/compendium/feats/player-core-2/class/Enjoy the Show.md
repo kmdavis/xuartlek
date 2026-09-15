@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Swashbuckler`
 
-You address an ally or any onlookers to your combat, flaunting to your foes how little attention they require. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Perform|Perform]], you can choose single creature within 30 feet and use the following success, critical success, and critical failure effects instead of the normal results; if you do, Perform gains the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/bravado|bravado]] trait, as well as the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|linguistic]] trait as normal for oration.
+You address an ally or any onlookers to your combat, flaunting to your foes how little attention they require. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Perform|Perform]], you can choose single creature within 30 feet and use the following success, critical success, and critical failure effects instead of the normal results; if you do, Perform gains the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Bravado|bravado]] trait, as well as the [[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Linguistic|linguistic]] trait as normal for oration.
 
 **Critical Success** The target takes a –2 circumstance penalty to attack rolls against creatures other than you until the end of its next turn.
 

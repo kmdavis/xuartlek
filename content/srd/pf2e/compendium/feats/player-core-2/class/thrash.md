@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `Barbarian`  `Rage`
 
-- **Requirements**: You have an enemy [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]].
+- **Requirements**: You have an enemy [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]].
 
-You thrash your foe around. An enemy you have [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] takes bludgeoning damage equal to your Strength modifier plus your weapon specialization damage plus your [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|Rage]] damage, with a basic Fortitude save against your class DC.
+You thrash your foe around. An enemy you have [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] takes bludgeoning damage equal to your Strength modifier plus your weapon specialization damage plus your [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|Rage]] damage, with a basic Fortitude save against your class DC.
 
 ### Thrash leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/collateral-thrash|Collateral Thrash]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Collateral Thrash|Collateral Thrash]]
 
 *Source: Player Core 2 p. 81*

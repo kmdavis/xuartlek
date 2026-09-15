@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Barbarian`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/sunder-spell|Sunder Spell]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Sunder Spell|Sunder Spell]]
 
-You can focus your superstition to break the magic of an item, in addition to destroying freestanding spells and those active on creatures. When you Sunder a Spell, you can instead attempt to counteract either an unattended magic item or one of your target's magic items. If your counteract attempt succeeds, the item becomes a mundane item of its type for 10 minutes. If you target an [[srd/pf2e/compendium/rules-elements/traits/gm-core/artifact|artifact]], an [[srd/pf2e/compendium/rules-elements/traits/gm-core/intelligent|intelligent item]], or a similarly particularly powerful item, your counteract attempt automatically fails.
+You can focus your superstition to break the magic of an item, in addition to destroying freestanding spells and those active on creatures. When you Sunder a Spell, you can instead attempt to counteract either an unattended magic item or one of your target's magic items. If your counteract attempt succeeds, the item becomes a mundane item of its type for 10 minutes. If you target an [[srd/pf2e/compendium/rules-elements/traits/gm-core/Artifact|artifact]], an [[srd/pf2e/compendium/rules-elements/traits/gm-core/Intelligent|intelligent item]], or a similarly particularly powerful item, your counteract attempt automatically fails.
 
 *Source: Player Core 2 p. 83*

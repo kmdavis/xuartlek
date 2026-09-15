@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Monk`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/wrestler|Wrestler]] (Level 4), Zombie (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Wrestler|Wrestler]] (Level 4), Zombie (Level 4)
 
 Like a powerful constrictor, you crush targets in your unyielding grasp. When you successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] a creature, you can deal bludgeoning damage to that creature equal to your Strength modifier. You can make this attack nonlethal with no penalty.
 
 ### Crushing Grab leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/godbreaker|Godbreaker]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Godbreaker|Godbreaker]]
 
 *Source: Player Core 2 p. 119*

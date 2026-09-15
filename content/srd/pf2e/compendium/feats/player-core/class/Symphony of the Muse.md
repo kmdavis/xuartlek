@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Bard`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/harmonize|Harmonize]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Harmonize|Harmonize]]
 
 You have learned how to weave countless performances together into a solo symphony with multitudinous effects. You are no longer limited to a single composition each turn or a single composition at a time; when you use a new composition, all previous compositions’ effects continue for their remaining duration.
 

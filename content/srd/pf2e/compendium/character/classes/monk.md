@@ -18,7 +18,7 @@ You'll see the following key terms in many monk abilities.
 
 **Incapacitation**: An ability with this trait can take a character out of the fight. But when you use an incapacitation effect against a creature of higher level than you, you reduce the degree of success of your attack roll by one step, and that creature improves the degree of success of its saving throws for that effect by one step.
 
-**Qi Spells**: By tapping into an inner reserve of energy, called qi, you can cast special spells called qi spells, which are a type of [[srd/pf2e/books/player-core/chapter-7-spells/focus-spells|focus spell]]. It costs 1 Focus Point to cast a focus spell. When you gain your first qi spell, you decide whether your qi spells are divine or occult spells, and you become trained in spell attack modifiers and spell DCs; your key spellcasting attribute is Wisdom. You also gain a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you regain 1 Focus Point by spending 10 minutes using the Refocus activity to steady your mind and breath to draw in more qi from the world around you. Focus spells are automatically heightened to half your level rounded up. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but it can never be more than 3 points.
+**Qi Spells**: By tapping into an inner reserve of energy, called qi, you can cast special spells called qi spells, which are a type of [[srd/pf2e/books/player-core/chapter-7-spells/Focus Spells|focus spell]]. It costs 1 Focus Point to cast a focus spell. When you gain your first qi spell, you decide whether your qi spells are divine or occult spells, and you become trained in spell attack modifiers and spell DCs; your key spellcasting attribute is Wisdom. You also gain a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you regain 1 Focus Point by spending 10 minutes using the Refocus activity to steady your mind and breath to draw in more qi from the world around you. Focus spells are automatically heightened to half your level rounded up. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but it can never be more than 3 points.
 
  **Stance**: A stance is a general combat strategy that you enter by using an action with the stance trait, and that you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you use a stance action again, whichever comes first. After you take an action that has the stance trait, you can't take another one for 1 round. You can enter or be in a stance only in encounter mode. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] a stance.
 
@@ -111,7 +111,7 @@ You can attack rapidly with the Flurry of Blows action.
 
 | | |
 | --- | --- |
-| **Monk Feats** | At 1st level and every even-numbered level thereafter, you gain a monk class feat. |
+| **Monk Feats** | At 1st level and every even-numbered level thereafter, you gain a [monk class feat](https://2e.aonprd.com/Feats.aspx?Traits=656). |
 
 #### Powerful Fist
 
@@ -128,7 +128,7 @@ You move like the wind. You gain a +10-foot status bonus to your Speed whenever 
 
 #### Mystic Strikes
 
-Focusing your will into your physical attacks imbues them with mystical energy. Your unarmed attacks become magical, allowing them to get past resistances to non-magical attacks. However, you still need an item such as [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows|handwraps of mighty blows]] to gain an item bonus to attack rolls or increase your attacks' weapon damage dice.
+Focusing your will into your physical attacks imbues them with mystical energy. Your unarmed attacks become magical, allowing them to get past resistances to non-magical attacks. However, you still need an item such as [[srd/pf2e/compendium/equipment/worn-items/Handwraps of Mighty Blows|handwraps of mighty blows]] to gain an item bonus to attack rolls or increase your attacks' weapon damage dice.
 
 #### Skill Increases
 

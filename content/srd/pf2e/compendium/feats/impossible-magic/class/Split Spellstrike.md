@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Magus`
 
-- **Prerequisites**: [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Spellstrike|Spellstrike]]; twofold tine hybrid study
+- **Prerequisites**: [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Spellstrike|Spellstrike]]; [[srd/pf2e/compendium/character/Hybrid Studies#Twofold Tine|twofold tine hybrid study]]
 - **Requirements**: You’re wielding two melee weapons, each in a different hand, and your Spellstrike is charged.
 
 Like knives slicing through magic itself, both your weapons carry your spell, delivering it to separate foes. Make a Spellstrike with a spell that can target at least 2 creatures or that has an area. You can make two melee Strikes instead of one, but each must be made with a different weapon and target a different creature. Increase your multiple attack penalty normally after each Strike rather than increasing it for Spellstrike as a whole. If you’re in Arcane Cascade, you can apply twofold tine’s extra benefit between the two Strikes.

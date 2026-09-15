@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Cold`  `Concentrate`  `Focus`  `Manipulate`  `Oracle`  `Uncommon`
 
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Cosmos|Cosmos]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Cosmos|Cosmos]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude

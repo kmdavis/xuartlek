@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`  `Multiclass`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/bard|Bard]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Bard|Bard]]
 - **Prerequisites**: Charisma +2
 
 You cast spells like a bard and gain the [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] activity. You gain a spell repertoire with two common cantrips from the occult spell list or any other occult cantrips you’ve learned or discovered. You’re trained in the spell attack modifier and spell DC statistics. Your key spellcasting attribute for bard archetype spells is Charisma, and they are occult bard spells. You become trained in Occultism and Performance; for each of these skills in which you were already trained, you instead become trained in a skill of your choice.
@@ -25,6 +25,6 @@ Choose a muse as you would if you were a bard. You can take that muse’s feats,
 
 ### Bard Dedication leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/anthemic-performance|Anthemic Performance]], [[srd/pf2e/compendium/feats/player-core/archetype/basic-bard-spellcasting|Basic Bard Spellcasting]], [[srd/pf2e/compendium/feats/player-core/archetype/basic-muses-whispers|Basic Muse's Whispers]], [[srd/pf2e/compendium/feats/player-core/archetype/counter-perform|Counter Perform]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Anthemic Performance|Anthemic Performance]], [[srd/pf2e/compendium/feats/player-core/archetype/Basic Bard Spellcasting|Basic Bard Spellcasting]], [[srd/pf2e/compendium/feats/player-core/archetype/Basic Muse's Whispers|Basic Muse's Whispers]], [[srd/pf2e/compendium/feats/player-core/archetype/Counter Perform|Counter Perform]]
 
 *Source: Player Core p. 216*

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Alchemist`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/poisoner|Poisoner]] (Level 6)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Poisoner|Poisoner]] (Level 6)
 
 Your victims tend to expire long before your poisons, since the latter have been specifically formulated to last longer. The maximum duration of any poison you create increases by an amount equal to the poison's stage 1 interval, to a maximum of twice the poison's maximum duration.
 

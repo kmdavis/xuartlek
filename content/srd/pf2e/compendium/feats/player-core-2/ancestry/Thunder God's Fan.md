@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Tengu`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/tengu-feather-fan|Tengu Feather Fan]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Tengu Feather Fan|Tengu Feather Fan]]
 
-Your fan unleashes the fury of the storm. You can use the Wave Fan activation one additional time per day. Add a 5th-rank [[srd/pf2e/compendium/spells/rank-3/lightning-bolt|_lightning bolt_]] spell to the spells contained within your fan.
+Your fan unleashes the fury of the storm. You can use the Wave Fan activation one additional time per day. Add a 5th-rank [[srd/pf2e/compendium/spells/rank-3/Lightning Bolt|_lightning bolt_]] spell to the spells contained within your fan.
 
 *Source: Player Core 2 p. 35*

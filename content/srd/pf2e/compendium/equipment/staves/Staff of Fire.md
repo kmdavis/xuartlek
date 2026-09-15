@@ -30,7 +30,7 @@ This staff resembles a blackened and burned length of ashen wood. You can Intera
 
 ---
 
-**Cantrip** [[srd/pf2e/compendium/spells/cantrips/ignition|_ignition_]]**1st** [[srd/pf2e/compendium/spells/rank-1/breathe-fire|_breathe fire_]]
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/Ignition|_ignition_]]**1st** [[srd/pf2e/compendium/spells/rank-1/Breathe Fire|_breathe fire_]]
 
 ### Staff of Fire (Greater)
 
@@ -38,7 +38,7 @@ This staff resembles a blackened and burned length of ashen wood. You can Intera
 
 ---
 
-**2nd** breathe fire, [[srd/pf2e/compendium/spells/rank-2/floating-flame|_floating flame_]]**3rd** floating flame, [[srd/pf2e/compendium/spells/rank-3/fireball|_fireball_]]
+**2nd** breathe fire, [[srd/pf2e/compendium/spells/rank-2/Floating Flame|_floating flame_]]**3rd** floating flame, [[srd/pf2e/compendium/spells/rank-3/Fireball|_fireball_]]
 
 ### Staff of Fire (Major)
 
@@ -46,6 +46,6 @@ This staff resembles a blackened and burned length of ashen wood. You can Intera
 
 ---
 
-**4th** [[srd/pf2e/compendium/spells/rank-4/fire-shield|_fire shield_]], fireball, [[srd/pf2e/compendium/spells/rank-4/wall-of-fire|_wall of fire_]]**5th** fireball, wall of fire
+**4th** [[srd/pf2e/compendium/spells/rank-4/Fire Shield|_fire shield_]], fireball, [[srd/pf2e/compendium/spells/rank-4/Wall of Fire|_wall of fire_]]**5th** fireball, wall of fire
 
 *Source: GM Core p. 279*

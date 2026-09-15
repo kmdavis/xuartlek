@@ -24,23 +24,23 @@ Strength or Wisdom
 
 **Divine Sanctification** must choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/greatsword|Greatsword]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Greatsword|Greatsword]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Dragon|Dragon]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Dragon|Dragon]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]]
+[[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/fire-shield|Fire Shield]]
+[[srd/pf2e/compendium/spells/rank-4/Fire Shield|Fire Shield]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/disintegrate|Disintegrate]]
+[[srd/pf2e/compendium/spells/rank-6/Disintegrate|Disintegrate]]
 
 *Source: Divine Mysteries p. 314*

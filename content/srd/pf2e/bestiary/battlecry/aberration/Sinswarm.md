@@ -28,10 +28,10 @@ modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; darkvision, sin scent (imprecise) 30 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], Thassilonian"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Aklo|Aklo]], Thassilonian"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +18, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +20, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +18, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +20, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +17"
 abilityMods: [6, 3, 4, 1, 2, 1]
 abilities_top:
   - name: "Sin Scent"
@@ -43,14 +43,14 @@ armorclass:
 hp: 150
 health:
   - name: "HP"
-    desc: "150 (4 segments); __Immunities__ controlled; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] 10; __Weaknesses__ area damage 10, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 10"
+    desc: "150 (4 segments); __Immunities__ controlled; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] 10; __Weaknesses__ area damage 10, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 10"
 abilities_mid:
   - name: "Reactive Attack"
     desc: "⬲"
   - name: "Trigger"
-    desc: "A creature within a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] of the sinswarm uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] action or a [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action, makes a ranged attack, or leaves a square during a move action it's using"
+    desc: "A creature within a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] of the sinswarm uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]] action or a [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] action, makes a ranged attack, or leaves a square during a move action it's using"
   - name: "Effect"
-    desc: "The sinswarm lashes out at the triggering creature, dealing 2d8+9 piercing or slashing damage (DC 25 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). If the creature critically fails the save and the trigger was a manipulate action, that action is disrupted."
+    desc: "The sinswarm lashes out at the triggering creature, dealing 2d8+9 piercing or slashing damage (DC 25 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save). If the creature critically fails the save and the trigger was a manipulate action, that action is disrupted."
   - name: "Troop Defenses"
     desc: ""
 speed: "30 feet; troop movement"
@@ -60,17 +60,17 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The sinswarm makes a coordinated attack against each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]], with a DC 25 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. The damage depends on the number of actions. ⬻ 1d8+2 piercing or slashing damage ⬺ 2d8+9 piercing or slashing damage plus sinful bite ⬽ 3d8+11 piercing or slashing damage plus sinful bite"
+    desc: "The sinswarm makes a coordinated attack against each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]], with a DC 25 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save. The damage depends on the number of actions. ⬻ 1d8+2 piercing or slashing damage ⬺ 2d8+9 piercing or slashing damage plus sinful bite ⬽ 3d8+11 piercing or slashing damage plus sinful bite"
   - name: "Sinful Bite"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) A creature bitten by a sinspawn must attempt a DC 28 Will save as it is assailed by sinful thoughts. The sinswarm can't inflict the same sin effect on multiple targets in the same round until it has inflicted all seven sins at least once."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]]) A creature bitten by a sinspawn must attempt a DC 28 Will save as it is assailed by sinful thoughts. The sinswarm can't inflict the same sin effect on multiple targets in the same round until it has inflicted all seven sins at least once."
   - name: "Critical Success"
     desc: "The creature is unaffected."
   - name: "Success"
-    desc: "The creature is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1."
+    desc: "The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] 1."
   - name: "Failure"
     desc: "The creature is sickened 2."
   - name: "Critical Failure"
-    desc: "The creature is sickened 2 and takes one of the following additional effects, chosen by the GM: [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 2 for 1 minute (envy), [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1 (gluttony), [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 2 for 1 minute (greed), [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 2 for 1 minute (lust), clumsy 1 and enfeebled 1 for 1 minute (pride), –10-foot status penalty to all Speeds for 1 minute (sloth), or drained 1 and enfeebled 1 for 1 minute (wrath)."
+    desc: "The creature is sickened 2 and takes one of the following additional effects, chosen by the GM: [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]] 2 for 1 minute (envy), [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]] 1 (gluttony), [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]] 2 for 1 minute (greed), [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] 2 for 1 minute (lust), clumsy 1 and enfeebled 1 for 1 minute (pride), –10-foot status penalty to all Speeds for 1 minute (sloth), or drained 1 and enfeebled 1 for 1 minute (wrath)."
 sourcebook: "_Battlecry!_, page 191."
 ```
 

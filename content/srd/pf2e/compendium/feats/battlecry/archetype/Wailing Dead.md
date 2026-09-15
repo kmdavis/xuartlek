@@ -21,14 +21,14 @@ socialImage: og-image.png
 
 `Archetype`  `Auditory`  `Concentrate`  `Emotion`  `Fear`  `Flourish`  `Magical`  `Mental`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/necrologist|Necrologist]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Necrologist|Necrologist]]
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/ghostsong|Ghostsong]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Ghostsong|Ghostsong]]
 - **Requirements**: Your horde is raised and consists of spirits.
 
 The voices of the spirits you command spark fear in the hearts of your enemies. You Sustain your horde and command those spirits to shriek in unison. Each living enemy within a 20 foot emanation from your horde takes 5d10 mental damage, depending on its Will saving throw against your spell DC. This damage increases by 1d10 at 14th level and every 2 levels thereafter. 
 **Critical Success** The creature is unaffected. 
-**Success** The creature takes half damage and is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1. 
+**Success** The creature takes half damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] 1. 
 **Failure** The creature takes full damage and is frightened 2. 
 **Critical Failure** The creature takes double damage and is frightened 3.
 

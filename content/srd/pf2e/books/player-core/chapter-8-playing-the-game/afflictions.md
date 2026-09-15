@@ -1,6 +1,7 @@
 ---
 title: "Afflictions"
 aliases: ["Afflictions"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2389"
 citation: "Player Core pg. 430"
-socialImage: og-image.png
 ---
 
 # Afflictions
@@ -24,7 +24,7 @@ Whether appearing in a spell, as an item, or within a creature’s stat block, a
 
 ### Name and Traits
 
-The affliction’s name is given first, followed by its traits in parentheses—including the trait for the type of affliction ([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], and so forth). If the affliction needs to have a level specified, it follows the parentheses, followed by any unusual details, such as restrictions on removing the conditions imposed by an affliction. If no level is listed, the affliction matches the level of the creature, hazard, or item causing the affliction.
+The affliction’s name is given first, followed by its traits in parentheses—including the trait for the type of affliction ([[srd/pf2e/compendium/rules-elements/traits/player-core/Curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], and so forth). If the affliction needs to have a level specified, it follows the parentheses, followed by any unusual details, such as restrictions on removing the conditions imposed by an affliction. If no level is listed, the affliction matches the level of the creature, hazard, or item causing the affliction.
 
 ### Saving Throw
 
@@ -52,7 +52,7 @@ On a failure, the stage increases by 1; on a critical failure, the stage increas
 
 ## Damage and Conditions
 
-Any damage listed for a stage happens immediately when you reach that stage. Conditions affect you when you reach the stage and last for their normal duration. For instance, if you were [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] for an affliction with a maximum duration of 5 minutes, you remain drained after the affliction ends, as normal for the drained condition. A condition that automatically changes its value or ends under certain circumstances, like [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]], still does so. Any condition that doesn’t have a default duration, such as [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] or [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], lasts as long as you’re at that stage unless noted otherwise, as do any penalties or any other effect of the stage that doesn’t list a duration.
+Any damage listed for a stage happens immediately when you reach that stage. Conditions affect you when you reach the stage and last for their normal duration. For instance, if you were [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]] for an affliction with a maximum duration of 5 minutes, you remain drained after the affliction ends, as normal for the drained condition. A condition that automatically changes its value or ends under certain circumstances, like [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]], still does so. Any condition that doesn’t have a default duration, such as [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]] or [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], lasts as long as you’re at that stage unless noted otherwise, as do any penalties or any other effect of the stage that doesn’t list a duration.
 
 ## Multiple Exposures
 
@@ -60,19 +60,19 @@ Multiple exposures to the same curse or disease currently affecting you have no 
 
 ## Virulent Afflictions
 
-Afflictions with the [[srd/pf2e/compendium/rules-elements/traits/gm-core/virulent|virulent]] trait are harder to remove. You must succeed at two consecutive saves to reduce a virulent affliction’s stage by 1. A critical success reduces a virulent affliction’s stage by only 1 instead of by 2.
+Afflictions with the [[srd/pf2e/compendium/rules-elements/traits/gm-core/Virulent|virulent]] trait are harder to remove. You must succeed at two consecutive saves to reduce a virulent affliction’s stage by 1. A critical success reduces a virulent affliction’s stage by only 1 instead of by 2.
 
 ## Removing Afflictions
 
-Apart from waiting them out, afflictions can be removed through certain uses of the skills and spells. The [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Disease|Treat Disease]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Poison|Treat Poison]] uses of [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] are commonly used to treat those afflictions.
+Apart from waiting them out, afflictions can be removed through certain uses of the skills and spells. The [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Disease|Treat Disease]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Poison|Treat Poison]] uses of [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] are commonly used to treat those afflictions.
 
-The [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|cleanse affliction]] spell is also available to most spellcasters. Spells that counteract conditions at the source, such as [[srd/pf2e/compendium/spells/rank-2/sound-body|sound body]], can also be effective against diseases and poisons that cause those conditions.
+The [[srd/pf2e/compendium/spells/rank-2/Cleanse Affliction|cleanse affliction]] spell is also available to most spellcasters. Spells that counteract conditions at the source, such as [[srd/pf2e/compendium/spells/rank-2/Sound Body|sound body]], can also be effective against diseases and poisons that cause those conditions.
 
-Curses are trickier, requiring solutions that specifically mention them, such as a 4th-rank *cleanse affliction* or the [[srd/pf2e/compendium/feats/player-core/skill/break-curse|Break Curse]] skill feat.
+Curses are trickier, requiring solutions that specifically mention them, such as a 4th-rank *cleanse affliction* or the [[srd/pf2e/compendium/feats/player-core/skill/Break Curse|Break Curse]] skill feat.
 
 ## Counteracting
 
-Some effects try to counteract spells, afflictions, conditions, or other effects. Counteract checks compare the power of two forces and determine which defeats the other. Successfully counteracting an effect [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions#Disrupting Actions|disrupts]] it, preventing it from having any effect, unless noted otherwise.
+Some effects try to counteract spells, afflictions, conditions, or other effects. Counteract checks compare the power of two forces and determine which defeats the other. Successfully counteracting an effect [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Actions#Disrupting Actions|disrupts]] it, preventing it from having any effect, unless noted otherwise.
 
 When attempting a counteract check, add the relevant skill modifier or other appropriate modifier to your check against the target's DC. If you're counteracting an affliction, the DC is in the affliction's stat block. If it's a spell, use the caster's DC. The GM can also calculate a DC based on the target effect's level. For spells, the counteract check modifier is your spellcasting attribute modifier plus your spellcasting proficiency bonus, plus any bonuses and penalties that specifically apply to counteract checks.
 

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Gunslinger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bullet-dancer|Bullet Dancer]] (Level 16), [[srd/pf2e/compendium/character/archetypes/pistol-phenom|Pistol Phenom]] (Level 16)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/pistol-twirl|Pistol Twirl]]; Master in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Bullet Dancer|Bullet Dancer]] (Level 16), [[srd/pf2e/compendium/character/archetypes/Pistol Phenom|Pistol Phenom]] (Level 16)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Pistol Twirl|Pistol Twirl]]; Master in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-Your twirling weapons create a grand distraction that's difficult to look away from. When using Pistol Twirl to Feint, you can target all enemies within your weapon's first range increment who you can perceive and who can see you. You roll one [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] check and compare it against each target's Perception DC.
+Your twirling weapons create a grand distraction that's difficult to look away from. When using Pistol Twirl to Feint, you can target all enemies within your weapon's first range increment who you can perceive and who can see you. You roll one [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] check and compare it against each target's Perception DC.
 
 *Source: Guns & Gears (Remastered) p. 118*

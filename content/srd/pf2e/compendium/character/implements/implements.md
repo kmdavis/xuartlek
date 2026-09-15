@@ -9,9 +9,7 @@ socialImage: og-image.png
 
 # Implements
 
-A thaumaturge bonds with implements, esoteric objects that channel their understanding of the supernatural.
-
-The thaumaturge chooses one. Each is a separate note:
+10 entries, one note each:
 
 - [[Amulet]]
 - [[Bell]]

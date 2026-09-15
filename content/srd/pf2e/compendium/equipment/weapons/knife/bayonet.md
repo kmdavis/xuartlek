@@ -23,7 +23,7 @@ socialImage: og-image.png
 - **Hands**: 1 or 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Knife
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Knife|Knife]]
 
 This blade or spike can be attached to a crossbow or firearm but, unlike other attached weapons, can be wielded in one hand as its own weapon. When used as a separate weapon, it can't benefit from any runes or abilities that function only for attached weapons. An attached bayonet requires the same number of hands as the weapon it's attached to. A detached bayonet requires one hand.
 

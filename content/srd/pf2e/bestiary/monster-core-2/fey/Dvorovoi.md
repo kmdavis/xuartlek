@@ -26,10 +26,10 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; tremorsense (imprecise) within their entire bound yard"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +8, [[srd/pf2e/compendium/rules-elements/skills/lore|Household Lore]] +11, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +8, [[srd/pf2e/compendium/rules-elements/skills/Lore|Household Lore]] +11, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +9, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +9"
 abilityMods: [3, 2, 1, -1, 0, 1]
 abilities_top:
   - name: "Items"
@@ -41,17 +41,17 @@ armorclass:
 hp: 44
 health:
   - name: "HP"
-    desc: "44; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 5"
+    desc: "44; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/Cold Iron|cold iron]] 5"
 abilities_mid:
   - name: "Shy"
-    desc: "Dvorovoi is naturally [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] while within sight of their bound home. The dvorovoi can become visible, or even selectively visible— allowing some people to see them."
+    desc: "Dvorovoi is naturally [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]] while within sight of their bound home. The dvorovoi can become visible, or even selectively visible— allowing some people to see them."
 speed: "30 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ pitchfork +12 __Damage__ 1d8+6 piercing"
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 20 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/prestidigitation|Prestidigitation]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/charm|Charm]] (animals only), [[srd/pf2e/compendium/spells/rank-1/command|Command]] (animals only), [[srd/pf2e/compendium/spells/rank-1/mending|Mending]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/entangling-flora|Entangling Flora]], [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|Speak with Animals]] (at will)"
+    desc: "DC 20 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/Prestidigitation|Prestidigitation]], [[srd/pf2e/compendium/spells/cantrips/Telekinetic Hand|Telekinetic Hand]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Charm|Charm]] (animals only), [[srd/pf2e/compendium/spells/rank-1/Command|Command]] (animals only), [[srd/pf2e/compendium/spells/rank-1/Mending|Mending]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Entangling Flora|Entangling Flora]], [[srd/pf2e/compendium/spells/rank-2/Speak with Animals|Speak with Animals]] (at will)"
 sourcebook: "_Monster Core 2_, page 194."
 ```
 

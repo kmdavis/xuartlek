@@ -18,13 +18,13 @@ Choose one creature adjacent to the initial target and within reach. If its AC i
 
 ## Bomb
 
-Increase the radius of the bomb's [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage (if any) to 10 feet.
+Increase the radius of the bomb's [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage (if any) to 10 feet.
 
 *Source: Player Core p. 283*
 
 ## Bow
 
-If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile. The target is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] and must spend an Interact action to attempt a DC 10 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is incorporeal, is liquid (like a water elemental or some oozes), or could otherwise escape without effort.
+If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile. The target is [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] and must spend an Interact action to attempt a DC 10 [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is incorporeal, is liquid (like a water elemental or some oozes), or could otherwise escape without effort.
 
 *Source: Player Core p. 283*
 
@@ -60,13 +60,13 @@ The target must succeed at a Fortitude save against your class DC or be stunned 
 
 ## Flail
 
-The target is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] unless they succeed at a Reflex save against your class DC.
+The target is knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] unless they succeed at a Reflex save against your class DC.
 
 *Source: Player Core p. 283*
 
 ## Hammer
 
-The target is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] unless they succeed at a Fortitude save against your class DC.
+The target is knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] unless they succeed at a Fortitude save against your class DC.
 
 *Source: Player Core p. 283*
 
@@ -108,6 +108,6 @@ The weapon pierces the target, weakening its attacks. The target is clumsy 1 unt
 
 ## Sword
 
-The target is made off-balance by your attack, becoming [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the start of your next turn.
+The target is made off-balance by your attack, becoming [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] until the start of your next turn.
 
 *Source: Player Core p. 283*

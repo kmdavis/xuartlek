@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Nephilim`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/ancestry/proteankin|Proteankin]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/ancestry/Proteankin|Proteankin]]
 
-You have a powerful creative drive that is clear to any who interact with you. You are trained in [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]. If you were already trained in Performance (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the [[srd/pf2e/compendium/feats/player-core/skill/impressive-performance|Impressive Performance]] skill feat, and when you use Performance to Make an Impression, you gain a +1 circumstance bonus to the check.
+You have a powerful creative drive that is clear to any who interact with you. You are trained in [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]. If you were already trained in Performance (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the [[srd/pf2e/compendium/feats/player-core/skill/Impressive Performance|Impressive Performance]] skill feat, and when you use Performance to Make an Impression, you gain a +1 circumstance bonus to the check.
 
 *Source: War of Immortals p. 53*

@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Archetype`  `Mental`  `Primal`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/beastmaster|Beastmaster]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/beastmaster-dedication|Beastmaster Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Beastmaster|Beastmaster]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Beastmaster Dedication|Beastmaster Dedication]]
 
-You can communicate telepathically with your animal companions within 100 feet. If you’re legendary in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], you can communicate telepathically with your animal companions anywhere on the planet.
+You can communicate telepathically with your animal companions within 100 feet. If you’re legendary in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], you can communicate telepathically with your animal companions anywhere on the planet.
 
 *Source: Player Core 2 p. 189*

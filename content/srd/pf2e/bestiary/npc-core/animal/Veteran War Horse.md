@@ -28,7 +28,7 @@ perception:
     desc: "+10; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +12, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +12, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +12"
 abilityMods: [6, 3, 4, -4, 2, -2]
 ac: 21
 armorclass:
@@ -49,7 +49,7 @@ abilities_bot:
   - name: "Gallop"
     desc: "⬺ The veteran war horse Strides twice. It has a +10-foot circumstance bonus to its Speed during these Strides."
   - name: "Into the Fray"
-    desc: "⬻ The veteran war horse Strides then [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralizes]] an adjacent Medium or smaller creature. When it does, Demoralize loses the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] trait and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] trait, and it doesn't take a penalty for the veteran war horse not speaking a language."
+    desc: "⬻ The veteran war horse Strides then [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralizes]] an adjacent Medium or smaller creature. When it does, Demoralize loses the [[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]] trait and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]] trait, and it doesn't take a penalty for the veteran war horse not speaking a language."
 sourcebook: "_NPC Core_, page 218."
 ```
 

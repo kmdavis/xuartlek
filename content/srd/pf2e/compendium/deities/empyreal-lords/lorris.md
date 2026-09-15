@@ -24,23 +24,23 @@ Strength or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/spear|Spear]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/Spear|Spear]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Toil|Toil]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Toil|Toil]], [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/endure|Endure]]
+[[srd/pf2e/compendium/spells/rank-1/Endure|Endure]]
 
 - **4th**
 Soft Landing
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/collective-transposition|Collective Transposition]]
+[[srd/pf2e/compendium/spells/rank-6/Collective Transposition|Collective Transposition]]
 
 *Source: Divine Mysteries p. 308*

@@ -1,6 +1,7 @@
 ---
 title: "Chapter 1: Introduction"
 aliases: ["Chapter 1: Introduction"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1995"
 citation: "Player Core pg. 5"
-socialImage: og-image.png
 ---
 
 # Chapter 1: Introduction
@@ -24,13 +24,13 @@ Pathfinder is a fantasy tabletop roleplaying game (RPG) where you and a group of
 
 ## Contents
 
-- [[srd/pf2e/books/player-core/chapter-1-introduction/what-is-a-roleplaying-game|What is a Roleplaying Game?]]
-- [[srd/pf2e/books/player-core/chapter-1-introduction/basics-of-play|Basics of Play]]
-- [[srd/pf2e/books/player-core/chapter-1-introduction/playing-the-game|Playing the Game]]
-- [[srd/pf2e/books/player-core/chapter-1-introduction/example-of-play|Example of Play]]
-- [[srd/pf2e/books/player-core/chapter-1-introduction/using-this-book|Using this book]]
-- [[srd/pf2e/books/player-core/chapter-1-introduction/format-of-rules|Format of Rules]]
-- [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation|Character Creation]]
-- [[srd/pf2e/books/player-core/chapter-1-introduction/leveling-up|Leveling Up]]
-- [[srd/pf2e/books/player-core/chapter-1-introduction/golarion-and-the-inner-sea|Golarion and the Inner Sea]]
-- [[srd/pf2e/books/player-core/chapter-1-introduction/religion|Religion]]
+- [[srd/pf2e/books/player-core/chapter-1-introduction/What is a Roleplaying Game|What is a Roleplaying Game?]]
+- [[srd/pf2e/books/player-core/chapter-1-introduction/Basics of Play|Basics of Play]]
+- [[srd/pf2e/books/player-core/chapter-1-introduction/Playing the Game|Playing the Game]]
+- [[srd/pf2e/books/player-core/chapter-1-introduction/Example of Play|Example of Play]]
+- [[srd/pf2e/books/player-core/chapter-1-introduction/Using this book|Using this book]]
+- [[srd/pf2e/books/player-core/chapter-1-introduction/Format of Rules|Format of Rules]]
+- [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation|Character Creation]]
+- [[srd/pf2e/books/player-core/chapter-1-introduction/Leveling Up|Leveling Up]]
+- [[srd/pf2e/books/player-core/chapter-1-introduction/Golarion and the Inner Sea|Golarion and the Inner Sea]]
+- [[srd/pf2e/books/player-core/chapter-1-introduction/Religion|Religion]]

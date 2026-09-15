@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Bard`
 
-You learn the [[srd/pf2e/compendium/spells/cantrips/rallying-anthem|_rallying anthem_]] composition cantrip, which protects you and allies.
+You learn the [[srd/pf2e/compendium/spells/cantrips/Rallying Anthem|_rallying anthem_]] composition cantrip, which protects you and allies.
 
 ### Rallying Anthem leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/defensive-coordination|Defensive Coordination]]
+[[srd/pf2e/compendium/feats/player-core/class/Defensive Coordination|Defensive Coordination]]
 
 *Source: Player Core p. 103*

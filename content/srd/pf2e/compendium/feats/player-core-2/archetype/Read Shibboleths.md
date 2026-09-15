@@ -16,11 +16,11 @@ socialImage: og-image.png
 
 `Archetype`  `Linguistic`  `Skill`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/linguist|Linguist]], Venture-Gossip (Level 7)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/linguist-dedication|Linguist Dedication]]; Master in [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Linguist|Linguist]], Venture-Gossip (Level 7)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Linguist Dedication|Linguist Dedication]]; Master in [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-All communication is filled with slight tells and signals. If you interact with someone for at least 10 minutes, their regional words, pronunciation changes, and nonverbal cues provide you with a minor fact about their social environment, such as their hometown or certain groups they might belong to. If a target of this ability is being deceptive about their social environment, such as a commoner pretending to be a noble, they secretly attempt a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/society|Society]], or appropriate [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] check against your Society DC, providing you a false minor fact consistent with their assumed identity on a success.
+All communication is filled with slight tells and signals. If you interact with someone for at least 10 minutes, their regional words, pronunciation changes, and nonverbal cues provide you with a minor fact about their social environment, such as their hometown or certain groups they might belong to. If a target of this ability is being deceptive about their social environment, such as a commoner pretending to be a noble, they secretly attempt a [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/Society|Society]], or appropriate [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] check against your Society DC, providing you a false minor fact consistent with their assumed identity on a success.
 
-Once you’ve gleaned one or more true minor facts about a person, you can then incorporate these mannerisms into your speech to present yourself in a way that they find familiar. This grants you a +1 circumstance bonus to your [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] and Deception checks with them.
+Once you’ve gleaned one or more true minor facts about a person, you can then incorporate these mannerisms into your speech to present yourself in a way that they find familiar. This grants you a +1 circumstance bonus to your [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] and Deception checks with them.
 
 *Source: Player Core 2 p. 203*

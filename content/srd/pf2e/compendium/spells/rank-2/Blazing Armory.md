@@ -16,14 +16,14 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Target**: 1 willing creature
 - **Duration**: 5 minutes
 
-As long as you have magic, you're never unarmed. You materialize a flaming simulacrum of any common simple or martial weapon into the target's grasp. The target must have a free hand to hold the weapon, or else the weapon falls to the ground in the target's space. The blazing weapon functions as a _+1 striking_ weapon, and its damage type changes to fire. The damage type can't be changed using the [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile]] trait, modular trait, or similar methods.
+As long as you have magic, you're never unarmed. You materialize a flaming simulacrum of any common simple or martial weapon into the target's grasp. The target must have a free hand to hold the weapon, or else the weapon falls to the ground in the target's space. The blazing weapon functions as a _+1 striking_ weapon, and its damage type changes to fire. The damage type can't be changed using the [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile]] trait, modular trait, or similar methods.
 
-A [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown]] weapon rematerializes in the target's hand after the Strike is complete. If you choose a ranged weapon that uses ammunition, the wielder must still reload the weapon using the normal number of actions, though this generates ammunition automatically; this functions as normal ammunition, and the _blazing weapon_ can't use other types of ammunition.
+A [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown]] weapon rematerializes in the target's hand after the Strike is complete. If you choose a ranged weapon that uses ammunition, the wielder must still reload the weapon using the normal number of actions, though this generates ammunition automatically; this functions as normal ammunition, and the _blazing weapon_ can't use other types of ammunition.
 
  Any creature other than you or the target that attempts to touch, make a Strike with, or Disarm the weapon takes 1d6 fire damage each time.
 

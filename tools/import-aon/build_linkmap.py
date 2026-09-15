@@ -1,4 +1,3 @@
-from naming import note_filename
 #!/usr/bin/env -S uv run --script
 # /// script
 # requires-python = ">=3.11"
@@ -21,6 +20,8 @@ import collections
 import json
 import sys
 from pathlib import Path
+
+from naming import note_filename
 
 import import_bestiary as bes
 import import_compendium as comp
@@ -66,15 +67,33 @@ def main() -> int:
             seen.add(path)
             standalone.append((d, path))
 
-    for d, path in standalone:
-        lm.add(d.get("category", ""), d.get("id", ""), path, name=d["__name__"])
-
     # A category whose entries all land on one page can also answer bare
     # "[here](Elements.aspx)" links.
     pages_per_cat: dict[str, set[Path]] = {}
     for path, entries in grouped.items():
         for d in entries:
             pages_per_cat.setdefault(d.get("category", ""), set()).add(path)
+
+    for d, path in standalone:
+        lm.add(d.get("category", ""), d.get("id", ""), path, name=d["__name__"])
+
+    # A small category kept as one note per entry -- instincts, implements,
+    # conscious minds -- still needs somewhere for "[here](/Instincts.aspx)" to
+    # land. Its folder gets a folder note, which is the category page. Without
+    # this the label survives and the link is dropped, so the sentence ends in
+    # a dead "here". Only applies when every entry shares one folder, so a
+    # category spread across several folders is left alone.
+    folders_per_cat: dict[str, set[Path]] = {}
+    for d, path in standalone:
+        folders_per_cat.setdefault(d.get("category", ""), set()).add(path.parent)
+    for cat, folders in folders_per_cat.items():
+        if cat in pages_per_cat or len(folders) != 1:
+            continue
+        folder = next(iter(folders))
+        if folder.name == "compendium":
+            continue
+        lm.add_category_page(cat, folder / f"{folder.name}.md")
+
 
     shards = 0
     for path, entries in grouped.items():

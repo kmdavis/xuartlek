@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Illusion`  `Occult`  `Psyche`  `Psychic`
 
-- **Requirements**: [[srd/pf2e/compendium/character/subconscious-minds#Wandering Reverie|wandering reverie]] subconscious mind
+- **Requirements**: [[srd/pf2e/compendium/character/Subconscious Minds#Wandering Reverie|wandering reverie]] subconscious mind
 
 You Stride into a willing ally's space, at which point both of your appearances shift into a shared third appearance, usually one that looks like a mix of the two of you. Then, either you or your ally Strides. You each maintain the merged appearance. Creatures who are observing this know what happened, but still must [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] or otherwise engage with the illusion to attempt to disbelieve it and determine which of you is which. Otherwise, they can't tell the difference and have an equal chance to target each of you (DC 11 flat check). This illusion ends as soon as either you or the ally you're merged with acts.
 

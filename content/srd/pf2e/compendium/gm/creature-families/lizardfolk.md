@@ -16,7 +16,7 @@ Capable and adaptable predators, the reptilian beings known as lizardfolk are he
 
 ### Members
 
-[[srd/pf2e/bestiary/npc-core/humanoid/iruxi-masked-mummer|Iruxi Masked Mummer]] (Creature 9), [[srd/pf2e/bestiary/monster-core/humanoid/lizardfolk-defender|Lizardfolk Defender]] (Creature 1), [[srd/pf2e/bestiary/monster-core/humanoid/lizardfolk-scout|Lizardfolk Scout]] (Creature 1), [[srd/pf2e/bestiary/monster-core/humanoid/lizardfolk-stargazer|Lizardfolk Stargazer]] (Creature 2), Ravenile (Creature 14), [[srd/pf2e/bestiary/npc-core/humanoid/tidewater-guard|Tidewater Guard]] (Creature 4)
+[[srd/pf2e/bestiary/npc-core/humanoid/Iruxi Masked Mummer|Iruxi Masked Mummer]] (Creature 9), [[srd/pf2e/bestiary/monster-core/humanoid/Lizardfolk Defender|Lizardfolk Defender]] (Creature 1), [[srd/pf2e/bestiary/monster-core/humanoid/Lizardfolk Scout|Lizardfolk Scout]] (Creature 1), [[srd/pf2e/bestiary/monster-core/humanoid/Lizardfolk Stargazer|Lizardfolk Stargazer]] (Creature 2), Ravenile (Creature 14), [[srd/pf2e/bestiary/npc-core/humanoid/Tidewater Guard|Tidewater Guard]] (Creature 4)
 
 ### Lizardfolk Relations
 
@@ -24,7 +24,7 @@ The typical iruxi's pride in their traditions, suspicion of others, and need to 
 
 ### Lizardfolk Society
 
-Iruxis are, as a general rule, quite religious. Those who venerate deities typically look to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]], but some of them find the teachings of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]] to be compelling. Most iruxis, though, instead follow druidic traditions, ancestor worship, and astrological philosophies in particular.
+Iruxis are, as a general rule, quite religious. Those who venerate deities typically look to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Gozreh|Gozreh]], but some of them find the teachings of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Desna|Desna]] to be compelling. Most iruxis, though, instead follow druidic traditions, ancestor worship, and astrological philosophies in particular.
 
 ### Other Divinations
 

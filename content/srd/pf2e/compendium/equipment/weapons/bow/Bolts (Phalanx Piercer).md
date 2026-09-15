@@ -15,7 +15,7 @@ socialImage: og-image.png
 - **Bulk**: L
 - **Type**: Ranged
 - **Category**: Ammunition
-- **Group**: Bow
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bow|Bow]]
 
 Heavy, iron-shod bolt.
 

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Orc`
 
-The hold elders taught you your people’s histories, told tales of great athletic feats, and shared with you the hardships your ancestors endured so that you can pass this wisdom down to future generations. You become trained in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] and [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
+The hold elders taught you your people’s histories, told tales of great athletic feats, and shared with you the hardships your ancestors endured so that you can pass this wisdom down to future generations. You become trained in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] and [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
 
-You also gain the Additional Lore general feat for Orc [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]].
+You also gain the Additional Lore general feat for Orc [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]].
 
 *Source: Player Core p. 72*

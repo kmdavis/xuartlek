@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Centaur`
 
-You've trained to harry your foes from great distances, using your swiftness to maintain distance and keen eyesight to stay on target. You reduce the penalty for attacking beyond your first range increment by 1, to a minimum of 0, when using weapons in the bow weapon group.
+You've trained to harry your foes from great distances, using your swiftness to maintain distance and keen eyesight to stay on target. You reduce the penalty for attacking beyond your first range increment by 1, to a minimum of 0, when using weapons in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bow|bow]] weapon group.
 
 *Source: Howl of the Wild p. 32*

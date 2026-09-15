@@ -15,16 +15,16 @@ socialImage: og-image.png
 
 `Archetype`  `Primal`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/world-rouser|World Rouser]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/world-rouser-dedication|World Rouser Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/World Rouser|World Rouser]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/World Rouser Dedication|World Rouser Dedication]]
 - **Trigger**: You Rouse the World.
 
 You have the world wake with a great convulsion. All other creatures in the area when you Rouse the World must attempt a Reflex save against your world rouser DC.
 
 **Success** The creature is unaffected.
 
-**Failure** The creature falls and lands [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
+**Failure** The creature falls and lands [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]].
 
-**Critical Failure** As failure, but the creature also becomes [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1.
+**Critical Failure** As failure, but the creature also becomes [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] 1.
 
 *Source: Impossible Magic p. 107*

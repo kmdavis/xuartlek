@@ -24,23 +24,23 @@ Constitution or Intelligence
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/warhammer|Warhammer]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/hammer/Warhammer|Warhammer]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Decay|Decay]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Metal|Metal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Decay|Decay]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Metal|Metal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Cities|Cities]], [[srd/pf2e/compendium/character/domains#Lightning|Lightning]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Cities|Cities]], [[srd/pf2e/compendium/character/Domains#Lightning|Lightning]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/fold-metal|Fold Metal]]
+[[srd/pf2e/compendium/spells/rank-1/Fold Metal|Fold Metal]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/impaling-spike|Impaling Spike]]
+[[srd/pf2e/compendium/spells/rank-5/Impaling Spike|Impaling Spike]]
 
 - **8th**
-[[srd/pf2e/compendium/spells/rank-8/ferrous-form|Ferrous Form]]
+[[srd/pf2e/compendium/spells/rank-8/Ferrous Form|Ferrous Form]]
 
 *Source: Divine Mysteries p. 240*

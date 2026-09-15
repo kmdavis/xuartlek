@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Human`
 
-Your powerful ego makes it harder for others to order you around. If you roll a success on a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effect that attempts to directly control your actions, you critically succeed instead. If a creature rolls a failure on a check to Coerce you using Intimidation, it gets a critical failure instead (so it can’t try to Coerce you again for 1 week).
+Your powerful ego makes it harder for others to order you around. If you roll a success on a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effect that attempts to directly control your actions, you critically succeed instead. If a creature rolls a failure on a check to Coerce you using Intimidation, it gets a critical failure instead (so it can’t try to Coerce you again for 1 week).
 
 *Source: Player Core p. 64*

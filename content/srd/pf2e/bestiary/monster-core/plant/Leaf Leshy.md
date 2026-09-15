@@ -28,10 +28,10 @@ modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; low-light vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]; [[srd/pf2e/compendium/spells/rank-3/speak-with-plants|_speak with plants_]] (trees only)"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]]; [[srd/pf2e/compendium/spells/rank-3/Speak with Plants|_speak with plants_]] (trees only)"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +4, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +4, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +4, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +4"
 abilityMods: [-1, 2, 2, -2, 2, 1]
 abilities_top:
   - name: "Items"
@@ -46,16 +46,16 @@ health:
     desc: "15 (Weaknesses fire 2)"
 abilities_mid:
   - name: "Verdant Burst"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]) When a leaf leshy dies, a burst of primal energy explodes from their body, restoring 1d4 Hit Points to each [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] creature in a 30-foot emanation. This area is filled with tree saplings, becoming difficult terrain. If the terrain is not a viable environment for these trees, they wither after 24 hours."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Vitality|vitality]]) When a leaf leshy dies, a burst of primal energy explodes from their body, restoring 1d4 Hit Points to each [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]] creature in a 30-foot emanation. This area is filled with tree saplings, becoming difficult terrain. If the terrain is not a viable environment for these trees, they wither after 24 hours."
 speed: "25 feet; Glide"
 attacks:
   - name: "Melee"
-    desc: "⬻ longspear +3 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d8–1 piercing"
+    desc: "⬻ longspear +3 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 1d8–1 piercing"
   - name: "Ranged"
     desc: "⬻ seedpod +6 (range increment 30 feet) __Damage__ 1d6 bludgeoning plus deafening blow"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The leaf leshy transforms into a Small tree. This ability otherwise uses the effects of [[srd/pf2e/compendium/spells/rank-2/one-with-plants|_one with plants_]]."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|Polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|Primal]]) The leaf leshy transforms into a Small tree. This ability otherwise uses the effects of [[srd/pf2e/compendium/spells/rank-2/One with Plants|_one with plants_]]."
   - name: "Deafening Blow"
     desc: "When a leaf leshy hits with their seedpod Strike, the pod explodes loudly. The target must attempt a DC 16 Fortitude save."
   - name: "Critical Success"
@@ -63,14 +63,14 @@ abilities_bot:
   - name: "Success"
     desc: "The target is unaffected."
   - name: "Failure"
-    desc: "The target is [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] for 1 round."
+    desc: "The target is [[srd/pf2e/compendium/rules-elements/Conditions#Deafened|deafened]] for 1 round."
   - name: "Critical Failure"
     desc: "The target is deafened for 1 minute."
   - name: "Glide"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]]) The leshy glides gently through the air, moving 5 feet toward the ground and up to 25 feet forward. As long as the leshy spends at least 1 action gliding each round, they remain in the air at the end of each turn. For the purpose of determining damage from falls, a leaf leshy always treats falls as if they were 20 feet shorter."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Move|Move]]) The leshy glides gently through the air, moving 5 feet toward the ground and up to 25 feet forward. As long as the leshy spends at least 1 action gliding each round, they remain in the air at the end of each turn. For the purpose of determining damage from falls, a leaf leshy always treats falls as if they were 20 feet shorter."
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 14 - __Constant (3rd)__ [[srd/pf2e/compendium/spells/rank-3/speak-with-plants|Speak with Plants]] (trees only)"
+    desc: "DC 14 - __Constant (3rd)__ [[srd/pf2e/compendium/spells/rank-3/Speak with Plants|Speak with Plants]] (trees only)"
 sourcebook: "_Monster Core_, page 216."
 ```
 

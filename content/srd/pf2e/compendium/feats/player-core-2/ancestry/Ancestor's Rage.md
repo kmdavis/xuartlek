@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Kholo`  `Gnoll`
 
-You transform into an enormous, otherworldly hyena. You can cast [[srd/pf2e/compendium/spells/rank-2/animal-form|_animal form_]] (canine form only) once per day as a 5th-rank occult innate spell.
+You transform into an enormous, otherworldly hyena. You can cast [[srd/pf2e/compendium/spells/rank-2/Animal Form|_animal form_]] (canine form only) once per day as a 5th-rank occult innate spell.
 
 *Source: Player Core 2 p. 19*

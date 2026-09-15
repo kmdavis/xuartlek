@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/dandy|Dandy]], Venture-Gossip (Level 4), Prophet of Kalistrade (Level 4)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/dandy-dedication|Dandy Dedication]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Dandy|Dandy]], Venture-Gossip (Level 4), Prophet of Kalistrade (Level 4)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Dandy Dedication|Dandy Dedication]]
 
-Your time gossiping in fashionable salons keeps you informed on every topic. You are trained in Gossip Lore, a special Lore skill that can be used only to Recall Knowledge, but on any topic. If you fail a check to Recall Knowledge with Gossip Lore, you get the effects of the [[srd/pf2e/compendium/feats/player-core/skill/dubious-knowledge|Dubious Knowledge]] skill feat. If you have legendary proficiency in [[srd/pf2e/compendium/rules-elements/skills/society|Society]], you gain expert proficiency in Gossip Lore, but you can’t increase your proficiency rank in Gossip Lore by any other means.
+Your time gossiping in fashionable salons keeps you informed on every topic. You are trained in Gossip Lore, a special Lore skill that can be used only to [[srd/pf2e/compendium/rules-elements/skills/skills|Recall Knowledge]], but on any topic. If you fail a check to Recall Knowledge with Gossip Lore, you get the effects of the [[srd/pf2e/compendium/feats/player-core/skill/Dubious Knowledge|Dubious Knowledge]] skill feat. If you have legendary proficiency in [[srd/pf2e/compendium/rules-elements/skills/Society|Society]], you gain expert proficiency in Gossip Lore, but you can’t increase your proficiency rank in Gossip Lore by any other means.
 
 *Source: Player Core 2 p. 195*

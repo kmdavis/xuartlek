@@ -32,11 +32,11 @@ perception:
     desc: "+24"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +26, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +24, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +28, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +25, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +25"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +26, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +24, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +28, [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] +25, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +25"
 abilityMods: [8, 7, 7, 5, 4, 4]
 abilities_top:
   - name: "Disgusted by Food"
-    desc: "The morrowkin eats dreams and potential, not food. A creature that spends an action to brandish food at the morrowkin automatically makes the creature [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 (or increases its sickened value by 1, to a maximum of sickened 6), decreasing the morrowkin's AC, attack rolls, saves, skills, and ability DCs accordingly, as normal for the sickened condition. The morrowkin can't retch to reduce its sickened condition."
+    desc: "The morrowkin eats dreams and potential, not food. A creature that spends an action to brandish food at the morrowkin automatically makes the creature [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] 1 (or increases its sickened value by 1, to a maximum of sickened 6), decreasing the morrowkin's AC, attack rolls, saves, skills, and ability DCs accordingly, as normal for the sickened condition. The morrowkin can't retch to reduce its sickened condition."
   - name: "Endless"
     desc: "If reduced to 0 Hit Points or incapacitated for more than 3 rounds, the morrowkin vanishes. In 1 minute, it reappears refreshed completely as if the previous battle never happened, with full HP, with all effects on it cleared, and with its Swallow Future ability ready to use again."
 ac: 34
@@ -50,12 +50,12 @@ health:
 speed: "35 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +29 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10]]) __Damage__ 3d8+14 slashing plus drain potential"
+    desc: "⬻ claw +29 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10]]) __Damage__ 3d8+14 slashing plus drain potential"
 abilities_bot:
   - name: "Drain Potential"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|Misfortune]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]) The morrowkin tries to drain the motivation from its target, who must attempt a DC 31 Fortitude save. If the target fails, it is [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] 1 (doomed 2 on a critical failure) and must roll twice and use the worse result on all checks for 1 minute. Creatures wearing a hope talisman are unaffected."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|Misfortune]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]]) The morrowkin tries to drain the motivation from its target, who must attempt a DC 31 Fortitude save. If the target fails, it is [[srd/pf2e/compendium/rules-elements/Conditions#Doomed|doomed]] 1 (doomed 2 on a critical failure) and must roll twice and use the worse result on all checks for 1 minute. Creatures wearing a hope talisman are unaffected."
   - name: "Swallow Future"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]])"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]])"
   - name: "Frequency"
     desc: "once per minute"
   - name: "Effect"
@@ -63,7 +63,7 @@ abilities_bot:
   - name: "Critical Success"
     desc: "The creature takes no damage."
   - name: "Success"
-    desc: "The creature takes half damage and is [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] 1."
+    desc: "The creature takes half damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Doomed|doomed]] 1."
   - name: "Failure"
     desc: "The creature takes full damage and is doomed 2."
   - name: "Critical Failure"

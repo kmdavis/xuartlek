@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]]
 
 Your study of magic allows you to instinctively sense its presence. You can cast 1st-rank detect magic at will as an arcane innate spell. If you’re a master in Arcana, the spell is heightened to 3rd rank; if you’re legendary, it is heightened to 4th rank.
 

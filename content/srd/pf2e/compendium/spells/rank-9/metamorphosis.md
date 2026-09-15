@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Polymorph`
 
-- **Traditions**: Arcane, Primal
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
-- **Deities**: Aakriti, [[srd/pf2e/compendium/deities/dead-or-missing-deities/isis|Isis]], [[srd/pf2e/compendium/deities/pantheons/wheels-of-innovation|Wheels of Innovation]], Zeaki
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Fey|Fey]]
+- **Deities**: Aakriti, [[srd/pf2e/compendium/deities/dead-or-missing-deities/Isis|Isis]], [[srd/pf2e/compendium/deities/pantheons/Wheels of Innovation|Wheels of Innovation]], Zeaki
 - **Duration**: 1 minute
 
-Harnessing your mastery of transformative magic, you hide forms within forms. You transform yourself into any form you could choose with a [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] spell in your spell repertoire or that you could prepare of 8th-rank or lower (including any 8th-rank or lower heightened versions of spells you know). You gain 40 temporary Hit Points rather than the amount normally granted by the form.
+Harnessing your mastery of transformative magic, you hide forms within forms. You transform yourself into any form you could choose with a [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]] spell in your spell repertoire or that you could prepare of 8th-rank or lower (including any 8th-rank or lower heightened versions of spells you know). You gain 40 temporary Hit Points rather than the amount normally granted by the form.
 
  You can Sustain the spell to enter a new form you haven't used during this _metamorphosis_. This replenishes your temporary Hit Points from this spell.
 

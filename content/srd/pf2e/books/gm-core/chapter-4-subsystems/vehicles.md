@@ -1,6 +1,7 @@
 ---
 title: "Vehicles"
 aliases: ["Vehicles"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3116"
 citation: "GM Core pg. 210"
-socialImage: og-image.png
 ---
 
 # Vehicles
@@ -56,7 +56,7 @@ There are five main types of propulsion: alchemical, magical, pulled, rowed, and
 >
 > ## Clockwork Propulsion
 >
-> Powered by the measured release of energy stored in springs via winding, clockwork propulsion is a fragile thing of mechanical beauty and wonderous engineering. Clockwork vehicles can often be piloted with the Crafting skill.
+> Powered by the measured release of energy stored in springs via winding, clockwork propulsion is a fragile thing of mechanical beauty and wonderous engineering. Clockwork vehicles can often be piloted with the [[srd/pf2e/compendium/rules-elements/skills/skills|Crafting]] skill.
 >
 > A clockwork vehicle must be wound to remain operational. Clockwork vehicles have the Wind-Up trait, with the specifics listed in its stat block under the wind-up ability.
 >
@@ -64,9 +64,9 @@ There are five main types of propulsion: alchemical, magical, pulled, rowed, and
 >
 > A clockwork vehicle can be placed into standby mode by its pilot as a 3-action activity. Its operational time doesn't decrease in standby.
 >
-> A creature can attempt to Disable a Device to wind a clockwork vehicle down (with a DC listed in the wind-up entry). For each success, the clockwork vehicle loses 10 minutes of operational time. This can be done even if the clockwork vehicle is in standby mode.
+> A creature can attempt to [Disable a Device](https://2e.aonprd.com/Actions.aspx?ID=69) to wind a clockwork vehicle down (with a DC listed in the wind-up entry). For each success, the clockwork vehicle loses 10 minutes of operational time. This can be done even if the clockwork vehicle is in standby mode.
 >
-> Broken clockwork vehicles have difficulty holding energy. The first time each round a broken clockwork vehicle moves, it must make a DC 5 flat check. On a failure, it loses 10 minutes of operational time.
+> [[srd/pf2e/compendium/rules-elements/Conditions|Broken]] clockwork vehicles have difficulty holding energy. The first time each round a broken clockwork vehicle moves, it must make a DC 5 flat check. On a failure, it loses 10 minutes of operational time.
 >
 > ## Electrical Propulsion
 >
@@ -120,18 +120,18 @@ Characters use the actions listed below to move and interact with vehicles. The 
 
 ### Board [one-action]
 
-[[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]]
-**Source** GM Core pg. 212
+[[srd/pf2e/compendium/rules-elements/traits/player-core/Move|Move]]
+**Source** [GM Core pg. 212](https://2e.aonprd.com/Sources.aspx?ID=218)
 **Requirements** You are adjacent to a point of entry on the vehicle you are attempting to board.
 
 ---
 
-You board a vehicle through an open top, a door, a portal, or a hatch; if you’re already on board, you can instead use this action to disembark into an empty space adjacent to the vehicle’s point of entry. Using this action while the vehicle is in motion is challenging, requiring a successful [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check with a DC equal to the vehicle’s AC.
+You board a vehicle through an open top, a door, a portal, or a hatch; if you’re already on board, you can instead use this action to disembark into an empty space adjacent to the vehicle’s point of entry. Using this action while the vehicle is in motion is challenging, requiring a successful [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check with a DC equal to the vehicle’s AC.
 
 ### Drive (Varies)
 
-[[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]]
-**Source** GM Core pg. 212
+[[srd/pf2e/compendium/rules-elements/traits/player-core/Move|Move]]
+**Source** [GM Core pg. 212](https://2e.aonprd.com/Sources.aspx?ID=218)
 **Requirements** You are piloting a vehicle.
 
 ---
@@ -140,26 +140,26 @@ You pilot your vehicle to move. Decide how many actions you intend to spend befo
 
 [one-action] Attempt a piloting check. On a success, the vehicle moves up to its Speed and can turn normally. On a failure, the vehicle moves its Speed in a straight line. On a critical failure, the vehicle moves its Speed in a straight line and becomes uncontrolled.
 
-[two-actions] ([[srd/pf2e/compendium/rules-elements/traits/gm-core/reckless|reckless]]) The vehicle moves up to twice its Speed in a straight line at the vehicle’s current heading.
+[two-actions] ([[srd/pf2e/compendium/rules-elements/traits/gm-core/Reckless|reckless]]) The vehicle moves up to twice its Speed in a straight line at the vehicle’s current heading.
 
-[three-actions] ([[srd/pf2e/compendium/rules-elements/traits/gm-core/reckless|reckless]]) You take a –5 penalty on your piloting check to maintain control of the vehicle. The vehicle moves up to three times its Speed in a straight line at the vehicle’s current heading.
+[three-actions] ([[srd/pf2e/compendium/rules-elements/traits/gm-core/Reckless|reckless]]) You take a –5 penalty on your piloting check to maintain control of the vehicle. The vehicle moves up to three times its Speed in a straight line at the vehicle’s current heading.
 
 ### Run Over [three-actions]
 
-[[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]] [[srd/pf2e/compendium/rules-elements/traits/gm-core/reckless|Reckless]]
-**Source** GM Core pg. 212
+[[srd/pf2e/compendium/rules-elements/traits/player-core/Move|Move]] [[srd/pf2e/compendium/rules-elements/traits/gm-core/Reckless|Reckless]]
+**Source** [GM Core pg. 212](https://2e.aonprd.com/Sources.aspx?ID=218)
 **Requirements** You are piloting a vehicle.
 
 ---
 
 You try to run over creatures with your vehicle, possibly also ramming one larger creature or object. If you maintain control of your vehicle, the vehicle moves up to twice its Speed in a straight line at the vehicle’s current heading. You attempt to run over any creatures in your path two sizes smaller than the vehicle or smaller, and you can attempt to ram one target creature or object in your path one size smaller than the vehicle or larger.
 
-Each creature in your path, including a rammed target, takes the vehicle’s collision damage ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save at vehicle’s collision DC). If the rammed target is a vehicle, its pilot can attempt a piloting check in place of this Reflex save, with the same results. If the target of your ram takes damage, you and your vehicle each take collision damage (no save) and your movement ends.
+Each creature in your path, including a rammed target, takes the vehicle’s collision damage ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save at vehicle’s collision DC). If the rammed target is a vehicle, its pilot can attempt a piloting check in place of this Reflex save, with the same results. If the target of your ram takes damage, you and your vehicle each take collision damage (no save) and your movement ends.
 
 ### Stop [one-action]
 
-[[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]
-**Source** GM Core pg. 212
+[[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|Manipulate]]
+**Source** [GM Core pg. 212](https://2e.aonprd.com/Sources.aspx?ID=218)
 **Requirements** You are piloting a vehicle in motion.
 
 ---
@@ -168,8 +168,8 @@ You bring the vehicle to a stop.
 
 ### Take Control [one-action]
 
-[[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]
-**Source** GM Core pg. 212
+[[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|Manipulate]]
+**Source** [GM Core pg. 212](https://2e.aonprd.com/Sources.aspx?ID=218)
 **Requirements** You are aboard the vehicle and adjacent to its controls.
 
 ---

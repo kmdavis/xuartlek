@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Tradition**: Primal
-- **Spell Lists**: Elemental
-- **Deities**: Alocer, [[srd/pf2e/compendium/deities/daemon-harbingers/anogetz|Anogetz]], [[srd/pf2e/compendium/deities/orc-gods/jukha|Jukha]], The Endless Road, [[srd/pf2e/compendium/deities/elven-gods/yuelral|Yuelral]], [[srd/pf2e/compendium/deities/goblin-gods/zarongel|Zarongel]]
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
+- **Deities**: Alocer, [[srd/pf2e/compendium/deities/daemon-harbingers/Anogetz|Anogetz]], [[srd/pf2e/compendium/deities/orc-gods/Jukha|Jukha]], The Endless Road, [[srd/pf2e/compendium/deities/elven-gods/Yuelral|Yuelral]], [[srd/pf2e/compendium/deities/goblin-gods/Zarongel|Zarongel]]
 - **Range**: 30 feet
 - **Target**: up to 10 creatures
 - **Duration**: 1 hour

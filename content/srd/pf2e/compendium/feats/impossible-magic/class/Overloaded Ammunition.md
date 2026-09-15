@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Runesmith`
 
-You can tenuously bind power into arrows or sling stones to transform them into explosive missiles. During your daily preparations, you can lay power-containing runes upon two pieces of mundane ammunition to transform them into [[srd/pf2e/compendium/equipment/consumables/explosive-ammunition|_explosive ammunition_]]. The DC of the explosive ammunition is equal to your class DC. The binding on the powder is unstable, and the ammunition burns itself to ash by your next daily preparations if not used. This ammunition has no value if sold.
+You can tenuously bind power into arrows or sling stones to transform them into explosive missiles. During your daily preparations, you can lay power-containing runes upon two pieces of mundane ammunition to transform them into [[srd/pf2e/compendium/equipment/consumables/Explosive Ammunition|_explosive ammunition_]]. The DC of the explosive ammunition is equal to your class DC. The binding on the powder is unstable, and the ammunition burns itself to ash by your next daily preparations if not used. This ammunition has no value if sold.
 
 At 14th level, you create _greater explosive ammunition_ instead.
 

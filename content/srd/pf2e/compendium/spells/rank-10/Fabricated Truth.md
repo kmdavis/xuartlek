@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Incapacitation`  `Manipulate`  `Mental`
 
-- **Tradition**: Occult
+- **Tradition**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 100 feet
 - **Target**: up to 5 creatures
 - **Defense**: Will

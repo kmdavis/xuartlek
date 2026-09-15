@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Awakened Animal`
 
-You know how to put on the charm, doing playful tricks to win favor. You are trained in [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] and gain the [[srd/pf2e/compendium/feats/player-core/skill/impressive-performance|Impressive Performance]] feat. When performing for [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoids]], you gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] with Performance.
+You know how to put on the charm, doing playful tricks to win favor. You are trained in [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] and gain the [[srd/pf2e/compendium/feats/player-core/skill/Impressive Performance|Impressive Performance]] feat. When performing for [[srd/pf2e/compendium/rules-elements/traits/player-core/Humanoid|humanoids]], you gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] with Performance.
 
 *Source: Howl of the Wild p. 26*

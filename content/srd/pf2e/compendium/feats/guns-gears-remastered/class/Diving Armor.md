@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `Inventor`  `Modification`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/innovations#Armor|armor innovation]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Innovations#Armor|armor innovation]]
 
 You've modified your armor with fins, rotors, and other devices to make it easy for you to move through the water, plus mechanical gills that can help you extract breathable air from water. While wearing your armor innovation, you can breathe underwater and gain a swim Speed equal to your land Speed.
 
 ### Diving Armor leads to...
 
-Xidao Sea Mine Drop
+[[srd/pf2e/compendium/feats/tian-xia-character-guide/class/Xidao Sea Mine Drop|Xidao Sea Mine Drop]]
 
 *Source: Guns & Gears (Remastered) p. 26*

@@ -26,10 +26,10 @@ socialImage: og-image.png
 - **Reload**: 0
 - **Type**: Ranged
 - **Category**: Simple
-- **Group**: Firearm
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/magazine-long-air-repeater|Magazine (Long Air Repeater)]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/Magazine (Long Air Repeater)|Magazine (Long Air Repeater)]]
 
-Like the one-handed [[srd/pf2e/compendium/equipment/weapons/firearm/air-repeater|air repeater]], this thin-barreled firearm uses a container of pressurized air instead of black powder to propel small metal pellets from an attached cartridge. The long air repeater has better range and ammo capacity than the one-handed variant, though it still lacks significant stopping power. A typical long air repeater magazine holds 8 pellets.
+Like the one-handed [[srd/pf2e/compendium/equipment/weapons/firearm/Air Repeater|air repeater]], this thin-barreled firearm uses a container of pressurized air instead of black powder to propel small metal pellets from an attached cartridge. The long air repeater has better range and ammo capacity than the one-handed variant, though it still lacks significant stopping power. A typical long air repeater magazine holds 8 pellets.
 
 ### Critical Specialization Effects
 

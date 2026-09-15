@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: be peaceful, choose and perfect an art, lead by example, see the beauty in all things
 - **Anathema**: destroy art or allow it to be destroyed, unless saving a life or pursuing greater art; refuse to accept surrender
 - **Area of Concern**: art, beauty, love, and music
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/guardians-of-the-sacred-self|Guardians of the Sacred Self]], [[srd/pf2e/compendium/deities/pantheons/radiant-prism|Radiant Prism]], The Enlightened Scholar's Path, The Prismatic Ray, The Resplendent Court
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Guardians of the Sacred Self|Guardians of the Sacred Self]], [[srd/pf2e/compendium/deities/pantheons/Radiant Prism|Radiant Prism]], The Enlightened Scholar's Path, The Prismatic Ray, The Resplendent Court
 
 ### Devotee Benefits
 
@@ -25,34 +25,34 @@ Wisdom or Charisma
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/glaive|Glaive]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/Glaive|Glaive]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Passion|Passion]], [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Passion|Passion]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Repose|Repose]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Repose|Repose]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/dizzying-colors|Dizzying Colors]]
+[[srd/pf2e/compendium/spells/rank-1/Dizzying Colors|Dizzying Colors]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/enthrall|Enthrall]]
+[[srd/pf2e/compendium/spells/rank-3/Enthrall|Enthrall]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/creation|Creation]]
+[[srd/pf2e/compendium/spells/rank-4/Creation|Creation]]
 
 ### Divine Intercession
 
 When creatures perform pleasing acts, such as spreading beauty, or displeasing actions, such as betraying loved ones, Shelyn may respond accordingly.
 
-**Minor Boon** Once, when you roll a failure on a [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] check, you get a critical success instead. Shelyn typically grants this boon only when the Diplomacy check would serve to increase love or offer a chance of redemption.
+**Minor Boon** Once, when you roll a failure on a [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] check, you get a critical success instead. Shelyn typically grants this boon only when the Diplomacy check would serve to increase love or offer a chance of redemption.
 
 **Moderate Boon** You are inspired to create great works and become a virtuoso at all arts. You gain the Specialty Crafting feat and the Virtuoso Performer feat in all categories of Crafting and Performance.
 
-**Major Boon** Your inner beauty and love surround you in an aura. As long as you bear them no ill will, all creatures other than fiends, undead, and mindless creatures start with an attitude of [[srd/pf2e/compendium/rules-elements/conditions#Friendly|friendly]] toward you, unless they would have been [[srd/pf2e/compendium/rules-elements/conditions#Helpful|helpful]] instead. This doesn’t mean they are willing to change their life or plans for you, and this boon does not prevent their attitudes from worsening if you try to thwart them. This effect doesn’t work against deities and similarly powerful creatures. Additionally, the love you share with your friends inspires them. You and your allies gain a +3 status bonus to saving throws and skill checks as long as you can see each other.
+**Major Boon** Your inner beauty and love surround you in an aura. As long as you bear them no ill will, all creatures other than fiends, undead, and mindless creatures start with an attitude of [[srd/pf2e/compendium/rules-elements/Conditions#Friendly|friendly]] toward you, unless they would have been [[srd/pf2e/compendium/rules-elements/Conditions#Helpful|helpful]] instead. This doesn’t mean they are willing to change their life or plans for you, and this boon does not prevent their attitudes from worsening if you try to thwart them. This effect doesn’t work against deities and similarly powerful creatures. Additionally, the love you share with your friends inspires them. You and your allies gain a +3 status bonus to saving throws and skill checks as long as you can see each other.
 
 **Minor Curse** You heart churns with remorse. Each day, you are sickened 1 as a specific misdeed plays out in your mind over and over in guilt. You can’t remove this condition, though it abates enough for you to quickly eat and drink when necessary. If you make amends or otherwise earnestly pursue redemption for the misdeed, the sickened condition fades completely that day.
 

@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Psychic
 
-At 2nd level and every even-numbered level, you gain a psychic class feat.
+At 2nd level and every even-numbered level, you gain a [psychic class feat](https://2e.aonprd.com/Feats.aspx?Traits=894).
 
 *Source: Dark Archives (Remastered) p. 9*

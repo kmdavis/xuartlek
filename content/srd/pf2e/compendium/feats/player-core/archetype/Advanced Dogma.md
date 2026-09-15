@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/cleric|Cleric]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/basic-dogma|Basic Dogma]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Cleric|Cleric]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Basic Dogma|Basic Dogma]]
 
 You gain one cleric feat. For the purpose of meeting its prerequisites, your cleric level is equal to half your character level.
 

@@ -18,7 +18,7 @@ socialImage: og-image.png
 - **Cast**: 1 day
 - **Cost**: crushed gems and spices worth 250 gp
 - **Secondary Casters**: 2
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (expert) or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] (expert) or [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] (expert)
 - **Secondary Checks**: Crafting, Arcana or Occultism (whichever isn't used for the primary check)
 - **Target(s)**: 1 non-magical inanimate object
 - **Duration**: unlimited

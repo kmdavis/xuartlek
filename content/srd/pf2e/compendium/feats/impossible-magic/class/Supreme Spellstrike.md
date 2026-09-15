@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Spellstrike|Spellstrike]]
 
-For you, it is almost effortless to combine spells and attacks into devastating combinations. You’re permanently [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]]. You can use your extra action only to Strike or to recharge Spellstrike.
+For you, it is almost effortless to combine spells and attacks into devastating combinations. You’re permanently [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]]. You can use your extra action only to Strike or to recharge Spellstrike.
 
 *Source: Impossible Magic p. 25*

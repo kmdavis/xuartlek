@@ -18,13 +18,13 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Manipulate`  `Vitality`  `Positive`
 
-- **Traditions**: Divine, Primal
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Life|Life]]
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Life|Life]]
 - **Range**: 30 feet
 - **Target**: 1 creature that is undead or otherwise has void healing
 - **Defense**: basic Fortitude
 
-You demolish the target's corrupted essence with energy from Creation's Forge. You deal 2d6 vitality damage with a basic Fortitude save. If the creature critically fails the save, it is also [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 until the start of your next turn.
+You demolish the target's corrupted essence with energy from Creation's Forge. You deal 2d6 vitality damage with a basic Fortitude save. If the creature critically fails the save, it is also [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]] 1 until the start of your next turn.
 
 ---
 **Heightened (+1)** The damage increases by 1d6.

@@ -22,9 +22,9 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Simple
-- **Group**: Polearm
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Polearm|Polearm]]
 
-A fighting oar is a sturdy boat oar, typically made of wood, whose haft and blades are reinforced for use in combat. A fighting oar adds its item bonus from weapon potency runes (if any) as an item bonus on Piloting [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] and Sailing Lore checks made to pilot a rowed vehicle (for more information on vehicles, see [[srd/pf2e/books/gm-core/chapter-4-subsystems/vehicles#Vehicle Basics|here]]).
+A fighting oar is a sturdy boat oar, typically made of wood, whose haft and blades are reinforced for use in combat. A fighting oar adds its item bonus from weapon potency runes (if any) as an item bonus on Piloting [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] and Sailing Lore checks made to pilot a rowed vehicle (for more information on vehicles, see [[srd/pf2e/books/gm-core/chapter-4-subsystems/Vehicles#Vehicle Basics|here]]).
 
 ### Critical Specialization Effects
 

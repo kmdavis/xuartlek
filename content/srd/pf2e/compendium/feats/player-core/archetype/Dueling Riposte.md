@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Fighter`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]] (Level 10)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/dueling-parry-fighter|Dueling Parry (Fighter)]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Duelist|Duelist]] (Level 10)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Dueling Parry (Fighter)|Dueling Parry (Fighter)]]
 - **Trigger**: A creature within your reach critically fails a Strike against you
 - **Requirements**: You are benefiting from Dueling Parry
 
@@ -23,6 +23,6 @@ You elegantly counterattack against your flailing enemy. Make a melee Strike aga
 
 ### Dueling Riposte leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/guiding-riposte|Guiding Riposte]], [[srd/pf2e/compendium/feats/player-core/archetype/improved-dueling-riposte|Improved Dueling Riposte]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Guiding Riposte|Guiding Riposte]], [[srd/pf2e/compendium/feats/player-core/archetype/Improved Dueling Riposte|Improved Dueling Riposte]]
 
 *Source: Player Core p. 146*

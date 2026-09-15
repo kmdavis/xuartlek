@@ -17,13 +17,13 @@ socialImage: og-image.png
 
 `Barbarian`  `Polymorph`  `Primal`  `Rage`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/giant|Giant instinct]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/Giant|Giant instinct]]
 - **Requirements**: You are Medium or smaller.
 
-You grow to incredible size. You become Large, increasing your [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] by 5 feet and gaining the [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]] condition until you stop raging. Your equipment grows with you.
+You grow to incredible size. You become Large, increasing your [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach]] by 5 feet and gaining the [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy 1]] condition until you stop raging. Your equipment grows with you.
 
 ### Giant's Stature leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/titans-stature|Titan's Stature]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Titan's Stature|Titan's Stature]]
 
 *Source: Player Core 2 p. 79*

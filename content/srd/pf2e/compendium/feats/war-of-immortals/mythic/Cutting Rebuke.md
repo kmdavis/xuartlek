@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: demagogue's calling or thespian's calling
 
-If words could kill, the poet might rule the world. Your words can. You gain the [[srd/pf2e/compendium/feats/player-core-2/skill/bon-mot|Bon Mot]] skill feat. You can spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] when rolling the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] check for Bon Mot to attempt the check at mythic proficiency. If the check succeeds, you can also deal mental damage equal to your level to the target (double on a critical success).
+If words could kill, the poet might rule the world. Your words can. You gain the [[srd/pf2e/compendium/feats/player-core-2/skill/Bon Mot|Bon Mot]] skill feat. You can spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] when rolling the [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] check for Bon Mot to attempt the check at mythic proficiency. If the check succeeds, you can also deal mental damage equal to your level to the target (double on a critical success).
 
 *Source: War of Immortals p. 82*

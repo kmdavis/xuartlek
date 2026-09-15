@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/martial-artist-dedication|Martial Artist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Martial Artist|Martial Artist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Martial Artist Dedication|Martial Artist Dedication]]
 - **Requirements**: Your last action was a missed [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with a melee unarmed attack.
 
-You have trained rigorously to use all parts of your body as a weapon, and when you miss with an attack, you can usually continue the attack with a different body part and still deal damage. Make another [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with a melee unarmed attack, using the same [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Multiple Attack Penalty|multiple attack penalty]] as the missed Strike, if any.
+You have trained rigorously to use all parts of your body as a weapon, and when you miss with an attack, you can usually continue the attack with a different body part and still deal damage. Make another [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with a melee unarmed attack, using the same [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Multiple Attack Penalty|multiple attack penalty]] as the missed Strike, if any.
 
 *Source: Player Core 2 p. 206*

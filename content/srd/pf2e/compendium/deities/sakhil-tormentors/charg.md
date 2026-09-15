@@ -24,21 +24,21 @@ Strength or Intelligence
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/falchion|Falchion]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Falchion|Falchion]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Abomination|Abomination]], [[srd/pf2e/compendium/character/domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Time|Time]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Abomination|Abomination]], [[srd/pf2e/compendium/character/Domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Time|Time]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Decay|Decay]], [[srd/pf2e/compendium/character/domains#Nightmares|Nightmares]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Decay|Decay]], [[srd/pf2e/compendium/character/Domains#Nightmares|Nightmares]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/sleep|Sleep]]
+[[srd/pf2e/compendium/spells/rank-1/Sleep|Sleep]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/hypnotize|Hypnotize]]
+[[srd/pf2e/compendium/spells/rank-3/Hypnotize|Hypnotize]]
 
 - **5th**
 Stagnate Time

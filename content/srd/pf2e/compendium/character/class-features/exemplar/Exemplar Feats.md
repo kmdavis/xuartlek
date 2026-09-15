@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Exemplar
 
-At 1st level and every even-numbered level thereafter, you gain an exemplar class feat.
+At 1st level and every even-numbered level thereafter, you gain an [exemplar class feat](https://2e.aonprd.com/Feats.aspx?Traits=839).
 
 *Source: War of Immortals p. 28*

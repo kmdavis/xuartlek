@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Fortune`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Naga|Naga]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Naga|Naga]]
 - **Range**: 30 feet
 - **Target**: 1 willing creature
 - **Duration**: 1 minute

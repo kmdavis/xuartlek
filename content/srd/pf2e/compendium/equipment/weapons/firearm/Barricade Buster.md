@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Kickback`  `Orc`  `Razing`  `Repeating`  `Uncommon`  `Volley`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/orc-gods/wulgren|Wulgren]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/orc-gods/Wulgren|Wulgren]]
 - **Price**: 9 gp
 - **Damage**: 1d10 B
 - **Bulk**: 3
@@ -28,10 +28,10 @@ socialImage: og-image.png
 - **Reload**: 0
 - **Type**: Ranged
 - **Category**: Advanced
-- **Group**: Firearm
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/8-round-magazine|8-Round Magazine]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/8-Round Magazine|8-Round Magazine]]
 
-Developed by a half-orc inventor from Alkenstar who brought the technology north to battle the Whispering Tyrant alongside the [[srd/pf2e/compendium/character/ancestries/orc|orc]] hordes of Belkzen, the barricade buster features eight barrels fixed around a central pivot attached to a handle and firing mechanism. A barricade buster fires spheres of metal with extreme velocity and very little accuracy.
+Developed by a half-orc inventor from Alkenstar who brought the technology north to battle the Whispering Tyrant alongside the [[srd/pf2e/compendium/character/ancestries/Orc|orc]] hordes of Belkzen, the barricade buster features eight barrels fixed around a central pivot attached to a handle and firing mechanism. A barricade buster fires spheres of metal with extreme velocity and very little accuracy.
 
 ### Critical Specialization Effects
 

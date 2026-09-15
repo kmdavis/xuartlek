@@ -24,23 +24,23 @@ Intelligence or Wisdom
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/longsword|Longsword]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Longsword|Longsword]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/domains#Might|Might]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/Domains#Might|Might]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Toil|Toil]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Toil|Toil]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/liberating-command|Liberating Command]]
+[[srd/pf2e/compendium/spells/rank-1/Liberating Command|Liberating Command]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/clairaudience|Clairaudience]]
+[[srd/pf2e/compendium/spells/rank-3/Clairaudience|Clairaudience]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/synaptic-pulse|Synaptic Pulse]]
+[[srd/pf2e/compendium/spells/rank-5/Synaptic Pulse|Synaptic Pulse]]
 
 *Source: Divine Mysteries p. 320*

@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Guardian`
 
-This trait indicates abilities from the [[srd/pf2e/compendium/character/classes/guardian|guardian]] class.
+This trait indicates abilities from the [[srd/pf2e/compendium/character/classes/Guardian|guardian]] class.
 
 *Source: Battlecry! p. 219*

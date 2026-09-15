@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Gunslinger`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
-You specialize in blending into a particular type of environment, able to disappear after taking your shot. Choose either natural or urban terrain. In the chosen terrain, you can Hide and Sneak even without cover or being [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]].
+You specialize in blending into a particular type of environment, able to disappear after taking your shot. Choose either natural or urban terrain. In the chosen terrain, you can Hide and Sneak even without cover or being [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]].
 
 *Source: Guns & Gears (Remastered) p. 117*

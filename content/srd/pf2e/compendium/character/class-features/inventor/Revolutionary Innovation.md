@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Inventor
 
-You are an unparalleled genius and have discovered a technique that will revolutionize your chosen field—or at least for the time being, your [[srd/pf2e/compendium/character/innovations|innovation]]! Choose a revolutionary modification to apply to your innovation. You can also choose an initial or breakthrough modification of the same type instead, if you prefer.
+You are an unparalleled genius and have discovered a technique that will revolutionize your chosen field—or at least for the time being, your [[srd/pf2e/compendium/character/Innovations|innovation]]! Choose a revolutionary modification to apply to your innovation. You can also choose an initial or breakthrough modification of the same type instead, if you prefer.
 
 *Source: Guns & Gears (Remastered) p. 15*

@@ -1,6 +1,7 @@
 ---
 title: "Movement"
 aliases: ["Movement"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2345"
 citation: "Player Core pg. 420"
-socialImage: og-image.png
 ---
 
 # Movement
@@ -34,19 +34,19 @@ When you use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride
 
 ### Burrow Speed
 
-A burrow Speed lets you tunnel through the ground. You can use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]] action if you have a burrow Speed. Burrowing doesn’t normally leave behind a tunnel unless the ability specifically states that it does. Most creatures need to hold their breath when burrowing, and they might need [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Tremorsense|tremorsense]] to navigate.
+A burrow Speed lets you tunnel through the ground. You can use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]] action if you have a burrow Speed. Burrowing doesn’t normally leave behind a tunnel unless the ability specifically states that it does. Most creatures need to hold their breath when burrowing, and they might need [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Tremorsense|tremorsense]] to navigate.
 
 ### Climb Speed
 
-A climb Speed allows you to move up or down inclines and vertical surfaces. Most creatures need to succeed at [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]], but if you have a climb Speed, you automatically succeed and move up to your climb Speed instead of the listed distance.
+A climb Speed allows you to move up or down inclines and vertical surfaces. Most creatures need to succeed at [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]], but if you have a climb Speed, you automatically succeed and move up to your climb Speed instead of the listed distance.
 
 You might still have to attempt Athletics checks to Climb in hazardous conditions, to Climb extremely difficult surfaces, or to cross horizontal planes such as ceilings. You can also choose to roll an Athletics check to Climb rather than accept an automatic success in hopes of getting a critical success. Your climb Speed grants you a +4 circumstance bonus to Athletics checks to Climb.
 
-If you have a climb Speed, you're not [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] while you're climbing.
+If you have a climb Speed, you're not [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] while you're climbing.
 
 ### Fly Speed
 
-As long as you have a fly Speed, you can use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Arrest a Fall|Arrest a Fall]] actions. You can also attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Maneuver in Flight|Maneuver in Flight]] if you're trained in the [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] skill.
+As long as you have a fly Speed, you can use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Arrest a Fall|Arrest a Fall]] actions. You can also attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Maneuver in Flight|Maneuver in Flight]] if you're trained in the [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] skill.
 
 Wind conditions can affect how you use the Fly action. In general, moving against the wind uses the same rules as moving through [[#Difficult Terrain|difficult terrain]] (or greater difficult terrain, if you're also flying upward), and moving with the wind allows you to move 10 feet for every 5 feet of movement you spend (not cumulative with moving straight downward). For more information on spending movement, see [[#Tactical Movement|Tactical Movement]].
 
@@ -54,15 +54,15 @@ Upward and downward movement are both relative to the gravity in your area; if y
 
 ### Swim Speed
 
-With a swim Speed, you can propel yourself through the water with little impediment. Instead of attempting [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]], you automatically succeed and move up to your swim Speed instead of the listed distance. Moving up or down is still moving through [[#Difficult Terrain|difficult terrain]].
+With a swim Speed, you can propel yourself through the water with little impediment. Instead of attempting [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]], you automatically succeed and move up to your swim Speed instead of the listed distance. Moving up or down is still moving through [[#Difficult Terrain|difficult terrain]].
 
 You might still have to attempt checks to Swim in hazardous conditions or to cross turbulent water. You can also choose to roll an Athletics check to Swim rather than accept an automatic success in hopes of getting a critical success. Your swim Speed grants you a +4 circumstance bonus to Athletics checks to Swim.
 
-Having a swim Speed doesn't necessarily mean you can breathe in water, so you might still have to hold your breath if you're underwater to avoid [[srd/pf2e/books/player-core/chapter-8-playing-the-game/encounter-mode#Drowning and Suffocating|drowning]].
+Having a swim Speed doesn't necessarily mean you can breathe in water, so you might still have to hold your breath if you're underwater to avoid [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Encounter Mode#Drowning and Suffocating|drowning]].
 
 ## Falling
 
-If you fall more than 5 feet, when you land you take bludgeoning damage equal to half the distance you fell. Treat falls longer than 1,500 feet as though they were 1,500 feet (750 damage). If you take any damage from a fall, you land [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. You fall about 500 feet in the first round of falling and about 1,500 feet each round thereafter.
+If you fall more than 5 feet, when you land you take bludgeoning damage equal to half the distance you fell. Treat falls longer than 1,500 feet as though they were 1,500 feet (750 damage). If you take any damage from a fall, you land [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]. You fall about 500 feet in the first round of falling and about 1,500 feet each round thereafter.
 
 You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Grab an Edge|Grab an Edge]] as a reaction to reduce the damage from some falls, or [[srd/pf2e/compendium/rules-elements/actions/player-core#Arrest a Fall|Arrest a Fall]] if you have a fly Speed. In addition, if you fall into water, snow, or another relatively soft substance, you can treat the fall as though it were 20 feet shorter, or 30 feet shorter if you intentionally dove in. The effective reduction can't be greater than the depth (so when falling into 10-foot-deep water, you treat the fall as 10 feet shorter).
 
@@ -92,12 +92,12 @@ When the rules refer to a “movement cost” or “spending movement,” they a
 >
 > ### Reactive Strike [reaction]
 >
-> **Source** Player Core pg. 138
-> **Trigger** A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.
+> **Source** [Player Core pg. 138](https://2e.aonprd.com/Sources.aspx?ID=216)
+> **Trigger** A creature within your reach uses a [manipulate](https://2e.aonprd.com/Traits.aspx?ID=104) action or a [move](https://2e.aonprd.com/Traits.aspx?ID=114) action, makes a ranged attack, or leaves a square during a move action it's using.
 >
 > ---
 >
-> You lash out at a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger was a manipulate action, you disrupt that action. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike.
+> You lash out at a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger was a [manipulate](https://2e.aonprd.com/Traits.aspx?ID=104) action, you [disrupt](https://2e.aonprd.com/Rules.aspx?ID=394) that action. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike.
 
 ### Grid Movement
 
@@ -109,11 +109,11 @@ Because moving diagonally covers more ground, you count that movement differentl
 
 #### 3D Movement
 
-Most movement in a game can be represented on a flat map. If creatures are flying, swimming, or otherwise moving through three-dimensional space, see the advice under [[srd/pf2e/books/player-core/chapter-8-playing-the-game/encounter-mode#Special Battles|Special Battles]].
+Most movement in a game can be represented on a flat map. If creatures are flying, swimming, or otherwise moving through three-dimensional space, see the advice under [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Encounter Mode#Special Battles|Special Battles]].
 
 ### Size, Space, and Reach
 
-Creatures and objects of different sizes occupy different amounts of space. The sizes and the spaces they each take up on a grid are listed in the Size and Reach table (see below). The table also lists the typical reach for creatures of each size, for both tall creatures (most bipeds) and long creatures (most quadrupeds). See [[srd/pf2e/books/player-core/chapter-8-playing-the-game/effects#Range and Reach|here]] for more about reach.
+Creatures and objects of different sizes occupy different amounts of space. The sizes and the spaces they each take up on a grid are listed in the Size and Reach table (see below). The table also lists the typical reach for creatures of each size, for both tall creatures (most bipeds) and long creatures (most quadrupeds). See [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Effects#Range and Reach|here]] for more about reach.
 
 The Space entry lists how many feet on a side a creature's space is, so a Large creature fills a 10-foot-by- 10-foot space, or 4 squares on the grid. (If you need to measure in three dimensions, their space is also 10 feet high.) Sometimes part of a creature extends beyond its space, such as if a giant octopus is grabbing you with its tentacles. In that case, the GM will usually allow attacking the extended portion, even if you can't reach the main creature.
 
@@ -134,11 +134,11 @@ Multiple Tiny creatures can occupy the same square. At least four can fit in a s
 
 ### Moving Through a Creature’s Space
 
-You can move through the space of a willing creature. If you want to move through an unwilling creature’s space, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Tumble Through|Tumble Through]] it. You can’t end your turn in a square occupied by another creature, though you can end a move action in its square provided that you immediately use another move action to leave that square. If two creatures end up in the same square by accident, the GM determines which one is forced out of the square (or whether one falls [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]).
+You can move through the space of a willing creature. If you want to move through an unwilling creature’s space, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Tumble Through|Tumble Through]] it. You can’t end your turn in a square occupied by another creature, though you can end a move action in its square provided that you immediately use another move action to leave that square. If two creatures end up in the same square by accident, the GM determines which one is forced out of the square (or whether one falls [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]).
 
 #### Prone and Incapacitated Creatures
 
-You can share a space with a [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] creature if that creature is willing, [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], or dead and if it is your size or smaller. The GM might allow you to climb atop the corpse or unconscious body of a larger creature in some situations. A prone creature can’t stand up while someone else occupies its space, but it can [[srd/pf2e/compendium/rules-elements/actions/player-core#Crawl|Crawl]] to a space where it’s able to stand, or it can attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] the other creature out of the way.
+You can share a space with a [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] creature if that creature is willing, [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]], or dead and if it is your size or smaller. The GM might allow you to climb atop the corpse or unconscious body of a larger creature in some situations. A prone creature can’t stand up while someone else occupies its space, but it can [[srd/pf2e/compendium/rules-elements/actions/player-core#Crawl|Crawl]] to a space where it’s able to stand, or it can attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] the other creature out of the way.
 
 #### Creatures of Different Sizes
 
@@ -154,7 +154,7 @@ Because objects aren’t as mobile as creatures are, they’re more likely to fi
 
 ### Forced Movement
 
-When an effect forces you to move, or if you start [[#Falling|falling]], the distance you move is defined by the effect that moved you, not by your Speed. Forced movement doesn't trigger reactions that are triggered by movement. Some common causes of forced movement include the [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] actions of [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]. In the rare cases where it's unclear whether your movement is voluntary or forced, the GM makes the determination.
+When an effect forces you to move, or if you start [[#Falling|falling]], the distance you move is defined by the effect that moved you, not by your Speed. Forced movement doesn't trigger reactions that are triggered by movement. Some common causes of forced movement include the [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] actions of [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]. In the rare cases where it's unclear whether your movement is voluntary or forced, the GM makes the determination.
 
 If forced movement would move you into a space you can't occupy—because objects are in the way or because you lack the movement type needed to reach it, for example—you stop moving in the last space you can occupy.
 
@@ -170,7 +170,7 @@ Several types of terrain can complicate your movement by slowing you down, damag
 
 Difficult terrain is any terrain that impedes your movement, ranging from particularly rough or unstable surfaces to thick ground cover and countless other impediments. Moving into a square of **difficult terrain** (or moving 5 feet into or within an area of difficult terrain, if you're not using a grid) costs an extra 5 feet of movement. Moving into a square of **greater difficult terrain** instead costs 10 additional feet of movement. This additional cost is not increased further when moving diagonally. You can't [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]] into difficult terrain.
 
-Movement you make while jumping ignores the terrain you're jumping over. Some abilities (such as [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|flight]] or being [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]]) allow you to avoid the movement reduction from some types of difficult terrain.
+Movement you make while jumping ignores the terrain you're jumping over. Some abilities (such as [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|flight]] or being [[srd/pf2e/compendium/rules-elements/traits/gm-core/Incorporeal|incorporeal]]) allow you to avoid the movement reduction from some types of difficult terrain.
 
 #### Ignore Difficult Terrain
 
@@ -182,19 +182,19 @@ Hazardous terrain damages you whenever you move through it. An acid pool and a p
 
 ### Narrow Surfaces
 
-A narrow surface is so precariously thin that you need to [[srd/pf2e/compendium/rules-elements/actions/player-core#Balance|Balance]] or risk falling. Even on a success, you are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] on a narrow surface. Each time you are hit by an attack or fail a save on a narrow surface, you must succeed at a Reflex save (with the same DC as the [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] check to Balance) or [[#Falling|fall]].
+A narrow surface is so precariously thin that you need to [[srd/pf2e/compendium/rules-elements/actions/player-core#Balance|Balance]] or risk falling. Even on a success, you are [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] on a narrow surface. Each time you are hit by an attack or fail a save on a narrow surface, you must succeed at a Reflex save (with the same DC as the [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] check to Balance) or [[#Falling|fall]].
 
 ### Uneven Ground
 
-Uneven ground is an area unsteady enough that you need to [[srd/pf2e/compendium/rules-elements/actions/player-core#Balance|Balance]] or risk falling [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] and possibly injuring yourself, depending on the specifics of the uneven ground. You are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] on uneven ground. Each time you are hit by an attack or fail a save on uneven ground, you must succeed at a Reflex save (with the same DC as the [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] check to Balance) or fall prone.
+Uneven ground is an area unsteady enough that you need to [[srd/pf2e/compendium/rules-elements/actions/player-core#Balance|Balance]] or risk falling [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] and possibly injuring yourself, depending on the specifics of the uneven ground. You are [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] on uneven ground. Each time you are hit by an attack or fail a save on uneven ground, you must succeed at a Reflex save (with the same DC as the [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] check to Balance) or fall prone.
 
 ### Inclines
 
-An incline is an area so steep that you need to [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]] using the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill in order to progress upward. You’re [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] when Climbing an incline.
+An incline is an area so steep that you need to [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]] using the [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] skill in order to progress upward. You’re [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] when Climbing an incline.
 
 ## Cover
 
-When you're behind an obstacle that could block weapons, guard you against explosions, and make you harder to detect, you're behind cover. Standard cover gives you a +2 circumstance bonus to AC, to Reflex saves against area effects, and to Stealth checks to Hide, Sneak, or otherwise avoid detection. You can increase this to greater cover using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Take Cover|Take Cover]] basic action, increasing the circumstance bonus to +4. If cover is especially light, typically when it's provided by a creature, you have lesser cover, which grants a +1 circumstance bonus to AC. A creature with standard cover or greater cover can attempt to use [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]], but lesser cover isn't sufficient.
+When you're behind an obstacle that could block weapons, guard you against explosions, and make you harder to detect, you're behind cover. Standard cover gives you a +2 circumstance bonus to AC, to Reflex saves against area effects, and to Stealth checks to Hide, Sneak, or otherwise avoid detection. You can increase this to greater cover using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Take Cover|Take Cover]] basic action, increasing the circumstance bonus to +4. If cover is especially light, typically when it's provided by a creature, you have lesser cover, which grants a +1 circumstance bonus to AC. A creature with standard cover or greater cover can attempt to use [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]], but lesser cover isn't sufficient.
 
 ## Cover
 
@@ -204,7 +204,7 @@ When you're behind an obstacle that could block weapons, guard you against explo
 | Standard | +2 to AC, Reflex, Stealth | Yes |
 | Greater | +4 to AC, Reflex, Stealth | Yes |
 
-Cover is relative, so you might simultaneously have cover against one creature and not another. Cover applies only if your path to the target is partially blocked. If a creature is entirely behind a wall or the like, you don't have [[srd/pf2e/books/player-core/chapter-8-playing-the-game/effects#Line of Effect|line of effect]] and typically can't target it at all.
+Cover is relative, so you might simultaneously have cover against one creature and not another. Cover applies only if your path to the target is partially blocked. If a creature is entirely behind a wall or the like, you don't have [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Effects#Line of Effect|line of effect]] and typically can't target it at all.
 
 Usually, the GM can quickly decide whether your target has cover. If you're uncertain or need to be more precise, draw a line from the center of your space to the center of the target's space. If that line passes through any terrain or object that would block the effect, the target has standard cover (or greater cover if the obstruction is extreme or the target has Taken Cover). If the line passes through a creature instead, the target has lesser cover. When measuring cover against an area effect, draw the line from the effect's point of origin to the center of the creature's space. See the diagram for examples.
 
@@ -218,13 +218,13 @@ Your GM might allow you to overcome your target’s cover in some situations. If
 
 ## Flanking
 
-When you and an ally are flanking a foe, it has a harder time defending against you. A creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] (taking a –2 circumstance penalty to AC) to melee attacks from creatures that are flanking it.
+When you and an ally are flanking a foe, it has a harder time defending against you. A creature is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] (taking a –2 circumstance penalty to AC) to melee attacks from creatures that are flanking it.
 
-To flank a foe, you and your ally must be on opposite sides of the creature. A line drawn between the center of your space and the center of your ally's space must pass through opposite sides or opposite corners of the foe's space. Additionally, both you and the ally have to be able to act, you must be wielding melee weapons or be able to make an unarmed attack, you can't be under any effects that prevent you from attacking, and you must both have the enemy within reach. If you are wielding a [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] weapon, you use your reach with that weapon for this purpose.
+To flank a foe, you and your ally must be on opposite sides of the creature. A line drawn between the center of your space and the center of your ally's space must pass through opposite sides or opposite corners of the foe's space. Additionally, both you and the ally have to be able to act, you must be wielding melee weapons or be able to make an unarmed attack, you can't be under any effects that prevent you from attacking, and you must both have the enemy within reach. If you are wielding a [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach]] weapon, you use your reach with that weapon for this purpose.
 
 > [!pf2-sidebar] TINY CREATURES AND FLANKING
 >
-> Tiny creatures usually have reach of 0 feet and need to be in a creature's space to attack it. This makes a Tiny creature unable to flank unless it's able to use a weapon with [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] or has a melee unarmed attack with reach greater than 0 feet.
+> Tiny creatures usually have reach of 0 feet and need to be in a creature's space to attack it. This makes a Tiny creature unable to flank unless it's able to use a weapon with [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach]] or has a melee unarmed attack with reach greater than 0 feet.
 >
 > The GM might allow Tiny creatures to flank other Tiny creatures if they're all in the same square, but this is best left for special circumstances and uses the GM's best judgment.
 
@@ -232,14 +232,14 @@ To flank a foe, you and your ally must be on opposite sides of the creature. A l
 >
 > Flanking is an excellent battle tactic that can cause the flanked creature to get hit much more often. Escaping and avoiding flanks can be crucial for a player character's survival.
 >
-> **Movement:** The most straightforward means to escape a flank is usually to [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]]. It's often worth it to avoid the hits you'd take due to being [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] and to make enemies spend actions moving to catch you.
+> **Movement:** The most straightforward means to escape a flank is usually to [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]]. It's often worth it to avoid the hits you'd take due to being [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] and to make enemies spend actions moving to catch you.
 >
-> **All-Around Vision:** Some monsters are covered in eyes that face multiple directions or are otherwise hard to distract, making them immune to flanking.
+> **[All-Around Vision](https://2e.aonprd.com/MonsterAbilities.aspx?ID=49):** Some monsters are covered in eyes that face multiple directions or are otherwise hard to distract, making them immune to flanking.
 >
-> **Deny Advantage:** Some classes, such as [[srd/pf2e/compendium/character/classes/rogue|rogue]], can gain the deny advantage class feature, makes them harder to outflank. You can't flank a creature with deny advantage unless your level is higher than the creature's.
+> **Deny Advantage:** Some classes, such as [[srd/pf2e/compendium/character/classes/Rogue|rogue]], can gain the deny advantage class feature, makes them harder to outflank. You can't flank a creature with deny advantage unless your level is higher than the creature's.
 
 ### 3D Flanking
 
-Though battle grids are often two-dimensional, the game world isn't! Sometimes you might need to visualize a creature's space as a cube for flanking. For instance, if Valeros is underneath a flying [[srd/pf2e/bestiary/monster-core/beast/sphinx|sphinx]] while Lini is flying above the sphinx, they might be flanking it even if they're piled in an odd stack on your battle grid. And if Valeros were mounted on a horse, he might be able to measure from farther off the ground than normal.
+Though battle grids are often two-dimensional, the game world isn't! Sometimes you might need to visualize a creature's space as a cube for flanking. For instance, if Valeros is underneath a flying [[srd/pf2e/bestiary/monster-core/beast/Sphinx|sphinx]] while Lini is flying above the sphinx, they might be flanking it even if they're piled in an odd stack on your battle grid. And if Valeros were mounted on a horse, he might be able to measure from farther off the ground than normal.
 
 In these cases, it's usually best to have the GM make the call on who's flanking rather than trying to do meticulous measurements in three dimensions.

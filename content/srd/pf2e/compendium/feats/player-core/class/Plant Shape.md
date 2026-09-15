@@ -14,14 +14,14 @@ socialImage: og-image.png
 
 `Druid`
 
-- **Prerequisites**: leaf order or [[srd/pf2e/compendium/feats/player-core/class/untamed-form|Untamed Form]]
+- **Prerequisites**: leaf order or [[srd/pf2e/compendium/feats/player-core/class/Untamed Form|Untamed Form]]
 
-You can take the shape of a plant creature. If you don't have untamed form, you can cast [[srd/pf2e/compendium/spells/rank-5/plant-form|_plant form_]] once per day, heightened to the same rank as your highest-rank druid spell slot.
+You can take the shape of a plant creature. If you don't have untamed form, you can cast [[srd/pf2e/compendium/spells/rank-5/Plant Form|_plant form_]] once per day, heightened to the same rank as your highest-rank druid spell slot.
 
 If you do have untamed form, add the shapes listed in plant form to your untamed form list, and whenever you're polymorphed into another shape using untamed form, you gain resistance 5 to poison.
 
 ### Plant Shape leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/reactive-transformation|Reactive Transformation]]
+[[srd/pf2e/compendium/feats/player-core/class/Reactive Transformation|Reactive Transformation]]
 
 *Source: Player Core p. 133*

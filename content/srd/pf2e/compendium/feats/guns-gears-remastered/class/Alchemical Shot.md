@@ -15,9 +15,9 @@ socialImage: og-image.png
 `Gunslinger`
 
 - **PFS Note**: For the gunslinger’s Alchemical Shot feat and any similar abilities that change a weapon’s damage type, only the primary damage’s type is affected; any secondary effects (such as precision damage or damage applied from a rune) are not affected.
-- **Requirements**: You have an alchemical bomb worn or in one hand, and are wielding a firearm or crossbow.
+- **Requirements**: You have an alchemical [bomb](https://2e.aonprd.com/Equipment.aspx?Category=6&Subcategory=7) worn or in one hand, and are wielding a firearm or crossbow.
 
-You've practiced a technique for mixing alchemical bombs with your loaded shot. You Interact to retrieve the bomb (if it's not already in your hand) and pour its contents onto your ammunition, consuming the bomb, then resume your grip on the required weapon. Next, Strike with your firearm. The Strike deals damage of the same type as the bomb (for instance, fire damage for alchemist's fire), and it deals an additional 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] of the same type as the bomb. If the Strike is a failure, you take 1d6 damage of the same type as the bomb you used, and the firearm [[srd/pf2e/books/guns-gears-remastered/guns-equipment/classic-firearms|misfires]].
+You've practiced a technique for mixing alchemical bombs with your loaded shot. You Interact to retrieve the bomb (if it's not already in your hand) and pour its contents onto your ammunition, consuming the bomb, then resume your grip on the required weapon. Next, Strike with your firearm. The Strike deals damage of the same type as the bomb (for instance, fire damage for alchemist's fire), and it deals an additional 1d6 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent damage]] of the same type as the bomb. If the Strike is a failure, you take 1d6 damage of the same type as the bomb you used, and the firearm [[srd/pf2e/books/guns-gears-remastered/guns-equipment/Classic Firearms|misfires]].
 
  The persistent damage increases to 2d6 if the bomb is 11th level or higher, or 3d6 if it's 17th level or higher.
 

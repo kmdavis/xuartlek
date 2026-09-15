@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/crossbow-infiltrator|Crossbow Infiltrator]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/crossbow-infiltrator-dedication|Crossbow Infiltrator Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Crossbow Infiltrator|Crossbow Infiltrator]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Crossbow Infiltrator Dedication|Crossbow Infiltrator Dedication]]
 
-Your attacks are deadly, silent, and nearly untraceable. The first time each round that you attempt to Strike a target you are undetected or unnoticed by while using a weapon you have familiarity with from this archetype, you are [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] from the target after the attack, as they cannot tell where the attack came from.
+Your attacks are deadly, silent, and nearly untraceable. The first time each round that you attempt to Strike a target you are undetected or unnoticed by while using a weapon you have familiarity with from this archetype, you are [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] from the target after the attack, as they cannot tell where the attack came from.
 
 *Source: Battlecry! p. 57*

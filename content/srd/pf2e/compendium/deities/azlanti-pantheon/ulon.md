@@ -25,23 +25,23 @@ Intelligence or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/crossbow/hand-crossbow|Hand Crossbow]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/crossbow/Hand Crossbow|Hand Crossbow]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/domains#Truth|Truth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/Domains#Truth|Truth]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/vanishing-tracks|Vanishing Tracks]]
+[[srd/pf2e/compendium/spells/rank-1/Vanishing Tracks|Vanishing Tracks]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/paranoia|Paranoia]]
+[[srd/pf2e/compendium/spells/rank-2/Paranoia|Paranoia]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]]
+[[srd/pf2e/compendium/spells/rank-4/Suggestion|Suggestion]]
 
 *Source: Divine Mysteries p. 302*

@@ -30,11 +30,11 @@ perception:
     desc: "+7; low-light vision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +4, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +9"
 abilityMods: [2, 3, 2, -5, 1, -1]
 abilities_top:
   - name: "Camouflage"
-    desc: "The stonefish can [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] in its natural environment even if it doesn't have [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|cover]]."
+    desc: "The stonefish can [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] in its natural environment even if it doesn't have [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Cover|cover]]."
 ac: 16
 armorclass:
   - name: "AC"
@@ -49,18 +49,18 @@ abilities_mid:
 speed: "swim 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ bite +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+2 piercing"
+    desc: "⬻ bite +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]]) __Damage__ 1d6+2 piercing"
   - name: "Melee"
     desc: "⬻ spines +6 __Damage__ 1d4+2 piercing plus stonefish venom"
 abilities_bot:
   - name: "Stonefish Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 16 Fortitude"
   - name: "Maximum Duration"
     desc: "3 hours"
   - name: "Stage 1"
-    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]] (1 round)"
+    desc: "[[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy 1]] (1 round)"
   - name: "Stage 2"
     desc: "clumsy 2 (10 minutes)"
   - name: "Stage 3"

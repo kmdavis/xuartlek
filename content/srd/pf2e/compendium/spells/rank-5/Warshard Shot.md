@@ -17,14 +17,14 @@ socialImage: og-image.png
 
 `Attack`  `Concentrate`  `Manipulate`  `Spirit`
 
-- **Tradition**: Divine
+- **Tradition**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2)
 - **Range**: 60 feet
 - **Target**: 1 creature
 - **Defense**: AC
 
 You conjure a razor-sharp shard of scrap metal and imbue it with spiritual echoes of Gorum’s death before launching it at a foe. Make a spell attack roll against the target. The warshard deals 5d6 piercing damage and 5d6 spirit damage, depending on your ranged spell attack roll against the target’s AC.
 
-**Critical Success** The target takes double damage and 5 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent spirit damage]]. As long as the target is taking this persistent spirit damage, it takes a –1 status penalty to its AC.
+**Critical Success** The target takes double damage and 5 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent spirit damage]]. As long as the target is taking this persistent spirit damage, it takes a –1 status penalty to its AC.
 
 **Success** The target takes full damage.
 

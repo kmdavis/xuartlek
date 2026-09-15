@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 - **Prerequisites**: storm order
 
-You bid the winds to aid you, carrying you through the air and allowing you passage through the strongest headwinds. You gain the [[srd/pf2e/compendium/spells/focus/stormwind-flight|_stormwind flight_]] order spell.
+You bid the winds to aid you, carrying you through the air and allowing you passage through the strongest headwinds. You gain the [[srd/pf2e/compendium/spells/focus/Stormwind Flight|_stormwind flight_]] order spell.
 
 ### Wind Caller leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/invoke-disaster|Invoke Disaster]]
+[[srd/pf2e/compendium/feats/player-core/class/Invoke Disaster|Invoke Disaster]]
 
 *Source: Player Core p. 132*

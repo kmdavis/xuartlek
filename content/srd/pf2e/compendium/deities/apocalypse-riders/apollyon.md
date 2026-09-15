@@ -24,23 +24,23 @@ Strength or Constitution
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|Scythe]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/Scythe|Scythe]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Air|Air]], [[srd/pf2e/compendium/character/domains#Decay|Decay]], [[srd/pf2e/compendium/character/domains#Plague|Plague]], [[srd/pf2e/compendium/character/domains#Swarm|Swarm]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Air|Air]], [[srd/pf2e/compendium/character/Domains#Decay|Decay]], [[srd/pf2e/compendium/character/Domains#Plague|Plague]], [[srd/pf2e/compendium/character/Domains#Swarm|Swarm]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/goblin-pox|Goblin Pox]]
+[[srd/pf2e/compendium/spells/rank-1/Goblin Pox|Goblin Pox]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/vomit-swarm|Vomit Swarm]]
+[[srd/pf2e/compendium/spells/rank-2/Vomit Swarm|Vomit Swarm]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/toxic-cloud|Toxic Cloud]]
+[[srd/pf2e/compendium/spells/rank-5/Toxic Cloud|Toxic Cloud]]
 
 *Source: Divine Mysteries p. 300*

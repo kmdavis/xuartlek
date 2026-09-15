@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Commander`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/class/commanders-companion|Commander's Companion]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/class/Commander's Companion|Commander's Companion]]
 
-Your companion is a tried and tested ally of unshakable reliability. The companion you gained with Commander's Companion is now a [[srd/pf2e/compendium/feats/player-core/archetype/mature-animal-companion-ranger|mature animal companion]]. While your banner is affixed to this companion, the banner's aura is 10 feet greater than it normally is (typically this means the banner's 30-foot aura becomes a 40-foot aura).
+Your companion is a tried and tested ally of unshakable reliability. The companion you gained with Commander's Companion is now a [[srd/pf2e/compendium/feats/player-core/archetype/Mature Animal Companion (Ranger)|mature animal companion]]. While your banner is affixed to this companion, the banner's aura is 10 feet greater than it normally is (typically this means the banner's 30-foot aura becomes a 40-foot aura).
 
 ### Battle-Tested Companion leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/class/battle-hardened-companion|Battle-Hardened Companion]]
+[[srd/pf2e/compendium/feats/battlecry/class/Battle-Hardened Companion|Battle-Hardened Companion]]
 
 *Source: Battlecry! p. 31*

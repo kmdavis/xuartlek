@@ -18,8 +18,8 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Manipulate`  `Mental`  `Nonlethal`
 
-- **Traditions**: Arcane, Divine, Occult
-- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]], [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodlines**: [[srd/pf2e/compendium/character/Bloodlines#Aberrant|Aberrant]], [[srd/pf2e/compendium/character/Bloodlines#Hag|Hag]]
 - **Range**: 60 feet
 - **Target**: 1 creature
 - **Defense**: Will

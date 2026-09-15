@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/prophesied-monarch|Prophesied Monarch]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/prophesied-monarch-dedication|Prophesied Monarch Dedication]]
-- **Requirements**: You’re [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Flanking|flanked]] by at least two enemies.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Prophesied Monarch|Prophesied Monarch]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Prophesied Monarch Dedication|Prophesied Monarch Dedication]]
+- **Requirements**: You’re [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Flanking|flanked]] by at least two enemies.
 
-You must keep your royal person safe from harm, especially when surrounded by those who would dare approach you. Attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] one of the enemies who’s [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Flanking|flanking]] you. If you can see at least one of your designated knights, you gain a +2 circumstance bonus to this check; this bonus increases to +4 if one of your designated knights is adjacent to you. If you succeed, you get a critical success. If your roll would’ve been a critical success, you increase the distance you Reposition or Shove the enemy by 5 feet.
+You must keep your royal person safe from harm, especially when surrounded by those who would dare approach you. Attempt an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] one of the enemies who’s [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Flanking|flanking]] you. If you can see at least one of your designated knights, you gain a +2 circumstance bonus to this check; this bonus increases to +4 if one of your designated knights is adjacent to you. If you succeed, you get a critical success. If your roll would’ve been a critical success, you increase the distance you Reposition or Shove the enemy by 5 feet.
 
 *Source: War of Immortals p. 136*

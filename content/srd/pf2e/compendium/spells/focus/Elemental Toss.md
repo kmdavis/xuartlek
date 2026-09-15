@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Attack`  `Focus`  `Manipulate`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Elemental|Elemental]]
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Elemental|Elemental]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: AC

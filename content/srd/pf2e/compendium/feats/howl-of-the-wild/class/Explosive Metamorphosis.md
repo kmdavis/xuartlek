@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Druid`  `Spellshape`  `Metamagic`
 
-You use additional primal energy to transform, creating a burst of elemental energy to complement your transformation. If your next action is to cast a non-cantrip [[srd/pf2e/compendium/rules-elements/traits/player-core/morph|morph]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] spell, select acid, cold, electricity, or fire. Your transformation creates a 5-foot emanation around your new form that deals 1d6 damage of that type per rank of the spell. Each creature in that area attempts a basic Reflex save against your spell DC.
+You use additional primal energy to transform, creating a burst of elemental energy to complement your transformation. If your next action is to cast a non-cantrip [[srd/pf2e/compendium/rules-elements/traits/player-core/Morph|morph]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]] spell, select acid, cold, electricity, or fire. Your transformation creates a 5-foot emanation around your new form that deals 1d6 damage of that type per rank of the spell. Each creature in that area attempts a basic Reflex save against your spell DC.
 
  If your polymorph action had a trait corresponding to an energy type, you must select that one if possible. This action gains the trait corresponding to the energy type selected.
 

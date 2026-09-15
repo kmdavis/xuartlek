@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Duskwalker`
 
-Your connection to the [[srd/pf2e/compendium/gm/planes#Boneyard|Boneyard]] ensures that your blows strike true against spectral beings. Your weapon and unarmed Strikes against [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]] creatures become [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]]. If they are already magical, they instead gain the effects of a [[srd/pf2e/compendium/equipment/runes/ghost-touch|_ghost touch_]] property rune.
+Your connection to the [[srd/pf2e/compendium/gm/Planes#Boneyard|Boneyard]] ensures that your blows strike true against spectral beings. Your weapon and unarmed Strikes against [[srd/pf2e/compendium/rules-elements/traits/gm-core/Incorporeal|incorporeal]] creatures become [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]]. If they are already magical, they instead gain the effects of a [[srd/pf2e/compendium/equipment/runes/Ghost Touch|_ghost touch_]] property rune.
 
 *Source: Player Core 2 p. 49*

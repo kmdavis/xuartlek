@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Gunslinger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bullet-dancer|Bullet Dancer]] (Level 6)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Bullet Dancer|Bullet Dancer]] (Level 6)
 - **Requirements**: You're wielding a loaded firearm.
 
 You fire your weapon as you jump, using the kickback to go farther. You Leap and discharge your firearm to add a +10-foot status bonus to the distance traveled. If you spend 2 actions for Black Powder Boost, you High Jump or Long Jump instead.
@@ -23,6 +23,6 @@ You fire your weapon as you jump, using the kickback to go farther. You Leap and
 
 ### Black Powder Boost leads to...
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/black-powder-blaze|Black Powder Blaze]], [[srd/pf2e/compendium/feats/guns-gears-remastered/class/reach-for-the-stars|Reach for the Stars]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Black Powder Blaze|Black Powder Blaze]], [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Reach for the Stars|Reach for the Stars]]
 
 *Source: Guns & Gears (Remastered) p. 112*

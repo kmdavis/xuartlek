@@ -24,23 +24,23 @@ Dexterity or Constitution
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/sickle|Sickle]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Sickle|Sickle]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Plague|Plague]], [[srd/pf2e/compendium/character/domains#Tyranny|Tyranny]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Plague|Plague]], [[srd/pf2e/compendium/character/Domains#Tyranny|Tyranny]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Decay|Decay]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Decay|Decay]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/summon-animal|Summon Animal]]
+[[srd/pf2e/compendium/spells/rank-1/Summon Animal|Summon Animal]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/entangling-flora|Entangling Flora]]
+[[srd/pf2e/compendium/spells/rank-2/Entangling Flora|Entangling Flora]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/toxic-cloud|Toxic Cloud]]
+[[srd/pf2e/compendium/spells/rank-5/Toxic Cloud|Toxic Cloud]]
 
 *Source: Divine Mysteries p. 302*

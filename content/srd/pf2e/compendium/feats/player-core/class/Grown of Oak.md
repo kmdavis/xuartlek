@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: leaf order
 
-You can make your skin take on the woody endurance of an ancient tree and have your familiar follow suit. You can cast [[srd/pf2e/compendium/spells/rank-2/oaken-resilience|_oaken resilience_]] at will as an innate primal spell with a spell rank one lower than the highest rank of spells you can cast. This spell targets you, as well as your leshy familiar if it’s within 30 feet of you.
+You can make your skin take on the woody endurance of an ancient tree and have your familiar follow suit. You can cast [[srd/pf2e/compendium/spells/rank-2/Oaken Resilience|_oaken resilience_]] at will as an innate primal spell with a spell rank one lower than the highest rank of spells you can cast. This spell targets you, as well as your leshy familiar if it’s within 30 feet of you.
 
 *Source: Player Core p. 131*

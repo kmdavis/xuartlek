@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/guardian|Guardian]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/basic-defender|Basic Defender]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Guardian|Guardian]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Basic Defender|Basic Defender]]
 
 You gain one guardian feat. For the purpose of meeting its prerequisites, your guardian level is equal to half your character level.
 

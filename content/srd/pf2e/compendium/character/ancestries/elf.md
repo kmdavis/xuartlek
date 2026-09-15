@@ -38,7 +38,7 @@ The inborn patience and intellectual curiosity of elves make them excellent sage
 
 ### Alignment and Religion
 
-Elves are often emotional and capricious, yet they hold high ideals close to their hearts. They prefer deities who share their love of all things mystic and artistic. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]] and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]] are particular favorites, the former for her sense of wonder and the latter for her appreciation of artistry. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/calistria|Calistria]] is the most notorious of elven deities, as she represents many of the elven ideals taken to the extreme.
+Elves are often emotional and capricious, yet they hold high ideals close to their hearts. They prefer deities who share their love of all things mystic and artistic. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Desna|Desna]] and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Shelyn|Shelyn]] are particular favorites, the former for her sense of wonder and the latter for her appreciation of artistry. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Calistria|Calistria]] is the most notorious of elven deities, as she represents many of the elven ideals taken to the extreme.
 
  **Popular Edicts** find beauty in nature and art, explore things others would keep hidden, demonstrate superiority to your rival
  **Popular Anathema** abandon your own path, force another creature to do something
@@ -59,14 +59,14 @@ Aerel, Amrunelara, Caladrel, Dardlara, Faunra, Heldalel, Jathal, Lanliss, Oparal
 
 #### Languages
 
-[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
-[[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]]
+[[srd/pf2e/compendium/rules-elements/Languages#Elven|Elven]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/languages#Kholo|Kholo]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]], and any other languages to which you have access (such as the languages prevalent in your region). 
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/Languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/Languages#Kholo|Kholo]], [[srd/pf2e/compendium/rules-elements/Languages#Orcish|Orcish]], and any other languages to which you have access (such as the languages prevalent in your region). 
 
 #### Low-Light Vision
 
-You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition due to dim light.
 
 *Source: Player Core p. 46*

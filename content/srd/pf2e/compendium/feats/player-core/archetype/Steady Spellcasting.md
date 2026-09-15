@@ -28,6 +28,6 @@ You don’t lose spells easily. If a reaction would disrupt your spellcasting ac
 
 ### Steady Spellcasting leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/archetype/battlefield-arcana|Battlefield Arcana]]
+[[srd/pf2e/compendium/feats/battlecry/archetype/Battlefield Arcana|Battlefield Arcana]]
 
 *Source: Player Core p. 103*

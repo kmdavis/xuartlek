@@ -20,6 +20,6 @@ socialImage: og-image.png
 
 - **Frequency**: once per day
 
-You draw water from the environs, swirling it into a rough torrent around you to punish your foes. Each creature in a 10-foot emanation (or 15 feet if you're in a body of water) takes 8d6 bludgeoning damage with a basic Reflex save against the higher of your class DC or spell DC. A creature that fails its save is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. At 17th level, the damage increases to 11d6.
+You draw water from the environs, swirling it into a rough torrent around you to punish your foes. Each creature in a 10-foot emanation (or 15 feet if you're in a body of water) takes 8d6 bludgeoning damage with a basic Reflex save against the higher of your class DC or spell DC. A creature that fails its save is knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]. At 17th level, the damage increases to 11d6.
 
 *Source: Howl of the Wild p. 39*

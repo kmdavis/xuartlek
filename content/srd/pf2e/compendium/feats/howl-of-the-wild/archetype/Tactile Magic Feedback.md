@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ostilli-host|Ostilli Host]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/ostilli-host-dedication|Ostilli Host Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ostilli Host|Ostilli Host]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Ostilli Host Dedication|Ostilli Host Dedication]]
 
 Your ostilli can sense nearby spellcasters. You gain an imprecise sense known as spellsense, which has a range of 60 feet and detects only creatures capable of casting spells (including creatures with innate spells). You gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] checks about creatures you're detecting with spellsense.
 

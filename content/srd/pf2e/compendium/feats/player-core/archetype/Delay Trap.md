@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Rogue`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/archaeologist|Archaeologist]] (Level 10)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Archaeologist|Archaeologist]] (Level 10)
 - **Trigger**: A trap within your reach is triggered
 
 You try to jam the workings of a trap to delay its effects. Attempt a Thievery check to Disable a Device on the trap with the following results instead of the normal ones for the action.
@@ -25,6 +25,6 @@ You try to jam the workings of a trap to delay its effects. Attempt a Thievery c
 
 **Failure** No effect.
 
-**Critical Failure** You're [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the start of your next turn.
+**Critical Failure** You're [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] until the start of your next turn.
 
 *Source: Player Core p. 173*

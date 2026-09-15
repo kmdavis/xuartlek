@@ -24,23 +24,23 @@ Dexterity or Intelligence
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/axe/greataxe|Greataxe]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/axe/Greataxe|Greataxe]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Toil|Toil]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Toil|Toil]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/anticipate-peril|Anticipate Peril]]
+[[srd/pf2e/compendium/spells/rank-1/Anticipate Peril|Anticipate Peril]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/creation|Creation]]
+[[srd/pf2e/compendium/spells/rank-4/Creation|Creation]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/impaling-spike|Impaling Spike]]
+[[srd/pf2e/compendium/spells/rank-5/Impaling Spike|Impaling Spike]]
 
 *Source: Divine Mysteries p. 318*

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Barbarian`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/acute-scent|Acute Scent]] or Scent
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Acute Scent|Acute Scent]] or Scent
 
-You trust your instincts and your sense of smell, using all your senses to pinpoint your opponent's location. When you make a melee Strike against an opponent you're detecting using scent, ignore any flat check required due to the target being [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] or [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]].
+You trust your instincts and your sense of smell, using all your senses to pinpoint your opponent's location. When you make a melee Strike against an opponent you're detecting using scent, ignore any flat check required due to the target being [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]].
 
 *Source: Player Core 2 p. 81*

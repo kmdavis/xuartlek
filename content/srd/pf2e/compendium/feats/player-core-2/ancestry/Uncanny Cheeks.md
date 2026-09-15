@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Ratfolk`
 
-You gain the [[srd/pf2e/compendium/feats/player-core/general/prescient-consumable|Prescient Consumable]] and [[srd/pf2e/compendium/feats/player-core/general/prescient-planner|Prescient Planner]] feats, except that you always withdraw the objects from your cheek pouches. This means the object you retrieve must fit in your cheek pouches; this is generally an item of negligible Bulk unless you also have the [[srd/pf2e/compendium/feats/player-core-2/ancestry/cheek-pouches|Cheek Pouches]] feat.
+You gain the [[srd/pf2e/compendium/feats/player-core/general/Prescient Consumable|Prescient Consumable]] and [[srd/pf2e/compendium/feats/player-core/general/Prescient Planner|Prescient Planner]] feats, except that you always withdraw the objects from your cheek pouches. This means the object you retrieve must fit in your cheek pouches; this is generally an item of negligible Bulk unless you also have the [[srd/pf2e/compendium/feats/player-core-2/ancestry/Cheek Pouches|Cheek Pouches]] feat.
 
 *Source: Player Core 2 p. 31*

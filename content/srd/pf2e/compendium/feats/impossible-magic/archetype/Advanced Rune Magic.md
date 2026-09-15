@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/runesmith|Runesmith]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/basic-rune-magic|Basic Rune Magic]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Runesmith|Runesmith]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Basic Rune Magic|Basic Rune Magic]]
 
-You gain a [[srd/pf2e/compendium/rules-elements/traits/impossible-magic/runesmith|runesmith feat]]. For the purpose of meeting its prerequisites, your runesmith level is equal to half your character level.
+You gain a [[srd/pf2e/compendium/rules-elements/traits/impossible-magic/Runesmith|runesmith feat]]. For the purpose of meeting its prerequisites, your runesmith level is equal to half your character level.
 
 **Special** You can select this feat more than once. Each time you select it, you gain another runesmith feat.
 

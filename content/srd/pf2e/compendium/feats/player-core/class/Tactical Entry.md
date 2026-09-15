@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Rogue`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 - **Requirements**: You rolled Stealth for initiative in this encounter, and neither you nor any enemies have acted yet
 
 You Stride. This movement doesn’t trigger any reactions.

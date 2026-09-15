@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/archer|Archer]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Archer|Archer]]
 
-You have familiarity with all weapons in the bow and crossbow weapon groups. For the purposes of proficiency, treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
+You have familiarity with all weapons in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bow|bow]] and [[srd/pf2e/compendium/rules-elements/Weapon Groups#Crossbow|crossbow]] weapon groups. For the purposes of proficiency, treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 
 If you are at least an expert in the bow or crossbow you are using, you get the critical specialization effect of that weapon when you get a critical hit with it.
 
 ### Archer Dedication leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/archers-aim|Archer's Aim]], [[srd/pf2e/compendium/feats/player-core-2/archetype/crossbow-terror|Crossbow Terror]], [[srd/pf2e/compendium/feats/player-core-2/archetype/quick-shot|Quick Shot]], [[srd/pf2e/compendium/feats/player-core-2/archetype/unobstructed-shot|Unobstructed Shot]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Archer's Aim|Archer's Aim]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Crossbow Terror|Crossbow Terror]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Quick Shot|Quick Shot]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Unobstructed Shot|Unobstructed Shot]]
 
 *Source: Player Core 2 p. 185*

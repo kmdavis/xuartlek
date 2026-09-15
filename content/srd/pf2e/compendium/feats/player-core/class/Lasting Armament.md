@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Cleric`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/sanctify-armament|Sanctify Armament]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Sanctify Armament|Sanctify Armament]]
 
 When you sanctify a weapon, it remains sanctified for an extended period. The duration of Sanctify Armament is increased to 1 hour, but it still ends if you use Sanctify Armament on another weapon.
 

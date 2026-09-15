@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Inventor`  `Modification`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/classes/inventor|initial modification]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/classes/Inventor|initial modification]]
 
-You've modified your innovation using clever workarounds, so you can include another initial modification without compromising its structure. Your innovation gains an additional initial modification from the list for [[srd/pf2e/compendium/character/innovations|innovations]] of its type.
+You've modified your innovation using clever workarounds, so you can include another initial modification without compromising its structure. Your innovation gains an additional initial modification from the list for [[srd/pf2e/compendium/character/Innovations|innovations]] of its type.
 
 *Source: Guns & Gears (Remastered) p. 28*

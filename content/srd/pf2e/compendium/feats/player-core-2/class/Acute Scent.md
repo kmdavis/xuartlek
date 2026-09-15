@@ -18,6 +18,6 @@ When your anger is heightened, your sense of smell improves. While you're raging
 
 ### Acute Scent leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/instinctive-strike|Instinctive Strike]], [[srd/pf2e/compendium/feats/player-core-2/class/supernatural-senses|Supernatural Senses]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Instinctive Strike|Instinctive Strike]], [[srd/pf2e/compendium/feats/player-core-2/class/Supernatural Senses|Supernatural Senses]]
 
 *Source: Player Core 2 p. 77*

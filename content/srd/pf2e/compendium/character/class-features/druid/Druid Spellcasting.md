@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 The power of the wild world flows through you. You are a spellcaster and can cast spells of the primal tradition using the Cast a Spell activity (see Casting Spells). As a druid, your spellcasting incantations might be pleas to the environment around you or the invocation of ancient vows; your hands might sway like willows or curl into clawlike shapes as your gestures direct your magic.
 
- At 1st level, you can prepare two 1st-rank spells and five cantrips each morning from the common spells on the primal spell list, or from other primal spells to which you gain access and learn via Learn a Spell. Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare each day is called your spell slots.
+ At 1st level, you can prepare two 1st-rank spells and five cantrips each morning from the common spells on the [primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4) spell list, or from other primal spells to which you gain access and learn via Learn a Spell. Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare each day is called your spell slots.
 
  As you increase in level as a druid, the number of spells you can prepare each day increases, as does the highest rank of spell you can cast, as shown in the Druid Spells per Day table.
 

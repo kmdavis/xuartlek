@@ -19,7 +19,7 @@ socialImage: og-image.png
 `Concentrate`  `Focus`  `Manipulate`  `Uncommon`  `Wizard`
 
 - **Range**: 30 feet
-- **Area**: 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
+- **Area**: 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
 - **Defense**: Will
 - **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] up to 1 minute
 

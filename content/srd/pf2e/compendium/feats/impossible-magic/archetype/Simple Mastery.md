@@ -17,9 +17,9 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`  `Spellshape`  `Metamagic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/hedge-mage|Hedge Mage]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Hedge Mage|Hedge Mage]]
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/basic-hedge-mage-spellcasting|Basic Hedge Mage Spellcasting]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Basic Hedge Mage Spellcasting|Basic Hedge Mage Spellcasting]]
 
 Other casters’ never-ending hunger for new magic prevents them from truly understanding just how far simple magic can be pushed when truly mastered. If your next action is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a spell]] you prepared from your keepsake, you Cast the Spell as though it is 1 rank higher, up to the highest rank spell you can cast.
 

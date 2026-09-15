@@ -24,24 +24,24 @@ Intelligence or Wisdom
 
 **Divine Sanctification** must choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/shortbow|Shortbow]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/Shortbow|Shortbow]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Perfection|Perfection]], [[srd/pf2e/compendium/character/domains#Truth|Truth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Perfection|Perfection]], [[srd/pf2e/compendium/character/Domains#Truth|Truth]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Travel|Travel]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/share-lore|Share Lore]]
+[[srd/pf2e/compendium/spells/rank-1/Share Lore|Share Lore]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/hypercognition|Hypercognition]]
+[[srd/pf2e/compendium/spells/rank-3/Hypercognition|Hypercognition]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/telepathy|Telepathy]]
+[[srd/pf2e/compendium/spells/rank-4/Telepathy|Telepathy]]
 
 ### Divine Intercession
 
@@ -51,9 +51,9 @@ The Keeper encourages the search for knowledge and rewards those that travel the
 
 **Moderate Boon** The Keeper speeds your path toward learning new talents. You become permanently trained in two additional skills of your choice. Additionally, you can select a skill you are already trained in and permanently increase your proficiency rank in that skill, following the usual rules for skill increases.
 
-**Major Boon** You are a divine inspiration to others around you. When attempting any checks to Recall Knowledge, you can roll twice and use the better result; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] effect. Additionally, allies within 60 feet gain a +2 status bonus to Will saves.
+**Major Boon** You are a divine inspiration to others around you. When attempting any checks to Recall Knowledge, you can roll twice and use the better result; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]] effect. Additionally, allies within 60 feet gain a +2 status bonus to Will saves.
 
-**Minor Curse** As you stray from the truth, dissonant notes seem to interrupt you whenever you speak. You take a –2 status penalty to all [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks.
+**Minor Curse** As you stray from the truth, dissonant notes seem to interrupt you whenever you speak. You take a –2 status penalty to all [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] checks.
 
 **Moderate Curse** Enlightenment begins to elude you, leaving you at a loss for knowledge. Whenever you attempt a check to Recall Knowledge, you use a result one degree of success worse than the result you rolled.
 

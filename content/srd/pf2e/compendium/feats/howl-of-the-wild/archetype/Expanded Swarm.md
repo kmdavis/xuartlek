@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/swarmkeeper|Swarmkeeper]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/swarmkeeper-dedication|Swarmkeeper Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Swarmkeeper|Swarmkeeper]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Swarmkeeper Dedication|Swarmkeeper Dedication]]
 
 Your hive has grown to the point where it is difficult to keep your swarm contained within your body. When you release your swarm with Swarm Forth, you can choose for it to be Huge instead of Large.
 

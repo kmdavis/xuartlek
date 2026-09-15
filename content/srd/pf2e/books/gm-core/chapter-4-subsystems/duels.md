@@ -1,6 +1,7 @@
 ---
 title: "Duels"
 aliases: ["Duels"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3084"
 citation: "GM Core pg. 202"
-socialImage: og-image.png
 ---
 
 # Duels
@@ -50,7 +50,7 @@ If the duelist is at least trained in whichever initiative choice they pick, the
 
 ### Bullying Press [reaction]
 
-**Source** GM Core pg. 203
+**Source** [GM Core pg. 203](https://2e.aonprd.com/Sources.aspx?ID=218)
 **Trigger** You attempt a melee Strike against your opponent, but haven’t rolled yet.
 **Requirements** You’re in a duel, you’re trained in Intimidation, and you rolled an Intimidation check for initiative this round.
 
@@ -60,7 +60,7 @@ If you hit, your opponent becomes frightened 1. If your opponent is using Percep
 
 ### Deceptive Sidestep [reaction]
 
-**Source** GM Core pg. 203
+**Source** [GM Core pg. 203](https://2e.aonprd.com/Sources.aspx?ID=218)
 **Trigger** An opponent hits, but does not critically hit you, with a melee Strike.
 **Requirements** You’re in a duel, you’re trained in Deception, and you rolled a Deception check for initiative this round.
 
@@ -70,7 +70,7 @@ You draw your enemy in and pull away at the last moment. The triggering opponent
 
 ### Sense Weakness [reaction]
 
-**Source** GM Core pg. 203
+**Source** [GM Core pg. 203](https://2e.aonprd.com/Sources.aspx?ID=218)
 **Trigger** You attempt a melee Strike against your opponent, but haven’t rolled yet.
 **Requirements** You’re in a duel, you’re trained in Perception, and you rolled a Perception check for initiative this round.
 
@@ -94,7 +94,7 @@ When mixing a spellcasting duel and a combat duel, use the initiative rules for 
 
 ### Dueling Counter [reaction]
 
-**Source** GM Core pg. 203
+**Source** [GM Core pg. 203](https://2e.aonprd.com/Sources.aspx?ID=218)
 **Trigger** Your opponent Casts a Spell from the same tradition as your tradition focus.
 **Requirements** You are in a duel and have a tradition focus.
 
@@ -104,7 +104,7 @@ Expend a prepared spell or spell slot. You then attempt to counteract the trigge
 
 ### Change Tradition Focus [one-action]
 
-**Source** GM Core pg. 203
+**Source** [GM Core pg. 203](https://2e.aonprd.com/Sources.aspx?ID=218)
 **Requirements** You are in a duel and are trained in the skill for the tradition you’re changing your focus to (Arcana for arcane, Occultism for occult, Nature for primal, or Religion for divine).
 
 ---

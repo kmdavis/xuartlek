@@ -15,9 +15,9 @@ socialImage: og-image.png
 `Ranger`
 
 - **Archetype**: Wylderheart (Level 16)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/incredible-companion-ranger|Incredible Companion (Ranger)]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Incredible Companion (Ranger)|Incredible Companion (Ranger)]]
 
-Your animal companion continues to grow in power and ability, and it is now cunning enough to become specialized. Your animal companion gains one specialization of your choice.
+Your animal companion continues to grow in power and ability, and it is now cunning enough to become specialized. Your animal companion gains one [[srd/pf2e/compendium/character/Animal Companions|specialization]] of your choice.
 
 **Special** You can select this feat up to three times. Each time, add a different specialization to your companion.
 

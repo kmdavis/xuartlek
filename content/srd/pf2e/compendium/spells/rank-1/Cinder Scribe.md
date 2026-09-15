@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Fire`  `Manipulate`  `Uncommon`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: touch
 - **Target**: one object (see below)
 - **Duration**: 24 hours
 
-Conjuring a quill of magical flame, you take an object and write a message onto it that disappears to the naked eye almost as soon as you finish writing it. If this message is written onto an object that can't withstand a burning fire, such as paper or leather, then the object is destroyed while you're writing it. If the inscribed object is thrust into a roaring fire, the writing on it is revealed for 1 minute before fading. The writing can be revealed this way any number of times, and it's erased only if it's [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteracted]] by an effect similar to [[srd/pf2e/compendium/spells/rank-2/dispel-magic|_dispel magic_]] or when the duration ends. Even if the object is destroyed, pieces of the message exist on its various parts. For example, if the object was turned to dust and recreated via remake, the message would remain intact.
+Conjuring a quill of magical flame, you take an object and write a message onto it that disappears to the naked eye almost as soon as you finish writing it. If this message is written onto an object that can't withstand a burning fire, such as paper or leather, then the object is destroyed while you're writing it. If the inscribed object is thrust into a roaring fire, the writing on it is revealed for 1 minute before fading. The writing can be revealed this way any number of times, and it's erased only if it's [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions#Counteracting|counteracted]] by an effect similar to [[srd/pf2e/compendium/spells/rank-2/Dispel Magic|_dispel magic_]] or when the duration ends. Even if the object is destroyed, pieces of the message exist on its various parts. For example, if the object was turned to dust and recreated via remake, the message would remain intact.
 
 ---
 **Heightened (2nd)** The duration increases to a year and a day.

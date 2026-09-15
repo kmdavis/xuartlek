@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 `Deviant`  `Magical`  `Rare`
 
-Sharp shards of bone tear forth from your elbows, wrists, or other parts of your body. For 1 minute, you can make bone spike unarmed Strikes that deal 1d6 piercing damage and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|sweep]] traits. When you take the Bone Spikes action, you can choose one weapon on your person and duplicate its weapon runes onto your bone spikes (with the exception of any runes that couldn’t apply to the bone spikes).
+Sharp shards of bone tear forth from your elbows, wrists, or other parts of your body. For 1 minute, you can make bone spike unarmed Strikes that deal 1d6 piercing damage and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|sweep]] traits. When you take the Bone Spikes action, you can choose one weapon on your person and duplicate its weapon runes onto your bone spikes (with the exception of any runes that couldn’t apply to the bone spikes).
 
 *Source: Dark Archives (Remastered) p. 101*

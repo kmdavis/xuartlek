@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Barbarian
 
-Your fury makes your weapons lethal. Your proficiency ranks for simple weapons, martial weapons, and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attacks increase to expert. While [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|raging]], you have the critical specialization benefits for melee weapons and unarmed attacks.
+Your fury makes your weapons lethal. Your proficiency ranks for simple weapons, martial weapons, and [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attacks increase to expert. While [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|raging]], you have the critical specialization benefits for melee weapons and unarmed attacks.
 
 *Source: Player Core 2 p. 70*

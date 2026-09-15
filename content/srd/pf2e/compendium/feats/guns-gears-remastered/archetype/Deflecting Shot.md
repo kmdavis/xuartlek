@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Gunslinger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/sniping-duo|Sniping Duo]] (Level 12)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Sniping Duo|Sniping Duo]] (Level 12)
 - **Trigger**: An ally within the first range increment of your firearm or crossbow is hit by an attack, and you can see the attacker.
 - **Requirements**: You're wielding a loaded firearm or crossbow.
 

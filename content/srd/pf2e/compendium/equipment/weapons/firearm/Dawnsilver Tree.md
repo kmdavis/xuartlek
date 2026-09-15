@@ -28,10 +28,10 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Firearm
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
-Neither [[srd/pf2e/compendium/equipment/materials/dawnsilver|dawnsilver]] nor a tree, this long gun takes its name from the legends of the [[srd/pf2e/compendium/character/ancestries/elf|elves]] of Jinin and is most commonly found within the nation. An elegant weapon, a dawnsilver tree does somewhat resemble a tree; its fanned stock and long, sweeping barrel reinforced with metal rings enable a wielder to parry melee attacks while moving back into safe firing range.
+Neither [[srd/pf2e/compendium/equipment/materials/Dawnsilver|dawnsilver]] nor a tree, this long gun takes its name from the legends of the [[srd/pf2e/compendium/character/ancestries/Elf|elves]] of Jinin and is most commonly found within the nation. An elegant weapon, a dawnsilver tree does somewhat resemble a tree; its fanned stock and long, sweeping barrel reinforced with metal rings enable a wielder to parry melee attacks while moving back into safe firing range.
 
 ### Critical Specialization Effects
 

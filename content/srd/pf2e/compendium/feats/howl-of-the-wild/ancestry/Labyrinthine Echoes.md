@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Minotaur`
 
-You can make your voice reverberate off any surface. Once per day, you can cast [[srd/pf2e/compendium/spells/rank-1/ventriloquism|_ventriloquism_]] as an occult innate spell. At 7th level, this spell is heightened to 2nd rank.
+You can make your voice reverberate off any surface. Once per day, you can cast [[srd/pf2e/compendium/spells/rank-1/Ventriloquism|_ventriloquism_]] as an occult innate spell. At 7th level, this spell is heightened to 2nd rank.
 
 *Source: Howl of the Wild p. 43*

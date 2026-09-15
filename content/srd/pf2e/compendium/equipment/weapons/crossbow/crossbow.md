@@ -11,7 +11,7 @@ socialImage: og-image.png
 
 # Crossbow  *Weapon 0*
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/abadar|Abadar]], [[srd/pf2e/compendium/deities/daemon-harbingers/laivatiniel|Laivatiniel]], [[srd/pf2e/compendium/deities/infernal-dukes/malthus|Malthus]], The Deliberate Journey
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Abadar|Abadar]], [[srd/pf2e/compendium/deities/daemon-harbingers/Laivatiniel|Laivatiniel]], [[srd/pf2e/compendium/deities/infernal-dukes/Malthus|Malthus]], The Deliberate Journey
 - **Price**: 3 gp
 - **Damage**: 1d8 P
 - **Bulk**: 1
@@ -20,8 +20,8 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Simple
-- **Group**: Crossbow
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/crossbow/bolts|Bolts]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Crossbow|Crossbow]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/crossbow/Bolts|Bolts]]
 
 This ranged weapon has a bow-like assembly mounted on a handled frame called a tiller. The tiller has a mechanism to lock the bowstring in place, attached to a trigger mechanism that releases the tension and launches a bolt.
 
@@ -31,6 +31,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/spiritsight-crossbow|Spiritsight Crossbow]], [[srd/pf2e/compendium/equipment/weapons/tidal-crossbow|Tidal Crossbow]]
+[[srd/pf2e/compendium/equipment/weapons/Spiritsight Crossbow|Spiritsight Crossbow]], [[srd/pf2e/compendium/equipment/weapons/Tidal Crossbow|Tidal Crossbow]]
 
 *Source: Player Core p. 280*

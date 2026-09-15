@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Rogue`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/sly-striker|Sly Striker]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Sly Striker|Sly Striker]]
 
 Nothing can prevent you from making a sneak attack, even if your opponent can see every blow coming. Instead of dealing the damage from Sly Striker, you can deal your full sneak attack damage to a target even if the target isn’t off-guard.
 

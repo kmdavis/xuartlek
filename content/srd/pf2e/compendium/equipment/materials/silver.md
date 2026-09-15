@@ -22,11 +22,11 @@ Silver weapons are a bane to creatures ranging from devils to werewolves. Silver
 
 #### Material Uses
 
-[[srd/pf2e/compendium/equipment/armor/silver-armor|Silver Armor]]
+[[srd/pf2e/compendium/equipment/armor/Silver Armor|Silver Armor]]
 
-[[srd/pf2e/compendium/equipment/shields/silver-shield|Silver Shield]]
+[[srd/pf2e/compendium/equipment/shields/Silver Shield|Silver Shield]]
 
-[[srd/pf2e/compendium/equipment/weapons/silver-weapon|Silver Weapon]]
+[[srd/pf2e/compendium/equipment/weapons/Silver Weapon|Silver Weapon]]
 
 ### Silver Chunk
 

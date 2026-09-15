@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Catfolk`
 
-Growing up among catfolk has taught you the traditional values of freedom, stewardship, and quick reactions to trouble. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] and [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
+Growing up among catfolk has taught you the traditional values of freedom, stewardship, and quick reactions to trouble. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] and [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
 
- You also gain the [[srd/pf2e/compendium/feats/player-core/skill/additional-lore|Additional Lore]] general feat for [[srd/pf2e/compendium/rules-elements/skills/lore|Catfolk Lore]].
+ You also gain the [[srd/pf2e/compendium/feats/player-core/skill/Additional Lore|Additional Lore]] general feat for [[srd/pf2e/compendium/rules-elements/skills/Lore|Catfolk Lore]].
 
 *Source: Player Core 2 p. 10*

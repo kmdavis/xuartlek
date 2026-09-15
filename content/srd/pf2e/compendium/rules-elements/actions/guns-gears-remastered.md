@@ -35,7 +35,7 @@ Attempt a DC 17 flat check. If you are successful, the attack becomes a normal h
 
 - **Requirements**: You're wielding a two-handed firearm or two-handed crossbow.
 
-You push outward with your weapon to clear some space before quickly reloading a fresh round. You make an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to Shove an opponent within your reach using your weapon, then Interact to reload. For this Shove, you don't need a free hand, and you add the weapon's item bonus on attack rolls (if any) to the Athletics check. If your last action or activity included a ranged Strike with the weapon, use the same multiple attack penalty as the last Strike you attempted with the weapon for the Shove; the Shove still counts toward your multiple attack penalty on further attacks as normal.
+You push outward with your weapon to clear some space before quickly reloading a fresh round. You make an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to Shove an opponent within your reach using your weapon, then Interact to reload. For this Shove, you don't need a free hand, and you add the weapon's item bonus on attack rolls (if any) to the Athletics check. If your last action or activity included a ranged Strike with the weapon, use the same multiple attack penalty as the last Strike you attempted with the weapon for the Shove; the Shove still counts toward your multiple attack penalty on further attacks as normal.
 
 *Source: Guns & Gears (Remastered) p. 110*
 
@@ -43,7 +43,7 @@ You push outward with your weapon to clear some space before quickly reloading a
 
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
-([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) You instruct your construct companion to act as you instruct it, and according to its programming. Your construct companion gains 2 actions during this turn.
+([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) You instruct your construct companion to act as you instruct it, and according to its programming. Your construct companion gains 2 actions during this turn.
 
 *Source: Guns & Gears (Remastered) p. 32*
 
@@ -53,7 +53,7 @@ You push outward with your weapon to clear some space before quickly reloading a
 
 `Gunslinger`
 
-You duck into a safe position or minimize your profile while reloading to make your next attack. Either Take Cover or attempt to Hide, then Interact to reload. As normal, you must meet the requirements to Take Cover or Hide; you must be [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], benefiting from cover, or near a feature that allows you to Take Cover, and you need to be benefiting from cover or [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] to a creature to Hide from that creature.
+You duck into a safe position or minimize your profile while reloading to make your next attack. Either Take Cover or attempt to Hide, then Interact to reload. As normal, you must meet the requirements to Take Cover or Hide; you must be [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]], benefiting from cover, or near a feature that allows you to Take Cover, and you need to be benefiting from cover or [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] to a creature to Hide from that creature.
 
 *Source: Guns & Gears (Remastered) p. 109*
 
@@ -63,7 +63,7 @@ You duck into a safe position or minimize your profile while reloading to make y
 
 `Magical`  `Spellshot`
 
-You imprint a bullet with a field of disruptive energy built upon your magical signature, disrupting the magic of whatever it hits. Make a firearm or crossbow Strike against a foe you can see. If you hit, you attempt to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] a spell effect active on the target (your choice, or the highest-level effect if you don’t choose). Your counteract rank is equal to half your level (rounded up), and your counteract check modifier is equal to your class DC – 10.
+You imprint a bullet with a field of disruptive energy built upon your magical signature, disrupting the magic of whatever it hits. Make a [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|firearm]] or [[srd/pf2e/compendium/rules-elements/Weapon Groups#Crossbow|crossbow]] Strike against a foe you can see. If you hit, you attempt to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions#Counteracting|counteract]] a spell effect active on the target (your choice, or the highest-level effect if you don’t choose). Your counteract rank is equal to half your level (rounded up), and your counteract check modifier is equal to your class DC – 10.
 
 *Source: Guns & Gears (Remastered) p. 140*
 
@@ -73,7 +73,7 @@ You imprint a bullet with a field of disruptive energy built upon your magical s
 
 `Gunslinger`
 
-You drift across the battlefield, striking down foes as you go. You Stride, and you can Strike up to three times at any points during your movement. Each attack must target a different enemy and must be made with a one-handed firearm, crossbow, melee weapon, or [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack. Each attack counts toward your multiple attack penalty, but your multiple attack penalty doesn't increase until you've made all your attacks. Your movement doesn't trigger reactions.
+You drift across the battlefield, striking down foes as you go. You Stride, and you can Strike up to three times at any points during your movement. Each attack must target a different enemy and must be made with a one-handed firearm, crossbow, melee weapon, or [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack. Each attack counts toward your multiple attack penalty, but your multiple attack penalty doesn't increase until you've made all your attacks. Your movement doesn't trigger reactions.
 
 *Source: Guns & Gears (Remastered) p. 109*
 
@@ -85,7 +85,7 @@ You drift across the battlefield, striking down foes as you go. You Stride, and 
 
 - **Trigger**: You roll initiative.
 
-You unleash a small surge of magical energy into your weapon, granting it the ability to deal energy damage to your foes to exploit their weaknesses. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] to draw a crossbow or firearm. On your first three Strikes of this encounter with a firearm or crossbow, you deal an additional 1 [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] damage per weapon damage die. You choose which damage type to deal as part of making each Strike.
+You unleash a small surge of magical energy into your weapon, granting it the ability to deal energy damage to your foes to exploit their weaknesses. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] to draw a [[srd/pf2e/compendium/rules-elements/Weapon Groups#Crossbow|crossbow]] or [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|firearm]]. On your first three Strikes of this encounter with a firearm or crossbow, you deal an additional 1 [[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|electricity]] damage per weapon damage die. You choose which damage type to deal as part of making each Strike.
 
 *Source: Guns & Gears (Remastered) p. 140*
 
@@ -95,7 +95,7 @@ You unleash a small surge of magical energy into your weapon, granting it the ab
 
 `Fire`  `Inventor`  `Manipulate`  `Unstable`
 
-You intentionally take your [[srd/pf2e/compendium/character/innovations|innovation]] beyond normal safety limits, making it explode and damage nearby creatures without damaging the innovation... hopefully. The explosion deals 2d6 fire damage with a basic Reflex save to all creatures in a 5-foot emanation around you (if you're wearing or holding the innovation) or around your innovation (if your innovation is a [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]]).
+You intentionally take your [[srd/pf2e/compendium/character/Innovations|innovation]] beyond normal safety limits, making it explode and damage nearby creatures without damaging the innovation... hopefully. The explosion deals 2d6 fire damage with a basic Reflex save to all creatures in a 5-foot emanation around you (if you're wearing or holding the innovation) or around your innovation (if your innovation is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Minion|minion]]).
 
  At 3rd level, and every level thereafter, increase your explosion's damage by 1d6.
 
@@ -121,7 +121,7 @@ Your last attack failed, but it set you up for another. Make a Strike with your 
 
 `Flourish`  `Gunslinger`
 
-Make a firearm or crossbow Strike. If you’re [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] from or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] by the target, the Strike adds the additional precision damage from [[srd/pf2e/compendium/rules-elements/actions/guns-gears-remastered#One Shot, One Kill|One Shot, One Kill]]; if you would already receive that additional damage on the [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]], the effects aren’t cumulative. If you were undetected or [[srd/pf2e/compendium/rules-elements/conditions#Unnoticed|unnoticed]] by any creatures, you’re now hidden from them instead, or undetected if the shot was made with a [[srd/pf2e/compendium/equipment/consumables/silencer|silencer]].
+Make a [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|firearm]] or [[srd/pf2e/compendium/rules-elements/Weapon Groups#Crossbow|crossbow]] Strike. If you’re [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] from or [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]] by the target, the Strike adds the additional precision damage from [[srd/pf2e/compendium/rules-elements/actions/guns-gears-remastered#One Shot, One Kill|One Shot, One Kill]]; if you would already receive that additional damage on the [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]], the effects aren’t cumulative. If you were undetected or [[srd/pf2e/compendium/rules-elements/Conditions#Unnoticed|unnoticed]] by any creatures, you’re now hidden from them instead, or undetected if the shot was made with a [[srd/pf2e/compendium/equipment/consumables/Silencer|silencer]].
 
 *Source: Guns & Gears (Remastered) p. 110*
 
@@ -133,11 +133,11 @@ Make a firearm or crossbow Strike. If you’re [[srd/pf2e/compendium/rules-eleme
 
 - **Requirements**: You have a one-handed firearm or one-handed crossbow visibly worn or wielded.
 
-You attempt to clear the room by promising a grim fate to anyone who doesn't do what you say, and quickly. Attempt a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check against the Will DCs of each creature within 30 feet, except for your allies. Regardless of whether you succeed or fail, each subject is temporarily immune to your Grim Swagger for 10 minutes.
+You attempt to clear the room by promising a grim fate to anyone who doesn't do what you say, and quickly. Attempt a [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] check against the Will DCs of each creature within 30 feet, except for your allies. Regardless of whether you succeed or fail, each subject is temporarily immune to your Grim Swagger for 10 minutes.
 
  For example, if you attempt a Deception check, you lie and boast about your prowess or the large group of friends on their way to back you up. If you attempt an Intimidation check, you promise everyone in the room that you're going to be the last thing they see.
 
-**Critical Success** The creature becomes frightened 3. If it's lower level than you, it's also [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] for 1 round.
+**Critical Success** The creature becomes frightened 3. If it's lower level than you, it's also [[srd/pf2e/compendium/rules-elements/Conditions#Fleeing|fleeing]] for 1 round.
 
 **Success** The creature becomes frightened 2.
 
@@ -163,7 +163,7 @@ You know trouble can lurk around every corner, and your hands never stray far fr
 
 - **Trigger**: You roll initiative.
 
-You posture defensively with firearms or crossbows, acting like a walking tower. Interact to draw a firearm or crossbow. You then position that weapon defensively, as the parry trait, gaining a +1 circumstance bonus to AC until the end of your first turn, or a +2 circumstance bonus if the chosen weapon has the [[srd/pf2e/compendium/rules-elements/traits/player-core/parry|parry]] trait.
+You posture defensively with firearms or crossbows, acting like a walking tower. Interact to draw a firearm or crossbow. You then position that weapon defensively, as the parry trait, gaining a +1 circumstance bonus to AC until the end of your first turn, or a +2 circumstance bonus if the chosen weapon has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Parry|parry]] trait.
 
 *Source: Guns & Gears (Remastered) p. 110*
 
@@ -173,7 +173,7 @@ You posture defensively with firearms or crossbows, acting like a walking tower.
 
 `Gunslinger`
 
-- **Trigger**: You roll [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] for initiative.
+- **Trigger**: You roll [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] for initiative.
 
 Your first shot is the deadliest. Interact to draw a firearm or crossbow. Your first successful Strike with that weapon during this encounter deals an additional 1d6 precision damage. This precision damage increases to 2d6 at 9th level and 3d6 at 15th level.
 
@@ -187,7 +187,7 @@ Your first shot is the deadliest. Interact to draw a firearm or crossbow. Your f
 
 - **Frequency**: once per round
 
-Temporarily cranking the gizmos on your body into overdrive, you try to add greater power to your attacks. Attempt a [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check that has a standard DC for your level.
+Temporarily cranking the gizmos on your body into overdrive, you try to add greater power to your attacks. Attempt a [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] check that has a standard DC for your level.
 
 **Critical Success** Your gizmos go into a state of incredible efficiency called critical overdrive, adding great power to your attacks. Your Strikes deal additional damage equal to your Intelligence modifier for 1 minute. After the Overdrive ends, your gizmos become unusable as they cool down or reset, and you can't use Overdrive for 1 minute.
 
@@ -221,7 +221,7 @@ You punish your foe's failure with a shot. Make a Strike against the triggering 
 
 `Gunslinger`
 
-Your rapid or forceful words draw the enemy's attention away from your hands long enough to chamber another bullet. Interact to reload and then attempt a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] check to Create a Diversion or an [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check to Demoralize.
+Your rapid or forceful words draw the enemy's attention away from your hands long enough to chamber another bullet. Interact to reload and then attempt a [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] check to Create a Diversion or an [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] check to Demoralize.
 
 *Source: Guns & Gears (Remastered) p. 109*
 
@@ -245,7 +245,7 @@ You create a bond to your ammunition, calling your missed shot back. The ammunit
 
 - **Requirements**: You're wielding a firearm or crossbow in one hand, and your other hand either wields a one-handed melee weapon or is empty.
 
-You make a melee attack and then reload your gun in one fluid movement. Strike an opponent within reach with your one-handed melee weapon (or, if your other hand is empty, with an [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack), and then Interact to reload. You don't need a free hand to reload in this way and this reload doesn't trigger reactions.
+You make a melee attack and then reload your gun in one fluid movement. Strike an opponent within reach with your one-handed melee weapon (or, if your other hand is empty, with an [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack), and then Interact to reload. You don't need a free hand to reload in this way and this reload doesn't trigger reactions.
 
 *Source: Guns & Gears (Remastered) p. 108*
 
@@ -265,11 +265,11 @@ Your innate magic protects you. You gain a +1 circumstance bonus to the triggeri
 
 `Gunslinger`
 
-- **Requirements**: You're wielding a firearm that has the [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/kickback|kickback]] or [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/scatter|scatter]] trait, or a two-handed crossbow.
+- **Requirements**: You're wielding a firearm that has the [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/Kickback|kickback]] or [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/Scatter|scatter]] trait, or a two-handed crossbow.
 
 With unbelievable force, you charge and smash your weapon into a target before digging in your heels and pulling the trigger. Leap or Stride, then make a Strike with the required firearm or crossbow against an adjacent target. This Strike deals an additional 3d8 bludgeoning damage and ignores 10 points of the target's Hardness (if any), or of their shield's Hardness if the target uses Shield Block.
 
- After the Strike, you become [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] and position the required weapon defensively, gaining a +1 circumstance bonus to AC, or a +2 circumstance bonus if the chosen weapon has the [[srd/pf2e/compendium/rules-elements/traits/player-core/parry|parry]] trait. Both effects last until the start of your next turn. If a force would move you while you're immobilized in this way, it must succeed at an appropriate check against your class DC.
+ After the Strike, you become [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] and position the required weapon defensively, gaining a +1 circumstance bonus to AC, or a +2 circumstance bonus if the chosen weapon has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Parry|parry]] trait. Both effects last until the start of your next turn. If a force would move you while you're immobilized in this way, it must succeed at an appropriate check against your class DC.
 
 *Source: Guns & Gears (Remastered) p. 110*
 

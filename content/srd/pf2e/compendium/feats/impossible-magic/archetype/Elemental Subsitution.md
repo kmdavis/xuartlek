@@ -14,14 +14,14 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/spellshifter|Spellshifter]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/spellshifter-dedication|Spellshifter Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Spellshifter|Spellshifter]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Spellshifter Dedication|Spellshifter Dedication]]
 
 You can tamper with the elemental energy of a spell. You gain the Elemental Substitution spellshift.
 
 **Spellshift—Elemental Substitution** Raw elemental energy is the fuel powering some of the most iconic spells of destruction ever devised, and you’ve discovered a method for realigning the magical pathways through which that energy flows into the material world.
 
-**Critical Success** If the targeted spell inflicts [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]] damage, you change its damage type to your choice of one of acid, cold, electricity, fire, or sonic damage. If the effect has a duration, it inflicts damage of its new type for 1 minute, then returns to normal.
+**Critical Success** If the targeted spell inflicts [[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|electricity]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Sonic|sonic]] damage, you change its damage type to your choice of one of acid, cold, electricity, fire, or sonic damage. If the effect has a duration, it inflicts damage of its new type for 1 minute, then returns to normal.
 
 **Success** As critical success, except if the effect has a duration, it inflicts damage of its new type until the beginning of your next turn, then returns to normal.
 

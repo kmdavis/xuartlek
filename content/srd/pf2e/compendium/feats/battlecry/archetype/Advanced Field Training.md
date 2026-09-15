@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/commander|Commander]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/basic-field-training|Basic Field Training]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Commander|Commander]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Basic Field Training|Basic Field Training]]
 
 You gain a commander feat. For the purpose of meeting its prerequisites, your commander level is equal to half your character level.
 

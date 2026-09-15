@@ -20,13 +20,13 @@ socialImage: og-image.png
 
 `Impulse`  `Kineticist`  `Overflow`  `Plant`  `Polymorph`  `Primal`  `Wood`
 
-You touch a creature to implant a malignant seed in its body. The creature takes 5d10 piercing damage and other effects depending on its Fortitude save against your class DC. The creature is then temporarily immune for 24 hours. Creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/fungus|fungus]], [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|wood]] trait are immune.
+You touch a creature to implant a malignant seed in its body. The creature takes 5d10 piercing damage and other effects depending on its Fortitude save against your class DC. The creature is then temporarily immune for 24 hours. Creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Fungus|fungus]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Wood|wood]] trait are immune.
 
 **Critical Success** The creature is unaffected.
 
 **Success** The creature takes half damage and takes a –10-foot status penalty to all its Speeds until the end of its next turn.
 
-**Failure** The target takes full damage and is clumsy 2 and [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] until the end of its next turn.
+**Failure** The target takes full damage and is clumsy 2 and [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] until the end of its next turn.
 
 **Critical Failure** The target takes double damage and is clumsy 2 and immobilized. It attempts a new save at the end of each of its turns, ending the effect if it succeeds.
 

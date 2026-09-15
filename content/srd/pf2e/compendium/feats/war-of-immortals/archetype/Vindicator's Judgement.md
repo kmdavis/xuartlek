@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/vindicator|Vindicator]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/vindicator-dedication|Vindicator Dedication]]; Warden Spells
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Vindicator|Vindicator]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Vindicator Dedication|Vindicator Dedication]]; Warden Spells
 
-You can pronounce judgment on your foes, making them magically susceptible to your attacks. You gain the [[srd/pf2e/compendium/spells/focus/vindicators-judgement|_vindicator’s judgment_]] focus spell.
+You can pronounce judgment on your foes, making them magically susceptible to your attacks. You gain the [[srd/pf2e/compendium/spells/focus/Vindicator's Judgement|_vindicator’s judgment_]] focus spell.
 
 *Source: War of Immortals p. 65*

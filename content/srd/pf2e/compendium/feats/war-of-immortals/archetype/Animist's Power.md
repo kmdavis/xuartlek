@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/animist|Animist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/spiritual-awakening|Spiritual Awakening]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Animist|Animist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Spiritual Awakening|Spiritual Awakening]]
 
-You gain one animist feat. For the purpose of meeting its prerequisites, your animist level is equal to half your character level. You can’t use this feat to gain animist feats with the [[srd/pf2e/compendium/rules-elements/traits/war-of-immortals/wandering|wandering]] trait.
+You gain one animist feat. For the purpose of meeting its prerequisites, your animist level is equal to half your character level. You can’t use this feat to gain animist feats with the [[srd/pf2e/compendium/rules-elements/traits/war-of-immortals/Wandering|wandering]] trait.
 
 **Special** You can select this feat more than once. Each time you select it, you gain another animist feat.
 

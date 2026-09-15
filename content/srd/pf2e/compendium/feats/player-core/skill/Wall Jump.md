@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
 You can use your momentum from a jump to propel yourself off a wall. If you’re adjacent to a wall at the end of a jump (whether performing a High Jump, Long Jump, or Leap), you don’t fall as long as your next action is another jump. Your previous jump gives you momentum, letting you use High Jump or Long Jump as a single action, but you don’t get to Stride as part of the activity.
 
@@ -23,6 +23,6 @@ You can use Wall Jump only once in a turn, unless you’re legendary in Athletic
 
 ### Wall Jump leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/ancestry/ricocheting-leap|Ricocheting Leap]]
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Ricocheting Leap|Ricocheting Leap]]
 
 *Source: Player Core p. 265*

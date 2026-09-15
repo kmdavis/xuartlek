@@ -14,6 +14,6 @@ Few creatures have survived as long and in as many environments as opossums.
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core-2/animal/giant-opossum|Giant Opossum]] (Creature 2), [[srd/pf2e/bestiary/monster-core-2/animal/khravgodon|Khravgodon]] (Creature 9)
+[[srd/pf2e/bestiary/monster-core-2/animal/Giant Opossum|Giant Opossum]] (Creature 2), [[srd/pf2e/bestiary/monster-core-2/animal/Khravgodon|Khravgodon]] (Creature 9)
 
 *Source: Monster Core 2 p. 244*

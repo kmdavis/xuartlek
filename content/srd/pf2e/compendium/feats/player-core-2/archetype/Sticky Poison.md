@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Alchemist`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/poisoner|Poisoner]] (Level 8)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Poisoner|Poisoner]] (Level 8)
 
-A combination of additional viscosity and careful application keeps your weapons poisoned even when suffering significant wear and tear. If your Strike with a poisoned weapon would expend its poison without your target attempting an initial save (due to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] or your Strike being a critical failure, for example), attempt a DC 5 flat check. On a success, your weapon remains poisoned. If your Strike with a poisoned weapon succeeds, attempt a DC 17 flat check. On a success, your weapon remains poisoned until the end of your next turn.
+A combination of additional viscosity and careful application keeps your weapons poisoned even when suffering significant wear and tear. If your Strike with a poisoned weapon would expend its poison without your target attempting an initial save (due to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistance]] or your Strike being a critical failure, for example), attempt a DC 5 flat check. On a success, your weapon remains poisoned. If your Strike with a poisoned weapon succeeds, attempt a DC 17 flat check. On a success, your weapon remains poisoned until the end of your next turn.
 
 *Source: Player Core 2 p. 66*

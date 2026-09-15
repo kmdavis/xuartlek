@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/necromancer|necromancer]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Necromancer|necromancer]] class.
 
 *Source: Impossible Magic p. 252*

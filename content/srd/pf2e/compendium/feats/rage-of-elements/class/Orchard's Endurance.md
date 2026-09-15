@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Impulse`  `Kineticist`  `Plant`  `Primal`  `Stance`  `Wood`
 
-Patches of bark appear on the skin of you and your nearby allies. You and your allies in your kinetic aura gain resistance 5 to bludgeoning and piercing damage. In addition, you and your affected allies roll flat checks to recover from [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] twice and take the higher result; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] effect.
+Patches of bark appear on the skin of you and your nearby allies. You and your allies in your kinetic aura gain resistance 5 to bludgeoning and piercing damage. In addition, you and your affected allies roll flat checks to recover from [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent damage]] twice and take the higher result; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]] effect.
 
 ---
 **Level (+4)** The resistance increases by 2.

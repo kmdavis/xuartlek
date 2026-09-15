@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/winged-warrior|Winged Warrior]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/winged-warrior-dedication|Winged Warrior Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Winged Warrior|Winged Warrior]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Winged Warrior Dedication|Winged Warrior Dedication]]
 
-You rush forward, flapping your wings for a bit of lift, and can use that momentum to knock down a foe. [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]], and if you land within melee reach of at least one enemy, you can attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] that enemy. You don't need to have one hand free. If you successfully knock the target [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], you can Leap again. If you have a fly Speed, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] instead of Leap.
+You rush forward, flapping your wings for a bit of lift, and can use that momentum to knock down a foe. [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]], and if you land within melee reach of at least one enemy, you can attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] that enemy. You don't need to have one hand free. If you successfully knock the target [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]], you can Leap again. If you have a fly Speed, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] instead of Leap.
 
 *Source: Howl of the Wild p. 82*

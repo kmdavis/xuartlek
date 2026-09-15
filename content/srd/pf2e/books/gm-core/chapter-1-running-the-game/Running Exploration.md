@@ -1,6 +1,7 @@
 ---
 title: "Running Exploration"
 aliases: ["Running Exploration"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2573"
 citation: "GM Core pg. 34"
-socialImage: og-image.png
 ---
 
 # Running Exploration

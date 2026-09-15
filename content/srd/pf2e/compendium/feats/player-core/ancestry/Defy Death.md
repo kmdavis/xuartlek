@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Orc`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/orc-ferocity|Orc Ferocity]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/Orc Ferocity|Orc Ferocity]]
 
-You’re exceptionally difficult to kill. The DC of your recovery checks is equal to 9 + your [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] value, or 8 + your dying value if you have the Toughness general feat. In addition, whenever someone returns you to life using magic that would normally leave you debilitated for a week (such as raise dead or the resurrect ritual), you don’t suffer that condition.
+You’re exceptionally difficult to kill. The DC of your recovery checks is equal to 9 + your [[srd/pf2e/compendium/rules-elements/Conditions#Dying|dying]] value, or 8 + your dying value if you have the Toughness general feat. In addition, whenever someone returns you to life using magic that would normally leave you debilitated for a week (such as raise dead or the resurrect ritual), you don’t suffer that condition.
 
 *Source: Player Core p. 72*

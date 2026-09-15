@@ -24,23 +24,23 @@ Wisdom or Intelligence
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/fist|nails]] or [[srd/pf2e/compendium/equipment/weapons/knife/sickle|Sickle]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/Fist|nails]] or [[srd/pf2e/compendium/equipment/weapons/knife/Sickle|Sickle]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Magic|Magic]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Magic|Magic]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Nature|Nature]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Nature|Nature]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/summon-animal|Summon Animal]]
+[[srd/pf2e/compendium/spells/rank-1/Summon Animal|Summon Animal]]
 
 - **4th**
 Mirror's Misfortune
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/retrocognition|Retrocognition]]
+[[srd/pf2e/compendium/spells/rank-7/Retrocognition|Retrocognition]]
 
 *Source: Divine Mysteries p. 129*

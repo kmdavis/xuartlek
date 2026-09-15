@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Summoner`
 
-Augmenting your eidolon extends to creatures you summon. When you cast _boost eidolon_, in addition to your eidolon, it also targets your [[srd/pf2e/compendium/rules-elements/traits/player-core/summoned|summoned]] creatures within 60 feet.
+Augmenting your eidolon extends to creatures you summon. When you cast _boost eidolon_, in addition to your eidolon, it also targets your [[srd/pf2e/compendium/rules-elements/traits/player-core/Summoned|summoned]] creatures within 60 feet.
 
 *Source: Impossible Magic p. 82*

@@ -24,30 +24,30 @@ Strength or Charisma
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/war-flail|War Flail]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/War Flail|War Flail]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Decay|Decay]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Decay|Decay]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/phantom-pain|Phantom Pain]]
+[[srd/pf2e/compendium/spells/rank-1/Phantom Pain|Phantom Pain]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/wave-of-despair|Wave of Despair]]
+[[srd/pf2e/compendium/spells/rank-5/Wave of Despair|Wave of Despair]]
 
 - **9th**
-[[srd/pf2e/compendium/spells/rank-9/detonate-magic|Detonate Magic]]
+[[srd/pf2e/compendium/spells/rank-9/Detonate Magic|Detonate Magic]]
 
 ### Divine Intercession
 
 The God of the End Times almost never directly intervenes in the world, but he sometimes offers flashes of insight or inflicts terrible psychic distress.
 
-**Minor Boon** You wield power over disorder. Once, when you are [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]], you act normally enough to control your own actions in combat without penalty for the duration, though you still babble incoherently and otherwise behave strangely.
+**Minor Boon** You wield power over disorder. Once, when you are [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]], you act normally enough to control your own actions in combat without penalty for the duration, though you still babble incoherently and otherwise behave strangely.
 
 **Moderate Boon** Groetus grants you knowledge to further the end times. Each week, he sends you a cryptic, incoherent message about something important to the end times that will happen in the coming week.
 
@@ -57,6 +57,6 @@ The God of the End Times almost never directly intervenes in the world, but he s
 
 **Moderate Curse** The horrors at the end of reality become overwhelming and constantly race through your mind. You are permanently stupefied 2.
 
-**Major Curse** You bring about the end to everything around you. Every item you carry or wear gains the [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]] condition after 10 minutes of exposure to you, and is destroyed after a further hour. This effect can’t destroy artifacts or items of similar power.
+**Major Curse** You bring about the end to everything around you. Every item you carry or wear gains the [[srd/pf2e/compendium/rules-elements/Conditions#Broken|broken]] condition after 10 minutes of exposure to you, and is destroyed after a further hour. This effect can’t destroy artifacts or items of similar power.
 
 *Source: Divine Mysteries p. 143*

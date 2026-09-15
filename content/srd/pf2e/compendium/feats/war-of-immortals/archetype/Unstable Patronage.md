@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Archetype`  `Spellshape`  `Metamagic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/seneschal|Seneschal]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/seneschal-witch-dedication|Seneschal Witch Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Seneschal|Seneschal]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Seneschal Witch Dedication|Seneschal Witch Dedication]]
 
-You can act as a magical patron for your charges. When you finish your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Daily Preparations|daily preparations]], choose a spell your [[srd/pf2e/compendium/feats/player-core/archetype/familiar|familiar]] knows and one of your charges. Once before your next daily preparations, that creature can [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast the Spell]] as an innate spell; this spell can be of no higher a rank than the highest rank of spells you can cast –2.
+You can act as a magical patron for your charges. When you finish your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Running Exploration#Daily Preparations|daily preparations]], choose a spell your [[srd/pf2e/compendium/feats/player-core/archetype/Familiar|familiar]] knows and one of your charges. Once before your next daily preparations, that creature can [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast the Spell]] as an innate spell; this spell can be of no higher a rank than the highest rank of spells you can cast –2.
 
 *Source: War of Immortals p. 63*

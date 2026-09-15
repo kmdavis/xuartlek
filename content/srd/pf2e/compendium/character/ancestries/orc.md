@@ -34,7 +34,7 @@ Most orc communities—known as holds—define themselves through two things: pa
 
 ### Alignment and Religion
 
-A common orc saying is “you are the scars that shape you.” Violent, chaotic lives in violent, chaotic lands mean that most orcs tend to expect and accept violence. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu]], and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/rovagug|Rovagug]] are commonly worshiped among more war-minded orc communities, while less violent holds worship gods like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], whose tenets of fire, redemption, and glory all hold some appeal to orc sensibilities.
+A common orc saying is “you are the scars that shape you.” Violent, chaotic lives in violent, chaotic lands mean that most orcs tend to expect and accept violence. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Lamashtu|Lamashtu]], and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Rovagug|Rovagug]] are commonly worshiped among more war-minded orc communities, while less violent holds worship gods like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Sarenrae|Sarenrae]], whose tenets of fire, redemption, and glory all hold some appeal to orc sensibilities.
 
  While there are orc deities, their worship is surprisingly uncommon among orcs. Orcs believe that if a creature has a face and a name, it can be killed, and so their own deities are often targets, rather than objects of reverence. Some orc holds teach that the greatest members of the hold can earn a chance to challenge the orc deities for a place amid the pantheon.
 
@@ -56,11 +56,11 @@ Arkus, Durra, Grask, Grillgiss, Krugga, Mahja, Murdut, Ollak, Onyat, Thurk, Uirc
 
 #### Languages
 
-[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
-[[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]]
+[[srd/pf2e/compendium/rules-elements/Languages#Orcish|Orcish]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]], and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/Languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/Languages#Petran|Petran]], [[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 | | |
 | --- | --- |

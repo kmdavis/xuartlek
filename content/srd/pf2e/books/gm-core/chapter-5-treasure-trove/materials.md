@@ -1,6 +1,7 @@
 ---
 title: "Materials"
 aliases: ["Materials"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,20 +10,21 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3188"
 citation: "GM Core pg. 252"
-socialImage: og-image.png
 ---
 
 # Materials
 
 <sup>GMC p. 252</sup>
 
-Most items are made from readily available materials—usually leather, wood, or steel—but some weapons and armor are made from more exotic materials, giving them unique properties and other advantages. Weapons made from [[srd/pf2e/compendium/rules-elements/traits/gm-core/precious|precious]] materials are better able to harm certain creatures, and armor of these materials provides enhanced protection.
+Most items are made from readily available materials—usually leather, wood, or steel—but some weapons and armor are made from more exotic materials, giving them unique properties and other advantages. Weapons made from [[srd/pf2e/compendium/rules-elements/traits/gm-core/Precious|precious]] materials are better able to harm certain creatures, and armor of these materials provides enhanced protection.
 
-Most materials are metals; they can be used to make metal weapons and armor. The GM is the final arbiter of what items can be made using a material. An item can be made with no more than one precious material, and only an expert in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] can create it. Some rare and exotic materials require master or even legendary proficiency.
+Most materials are metals; they can be used to make metal weapons and armor. The GM is the final arbiter of what items can be made using a material. An item can be made with no more than one precious material, and only an expert in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] can create it. Some rare and exotic materials require master or even legendary proficiency.
 
 A material's Price depends on how hard it is to work, its scarcity, and its purity; most items made with precious materials use an alloy, blend, or coating rather than using the material in its purest form. The three grades of purity for precious materials are low grade, standard grade, and high grade. Regardless of a precious material's purity, an item made from it gains the full effects of the precious material, but creating higher-level items and more powerful magic runes with precious material requires greater purity.
 
-Some precious materials are available only at certain grades. For instance, [[srd/pf2e/compendium/equipment/materials/adamantine|adamantine]] can't be low grade, and [[srd/pf2e/compendium/equipment/materials/orichalcum|orichalcum]] must be high grade. Items made of materials with a lower grade than expected for the item's level, or of a higher grade than necessary, will mention the precious material's grade.
+Some precious materials are available only at certain grades. For instance, [[srd/pf2e/compendium/equipment/materials/Adamantine|adamantine]] can't be low grade, and [[srd/pf2e/compendium/equipment/materials/Orichalcum|orichalcum]] must be high grade. Items made of materials with a lower grade than expected for the item's level, or of a higher grade than necessary, will mention the precious material's grade.
+
+aonprd.com/Equipment.aspx?Category=22).
 
 ## Material Statistics
 
@@ -30,7 +32,7 @@ The table below provides the Hardness, Hit Points, Broken Threshold, and example
 
 Stone is a catchall for any hard stone, such as granite and marble. Likewise, wood covers ordinary woods, such as oak and pine. Metal weapons and armor are assumed to be made of iron or steel unless noted otherwise.
 
-If an object consists of more than one material, the GM typically uses the statistics for the strongest material involved. For instance, breaking a wall made of paper panels over a woven wooden framework would require damaging thin wood, not paper. However, the GM might choose the weaker material based on the item's function. For instance, breaking the wooden handle of a hammer rather than its iron head would still render the item unusable. Sometimes an item is even less sturdy than the Hardness and Hit Points provided for a thin object; for instance, a twig doesn't take 9 damage to break, even though it's made of thin wood. Similarly, a particularly sturdy item or structure might have even higher Hardness and Hit Points. Certain structures, particularly thick walls, are so reinforced that you have to break them down over time with tools. (More information on walls can be found [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Urban|here]].)
+If an object consists of more than one material, the GM typically uses the statistics for the strongest material involved. For instance, breaking a wall made of paper panels over a woven wooden framework would require damaging thin wood, not paper. However, the GM might choose the weaker material based on the item's function. For instance, breaking the wooden handle of a hammer rather than its iron head would still render the item unusable. Sometimes an item is even less sturdy than the Hardness and Hit Points provided for a thin object; for instance, a twig doesn't take 9 damage to break, even though it's made of thin wood. Similarly, a particularly sturdy item or structure might have even higher Hardness and Hit Points. Certain structures, particularly thick walls, are so reinforced that you have to break them down over time with tools. (More information on walls can be found [[srd/pf2e/books/gm-core/chapter-2-building-games/Environment#Urban|here]].)
 
 ## Table 11-4: Material Hardness, Hit Points, and Broken Threshold
 
@@ -58,11 +60,11 @@ If an object consists of more than one material, the GM typically uses the stati
 
 ### Precious Materials
 
-Materials with the precious trait can be substituted for base materials. For example, a hammer’s head could be made of adamantine instead of iron. Items made of a precious material cost more than typical items; not only does precious material cost more, but the crafter must invest more time working with it. In addition, more powerful items require precious materials of greater purity. A number of precious materials are described below. The Price entry for each material gives the Price of a simple non-magical item made of that material, based on its Bulk (if the item is lighter than 1 Bulk, use the price for 1 Bulk), as well as Prices for different amounts of the material itself. Prices for armor, shields, and weapons made of precious material are in the [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Precious Material Armor|Armor]], [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Precious Material Shields|Shields]], and [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Precious Material Weapons|Weapons]] sections of this chapter.
+Materials with the precious trait can be substituted for base materials. For example, a hammer’s head could be made of adamantine instead of iron. Items made of a precious material cost more than typical items; not only does precious material cost more, but the crafter must invest more time working with it. In addition, more powerful items require precious materials of greater purity. A number of precious materials are described below. The Price entry for each material gives the Price of a simple non-magical item made of that material, based on its Bulk (if the item is lighter than 1 Bulk, use the price for 1 Bulk), as well as Prices for different amounts of the material itself. Prices for armor, shields, and weapons made of precious material are in the [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/Armor & Armaments#Precious Material Armor|Armor]], [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/Armor & Armaments#Precious Material Shields|Shields]], and [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/Armor & Armaments#Precious Material Weapons|Weapons]] sections of this chapter.
 
 #### Crafting with Precious Materials
 
-Only an expert [[srd/pf2e/compendium/rules-elements/skills/crafting|crafter]] can create a low-grade item, only a master can create a standard-grade item, and only a legendary crafter can create a high-grade item. In addition, to [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] with a precious material, your character level must be equal to or greater than that of the material.
+Only an expert [[srd/pf2e/compendium/rules-elements/skills/Crafting|crafter]] can create a low-grade item, only a master can create a standard-grade item, and only a legendary crafter can create a high-grade item. In addition, to [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] with a precious material, your character level must be equal to or greater than that of the material.
 
 Low-grade items can be used in the creation of magic items of up to 8th level, and they can hold runes of up to 8th level. Standard-grade items can be used to create magic items of up to 15th level and can hold runes of up to 15th level. High-grade items use the purest form of the precious material, and can be used to Craft magic items of any level holding any runes. Using purer forms of common materials is so relatively inexpensive that the Price is included in any magic item.
 

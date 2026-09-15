@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Scrying`  `Uncommon`
 
-- **Traditions**: Arcane, Occult
-- **Deity**: [[srd/pf2e/compendium/deities/eldest/magdh|Magdh]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deity**: [[srd/pf2e/compendium/deities/eldest/Magdh|Magdh]]
 - **Cast**: 10 minutes
 - **Range**: planetary
 - **Target**: 1 creature

@@ -19,7 +19,7 @@ socialImage: og-image.png
 - **Usage**: implanted
 - **Bulk**: L
 
-You have a strong, prehensile tail. You gain a tail [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack that deals 1d6 bludgeoning damage. This tail is in the brawling group. You gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Balance|Balance]] and to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]]. You can also use your tail for the [[srd/pf2e/compendium/rules-elements/actions/player-core#Grab an Edge|Grab an Edge]] action, even if your hands are otherwise occupied.
+You have a strong, prehensile tail. You gain a tail [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack that deals 1d6 bludgeoning damage. This tail is in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group. You gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Balance|Balance]] and to [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]]. You can also use your tail for the [[srd/pf2e/compendium/rules-elements/actions/player-core#Grab an Edge|Grab an Edge]] action, even if your hands are otherwise occupied.
 
 ### Whip Tail
 
@@ -31,6 +31,6 @@ You have a strong, prehensile tail. You gain a tail [[srd/pf2e/compendium/rules-
 
 ---
 
-You can use your tail unarmed attack to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] even if you don’t have a free hand. You gain a +2 item bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to Grapple.
+You can use your tail unarmed attack to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] even if you don’t have a free hand. You gain a +2 item bonus to [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks to Grapple.
 
 *Source: Howl of the Wild p. 99*

@@ -18,10 +18,10 @@ socialImage: og-image.png
 
 - **Price**: 1, 300 gp
 - **Ammunition**: bolt
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-The shaft of this bolt is scorched and blackened, and handling it coats your fingers with a fine black powder. When an activated _disintegration bolt_ hits a target, it's subject to a [[srd/pf2e/compendium/spells/rank-6/disintegrate|_disintegrate_]] spell requiring a DC 34 Fortitude save. As with the spell, a critical hit on the attack roll causes the target's saving throw outcome to be one degree worse.
+The shaft of this bolt is scorched and blackened, and handling it coats your fingers with a fine black powder. When an activated _disintegration bolt_ hits a target, it's subject to a [[srd/pf2e/compendium/spells/rank-6/Disintegrate|_disintegrate_]] spell requiring a DC 34 Fortitude save. As with the spell, a critical hit on the attack roll causes the target's saving throw outcome to be one degree worse.
 
-**Craft Requirements** Supply one casting of [[srd/pf2e/compendium/spells/rank-6/disintegrate|_disintegrate_]].
+**Craft Requirements** Supply one casting of [[srd/pf2e/compendium/spells/rank-6/Disintegrate|_disintegrate_]].
 
 *Source: Player Core 2 p. 301*

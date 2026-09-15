@@ -28,7 +28,7 @@ perception:
     desc: "+6; low-light vision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +0"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +0"
 abilityMods: [-2, 3, 1, -4, 2, 0]
 ac: 14
 armorclass:
@@ -44,10 +44,10 @@ abilities_mid:
 speed: "20 feet, climb 20 feet, swim 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]) __Damage__ 1d6 piercing plus spear frog venom"
+    desc: "⬻ jaws +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]]) __Damage__ 1d6 piercing plus spear frog venom"
 abilities_bot:
   - name: "Spear Frog Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 15 Fortitude"
   - name: "Maximum Duration"
@@ -55,9 +55,9 @@ abilities_bot:
   - name: "Stage 1"
     desc: "1d4 poison damage (1 round)"
   - name: "Stage 2"
-    desc: "1d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 (1 round)"
+    desc: "1d6 poison damage and [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]] 1 (1 round)"
   - name: "Sticky Feet"
-    desc: "Spear frogs are not [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] when [[srd/pf2e/compendium/rules-elements/actions/player-core#Balance|Balancing]] on a narrow surface, and they gain a +4 circumstance bonus to Reflex saves to avoid [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Falling|falling]]."
+    desc: "Spear frogs are not [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] when [[srd/pf2e/compendium/rules-elements/actions/player-core#Balance|Balancing]] on a narrow surface, and they gain a +4 circumstance bonus to Reflex saves to avoid [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Falling|falling]]."
 sourcebook: "_Monster Core 2_, page 158."
 ```
 

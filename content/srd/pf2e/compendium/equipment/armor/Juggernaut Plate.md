@@ -19,10 +19,10 @@ socialImage: og-image.png
 - **Price**: 35, 000 gp
 - **Usage**: worn armor
 - **Bulk**: 4
-- **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Full Plate|Full Plate]]
+- **Base Armor**: [[srd/pf2e/compendium/equipment/Armor#Full Plate|Full Plate]]
 
-When you are wearing this armor, you’re a veritable battering ram. This _[[srd/pf2e/compendium/equipment/armor/magic-armor|+3 greater resilient]] [[srd/pf2e/compendium/equipment/runes/fortification|fortification]] [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_ is topped with a reinforced helmet shaped like a ram’s head that enables you to smash through doors and gates.
+When you are wearing this armor, you’re a veritable battering ram. This _[[srd/pf2e/compendium/equipment/armor/Magic Armor|+3 greater resilient]] [[srd/pf2e/compendium/equipment/runes/Fortification|fortification]] [[srd/pf2e/compendium/equipment/Armor#Full Plate|full plate]]_ is topped with a reinforced helmet shaped like a ram’s head that enables you to smash through doors and gates.
 
-**Activate—Ram** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per hour; **Effect** You [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] up to 60 feet in a straight [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]]. If you end your movement adjacent to an enemy, object, or structure, you can smash it. If you smash an enemy, you deal bludgeoning damage equal to the total distance traveled (DC 39 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude save). Objects and structures you smash take damage equal to twice the distance traveled.
+**Activate—Ram** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]]) **Frequency** once per hour; **Effect** You [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] up to 60 feet in a straight [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Line|line]]. If you end your movement adjacent to an enemy, object, or structure, you can smash it. If you smash an enemy, you deal bludgeoning damage equal to the total distance traveled (DC 39 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Fortitude save). Objects and structures you smash take damage equal to twice the distance traveled.
 
 *Source: Battlecry! p. 122*

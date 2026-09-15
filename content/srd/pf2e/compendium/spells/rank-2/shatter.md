@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Sonic`
 
-- **Traditions**: Occult, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/other-gods/ahriman|Ahriman]], [[srd/pf2e/compendium/deities/goblin-gods/hadregash|Hadregash]], [[srd/pf2e/compendium/deities/other-gods/zyphus|Zyphus]]
+- **Traditions**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/Ahriman|Ahriman]], [[srd/pf2e/compendium/deities/goblin-gods/Hadregash|Hadregash]], [[srd/pf2e/compendium/deities/other-gods/Zyphus|Zyphus]]
 - **Range**: 30 feet
 - **Target**: 1 unattended object
 

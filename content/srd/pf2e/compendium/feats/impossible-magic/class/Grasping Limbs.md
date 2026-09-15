@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Evolution`  `Summoner`
 
-Your eidolon grabs enemies. Choose one of the eidolon’s unarmed attacks with the [[srd/pf2e/compendium/rules-elements/traits/player-core/grapple|grapple]] trait. Your eidolon gains the Grab action on that unarmed attack.
+Your eidolon grabs enemies. Choose one of the eidolon’s unarmed attacks with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Grapple|grapple]] trait. Your eidolon gains the Grab action on that unarmed attack.
 
 *Source: Impossible Magic p. 83*

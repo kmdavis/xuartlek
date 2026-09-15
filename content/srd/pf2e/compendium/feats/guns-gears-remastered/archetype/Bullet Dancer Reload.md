@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/bullet-dancer|Bullet Dancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/bullet-dancer-burn|Bullet Dancer Burn]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Bullet Dancer|Bullet Dancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Bullet Dancer Burn|Bullet Dancer Burn]]
 - **Requirements**: You're in Bullet Dancer Stance.
 
 You've learned to reload your simple firearms with uncanny grace, the ammunition simply falling into place as though part of a well-practiced kata. You Strike with a simple firearm, and then Interact to reload that same firearm. You don't need a free hand to reload your simple firearm in this way.

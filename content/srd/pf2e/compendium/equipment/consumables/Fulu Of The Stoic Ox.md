@@ -7,19 +7,19 @@ tags:
 - trait/magical
 - trait/talisman
 - equipment/level/5
-aliases: ["Fulu Of The Stoic Ox"]
+aliases: ["Fulu of the Stoic Ox"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5077"
 source: "Impossible Magic"
 socialImage: og-image.png
 ---
 
-# Fulu Of The Stoic Ox  *Item 5*
+# Fulu of the Stoic Ox  *Item 5*
 
 `Consumable`  `Fulu`  `Magical`  `Talisman`
 
 - **Price**: 25 gp
 - **Usage**: affixed to armor
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]])
 - **Trigger**: You attempt a Fortitude save against a disease.
 
 The ox on this fulu rests vigilantly on the point of the armor right over the bearer’s heart, protecting the bearer against diseases and safeguarding their health. When you activate the fulu, you gain a +2 status bonus to the triggering Fortitude save and to all Fortitude saves against the same disease for the next minute.

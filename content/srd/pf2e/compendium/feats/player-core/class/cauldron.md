@@ -20,6 +20,6 @@ During your daily preparations, you can create one temporary oil or potion using
 
 ### Cauldron leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/double-double|Double, Double]], [[srd/pf2e/compendium/feats/player-core/class/witchs-bottle|Witch’s Bottle]]
+[[srd/pf2e/compendium/feats/player-core/class/Double, Double|Double, Double]], [[srd/pf2e/compendium/feats/player-core/class/Witch’s Bottle|Witch’s Bottle]]
 
 *Source: Player Core p. 186*

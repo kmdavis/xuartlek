@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/beast-gunner|Beast Gunner]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/expert-beast-gunner-spellcasting|Expert Beast Gunner Spellcasting]] or [[srd/pf2e/compendium/feats/player-core/archetype/expert-wizard-spellcasting|Expert Wizard Spellcasting]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Beast Gunner|Beast Gunner]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Expert Beast Gunner Spellcasting|Expert Beast Gunner Spellcasting]] or [[srd/pf2e/compendium/feats/player-core/archetype/Expert Wizard Spellcasting|Expert Wizard Spellcasting]]
 
-You've learned the final truth of beast guns, making you a master in the magic they grant you. You gain the master spellcasting benefits.
+You've learned the final truth of [beast guns](https://2e.aonprd.com/Equipment.aspx?Category=37&Subcategory=74), making you a master in the magic they grant you. You gain the master spellcasting benefits.
 
 *Source: Guns & Gears (Remastered) p. 131*

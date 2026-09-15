@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/club|Club]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Club|Club]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Travel|Travel]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]], [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/tailwind|Tailwind]]
+[[srd/pf2e/compendium/spells/rank-1/Tailwind|Tailwind]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/knock|Knock]]
+[[srd/pf2e/compendium/spells/rank-2/Knock|Knock]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/teleport|Teleport]]
+[[srd/pf2e/compendium/spells/rank-6/Teleport|Teleport]]
 
 *Source: Divine Mysteries p. 314*

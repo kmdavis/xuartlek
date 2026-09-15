@@ -14,14 +14,14 @@ socialImage: og-image.png
 
 `Sweep`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/dwarven-gods/angradd|Angradd]], Dammerich, Narakaas, [[srd/pf2e/compendium/deities/orc-gods/nulgreth|Nulgreth]], Ongalte, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/rovagug|Rovagug]], [[srd/pf2e/compendium/deities/giant-gods/thremyr|Thremyr]], [[srd/pf2e/compendium/deities/demon-lords/treerazer|Treerazer]], [[srd/pf2e/compendium/deities/orc-gods/varg|Varg]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/dwarven-gods/Angradd|Angradd]], Dammerich, Narakaas, [[srd/pf2e/compendium/deities/orc-gods/Nulgreth|Nulgreth]], Ongalte, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Rovagug|Rovagug]], [[srd/pf2e/compendium/deities/giant-gods/Thremyr|Thremyr]], [[srd/pf2e/compendium/deities/demon-lords/Treerazer|Treerazer]], [[srd/pf2e/compendium/deities/orc-gods/Varg|Varg]]
 - **Price**: 2 gp
 - **Damage**: 1d12 S
 - **Bulk**: 2
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Axe
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Axe|Axe]]
 
 This large battle axe is too heavy to wield with only one hand. Many greataxes incorporate two blades, and they are often “bearded,” having a hook at the bottom to increase the strength of their chopping power.
 
@@ -31,6 +31,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/artifacts/blackaxe|Blackaxe]], Jorngarl's Harm, [[srd/pf2e/compendium/equipment/weapons/kithrender|Kithrender]], [[srd/pf2e/compendium/equipment/weapons/retribution-axe|Retribution Axe]]
+[[srd/pf2e/compendium/equipment/artifacts/Blackaxe|Blackaxe]], Jorngarl's Harm, [[srd/pf2e/compendium/equipment/weapons/Kithrender|Kithrender]], [[srd/pf2e/compendium/equipment/weapons/Retribution Axe|Retribution Axe]]
 
 *Source: Player Core p. 278*

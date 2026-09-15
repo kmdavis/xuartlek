@@ -18,10 +18,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Impossible`  `Manipulate`  `Mental`  `Unique`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Cost**: a mile-long length of dream spider silk infused with the essence of the Maelstrom
 - **Range**: 5 feet
-- **Area**: 100-mile [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
+- **Area**: 100-mile [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
 - **Defense**: Will
 - **Duration**: 24 hours
 
@@ -29,11 +29,11 @@ You conceal reality, letting time proceed, though none perceive it. Whenever a c
 
 ---
 
-**Lethologic Mark** You become unremarkable in presence and sometimes slip outside of reality altogether. Those you meet forget your name and identity 1 hour after they leave your presence. Those who already knew you must succeed at a DC 5 flat check each morning; on a failure, they forget you and your identity until the next morning. If they forget you 3 days in a row, the effect lasts until the lethologic mark is removed. To heal this mark, you—or those willing to assist you—must learn and speak five of your true names successively, knowledge that has been scattered to the far corners of the [[srd/pf2e/compendium/gm/planes#Dimension of Time|Dimension of Time]].
+**Lethologic Mark** You become unremarkable in presence and sometimes slip outside of reality altogether. Those you meet forget your name and identity 1 hour after they leave your presence. Those who already knew you must succeed at a DC 5 flat check each morning; on a failure, they forget you and your identity until the next morning. If they forget you 3 days in a row, the effect lasts until the lethologic mark is removed. To heal this mark, you—or those willing to assist you—must learn and speak five of your true names successively, knowledge that has been scattered to the far corners of the [[srd/pf2e/compendium/gm/Planes#Dimension of Time|Dimension of Time]].
 
 **Critical Success** The creature automatically learns you’re the spell’s caster, your current location, and the effect of the spell.
 
-**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 and knows you’re the spell’s caster.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]] 1 and knows you’re the spell’s caster.
 
 **Failure** The creature is slowed 1 and can’t use reactions.
 

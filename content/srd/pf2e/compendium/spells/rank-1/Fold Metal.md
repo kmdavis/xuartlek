@@ -17,8 +17,8 @@ socialImage: og-image.png
 `Concentrate`  `Manipulate`  `Metal`
 
 - **PFS Note**: For the purposes of the fold metal spell in Pathfinder Society play, objects which are part of a structure (such as a door, or a lock on a window) are not considered "unattended."
-- **Tradition**: Arcane
-- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/inna|Inna]], [[srd/pf2e/compendium/deities/elemental-lords/laudinmio|Laudinmio]], [[srd/pf2e/compendium/deities/covenants/shapes-of-the-fading-luster|Shapes of the Fading Luster]]
+- **Tradition**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1)
+- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/Inna|Inna]], [[srd/pf2e/compendium/deities/elemental-lords/Laudinmio|Laudinmio]], [[srd/pf2e/compendium/deities/covenants/Shapes of the Fading Luster|Shapes of the Fading Luster]]
 - **Range**: touch
 - **Target**: 1 unattended metallic object up to 5 Bulk
 - **Duration**: 10 minutes

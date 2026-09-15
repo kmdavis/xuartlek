@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Summon`
 
-- **Tradition**: Arcane
-- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/haagenti|Haagenti]], [[srd/pf2e/compendium/deities/giant-gods/minderhal|Minderhal]], [[srd/pf2e/compendium/deities/empyreal-lords/soralyon|Soralyon]]
+- **Tradition**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1)
+- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/Haagenti|Haagenti]], [[srd/pf2e/compendium/deities/giant-gods/Minderhal|Minderhal]], [[srd/pf2e/compendium/deities/empyreal-lords/Soralyon|Soralyon]]
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 
-You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/construct|construct]] trait and whose level is –1 to fight for you.
+You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Construct|construct]] trait and whose level is –1 to fight for you.
 
 ---
 **Heightened (2nd)** Level 1.

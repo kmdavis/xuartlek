@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Cleric`  `Focus`  `Manipulate`  `Uncommon`  `Water`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Water|Water]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Water|Water]]
 - **Range**: 60 feet
 - **Target**: 1 creature
 

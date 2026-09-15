@@ -1,6 +1,7 @@
 ---
 title: "Gears Equipment"
 aliases: ["Gears Equipment"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Guns & Gears (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1616"
 citation: "Guns & Gears (Remastered) pg. 60"
-socialImage: og-image.png
 ---
 
 # Gears Equipment
@@ -20,7 +20,7 @@ Stories about gear and technology don't just focus on the innovative genius of i
 
 ## Contents
 
-- [[srd/pf2e/books/guns-gears-remastered/gears-equipment/three-innovations|Three Innovations]]
-- [[srd/pf2e/books/guns-gears-remastered/gears-equipment/gadgets|Gadgets]]
-- [[srd/pf2e/books/guns-gears-remastered/gears-equipment/siege-weapons|Siege Weapons]]
-- [[srd/pf2e/books/guns-gears-remastered/gears-equipment/mobility-devices|Mobility Devices]]
+- [[srd/pf2e/books/guns-gears-remastered/gears-equipment/Three Innovations|Three Innovations]]
+- [[srd/pf2e/books/guns-gears-remastered/gears-equipment/Gadgets|Gadgets]]
+- [[srd/pf2e/books/guns-gears-remastered/gears-equipment/Siege Weapons|Siege Weapons]]
+- [[srd/pf2e/books/guns-gears-remastered/gears-equipment/Mobility Devices|Mobility Devices]]

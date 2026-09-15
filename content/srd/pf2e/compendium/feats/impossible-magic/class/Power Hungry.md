@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Necromancer`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/reclaim-power|Reclaim Power]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/Reclaim Power|Reclaim Power]]
 
 You focus your hunger, allowing you to consume even more power from your thralls. Whenever you destroy three thralls with Reclaim Power, you completely refill your focus pool.
 

@@ -19,14 +19,14 @@ socialImage: og-image.png
 
 `Attack`  `Cantrip`  `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: AC
 
 A vine appears from thin air, flicking from your hand and lashing itself to the target. Attempt a spell attack roll against the target.
 
-**Critical Success** The target gains the [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] condition and takes a –10-foot circumstance penalty to its Speeds for 1 round. It can attempt to Escape against your spell DC to remove the penalty and the immobilized condition.
+**Critical Success** The target gains the [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] condition and takes a –10-foot circumstance penalty to its Speeds for 1 round. It can attempt to Escape against your spell DC to remove the penalty and the immobilized condition.
 
 **Success** The target takes a –10-foot circumstance penalty to its Speeds for 1 round. It can attempt to Escape against your spell DC to remove the penalty.
 

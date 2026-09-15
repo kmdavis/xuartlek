@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Minotaur`
 
-You can understand the lowing of cattle and similar animals as its own language. You can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill with cattle, bison, antelopes, and other grazing mammals that travel in herds. The GM determines which other animals count for this ability.
+You can understand the lowing of cattle and similar animals as its own language. You can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] skill with cattle, bison, antelopes, and other grazing mammals that travel in herds. The GM determines which other animals count for this ability.
 
 *Source: Howl of the Wild p. 42*

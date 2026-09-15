@@ -19,14 +19,14 @@ socialImage: og-image.png
 `Concentrate`  `Focus`  `Manipulate`  `Oracle`  `Uncommon`
 
 - **Range**: 120 feet
-- **Area**: 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
+- **Area**: 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
 - **Defense**: Fortitude
 
 You conjure a swirling wind of ashes that blows through the area. Each creature in the area must attempt a Fortitude save or get the choking ash in its lungs.
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1.
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] 1.
 
 **Critical Failure** The creature is sickened 2.
 

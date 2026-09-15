@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Fighter`  `Guardian`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bastion|Bastion]] (Level 8), Golden Legionnaire (Level 8)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Bastion|Bastion]] (Level 8), Golden Legionnaire (Level 8)
 
 You can use your shield to fend off explosions and the like. When you Raise your Shield, you gain your shield’s circumstance bonus to Reflex saves.
 
@@ -23,6 +23,6 @@ You can use your shield to fend off explosions and the like. When you Raise your
 
 ### Reflexive Shield leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/improved-reflexive-shield|Improved Reflexive Shield]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Improved Reflexive Shield|Improved Reflexive Shield]]
 
 *Source: Player Core p. 145*

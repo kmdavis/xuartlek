@@ -20,6 +20,6 @@ socialImage: og-image.png
 - **Usage**: held in 1 hand
 - **Activate**: Cast a Spell
 
-Golden bee-shaped charms with deceptively sharp stingers feature along the length of this gold chain, which often draws blood when handled improperly. When used as a catalyst to cast an _[[srd/pf2e/compendium/spells/rank-2/animated-assault|_animated assault_]]_ spell, you can change the damage type to piercing.
+Golden bee-shaped charms with deceptively sharp stingers feature along the length of this gold chain, which often draws blood when handled improperly. When used as a catalyst to cast an _[[srd/pf2e/compendium/spells/rank-2/Animated Assault|_animated assault_]]_ spell, you can change the damage type to piercing.
 
 *Source: Impossible Magic p. 215*

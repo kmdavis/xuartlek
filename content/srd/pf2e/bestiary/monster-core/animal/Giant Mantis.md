@@ -28,7 +28,7 @@ perception:
     desc: "+9; darkvision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +12"
 abilityMods: [5, 3, 3, -5, 2, 0]
 ac: 18
 armorclass:
@@ -41,7 +41,7 @@ health:
 speed: "25 feet, climb 25 feet, fly 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ leg +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d10+5 piercing plus Capturing Grab"
+    desc: "⬻ leg +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 1d10+5 piercing plus Capturing Grab"
   - name: "Melee"
     desc: "⬻ mandibles + 12 __Damage__ 1d12+5 piercing"
 abilities_bot:
@@ -50,7 +50,7 @@ abilities_bot:
   - name: "Lunging Strike"
     desc: "⬺ The giant mantis lunges forward, making a leg Strike with an extended reach of 20 feet. If it hits, the mantis can use Capturing Grab after the Strike even if the creature is out of reach."
   - name: "Sudden Strike"
-    desc: "On the first round of combat, creatures that haven't acted are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the giant mantis."
+    desc: "On the first round of combat, creatures that haven't acted are [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to the giant mantis."
 sourcebook: "_Monster Core_, page 229."
 ```
 

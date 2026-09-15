@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Lizardfolk`
 
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/iruxi-armaments|Iruxi Armaments]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Iruxi Armaments|Iruxi Armaments]]
 
 You envenom your fangs. If the next fangs Strike you make before the end of your next turn hits and deals damage, the Strike deals an additional 1d6 persistent poison damage. The poison becomes inert after you hit, or at the end of your next turn, whichever comes first.
 

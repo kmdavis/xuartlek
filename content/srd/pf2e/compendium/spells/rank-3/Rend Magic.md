@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Attack`  `Concentrate`  `Force`  `Manipulate`
 
-- **Tradition**: Arcane
+- **Tradition**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1)
 - **Range**: touch
 - **Target**: 1 creature
 - **Defense**: AC

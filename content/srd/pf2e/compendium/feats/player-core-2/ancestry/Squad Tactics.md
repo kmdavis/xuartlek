@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Hobgoblin`
 
-You are adept at working with your allies to surround an enemy. If an enemy is within reach of you and at least two of your allies, that enemy is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to you.
+You are adept at working with your allies to surround an enemy. If an enemy is within reach of you and at least two of your allies, that enemy is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to you.
 
 *Source: Player Core 2 p. 15*

@@ -17,12 +17,12 @@ socialImage: og-image.png
 
 `Druid`  `Manipulate`  `Spellshape`  `Metamagic`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/untamed-form|Untamed Form]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Untamed Form|Untamed Form]]
 
 With additional care and effort, you can take on an alternate shape for a longer period of time. If your next action is to cast untamed form, the spell’s rank is 2 lower than normal (minimum 1st rank), but you can remain transformed for up to 1 hour or the listed duration (whichever is longer). You can still Dismiss untamed form as normal.
 
 ### Form Control leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/perfect-form-control|Perfect Form Control]]
+[[srd/pf2e/compendium/feats/player-core/class/Perfect Form Control|Perfect Form Control]]
 
 *Source: Player Core p. 130*

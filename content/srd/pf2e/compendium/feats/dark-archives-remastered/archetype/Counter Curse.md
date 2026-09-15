@@ -14,15 +14,15 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/curse-maelstrom|Curse Maelstrom]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/curse-maelstrom-dedication|Curse Maelstrom Dedication]]
-- **Trigger**: You or an ally within 30 feet is targeted by or in the emanation of a [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] effect from an opponent or object of which you're aware.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Curse Maelstrom|Curse Maelstrom]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]
+- **Trigger**: You or an ally within 30 feet is targeted by or in the emanation of a [[srd/pf2e/compendium/rules-elements/traits/player-core/Curse|curse]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|misfortune]] effect from an opponent or object of which you're aware.
 - **Requirements**: You’re in a curse maelstrom state.
 
 You gather the energy of your maelstrom and fling its unleashed power into the enemy's curse, attempting to neutralize it. Attempt a counteract check against the triggering effect, using half your level rounded up as your counteract rank and the higher of your class DC – 10 or spell DC – 10 as the counteract modifier. On a success, you neutralize the curse or misfortune effect. If the effect was constant, such as a misfortune aura, it returns automatically at the beginning of the creature or object's next turn. Whether you succeed or fail, your curse maelstrom state ends.
 
 ### Counter Curse leads to...
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/reverse-curse|Reverse Curse]]
+[[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Reverse Curse|Reverse Curse]]
 
 *Source: Dark Archives (Remastered) p. 169*

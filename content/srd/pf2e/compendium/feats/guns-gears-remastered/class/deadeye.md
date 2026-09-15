@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Concentrate`  `Gunslinger`
 
-You relax your eyes, taking in the smallest movements of objects, stirring of grass and leaves, and other signs of the presence of hidden things, granting you the ability to locate [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] creatures. Until the start of your next turn, you can see invisible creatures and objects as silhouettes defined by the movement of air, slight depressions in the ground, and other tells that less-keen eyes would overlook, which makes them merely [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] from you.
+You relax your eyes, taking in the smallest movements of objects, stirring of grass and leaves, and other signs of the presence of hidden things, granting you the ability to locate [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]] creatures. Until the start of your next turn, you can see invisible creatures and objects as silhouettes defined by the movement of air, slight depressions in the ground, and other tells that less-keen eyes would overlook, which makes them merely [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] from you.
 
 *Source: Guns & Gears (Remastered) p. 117*

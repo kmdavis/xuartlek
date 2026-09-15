@@ -25,23 +25,23 @@ Dexterity or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/axe/hatchet|Hatchet]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/axe/Hatchet|Hatchet]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Perfection|Perfection]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Perfection|Perfection]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/mindlink|Mindlink]]
+[[srd/pf2e/compendium/spells/rank-1/Mindlink|Mindlink]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/confusion|Confusion]]
+[[srd/pf2e/compendium/spells/rank-4/Confusion|Confusion]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/synesthesia|Synesthesia]]
+[[srd/pf2e/compendium/spells/rank-5/Synesthesia|Synesthesia]]
 
 *Source: Divine Mysteries p. 316*

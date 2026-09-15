@@ -15,11 +15,11 @@ socialImage: og-image.png
 
 - **Aspects**: Beast and Celestial
 
-An _agathion raiment_ aids its wearer in finding diplomatic solutions to conflicts when possible, fighting evil directly when it’s not, and guiding others along the path to redemption. An agathion created five _agathion raiments_ and granted them to champions of great valor millennia ago. Since then, virtuous souls of various skill sets have assembled _agathion raiments_. This set functions only for [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] creatures.
+An _agathion raiment_ aids its wearer in finding diplomatic solutions to conflicts when possible, fighting evil directly when it’s not, and guiding others along the path to redemption. An agathion created five _agathion raiments_ and granted them to champions of great valor millennia ago. Since then, virtuous souls of various skill sets have assembled _agathion raiments_. This set functions only for [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]] creatures.
 
 ---
 
-**Set Items**: Flask of Fellowship (level 2), [[srd/pf2e/compendium/equipment/worn-items/aeon-stone|Aeon Stone (Envisioning)]] (level 8), Messenger's Ring (level 9), [[srd/pf2e/compendium/equipment/armor/holy-chain|Holy Chain]] (level 13), [[srd/pf2e/compendium/equipment/worn-items/headwrap-of-wisdom|Headwrap of Wisdom]] (level 17)
+**Set Items**: Flask of Fellowship (level 2), [[srd/pf2e/compendium/equipment/worn-items/Aeon Stone|Aeon Stone (Envisioning)]] (level 8), Messenger's Ring (level 9), [[srd/pf2e/compendium/equipment/armor/Holy Chain|Holy Chain]] (level 13), [[srd/pf2e/compendium/equipment/worn-items/Headwrap of Wisdom|Headwrap of Wisdom]] (level 17)
 
 ---
 
@@ -34,7 +34,7 @@ An _agathion raiment_ aids its wearer in finding diplomatic solutions to conflic
 ---
 
 **Collective Features**: The set grants the following features. 
-_Two Items_: Word of faith restores 1d10 Hit Points per relic level and reduces the target's [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] value by 2._Three Items_: The claws you gain from feral claws are [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] and deal 1d4 spirit damage._Four Items_: You and your allies affected by righteous call deal 1d4 additional spirit damage with successful Strikes, rather than none or 1. This 1d4 stacks with that from your feral claws and damage from the _holy_ rune effect you gain from righteous call._Five Items_: In your form of fury, you have darkvision and gain 20 additional temporary Hit Points, but you have weakness 5 to unholy. You don't need to change your size to gain the benefits, other than reach, of a higher-level battle form. Also, your unarmed attacks from this form have the _holy_ weapon property rune.
+_Two Items_: Word of faith restores 1d10 Hit Points per relic level and reduces the target's [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] value by 2._Three Items_: The claws you gain from feral claws are [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]] and deal 1d4 spirit damage._Four Items_: You and your allies affected by righteous call deal 1d4 additional spirit damage with successful Strikes, rather than none or 1. This 1d4 stacks with that from your feral claws and damage from the _holy_ rune effect you gain from righteous call._Five Items_: In your form of fury, you have darkvision and gain 20 additional temporary Hit Points, but you have weakness 5 to unholy. You don't need to change your size to gain the benefits, other than reach, of a higher-level battle form. Also, your unarmed attacks from this form have the _holy_ weapon property rune.
 
 *Source: Treasure Vault (Remastered) p. 201*
 
@@ -48,7 +48,7 @@ Many wizards have enhanced their spellcasting capabilities with an _archmage's r
 
 ---
 
-**Set Items**: [[srd/pf2e/compendium/equipment/worn-items/mages-hat|Mage's Hat]] (level 3), Endless Grimoire (level 6), [[srd/pf2e/compendium/equipment/worn-items/accolade-robe|Accolade Robe]] (level 10), [[srd/pf2e/compendium/equipment/worn-items/bands-of-force|Bands of Force (Greater)]] (level 14), [[srd/pf2e/compendium/equipment/staves/staff-of-arcane-might|Greater Staff of Arcane Might]] (level 16)
+**Set Items**: [[srd/pf2e/compendium/equipment/worn-items/Mage's Hat|Mage's Hat]] (level 3), Endless Grimoire (level 6), [[srd/pf2e/compendium/equipment/worn-items/Accolade Robe|Accolade Robe]] (level 10), [[srd/pf2e/compendium/equipment/worn-items/Bands of Force|Bands of Force (Greater)]] (level 14), [[srd/pf2e/compendium/equipment/staves/Staff of Arcane Might|Greater Staff of Arcane Might]] (level 16)
 
 ---
 
@@ -63,7 +63,7 @@ Many wizards have enhanced their spellcasting capabilities with an _archmage's r
 ---
 
 **Collective Features**: The set grants the following features.
-_Two Items:_ The repository of knowledge gift grants you one additional Lore skill of the GM’s choice. This skill advances as other skills from the gift do._Three Items:_ When you use your bestow life gift, if the animated object’s level is no greater than your level – 4, you can make it a minion with the [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]] trait._Four Items:_ The psychic scream gift creates a 30-foot‑radius [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]._Five Items:_ Treat the outcomes of skill checks you roll to [[srd/pf2e/compendium/rules-elements/actions/player-core#Identify Magic|Identify Magic]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Learn a Spell|Learn a Spell]], and [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] as one degree of success better.
+_Two Items:_ The repository of knowledge gift grants you one additional Lore skill of the GM’s choice. This skill advances as other skills from the gift do._Three Items:_ When you use your bestow life gift, if the animated object’s level is no greater than your level – 4, you can make it a minion with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Minion|minion]] trait._Four Items:_ The psychic scream gift creates a 30-foot‑radius [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]._Five Items:_ Treat the outcomes of skill checks you roll to [[srd/pf2e/compendium/rules-elements/actions/player-core#Identify Magic|Identify Magic]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Learn a Spell|Learn a Spell]], and [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] as one degree of success better.
 
 *Source: Treasure Vault (Remastered) p. 201*
 
@@ -73,26 +73,26 @@ _Two Items:_ The repository of knowledge gift grants you one additional Lore ski
 
 - **Aspects**: Emotion (pride) and Luck
 
-A _duelist's blazon_ set relic was once used by a legendary swordmaster, absorbing their verve, tenacity, and daring. Though each set contains the same items, they all have unique styles, from the elegant, rose-themed decor of the blazon of Taldan [[srd/pf2e/compendium/character/classes/swashbuckler|swashbuckler]] Miralla d'Asivran to the spiked sword and attire of Kuthonite maestro duelist Essinte Zaim. Duelists have been known to challenge one another over the set's components.
+A _duelist's blazon_ set relic was once used by a legendary swordmaster, absorbing their verve, tenacity, and daring. Though each set contains the same items, they all have unique styles, from the elegant, rose-themed decor of the blazon of Taldan [[srd/pf2e/compendium/character/classes/Swashbuckler|swashbuckler]] Miralla d'Asivran to the spiked sword and attire of Kuthonite maestro duelist Essinte Zaim. Duelists have been known to challenge one another over the set's components.
 
 ---
 
-**Set Items**: +1 rapier (level 2), [[srd/pf2e/compendium/equipment/worn-items/bravery-baldric|Bravery Baldric (Fleet)]] (level 5), [[srd/pf2e/compendium/equipment/worn-items/winged-sandals|Winged Sandals]] (level 10), Invisible Chain Shirt (level 13), Mercurial Mantle (level 18)
+**Set Items**: +1 rapier (level 2), [[srd/pf2e/compendium/equipment/worn-items/Bravery Baldric|Bravery Baldric (Fleet)]] (level 5), [[srd/pf2e/compendium/equipment/worn-items/Winged Sandals|Winged Sandals]] (level 10), Invisible Chain Shirt (level 13), Mercurial Mantle (level 18)
 
 ---
 
 **Gifts**: The set grants the following gifts.
 
-- 1: [[srd/pf2e/compendium/equipment/relics#Dominant Emotion|Dominant Emotion]] 
-- 2: [[srd/pf2e/compendium/equipment/relics#Whammy|Whammy]] 
-- 3: [[srd/pf2e/compendium/equipment/relics#Steal Luck|Steal Luck]] 
-- 4: [[srd/pf2e/compendium/equipment/relics#Emotion Conduit|Emotion Conduit]] 
-- 5: [[srd/pf2e/compendium/equipment/relics#Against All Odds|Against All Odds]] 
+- 1: [[srd/pf2e/compendium/equipment/Relics#Dominant Emotion|Dominant Emotion]] 
+- 2: [[srd/pf2e/compendium/equipment/Relics#Whammy|Whammy]] 
+- 3: [[srd/pf2e/compendium/equipment/Relics#Steal Luck|Steal Luck]] 
+- 4: [[srd/pf2e/compendium/equipment/Relics#Emotion Conduit|Emotion Conduit]] 
+- 5: [[srd/pf2e/compendium/equipment/Relics#Against All Odds|Against All Odds]] 
 
 ---
 
 **Collective Features**: The set grants the following features. 
-_Two Items_: You can use dominant emotion at will._Three Items_: You can use whammy one additional time per day, but a creature affected by it is temporarily immune for 24 hours._Four Items_: When you use steal luck and get a success or critical success, you're [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] until the end of your next turn._Five Items_: If dominant emotion or emotion conduit counteract an effect, the target gains a brief surge of luck in the form of a d20 they can add to another single d20 roll, taking the highest result. Until used, this die remains with the target until their next daily preparations, and the target can't gain another die from this effect until after that time. Using the die is a [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] effect.
+_Two Items_: You can use dominant emotion at will._Three Items_: You can use whammy one additional time per day, but a creature affected by it is temporarily immune for 24 hours._Four Items_: When you use steal luck and get a success or critical success, you're [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]] until the end of your next turn._Five Items_: If dominant emotion or emotion conduit counteract an effect, the target gains a brief surge of luck in the form of a d20 they can add to another single d20 roll, taking the highest result. Until used, this die remains with the target until their next daily preparations, and the target can't gain another die from this effect until after that time. Using the die is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]] effect.
 
 *Source: Treasure Vault (Remastered) p. 202*
 
@@ -106,7 +106,7 @@ Several notable assassins, thieves, and others who work from the shadows have us
 
 ---
 
-**Set Items**: [[srd/pf2e/compendium/equipment/worn-items/masquerade-scarf|Masquerade Scarf]] (level 2), [[srd/pf2e/compendium/equipment/worn-items/obsidian-goggles|Obsidian Goggles]] (level 5), [[srd/pf2e/compendium/equipment/worn-items/clandestine-cloak|Clandestine Cloak (Greater)]] (level 10), Boots of Bounding (Greater) (level 14), Ring of Maniacal Devices (Greater) (level 18)
+**Set Items**: [[srd/pf2e/compendium/equipment/worn-items/Masquerade Scarf|Masquerade Scarf]] (level 2), [[srd/pf2e/compendium/equipment/worn-items/Obsidian Goggles|Obsidian Goggles]] (level 5), [[srd/pf2e/compendium/equipment/worn-items/Clandestine Cloak|Clandestine Cloak (Greater)]] (level 10), Boots of Bounding (Greater) (level 14), Ring of Maniacal Devices (Greater) (level 18)
 
 ---
 
@@ -121,7 +121,7 @@ Several notable assassins, thieves, and others who work from the shadows have us
 ---
 
 **Collective Features**: The set grants the following features. 
-_Two Items_: The relic set grants you a +1 status bonus to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks you attempt in dim light._Three Items_: You can use death gaze to deal positive damage to [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]]._Four Items_: You can use dark roads to teleport up to 60 feet._Five Items_: When you use tide of death, you can target [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] and yourself with [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] energy, restoring Hit Points to you (if vitality energy heals you) and damaging undead harmed by vitality energy.
+_Two Items_: The relic set grants you a +1 status bonus to [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] checks you attempt in dim light._Three Items_: You can use death gaze to deal positive damage to [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]]._Four Items_: You can use dark roads to teleport up to 60 feet._Five Items_: When you use tide of death, you can target [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]] and yourself with [[srd/pf2e/compendium/rules-elements/traits/player-core/Vitality|vitality]] energy, restoring Hit Points to you (if vitality energy heals you) and damaging undead harmed by vitality energy.
 
 *Source: Treasure Vault (Remastered) p. 202*
 
@@ -131,26 +131,26 @@ _Two Items_: The relic set grants you a +1 status bonus to [[srd/pf2e/compendium
 
 - **Aspects**: Emotion (dedication) and Life
 
-According to tales, some of the first monks to assemble the austere _monk's attire_ were servants of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Irori]]. This deity is a symbol of devotion and self-discovery through one's understanding of body, mind, and soul. _Monk's attire_ resonates with Irori's dedication, focusing on the highest gain from minimal acquisition, eschewing material objects. Legend holds Irori did so, and that some famous _monk's attire_ sets include a scrap of Irori's original possessions. Other monastic orders have similar traditions of minimal personal effects, with an emphasis on spiritual focus, practicality, and self-defense.
+According to tales, some of the first monks to assemble the austere _monk's attire_ were servants of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Irori|Irori]]. This deity is a symbol of devotion and self-discovery through one's understanding of body, mind, and soul. _Monk's attire_ resonates with Irori's dedication, focusing on the highest gain from minimal acquisition, eschewing material objects. Legend holds Irori did so, and that some famous _monk's attire_ sets include a scrap of Irori's original possessions. Other monastic orders have similar traditions of minimal personal effects, with an emphasis on spiritual focus, practicality, and self-defense.
 
 ---
 
-**Set Items**: Handwraps of Mighty Blows (+1) (level 2), [[srd/pf2e/compendium/equipment/armor/magic-armor|+1 explorer's clothing]] (level 5) or [[srd/pf2e/compendium/equipment/worn-items/bands-of-force|Bands of Force]] (level 8), [[srd/pf2e/compendium/equipment/worn-items/mask-of-uncanny-breath|Mask of Uncanny Breath]] (level 11) or [[srd/pf2e/compendium/equipment/worn-items/mala-beads-of-foresight|Mala Beads of Foresight]] (level 11)
+**Set Items**: Handwraps of Mighty Blows (+1) (level 2), [[srd/pf2e/compendium/equipment/armor/Magic Armor|+1 explorer's clothing]] (level 5) or [[srd/pf2e/compendium/equipment/worn-items/Bands of Force|Bands of Force]] (level 8), [[srd/pf2e/compendium/equipment/worn-items/Mask of Uncanny Breath|Mask of Uncanny Breath]] (level 11) or [[srd/pf2e/compendium/equipment/worn-items/Mala Beads of Foresight|Mala Beads of Foresight]] (level 11)
 
 ---
 
 **Gifts**: The set grants the following gifts.
 
 - 1: Overflowing Life 
-- 2: [[srd/pf2e/compendium/equipment/relics#Dominant Emotion|Dominant Emotion]] 
+- 2: [[srd/pf2e/compendium/equipment/Relics#Dominant Emotion|Dominant Emotion]] 
 - 3: Inextinguishable 
-- 3 (one 13th-level or higher item): [[srd/pf2e/compendium/equipment/relics#Emotion Conduit|Emotion Conduit]] 
-- 3 (one 17th-level or higher item): [[srd/pf2e/compendium/equipment/relics#Quickening Emotion|Quickening Emotion]] 
+- 3 (one 13th-level or higher item): [[srd/pf2e/compendium/equipment/Relics#Emotion Conduit|Emotion Conduit]] 
+- 3 (one 17th-level or higher item): [[srd/pf2e/compendium/equipment/Relics#Quickening Emotion|Quickening Emotion]] 
 
 ---
 
 **Collective Features**: The set grants the following features. 
-_Two Items_: The item bonus from overflowing life equals the relic's level._Three Items_: Any mental effect harmful to you triggers dominant emotion, which can counteract such effects._Three Items (one 13th-level or higher item)_: Treat the outcome of your recovery checks as one step better._Three Items (one 17th-level or higher item)_: If dominant emotion or emotion conduit counteract an effect, the target regains 5d10+5 Hit Points and gains a +2 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effects for 10 minutes.
+_Two Items_: The item bonus from overflowing life equals the relic's level._Three Items_: Any mental effect harmful to you triggers dominant emotion, which can counteract such effects._Three Items (one 13th-level or higher item)_: Treat the outcome of your recovery checks as one step better._Three Items (one 17th-level or higher item)_: If dominant emotion or emotion conduit counteract an effect, the target regains 5d10+5 Hit Points and gains a +2 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effects for 10 minutes.
 
 *Source: Treasure Vault (Remastered) p. 202*
 
@@ -160,20 +160,20 @@ _Two Items_: The item bonus from overflowing life equals the relic's level._Thre
 
 - **Aspects**: Life and Time
 
-Pharasma's devoted followers vow to seek out and destroy [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] wherever they can be found, a task made more urgent with the rise of Tar-Baphon. Though the Whispering Tyrant was prevented from taking over Golarion, his forces are still massing. Undead unaffiliated with the lich represent an unacceptable perversion of the cycle of life and death to Pharasmins, and permitting such creatures to exist is anathema to her. To aid her faithful in their sacred duty to send the dead where they belong, Pharasmin priests developed this item set. While using _Pharasma's command_, you must abide by her edicts and anathema or else the relic ceases to function for you until you atone. This set doesn't function for undead beings.
+Pharasma's devoted followers vow to seek out and destroy [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]] wherever they can be found, a task made more urgent with the rise of Tar-Baphon. Though the Whispering Tyrant was prevented from taking over Golarion, his forces are still massing. Undead unaffiliated with the lich represent an unacceptable perversion of the cycle of life and death to Pharasmins, and permitting such creatures to exist is anathema to her. To aid her faithful in their sacred duty to send the dead where they belong, Pharasmin priests developed this item set. While using _Pharasma's command_, you must abide by her edicts and anathema or else the relic ceases to function for you until you atone. This set doesn't function for undead beings.
 
 ---
 
-**Set Items**: [[srd/pf2e/compendium/equipment/runes/weapon-potency|+1 dagger]] (level 2), [[srd/pf2e/compendium/equipment/worn-items/symbol-of-conflict|Symbol of Conflict]] (level 4), [[srd/pf2e/compendium/equipment/wands/wand-of-overflowing-life|Wand of Overflowing Life (3rd-Rank Spell)]] (level 9), [[srd/pf2e/compendium/equipment/worn-items/devoted-vestments|Devoted Vestments]] (level 11) or [[srd/pf2e/compendium/equipment/worn-items/cloister-robe|Cloister Robe (Greater)]] (level 15), [[srd/pf2e/compendium/equipment/staves/staff-of-healing|Staff of Healing (True)]] (level 16)
+**Set Items**: [[srd/pf2e/compendium/equipment/runes/Weapon Potency|+1 dagger]] (level 2), [[srd/pf2e/compendium/equipment/worn-items/Symbol of Conflict|Symbol of Conflict]] (level 4), [[srd/pf2e/compendium/equipment/wands/Wand of Overflowing Life|Wand of Overflowing Life (3rd-Rank Spell)]] (level 9), [[srd/pf2e/compendium/equipment/worn-items/Devoted Vestments|Devoted Vestments]] (level 11) or [[srd/pf2e/compendium/equipment/worn-items/Cloister Robe|Cloister Robe (Greater)]] (level 15), [[srd/pf2e/compendium/equipment/staves/Staff of Healing|Staff of Healing (True)]] (level 16)
 
 ---
 
 **Gifts**: The set grants the following gifts.
 
 - 1: Healing Wave 
-- 2: [[srd/pf2e/compendium/equipment/relics#Sands of the Hourglass|Sands of the Hourglass]] 
+- 2: [[srd/pf2e/compendium/equipment/Relics#Sands of the Hourglass|Sands of the Hourglass]] 
 - 3: Inextinguishable 
-- 4: [[srd/pf2e/compendium/equipment/relics#Temporal Pulse|Temporal Pulse]] 
+- 4: [[srd/pf2e/compendium/equipment/Relics#Temporal Pulse|Temporal Pulse]] 
 - 5: Life Everlasting 
 
 ---
@@ -193,17 +193,17 @@ Diviners through the ages have employed a variety of tools to glimpse the future
 
 ---
 
-**Set Items**: Pendant of the Occult (level 3), [[srd/pf2e/compendium/equipment/staves/staff-of-the-unblinking-eye|Staff of the Unblinking Eye]] (level 6), [[srd/pf2e/compendium/equipment/worn-items/clarity-goggles|Clarity Goggles (Lesser)]] (level 8), [[srd/pf2e/compendium/equipment/held-items/crystal-ball|Crystal Ball (Clear Quartz)]] (level 14), [[srd/pf2e/compendium/equipment/worn-items/amulet-of-the-third-eye|Amulet of the Third Eye]] (level 17)
+**Set Items**: Pendant of the Occult (level 3), [[srd/pf2e/compendium/equipment/staves/Staff of the Unblinking Eye|Staff of the Unblinking Eye]] (level 6), [[srd/pf2e/compendium/equipment/worn-items/Clarity Goggles|Clarity Goggles (Lesser)]] (level 8), [[srd/pf2e/compendium/equipment/held-items/Crystal Ball|Crystal Ball (Clear Quartz)]] (level 14), [[srd/pf2e/compendium/equipment/worn-items/Amulet of the Third Eye|Amulet of the Third Eye]] (level 17)
 
 ---
 
 **Gifts**: The set grants the following gifts.
 
 - 1: Recalculate 
-- 2: [[srd/pf2e/compendium/equipment/relics#Borrow Time|Borrow Time]] 
-- 3: [[srd/pf2e/compendium/equipment/relics#Time Jump|Time Jump]] 
-- 4: [[srd/pf2e/compendium/equipment/relics#Precognition|Precognition]] 
-- 5: [[srd/pf2e/compendium/equipment/relics#Time Reversal|Time Reversal]] 
+- 2: [[srd/pf2e/compendium/equipment/Relics#Borrow Time|Borrow Time]] 
+- 3: [[srd/pf2e/compendium/equipment/Relics#Time Jump|Time Jump]] 
+- 4: [[srd/pf2e/compendium/equipment/Relics#Precognition|Precognition]] 
+- 5: [[srd/pf2e/compendium/equipment/Relics#Time Reversal|Time Reversal]] 
 
 ---
 

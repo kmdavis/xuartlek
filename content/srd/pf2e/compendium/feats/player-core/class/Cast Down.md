@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Spellshape`  `Metamagic`
 
-The sheer force of your faith can bring a foe crashing down. If the next action you use is to cast [[srd/pf2e/compendium/spells/rank-1/harm|_harm_]] or [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]] to damage one creature, the target is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] if it takes any damage from the spell. If the target critically fails its save against the spell, it also takes a –10-foot status penalty to its Speed for 1 minute.
+The sheer force of your faith can bring a foe crashing down. If the next action you use is to cast [[srd/pf2e/compendium/spells/rank-1/Harm|_harm_]] or [[srd/pf2e/compendium/spells/rank-1/Heal|_heal_]] to damage one creature, the target is knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] if it takes any damage from the spell. If the target critically fails its save against the spell, it also takes a –10-foot status penalty to its Speed for 1 minute.
 
 *Source: Player Core p. 116*

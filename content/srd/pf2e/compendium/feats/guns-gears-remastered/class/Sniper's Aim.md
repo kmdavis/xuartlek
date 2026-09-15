@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Gunslinger`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/ways#Way of the Sniper|way of the sniper]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Ways#Way of the Sniper|way of the sniper]]
 
-You take an extra moment to carefully sync your aim and breathing, then fire a shot with great accuracy. Make a ranged weapon Strike. You gain a +2 circumstance bonus to this Strike's attack roll and ignore the target's concealment. If you're using a [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/kickback|kickback]] firearm, you don't take the normal circumstance penalty on this Strike for not having the required Strength score or firing without using a stabilizer.
+You take an extra moment to carefully sync your aim and breathing, then fire a shot with great accuracy. Make a ranged weapon Strike. You gain a +2 circumstance bonus to this Strike's attack roll and ignore the target's concealment. If you're using a [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/Kickback|kickback]] firearm, you don't take the normal circumstance penalty on this Strike for not having the required Strength score or firing without using a stabilizer.
 
 *Source: Guns & Gears (Remastered) p. 114*

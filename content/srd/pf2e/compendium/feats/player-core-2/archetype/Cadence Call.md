@@ -16,14 +16,14 @@ socialImage: og-image.png
 
 `Archetype`  `Auditory`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/marshal|Marshal]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Marshal|Marshal]]
 - **Frequency**: once per minute
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/marshal-dedication|Marshal Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Marshal Dedication|Marshal Dedication]]
 
-You call out a quick cadence, guiding your allies into a more efficient rhythm. Each willing ally in your marshal’s aura is [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] until the end of their next turn, and they can use the extra action only to [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]]. If an ally uses this extra action, at the end of its turn that ally becomes [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 until the end of its following turn.
+You call out a quick cadence, guiding your allies into a more efficient rhythm. Each willing ally in your marshal’s aura is [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]] until the end of their next turn, and they can use the extra action only to [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]]. If an ally uses this extra action, at the end of its turn that ally becomes [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]] 1 until the end of its following turn.
 
 ### Cadence Call leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/tactical-cadence|Tactical Cadence]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Tactical Cadence|Tactical Cadence]]
 
 *Source: Player Core 2 p. 205*

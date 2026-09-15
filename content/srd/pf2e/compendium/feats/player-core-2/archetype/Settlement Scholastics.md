@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/archaeologist|Archaeologist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/archaeologist-dedication|Archaeologist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Archaeologist|Archaeologist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Archaeologist Dedication|Archaeologist Dedication]]
 
-Your studies open up new horizons. Choose a specific settlement. You gain the [[srd/pf2e/compendium/feats/player-core/skill/additional-lore|Additional Lore]] skill feat in the [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] skill for that settlement and learn a single common or uncommon language of your choice that's prevalent in that settlement.
+Your studies open up new horizons. Choose a specific settlement. You gain the [[srd/pf2e/compendium/feats/player-core/skill/Additional Lore|Additional Lore]] skill feat in the [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] skill for that settlement and learn a single common or uncommon language of your choice that's prevalent in that settlement.
 
 **Special** You can take this feat multiple times. When you take this feat again, choose a different settlement.
 

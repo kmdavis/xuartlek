@@ -21,6 +21,6 @@ Carefully etching a sacred image into a physical object, you steel yourself for 
 
 ### Emblazon Armament leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/emblazon-antimagic|Emblazon Antimagic]], [[srd/pf2e/compendium/feats/player-core/class/emblazon-energy|Emblazon Energy]]
+[[srd/pf2e/compendium/feats/player-core/class/Emblazon Antimagic|Emblazon Antimagic]], [[srd/pf2e/compendium/feats/player-core/class/Emblazon Energy|Emblazon Energy]]
 
 *Source: Player Core p. 115*

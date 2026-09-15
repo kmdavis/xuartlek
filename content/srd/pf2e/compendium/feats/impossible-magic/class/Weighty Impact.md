@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Evolution`  `Summoner`
 
-- **Prerequisites**: Your eidolon has an unarmed attack with the [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|shove]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|trip]] trait.
+- **Prerequisites**: Your eidolon has an unarmed attack with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Shove|shove]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip|trip]] trait.
 
-Your eidolon hurls enemies to the ground or across the battlefield. Choose one of the eidolon’s unarmed attacks that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|shove]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|trip]] trait. The attack gains the other trait as well, and your eidolon gains the Knockdown and Push actions for that attack.
+Your eidolon hurls enemies to the ground or across the battlefield. Choose one of the eidolon’s unarmed attacks that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Shove|shove]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip|trip]] trait. The attack gains the other trait as well, and your eidolon gains the Knockdown and Push actions for that attack.
 
 *Source: Impossible Magic p. 83*

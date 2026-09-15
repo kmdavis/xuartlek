@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/gunslinger|Gunslinger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/gunslinger-dedication|Gunslinger Dedication]]; expert in any kind of weapon or unarmed attack
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Gunslinger|Gunslinger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Gunslinger Dedication|Gunslinger Dedication]]; expert in any kind of weapon or unarmed attack
 
 You have familiarity with advanced firearms, treating them as martial weapons for the purposes of proficiency. You gain access to all uncommon firearms.
 

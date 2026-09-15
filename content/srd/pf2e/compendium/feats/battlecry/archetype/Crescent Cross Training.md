@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/crossbow-infiltrator|Crossbow Infiltrator]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/crossbow-infiltrator-dedication|Crossbow Infiltrator Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Crossbow Infiltrator|Crossbow Infiltrator]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Crossbow Infiltrator Dedication|Crossbow Infiltrator Dedication]]
 
-You have familiarity with the [[srd/pf2e/compendium/equipment/weapons/knife/crescent-cross-melee|crescent cross]], an ingenious weapon that combines an arm-mounted, multi-chamber crossbow with a crescent-shaped blade. For the purposes of proficiency, you treat both its configurations as simple weapons. 
+You have familiarity with the [[srd/pf2e/compendium/equipment/weapons/knife/Crescent Cross (Melee)|crescent cross]], an ingenious weapon that combines an arm-mounted, multi-chamber crossbow with a crescent-shaped blade. For the purposes of proficiency, you treat both its configurations as simple weapons. 
 
 Feats and abilities from this archetype that normally work with a gauntlet bow also work with your crescent cross, treating the melee form of the crescent cross as a gauntlet where appropriate. You gain the Crescent Spray action. 
 
-**Crescent Spray** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (flourish) **Requirements** You are wielding a crescent cross; **Effects** You Strike up to three times with the ranged version of your crescent cross. If it is currently in its melee configuration, you can swap it to its ranged configuration as a free action before attempting these Strikes. You must have a bolt already chambered for each Strike and can Interact to swap to a different capacity chamber as a free action between each Strike. Each attack counts toward your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Multiple Attack Penalty|multiple attack penalty]], but you do not increase your penalty until you have made all your attacks.
+**Crescent Spray** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (flourish) **Requirements** You are wielding a crescent cross; **Effects** You Strike up to three times with the ranged version of your crescent cross. If it is currently in its melee configuration, you can swap it to its ranged configuration as a free action before attempting these Strikes. You must have a bolt already chambered for each Strike and can Interact to swap to a different capacity chamber as a free action between each Strike. Each attack counts toward your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Multiple Attack Penalty|multiple attack penalty]], but you do not increase your penalty until you have made all your attacks.
 
 *Source: Battlecry! p. 56*

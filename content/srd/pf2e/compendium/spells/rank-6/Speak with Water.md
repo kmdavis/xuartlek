@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Water`
 
-- **Traditions**: Divine, Occult, Primal
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Duration**: 1 hour
 
 Using ancient magic, you shape the words you speak into the primal sounds of water. You can ask questions of and receive answers from a body of water or the rain. While water isn’t intelligent, you speak with the natural spirits within the water, which have a personality colored by the type of water as well as the activity and movement of the water. Water’s perspective, perception, and knowledge give it a worldview different enough from a human’s that it doesn’t consider the same details important. Rain is fleeting and knows only what it’s currently touching. It can direct you toward unique silhouettes or structures or find a hidden place under a city as rain washes through the sewers. A body of water’s perspective is shaped by its size and age. A lake might remember when a fisherman drowned within them, but the ocean will likely only recall the most significant of events, such as a city sinking beneath their waves.

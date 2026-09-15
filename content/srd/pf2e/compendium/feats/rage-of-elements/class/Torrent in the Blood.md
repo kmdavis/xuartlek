@@ -22,7 +22,7 @@ socialImage: og-image.png
 
 `Healing`  `Impulse`  `Kineticist`  `Manipulate`  `Overflow`  `Primal`  `Vitality`  `Water`  `Positive`
 
-A healing wave splashes across creatures in a 30-foot cone, its cleansing water driving afflictions from the body. Each creature in the area regains 3d8 Hit Points and can attempt a new save against one [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]] affliction affecting it; on a failed save, the condition doesn't worsen.
+A healing wave splashes across creatures in a 30-foot cone, its cleansing water driving afflictions from the body. Each creature in the area regains 3d8 Hit Points and can attempt a new save against one [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]] affliction affecting it; on a failed save, the condition doesn't worsen.
 
  Each creature that benefited from this impulse becomes temporarily immune to Torrent in the Blood for 10 minutes.
 

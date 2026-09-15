@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `General`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/general/prescient-planner|Prescient Planner]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/general/Prescient Planner|Prescient Planner]]
 
 You can predict which consumables you might need in advance. When using Prescient Planner, you can procure a consumable item from your backpack, instead of a piece of adventuring gear. The consumable item must still be common with a level no higher than half your level, and its Bulk must be low enough that carrying it wouldn’t have made you encumbered.
 

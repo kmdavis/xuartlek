@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/assassin|Assassin]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/assassin-dedication|Assassin Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Assassin|Assassin]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Assassin Dedication|Assassin Dedication]]
 
-You act before foes can react. On the first round of combat, if you roll Deception or Stealth for initiative, creatures that haven't acted are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to you.
+You act before foes can react. On the first round of combat, if you roll Deception or Stealth for initiative, creatures that haven't acted are [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to you.
 
 *Source: Player Core 2 p. 186*

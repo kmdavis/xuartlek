@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Investigator`
 
-Sometimes your case splinters into smaller mysteries, but you never lose sight of the big picture. Once per day when you give up on the subject of a lead due to using [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Pursue a Lead|Pursue a Lead]] again, you can designate the lead you stopped pursuing as your solid lead for the day. Even though you stopped following the solid lead, you can change back to your solid lead any number of times by using a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait. Doing so ends one of your current leads as normal.
+Sometimes your case splinters into smaller mysteries, but you never lose sight of the big picture. Once per day when you give up on the subject of a lead due to using [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Pursue a Lead|Pursue a Lead]] again, you can designate the lead you stopped pursuing as your solid lead for the day. Even though you stopped following the solid lead, you can change back to your solid lead any number of times by using a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] trait. Doing so ends one of your current leads as normal.
 
  During your next daily preparations, you can maintain your solid lead or you can remove it; removing it allows you to designate a new solid lead later that day.
 

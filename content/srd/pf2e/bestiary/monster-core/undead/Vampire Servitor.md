@@ -30,10 +30,10 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; plus one regional language"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]; plus one regional language"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +8, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +8, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +5, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +12"
 abilityMods: [3, 5, 1, -1, 3, 2]
 ac: 22
 armorclass:
@@ -42,19 +42,19 @@ armorclass:
 hp: 40
 health:
   - name: "HP"
-    desc: "40 (coffin restoration, fast healing 5, void healing); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ physical 5 (except [[srd/pf2e/compendium/equipment/materials/silver|silver]])"
+    desc: "40 (coffin restoration, fast healing 5, void healing); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]; __Resistances__ physical 5 (except [[srd/pf2e/compendium/equipment/materials/Silver|silver]])"
 abilities_mid:
   - name: "Vampire Vulnerabilities"
     desc: ""
 speed: "25 feet, climb 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d8+6 slashing plus Grab"
+    desc: "⬻ claw +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d8+6 slashing plus Grab"
 abilities_bot:
   - name: "Drink Blood"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]) When Drinking Blood, the servitor regains 5 HP."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|Divine]]) When Drinking Blood, the servitor regains 5 HP."
   - name: "Sneak Attack"
-    desc: "The servitor deals 1d6 extra precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
+    desc: "The servitor deals 1d6 extra precision damage to [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] creatures."
 sourcebook: "_Monster Core_, page 336."
 ```
 

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Thrown`
 
-- **Favored Weapon**: Camazotz, [[srd/pf2e/compendium/deities/other-gods/kurgess|Kurgess]], [[srd/pf2e/compendium/deities/pantheons/weight-of-the-world|Weight of the World]]
+- **Favored Weapon**: Camazotz, [[srd/pf2e/compendium/deities/other-gods/Kurgess|Kurgess]], [[srd/pf2e/compendium/deities/pantheons/Weight of the World|Weight of the World]]
 - **Price**: 1 sp
 - **Damage**: 1d6 P
 - **Bulk**: L
@@ -22,7 +22,7 @@ socialImage: og-image.png
 - **Range**: 30 ft.
 - **Type**: Ranged
 - **Category**: Simple
-- **Group**: Dart
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Dart|Dart]]
 
 This thin spear is well balanced for throwing but is not designed for melee use.
 

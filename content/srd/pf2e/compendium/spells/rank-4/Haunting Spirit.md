@@ -16,17 +16,17 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Spirit`
 
-- **Tradition**: Occult
+- **Tradition**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 60 feet
 - **Target**: 1 living creature
 - **Defense**: Will
 - **Duration**: 1 minute
 
-You call an [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] spirit that only the target can see to haunt them. At the start of each of the target’s turns, it must attempt a Will saving throw. The target can spend its entire turn running as far away as possible to escape the spirit and end the spell early.
+You call an [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]] spirit that only the target can see to haunt them. At the start of each of the target’s turns, it must attempt a Will saving throw. The target can spend its entire turn running as far away as possible to escape the spirit and end the spell early.
 
 **Critical Success** The spell immediately ends.
 
-**Success** The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] for 1 round.
+**Success** The target becomes [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] for 1 round.
 
 **Failure** As success, and the target takes 4d8 spirit damage.
 

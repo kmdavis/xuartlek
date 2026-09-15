@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Illusion`  `Manipulate`  `Uncommon`
 
-- **Traditions**: Arcane, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Cast**: 10 minutes
 - **Range**: 500 feet
 - **Area**: 50-foot burst

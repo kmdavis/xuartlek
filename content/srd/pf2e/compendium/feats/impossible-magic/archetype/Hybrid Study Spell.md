@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/magus|Magus]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/magus-dedication|Magus Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Magus|Magus]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Magus Dedication|Magus Dedication]]
 
-You gain the conflux spell from a hybrid study of your choice. If you don’t already have one, you gain a focus pool of 1 Focus Point. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]] by studying your [[srd/pf2e/compendium/equipment/adventuring-gear/spellbook-blank|spellbook]] and performing a physical regimen. You don’t gain any of the hybrid study’s other benefits.
+You gain the conflux spell from a [[srd/pf2e/compendium/character/Hybrid Studies|hybrid study]] of your choice. If you don’t already have one, you gain a focus pool of 1 Focus Point. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]] by studying your [[srd/pf2e/compendium/equipment/adventuring-gear/Spellbook (Blank)|spellbook]] and performing a physical regimen. You don’t gain any of the hybrid study’s other benefits.
 
 *Source: Impossible Magic p. 88*

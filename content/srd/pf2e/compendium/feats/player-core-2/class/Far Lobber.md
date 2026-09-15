@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Alchemist`
 
-You've learned how to throw a longer distance. When you throw an [[srd/pf2e/compendium/equipment/weapons/bomb/alchemical-bomb|alchemical bomb]], it has a range increment of 30 feet instead of the usual 20 feet.
+You've learned how to throw a longer distance. When you throw an [[srd/pf2e/compendium/equipment/weapons/bomb/Alchemical Bomb|alchemical bomb]], it has a range increment of 30 feet instead of the usual 20 feet.
 
 ### Far Lobber leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/uncanny-bombs|Uncanny Bombs]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Uncanny Bombs|Uncanny Bombs]]
 
 *Source: Player Core 2 p. 63*

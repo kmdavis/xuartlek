@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 `Manipulate`  `Spellshape`  `Wizard`  `Metamagic`
 
-You can alter offensive spells to be less deadly. If your next action is to Cast a Spell that deals damage and doesn't have the death or void trait, that spell gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] trait.
+You can alter offensive spells to be less deadly. If your next action is to Cast a Spell that deals damage and doesn't have the death or void trait, that spell gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]] trait.
 
 *Source: Player Core p. 201*

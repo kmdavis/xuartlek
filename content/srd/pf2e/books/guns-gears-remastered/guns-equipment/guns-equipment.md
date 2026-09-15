@@ -1,6 +1,7 @@
 ---
 title: "Guns Equipment"
 aliases: ["Guns Equipment"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Guns & Gears (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1648"
 citation: "Guns & Gears (Remastered) pg. 146"
-socialImage: og-image.png
 ---
 
 # Guns Equipment
@@ -26,7 +26,7 @@ This chapter will showcase a variety of firearms. Some have historical inspirati
 
 ## Contents
 
-- [[srd/pf2e/books/guns-gears-remastered/guns-equipment/classic-firearms|Classic Firearms]]
-- [[srd/pf2e/books/guns-gears-remastered/guns-equipment/fantasy-firearms|Fantasy Firearms]]
-- [[srd/pf2e/books/guns-gears-remastered/guns-equipment/black-powder-siege-weapons|Black Powder Siege Weapons]]
-- [[srd/pf2e/books/guns-gears-remastered/guns-equipment/customization-options|Customization Options]]
+- [[srd/pf2e/books/guns-gears-remastered/guns-equipment/Classic Firearms|Classic Firearms]]
+- [[srd/pf2e/books/guns-gears-remastered/guns-equipment/Fantasy Firearms|Fantasy Firearms]]
+- [[srd/pf2e/books/guns-gears-remastered/guns-equipment/Black Powder Siege Weapons|Black Powder Siege Weapons]]
+- [[srd/pf2e/books/guns-gears-remastered/guns-equipment/Customization Options|Customization Options]]

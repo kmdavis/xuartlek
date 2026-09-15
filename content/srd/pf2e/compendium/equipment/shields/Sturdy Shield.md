@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Steel Shield|Steel Shield]]
+- **Base Shield**: [[srd/pf2e/compendium/equipment/Shields#Steel Shield|Steel Shield]]
 
 With a superior design and excellent craftsmanship, this steel shield has higher Hardness than its non-magical counterparts, making it harder to break and destroy.
 

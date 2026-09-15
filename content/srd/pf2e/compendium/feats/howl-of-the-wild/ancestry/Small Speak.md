@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Surki`
 
-You understand the languages of most small insects and can speak to them. You can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill with insects, arthropods, and terrestrial invertebrates. The GM determines which creatures count for this ability.
+You understand the languages of most small insects and can speak to them. You can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] skill with insects, arthropods, and terrestrial invertebrates. The GM determines which creatures count for this ability.
 
 *Source: Howl of the Wild p. 50*

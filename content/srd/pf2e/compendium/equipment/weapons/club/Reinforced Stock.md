@@ -23,7 +23,7 @@ socialImage: og-image.png
 - **Hands**: 1 or 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Club
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|Club]]
 
 A reinforced stock is a weighted crossbow, firearm haft, or grip customized for striking in melee. An attached reinforced stock requires the same number of hands as the weapon it's attached to.
 

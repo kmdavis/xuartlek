@@ -18,10 +18,10 @@ socialImage: og-image.png
 
 `Animist`  `Cleric`  `Concentrate`  `Spellshape`  `Metamagic`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/classes/animist|Animist]] [[srd/pf2e/compendium/feats/war-of-immortals/class/embodiment-of-the-balance|Embodiment Of The Balance]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/classes/Animist|Animist]] [[srd/pf2e/compendium/feats/war-of-immortals/class/Embodiment Of The Balance|Embodiment Of The Balance]]
 
 When you pull forth vitality or void energy, you also create a smaller pocket of that energy. If the next action you use is to cast a 2-action harm or heal to heal or damage a single creature, choose one additional creature in range. Target that creature with a 1-action version of the same spell. This spell is the same rank as the 2-action harm or heal you cast and doesn’t cost another spell slot.
 
-**Special** When taken by an [[srd/pf2e/compendium/character/classes/animist|animist]], this feat has the [[srd/pf2e/compendium/rules-elements/traits/war-of-immortals/apparition|apparition]] trait.
+**Special** When taken by an [[srd/pf2e/compendium/character/classes/Animist|animist]], this feat has the [[srd/pf2e/compendium/rules-elements/traits/war-of-immortals/Apparition|apparition]] trait.
 
 *Source: Player Core p. 121*

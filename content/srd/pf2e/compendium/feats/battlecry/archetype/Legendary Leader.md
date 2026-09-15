@@ -15,11 +15,11 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/captain|Captain]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/captain-dedication|Captain Dedication]]; legendary in [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] or [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Captain|Captain]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Captain Dedication|Captain Dedication]]; legendary in [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] or [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
 Your fame has spread throughout the lands. When you first attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] on an intelligent creature, the GM rolls a secret DC 11 flat check to see if they have heard of you. On a success, you gain a +2 circumstance modifier to the skill check for that action. The GM can adjust this flat check as appropriate for circumstances in which you may be more or less known. 
 
-You can also leverage your notoriety and your network of assistants and admirers to earn money. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Earn Income|Earn Income]] using the skill you used to meet the prerequisites of this feat. When you do, you gain a +2 circumstance bonus to the check; this bonus increases to a +3 if you have the [[srd/pf2e/compendium/feats/battlecry/archetype/cadre|Cadre]] feat, as your retainers praise your deeds and find those who might pay to meet you.
+You can also leverage your notoriety and your network of assistants and admirers to earn money. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Earn Income|Earn Income]] using the skill you used to meet the prerequisites of this feat. When you do, you gain a +2 circumstance bonus to the check; this bonus increases to a +3 if you have the [[srd/pf2e/compendium/feats/battlecry/archetype/Cadre|Cadre]] feat, as your retainers praise your deeds and find those who might pay to meet you.
 
 *Source: Battlecry! p. 83*

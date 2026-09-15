@@ -22,13 +22,13 @@ socialImage: og-image.png
 - **Hands**: 1+
 - **Category**: Martial
 
-The bow staff is a [[srd/pf2e/compendium/equipment/weapons/club/whipstaff|whipstaff]] with a retracting spool of wire inside a metal cap on one end and a hooked protrusion on the other. A wielder trained in the weapon's use can quickly spool and attach or detach the wire to transition the weapon between bow and staff functionality.
+The bow staff is a [[srd/pf2e/compendium/equipment/weapons/club/Whipstaff|whipstaff]] with a retracting spool of wire inside a metal cap on one end and a hooked protrusion on the other. A wielder trained in the weapon's use can quickly spool and attach or detach the wire to transition the weapon between bow and staff functionality.
 
 ### Melee
 
 **Damage** 1d6 B
 
-**Group** Club
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|Club]]
 
 ### Ranged
 
@@ -38,7 +38,7 @@ The bow staff is a [[srd/pf2e/compendium/equipment/weapons/club/whipstaff|whipst
 
 **Reload** 0
 
-**Group** Bow
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bow|Bow]]
 
 **Ammunition** Arrows
 

@@ -20,6 +20,6 @@ You can move quickly when using your preferred modes of travel. Stride twice. Yo
 
 ### Wild Stride leads to...
 
-[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/awakened-stride|Awakened Stride]]
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Awakened Stride|Awakened Stride]]
 
 *Source: Howl of the Wild p. 26*

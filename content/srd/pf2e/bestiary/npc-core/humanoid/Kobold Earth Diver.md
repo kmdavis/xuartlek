@@ -28,14 +28,14 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; darkvision, tremorsense (imprecise) 10 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Petran|Petran]], [[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/lore|Geology Lore]] +11, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/Lore|Geology Lore]] +11, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +10, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +10, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +8"
 abilityMods: [4, 3, 0, 1, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "Crossbow (20 bolts), [[srd/pf2e/compendium/equipment/adventuring-gear/map|Map]] (depicting landmarks above and below ground in 1 square mile), Leather Armor, Pick"
+    desc: "Crossbow (20 bolts), [[srd/pf2e/compendium/equipment/adventuring-gear/Map|Map]] (depicting landmarks above and below ground in 1 square mile), Leather Armor, Pick"
 ac: 20
 armorclass:
   - name: "AC"
@@ -47,14 +47,14 @@ health:
 speed: "25 feet, burrow 10 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ pick +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d10]]) __Damage__ 1d6+10 piercing"
+    desc: "⬻ pick +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fatal|fatal d10]]) __Damage__ 1d6+10 piercing"
   - name: "Melee"
-    desc: "⬻ claw +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+10 slashing"
+    desc: "⬻ claw +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+10 slashing"
   - name: "Ranged"
     desc: "⬻ crossbow +13 (range increment 120 feet, reload 1) __Damage__ 1d8+6 piercing"
 abilities_bot:
   - name: "Pick Smash"
-    desc: "⬺ The kobold earth diver smashes their pick into the ground, sending debris exploding in a 5-foot emanation. All creatures and unattended objects in range take 3d6 bludgeoning damage with a DC 20 basic Reflex save. A creature that is [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] by an earth diver's Sinkhole takes an additional 1d6 bludgeoning damage."
+    desc: "⬺ The kobold earth diver smashes their pick into the ground, sending debris exploding in a 5-foot emanation. All creatures and unattended objects in range take 3d6 bludgeoning damage with a DC 20 basic Reflex save. A creature that is [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] by an earth diver's Sinkhole takes an additional 1d6 bludgeoning damage."
   - name: "Sinkhole"
     desc: "⬺"
   - name: "Requirements"
@@ -62,7 +62,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The earth diver creates a small sinkhole under the creature, who must attempt a DC 20 Reflex save. Regardless of the result, the target's space becomes difficult terrain."
   - name: "Failure"
-    desc: "The creature falls into the sinkhole and is [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 18)."
+    desc: "The creature falls into the sinkhole and is [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 18)."
   - name: "Critical Failure"
     desc: "As failure, and the creature takes 2d8 bludgeoning damage."
 sourcebook: "_NPC Core_, page 199."

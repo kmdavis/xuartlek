@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Inventor`
 
-You've found a way to use a hodgepodge combination of devices to enhance your visual abilities in every situation. You gain darkvision and low-light vision, and you can see [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] creatures and objects as translucent shapes, though these shapes are indistinct enough to be [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] to you.
+You've found a way to use a hodgepodge combination of devices to enhance your visual abilities in every situation. You gain darkvision and low-light vision, and you can see [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]] creatures and objects as translucent shapes, though these shapes are indistinct enough to be [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] to you.
 
- If an effect would give you the [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] condition, the effect must attempt a counteract check against your class DC, with your counteract level equaling half your level, rounded up. On a failed counteract check, you aren't blinded—your various devices are able to compensate.
+ If an effect would give you the [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] condition, the effect must attempt a counteract check against your class DC, with your counteract level equaling half your level, rounded up. On a failed counteract check, you aren't blinded—your various devices are able to compensate.
 
 *Source: Guns & Gears (Remastered) p. 27*

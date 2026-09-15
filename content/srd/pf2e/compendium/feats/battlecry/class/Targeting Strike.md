@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Commander`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/class/guiding-shot|Guiding Shot]] or [[srd/pf2e/compendium/feats/battlecry/class/set-up-strike|Set-up Strike]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/class/Guiding Shot|Guiding Shot]] or [[srd/pf2e/compendium/feats/battlecry/class/Set-up Strike|Set-up Strike]]
 
 Your attack creates an opening in your target's defenses for your allies to capitalize on. When you successfully damage an opponent with either Guiding Shot or Set-Up Strike, the next creature other than you to attack the same target before the start of your next turn deals an amount of additional precision damage equal to your Intelligence modifier.
 

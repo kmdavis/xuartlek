@@ -19,14 +19,14 @@ socialImage: og-image.png
 
 `Cleric`  `Fear`  `Focus`  `Manipulate`  `Mental`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Abomination|Abomination]]
-- **Trigger**: A creature within range becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]].
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Abomination|Abomination]]
+- **Trigger**: A creature within range becomes [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]].
 - **Range**: 30 feet
 - **Target**: the triggering creature
 - **Defense**: Will
 - **Duration**: varies
 
-You open your mouth wide and inhale sharply; you draw in the bravery, self-confidence, and hope to which the [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] target clings and then strip away the target’s false assumption that these fragile emotions can save them from the oblivion of terror. You deal 6d4 [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] damage to the creature, which must attempt a Will saving throw.
+You open your mouth wide and inhale sharply; you draw in the bravery, self-confidence, and hope to which the [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] target clings and then strip away the target’s false assumption that these fragile emotions can save them from the oblivion of terror. You deal 6d4 [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] damage to the creature, which must attempt a Will saving throw.
 
 **Critical Success** The creature is unaffected.
 

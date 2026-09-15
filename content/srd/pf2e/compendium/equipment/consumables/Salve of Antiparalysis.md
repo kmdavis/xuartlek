@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 Applying this filmy salve to a creature helps it overcome magical paralysis. The salve attempts to counteract the paralysis (counteract rank 3rd, counteract modifier +22). 
 

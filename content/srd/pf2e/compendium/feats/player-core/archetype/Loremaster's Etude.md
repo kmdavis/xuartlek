@@ -18,6 +18,6 @@ socialImage: og-image.png
 - **Archetype**: Loremaster (Level 4)
 - **Prerequisites**: enigma muse
 
-You magically unlock memories, making them easier to recall. You learn the [[srd/pf2e/compendium/spells/focus/loremasters-etude|_loremaster's etude_]] composition spell.
+You magically unlock memories, making them easier to recall. You learn the [[srd/pf2e/compendium/spells/focus/Loremaster's Etude|_loremaster's etude_]] composition spell.
 
 *Source: Player Core p. 101*

@@ -34,10 +34,10 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; low-light vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Elven|Elven]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +4, Elemental Lore +8, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] +8, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +4, Elemental Lore +8, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +6, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +7"
 abilityMods: [1, 3, 0, 4, 2, 0]
 abilities_top:
   - name: "Items"
@@ -53,17 +53,17 @@ health:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+3 piercing"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+3 piercing"
   - name: "Ranged"
-    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+3 piercing"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+3 piercing"
 abilities_bot:
   - name: "Elf Step"
     desc: "⬻ The elementalist Steps twice."
   - name: "Elemental Field"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|Electricity]]) The elementalist unleashes powerful static electricity in a 20-foot emanation that lasts for 1 minute. All squares in the area become hazardous terrain for other creatures. A creature takes 1 electricity damage each time it moves into one of these squares. While in the area, creatures take a –1 status penalty to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] spells."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|Electricity]]) The elementalist unleashes powerful static electricity in a 20-foot emanation that lasts for 1 minute. All squares in the area become hazardous terrain for other creatures. A creature takes 1 electricity damage each time it moves into one of these squares. While in the area, creatures take a –1 status penalty to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|electricity]] spells."
 spellcasting:
   - name: "Arcane Prepared Spells"
-    desc: "DC 18 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/electric-arc|Electric Arc]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/message|Message]], [[srd/pf2e/compendium/spells/cantrips/shield|Shield]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/gentle-landing|Gentle Landing]], [[srd/pf2e/compendium/spells/rank-1/gust-of-wind|Gust of Wind]], [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|Illusory Disguise]], [[srd/pf2e/compendium/spells/rank-1/thunderstrike|Thunderstrike]]"
+    desc: "DC 18 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/Electric Arc|Electric Arc]], [[srd/pf2e/compendium/spells/cantrips/Light|Light]], [[srd/pf2e/compendium/spells/cantrips/Message|Message]], [[srd/pf2e/compendium/spells/cantrips/Shield|Shield]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Gentle Landing|Gentle Landing]], [[srd/pf2e/compendium/spells/rank-1/Gust of Wind|Gust of Wind]], [[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|Illusory Disguise]], [[srd/pf2e/compendium/spells/rank-1/Thunderstrike|Thunderstrike]]"
 sourcebook: "_Monster Core_, page 151."
 ```
 

@@ -21,11 +21,11 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Sanctified`  `Spirit`  `Vitality`  `Void`  `Positive`  `Negative`
 
-- **Tradition**: Divine
+- **Tradition**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2)
 - **Requirements**: You have a deity.
 - **Range**: 120 feet
-- **Area**: 60-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude
+- **Area**: 60-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Fortitude
 
 You call forth a divine cataclysm from your deity, destroying living and undead creatures in the area alike. Creatures in the area take 10d6 void damage and 10d6 spirit damage. A creature harmed by vitality damage, such as one with void healing, takes vitality damage instead of void damage from this spell.
 

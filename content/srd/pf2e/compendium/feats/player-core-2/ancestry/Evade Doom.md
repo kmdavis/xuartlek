@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Catfolk`
 
-You can elude supernatural disaster. When you would gain the [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] condition, you can attempt a DC 17 flat check. On a success, you don't gain the doomed condition.
+You can elude supernatural disaster. When you would gain the [[srd/pf2e/compendium/rules-elements/Conditions#Doomed|doomed]] condition, you can attempt a DC 17 flat check. On a success, you don't gain the doomed condition.
 
 ### Evade Doom leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/ancestry/ten-lives|Ten Lives]]
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Ten Lives|Ten Lives]]
 
 *Source: Player Core 2 p. 11*

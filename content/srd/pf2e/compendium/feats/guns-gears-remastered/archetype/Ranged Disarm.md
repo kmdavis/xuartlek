@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/bullet-dancer|Bullet Dancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/bullet-dancer-dedication|Bullet Dancer Dedication]]; [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/trick-shot|Trick Shot]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Bullet Dancer|Bullet Dancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Bullet Dancer Dedication|Bullet Dancer Dedication]]; [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Trick Shot|Trick Shot]]
 - **Requirements**: You're wielding a simple firearm.
 
-When using a simple firearm, you can shoot objects right out of your enemy's hands. Attempt to Disarm the target using a ranged attack roll with your simple firearm, instead of attempting an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check against the target's Reflex DC.
+When using a simple firearm, you can shoot objects right out of your enemy's hands. Attempt to Disarm the target using a ranged attack roll with your simple firearm, instead of attempting an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check against the target's Reflex DC.
 
 *Source: Guns & Gears (Remastered) p. 132*

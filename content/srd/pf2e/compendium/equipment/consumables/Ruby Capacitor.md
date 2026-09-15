@@ -17,7 +17,7 @@ socialImage: og-image.png
 `Consumable`  `Magical`  `Talisman`
 
 - **Usage**: affixed to a magical staff
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 - **Requirement**: You prepared the staff.
 
 This cluster of unworked ruby is bound to the top of a staff by silver wire. When activated, it adds one temporary charge to the staff. Any spells cast from the staff before the end of the turn expend these charges first. Any unused temporary charges are lost at the end of your turn.

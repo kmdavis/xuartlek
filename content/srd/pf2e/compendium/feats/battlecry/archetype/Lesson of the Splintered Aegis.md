@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`  `Fortune`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/iridian-choirmaster|Iridian Choirmaster]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/iridian-choirmaster-dedication|Iridian Choirmaster Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Iridian Choirmaster|Iridian Choirmaster]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Iridian Choirmaster Dedication|Iridian Choirmaster Dedication]]
 - **Requirements**: Your last action was a Strike that dealt damage to an enemy.
 
 With your attack, you demonstrate to your student a hole in your enemy's defenses. Before the beginning of your next turn, your student can roll their next Strike or spell attack roll against that same enemy twice and take the better result.

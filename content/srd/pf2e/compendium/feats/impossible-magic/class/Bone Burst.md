@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Necromancer`  `Occult`
 
-- **Trigger**: A creature adjacent to one of your thralls uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] action or a [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action, makes a ranged [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], or leaves a square during a move action it’s using, and you are within 30 feet of the thrall.
+- **Trigger**: A creature adjacent to one of your thralls uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]] action or a [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] action, makes a ranged [[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]], or leaves a square during a move action it’s using, and you are within 30 feet of the thrall.
 
-You destroy the thrall in an explosion of bone shards that fly toward the triggering creature, dealing 2d10 piercing damage with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save against your spell DC. 
+You destroy the thrall in an explosion of bone shards that fly toward the triggering creature, dealing 2d10 piercing damage with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save against your spell DC. 
 
 The damage increases to 3d10 at 12th and to 4d10 at 18th level.
 

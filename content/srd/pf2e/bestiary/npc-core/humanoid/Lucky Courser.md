@@ -28,20 +28,20 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; low-light vision, scent (imprecise) 30 feet"
-languages: "Amurrun, [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
+languages: "Amurrun, [[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +14, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +16, [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] +16, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +18, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +16"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +14, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +16, [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] +16, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +18, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +16"
 abilityMods: [2, 4, 3, 1, 2, 2]
 abilities_top:
   - name: "Warning Ears"
-    desc: "⭓ ([[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]])"
+    desc: "⭓ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]])"
   - name: "Trigger"
-    desc: "The lucky courser rolls initiative using Perception or [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]"
+    desc: "The lucky courser rolls initiative using Perception or [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]"
   - name: "Effect"
     desc: "Their expressive ears twitch in alarm, granting allies within 10 feet a +2 circumstance bonus to initiative rolls."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/crossbow/arbalest|arbalest]]_ (20 cold iron bolts, 20 dawnsilver bolts), +1 whip, Leather Armor"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/Striking|striking]] [[srd/pf2e/compendium/equipment/weapons/crossbow/Arbalest|arbalest]]_ (20 cold iron bolts, 20 dawnsilver bolts), +1 whip, Leather Armor"
 ac: 27
 armorclass:
   - name: "AC"
@@ -52,21 +52,21 @@ health:
     desc: "140"
 abilities_mid:
   - name: "Guide to Fortune"
-    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]])"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]])"
   - name: "Frequency"
     desc: "once per hour"
   - name: "Trigger"
-    desc: "The lucky courser or an ally within 10 feet fails a Reflex save, [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] check, or [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check"
+    desc: "The lucky courser or an ally within 10 feet fails a Reflex save, [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] check, or [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check"
   - name: "Effect"
     desc: "The triggering creature rerolls the save or check and uses the better result."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _whip_ +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|Reach]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d4+12 slashing"
+    desc: "⬻ _whip_ +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|Reach]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip|Trip]]) __Damage__ 1d4+12 slashing"
   - name: "Melee"
-    desc: "⬻ claw+19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+12 slashing"
+    desc: "⬻ claw+19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+12 slashing"
   - name: "Ranged"
-    desc: "⬻ _arbalest_ +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/backstabber|Backstabber]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], range increment 110 feet, reload 1) __Damage__ 2d10+6 piercing"
+    desc: "⬻ _arbalest_ +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Backstabber|Backstabber]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], range increment 110 feet, reload 1) __Damage__ 2d10+6 piercing"
 abilities_bot:
   - name: "Elusive Hunter"
     desc: "The lucky courser can [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]] in any natural terrain and in lesser cover from allies."
@@ -77,7 +77,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The lucky courser can Interact to reload their arbalest, Step, and Strike, taking the actions in any order. The Step ignores difficult terrain."
   - name: "Head Shot"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) The lucky courser [[srd/pf2e/compendium/rules-elements/actions/player-core#Create a Diversion|Creates a Diversion]] and then Strikes. The target is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] until the end of the lucky courser's next turn on a successful Strike (or [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] on a critical hit)."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|Manipulate]]) The lucky courser [[srd/pf2e/compendium/rules-elements/actions/player-core#Create a Diversion|Creates a Diversion]] and then Strikes. The target is [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] until the end of the lucky courser's next turn on a successful Strike (or [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] on a critical hit)."
 sourcebook: "_NPC Core_, page 173."
 ```
 

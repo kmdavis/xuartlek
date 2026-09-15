@@ -15,13 +15,13 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/artillerist|Artillerist]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Artillerist|Artillerist]]
 - **Prerequisites**: trained in martial weapons
 
-Artillery is a team sport, where every member of the crew has to rely on the other members. At best, a mistake might just waste time. At worst, a misaligned fuse or a badly set pin could cause the whole thing to explode. You've taken these lessons to heart, and so your presence on an artillery team assists the entire team at every aspect of the siege weapon's deployment and usage. If you're serving on a siege weapon crew, you and all other members gain a +2 circumstance bonus to any checks to [[srd/pf2e/books/guns-gears-remastered/gears-equipment/siege-weapons#Loading|Load]], [[srd/pf2e/books/guns-gears-remastered/gears-equipment/siege-weapons#Aiming|Aim]], move, or Repair the weapon. When you Aim a siege weapon, you can move the weapon's aim twice as far as normal.
+Artillery is a team sport, where every member of the crew has to rely on the other members. At best, a mistake might just waste time. At worst, a misaligned fuse or a badly set pin could cause the whole thing to explode. You've taken these lessons to heart, and so your presence on an artillery team assists the entire team at every aspect of the [[srd/pf2e/compendium/equipment/siege-weapons/siege-weapons|siege weapon's]] deployment and usage. If you're serving on a siege weapon crew, you and all other members gain a +2 circumstance bonus to any checks to [[srd/pf2e/books/guns-gears-remastered/gears-equipment/Siege Weapons#Loading|Load]], [[srd/pf2e/books/guns-gears-remastered/gears-equipment/Siege Weapons#Aiming|Aim]], move, or Repair the weapon. When you Aim a siege weapon, you can move the weapon's aim twice as far as normal.
 
 ### Artillerist Dedication leads to...
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/cannon-corner-shot|Cannon Corner Shot]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/live-ammunition|Live Ammunition]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/master-siege-engineer|Master Siege Engineer]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/shorthanded|Shorthanded]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Cannon Corner Shot|Cannon Corner Shot]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Live Ammunition|Live Ammunition]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Master Siege Engineer|Master Siege Engineer]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Shorthanded|Shorthanded]]
 
 *Source: Guns & Gears (Remastered) p. 128*

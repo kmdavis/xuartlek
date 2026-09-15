@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Metal`  `Morph`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: Lymnieris, [[srd/pf2e/compendium/deities/vudrani-gods/vineshvakhi|Vineshvakhi]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Lymnieris, [[srd/pf2e/compendium/deities/vudrani-gods/Vineshvakhi|Vineshvakhi]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude
@@ -28,7 +28,7 @@ You partially transform a foe's feet into unwieldy slabs of metal, slowing their
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Encumbered|encumbered]] and has weakness 2 to electricity until the end of your next turn. The spell can't be sustained.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Encumbered|encumbered]] and has weakness 2 to electricity until the end of your next turn. The spell can't be sustained.
 
 **Failure** The target is encumbered and has weakness 2 to electricity.
 

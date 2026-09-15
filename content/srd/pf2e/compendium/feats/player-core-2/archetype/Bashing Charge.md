@@ -16,8 +16,8 @@ socialImage: og-image.png
 `Barbarian`  `Flourish`
 
 - **Archetype**: Zombie (Level 4)
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-You smash, bust, and charge through solid obstacles without hesitation. Stride twice. Once during your movement, if your movement passes through or ends adjacent to a door, window, fence, wall, or similar obstacle, you can attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]] the obstacle with a +1 circumstance bonus to the roll; on a failure, your movement ends at that obstacle.
+You smash, bust, and charge through solid obstacles without hesitation. Stride twice. Once during your movement, if your movement passes through or ends adjacent to a door, window, fence, wall, or similar obstacle, you can attempt an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]] the obstacle with a +1 circumstance bonus to the roll; on a failure, your movement ends at that obstacle.
 
 *Source: Player Core 2 p. 77*

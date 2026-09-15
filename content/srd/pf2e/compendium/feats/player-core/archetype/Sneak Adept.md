@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Rogue`
 
 - **Archetypes**: Knight Reclaimant (Level 12), Verduran Shadow (Level 12)
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
 It’s almost impossible to spot you. When you roll a failure on a Sneak action, you get a success instead. You can still critically fail.
 

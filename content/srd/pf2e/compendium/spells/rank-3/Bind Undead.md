@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Undead|Undead]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Undead|Undead]]
 - **Range**: 30 feet
 - **Target**: 1 mindless undead creature with a level no greater than bind undead ’s spell rank
 - **Duration**: 1 day
 
-With a word of power, you seize control of the target. It gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]] trait. If you or an ally uses any hostile actions against the target, the spell ends.
+With a word of power, you seize control of the target. It gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Minion|minion]] trait. If you or an ally uses any hostile actions against the target, the spell ends.
 
 *Source: Player Core p. 318*

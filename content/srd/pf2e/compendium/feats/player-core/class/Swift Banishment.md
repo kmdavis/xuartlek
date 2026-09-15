@@ -21,6 +21,6 @@ The force of your blow sends your victim back to its home plane. You expend a _b
 
 ### Swift Banishment leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/improved-swift-banishment|Improved Swift Banishment]]
+[[srd/pf2e/compendium/feats/player-core/class/Improved Swift Banishment|Improved Swift Banishment]]
 
 *Source: Player Core p. 120*

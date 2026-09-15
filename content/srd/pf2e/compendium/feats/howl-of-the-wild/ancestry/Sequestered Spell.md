@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Surki`
 
-You consumed so much of a type of magic as a larva that you can now cast it purely on instinct. Choose one [[srd/pf2e/compendium/rules-elements/traits/player-core/cantrip|cantrip]] from the spell list of your magiphage ability. You can cast this cantrip as an innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
+You consumed so much of a type of magic as a larva that you can now cast it purely on instinct. Choose one [[srd/pf2e/compendium/rules-elements/traits/player-core/Cantrip|cantrip]] from the spell list of your magiphage ability. You can cast this cantrip as an innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
 
 *Source: Howl of the Wild p. 50*

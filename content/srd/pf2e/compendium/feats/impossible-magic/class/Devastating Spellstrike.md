@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Magus`
 
-- **Prerequisites**: inexorable iron hybrid study; [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Spellstrike|Spellstrike]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Hybrid Studies#Inexorable Iron|inexorable iron hybrid study]]; [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Spellstrike|Spellstrike]]
 - **Requirements**: Your Spellstrike is charged.
 
-Your Spellstrike sweeps are so wide and devastating, they smash into nearby foes. Make a Spellstrike with a spell that can deal damage. Enemies in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] around the target (not including the target) take 2 damage of the same damage type your spell could deal. This damage increases to 3 at 9th level, 4 at 14th level, and 5 at 19th level. 
+Your Spellstrike sweeps are so wide and devastating, they smash into nearby foes. Make a Spellstrike with a spell that can deal damage. Enemies in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] around the target (not including the target) take 2 damage of the same damage type your spell could deal. This damage increases to 3 at 9th level, 4 at 14th level, and 5 at 19th level. 
 
 If you’re in the Arcane Cascade stance, the emanation’s damage gains a status bonus to damage equal to the extra damage from your Arcane Cascade.
 

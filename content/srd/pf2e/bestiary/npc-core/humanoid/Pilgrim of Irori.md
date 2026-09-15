@@ -28,18 +28,18 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "+5"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/lore|Irori Lore]] +6, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +5, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +4, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/Lore|Irori Lore]] +6, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +5, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +4, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +5"
 abilityMods: [1, 0, 2, 0, 3, 1]
 abilities_top:
   - name: "Ambulatory Oration"
     desc: "Creatures that engage in conversation with the pilgrim gain a +1 circumstance bonus to all [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] checks and [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]] checks for 4 hours related to any topics discussed with the pilgrim."
   - name: "Path of the Faithful"
-    desc: "The pilgrim can use their [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] modifier instead of their [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] modifier to [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] as long as the pilgrim includes their religious teachings."
+    desc: "The pilgrim can use their [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] modifier instead of their [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] modifier to [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] as long as the pilgrim includes their religious teachings."
   - name: "Items"
-    desc: "Explorer's Clothing, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Irori]], walking stick (functions as a [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]])"
+    desc: "Explorer's Clothing, [[srd/pf2e/compendium/equipment/adventuring-gear/Religious Symbol|religious symbol]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Irori|Irori]], walking stick (functions as a [[srd/pf2e/compendium/equipment/weapons/club/Staff|staff]])"
 ac: 14
 armorclass:
   - name: "AC"
@@ -51,11 +51,11 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ staff +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand 1d8]]) __Damage__ 1d4+1 bludgeoning"
+    desc: "⬻ staff +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Two-Hand|two-hand 1d8]]) __Damage__ 1d4+1 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d6+1 bludgeoning"
+    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d6+1 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ rock +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d4+1 bludgeoning"
+    desc: "⬻ rock +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 10 feet]]) __Damage__ 1d4+1 bludgeoning"
 sourcebook: "_NPC Core_, page 28."
 ```
 

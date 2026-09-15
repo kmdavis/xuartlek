@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Archetype`  `Auditory`  `Concentrate`  `Linguistic`  `Mental`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/field-propagandist|Field Propagandist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/field-propagandist-dedication|Field Propagandist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Field Propagandist|Field Propagandist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Field Propagandist Dedication|Field Propagandist Dedication]]
 
-You recite a tale of prowess that rewrites the combat unfolding around you. You can attempt a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] check against a [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effect that's currently affecting an ally within 30 feet, using [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] for the counteract check and half your level as the counteract rank.
+You recite a tale of prowess that rewrites the combat unfolding around you. You can attempt a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions#Counteracting|counteract]] check against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effect that's currently affecting an ally within 30 feet, using [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] for the counteract check and half your level as the counteract rank.
 
 *Source: Battlecry! p. 58*

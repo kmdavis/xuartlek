@@ -14,14 +14,14 @@ socialImage: og-image.png
 
 `Two-Hand`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/empyreal-lords/ragathiel|Ragathiel]], Sorrow's Sword
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/empyreal-lords/Ragathiel|Ragathiel]], Sorrow's Sword
 - **Price**: 4 gp
 - **Damage**: 1d8 S
 - **Bulk**: 1
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 This broad-bladed sword, sometimes called the hand-and-a-half sword, has a longer grip so it can be held in one hand or used with two hands to provide extra slashing power.
 
@@ -31,6 +31,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/artifacts/serithtial|Serithtial]], [[srd/pf2e/compendium/equipment/weapons/talonstrike-blade|Talonstrike Blade]]
+[[srd/pf2e/compendium/equipment/artifacts/Serithtial|Serithtial]], [[srd/pf2e/compendium/equipment/weapons/Talonstrike Blade|Talonstrike Blade]], Timeflaying Blade
 
 *Source: Player Core p. 278*

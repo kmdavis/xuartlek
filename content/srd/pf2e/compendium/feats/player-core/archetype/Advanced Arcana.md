@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/wizard|Wizard]], [[srd/pf2e/compendium/character/archetypes/spellshot|Spellshot]] (Level 6)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/basic-arcana|Basic Arcana]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Wizard|Wizard]], [[srd/pf2e/compendium/character/archetypes/Spellshot|Spellshot]] (Level 6)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Basic Arcana|Basic Arcana]]
 
 You gain one wizard feat. For the purpose of meeting its prerequisites, your wizard level is equal to half your character level.
 

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/aldori-duelist|Aldori Duelist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/aldori-duelist-dedication|Aldori Duelist Dedication]]
-- **Trigger**: You critically succeed at a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]] with your [[srd/pf2e/compendium/equipment/weapons/sword/aldori-dueling-sword|Aldori dueling sword]], or succeed at a Strike or Disarm attempt with your Aldori dueling sword against an opponent during your first turn of an encounter.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Aldori Duelist|Aldori Duelist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Aldori Duelist Dedication|Aldori Duelist Dedication]]
+- **Trigger**: You critically succeed at a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]] with your [[srd/pf2e/compendium/equipment/weapons/sword/Aldori Dueling Sword|Aldori dueling sword]], or succeed at a Strike or Disarm attempt with your Aldori dueling sword against an opponent during your first turn of an encounter.
 
 Your incredible skill with your blade unnerves your foes. You attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] the target of your Strike or Disarm. This Demoralize attempt does not have the auditory trait, nor do you take a penalty to the check if the target doesn't understand your language.
 

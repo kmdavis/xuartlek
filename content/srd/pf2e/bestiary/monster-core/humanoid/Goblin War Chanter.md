@@ -28,10 +28,10 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +7, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +4, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +7, [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] +4, [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] +7, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +6"
 abilityMods: [2, 3, 2, 1, 0, 4]
 abilities_top:
   - name: "Items"
@@ -54,12 +54,12 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dogslicer +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/backstabber|Backstabber]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+2 slashing"
+    desc: "⬻ dogslicer +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Backstabber|Backstabber]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]]) __Damage__ 1d6+2 slashing"
   - name: "Ranged"
-    desc: "⬻ shortbow +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], range increment 60 feet, reload 0) __Damage__ 1d6 piercing"
+    desc: "⬻ shortbow +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d10]], range increment 60 feet, reload 0) __Damage__ 1d6 piercing"
 abilities_bot:
   - name: "Goblin Song"
-    desc: "⬻ The war chanter sings annoying goblin songs, distracting foes with silly and repetitive lyrics. The chanter attempts a [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check against the Will DCs of up to two enemies within 30 feet. This has the usual traits and restrictions for a Performance check."
+    desc: "⬻ The war chanter sings annoying goblin songs, distracting foes with silly and repetitive lyrics. The chanter attempts a [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] check against the Will DCs of up to two enemies within 30 feet. This has the usual traits and restrictions for a Performance check."
   - name: "Critical Success"
     desc: "The target takes a –1 status penalty to Perception checks and Will saves for 1 minute."
   - name: "Success"
@@ -68,7 +68,7 @@ abilities_bot:
     desc: "The target is temporarily immune to Goblin Song for 1 hour."
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 17, attack +7 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/figment|Figment]], [[srd/pf2e/compendium/spells/cantrips/courageous-anthem|Courageous Anthem]], [[srd/pf2e/compendium/spells/cantrips/message|Message]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-projectile|Telekinetic Projectile]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/bless|Bless]], [[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]] (2 slots)"
+    desc: "DC 17, attack +7 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/Figment|Figment]], [[srd/pf2e/compendium/spells/cantrips/Courageous Anthem|Courageous Anthem]], [[srd/pf2e/compendium/spells/cantrips/Message|Message]], [[srd/pf2e/compendium/spells/cantrips/Telekinetic Hand|Telekinetic Hand]], [[srd/pf2e/compendium/spells/cantrips/Telekinetic Projectile|Telekinetic Projectile]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Bless|Bless]], [[srd/pf2e/compendium/spells/rank-1/Soothe|Soothe]] (2 slots)"
 sourcebook: "_Monster Core_, page 175."
 ```
 

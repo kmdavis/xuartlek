@@ -20,7 +20,7 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Emotion`  `Focus`  `Fortune`  `Mental`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 - **Trigger**: You and at least 1 ally are about to roll initiative
 - **Range**: 10 feet
 - **Target**: you and the triggering ally

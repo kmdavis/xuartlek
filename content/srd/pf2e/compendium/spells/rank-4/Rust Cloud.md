@@ -16,16 +16,16 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Metal`
 
-- **Traditions**: Arcane, Primal
-- **Deity**: [[srd/pf2e/compendium/deities/elemental-lords/ferrumnestra|Ferrumnestra]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deity**: [[srd/pf2e/compendium/deities/elemental-lords/Ferrumnestra|Ferrumnestra]]
 - **Range**: 120 feet
 - **Area**: 20-foot burst
 - **Defense**: basic Fortitude
 - **Duration**: 1 minute
 
-Red-blown flecks of rust jitter in the air, forming a cloud of agitated particles. All creatures within the cloud become [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], and all creatures outside the cloud become concealed to creatures within it. The cloud deals 5d10 slashing damage to any creature that starts its turn in the area, with a basic Fortitude save.
+Red-blown flecks of rust jitter in the air, forming a cloud of agitated particles. All creatures within the cloud become [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]], and all creatures outside the cloud become concealed to creatures within it. The cloud deals 5d10 slashing damage to any creature that starts its turn in the area, with a basic Fortitude save.
 
- Metal that rusts off of a creature adds to the cloud. When a [[srd/pf2e/compendium/rules-elements/traits/player-core/metal|metal]] creature takes damage from the cloud, the cloud's area increases by 5 feet (to a maximum of a 40-foot burst), and the creature starts to rust, taking 1d4 persistent slashing damage. You can Dismiss the cloud.
+ Metal that rusts off of a creature adds to the cloud. When a [[srd/pf2e/compendium/rules-elements/traits/player-core/Metal|metal]] creature takes damage from the cloud, the cloud's area increases by 5 feet (to a maximum of a 40-foot burst), and the creature starts to rust, taking 1d4 persistent slashing damage. You can Dismiss the cloud.
 
 ---
 **Heightened (+2)** The cloud's slashing damage increases by 1d10 and the persistent damage increases by 1d4.

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Witch`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/witchs-charge|Witch's Charge]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Witch's Charge|Witch's Charge]]
 
 You can keep watch over multiple charges. Each day during your preparations, you can designate a number of charges equal to your Intelligence modifier instead of just one.
 

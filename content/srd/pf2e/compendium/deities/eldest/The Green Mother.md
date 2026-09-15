@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: Frolic in vegetation, manipulate people, use what you kill, prey on the weak
 - **Anathema**: Hold a secret for too long, discriminate against sex workers or use their trade to harm them
 - **Area of Concern**: Carnivorous plants, intrigue, seduction
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/weight-of-the-world|Weight of the World]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Weight of the World|Weight of the World]]
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Constitution or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/sickle|Sickle]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Sickle|Sickle]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Decay|Decay]], [[srd/pf2e/compendium/character/domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Passion|Passion]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Decay|Decay]], [[srd/pf2e/compendium/character/Domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Passion|Passion]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/charm|Charm]]
+[[srd/pf2e/compendium/spells/rank-1/Charm|Charm]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]]
+[[srd/pf2e/compendium/spells/rank-4/Suggestion|Suggestion]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/plant-form|Plant Form]]
+[[srd/pf2e/compendium/spells/rank-5/Plant Form|Plant Form]]
 
 *Source: Divine Mysteries p. 306*

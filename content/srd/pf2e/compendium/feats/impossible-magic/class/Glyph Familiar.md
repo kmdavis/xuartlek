@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Runesmith`
 
-You have taken a living rune as a familiar to aid you in your adventures. You gain a [[srd/pf2e/compendium/character/familiar-abilities|familiar]]. You choose one familiar or master ability per day instead of two, but your familiar also always has three additional familiar abilities: [[srd/pf2e/compendium/character/familiar-abilities#Construct|construct]], [[srd/pf2e/compendium/character/familiar-abilities#Flier|flier]], and [[srd/pf2e/compendium/character/familiar-abilities#Tough|tough]].
+You have taken a living rune as a familiar to aid you in your adventures. You gain a [[srd/pf2e/compendium/character/Familiar Abilities|familiar]]. You choose one familiar or master ability per day instead of two, but your familiar also always has three additional familiar abilities: [[srd/pf2e/compendium/character/Familiar Abilities#Construct|construct]], [[srd/pf2e/compendium/character/Familiar Abilities#Flier|flier]], and [[srd/pf2e/compendium/character/Familiar Abilities#Tough|tough]].
 
 ### Glyph Familiar leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/enhanced-glyph-familiar|Enhanced Glyph Familiar]]
+[[srd/pf2e/compendium/feats/impossible-magic/class/Enhanced Glyph Familiar|Enhanced Glyph Familiar]]
 
 *Source: Impossible Magic p. 48*

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/champion|Champion]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/champion-dedication|Champion Dedication]]; class granting no more Hit Points per level than 8 + your Constitution modifier
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Champion|Champion]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Champion Dedication|Champion Dedication]]; class granting no more Hit Points per level than 8 + your Constitution modifier
 
 You gain 3 additional Hit Points for each champion archetype class feat you have. As you continue selecting champion archetype class feats, you continue to gain additional Hit Points in this way.
 

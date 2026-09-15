@@ -20,6 +20,6 @@ You can take advantage of shapechanging magic to close wounds and patch injuries
 
 ### Healing Transformation leads to...
 
-[[srd/pf2e/compendium/feats/howl-of-the-wild/class/cleansing-transformation|Cleansing Transformation]]
+[[srd/pf2e/compendium/feats/howl-of-the-wild/class/Cleansing Transformation|Cleansing Transformation]]
 
 *Source: Player Core p. 133*

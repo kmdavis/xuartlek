@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Lineage`  `Nephilim`
 
-Your lineage descends from devils, conniving schemers of [[srd/pf2e/compendium/gm/planes#Hell|Hell]]. You’re as skilled at noticing lies and twisted wordings as you are at constructing them. You are trained in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] and Legal [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]]. If you were already trained in Deception (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the Lie to Me skill feat.
+Your lineage descends from devils, conniving schemers of [[srd/pf2e/compendium/gm/Planes#Hell|Hell]]. You’re as skilled at noticing lies and twisted wordings as you are at constructing them. You are trained in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] and Legal [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]]. If you were already trained in Deception (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the Lie to Me skill feat.
 
 *Source: Player Core p. 79*

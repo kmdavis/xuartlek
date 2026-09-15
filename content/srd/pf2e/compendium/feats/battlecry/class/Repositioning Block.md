@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Guardian`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/general/Shield Block|Shield Block]]
 - **Trigger**: You used Shield Block to prevent damage from an adjacent creature’s attack.
 
 As you absorb a blow from an enemy, you can use their attack's momentum against them. Attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]] the creature whose attack you used Shield Block against. You don't need to have a hand free to do so. You gain a +1 item bonus to the Athletics check if your shield is at least 4th level, a +2 item bonus if your shield is at least 10th level, and a +3 item bonus if your shield is at least 16th level.

@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/atropos|Atropos]], [[srd/pf2e/compendium/deities/sakhil-tormentors/charg|Charg]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/Atropos|Atropos]], [[srd/pf2e/compendium/deities/sakhil-tormentors/Charg|Charg]]
 - **Range**: 120 feet
 - **Area**: 20-foot burst
 - **Duration**: 1 minute
@@ -25,7 +25,7 @@ You examine the time stream in a particular area, then proceed to stick a few me
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 this turn.
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]] 1 this turn.
 
 **Critical Failure** The creature is slowed 2 this turn.
 

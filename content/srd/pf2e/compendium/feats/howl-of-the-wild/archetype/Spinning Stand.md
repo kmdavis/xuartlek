@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/clawdancer|Clawdancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/clawdancer-dedication|Clawdancer Dedication]]
-- **Requirements**: You’re [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Clawdancer|Clawdancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Clawdancer Dedication|Clawdancer Dedication]]
+- **Requirements**: You’re [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]].
 
 You flare your legs around, using the momentum to both lash out and return to a standing position. You enter talon stance if you weren't in it already, make a spinning talon Strike against an enemy in reach, and then [[srd/pf2e/compendium/rules-elements/actions/player-core#Stand|Stand]]. You don't take the -2 circumstance penalty for attacking while prone, and your Stand action doesn't trigger reactions. You can spend two actions using Spinning Stand to make two spinning talon Strikes instead of one; these Strikes must be against separate targets.
 

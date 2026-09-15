@@ -16,16 +16,16 @@ socialImage: og-image.png
 
 `Concentrate`  `Earth`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/kabriri|Kabriri]], [[srd/pf2e/compendium/deities/dwarven-gods/magrim|Magrim]], [[srd/pf2e/compendium/deities/elemental-lords/sairazul|Sairazul]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/Kabriri|Kabriri]], [[srd/pf2e/compendium/deities/dwarven-gods/Magrim|Magrim]], [[srd/pf2e/compendium/deities/elemental-lords/Sairazul|Sairazul]]
 - **Range**: touch
 - **Area**: cube of dirt 5 feet across or smaller
 
-You remove loose dirt, dust, gravel, sand, and the like (though not solid stone) up to the size of a 5-foot cube. Any Medium or smaller creature standing atop the earth when the spell is cast must attempt a Reflex save or [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] check.
+You remove loose dirt, dust, gravel, sand, and the like (though not solid stone) up to the size of a 5-foot cube. Any Medium or smaller creature standing atop the earth when the spell is cast must attempt a Reflex save or [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] check.
 
 **Success** The creature is unaffected and can choose to either descend the pit without damage or move to the nearest available space of its choice.
 
-**Failure** The creature falls [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] in the nearest available space of its choice or falls into the pit if it prefers.
+**Failure** The creature falls [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] in the nearest available space of its choice or falls into the pit if it prefers.
 
 **Critical Failure** The creature falls into the pit excavated by the spell and lands prone, taking falling damage as normal.
 

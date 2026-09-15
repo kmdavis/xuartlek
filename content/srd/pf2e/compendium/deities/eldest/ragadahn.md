@@ -25,23 +25,23 @@ Strength or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/whip|Whip]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/Whip|Whip]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Dragon|Dragon]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]], [[srd/pf2e/compendium/character/domains#Water|Water]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Dragon|Dragon]], [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]], [[srd/pf2e/compendium/character/Domains#Water|Water]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/hydraulic-push|Hydraulic Push]]
+[[srd/pf2e/compendium/spells/rank-1/Hydraulic Push|Hydraulic Push]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/brine-dragon-bile|Brine Dragon Bile]]
+[[srd/pf2e/compendium/spells/rank-2/Brine Dragon Bile|Brine Dragon Bile]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/feet-to-fins|Feet to Fins]]
+[[srd/pf2e/compendium/spells/rank-3/Feet to Fins|Feet to Fins]]
 
 *Source: Divine Mysteries p. 306*

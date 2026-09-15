@@ -1,7 +1,7 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/player-core-2
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/agile
 - trait/disarm
 - trait/finesse
@@ -10,7 +10,7 @@ tags:
 - weapon/level/0
 aliases: ["Tengu Gale Blade"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=479"
-source: "Player Core 2"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -25,7 +25,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 This fan-shaped sword designed by tengu smiths has five broad blades that join at its hilt. Tengu sailors use them as makeshift weather vanes, for the sword spins in the wind’s direction when loosely held aloft.
 
@@ -33,4 +33,4 @@ This fan-shaped sword designed by tengu smiths has five broad blades that join a
 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
 
-*Source: Player Core 2 p. 274*
+*Source: Tian Xia Character Guide p. 127*

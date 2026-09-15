@@ -20,7 +20,7 @@ socialImage: og-image.png
 - **Cast**: 1 day
 - **Cost**: water infused with drops of the primary caster’s blood and a dozen deadly toxins worth a total of 50 gp
 - **Secondary Casters**: 2
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] (expert)
 - **Secondary Checks**: Crafting or Medicine
 - **Area**: 40-foot burst centered on you
 - **Duration**: 1 year

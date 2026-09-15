@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/archer|Archer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/archer-dedication|Archer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Archer|Archer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Archer Dedication|Archer Dedication]]
 
 Your skill with a crossbow strikes terror into your opponents when you threaten them with the next bolt. Interact to reload a crossbow and then attempt an Intimidation check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]]. You gain a +2 circumstance bonus to this check if you succeeded at a Strike with a crossbow this turn.
 

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `General`
 
-Your physiology responds well to first aid. You gain a circumstance bonus to the number of Hit Points you regain equal to your level from a successful attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat your Wounds]] or use [[srd/pf2e/compendium/feats/player-core/skill/battle-medicine|Battle Medicine]] on you. After you or an ally use Battle Medicine on you, you become temporarily immune to that Battle Medicine for only 1 hour, instead of 1 day.
+Your physiology responds well to first aid. You gain a circumstance bonus to the number of Hit Points you regain equal to your level from a successful attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat your Wounds]] or use [[srd/pf2e/compendium/feats/player-core/skill/Battle Medicine|Battle Medicine]] on you. After you or an ally use Battle Medicine on you, you become temporarily immune to that Battle Medicine for only 1 hour, instead of 1 day.
 
 *Source: Player Core 2 p. 233*

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 You'll see the following key term in many wizard abilities.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
 
 ### Roleplaying the Wizard
 
@@ -50,7 +50,7 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 | --- | --- |
 | **Perception** | Trained in Perception |
 | **Saving Throws** | Trained in Fortitude Trained in Reflex Expert in Will |
-| **Skills** | Trained in [[srd/pf2e/compendium/rules-elements/skills/arcana\|Arcana]] Trained in a number of additional skills equal to 2 plus your Intelligence modifier |
+| **Skills** | Trained in [[srd/pf2e/compendium/rules-elements/skills/Arcana\|Arcana]] Trained in a number of additional skills equal to 2 plus your Intelligence modifier |
 | **Attacks** | Trained in simple weapons Trained in unarmed attacks |
 | **Defenses** | Untrained in all armor Trained in unarmored defense |
 | **Class DC** | Trained in wizard class DC |
@@ -84,7 +84,7 @@ Class Features
 19Archwizard’s spellcraft, general feat, legendary spellcaster, skill increase
 20Attribute boosts, skill feat, wizard feat
 
-Your LevelCantrips1st2nd3rd4th5th6th7th8th9th10th152—————————253—————————3532————————4533————————55332———————65333———————753332——————853333——————9533332—————10533333—————115333332————125333333————1353333332———1453333333———15533333332——16533333333——175333333332—185333333333—1953333333331*2053333333331* * The archwizard’s spellcraft class feature gives you a 10th-rank spell slot that works a bit differently from other spell slots.
+Your LevelCantrips1st2nd3rd4th5th6th7th8th9th10th152—————————253—————————3532————————4533————————55332———————65333———————753332——————853333——————9533332—————10533333—————115333332————125333333————1353333332———1453333333———15533333332——16533333333——175333333332—185333333333—1953333333331*2053333333331* * The archwizard's spellcraft class feature gives you a 10th-level spell slot that works a bit differently from other spell slots._ Paizo ClarificationThe Wizard Spells Per Day table doesn't include the additional curriculum cantrip and curriculum spells you receive from your arcane school.
 
 | | |
 | --- | --- |
@@ -122,7 +122,7 @@ Through dedicated study and practice, you can construct spells with academic rig
 
  Every arcane spell has a written version, which you record in your personalized book of spells. You start with a spellbook worth 10 sp or less, which you receive for free and must study each day to prepare your spells. Your spellbook's form and name are up to you. It might be a musty, leather-bound tome or an assortment of thin metal disks connected to a brass ring; its name might be esoteric, like _The Tome of Silent Shadows_ or something more academic, like _Advanced Pyromantic Applications of Jalmeri Elemental Theory_. 
 
- The spellbook contains your choice of 10 arcane cantrips and five 1st-rank arcane spells. You choose these from the common spells on the arcane spell list or from other arcane spells you gain access to. You also add two 1st-rank spells from the curriculum of your arcane school (except in the case of the school of unified magical theory, as described in that school).
+ The spellbook contains your choice of 10 arcane cantrips and five 1st-rank arcane spells. You choose these from the common spells on the [arcane spell list](https://2e.aonprd.com/SpellLists.aspx?Tradition=1) or from other arcane spells you gain access to. You also add two 1st-rank spells from the curriculum of your arcane school (except in the case of the school of unified magical theory, as described in that school).
 
  Each time you gain a level, you add two arcane spells to your spellbook, of any spell rank for which you have spell slots, chosen from common spells of your tradition or others you gain access to. You can also add spells to your spellbook with the [[srd/pf2e/compendium/rules-elements/actions/player-core#Learn a Spell|Learn a Spell]] activity. When you gain spell slots of a new rank, you also add an additional spell from your school's curriculum (unless it's the school of unified magical theory).
 
@@ -132,7 +132,7 @@ During your studies to become a full-fledged wizard, you produced a thesis of un
 
 #### Arcane School
 
-Most wizards acquire their knowledge of spells from a formal educational institution, such as the Arcanamirium or the Magaambya. At 1st level, you choose your [[srd/pf2e/compendium/character/arcane-schools|arcane school]], which grants you magical abilities.
+Most wizards acquire their knowledge of spells from a formal educational institution, such as the Arcanamirium or the Magaambya. At 1st level, you choose your [[srd/pf2e/compendium/character/Arcane Schools|arcane school]], which grants you magical abilities.
 
  You gain additional spells and spell slots from the curriculum taught at the school you attended. Some wizards follow the school of unified magical theory, which attempts to forge a new school by studying independently and drawing information from a multitude of texts and tutors. Though a wizard with this approach lacks the focus of formal training, they have greater flexibility.
 
@@ -140,11 +140,14 @@ Most wizards acquire their knowledge of spells from a formal educational institu
 
 You place some of your magical power in a bonded item. Each day when you prepare your spells, you can designate a single item you own as your bonded item. This is typically an item associated with spellcasting, such as a wand, ring, or staff, but you are free to designate a weapon or other item. You gain the Drain Bonded Item free action.
 
+#### Skill Feats
+
+At 2nd level and every 2 levels thereafter, you gain a [skill feat](https://2e.aonprd.com/Feats.aspx?Traits=144). You must be trained or better in the corresponding skill to select a skill feat.
+
 | | |
 | --- | --- |
-| **Skill Feats** | At 2nd level and every 2 levels thereafter, you gain a skill feat. You must be trained or better in the corresponding skill to select a skill feat. |
-| **Wizard Feats** | At 2nd level and every even-numbered level thereafter, you gain a wizard class feat. |
-| **General Feats** | At 3rd level and every 4 levels thereafter, you gain a general feat. |
+| **Wizard Feats** | At 2nd level and every even-numbered level thereafter, you gain a [wizard class feat](https://2e.aonprd.com/Feats.aspx?Traits=166). |
+| **General Feats** | At 3rd level and every 4 levels thereafter, you gain a [general feat](https://2e.aonprd.com/Feats.aspx?Traits=78). |
 
 #### Skill Increases
 

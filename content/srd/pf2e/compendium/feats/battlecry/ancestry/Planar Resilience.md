@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 Your body has adapted to the variety of harsh climes that you encounter in your travels. You treat temperature-based environmental effects as if they were one step less extreme (incredible cold or heat becomes extreme, extreme cold or heat becomes severe, and so on).
 
-Additionally, the planar energies that move through you allow you to further adapt your body with some concentration and effort. During your daily preparations, choose either [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]. You gain resistance to that damage equal to half your level (minimum 1).
+Additionally, the planar energies that move through you allow you to further adapt your body with some concentration and effort. During your daily preparations, choose either [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]]. You gain resistance to that damage equal to half your level (minimum 1).
 
 *Source: Battlecry! p. 14*

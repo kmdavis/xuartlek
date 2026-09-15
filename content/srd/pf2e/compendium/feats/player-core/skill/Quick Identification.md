@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: trained in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+- **Prerequisites**: trained in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], or [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
 You can Identify Magic swiftly. You take only 1 minute when using Identify Magic to determine the properties of an item, ongoing effect, or location, rather than 10 minutes. If you’re a master, it takes a 3-action activity, and if you’re legendary, it takes 1 action.
 

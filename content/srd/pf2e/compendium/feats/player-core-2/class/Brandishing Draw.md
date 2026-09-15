@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Swashbuckler`
 
-You draw and attack with the same motion. You Interact to draw a weapon, then either Strike or use a one-action [[srd/pf2e/compendium/rules-elements/traits/player-core-2/finisher|finisher]]. You must still meet any other requirements to use a finisher, and any Strike you make must be made with the weapon you drew.
+You draw and attack with the same motion. You Interact to draw a weapon, then either Strike or use a one-action [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Finisher|finisher]]. You must still meet any other requirements to use a finisher, and any Strike you make must be made with the weapon you drew.
 
 *Source: Player Core 2 p. 165*

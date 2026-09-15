@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Necromancer`
 
-- **Prerequisites**: bone grim fascination
+- **Prerequisites**: [[srd/pf2e/compendium/character/Grim Fascinations#Bone|bone grim fascination]]
 
-You take on the toughness and lightness of bone. You gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] equal to half your level to two damage types; one is your choice of [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], and the other is your choice of slashing or piercing. You also gain a +5- foot status bonus to your Speeds. Whenever you destroy a thrall, this bonus to your Speeds increases to +10 feet for 1 round.
+You take on the toughness and lightness of bone. You gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistance]] equal to half your level to two damage types; one is your choice of [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|electricity]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]], and the other is your choice of slashing or piercing. You also gain a +5- foot status bonus to your Speeds. Whenever you destroy a thrall, this bonus to your Speeds increases to +10 feet for 1 round.
 
 *Source: Impossible Magic p. 39*

@@ -14,7 +14,7 @@ The warg is an intelligent and malevolent wolf that dwells among goblins, hobgob
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core/beast/warg|Warg]] (Creature 2), [[srd/pf2e/bestiary/monster-core/beast/witchwarg|Witchwarg]] (Creature 5)
+[[srd/pf2e/bestiary/monster-core/beast/Warg|Warg]] (Creature 2), [[srd/pf2e/bestiary/monster-core/beast/Witchwarg|Witchwarg]] (Creature 5)
 
 ### Warg Legends
 

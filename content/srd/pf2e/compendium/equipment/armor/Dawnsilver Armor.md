@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 - **Usage**: worn armor
 - **Bulk**: varies by armor
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/dawnsilver|Dawnsilver]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/Dawnsilver|Dawnsilver]]
 
 Dawnsilver armor is 1 Bulk lighter than normal (or light Bulk if its normal Bulk is 1, with no effect on armor that normally has light Bulk). It’s easier to wear than normal metal armor, reducing the Strength modifier necessary to ignore its check penalty by 1 and reducing its Speed penalty by 5 feet.
 

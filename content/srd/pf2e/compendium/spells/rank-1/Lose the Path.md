@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Illusion`  `Manipulate`  `Mental`  `Visual`
 
-- **Traditions**: Occult, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/ilsurrish|Il’Surrish]], [[srd/pf2e/compendium/deities/empyreal-lords/uskyeria|Uskyeria]]
+- **Traditions**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/Il’Surrish|Il’Surrish]], [[srd/pf2e/compendium/deities/empyreal-lords/Uskyeria|Uskyeria]]
 - **Trigger**: A creature in range Strides.
 - **Range**: 60 feet
 - **Target**: the triggering creature
@@ -28,7 +28,7 @@ You surround a moving creature with lifelike illusions, shifting their perceptio
 
 **Success** The creature is unaffected.
 
-**Failure** The creature treats all squares as [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] for its Stride.
+**Failure** The creature treats all squares as [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Difficult Terrain|difficult terrain]] for its Stride.
 
 **Critical Failure** As failure, except that you determine where the target moves during the Stride, though you can’t move it into hazardous terrain or to a place it can’t stand.
 

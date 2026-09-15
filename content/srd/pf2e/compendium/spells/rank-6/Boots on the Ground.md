@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Auditory`  `Concentrate`  `Illusion`  `Manipulate`  `Visual`
 
-- **Traditions**: Arcane, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 100 feet
 - **Defense**: Will
 - **Duration**: until you next make your daily preparations

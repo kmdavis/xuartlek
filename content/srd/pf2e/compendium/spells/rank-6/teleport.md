@@ -17,9 +17,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Teleportation`  `Uncommon`
 
-- **Traditions**: Arcane, Occult
-- **Spell Lists**: Elemental
-- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/barzahk|Barzahk]], [[srd/pf2e/compendium/deities/empyreal-lords/pulura|Pulura]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
+- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/Barzahk|Barzahk]], [[srd/pf2e/compendium/deities/empyreal-lords/Pulura|Pulura]]
 - **Cast**: 10 minutes
 - **Range**: 100 miles
 - **Target**: you and up to 4 targets touched, either willing creatures or objects roughly the size of a creature

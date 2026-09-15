@@ -24,24 +24,24 @@ Dexterity or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/longbow|Longbow]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/Longbow|Longbow]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Air|Air]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Travel|Travel]], [[srd/pf2e/compendium/character/domains#Water|Water]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Air|Air]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]], [[srd/pf2e/compendium/character/Domains#Water|Water]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/gentle-landing|Gentle Landing]]
+[[srd/pf2e/compendium/spells/rank-1/Gentle Landing|Gentle Landing]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/feet-to-fins|Feet to Fins]]
+[[srd/pf2e/compendium/spells/rank-3/Feet to Fins|Feet to Fins]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/aerial-form|Aerial Form]]
+[[srd/pf2e/compendium/spells/rank-4/Aerial Form|Aerial Form]]
 (bird only)
 
 *Source: Divine Mysteries p. 310*

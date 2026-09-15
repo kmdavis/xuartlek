@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 - **Price**: 4 gp
 - **Usage**: affixed to armor
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]])
 - **Trigger**: You successfully Trip a foe
 
 This wolf canine is bound in a strip of leather and tied to a buckle or strap on a suit of armor. When you activate the fang, you deal bludgeoning damage equal to your Strength modifier to the target of your Trip.

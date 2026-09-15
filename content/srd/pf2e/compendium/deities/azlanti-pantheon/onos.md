@@ -24,23 +24,23 @@ Wisdom or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-**Favored Weapon** Chakram
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Chakram|Chakram]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Air|Air]], [[srd/pf2e/compendium/character/domains#Earth|Earth]], [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Water|Water]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Air|Air]], [[srd/pf2e/compendium/character/Domains#Earth|Earth]], [[srd/pf2e/compendium/character/Domains#Fire|Fire]], [[srd/pf2e/compendium/character/Domains#Water|Water]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Metal|Metal]], [[srd/pf2e/compendium/character/domains#Travel|Travel]], [[srd/pf2e/compendium/character/domains#Wood|Wood]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Metal|Metal]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]], [[srd/pf2e/compendium/character/Domains#Wood|Wood]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/gust-of-wind|Gust of Wind]]
+[[srd/pf2e/compendium/spells/rank-1/Gust of Wind|Gust of Wind]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/one-with-stone|One with Stone]]
+[[srd/pf2e/compendium/spells/rank-3/One with Stone|One with Stone]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/elemental-form|Elemental Form]]
+[[srd/pf2e/compendium/spells/rank-5/Elemental Form|Elemental Form]]
 
 *Source: Divine Mysteries p. 302*

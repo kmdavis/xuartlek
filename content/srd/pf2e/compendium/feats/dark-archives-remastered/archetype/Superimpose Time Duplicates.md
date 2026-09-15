@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/chronoskimmer|Chronoskimmer]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Chronoskimmer|Chronoskimmer]]
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/chronoskimmer-dedication|Chronoskimmer Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Chronoskimmer Dedication|Chronoskimmer Dedication]]
 
 You call alternate versions of yourself, either from a different timeline or perhaps yourself from a different point in your current timeline, to aid you in combat. Until the start of your next turn, these alternate selves flicker in and out in your vicinity, providing flanking for you against all enemies within your reach. Flanking with your time duplicates is the same as flanking with an ally and so is subject to effects like all-around vision or the deny advantage class feature.
 

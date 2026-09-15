@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Nephilim`
 
-You know the secrets of the Multiverse. You gain the trained proficiency rank in either [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] or [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], and [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
+You know the secrets of the Multiverse. You gain the trained proficiency rank in either [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] or [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], and [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
 
-You also gain the Additional Lore general feat for a [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] subcategory of a plane to which you trace your lineage.
+You also gain the Additional Lore general feat for a [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] subcategory of a plane to which you trace your lineage.
 
 *Source: Player Core p. 80*

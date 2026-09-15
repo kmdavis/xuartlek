@@ -18,14 +18,14 @@ socialImage: og-image.png
 
 `Archetype`  `Emotion`  `Fear`  `Mental`  `Vigilante`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/vigilante|Vigilante]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/vigilante-dedication|Vigilante Dedication]]
-- **Requirements**: You are [[srd/pf2e/compendium/rules-elements/conditions#Unnoticed|unnoticed]] by the target creature.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Vigilante|Vigilante]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Vigilante Dedication|Vigilante Dedication]]
+- **Requirements**: You are [[srd/pf2e/compendium/rules-elements/Conditions#Unnoticed|unnoticed]] by the target creature.
 
-You can startle foes who are unaware of your presence. Make a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against your target. That creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against this Strike, as normal. If your Strike hits, the target remains off-guard for the rest of your turn and is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1 (frightened 2 on a critical hit).
+You can startle foes who are unaware of your presence. Make a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against your target. That creature is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] against this Strike, as normal. If your Strike hits, the target remains off-guard for the rest of your turn and is [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] 1 (frightened 2 on a critical hit).
 
 ### Startling Appearance leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/frightening-appearance|Frightening Appearance]], [[srd/pf2e/compendium/feats/player-core-2/archetype/stunning-appearance|Stunning Appearance]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Frightening Appearance|Frightening Appearance]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Stunning Appearance|Stunning Appearance]]
 
 *Source: Player Core 2 p. 219*

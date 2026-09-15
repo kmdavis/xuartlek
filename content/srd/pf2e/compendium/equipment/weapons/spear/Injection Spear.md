@@ -22,9 +22,9 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Spear
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Spear|Spear]]
 
-A hollow receptacle inside this spear's head can store a single dose of [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]. A sliding trigger along the spear's shaft can inject the loaded poison into a damaged target.
+A hollow receptacle inside this spear's head can store a single dose of [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]]. A sliding trigger along the spear's shaft can inject the loaded poison into a damaged target.
 
 ### Critical Specialization Effects
 

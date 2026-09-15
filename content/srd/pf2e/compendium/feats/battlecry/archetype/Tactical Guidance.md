@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/captain|Captain]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/captain-dedication|Captain Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Captain|Captain]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Captain Dedication|Captain Dedication]]
 
 You can provide tactical guidance to help your follower act more efficiently. You can spend 2 actions to [[srd/pf2e/compendium/rules-elements/actions/battlecry#Direct Follower|Direct your Follower]] instead of 1. If you do, your follower gains an additional action.
 

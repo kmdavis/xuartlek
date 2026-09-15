@@ -36,7 +36,7 @@ Kholos generally live in semi-nomadic clans of 10 to 20 family groups, containin
 
 Kholos have an unsentimental, matter-of-fact approach to life and prioritize results over methods. They are usually loyal and generous to their people and ruthless toward outsiders—whether this behavior is considered acceptable varies depending on who they view as “their people.”
 
- Many kholos pay homage to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu]], both as the originator of their people and a guide in a chaotic world. However, some kholos often give homage to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/calistria|Calistria]] and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]]. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]] is the patron of bonekeepers.
+ Many kholos pay homage to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Lamashtu|Lamashtu]], both as the originator of their people and a guide in a chaotic world. However, some kholos often give homage to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Calistria|Calistria]] and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Shelyn|Shelyn]]. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Nethys|Nethys]] is the patron of bonekeepers.
 
  **Popular Edicts** strengthen your allies and packmates, recount the tales of your ancestors, neutralize foes with tactics and cunning
  **Popular Anathema** risk yourself or your packmates for no reason, let a dead kholo or loved one rot like carrion
@@ -61,18 +61,18 @@ Newborn kholos are given a root name, typically that of a bone, plant, or animal
 
 #### Languages
 
-[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
-[[srd/pf2e/compendium/rules-elements/languages#Kholo|Kholo]]
+[[srd/pf2e/compendium/rules-elements/Languages#Kholo|Kholo]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], Iruxi, [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]], and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]], Iruxi, [[srd/pf2e/compendium/rules-elements/Languages#Necril|Necril]], [[srd/pf2e/compendium/rules-elements/Languages#Orcish|Orcish]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 #### Bite
 
-Your sharp teeth and powerful jaws are fearsome weapons. You have a jaws [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack that deals 1d6 piercing damage. Your jaws are in the brawling group.
+Your sharp teeth and powerful jaws are fearsome weapons. You have a jaws [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack that deals 1d6 piercing damage. Your jaws are in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group.
 
 #### Low-Light Vision
 
-You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition due to dim light.
 
 *Source: Player Core 2 p. 16*

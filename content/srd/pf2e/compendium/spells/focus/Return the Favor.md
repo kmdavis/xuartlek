@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Focus`  `Hex`  `Manipulate`  `Uncommon`  `Witch`
 
-- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Favors|Lesson of Favors]]
+- **Lesson**: [[srd/pf2e/compendium/character/Lessons#Lesson of Favors|Lesson of Favors]]
 - **Trigger**: An ally uses a reaction to grant you a beneficial effect during a combat encounter
 - **Range**: 30 feet
 - **Target**: 1 ally

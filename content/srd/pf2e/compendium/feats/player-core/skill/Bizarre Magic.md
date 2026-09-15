@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
 You can draw upon strange variations in your spellcasting, whether or not you can cast occult spells. The DCs to Recognize Spells you cast and Identify Magic you use increase by 5.
 

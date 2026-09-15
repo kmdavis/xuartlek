@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Alchemist`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/demolitionist|Demolitionist]] (Level 12)
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Demolitionist|Demolitionist]] (Level 12)
 
-You can throw bombs at just the right trajectory to create especially large and powerful explosions. When you throw an alchemical bomb and that bomb has the [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] trait, you can have the splash damage affect all creatures within 10 feet of the target instead of 5 feet. If you do, you gain a status bonus to the bomb's splash damage equal to your Intelligence modifier. If you have the [[srd/pf2e/compendium/character/research-fields#Bomber|bomber]] 5th-level field discovery, this additional damage applies even if you caused your bomb to deal splash damage equal to your Intelligence modifier instead of the normal amount, allowing your bombs to deal splash damage equal to double your Intelligence modifier.
+You can throw bombs at just the right trajectory to create especially large and powerful explosions. When you throw an [alchemical bomb](https://2e.aonprd.com/Equipment.aspx?Category=6&Subcategory=7) and that bomb has the [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] trait, you can have the splash damage affect all creatures within 10 feet of the target instead of 5 feet. If you do, you gain a status bonus to the bomb's splash damage equal to your Intelligence modifier. If you have the [[srd/pf2e/compendium/character/Research Fields#Bomber|bomber]] 5th-level field discovery, this additional damage applies even if you caused your bomb to deal splash damage equal to your Intelligence modifier instead of the normal amount, allowing your bombs to deal splash damage equal to double your Intelligence modifier.
 
 *Source: Player Core 2 p. 67*

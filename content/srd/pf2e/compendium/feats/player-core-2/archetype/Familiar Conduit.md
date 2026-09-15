@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`  `Spellshape`  `Metamagic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/familiar-master|Familiar Master]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/familiar-master-dedication|Familiar Master Dedication]]; able to cast spells
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Familiar Master|Familiar Master]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Familiar Master Dedication|Familiar Master Dedication]]; able to cast spells
 - **Requirements**: You have line of effect to your familiar.
 
 Under your tutelage, your familiar has grown attuned to the hidden currents of the world and can serve as a conduit for your magic. If the next action you use is to Cast a Spell that has a range, the spell uses the familiar as its origin point.

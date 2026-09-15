@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Runesmith`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]; Master in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]; Master in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]; Master in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], Master in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], Master in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], or Master in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
 You can write a message that travels long distances at the speed of thought. Once per day, you can take 1 minute to write a message of 25 words or fewer anywhere that can, at least momentarily, hold writing (such as on a piece of parchment, drawn in the sand, or lightly scratched onto soft metal). When you are finished, mentally picture one creature you know well. If the target creature is on the same plane as you, your message appears in their line of sight on any surface that can hold writing. It can be seen by only the target, and the target can read the message even if you don’t share a language. The message disappears once the target reads it, but the creature can respond by spending 1 minute to write their own message of 25 words or fewer in the same way. You instantly receive that message when it is finished, and you can read it even if you don’t share a language.
 

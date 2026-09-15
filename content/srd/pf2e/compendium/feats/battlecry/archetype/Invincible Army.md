@@ -18,11 +18,11 @@ socialImage: og-image.png
 
 `Archetype`  `Auditory`  `Concentrate`  `Linguistic`  `Mental`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/field-propagandist|Field Propagandist]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Field Propagandist|Field Propagandist]]
 - **Frequency**: once per round
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/field-propagandist-dedication|Field Propagandist Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Field Propagandist Dedication|Field Propagandist Dedication]]
 
-You enumerate the many virtues and victories of your chosen allies, creating a story of their invincibility so convincing that it is as good as the truth. Choose an ally you can see and attempt a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] check against the hard DC for the target's level. On a success, the target gains [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] 5 to either bludgeoning, piercing, or slashing damage, chosen when you use this ability; the type of damage resisted is usually tied to the story you tell about the character, such as giving them piercing resistance after telling a story about the time they rushed through a rain of arrows to take on an enemy encampment. 
+You enumerate the many virtues and victories of your chosen allies, creating a story of their invincibility so convincing that it is as good as the truth. Choose an ally you can see and attempt a [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] check against the hard DC for the target's level. On a success, the target gains [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistance]] 5 to either bludgeoning, piercing, or slashing damage, chosen when you use this ability; the type of damage resisted is usually tied to the story you tell about the character, such as giving them piercing resistance after telling a story about the time they rushed through a rain of arrows to take on an enemy encampment. 
 
 You can instead attempt your check against a very hard DC for the target's level to give them resistance to two damage types, adding acid, fire, cold, electricity, and sonic to the damage types you can grant resistance to.
 

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Gunslinger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/sniping-duo|Sniping Duo]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Sniping Duo|Sniping Duo]] (Level 4)
 - **Frequency**: once per round
 - **Requirements**: You're wielding a loaded firearm or crossbow.
 

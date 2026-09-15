@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `Flourish`  `Runesmith`
 
-- **Requirements**: You are wielding a shield.
+- **Requirements**: You are wielding a [[srd/pf2e/compendium/rules-elements/Weapon Groups#Shield|shield]].
 
 Your shield is a natural canvas for your art. In one motion, you [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise a Shield]] and [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Trace Rune|Trace a Rune]] on your shield.
 
 ### Fortifying Knock leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/runic-reprisal|Runic Reprisal]]
+[[srd/pf2e/compendium/feats/impossible-magic/class/Runic Reprisal|Runic Reprisal]]
 
 *Source: Impossible Magic p. 48*

@@ -21,6 +21,6 @@ You call out to your deity in a plea for their aid. You gain 1 Focus Point, whic
 
 ### Desperate Prayer leads to...
 
-[[srd/pf2e/compendium/feats/divine-mysteries/class/retributive-focus|Retributive Focus]]
+[[srd/pf2e/compendium/feats/divine-mysteries/class/Retributive Focus|Retributive Focus]]
 
 *Source: Player Core 2 p. 93*

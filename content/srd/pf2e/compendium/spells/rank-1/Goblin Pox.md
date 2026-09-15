@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Disease`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/apocalypse-riders/apollyon|Apollyon]], [[srd/pf2e/compendium/deities/other-gods/ghlaunder|Ghlaunder]], [[srd/pf2e/compendium/deities/qlippoth-lords/isph-aun-vuln|Isph-Aun-Vuln]], Kzininn, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa]], [[srd/pf2e/compendium/deities/daemon-harbingers/xsistaid|Xsistaid]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/apocalypse-riders/Apollyon|Apollyon]], [[srd/pf2e/compendium/deities/other-gods/Ghlaunder|Ghlaunder]], [[srd/pf2e/compendium/deities/qlippoth-lords/Isph-Aun-Vuln|Isph-Aun-Vuln]], Kzininn, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Urgathoa|Urgathoa]], [[srd/pf2e/compendium/deities/daemon-harbingers/Xsistaid|Xsistaid]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Defense**: Fortitude
@@ -26,12 +26,12 @@ Your touch afflicts the target with goblin pox, an irritating allergenic rash. T
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is sickened 1.
+**Success** The target is {{conditions 34 "sickened 1"}}.
 
 **Failure** The target is afflicted with goblin pox at stage 1.
 
 **Critical Failure** The target is afflicted with goblin pox at stage 2. 
 
-**Goblin Pox** ([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]]) Level 1; Creatures that have the [[srd/pf2e/compendium/rules-elements/traits/player-core/goblin|goblin]] trait and goblin dogs are immune; **Stage 1** sickened 1 (1 round); **Stage 2** sickened 1 and slowed 1 (1 round); **Stage 3** sickened 1 and the creature can't reduce its sickened value below 1 (1 day)
+**Goblin Pox** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]]) Level 1; Creatures that have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Goblin|goblin]] trait and goblin dogs are immune; **Stage 1** sickened 1 (1 round); **Stage 2** sickened 1 and slowed 1 (1 round); **Stage 3** sickened 1 and the creature can't reduce its sickened value below 1 (1 day)
 
 *Source: Player Core p. 333*

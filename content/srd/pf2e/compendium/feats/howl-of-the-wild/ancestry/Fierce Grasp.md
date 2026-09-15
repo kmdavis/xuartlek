@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Awakened Animal`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/heritages#Climbing Animal|Climbing Animal]] heritage
-- **Requirements**: You have an opponent [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]].
+- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Climbing Animal|Climbing Animal]] heritage
+- **Requirements**: You have an opponent [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]].
 
 Once you get your hands on someone, it's hard for them to get away. Your opponent takes a –2 circumstance penalty to their next attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] from being grabbed or restrained by you, and you gain a +1 circumstance bonus to your AC against any attacks they make against you while you have them grabbed.
 

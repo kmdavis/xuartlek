@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: Encourage change for the sake of rebirth, respect the power of the elements, focus on your own self growth
 - **Anathema**: Refuse to accept changes in yourself or others, repress you own anger or laughter, use the forces of nature for wanton destruction
 - **Area of Concern**: Change, growth, primal forces, volcanic islands
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/weight-of-the-world|Weight of the World]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Weight of the World|Weight of the World]]
 
 ### Devotee Benefits
 
@@ -25,21 +25,21 @@ Strength or Charisma
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/club|Club]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Club|Club]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Earth|Earth]], [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Water|Water]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Earth|Earth]], [[srd/pf2e/compendium/character/Domains#Fire|Fire]], [[srd/pf2e/compendium/character/Domains#Water|Water]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Air|Air]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Air|Air]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/thunderstrike|Thunderstrike]]
+[[srd/pf2e/compendium/spells/rank-1/Thunderstrike|Thunderstrike]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/dinosaur-form|Dinosaur Form]]
+[[srd/pf2e/compendium/spells/rank-4/Dinosaur Form|Dinosaur Form]]
 
 - **6th**
 Elemental Confluence

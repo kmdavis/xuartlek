@@ -39,13 +39,13 @@ Melee weapon only. The weapon gains the thrown 30 feet trait and has the _return
 
 ### Deep-Seeded Fear
 
-You gain a +2 status bonus to your [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] checks and don't take any penalties for not sharing a language when Demoralizing foes who can perceive your armament's essence form. When you manifest the essence form, you can attempt to Demoralize an enemy who can perceive the manifestation.
+You gain a +2 status bonus to your [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] checks and don't take any penalties for not sharing a language when Demoralizing foes who can perceive your armament's essence form. When you manifest the essence form, you can attempt to Demoralize an enemy who can perceive the manifestation.
 
 **Corruption Flaw** If you attempt to Demoralize an enemy, your Demoralize also targets the ally closest to you.
 
 ### Determined Toughness
 
-Any status penalties you take from the following conditions are 1 less than their condition's value: [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]]. This doesn't change the actual condition value, or any other effects of the condition (such as stupefied's disruption and its DC).
+Any status penalties you take from the following conditions are 1 less than their condition's value: [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]], [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]]. This doesn't change the actual condition value, or any other effects of the condition (such as stupefied's disruption and its DC).
 
 **Corruption Flaw** Whenever you take a status penalty from the listed conditions, you also take a –1 penalty to the same statistics.
 
@@ -87,7 +87,7 @@ Weapon only. When you manifest the essence form, choose one damage type: acid, c
 
 ### Pull of Stasis
 
-Weapon only. Any time you hit with the soulforged weapon, the target takes a –10-foot penalty to its Speeds for 1 round. On a critical hit, the creature is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] for 1 round instead.
+Weapon only. Any time you hit with the soulforged weapon, the target takes a –10-foot penalty to its Speeds for 1 round. On a critical hit, the creature is [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] for 1 round instead.
 
 **Corruption Flaw** You take a –10-foot penalty to all your Speeds.
 

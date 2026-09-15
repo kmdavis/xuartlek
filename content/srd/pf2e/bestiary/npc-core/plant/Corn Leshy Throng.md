@@ -30,10 +30,10 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; low-light vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]; [[srd/pf2e/compendium/spells/rank-3/speak-with-plants|_speak with plants_]] (corn only)"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]]; [[srd/pf2e/compendium/spells/rank-3/Speak with Plants|_speak with plants_]] (corn only)"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +12"
 abilityMods: [2, 3, 2, 0, 2, 2]
 ac: 21
 armorclass:
@@ -45,11 +45,11 @@ health:
     desc: "54 (4 segments); __Weaknesses__ area damage 5, splash damage 5"
 abilities_mid:
   - name: "Encircling Maze"
-    desc: "A corn leshy throng is arranged in rows of stalks to envelop foes, stretching upward to block their vision. It can move into other creatures' spaces, and other creatures can move into its squares. When a Medium or smaller creature attempts to enter any of the corn leshy throng's spaces, it must attempt a DC 20 [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] check. If the creature fails, it gets turned around—all the throng's squares are greater difficult terrain for it until the end of this turn. A creature needs to attempt this check only the first time in a round it attempts to enter one of the throng's squares."
+    desc: "A corn leshy throng is arranged in rows of stalks to envelop foes, stretching upward to block their vision. It can move into other creatures' spaces, and other creatures can move into its squares. When a Medium or smaller creature attempts to enter any of the corn leshy throng's spaces, it must attempt a DC 20 [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] check. If the creature fails, it gets turned around—all the throng's squares are greater difficult terrain for it until the end of this turn. A creature needs to attempt this check only the first time in a round it attempts to enter one of the throng's squares."
   - name: "Troop Defenses"
     desc: ""
   - name: "Verdant Burst"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]) When the corn leshy throng dies, a burst of primal energy explodes from their body, restoring 3d8 Hit Points to each plant creature in a 30-foot emanation. This area immediately fills with stalks of corn, becoming difficult terrain. If the terrain is not a viable environment for these plants, they wither after 24 hours."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Vitality|vitality]]) When the corn leshy throng dies, a burst of primal energy explodes from their body, restoring 3d8 Hit Points to each plant creature in a 30-foot emanation. This area immediately fills with stalks of corn, becoming difficult terrain. If the terrain is not a viable environment for these plants, they wither after 24 hours."
 speed: "25 feet; troop movement"
 abilities_bot:
   - name: "Boxing Ears"

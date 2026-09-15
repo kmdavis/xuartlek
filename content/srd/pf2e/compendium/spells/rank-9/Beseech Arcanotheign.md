@@ -18,14 +18,14 @@ socialImage: og-image.png
 
 `Concentrate`  `Incarnate`  `Manipulate`  `Mythic`  `Rare`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 100 feet
 - **Duration**: until the end of your next turn
 
-With a whispered prayer or arcane sending, you conjure Arcanotheign, herald of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]]. She's a storm of magic, half white and half black, roiling in a vaguely humanoid shape. She occupies the space of a Medium creature and has a Speed of 40 feet and a fly Speed of 60 feet.
+With a whispered prayer or arcane sending, you conjure Arcanotheign, herald of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Nethys|Nethys]]. She's a storm of magic, half white and half black, roiling in a vaguely humanoid shape. She occupies the space of a Medium creature and has a Speed of 40 feet and a fly Speed of 60 feet.
 
-**Arrive** ([[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]]) _Storm's Unbridled Destruction_ Arcanotheign arrives with a flash of light and a cacophonous crash of colliding magic. All enemies in a 60-foot emanation take 8d12 sonic damage with a basic Reflex save. A creature that critically fails is additionally [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] for 10 minutes. 
+**Arrive** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Sonic|sonic]]) _Storm's Unbridled Destruction_ Arcanotheign arrives with a flash of light and a cacophonous crash of colliding magic. All enemies in a 60-foot emanation take 8d12 sonic damage with a basic Reflex save. A creature that critically fails is additionally [[srd/pf2e/compendium/rules-elements/Conditions#Deafened|deafened]] for 10 minutes. 
 
-**Depart** ([[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]]) _Flash of Brilliance_ Arcanotheign fires a powerful arcane blast at one target within 100 feet, dealing 5d12 electricity damage with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save, and a powerful divine blast at one ally, healing 5d12 Hit Points. Then, Arcanotheign asks for payment in the form of a fond memory. If you pay this cost, you lose this memory, Arcanotheign gains this memory, and Arcanotheign whispers a secret into your mind; you can immediately [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] on any subject at mythic proficiency.
+**Depart** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|electricity]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Healing|healing]]) _Flash of Brilliance_ Arcanotheign fires a powerful arcane blast at one target within 100 feet, dealing 5d12 electricity damage with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save, and a powerful divine blast at one ally, healing 5d12 Hit Points. Then, Arcanotheign asks for payment in the form of a fond memory. If you pay this cost, you lose this memory, Arcanotheign gains this memory, and Arcanotheign whispers a secret into your mind; you can immediately [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] on any subject at mythic proficiency.
 
 *Source: War of Immortals p. 154*

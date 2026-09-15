@@ -1,6 +1,7 @@
 ---
 title: "World-Building and Tone"
 aliases: ["World-Building and Tone"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Guns & Gears (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1638"
 citation: "Guns & Gears (Remastered) pg. 5"
-socialImage: og-image.png
 ---
 
 # World-Building and Tone
@@ -26,7 +26,7 @@ Golarion is a world of magic with rune-bedecked swords forged out of metal falle
 
 ## Aren't Guns More Powerful than Bows?
 
-The guns presented in this book are representative of fairly early firearms with just a few unique twists, as explained in the introduction of the Guns Equipment chapter (page 146). Those old guns, which used black powder that did not exhibit the refinements of modern ammunition and lacked the rifle barrel technology for increasing range and accuracy, were extremely inaccurate and no more lethal with a glancing blow than most bows and crossbows; however, these firearms' penetrating power was superior, and a wound to a vital area could prove incredibly deadly. This lethality is represented mechanically by the fatal trait given to most firearms, with a critical hit indicating a gunshot to a vital organ or other important body part. This mechanic allows a firearm to do far more damage in the correct circumstances than a weapon with a similar damage die while still maintaining a balanced gaming ecosystem that allows each player to shine.
+The guns presented in this book are representative of fairly early firearms with just a few unique twists, as explained in the introduction of the Guns Equipment chapter (page 146). Those old guns, which used black powder that did not exhibit the refinements of modern ammunition and lacked the rifle barrel technology for increasing range and accuracy, were extremely inaccurate and no more lethal with a glancing blow than most bows and crossbows; however, these firearms' penetrating power was superior, and a wound to a vital area could prove incredibly deadly. This lethality is represented mechanically by the [fatal](https://2e.aonprd.com/Traits.aspx?ID=178) trait given to most firearms, with a critical hit indicating a gunshot to a vital organ or other important body part. This mechanic allows a firearm to do far more damage in the correct circumstances than a weapon with a similar damage die while still maintaining a balanced gaming ecosystem that allows each player to shine.
 
 ## Armor and Persistent Technology
 
@@ -54,7 +54,7 @@ With all the possible permutations of a fantasy world, we've endeavored to creat
 
 ## Borders and Change
 
-When constructing a fantasy world or playing in a world like Golarion where wizards live next door to gunslingers and even the most magical of realms might have technological clockwork soldiers and other scientific discoveries that simulate, enhance, or even replace magic—it can become hard to picture how all these disparate elements coexist alongside each other. Why don't firearms get adopted by other nearby nations? Why would someone spend vast troves of gold to build a clockwork dragon when they could teleport an egg away from a nest and get the real thing much more cheaply?
+When constructing a fantasy world or playing in a world like Golarion where wizards live next door to gunslingers and even the most magical of realms might have technological clockwork soldiers and other scientific discoveries that simulate, enhance, or even replace magic—it can become hard to picture how all these disparate elements coexist alongside each other. Why don't firearms get adopted by other nearby nations? Why would someone spend vast troves of gold to build a [clockwork dragon](https://2e.aonprd.com/Monsters.aspx?ID=1098) when they could teleport an egg away from a nest and get the real thing much more cheaply?
 
 There are quite a few possible answers to these questions, and figuring out those answers can help make your campaign setting more vibrant and relatable. To start, we'll talk about some of the ways in which Golarion answers these questions before diving into ways to integrate these kinds of themes deeper into your own original setting.
 

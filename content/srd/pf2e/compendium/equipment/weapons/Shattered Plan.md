@@ -18,9 +18,9 @@ socialImage: og-image.png
 - **Price**: 1, 400 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/club/boomerang|Boomerang]]
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/club/Boomerang|Boomerang]]
 
-Though the body of this _+2 striking impactful [[srd/pf2e/compendium/equipment/weapons/club/boomerang|boomerang]]_ is riddled with glowing hairline cracks, the weapon feels reassuringly solid in the hand. If you damage a target that has been struck by a _[[srd/pf2e/compendium/equipment/weapons/rime-foil|rime foil]]_ within the last round, you bruise its chilled body, and the target takes a –5-foot penalty to all its Speeds, or a –10-foot penalty on a critical hit.
+Though the body of this _+2 striking impactful [[srd/pf2e/compendium/equipment/weapons/club/Boomerang|boomerang]]_ is riddled with glowing hairline cracks, the weapon feels reassuringly solid in the hand. If you damage a target that has been struck by a _[[srd/pf2e/compendium/equipment/weapons/Rime Foil|rime foil]]_ within the last round, you bruise its chilled body, and the target takes a –5-foot penalty to all its Speeds, or a –10-foot penalty on a critical hit.
 
  **Special** The _shattered plan_ pairs with the _rime foil_.
 

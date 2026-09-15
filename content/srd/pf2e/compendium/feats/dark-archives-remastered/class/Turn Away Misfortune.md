@@ -18,8 +18,8 @@ socialImage: og-image.png
 
 `Esoterica`  `Fortune`  `Manipulate`  `Occult`  `Thaumaturge`
 
-- **Trigger**: You would attempt a roll affected by a [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] effect.
+- **Trigger**: You would attempt a roll affected by a [[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|misfortune]] effect.
 
-You perform a superstition, such as casting salt over your shoulder to ward off bad luck. Turn Away Misfortune's fortune trait cancels out the misfortune effect, causing you to roll normally. As normal, you can apply only one fortune ability to a roll, so if you Turned Away Misfortune on an attack roll, you couldn't also use an ability like [[srd/pf2e/compendium/feats/player-core/ancestry/halfling-luck|Halfling Luck]] to alter the roll further.
+You perform a superstition, such as casting salt over your shoulder to ward off bad luck. Turn Away Misfortune's fortune trait cancels out the misfortune effect, causing you to roll normally. As normal, you can apply only one fortune ability to a roll, so if you Turned Away Misfortune on an attack roll, you couldn't also use an ability like [[srd/pf2e/compendium/feats/player-core/ancestry/Halfling Luck|Halfling Luck]] to alter the roll further.
 
 *Source: Dark Archives (Remastered) p. 43*

@@ -20,7 +20,7 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Illusion`  `Manipulate`  `Uncommon`  `Visual`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

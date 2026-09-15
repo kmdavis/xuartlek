@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ranger|Ranger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/ranger-dedication|Ranger Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ranger|Ranger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Ranger Dedication|Ranger Dedication]]
 
-You gain a 1st- or 2nd-level ranger feat.
+You gain a 1st- or 2nd-level [ranger feat](https://2e.aonprd.com/Feats.aspx?Traits=136).
 
 ### Basic Hunter's Trick leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/advanced-hunters-trick|Advanced Hunter's Trick]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Advanced Hunter's Trick|Advanced Hunter's Trick]]
 
 *Source: Player Core p. 220*

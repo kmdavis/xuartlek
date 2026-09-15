@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/cavalier|Cavalier]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/incredible-mount|Incredible Mount]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Cavalier|Cavalier]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Incredible Mount|Incredible Mount]]
 
 You’ve trained your mount to perform in unusual or even extreme circumstances, granting it abilities far beyond others of its kind. Your mount gains one specialization of your choice.
 

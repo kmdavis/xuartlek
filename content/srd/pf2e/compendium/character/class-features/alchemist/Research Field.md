@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 Your inquiries into the alchemical nature of the universe have led you to focus on a particular field of research. At 1st level, you choose your research field. This choice gives you more formulas, a special benefit, other abilities for your versatile vials, and other benefits as you level up.
 
-Research fields can be found [[srd/pf2e/compendium/character/research-fields|here]].
+Research fields can be found [[srd/pf2e/compendium/character/Research Fields|here]].
 
 *Source: Player Core 2 p. 56*

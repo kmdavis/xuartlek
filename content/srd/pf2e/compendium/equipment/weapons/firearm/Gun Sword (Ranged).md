@@ -24,13 +24,13 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Category**: Martial
 
-This weapon consists of a large sword with a powerful gun based on a [[srd/pf2e/compendium/equipment/weapons/firearm/harmona-gun|harmona gun]] down the center. Vanguards and other characters who rely on Strength and Dexterity enjoy the power and flexibility of a gun sword.
+This weapon consists of a large sword with a powerful gun based on a [[srd/pf2e/compendium/equipment/weapons/firearm/Harmona Gun|harmona gun]] down the center. Vanguards and other characters who rely on Strength and Dexterity enjoy the power and flexibility of a gun sword.
 
 ### Melee
 
 **Damage** 1d8 S
 
-**Group** Sword
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 ### Ranged
 
@@ -40,9 +40,9 @@ This weapon consists of a large sword with a powerful gun based on a [[srd/pf2e/
 
 **Reload** 1
 
-**Group** Firearm
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
 
-**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
 ### Critical Specialization Effects
 
@@ -50,6 +50,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Blade of Fallen Stars, [[srd/pf2e/compendium/equipment/weapons/fulmination-fang|Fulmination Fang]], [[srd/pf2e/compendium/equipment/weapons/obsidian-edge|Obsidian Edge]]
+Blade of Fallen Stars, [[srd/pf2e/compendium/equipment/weapons/Fulmination Fang|Fulmination Fang]], [[srd/pf2e/compendium/equipment/weapons/Obsidian Edge|Obsidian Edge]]
 
 *Source: Guns & Gears (Remastered) p. 159*

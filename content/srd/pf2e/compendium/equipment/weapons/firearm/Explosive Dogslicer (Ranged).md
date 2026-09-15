@@ -32,7 +32,7 @@ An explosive dogslicer is a sneaky, explosive weapon that often brings perverse 
 
 **Damage** 1d6 S
 
-**Group** Sword
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 ### Ranged
 
@@ -42,9 +42,9 @@ An explosive dogslicer is a sneaky, explosive weapon that often brings perverse 
 
 **Reload** 1
 
-**Group** Firearm
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
 
-**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-5-rounds|Firearm Ammunition (5 rounds)]]
+**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (5 rounds)|Firearm Ammunition (5 rounds)]]
 
 ### Critical Specialization Effects
 

@@ -17,6 +17,6 @@ socialImage: og-image.png
 - **Prerequisites**: champion's aura
 - **Requirements**: champion’s aura
 
-Your aura protects against powers that would twist the mind and body. You and all allies in your champion's aura gain a +1 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/morph|morph]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] effects.
+Your aura protects against powers that would twist the mind and body. You and all allies in your champion's aura gain a +1 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Morph|morph]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]] effects.
 
 *Source: Player Core 2 p. 98*

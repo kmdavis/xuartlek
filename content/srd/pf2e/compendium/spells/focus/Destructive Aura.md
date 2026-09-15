@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Aura`  `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Destruction|Destruction]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]]
 - **Area**: 15-foot emanation
 - **Duration**: 1 minute
 

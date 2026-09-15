@@ -15,13 +15,13 @@ socialImage: og-image.png
 
 `Finisher`  `Swashbuckler`
 
-You attempt a dizzying blow. Make a melee Strike. If you hit, your foe must attempt a Fortitude save against your class DC with the following results; the save has the [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]] trait.
+You attempt a dizzying blow. Make a melee Strike. If you hit, your foe must attempt a Fortitude save against your class DC with the following results; the save has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|incapacitation]] trait.
 
 **Critical Success** The target is unaffected.
 
 **Success** The target can't use reactions until its next turn.
 
-**Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]].
+**Failure** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned 1]].
 
 **Critical Failure** The target is stunned 3.
 

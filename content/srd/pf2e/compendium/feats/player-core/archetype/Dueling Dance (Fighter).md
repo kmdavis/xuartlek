@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Fighter`  `Stance`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]] (Level 14)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/dueling-parry-fighter|Dueling Parry (Fighter)]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Duelist|Duelist]] (Level 14)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Dueling Parry (Fighter)|Dueling Parry (Fighter)]]
 - **Requirements**: You are wielding a single one-handed melee weapon and hold nothing else in your hands
 
 Using a free hand as pivot and balance, you both attack and defend with your weapon. While you are in this stance, you constantly have the benefits of Dueling Parry

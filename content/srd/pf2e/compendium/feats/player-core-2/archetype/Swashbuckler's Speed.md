@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/swashbuckler|Swashbuckler]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/swashbuckler-dedication|Swashbuckler Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Swashbuckler|Swashbuckler]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Swashbuckler Dedication|Swashbuckler Dedication]]
 
 You move with a swashbuckler’s speed and grace. You gain a +5-foot status bonus to your Speeds; this increases to a +10-foot status bonus while you have panache.
 

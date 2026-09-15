@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
-Rather than hide an object somewhere the inspectors won't search, you're skilled at keeping the object on the move so it's never where they look. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Conceal an Object|Conceal an Object]] of light Bulk or less, you can use Thievery instead of [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] for your checks and for the DC of an active searcher's Perception check. You roll the check only once, but you must continue to use actions to Conceal an Object throughout the process.
+Rather than hide an object somewhere the inspectors won't search, you're skilled at keeping the object on the move so it's never where they look. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Conceal an Object|Conceal an Object]] of light Bulk or less, you can use Thievery instead of [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] for your checks and for the DC of an active searcher's Perception check. You roll the check only once, but you must continue to use actions to Conceal an Object throughout the process.
 
 *Source: Player Core 2 p. 228*

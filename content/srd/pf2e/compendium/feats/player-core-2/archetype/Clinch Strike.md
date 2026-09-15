@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wrestler|Wrestler]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/wrestler-dedication|Wrestler Dedication]]
-- **Trigger**: A creature you had [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]].
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wrestler|Wrestler]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Wrestler Dedication|Wrestler Dedication]]
+- **Trigger**: A creature you had [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]].
 
 Your opponents can’t slip your grasp without punishment. Make an unarmed melee Strike against the triggering creature.
 

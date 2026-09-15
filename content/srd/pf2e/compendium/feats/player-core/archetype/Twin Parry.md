@@ -15,13 +15,13 @@ socialImage: og-image.png
 
 `Fighter`  `Ranger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/dual-weapon-warrior|Dual-Weapon Warrior]] (Level 6), [[srd/pf2e/compendium/character/archetypes/avenger|Avenger]] (Level 6)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Dual-Weapon Warrior|Dual-Weapon Warrior]] (Level 6), [[srd/pf2e/compendium/character/archetypes/Avenger|Avenger]] (Level 6)
 - **Requirements**: You are wielding two melee weapons, one in each hand
 
 You use your two weapons to parry attacks. You gain a +1 circumstance bonus to AC until the start of your next turn, or a +2 circumstance bonus if either weapon has the parry trait. You lose this circumstance bonus if you no longer meet this feat’s requirement.
 
 ### Twin Parry leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/twinned-defense-fighter|Twinned Defense (Fighter)]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Twinned Defense (Fighter)|Twinned Defense (Fighter)]]
 
 *Source: Player Core p. 144*

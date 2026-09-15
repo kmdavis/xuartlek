@@ -13,6 +13,8 @@ socialImage: og-image.png
 
 ### Impulse Feats
 
+aonprd.com/Feats.aspx?Traits=504&include-traits=air%3Bimpulse&sort=level-asc%2Cname-asc&display=full) for a pre-filtered list of all Air impulse feats.
+
 ### Elemental Blast
 
 1d6 electricity or slashing, 60 feet
@@ -30,7 +32,7 @@ Before or after the other effects of the impulse, you can either Stride up to ha
 **Aura Junction** You and any ally that starts its turn in the aura gets a +10-foot status bonus to land Speed until the end of that turn, and to fly Speed if applicable.
 
 **Skill Junction**
-[[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]],
+[[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]],
 Experienced Smuggler
 
 *Source: Rage of Elements p. 14*
@@ -38,6 +40,8 @@ Experienced Smuggler
 ## Earth
 
 ### Impulse Feats
+
+aonprd.com/Feats.aspx?Traits=504&include-traits=earth%3Bimpulse&sort=level-asc%2Cname-asc&display=full) for a pre-filtered list of all Earth impulse feats.
 
 ### Elemental Blast
 
@@ -49,14 +53,14 @@ Fragments of stone float around you, granting you a +1 circumstance bonus to AC 
 
 ### Gate Junction
 
-**Critical Blast** If the target is on the ground, it's knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]; if it isn't on the ground, it descends up to 20 feet (you choose the distance).
+**Critical Blast** If the target is on the ground, it's knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]; if it isn't on the ground, it descends up to 20 feet (you choose the distance).
 
 **Elemental Resistance** earth, poison
 
 **Aura Junction** Squares in the aura are difficult terrain for your enemies, but only if moving into the square would make the enemy farther away from you.
 
 **Skill Junction**
-[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]],
+[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]],
 Hefty Hauler
 
 *Source: Rage of Elements p. 14*
@@ -64,6 +68,8 @@ Hefty Hauler
 ## Fire
 
 ### Impulse Feats
+
+aonprd.com/Feats.aspx?Traits=504&include-traits=fire%3Bimpulse&sort=level-asc%2Cname-asc&display=full) for a pre-filtered list of all Fire impulse feats.
 
 ### Elemental Blast
 
@@ -82,7 +88,7 @@ Increase the damage die size of fire damage dealt by the impulse by one step.
 **Aura Junction** Enemies in your kinetic aura gain weakness to fire from your fire impulses. The weakness is equal to half your level (minimum weakness 1).
 
 **Skill Junction**
-[[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]],
+[[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]],
 Intimidating Glare
 
 *Source: Rage of Elements p. 14*
@@ -90,6 +96,8 @@ Intimidating Glare
 ## Metal
 
 ### Impulse Feats
+
+aonprd.com/Feats.aspx?Traits=504&include-traits=metal%3Bimpulse&sort=level-asc%2Cname-asc&display=full) for a pre-filtered list of all Metal impulse feats.
 
 ### Elemental Blast
 
@@ -101,14 +109,14 @@ Choose acid, electricity, or piercing. Until the start of your next turn, each t
 
 ### Gate Junction
 
-**Critical Blast** The target takes 1d6 persistent bleed damage; if the creature has the [[srd/pf2e/compendium/rules-elements/traits/player-core/metal|metal]] trait or is made of metal, it instead takes 1d6 persistent damage with no type from rust. You gain an item bonus to this persistent damage equal to your item bonus to impulse attack rolls, such as from a _gate attenuator_.
+**Critical Blast** The target takes 1d6 persistent bleed damage; if the creature has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Metal|metal]] trait or is made of metal, it instead takes 1d6 persistent damage with no type from rust. You gain an item bonus to this persistent damage equal to your item bonus to impulse attack rolls, such as from a _gate attenuator_.
 
 **Elemental Resistance** electricity, metal
 
-**Aura Junction** Your enemies in the aura take a –1 status penalty to attacks with metal objects, and they take a –1 status penalty to AC if they're wearing metal armor, have the [[srd/pf2e/compendium/rules-elements/traits/player-core/metal|metal]] trait, or are made of metal.
+**Aura Junction** Your enemies in the aura take a –1 status penalty to attacks with metal objects, and they take a –1 status penalty to AC if they're wearing metal armor, have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Metal|metal]] trait, or are made of metal.
 
 **Skill Junction**
-[[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]],
+[[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]],
 Quick Repair
 
 *Source: Rage of Elements p. 14*
@@ -116,6 +124,8 @@ Quick Repair
 ## Water
 
 ### Impulse Feats
+
+aonprd.com/Feats.aspx?Traits=504&include-traits=water%3Bimpulse&sort=level-asc%2Cname-asc&display=full) for a pre-filtered list of all Water impulse feats.
 
 ### Elemental Blast
 
@@ -127,14 +137,14 @@ After the impulse's other effects, you can move one creature targeted by the imp
 
 ### Gate Junction
 
-**Critical Blast** The blast deals 2 [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage per damage die of the blast, with the same damage type.
+**Critical Blast** The blast deals 2 [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage per damage die of the blast, with the same damage type.
 
 **Elemental Resistance** fire, water
 
 **Aura Junction** The aura becomes saturated with humidity, and water moves as you please. Non-magical fires in the aura are extinguished, and creatures in the aura gain fire resistance equal to half your level.
 
 **Skill Junction**
-[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]],
+[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]],
 Underwater Marauder
 
 *Source: Rage of Elements p. 14*
@@ -142,6 +152,8 @@ Underwater Marauder
 ## Wood
 
 ### Impulse Feats
+
+aonprd.com/Feats.aspx?Traits=504&include-traits=wood%3Bimpulse&sort=level-asc%2Cname-asc&display=full) for a pre-filtered list of all Wood impulse feats.
 
 ### Elemental Blast
 
@@ -153,14 +165,14 @@ You gain temporary Hit Points equal to your level that last until the start of y
 
 ### Gate Junction
 
-**Critical Blast** If the target of the critical hit is adjacent to a surface, roots entangle it. The target is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] and must spend an Interact action to attempt a DC 10 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to pull itself free. The target doesn't become stuck if it is incorporeal, is liquid, or could otherwise escape without effort.
+**Critical Blast** If the target of the critical hit is adjacent to a surface, roots entangle it. The target is [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] and must spend an Interact action to attempt a DC 10 [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to pull itself free. The target doesn't become stuck if it is incorporeal, is liquid, or could otherwise escape without effort.
 
 **Elemental Resistance** poison, wood
 
 **Aura Junction** Life-giving blossoms spring up around you. Any ally that begins its turn in the aura gains 1 temporary Hit Point that lasts until the start of its next turn. This increases to 2 temporary Hit Points if you're 10th level or higher and to 3 temporary Hit Points if you're 15th level or higher.
 
 **Skill Junction**
-[[srd/pf2e/compendium/rules-elements/skills/survival|Survival]],
+[[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]],
 Terrain Expertise (forest)
 
 *Source: Rage of Elements p. 14*

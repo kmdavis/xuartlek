@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Auditory`  `Commander`  `Mental`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/class/deceptive-tactics|Deceptive Tactics]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/class/Deceptive Tactics|Deceptive Tactics]]
 
-You shout out bewildering but authoritative commands while imitating the voices, linguistic quirks, and speech patterns of your opponents. Each enemy within the aura of your commander's banner must succeed at a Will save against your class DC or become [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 round (2 rounds on a critical failure). 
+You shout out bewildering but authoritative commands while imitating the voices, linguistic quirks, and speech patterns of your opponents. Each enemy within the aura of your commander's banner must succeed at a Will save against your class DC or become [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]] for 1 round (2 rounds on a critical failure). 
 Targets who succeed at their saving throw are temporarily immune to Confusing Commands for 1 day.
 
 *Source: Battlecry! p. 34*

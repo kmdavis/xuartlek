@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Magus`
 
-You’ve honed one spell as your favored combat technique, and you’ve practiced it enough that you no longer need to prepare it to cast it. Choose a spell in your spellbook that you could use with Spellstrike and that has a rank no higher than the highest-rank magus spell slot you have. You can cast this spell without having it prepared ahead of time by expending a spell slot of a sufficient rank to cast your chosen spell. You can change this spell whenever you add new spells to your [[srd/pf2e/compendium/equipment/adventuring-gear/spellbook-blank|spellbook]], or by studying your spellbook for 1 hour.
+You’ve honed one spell as your favored combat technique, and you’ve practiced it enough that you no longer need to prepare it to cast it. Choose a spell in your spellbook that you could use with Spellstrike and that has a rank no higher than the highest-rank magus spell slot you have. You can cast this spell without having it prepared ahead of time by expending a spell slot of a sufficient rank to cast your chosen spell. You can change this spell whenever you add new spells to your [[srd/pf2e/compendium/equipment/adventuring-gear/Spellbook (Blank)|spellbook]], or by studying your spellbook for 1 hour.
 
 *Source: Impossible Magic p. 22*

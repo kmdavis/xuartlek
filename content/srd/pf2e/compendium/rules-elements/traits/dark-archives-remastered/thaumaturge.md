@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Thaumaturge`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/thaumaturge|thaumaturge]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Thaumaturge|thaumaturge]] class.
 
 *Source: Dark Archives (Remastered) p. 221*

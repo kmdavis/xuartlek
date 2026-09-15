@@ -28,14 +28,14 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]], [[srd/pf2e/compendium/rules-elements/languages#Ysoki|Ysoki]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]], [[srd/pf2e/compendium/rules-elements/Languages#Ysoki|Ysoki]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +5, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +5, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +5, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] +6"
 abilityMods: [3, 3, 0, 1, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/crossbow/arbalest|Arbalest]] (20 bolts), Caltrops (3), Ranseur, Scale Mail"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/crossbow/Arbalest|Arbalest]] (20 bolts), Caltrops (3), Ranseur, Scale Mail"
 ac: 16
 armorclass:
   - name: "AC"
@@ -47,11 +47,11 @@ health:
 speed: "25 feet; swarming, tunnel travel"
 attacks:
   - name: "Melee"
-    desc: "⬻ ranseur +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d10+3 piercing"
+    desc: "⬻ ranseur +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 1d10+3 piercing"
   - name: "Melee"
-    desc: "⬻ jaws +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d4+3 piercing"
+    desc: "⬻ jaws +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d4+3 piercing"
   - name: "Ranged"
-    desc: "⬻ arbalest +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/backstabber|Backstabber]], range increment 110 feet, reload 1) __Damage__ 1d10 piercing"
+    desc: "⬻ arbalest +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Backstabber|Backstabber]], range increment 110 feet, reload 1) __Damage__ 1d10 piercing"
 abilities_bot:
   - name: "Running Reload"
     desc: "⬻ The tunnel viper Strides, Steps, or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneaks]], then Interacts to reload."

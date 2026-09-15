@@ -62,18 +62,18 @@ Every ysoki family has perhaps two dozen names that have been passed down from g
 
 #### Languages
 
-[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
-[[srd/pf2e/compendium/rules-elements/languages#Ysoki|Ysoki]]
+[[srd/pf2e/compendium/rules-elements/Languages#Ysoki|Ysoki]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]], [[srd/pf2e/compendium/rules-elements/languages#Kholo|Kholo]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]], or any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/Languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/Languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/Languages#Halfling|Halfling]], [[srd/pf2e/compendium/rules-elements/Languages#Kholo|Kholo]], [[srd/pf2e/compendium/rules-elements/Languages#Orcish|Orcish]], [[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]], or any other languages to which you have access (such as the languages prevalent in your region).
 
 #### Low-Light Vision
 
-You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition due to dim light.
 
 #### Sharp Teeth
 
-Your prominent incisors offer an alternative to the fists other humanoids bring to a fight. You have a jaws [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack that deals 1d4 piercing damage, is in the brawling group, and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]] traits.
+Your prominent incisors offer an alternative to the fists other humanoids bring to a fight. You have a jaws [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack that deals 1d4 piercing damage, is in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group, and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]] traits.
 
 *Source: Player Core 2 p. 28*

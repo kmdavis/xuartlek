@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Cold`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: Kostchtchie, [[srd/pf2e/compendium/deities/demon-lords/sithhud|Sithhud]]
-- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Baba Yaga|Baba Yaga]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Kostchtchie, [[srd/pf2e/compendium/deities/demon-lords/Sithhud|Sithhud]]
+- **Patron Theme**: [[srd/pf2e/compendium/character/Patrons#Baba Yaga|Baba Yaga]]
 - **Area**: 15-foot cone
 - **Defense**: Reflex
 

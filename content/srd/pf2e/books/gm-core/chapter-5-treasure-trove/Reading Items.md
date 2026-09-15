@@ -1,6 +1,7 @@
 ---
 title: "Reading Items"
 aliases: ["Reading Items"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3147"
 citation: "GM Core pg. 221"
-socialImage: og-image.png
 ---
 
 # Reading Items
@@ -23,8 +23,8 @@ Hundreds of items lie ahead. Each item is presented in a stat block, much like s
 Traits
 **Price** This entry lists the item's Price. An item that has multiple types includes Price for each type in its entry.
 **Ammunition** Magic ammunition lists the types of ammunition available for that kind of item.
-**Usage** This entry describes whether the item is held, worn, or etched or affixed onto another item; **Bulk** The item's Bulk is listed here (the rules for Bulk appear on [[srd/pf2e/books/player-core/chapter-6-equipment/bulk|here]]). Runes don't have a Bulk entry.
-**Activate** The number of actions needed to Activate the Item appear here, followed by any traits of the activation and effect in parentheses. You can find activation rules [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/activating-items|here]]. This entry appears here for consumables and lower in the stat block for permanent items that can be activated. This section might also have Frequency, Trigger, or Requirements entries as necessary.
+**Usage** This entry describes whether the item is held, worn, or etched or affixed onto another item; **Bulk** The item's Bulk is listed here (the rules for Bulk appear on [[srd/pf2e/books/player-core/chapter-6-equipment/Bulk|here]]). Runes don't have a Bulk entry.
+**Activate** The number of actions needed to Activate the Item appear here, followed by any traits of the activation and effect in parentheses. You can find activation rules [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/Activating Items|here]]. This entry appears here for consumables and lower in the stat block for permanent items that can be activated. This section might also have Frequency, Trigger, or Requirements entries as necessary.
 **Onset** This entry appears if the item's effect is delayed, which most often occurs with alchemical poisons. The onset is the amount of time that elapses between when a character Activates an Item and any effect occurs.
 The section after the line describes the item and its constant abilities. If the item can be activated and doesn't have an Activate entry above, that entry appears here in a paragraph beginning with “Activate.”
 **Type** If multiple types of the item exist, entries here indicate the name of each type, its level, its Price, and any other relevant details or alterations from the above description.
@@ -32,19 +32,19 @@ The section after the line describes the item and its constant abilities. If the
 
 > [!pf2-sidebar] NOTABLE ITEM TRAITS
 >
-> The following traits apply to items. Some specific categories of item have special traits-such as [[srd/pf2e/compendium/rules-elements/traits/player-core/elixir|elixir]] or [[srd/pf2e/compendium/rules-elements/traits/gm-core/scroll|scroll]]-described in their sections.
+> The following traits apply to items. Some specific categories of item have special traits-such as [[srd/pf2e/compendium/rules-elements/traits/player-core/Elixir|elixir]] or [[srd/pf2e/compendium/rules-elements/traits/gm-core/Scroll|scroll]]-described in their sections.
 >
-> **[[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|Alchemical]]:** Alchemical items are powered by the reactions of alchemical reagents. Unless otherwise noted, alchemical items aren't magical and don't radiate a magical aura. Characters can [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] these items only if they have the [[srd/pf2e/compendium/feats/player-core/skill/alchemical-crafting|Alchemical Crafting]] feat.
+> **[[srd/pf2e/compendium/rules-elements/traits/player-core/Alchemical|Alchemical]]:** Alchemical items are powered by the reactions of alchemical reagents. Unless otherwise noted, alchemical items aren't magical and don't radiate a magical aura. Characters can [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] these items only if they have the [[srd/pf2e/compendium/feats/player-core/skill/Alchemical Crafting|Alchemical Crafting]] feat.
 >
-> **[[srd/pf2e/compendium/rules-elements/traits/player-core/consumable|Consumable]]:** An item with this trait can be used only once. Unless stated otherwise, it's destroyed after activation, though part of it might be recoverable for other purposes. For instance, while a potion is consumable, the vial it comes in is not destroyed when you drink it. Consumable items include most alchemical items as well as ammunition, oils, potions, scrolls, talismans, and other magical consumables.
+> **[[srd/pf2e/compendium/rules-elements/traits/player-core/Consumable|Consumable]]:** An item with this trait can be used only once. Unless stated otherwise, it's destroyed after activation, though part of it might be recoverable for other purposes. For instance, while a potion is consumable, the vial it comes in is not destroyed when you drink it. Consumable items include most alchemical items as well as ammunition, oils, potions, scrolls, talismans, and other magical consumables.
 >
 > When a character creates consumable items, they can make them in batches of four, as described in the [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] activity.
 >
-> **[[srd/pf2e/compendium/rules-elements/traits/gm-core/focused|Focused]]:** An item with this trait can give you an additional [[srd/pf2e/books/player-core/chapter-7-spells/focus-spells|Focus Point]]. This focus point is separate from your focus pool and doesn't count toward the cap on your focus pool. You can gain this benefit only if you have a focus pool, and there might be restrictions on how the point can be used. You can't gain more than 1 Focus Point per day from focused items, no matter how many focused items you have.
+> **[[srd/pf2e/compendium/rules-elements/traits/gm-core/Focused|Focused]]:** An item with this trait can give you an additional [[srd/pf2e/books/player-core/chapter-7-spells/Focus Spells|Focus Point]]. This focus point is separate from your focus pool and doesn't count toward the cap on your focus pool. You can gain this benefit only if you have a focus pool, and there might be restrictions on how the point can be used. You can't gain more than 1 Focus Point per day from focused items, no matter how many focused items you have.
 >
-> **[[srd/pf2e/compendium/rules-elements/traits/gm-core/invested|Invested]]:** A character can invest only 10 magical items that have the invested trait. None of the magical effects of the item apply if the character hasn't invested it, though the character still gains any normal benefits from wearing the physical item (like a hat keeping rain off a character's head).
+> **[[srd/pf2e/compendium/rules-elements/traits/gm-core/Invested|Invested]]:** A character can invest only 10 magical items that have the invested trait. None of the magical effects of the item apply if the character hasn't invested it, though the character still gains any normal benefits from wearing the physical item (like a hat keeping rain off a character's head).
 >
-> **[[srd/pf2e/books/gm-core/chapter-4-subsystems/vehicles#Magical|Magical]]:** Items with this trait are imbued with magical energies. A character can craft these items only if they have the [[srd/pf2e/compendium/feats/player-core/skill/magical-crafting|Magical Crafting]] feat. Some items are closely tied to a particular tradition of magic. In these cases, the item has the [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]] trait instead of the magical trait. Any of these traits indicates that the item is magical.
+> **[[srd/pf2e/books/gm-core/chapter-4-subsystems/Vehicles#Magical|Magical]]:** Items with this trait are imbued with magical energies. A character can craft these items only if they have the [[srd/pf2e/compendium/feats/player-core/skill/Magical Crafting|Magical Crafting]] feat. Some items are closely tied to a particular tradition of magic. In these cases, the item has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]] trait instead of the magical trait. Any of these traits indicates that the item is magical.
 
 ## Level
 
@@ -52,7 +52,7 @@ An item’s level indicates what level of adventurer the item is best suited for
 
 ### Multiple Types
 
-If multiple types of an item exist, the title line gives the minimum level followed by a plus symbol (“+”). The description includes information on the base version of the item, and the Type entries at the bottom of the stat block lists the specifics for each version, including the level, Price, and any modified or added abilities of the different types. For some items, the types listed are upgrades to the base item. For other items, such as [[srd/pf2e/compendium/equipment/worn-items/aeon-stone|aeon stones]], each type is distinct from the others.
+If multiple types of an item exist, the title line gives the minimum level followed by a plus symbol (“+”). The description includes information on the base version of the item, and the Type entries at the bottom of the stat block lists the specifics for each version, including the level, Price, and any modified or added abilities of the different types. For some items, the types listed are upgrades to the base item. For other items, such as [[srd/pf2e/compendium/equipment/worn-items/Aeon Stone|aeon stones]], each type is distinct from the others.
 
 ## Price
 
@@ -64,19 +64,19 @@ An item’s stat block includes a Usage entry that indicates whether a character
 
 ### Affixed
 
-Talismans function only if affixed to other items. They have a Usage entry indicating the type or types of items to which a character can attach them, such as “affixed to armor.” Rules for affixing a talisman are [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/talismans#Affixing a Talisman|here]].
+Talismans function only if affixed to other items. They have a Usage entry indicating the type or types of items to which a character can attach them, such as “affixed to armor.” Rules for affixing a talisman are [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/Talismans#Affixing a Talisman|here]].
 
 ### Etched
 
-Runes must be etched onto permanent items, such as armor, shields, weapons, or [[srd/pf2e/compendium/equipment/consumables/runestone|runestones]] to grant their benefit. Adding or transferring a rune takes downtime to accomplish. The Usage entry indicates the type or types of items a rune can be etched into, such as “etched onto a weapon.” More information about etching runes is found [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#The Etching Process|here]].
+Runes must be etched onto permanent items, such as armor, shields, weapons, or [[srd/pf2e/compendium/equipment/consumables/Runestone|runestones]] to grant their benefit. Adding or transferring a rune takes downtime to accomplish. The Usage entry indicates the type or types of items a rune can be etched into, such as “etched onto a weapon.” More information about etching runes is found [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/Armor & Armaments#The Etching Process|here]].
 
 ### Held
 
-If a character must wield the item to use it, this entry in the item’s stat block lists the word “held” along with the number of hands the character must use when wielding the item, such as “held in 1 hand.” The rules for carrying and using items are provided [[srd/pf2e/books/player-core/chapter-6-equipment/carrying-items|here]].
+If a character must wield the item to use it, this entry in the item’s stat block lists the word “held” along with the number of hands the character must use when wielding the item, such as “held in 1 hand.” The rules for carrying and using items are provided [[srd/pf2e/books/player-core/chapter-6-equipment/Carrying Items|here]].
 
 ### Worn
 
-An item that needs to be worn to function lists “worn” as its usage. This is followed by another word if the character is limited to only one of that type of item. For instance, a character can wear any number of rings, so the entry for a ring would list only “worn.” However, if the Usage entry were “worn cloak,” then a character couldn’t wear another cloak on top of that one. It’s assumed that items are meant to be worn by humanoids; any item that can or must be worn by a different type of creature either states this in its description or has the [[srd/pf2e/compendium/rules-elements/traits/gm-core/companion|companion]] trait. Most magic items a character must wear have the [[srd/pf2e/compendium/rules-elements/traits/gm-core/invested|invested]] trait.
+An item that needs to be worn to function lists “worn” as its usage. This is followed by another word if the character is limited to only one of that type of item. For instance, a character can wear any number of rings, so the entry for a ring would list only “worn.” However, if the Usage entry were “worn cloak,” then a character couldn’t wear another cloak on top of that one. It’s assumed that items are meant to be worn by humanoids; any item that can or must be worn by a different type of creature either states this in its description or has the [[srd/pf2e/compendium/rules-elements/traits/gm-core/Companion|companion]] trait. Most magic items a character must wear have the [[srd/pf2e/compendium/rules-elements/traits/gm-core/Invested|invested]] trait.
 
 ## Craft Requirements
 

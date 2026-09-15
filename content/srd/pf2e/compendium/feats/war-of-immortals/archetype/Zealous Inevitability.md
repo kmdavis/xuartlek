@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/avenger|Avenger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/avenger-dedication|Avenger Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Avenger|Avenger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Avenger Dedication|Avenger Dedication]]
 - **Requirements**: You are wielding your deity’s favored weapon
 
-You channel your zeal through a sacred weapon, bringing a foe closer to their demise. [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] a target with the required weapon. On a success, the target becomes [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] 1 or increases the value of their doomed condition by 1 (most living creatures die when they’ve reached doomed 4). Creatures doomed in this way take a status penalty to their saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] spells equal to their doomed value. 
+You channel your zeal through a sacred weapon, bringing a foe closer to their demise. [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] a target with the required weapon. On a success, the target becomes [[srd/pf2e/compendium/rules-elements/Conditions#Doomed|doomed]] 1 or increases the value of their doomed condition by 1 (most living creatures die when they’ve reached doomed 4). Creatures doomed in this way take a status penalty to their saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]] spells equal to their doomed value. 
 
-A creature that would become doomed 4 by this Strike can attempt a Will saving throw against your class DC to avoid increasing the value of their doomed condition. When this occurs, this ability gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]] trait.
+A creature that would become doomed 4 by this Strike can attempt a Will saving throw against your class DC to avoid increasing the value of their doomed condition. When this occurs, this ability gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|incapacitation]] trait.
 
 *Source: War of Immortals p. 59*

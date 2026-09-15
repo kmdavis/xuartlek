@@ -28,10 +28,10 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; low-light vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/Languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +14, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +14, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +10"
 abilityMods: [5, 2, 3, -1, 3, 4]
 ac: 21
 armorclass:
@@ -40,24 +40,24 @@ armorclass:
 hp: 60
 health:
   - name: "HP"
-    desc: "60; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 5"
+    desc: "60; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] 5; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/Cold Iron|cold iron]] 5"
 speed: "35 feet, swim 35 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ jaws +13 __Damage__ 2d6+7 bludgeoning plus Grab"
 abilities_bot:
   - name: "Captivating Lure"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) The kelpie instills an overwhelming attraction to itself within the mind of a single creature within 60 feet. The target perceives the kelpie as a desirable person (if the kelpie is in humanoid form) or a magnificent steed (if the kelpie is in equine form) and must attempt a DC 23 Will saving throw."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]]) The kelpie instills an overwhelming attraction to itself within the mind of a single creature within 60 feet. The target perceives the kelpie as a desirable person (if the kelpie is in humanoid form) or a magnificent steed (if the kelpie is in equine form) and must attempt a DC 23 Will saving throw."
   - name: "Critical Success"
     desc: "The creature is unaffected and is temporarily immune to Captivating Lure for 24 hours."
   - name: "Success"
-    desc: "The creature is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 for 1 round and is then temporarily immune to Captivating Lure for 24 hours."
+    desc: "The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] 1 for 1 round and is then temporarily immune to Captivating Lure for 24 hours."
   - name: "Failure"
-    desc: "The creature is [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]], and it must spend each of its actions to move closer to the kelpie as expediently as possible while avoiding obvious dangers. If a captivated creature is adjacent to the kelpie, it either attempts to mount the kelpie (if the kelpie is in equine form) or stays still and doesn't act. If the creature is attacked by the kelpie, or if it can't breathe water and enters an area of water, the creature is freed from captivation at the end of the kelpie's turn."
+    desc: "The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Fascinated|fascinated]], and it must spend each of its actions to move closer to the kelpie as expediently as possible while avoiding obvious dangers. If a captivated creature is adjacent to the kelpie, it either attempts to mount the kelpie (if the kelpie is in equine form) or stays still and doesn't act. If the creature is attacked by the kelpie, or if it can't breathe water and enters an area of water, the creature is freed from captivation at the end of the kelpie's turn."
   - name: "Critical Failure"
-    desc: "As failure, but the target doesn't consider water a danger and will enter an area of water even if it can't swim or breathe water. If it is attacked by the kelpie or starts to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/encounter-mode#Drowning and Suffocating|drown]], it can attempt a new save at the start of its next turn, but it isn't freed automatically."
+    desc: "As failure, but the target doesn't consider water a danger and will enter an area of water even if it can't swim or breathe water. If it is attacked by the kelpie or starts to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Encounter Mode#Drowning and Suffocating|drown]], it can attempt a new save at the start of its next turn, but it isn't freed automatically."
   - name: "Change Shape"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) The kelpie can take on the appearance of any Medium or Large animal of an equine nature (such as a [[srd/pf2e/compendium/gm/creature-families/horse|horse]], [[srd/pf2e/compendium/character/animal-companions#Hippocampus|hippocampus]], or [[srd/pf2e/bestiary/monster-core/animal/war-pony|pony]]), or any Small or Medium humanoid. This doesn't change its Speeds or its attack and damage modifiers with its Strikes. Kelpie Folktales Some fanciful stories about kelpies speak of them appearing in equine form wearing riding tack, complete with silver stirrups and bridle bit. These folktales claim that cutting the harness from a kelpie's body grants the bearer power over it or causes a kelpie to sicken and die. In truth, doing so has no ill effect on a kelpie, suggesting these stories are spread by kelpies themselves to further trick prey into making foolish mistakes."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]]) The kelpie can take on the appearance of any Medium or Large animal of an equine nature (such as a [[srd/pf2e/compendium/gm/creature-families/Horse|horse]], [[srd/pf2e/compendium/character/Animal Companions#Hippocampus|hippocampus]], or [[srd/pf2e/bestiary/monster-core/animal/War Pony|pony]]), or any Small or Medium humanoid. This doesn't change its Speeds or its attack and damage modifiers with its Strikes. Kelpie Folktales Some fanciful stories about kelpies speak of them appearing in equine form wearing riding tack, complete with silver stirrups and bridle bit. These folktales claim that cutting the harness from a kelpie's body grants the bearer power over it or causes a kelpie to sicken and die. In truth, doing so has no ill effect on a kelpie, suggesting these stories are spread by kelpies themselves to further trick prey into making foolish mistakes."
 sourcebook: "_Monster Core 2_, page 209."
 ```
 

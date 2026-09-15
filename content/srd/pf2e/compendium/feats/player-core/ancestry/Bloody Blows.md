@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Orc`
 
-Your lethal unarmed attacks leave bloody gouges or cause severe internal bleeding. When you critically hit with a Strike using an unarmed attack that isn’t [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]], the target takes 1d4 persistent bleed damage. This can be because you’re taking the penalty to use a fist for a lethal attack or because you have an unarmed attack without the nonlethal trait due to Tusks or a similar ability.
+Your lethal unarmed attacks leave bloody gouges or cause severe internal bleeding. When you critically hit with a Strike using an unarmed attack that isn’t [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]], the target takes 1d4 persistent bleed damage. This can be because you’re taking the penalty to use a fist for a lethal attack or because you have an unarmed attack without the nonlethal trait due to Tusks or a similar ability.
 
 *Source: Player Core p. 72*

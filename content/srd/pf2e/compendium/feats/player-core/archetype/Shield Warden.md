@@ -16,13 +16,13 @@ socialImage: og-image.png
 
 `Champion`  `Commander`  `Fighter`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bastion|Bastion]] (Level 8), Knight Vigilant (Level 8), Ulfen Guard (Level 8), Golden Legionnaire (Level 8)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Bastion|Bastion]] (Level 8), Knight Vigilant (Level 8), Ulfen Guard (Level 8), Golden Legionnaire (Level 8)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/general/Shield Block|Shield Block]]
 
 When you have a shield raised, you can use your Shield Block reaction when an attack is made against an ally adjacent to you. If you do, the shield prevents that ally from taking damage instead of preventing you from taking damage, following the normal rules for Shield Block.
 
 ### Shield Warden leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/shield-of-grace|Shield of Grace]], [[srd/pf2e/compendium/feats/player-core-2/class/shield-of-reckoning|Shield of Reckoning]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Shield of Grace|Shield of Grace]], [[srd/pf2e/compendium/feats/player-core-2/class/Shield of Reckoning|Shield of Reckoning]]
 
 *Source: Player Core p. 145*

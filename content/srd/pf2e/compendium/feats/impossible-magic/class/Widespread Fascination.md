@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Necromancer`
 
-You are not content to restrict yourself to one field. Instead, you've studied a wider range of necromantic magic to better expand your horizons and explore your unscrupulous fascinations. You learn the grave spell for a grim fascination other than yours. You must have access to that fascination. Access can be gained from independent study or sought-out tutelage.
+You are not content to restrict yourself to one field. Instead, you've studied a wider range of necromantic magic to better expand your horizons and explore your unscrupulous fascinations. You learn the grave spell for a [[srd/pf2e/compendium/character/Grim Fascinations|grim fascination]] other than yours. You must have access to that fascination. Access can be gained from independent study or sought-out tutelage.
 
 **Special** You can select this feat more than once, choosing a different grave spell each time.
 

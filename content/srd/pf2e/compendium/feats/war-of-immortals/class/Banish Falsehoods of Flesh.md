@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 `Animist`  `Concentrate`  `Divine`
 
-Your ability to manipulate supernatural energy allows you to deploy divine magic directly against a disguised enemy to reveal them as they truly are, or to cleanse an ally from an unwilling transformation. Attempt a [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] check to [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] a [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] effect currently affecting a creature within 30 feet of you that you are aware of. The target is then temporarily immune to Banish Falsehoods of Flesh for 1 day.
+Your ability to manipulate supernatural energy allows you to deploy divine magic directly against a disguised enemy to reveal them as they truly are, or to cleanse an ally from an unwilling transformation. Attempt a [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] check to [[srd/pf2e/books/player-core/chapter-7-spells/Counteracting|counteract]] a [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]] effect currently affecting a creature within 30 feet of you that you are aware of. The target is then temporarily immune to Banish Falsehoods of Flesh for 1 day.
 
 *Source: War of Immortals p. 26*

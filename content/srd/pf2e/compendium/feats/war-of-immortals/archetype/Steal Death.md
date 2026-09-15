@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Death`  `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/apocalypse-rider|Apocalypse Rider]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/apocalypse-rider-dedication|Apocalypse Rider Dedication]]
-- **Trigger**: Another creature within 30 feet gains the [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] or [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] condition or their doomed or dying condition increases.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Apocalypse Rider|Apocalypse Rider]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Apocalypse Rider Dedication|Apocalypse Rider Dedication]]
+- **Trigger**: Another creature within 30 feet gains the [[srd/pf2e/compendium/rules-elements/Conditions#Doomed|doomed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Dying|dying]] condition or their doomed or dying condition increases.
 
 As a harbinger of daemonkind, you gain authority to delay the death of others if it serves your purposes, and in doing so, you bolster the well-being of both you and your mount to allow you sow further havoc. The triggering creature reduces their doomed or dying condition by 1. For the next minute, you and your apocalypse mount gain fast healing 5 as long as you are within 10 feet of each other. If you use this reaction again within that minute, you and your mount’s fast healing increases by 1, but the duration isn’t increased.
 

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/thlipit-contestant|Thlipit Contestant]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/thlipit-contestant-dedication|Thlipit Contestant Dedication]]; unarmed attack with your tail
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Thlipit Contestant|Thlipit Contestant]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Thlipit Contestant Dedication|Thlipit Contestant Dedication]]; unarmed attack with your tail
 - **Trigger**: A creature enters a square that would flank you.
 
 Enemies who attempt to stab you in the back will be unhappy to find your lashing tail on guard. Make a melee Strike against the triggering creature. If your attack is a critical hit, the movement is disrupted. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike.

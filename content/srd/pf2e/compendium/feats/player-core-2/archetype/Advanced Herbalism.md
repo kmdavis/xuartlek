@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/herbalist|Herbalist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/herbalist-dedication|Herbalist Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Herbalist|Herbalist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Herbalist Dedication|Herbalist Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
 Your herbalist talents continue to grow with use and you have become potent at making even more remedies from less. You can create up to 6 herbal items per day with advanced alchemy.
 

@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Earth`  `Impulse`  `Kineticist`  `Primal`
 
-The earth parts before you, letting you swim through it. You gain a burrow Speed equal to your land Speed and can immediately Burrow once. You don't gain the ability to breathe while in the earth, so you must hold your breath. The impulse ends at the end of your next turn, but you can Sustain it up to 1 minute. If you're inside the earth when the impulse ends, you immediately return to the surface directly above you, fall [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] when you reach the surface, and are slowed 1 until the end of your next turn.
+The earth parts before you, letting you swim through it. You gain a burrow Speed equal to your land Speed and can immediately Burrow once. You don't gain the ability to breathe while in the earth, so you must hold your breath. The impulse ends at the end of your next turn, but you can Sustain it up to 1 minute. If you're inside the earth when the impulse ends, you immediately return to the surface directly above you, fall [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] when you reach the surface, and are slowed 1 until the end of your next turn.
 
 ---
 **Level (14th)** You can burrow through rock and similar dense earthen matter, leaving no tunnels or signs of your passing.

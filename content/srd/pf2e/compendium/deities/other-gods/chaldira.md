@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: seek out and challenge oppressors and tyrants, defend friends and the innocent, engage in mischief that doesn’t harm others
 - **Anathema**: suffer a bully’s insult to you or another without retort, abandon a friend in need, attribute a lucky turn of events to your own skill
 - **Area of Concern**: battle, fortune, mischief
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/fortunes-fate|Fortune's Fate]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Fortune's Fate|Fortune's Fate]]
 
 ### Devotee Benefits
 
@@ -25,24 +25,24 @@ Dexterity or Charisma
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|Shortsword]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Shortsword|Shortsword]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Luck|Luck]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Luck|Luck]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Freedom|Freedom]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/fleet-step|Fleet Step]]
+[[srd/pf2e/compendium/spells/rank-1/Fleet Step|Fleet Step]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/laughing-fit|Laughing Fit]]
+[[srd/pf2e/compendium/spells/rank-2/Laughing Fit|Laughing Fit]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/cloak-of-colors|Cloak of Colors]]
+[[srd/pf2e/compendium/spells/rank-5/Cloak of Colors|Cloak of Colors]]
 
 ### Divine Intercession
 
@@ -50,13 +50,13 @@ The Calamitous Turn’s pleasure most often manifests as improbably good luck, w
 
 **Minor Boon** Once, you can choose the result of the next ordinary coin you flip or ordinary die you roll. If this ability is used for personal gain at the expense of someone innocent or less fortunate, Chaldira levies her moderate curse on you as punishment.
 
-**Moderate Boon** You gain a lucky impetuousness, allowing you to roll for initiative twice and use the higher result once per day. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] effect.
+**Moderate Boon** You gain a lucky impetuousness, allowing you to roll for initiative twice and use the higher result once per day. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]] effect.
 
 **Major Boon** Chaldira’s major boon grants truly improbable luck in combat. Your movement doesn’t trigger reactions. You always succeed at flat checks you make to hit opponents with attack actions; this is a fortune effect.
 
 **Minor Curse** Any time you refuse a request made in good faith, you vomit up a frog, mouse, or other small animal. This deals no damage and causes no conditions, but is obvious to all bystanders.
 
-**Moderate Curse** You are plagued with ill luck just when fortune is most needed. You must always roll flat checks twice and use the worse result. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] effect.
+**Moderate Curse** You are plagued with ill luck just when fortune is most needed. You must always roll flat checks twice and use the worse result. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|misfortune]] effect.
 
 **Major Curse** Ill luck causes even once-certain aid to fail with frustrating regularity. You cannot benefit from circumstance or status bonuses, or from fortune effects.
 

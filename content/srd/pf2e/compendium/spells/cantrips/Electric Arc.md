@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Electricity`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Tempest|Tempest]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Tempest|Tempest]]
 - **Range**: 30 feet
 - **Target**: 1 or 2 creatures
 - **Defense**: basic Reflex

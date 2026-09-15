@@ -18,10 +18,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Manipulate`  `Teleportation`  `Uncommon`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Cast**: 1 minute
 
-You step into a blazing fire that's big enough for you to fit inside and instantly teleport to any other fire within 5 miles that also has a sufficiently large size. Once you enter the first fire, you instantly know the rough locations of other sufficiently large fires within range and can exit from the original fire, if you prefer. You can't carry [[srd/pf2e/compendium/rules-elements/traits/player-core/extradimensional|extradimensional]] spaces with you; if you attempt to do so, the spell fails.
+You step into a blazing fire that's big enough for you to fit inside and instantly teleport to any other fire within 5 miles that also has a sufficiently large size. Once you enter the first fire, you instantly know the rough locations of other sufficiently large fires within range and can exit from the original fire, if you prefer. You can't carry [[srd/pf2e/compendium/rules-elements/traits/player-core/Extradimensional|extradimensional]] spaces with you; if you attempt to do so, the spell fails.
 
 ---
 **Heightened (6th)** The fire you exit can be up to 50 miles away.

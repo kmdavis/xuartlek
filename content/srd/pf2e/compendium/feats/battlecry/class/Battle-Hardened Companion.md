@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Commander`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/class/battle-tested-companion|Battle-Tested Companion]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/class/Battle-Tested Companion|Battle-Tested Companion]]
 
-Accompanying you across countless battlefields has allowed your companion to unleash its full potential. The companion you gained with Commander's Companion is now a [[srd/pf2e/books/player-core/chapter-3-classes/companions#Nimble Animal Companions|nimble]] or [[srd/pf2e/books/player-core/chapter-3-classes/companions#Savage Animal Companions|savage animal companion]]. Your animal companion is more readily responsive to your will. During an encounter, even if you don't use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] action, your animal companion can still use 1 action that round on your turn to Stride or Strike. If it does, it also gains a reaction it can use to respond to your tactics, but that's all the actions it gets that round—you can't Command it later.
+Accompanying you across countless battlefields has allowed your companion to unleash its full potential. The companion you gained with Commander's Companion is now a [[srd/pf2e/books/player-core/chapter-3-classes/Companions#Nimble Animal Companions|nimble]] or [[srd/pf2e/books/player-core/chapter-3-classes/Companions#Savage Animal Companions|savage animal companion]]. Your animal companion is more readily responsive to your will. During an encounter, even if you don't use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] action, your animal companion can still use 1 action that round on your turn to Stride or Strike. If it does, it also gains a reaction it can use to respond to your tactics, but that's all the actions it gets that round—you can't Command it later.
 
 ### Battle-Hardened Companion leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/class/peerless-mascot-companion|Peerless Mascot Companion]]
+[[srd/pf2e/compendium/feats/battlecry/class/Peerless Mascot Companion|Peerless Mascot Companion]]
 
 *Source: Battlecry! p. 32*

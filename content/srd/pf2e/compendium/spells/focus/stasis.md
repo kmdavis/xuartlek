@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Incapacitation`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Time|Time]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Time|Time]]
 - **Range**: 30 feet
 - **Target**: 1 creature or up to 1 Bulk of objects
 - **Defense**: Will
@@ -29,7 +29,7 @@ The flow of time congeals around an object or creature, holding it in place. The
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1 as time thickens around it.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]] 1 as time thickens around it.
 
 **Failure** Time ceases to pass for the target for 1 round. It is invulnerable to all damage, it can’t be targeted or affected by anything, and no rounds elapse for any timed durations, conditions, afflictions, and other effects it has. While in stasis, the target can’t be moved, and it remains fixed in place, defying gravity if need be.
 

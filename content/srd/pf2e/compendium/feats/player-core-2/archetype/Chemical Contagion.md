@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/poisoner|Poisoner]], [[srd/pf2e/compendium/character/archetypes/poisoner|Poisoner]] (Level 18)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/poisoner-dedication|Poisoner Dedication]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Poisoner|Poisoner]], [[srd/pf2e/compendium/character/archetypes/Poisoner|Poisoner]] (Level 18)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Poisoner Dedication|Poisoner Dedication]]
 
-Your injury [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poisons]] can spray onto creatures. You gain the toxicologist alchemist's greater field discovery.
+Your injury [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poisons]] can spray onto creatures. You gain the toxicologist alchemist's greater field discovery.
 
 *Source: Player Core 2 p. 210*

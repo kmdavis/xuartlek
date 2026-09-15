@@ -16,14 +16,14 @@ socialImage: og-image.png
 
 `Disarm`  `Sweep`  `Trip`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/azlanti-pantheon/aesocar|Aesocar]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/anubis|Anubis]], [[srd/pf2e/compendium/deities/empyreal-lords/arshea|Arshea]], Daikitsu, [[srd/pf2e/compendium/deities/goblin-gods/hadregash|Hadregash]], [[srd/pf2e/compendium/deities/demon-lords/kabriri|Kabriri]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nhimbaloth|Nhimbaloth]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/osiris|Osiris]], The Offering Plate
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/azlanti-pantheon/Aesocar|Aesocar]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/Anubis|Anubis]], [[srd/pf2e/compendium/deities/empyreal-lords/Arshea|Arshea]], Daikitsu, [[srd/pf2e/compendium/deities/goblin-gods/Hadregash|Hadregash]], [[srd/pf2e/compendium/deities/demon-lords/Kabriri|Kabriri]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nhimbaloth|Nhimbaloth]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/Osiris|Osiris]], The Offering Plate
 - **Price**: 8 sp
 - **Damage**: 1d6 B
 - **Bulk**: 1
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Flail
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Flail|Flail]]
 
 This weapon consists of a wooden handle attached to a spiked ball or cylinder by a chain, rope, or strap of leather.
 
@@ -33,6 +33,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/blessed-lantern-flail|Blessed Lantern Flail]], Venom Lash
+[[srd/pf2e/compendium/equipment/weapons/Blessed Lantern Flail|Blessed Lantern Flail]], Venom Lash
 
 *Source: Player Core p. 278*

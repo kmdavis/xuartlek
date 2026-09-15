@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/war-mage|War Mage]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/war-mage-dedication|War Mage Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/War Mage|War Mage]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/War Mage Dedication|War Mage Dedication]]
 
-Sometimes, magical warfare requires the application of more complex arcana. When you attempt a Warfare [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] check as one of the casters of a ritual, you gain a +2 circumstance bonus to the check. You learn a siege ritual of 2nd rank or lower. You must meet all prerequisites to be the primary caster of a ritual to select it. 
+Sometimes, magical warfare requires the application of more complex arcana. When you attempt a Warfare [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] check as one of the casters of a ritual, you gain a +2 circumstance bonus to the check. You learn a siege ritual of 2nd rank or lower. You must meet all prerequisites to be the primary caster of a ritual to select it. 
 
 At 8th level and every 4 levels thereafter, you learn another siege ritual with the same restriction and with a maximum rank of half that level.
 

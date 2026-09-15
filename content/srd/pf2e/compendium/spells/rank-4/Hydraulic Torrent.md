@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Water`
 
-- **Tradition**: Primal
-- **Deities**: Apep, [[srd/pf2e/compendium/deities/tian-gods/hei-feng|Hei Feng]], Jin Li, [[srd/pf2e/compendium/deities/elemental-lords/kelizandri|Kelizandri]], [[srd/pf2e/compendium/deities/vudrani-gods/matravash|Matravash]], [[srd/pf2e/compendium/deities/other-gods/obari|Obari]], [[srd/pf2e/compendium/deities/daemon-harbingers/tresmalvos|Tresmalvos]]
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Apep, [[srd/pf2e/compendium/deities/tian-gods/Hei Feng|Hei Feng]], Jin Li, [[srd/pf2e/compendium/deities/elemental-lords/Kelizandri|Kelizandri]], [[srd/pf2e/compendium/deities/vudrani-gods/Matravash|Matravash]], [[srd/pf2e/compendium/deities/other-gods/Obari|Obari]], [[srd/pf2e/compendium/deities/daemon-harbingers/Tresmalvos|Tresmalvos]]
 - **Area**: 60-foot line
 - **Defense**: Fortitude
 

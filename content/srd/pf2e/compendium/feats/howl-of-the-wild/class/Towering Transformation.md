@@ -20,13 +20,13 @@ socialImage: og-image.png
 
 `Barbarian`  `Druid`  `Emotion`  `Fear`  `Mental`  `Rage`  `Visual`
 
-- **Trigger**: Your size increases due to a [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] effect.
+- **Trigger**: Your size increases due to a [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]] effect.
 
 The physical growth of your transformation is a spectacle that shakes foes to their core. Each enemy smaller than your new size within 30 feet of you must attempt a Will save against your class DC or spell DC, whichever is higher.
 
 **Success** The creature is unaffected.
 
-**Failure** The creature becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]].
+**Failure** The creature becomes [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened 1]].
 
 **Critical Failure** The creature becomes frightened 2, and you can push it up to 10 feet from you. This is forced movement.
 

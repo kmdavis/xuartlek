@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Leshy`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/heritages#Leaf Leshy|Leaf Leshy]] heritage or [[srd/pf2e/compendium/feats/player-core/skill/cat-fall|Cat Fall]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Leaf Leshy|Leaf Leshy]] heritage or [[srd/pf2e/compendium/feats/player-core/skill/Cat Fall|Cat Fall]]
 
 Using your own leaves, you can control your descent. You glide slowly toward the ground, 5 feet down and up to 25 feet forward through the air. As long as you spend at least 1 action gliding each round and have not yet reached the ground, you remain in the air at the end of your turn.
 

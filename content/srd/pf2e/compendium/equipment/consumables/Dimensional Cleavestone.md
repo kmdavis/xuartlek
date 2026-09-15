@@ -20,7 +20,7 @@ socialImage: og-image.png
 - **Price**: 900 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 The edges of this irregular hunk of obsidian seem to shimmer. While wielding a weapon under the effect of a _dimensional cleavestone_, you gain the Tear Rift action for 1 minute.
 

@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/dual-weapon-warrior|Dual-Weapon Warrior]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/dual-weapon-warrior-dedication|Dual-Weapon Warrior Dedication]]
-- **Requirements**: Your last action was a [[srd/pf2e/compendium/feats/player-core/class/double-slice|Double Slice]], and both attacks hit the target.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Dual-Weapon Warrior|Dual-Weapon Warrior]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Dual-Weapon Warrior Dedication|Dual-Weapon Warrior Dedication]]
+- **Requirements**: Your last action was a [[srd/pf2e/compendium/feats/player-core/class/Double Slice|Double Slice]], and both attacks hit the target.
 
-When you hit with both attacks with Double Slice, you flense the target, making it bleed and creating a weak spot. The target takes 1d8 persistent bleed damage per weapon damage die of whichever of the weapons you used that has the most weapon damage dice (maximum 4d8 for a [[srd/pf2e/compendium/equipment/runes/striking|_major striking_]] weapon). In addition, until the start of your next turn the target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]], and its resistances to any physical damage types are reduced by 5.
+When you hit with both attacks with Double Slice, you flense the target, making it bleed and creating a weak spot. The target takes 1d8 persistent bleed damage per weapon damage die of whichever of the weapons you used that has the most weapon damage dice (maximum 4d8 for a [[srd/pf2e/compendium/equipment/runes/Striking|_major striking_]] weapon). In addition, until the start of your next turn the target is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]], and its resistances to any physical damage types are reduced by 5.
 
 *Source: Player Core 2 p. 196*

@@ -1,6 +1,7 @@
 ---
 title: "Attacks and Defenses"
 aliases: ["Attacks and Defenses"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Dark Archives (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3517"
 citation: "Dark Archives (Remastered) pg. 202"
-socialImage: og-image.png
 ---
 
 # Attacks and Defenses
@@ -26,7 +26,7 @@ Any action taken in a mindscape is converted into a thoughtform called a psychic
 
 ## Natural Psychic Spells
 
-Any creature in a psychic duel can cast two spells, both heightened to half the participant's level, rounded up. They can cast the [[srd/pf2e/compendium/spells/cantrips/daze|daze]] cantrip at will and get a second spell that can be cast once during the duel. They choose from the following when they roll initiative: [[srd/pf2e/compendium/spells/rank-1/fear|fear]], [[srd/pf2e/compendium/spells/rank-1/phantom-pain|phantom pain]], or a common summoning spell (typically [[srd/pf2e/compendium/spells/rank-1/summon-animal|summon animal]], [[srd/pf2e/compendium/spells/rank-1/summon-construct|summon construct]], [[srd/pf2e/compendium/spells/rank-1/summon-fey|summon fey]], or [[srd/pf2e/compendium/spells/rank-1/summon-lesser-servitor|summon lesser servitor]] for a 1st-rank spell). If the creature can't cast spells, they gain these as innate occult spells until the end of the psychic duel. If they can already cast spells, they add these to their other spells and temporarily gain any spell slots necessary to cast them (even if they can't cast spells of that rank yet) that can be used only for the additional spell. Natural psychic spells use the higher of the caster's spell DC or class DC for their spell DC, and that number – 10 for spell attack rolls.
+Any creature in a psychic duel can cast two spells, both heightened to half the participant's level, rounded up. They can cast the [[srd/pf2e/compendium/spells/cantrips/Daze|daze]] cantrip at will and get a second spell that can be cast once during the duel. They choose from the following when they roll initiative: [[srd/pf2e/compendium/spells/rank-1/Fear|fear]], [[srd/pf2e/compendium/spells/rank-1/Phantom Pain|phantom pain]], or a common summoning spell (typically [[srd/pf2e/compendium/spells/rank-1/Summon Animal|summon animal]], [[srd/pf2e/compendium/spells/rank-1/Summon Construct|summon construct]], [[srd/pf2e/compendium/spells/rank-1/Summon Fey|summon fey]], or [[srd/pf2e/compendium/spells/rank-1/Summon Lesser Servitor|summon lesser servitor]] for a 1st-rank spell). If the creature can't cast spells, they gain these as innate occult spells until the end of the psychic duel. If they can already cast spells, they add these to their other spells and temporarily gain any spell slots necessary to cast them (even if they can't cast spells of that rank yet) that can be used only for the additional spell. Natural psychic spells use the higher of the caster's spell DC or class DC for their spell DC, and that number – 10 for spell attack rolls.
 
 ## Gear and Companions
 

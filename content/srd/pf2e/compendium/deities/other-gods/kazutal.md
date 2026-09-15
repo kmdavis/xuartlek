@@ -24,24 +24,24 @@ Strength or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/machete|Machete]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Machete|Machete]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Cities|Cities]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Cities|Cities]], [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]]
+[[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/animal-form|Animal Form]]
+[[srd/pf2e/compendium/spells/rank-2/Animal Form|Animal Form]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/mountain-resilience|Mountain Resilience]]
+[[srd/pf2e/compendium/spells/rank-4/Mountain Resilience|Mountain Resilience]]
 
 ### Divine Intercession
 
@@ -53,7 +53,7 @@ Mother Jaguar rewards those who uphold a sense of community and bestows punishme
 
 **Major Boon** Kazutal smiles upon those who seek to offer aid, no matter how meek or helpless they may be. Any time creatures attempt a check to Aid you, they can choose to automatically succeed. If a creature chooses to roll for the attempt and rolls a success, it gets a critical success instead, granting a +4 circumstance bonus even if it doesn’t have legendary proficiency in that skill. You gain the same benefits when you attempt to Aid others.
 
-**Minor Curse** Community opinion turns against you. Humanoids in your community who would normally start as [[srd/pf2e/compendium/rules-elements/conditions#Indifferent|indifferent]] toward you start as [[srd/pf2e/compendium/rules-elements/conditions#Unfriendly|unfriendly]] instead.
+**Minor Curse** Community opinion turns against you. Humanoids in your community who would normally start as [[srd/pf2e/compendium/rules-elements/Conditions#Indifferent|indifferent]] toward you start as [[srd/pf2e/compendium/rules-elements/Conditions#Unfriendly|unfriendly]] instead.
 
 **Moderate Curse** Your strength betrays you, preventing you from taking more than your fair share. You are enfeebled 2 and can’t carry anything beyond the gear you are actively wearing or using.
 

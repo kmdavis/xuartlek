@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Flourish`  `Gunslinger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/unexpected-sharpshooter|Unexpected Sharpshooter]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Unexpected Sharpshooter|Unexpected Sharpshooter]] (Level 4)
 - **Requirements**: You're wielding a firearm.
 
-You've practiced a technique for rapidly reloading your firearm, but attempting to use this technique is a dangerous gamble with your firearm's functionality. Interact to reload a firearm, then make a Strike with that firearm. If the Strike fails, the firearm [[srd/pf2e/books/guns-gears-remastered/guns-equipment/classic-firearms|misfires]].
+You've practiced a technique for rapidly reloading your firearm, but attempting to use this technique is a dangerous gamble with your firearm's functionality. Interact to reload a firearm, then make a Strike with that firearm. If the Strike fails, the firearm [[srd/pf2e/books/guns-gears-remastered/guns-equipment/Classic Firearms|misfires]].
 
 *Source: Guns & Gears (Remastered) p. 112*

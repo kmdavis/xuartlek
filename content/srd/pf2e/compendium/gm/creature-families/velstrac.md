@@ -12,11 +12,11 @@ socialImage: og-image.png
 
 The shadow-dwelling fiends known as velstracs all share a horrifying preoccupation with the search for ultimate sensation through self-mutilation. Velstracs transcend their stoic detachment only when inflicting pain and terror upon their victims, practicing new forms of torture, or turning their agonizing practices back on themselves. They consider themselves enlightened beings, transcending such limitations as morality or mortal taboos, but their victims know them as emotionless tormentors who inflict sadistic suffering. These fiends claim to seek perfection in thought, form, and action, although they don’t recognize any refinement that doesn’t require the painful excision of the flesh or spirit.
 
-Velstracs manifest from the souls of the most extreme masochistic or sadistic mortals who are judged and sent on to the Netherworld. They take on forms that suit their vile predilections, ranging from the low-ranking augurs to the maestros of suffering and mutilation, the eremites. The process of transformation warps the soul step by step, with other velstracs conveying their new members through untold chambers of pain among the dark reaches of [[srd/pf2e/compendium/gm/planes#The Netherworld|the Netherworld]].
+Velstracs manifest from the souls of the most extreme masochistic or sadistic mortals who are judged and sent on to the Netherworld. They take on forms that suit their vile predilections, ranging from the low-ranking augurs to the maestros of suffering and mutilation, the eremites. The process of transformation warps the soul step by step, with other velstracs conveying their new members through untold chambers of pain among the dark reaches of [[srd/pf2e/compendium/gm/Planes#The Netherworld|the Netherworld]].
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core-2/fiend/augur|Augur]] (Creature 1), Conductor (Creature 9), [[srd/pf2e/bestiary/monster-core-2/fiend/eremite|Eremite]] (Creature 20), [[srd/pf2e/bestiary/monster-core-2/fiend/evangelist|Evangelist]] (Creature 6), [[srd/pf2e/bestiary/monster-core-2/fiend/interlocutor|Interlocutor]] (Creature 12), [[srd/pf2e/bestiary/monster-core-2/fiend/ostiarius|Ostiarius]] (Creature 5), [[srd/pf2e/bestiary/monster-core-2/fiend/sacristan|Sacristan]] (Creature 10)
+[[srd/pf2e/bestiary/monster-core-2/fiend/Augur|Augur]] (Creature 1), Conductor (Creature 9), [[srd/pf2e/bestiary/monster-core-2/fiend/Eremite|Eremite]] (Creature 20), [[srd/pf2e/bestiary/monster-core-2/fiend/Evangelist|Evangelist]] (Creature 6), [[srd/pf2e/bestiary/monster-core-2/fiend/Interlocutor|Interlocutor]] (Creature 12), [[srd/pf2e/bestiary/monster-core-2/fiend/Ostiarius|Ostiarius]] (Creature 5), [[srd/pf2e/bestiary/monster-core-2/fiend/Sacristan|Sacristan]] (Creature 10)
 
 ### Check With Players
 
@@ -24,7 +24,7 @@ Velstracs are creatures of pain and mutilation. Encounters with velstracs often 
 
 ### Despicable Origins
 
-Velstracs originated with the first debased thoughts of mortals, which divine beings found so deplorable that they locked all velstracs away in [[srd/pf2e/compendium/gm/planes#Hell|Hell]]. It wasn’t long, however, before the newly formed beings escaped their infernal prison to [[srd/pf2e/compendium/gm/planes#The Netherworld|the Netherworld]].
+Velstracs originated with the first debased thoughts of mortals, which divine beings found so deplorable that they locked all velstracs away in [[srd/pf2e/compendium/gm/Planes#Hell|Hell]]. It wasn’t long, however, before the newly formed beings escaped their infernal prison to [[srd/pf2e/compendium/gm/Planes#The Netherworld|the Netherworld]].
 
 ### Other Velstracs
 
@@ -40,6 +40,6 @@ The most powerful velstracs are unique divinities known collectively as velstrac
 
 ### Velstracs on Golarion
 
-Velstracs are most often encountered in the shadowy realm of Nidal, where the state worship of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/zon-kuthon|Zon-Kuthon]] is rigidly enforced. Indeed, many velstracs are created from the souls of Joyful Things, devotees of Zon-Kuthon who have had their limbs amputated to focus their minds on the veneration of pain, sacrifice, and torment.
+Velstracs are most often encountered in the shadowy realm of Nidal, where the state worship of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Zon-Kuthon|Zon-Kuthon]] is rigidly enforced. Indeed, many velstracs are created from the souls of Joyful Things, devotees of Zon-Kuthon who have had their limbs amputated to focus their minds on the veneration of pain, sacrifice, and torment.
 
 *Source: Monster Core 2 p. 344*

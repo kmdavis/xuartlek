@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/clawdancer|Clawdancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/clawdancer-dedication|Clawdancer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Clawdancer|Clawdancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Clawdancer Dedication|Clawdancer Dedication]]
 - **Requirements**: You’re in either claw stance or talon stance.
 
 You lash out with your clawed limbs like a beast that has fallen upon its first meal in days, then back off to see your handiwork. Strike three times, with your multiple attack penalty increasing as normal. After each attack that hits and deals damage, you can Step.

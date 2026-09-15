@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Auditory`  `Minotaur`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 - **Requirements**: You are not observed by any enemies within 60 feet.
 
-You emit a terrifying growl and snort, stamping your hooves for all to hear so that they know that you hunt them. Attempt an [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] all enemies within 30 feet, and you do not take a penalty for not sharing a language. If the targets are in a maze or similarly difficult-to-navigate location, you gain a +2 circumstance bonus to this check, and the range increases to 60 feet. Each target is temporarily immune for 1 hour.
+You emit a terrifying growl and snort, stamping your hooves for all to hear so that they know that you hunt them. Attempt an [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] all enemies within 30 feet, and you do not take a penalty for not sharing a language. If the targets are in a maze or similarly difficult-to-navigate location, you gain a +2 circumstance bonus to this check, and the range increases to 60 feet. Each target is temporarily immune for 1 hour.
 
 *Source: Howl of the Wild p. 45*

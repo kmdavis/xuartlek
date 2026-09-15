@@ -14,7 +14,7 @@ Athletics allows you to perform deeds of physical prowess. Most Athletics action
 
 #### Multiple Attacks with Athletics
 
- Several Athletics actions have the [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] trait, meaning that using them more than once in the same turn makes them less accurate. Since these actions use your free hand, you use the traits for your fist attack to determine the multiple attack penalty, so your fist's [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] trait applies. Therefore, you take a –4 penalty if the action is your second attack of the turn, or a –8 if it's the third. Some weapon traits allow you to take these actions using a weapon, in which case the penalty might be –5 or –10 if the weapon doesn't have the agile trait. Some characters can get unarmed attacks without the agile trait as well. If it's unclear which penalty to use, the GM makes the call.
+ Several Athletics actions have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]] trait, meaning that using them more than once in the same turn makes them less accurate. Since these actions use your free hand, you use the traits for your fist attack to determine the multiple attack penalty, so your fist's [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]] trait applies. Therefore, you take a –4 penalty if the action is your second attack of the turn, or a –8 if it's the third. Some weapon traits allow you to take these actions using a weapon, in which case the penalty might be –5 or –10 if the weapon doesn't have the agile trait. Some characters can get unarmed attacks without the agile trait as well. If it's unclear which penalty to use, the GM makes the call.
 
 ### Item Bonuses for Athletics
 
@@ -25,21 +25,21 @@ Category
 Consumable
 Note
 
-[[srd/pf2e/compendium/equipment/spellhearts/beastmasters-sigil|Beastmaster's Sigil]]
+[[srd/pf2e/compendium/equipment/spellhearts/Beastmaster's Sigil|Beastmaster's Sigil]]
 +1
 0
 Spellhearts
 No
 Item bonus to Athletic checks to Trip
 
-[[srd/pf2e/compendium/equipment/worn-items/magical-medals|Medal of Gorilla’s Might]]
+[[srd/pf2e/compendium/equipment/worn-items/Magical Medals|Medal of Gorilla’s Might]]
 +1
 3
 Worn Items
 No
 Item bonus to Athletics checks to Climb, Force Open, High Jump, and Long Jump.
 
-[[srd/pf2e/compendium/equipment/adventuring-gear/crowbar|Crowbar (Levered)]]
+[[srd/pf2e/compendium/equipment/adventuring-gear/Crowbar|Crowbar (Levered)]]
 +1
 3
 Adventuring Gear
@@ -53,14 +53,14 @@ Other Worn Items
 No
 Item bonus to a check of the crafter's choice
 
-[[srd/pf2e/compendium/equipment/worn-items/grippy-gloves|Grippy Gloves]]
+[[srd/pf2e/compendium/equipment/worn-items/Grippy Gloves|Grippy Gloves]]
 +1
 4
 Other Worn Items
 No
 Item bonus to Athletics Check to Climb, Grapple, and Reposition.
 
-[[srd/pf2e/compendium/equipment/worn-items/sailors-collar|Sailor’s Collar]]
+[[srd/pf2e/compendium/equipment/worn-items/Sailor's Collar|Sailor’s Collar]]
 +1
 4
 Worn Items
@@ -70,11 +70,11 @@ Item bonus to Athletics Checks to Climb, Force Open, High Jump, and Long Jump.
 Coral Aspect
 +1
 4
-Worn Items
+Other Worn Items
 No
 Item bonus to Swim
 
-[[srd/pf2e/compendium/equipment/armor/mariners-splint|Mariner's Splint]]
+[[srd/pf2e/compendium/equipment/armor/Mariner's Splint|Mariner's Splint]]
 +1
 5
 Armor
@@ -109,28 +109,28 @@ Alchemical Bombs
 No
 Item bonus to Athletic checks to Force Open
 
-[[srd/pf2e/compendium/equipment/alchemical-items/bestial-mutagen|Bestial Mutagen (Lesser)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/Bestial Mutagen|Bestial Mutagen (Lesser)]]
 +1
 1
 Alchemical Elixirs
 Yes
 Item bonus to Athletics checks 
 
-[[srd/pf2e/compendium/equipment/consumables/bronze-bull-pendant|Bronze Bull Pendant]]
+[[srd/pf2e/compendium/equipment/consumables/Bronze Bull Pendant|Bronze Bull Pendant]]
 +1
 2
 Talismans
 Yes
 Athletics to Shove
 
-[[srd/pf2e/compendium/equipment/consumables/monkey-pin|Monkey Pin]]
+[[srd/pf2e/compendium/equipment/consumables/Monkey Pin|Monkey Pin]]
 +1
 2
 Talismans
 Yes
 Athletics to Climb
 
-[[srd/pf2e/compendium/equipment/consumables/savior-spike|Savior Spike]]
+[[srd/pf2e/compendium/equipment/consumables/Savior Spike|Savior Spike]]
 +1
 2
 Talismans
@@ -165,19 +165,19 @@ Other Worn Items
 No
 Item bonus to Athletics checks to High Jump and Long Jump when activated
 
-[[srd/pf2e/compendium/equipment/worn-items/fire-jump-ring|Fire-Jump Ring]]
+[[srd/pf2e/compendium/equipment/worn-items/Fire-Jump Ring|Fire-Jump Ring]]
 +2
 10
 Other Worn Items
 No
 
-[[srd/pf2e/compendium/equipment/worn-items/sash-of-prowess|Sash of Prowess]]
+[[srd/pf2e/compendium/equipment/worn-items/Sash of Prowess|Sash of Prowess]]
 +2
 10
 Worn Items
 No
 
-[[srd/pf2e/compendium/equipment/worn-items/sailors-collar|Greater Sailor’s Collar]]
+[[srd/pf2e/compendium/equipment/worn-items/Sailor's Collar|Greater Sailor’s Collar]]
 +2
 10
 Worn Items
@@ -205,7 +205,7 @@ Clan Dagger Filigrees
 No
 Item bonus to Athletics checks
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -215,32 +215,32 @@ Item bonus of the associated Deity's Divine Skill
 Helm of the Tides
 +2
 11
-Worn Items
+Other Worn Items
 No
 Item bonus to Swim
 
-[[srd/pf2e/compendium/equipment/worn-items/stampede-medallion|Stampede Medallion]]
+[[srd/pf2e/compendium/equipment/worn-items/Stampede Medallion|Stampede Medallion]]
 +2
 12
-Worn Items
+Eidolon Items
 No
 Item bonus to Athletics checks to Shove or Trip.
 
-[[srd/pf2e/compendium/equipment/worn-items/stampede-medallion|Greater Stampede Medallion]]
+[[srd/pf2e/compendium/equipment/worn-items/Stampede Medallion|Greater Stampede Medallion]]
 +2
 15
-Worn Items
+Eidolon Items
 No
 Item bonus to Athletics checks to Shove or Trip.
 
-[[srd/pf2e/compendium/equipment/alchemical-items/bestial-mutagen|Bestial Mutagen (Moderate)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/Bestial Mutagen|Bestial Mutagen (Moderate)]]
 +2
 3
 Alchemical Elixirs
 Yes
 Item bonus to Athletics checks 
 
-[[srd/pf2e/compendium/equipment/worn-items/sash-of-prowess|Sash of Prowess (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/Sash of Prowess|Sash of Prowess (Greater)]]
 +3
 17
 Worn Items
@@ -253,7 +253,7 @@ Apex Items
 No
 Item bonus to Perception checks to Athletics
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
@@ -274,17 +274,17 @@ Worn Items
 No
 Item bonus to Force Open, Reposition, and Shove
 
-[[srd/pf2e/compendium/equipment/apex-items/titans-grasp|Titan's Grasp]]
+[[srd/pf2e/compendium/equipment/apex-items/Titan's Grasp|Titan's Grasp]]
 +3
 18
 Apex Items
 No
 Item bonus to Athletics.
 
-[[srd/pf2e/compendium/equipment/worn-items/stampede-medallion|Major Stampede Medallion]]
+[[srd/pf2e/compendium/equipment/worn-items/Stampede Medallion|Major Stampede Medallion]]
 +3
 18
-Worn Items
+Eidolon Items
 No
 Item bonus to Athletics checks to Shove or Trip.
 
@@ -295,7 +295,7 @@ Apex Items
 No
 item bonus to Athletics checks
 
-[[srd/pf2e/compendium/equipment/alchemical-items/bestial-mutagen|Bestial Mutagen (Greater)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/Bestial Mutagen|Bestial Mutagen (Greater)]]
 +3
 11
 Alchemical Elixirs
@@ -309,7 +309,7 @@ Alchemical Poisons
 Yes
 item bonus to Athletics checks and Fortitude saves for 1 hour if applied to an elixir or potion.
 
-[[srd/pf2e/compendium/equipment/alchemical-items/bestial-mutagen|Bestial Mutagen (Major)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/Bestial Mutagen|Bestial Mutagen (Major)]]
 +4
 17
 Alchemical Elixirs

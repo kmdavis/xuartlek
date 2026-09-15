@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Incapacitation`  `Manipulate`  `Mental`  `Uncommon`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Deity**: The Godclaw
 - **Range**: 30 feet
 - **Target**: 1 creature
@@ -31,7 +31,7 @@ You take command of the target, forcing it to obey you. If you issue an obviousl
 
 **Success** The target is stunned 1 as it fights off your commands.
 
-**Failure** You control the target. It gains the [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]] condition, but it can attempt a Will save at the end of each of its turns. On a success, the spell ends.
+**Failure** You control the target. It gains the [[srd/pf2e/compendium/rules-elements/Conditions#Controlled|controlled]] condition, but it can attempt a Will save at the end of each of its turns. On a success, the spell ends.
 
 **Critical Failure** As a failure, but the target receives a new save only if you give it a new order that is against its nature, such as killing its allies.
 

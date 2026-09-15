@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Goblin`
 
-You've picked up skills and tales from your goblin community. You gain the trained proficiency rank in [[srd/pf2e/compendium/character/domains#Nature|Nature]] and [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
+You've picked up skills and tales from your goblin community. You gain the trained proficiency rank in [[srd/pf2e/compendium/character/Domains#Nature|Nature]] and [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
 
-You also gain the Additional Lore general feat for Goblin [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]].
+You also gain the Additional Lore general feat for Goblin [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]].
 
 *Source: Player Core p. 56*

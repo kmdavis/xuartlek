@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Goblin`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/goblin-scuttle|Goblin Scuttle]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/Goblin Scuttle|Goblin Scuttle]]
 
 You can scuttle farther and faster when maneuvering alongside allies. When you use Goblin Scuttle, you can Stride up to half your Speed instead of Stepping.
 

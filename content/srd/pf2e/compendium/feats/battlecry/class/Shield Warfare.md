@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Guardian`
 
-You know how to use shields offensively far better than most. Increase the weapon damage die of any [[srd/pf2e/compendium/equipment/weapons/shield/shield-bash|shield bash]], [[srd/pf2e/compendium/equipment/weapons/shield/shield-boss|shield boss]], or [[srd/pf2e/compendium/equipment/weapons/shield/shield-spikes|shield spikes]] you wield by one step.
+You know how to use shields offensively far better than most. Increase the weapon damage die of any [[srd/pf2e/compendium/equipment/weapons/shield/Shield Bash|shield bash]], [[srd/pf2e/compendium/equipment/weapons/shield/Shield Boss|shield boss]], or [[srd/pf2e/compendium/equipment/weapons/shield/Shield Spikes|shield spikes]] you wield by one step.
 
 *Source: Battlecry! p. 41*

@@ -17,12 +17,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
-- **Traditions**: Divine, Primal
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
-- **Area**: 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
+- **Area**: 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
 - **Duration**: 10 minutes
 
-Blossoms grow from the ground in a small area, soothing away afflictions and persistent pains and harm. When any creature in that area rolls a successful save against a [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]] effect, it gets a critical success instead. The blossoms grant assisted recovery to everyone in the area to end their [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]], both when the spell is cast and at the start of each of your turns.
+Blossoms grow from the ground in a small area, soothing away afflictions and persistent pains and harm. When any creature in that area rolls a successful save against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]] effect, it gets a critical success instead. The blossoms grant assisted recovery to everyone in the area to end their [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent damage]], both when the spell is cast and at the start of each of your turns.
 
 Once the duration ends, the flowers lose their magical effect, but a few of them might survive in the area as long as they can naturally. This spell doesn’t give a benefit on a save against an affliction unless the stage lasts 10 minutes or less.
 

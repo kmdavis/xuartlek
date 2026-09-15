@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Alchemist`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/alchemist|alchemist]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Alchemist|alchemist]] class.
 
 *Source: Player Core 2 p. 315*

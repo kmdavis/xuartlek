@@ -28,10 +28,10 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; lifesense 30 feet, tremorsense (imprecise) 30 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; (can't speak any language)"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]; (can't speak any language)"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +2"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +6, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +2"
 abilityMods: [1, 3, 0, -4, 0, 0]
 ac: 12
 armorclass:
@@ -40,16 +40,16 @@ armorclass:
 hp: 8
 health:
   - name: "HP"
-    desc: "8 (void healing); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]"
+    desc: "8 (void healing); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]]"
 speed: "30 feet, climb 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 0 feet]]) __Damage__ 1d4+1 slashing plus Throat Grab"
+    desc: "⬻ claw +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 0 feet]]) __Damage__ 1d4+1 slashing plus Throat Grab"
 abilities_bot:
   - name: "Mark Quarry"
-    desc: "A crawling hand can be assigned a quarry by anointing the hand with a drop of the intended quarry's blood. If the hand ever has no quarry, it automatically gains the next creature it damages as its quarry. The hand gains a +1 circumstance bonus to Perception checks when it [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seeks]] its quarry, to [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] checks when it [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Tracks]] its quarry, and to damage rolls when it Strikes its quarry."
+    desc: "A crawling hand can be assigned a quarry by anointing the hand with a drop of the intended quarry's blood. If the hand ever has no quarry, it automatically gains the next creature it damages as its quarry. The hand gains a +1 circumstance bonus to Perception checks when it [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seeks]] its quarry, to [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] checks when it [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Tracks]] its quarry, and to damage rolls when it Strikes its quarry."
   - name: "Throat Grab"
-    desc: "⬻ This ability functions as Grab, but the crawling hand grips the throat of a Medium or smaller creature. A creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] this way has difficulty speaking and must spend an extra action to perform any action that requires speaking, including casting spells."
+    desc: "⬻ This ability functions as Grab, but the crawling hand grips the throat of a Medium or smaller creature. A creature [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] this way has difficulty speaking and must spend an extra action to perform any action that requires speaking, including casting spells."
 sourcebook: "_Monster Core_, page 68."
 ```
 

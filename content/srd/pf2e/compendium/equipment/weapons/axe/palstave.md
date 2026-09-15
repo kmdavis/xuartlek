@@ -21,7 +21,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Simple
-- **Group**: Axe
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Axe|Axe]]
 
 This simple axe is created by inserting a weighted metal wedge into a curved wooden handle with a Y-shaped groove at the top, and then binding the splitting wedge in place with leather thongs.
 

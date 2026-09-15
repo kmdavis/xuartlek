@@ -24,30 +24,30 @@ Strength or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/morningstar|Morningstar]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Morningstar|Morningstar]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Healing|Healing]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]]
+[[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/enthrall|Enthrall]]
+[[srd/pf2e/compendium/spells/rank-3/Enthrall|Enthrall]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/fire-shield|Fire Shield]]
+[[srd/pf2e/compendium/spells/rank-4/Fire Shield|Fire Shield]]
 
 ### Divine Intercession
 
 The Everbloom rewards those who put the needs of others first, especially when combating oppressive forces, and she doesn’t hesitate to impede any who enslave others or persecute the defenseless. 
 
-**Minor Boon** Once, when you roll a failure on a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] check to protect an uprising from discovery, you critically succeed instead. Milani typically grants this boon for extremely significant checks on which the uprising’s survival hinges. 
+**Minor Boon** Once, when you roll a failure on a [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] check to protect an uprising from discovery, you critically succeed instead. Milani typically grants this boon for extremely significant checks on which the uprising’s survival hinges. 
 
 **Moderate Boon** When you use it to protect others, your shield blooms with roses brimming with razor-sharp thorns. You gain the Shield Warden feat, even if you don’t meet its prerequisites. If you already had that feat, if your shield takes damage from a melee Strike in defense of your ally, the attacker takes piercing damage equal to half the shield’s Hardness.
 

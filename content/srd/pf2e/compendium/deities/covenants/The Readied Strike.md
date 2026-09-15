@@ -24,23 +24,23 @@ Strength or Intelligence
 
 **Divine Sanctification** can choose holy or unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/lance|Lance]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/Lance|Lance]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/anticipate-peril|Anticipate Peril]]
+[[srd/pf2e/compendium/spells/rank-1/Anticipate Peril|Anticipate Peril]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/telepathy|Telepathy]]
+[[srd/pf2e/compendium/spells/rank-4/Telepathy|Telepathy]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/collective-transposition|Collective Transposition]]
+[[srd/pf2e/compendium/spells/rank-6/Collective Transposition|Collective Transposition]]
 
 *Source: Divine Mysteries p. 240*

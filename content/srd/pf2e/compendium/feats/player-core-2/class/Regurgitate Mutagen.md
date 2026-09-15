@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 - **Requirements**: You are under the effects of a mutagen.
 
-You redirect a mutagen within your body to spit a stream of stomach acid at a foe. A creature within 30 feet takes 1d6 acid damage for every 2 levels you have, with a basic Reflex save against your class DC. On a failure, the creature is also [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]] (or sickened 2 on a critical failure). The mutagen's duration immediately ends.
+You redirect a mutagen within your body to spit a stream of stomach acid at a foe. A creature within 30 feet takes 1d6 acid damage for every 2 levels you have, with a basic Reflex save against your class DC. On a failure, the creature is also [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened 1]] (or sickened 2 on a critical failure). The mutagen's duration immediately ends.
 
 *Source: Player Core 2 p. 65*

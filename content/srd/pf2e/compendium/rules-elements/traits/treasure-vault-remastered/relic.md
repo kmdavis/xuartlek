@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Relic`
 
-_Nethys note: this trait has not been defined, but has been used for relic seeds and [[srd/pf2e/books/treasure-vault-remastered/game-master-s-trove/set-relics|set relics]]._
+_Nethys note: this trait has not been defined, but has been used for relic seeds and [[srd/pf2e/books/treasure-vault-remastered/game-master-s-trove/Set Relics|set relics]]._
 
 *Source: Treasure Vault (Remastered) p. 201*

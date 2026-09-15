@@ -28,16 +28,16 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; (10 if the artillerist is crewing a siege weapon)"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +9, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +9, [[srd/pf2e/compendium/rules-elements/skills/lore|Engineering Lore]] +11, [[srd/pf2e/compendium/rules-elements/skills/lore|Explosive Lore]] +9, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +9, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +9, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +9, [[srd/pf2e/compendium/rules-elements/skills/Lore|Engineering Lore]] +11, [[srd/pf2e/compendium/rules-elements/skills/Lore|Explosive Lore]] +9, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +9, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] +8"
 abilityMods: [3, 3, 1, 2, 1, 0]
 abilities_top:
   - name: "Siege Acumen"
-    desc: "The artillerist is permanently [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]]. They can use this extra action only to [[srd/pf2e/books/guns-gears-remastered/gears-equipment/siege-weapons#Mounted Siege Weapons|Aim, Load, or Launch]] a siege weapon."
+    desc: "The artillerist is permanently [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]]. They can use this extra action only to [[srd/pf2e/books/guns-gears-remastered/gears-equipment/Siege Weapons#Mounted Siege Weapons|Aim, Load, or Launch]] a siege weapon."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit]] (siege weaponry), Dueling Pistol (20 rounds), [[srd/pf2e/compendium/equipment/weapons/hammer/light-hammer|Light Hammer]], [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|Repair Toolkit]]"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/Artisan's Toolkit|Artisan's Toolkit]] (siege weaponry), Dueling Pistol (20 rounds), [[srd/pf2e/compendium/equipment/weapons/hammer/Light Hammer|Light Hammer]], [[srd/pf2e/compendium/equipment/adventuring-gear/Repair Toolkit|Repair Toolkit]]"
 ac: 18
 armorclass:
   - name: "AC"
@@ -52,16 +52,16 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ light hammer +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+5 bludgeoning"
+    desc: "⬻ light hammer +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d6+5 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+5 bludgeoning"
+    desc: "⬻ fist +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+5 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dueling pistol +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/concealable|Concealable]], [[srd/pf2e/compendium/rules-elements/traits/npc-core/concussive|Concussive]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d10]], range increment 60 feet, reload 1) __Damage__ 1d6+3 piercing"
+    desc: "⬻ dueling pistol +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concealable|Concealable]], [[srd/pf2e/compendium/rules-elements/traits/npc-core/Concussive|Concussive]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fatal|fatal d10]], range increment 60 feet, reload 1) __Damage__ 1d6+3 piercing"
   - name: "Ranged"
-    desc: "⬻ light hammer +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d6+5 bludgeoning"
+    desc: "⬻ light hammer +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 20 feet]]) __Damage__ 1d6+5 bludgeoning"
 abilities_bot:
   - name: "Bombard"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) The artillerist activates a shoulder-mounted artillery piece to launch an explosive shell up to 120 feet away that explodes in 10-foot burst. Creatures within the burst take 2d6 piercing damage and 2d6 fire damage with a DC 19 basic Reflex save. A creature that fails its save is also knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. The artillerist can't use Bombard again until they reload the artillery with 2 Interact actions; these actions don't have to be consecutive. Siege Weapons The artillerist is meant to pair with siege weapons, and engineers in general often pair well with these large instruments of war. Siege weapons usually work best with multiple NPCs crewing them. Rules for siege weapons can be found [[srd/pf2e/books/guns-gears-remastered/gears-equipment/siege-weapons|here]]."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|Manipulate]]) The artillerist activates a shoulder-mounted artillery piece to launch an explosive shell up to 120 feet away that explodes in 10-foot burst. Creatures within the burst take 2d6 piercing damage and 2d6 fire damage with a DC 19 basic Reflex save. A creature that fails its save is also knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]. The artillerist can't use Bombard again until they reload the artillery with 2 Interact actions; these actions don't have to be consecutive. Siege Weapons The artillerist is meant to pair with siege weapons, and engineers in general often pair well with these large instruments of war. Siege weapons usually work best with multiple NPCs crewing them. Rules for siege weapons can be found [[srd/pf2e/books/guns-gears-remastered/gears-equipment/Siege Weapons|here]]."
 sourcebook: "_NPC Core_, page 44."
 ```
 

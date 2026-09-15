@@ -24,23 +24,23 @@ Intelligence or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/fist|jaw]] or [[srd/pf2e/compendium/equipment/weapons/club/greatclub|Greatclub]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/Fist|jaw]] or [[srd/pf2e/compendium/equipment/weapons/club/Greatclub|Greatclub]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Glyph|Glyph]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Time|Time]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Time|Time]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/message-rune|Message Rune]]
+[[srd/pf2e/compendium/spells/rank-1/Message Rune|Message Rune]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/blistering-invective|Blistering Invective]]
+[[srd/pf2e/compendium/spells/rank-2/Blistering Invective|Blistering Invective]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/honeyed-words|Honeyed Words]]
+[[srd/pf2e/compendium/spells/rank-4/Honeyed Words|Honeyed Words]]
 
 *Source: Divine Mysteries p. 316*

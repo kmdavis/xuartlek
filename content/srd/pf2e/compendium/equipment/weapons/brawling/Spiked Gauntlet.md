@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Agile`  `Free-Hand`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/daemon-harbingers/anogetz|Anogetz]], Marishi, The Divine Dare, [[srd/pf2e/compendium/deities/apocalypse-riders/trelmarixian|Trelmarixian]], [[srd/pf2e/compendium/deities/giant-gods/urazra|Urazra]], [[srd/pf2e/compendium/deities/demon-lords/zevgavizeb|Zevgavizeb]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/daemon-harbingers/Anogetz|Anogetz]], Marishi, The Divine Dare, [[srd/pf2e/compendium/deities/apocalypse-riders/Trelmarixian|Trelmarixian]], [[srd/pf2e/compendium/deities/giant-gods/Urazra|Urazra]], [[srd/pf2e/compendium/deities/demon-lords/Zevgavizeb|Zevgavizeb]]
 - **Price**: 3 sp
 - **Damage**: 1d4 P
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Simple
-- **Group**: Brawling
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|Brawling]]
 
 Providing the same defensive function as a standard gauntlet, this version has a group of spikes protruding from the knuckles to deliver piercing damage with a punch.
 

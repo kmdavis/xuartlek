@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Duskwalker`
 
-Your connection to [[srd/pf2e/compendium/gm/creature-families/psychopomp|psychopomps]] gives you the power to glimpse the near future and protect corpses from the ravages of undeath. You can cast [[srd/pf2e/compendium/spells/rank-2/augury|_augury_]] and [[srd/pf2e/compendium/spells/rank-2/peaceful-rest|_peaceful rest_]] each once per day as 2nd-rank divine innate spells.
+Your connection to [[srd/pf2e/compendium/gm/creature-families/Psychopomp|psychopomps]] gives you the power to glimpse the near future and protect corpses from the ravages of undeath. You can cast [[srd/pf2e/compendium/spells/rank-2/Augury|_augury_]] and [[srd/pf2e/compendium/spells/rank-2/Peaceful Rest|_peaceful rest_]] each once per day as 2nd-rank divine innate spells.
 
 *Source: Player Core 2 p. 49*

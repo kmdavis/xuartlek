@@ -10,22 +10,22 @@ socialImage: og-image.png
 
 # Soulrider  *Creature Family*
 
-Resembling a lamprey or hagfish with a long whiplike tail, a soulrider uses its harmless sucker to hitch rides on a creature's soul. This seemingly simple connection transcends the physical, attaching directly to the host's soul and even riding along with the soul to its final destination. Once there, a soulrider leaves its host to absorb the surrounding planar energies, adapting to the new environment and growing large enough to produce spawn. However, it can only do so in the mortal [[srd/pf2e/compendium/gm/planes#The Universe|Universe]], so it must find a portal or other way to return. With this cycle, they've spread to every plane in the Outer Sphere, as well as many mortal worlds.
+Resembling a lamprey or hagfish with a long whiplike tail, a soulrider uses its harmless sucker to hitch rides on a creature's soul. This seemingly simple connection transcends the physical, attaching directly to the host's soul and even riding along with the soul to its final destination. Once there, a soulrider leaves its host to absorb the surrounding planar energies, adapting to the new environment and growing large enough to produce spawn. However, it can only do so in the mortal [[srd/pf2e/compendium/gm/Planes#The Universe|Universe]], so it must find a portal or other way to return. With this cycle, they've spread to every plane in the Outer Sphere, as well as many mortal worlds.
 
- Although increasingly widespread, soulriders only appeared a little over a century ago. Thought to be a fleshwarper's attempt to cheat [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma's]] judgment by attaching several innocent souls to their own, soulriders' numbers have grown explosively since then.
+ Although increasingly widespread, soulriders only appeared a little over a century ago. Thought to be a fleshwarper's attempt to cheat [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Pharasma|Pharasma's]] judgment by attaching several innocent souls to their own, soulriders' numbers have grown explosively since then.
 
  Soulriders require little more than air to survive, but they're instinctually aware of their need for a mortal soul. Although their suckers are harmless, soulriders who feel threatened or become impatient will finish off their hosts or nearby threats with their tail.
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core-2/aberration/soulrider|Soulrider]] (Creature -1), [[srd/pf2e/bestiary/monster-core-2/aberration/spawning-soulrider|Spawning Soulrider]] (Creature 1)
+[[srd/pf2e/bestiary/monster-core-2/aberration/Soulrider|Soulrider]] (Creature -1), [[srd/pf2e/bestiary/monster-core-2/aberration/Spawning Soulrider|Spawning Soulrider]] (Creature 1)
 
 ### Avoiding Judgement
 
-Although soulriders were created in an attempt to tilt the scale of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma’s]] judgment, many [[srd/pf2e/compendium/gm/creature-families/psychopomp|psychopomps]] are adamant that they don’t interfere with the process. However, [[srd/pf2e/bestiary/monster-core/monitor/nosoi|nosoi]] are frequently tasked with clearing out soulrider infestations, and esoboks seem to take the creatures’ existence as a personal affront.
+Although soulriders were created in an attempt to tilt the scale of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Pharasma|Pharasma’s]] judgment, many [[srd/pf2e/compendium/gm/creature-families/Psychopomp|psychopomps]] are adamant that they don’t interfere with the process. However, [[srd/pf2e/bestiary/monster-core/monitor/Nosoi|nosoi]] are frequently tasked with clearing out soulrider infestations, and esoboks seem to take the creatures’ existence as a personal affront.
 
 ### Invasive Summoning
 
-Soulriders have spread through the planes to such an extent that their planar adaptation qualifies them for summoning spells that require those traits. The soulrider that responds has appropriate traits for the spell, such as celestial and holy for [[srd/pf2e/compendium/spells/rank-5/summon-celestial|_summon celestial_]].
+Soulriders have spread through the planes to such an extent that their planar adaptation qualifies them for summoning spells that require those traits. The soulrider that responds has appropriate traits for the spell, such as celestial and holy for [[srd/pf2e/compendium/spells/rank-5/Summon Celestial|_summon celestial_]].
 
 *Source: Monster Core 2 p. 296*

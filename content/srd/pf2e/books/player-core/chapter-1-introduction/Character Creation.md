@@ -1,6 +1,7 @@
 ---
 title: "Character Creation"
 aliases: ["Character Creation"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2027"
 citation: "Player Core pg. 17"
-socialImage: og-image.png
 ---
 
 # Character Creation
@@ -108,7 +108,7 @@ You can draw your concept from any aspect of a character's details. You can use 
 
 #### Faith
 
-Perhaps you'd like to play a character who is a devout follower of a specific deity. Pathfinder is a rich world with myriad faiths and philosophies spanning a wide pantheon, from Cayden Cailean, the Drunken Hero of good-hearted adventuring; to Desna, the Song of Spheres and goddess of dreaming and the stars; to Iomedae, the Inheritor, goddess of honor, justice, and rulership. Pathfinder's major deities appear on pages 35–39. Your character might be so drawn to a particular faith that you decide they should be a cleric of that deity; they might instead be a lay worshipper who applies their faith's teachings to daily life, or simply the child of devout parents.
+Perhaps you'd like to play a character who is a devout follower of a specific deity. Pathfinder is a rich world with myriad faiths and philosophies spanning a wide pantheon, from [Cayden Cailean](https://2e.aonprd.com/Deities.aspx?ID=4), the Drunken Hero of good-hearted adventuring; to [Desna](https://2e.aonprd.com/Deities.aspx?ID=5), the Song of Spheres and goddess of dreaming and the stars; to [Iomedae](https://2e.aonprd.com/Deities.aspx?ID=9), the Inheritor, goddess of honor, justice, and rulership. Pathfinder's major deities appear on pages 35–39. Your character might be so drawn to a particular faith that you decide they should be a cleric of that deity; they might instead be a lay worshipper who applies their faith's teachings to daily life, or simply the child of devout parents.
 
 #### Your Allies
 
@@ -280,15 +280,15 @@ This step-by-step example illustrates the process of creating a Pathfinder chara
 
 ### Steps 1 and 2
 
-Adam is making his first Pathfinder character. After talking about it with the rest of the group, he's decided to make a [[srd/pf2e/compendium/character/ancestries/dwarf|dwarf]] [[srd/pf2e/compendium/character/classes/druid|druid]]. After jotting down a few ideas, he begins by writing down a +0 for each attribute modifier.
+Adam is making his first Pathfinder character. After talking about it with the rest of the group, he's decided to make a [[srd/pf2e/compendium/character/ancestries/Dwarf|dwarf]] [[srd/pf2e/compendium/character/classes/Druid|druid]]. After jotting down a few ideas, he begins by writing down a +0 for each attribute modifier.
 
 ### Step 3
 
-Adam looks up the dwarf entry in Chapter 2. He records the attribute boosts to his Constitution and Wisdom modifiers (bringing both up to +1). He also applies the attribute flaw to his Charisma, dropping it to –1. For his free attribute boost, he chooses Dexterity to boost his defenses, raising it to +1 as well. He also records the 10 Hit Points the ancestry gives him. Next, he returns to his character sheet to record the size, Speed, language, and darkvision ability he gets from being a dwarf. Finally, he decides on a heritage, writing “rock dwarf” next to dwarf, and he picks an ancestry feat, deciding on [[srd/pf2e/compendium/feats/player-core/ancestry/rock-runner|Rock Runner]], to show his character’s strong connection to stone.
+Adam looks up the dwarf entry in Chapter 2. He records the attribute boosts to his Constitution and Wisdom modifiers (bringing both up to +1). He also applies the attribute flaw to his Charisma, dropping it to –1. For his free attribute boost, he chooses Dexterity to boost his defenses, raising it to +1 as well. He also records the 10 Hit Points the ancestry gives him. Next, he returns to his character sheet to record the size, Speed, language, and darkvision ability he gets from being a dwarf. Finally, he decides on a heritage, writing “rock dwarf” next to dwarf, and he picks an ancestry feat, deciding on [[srd/pf2e/compendium/feats/player-core/ancestry/Rock Runner|Rock Runner]], to show his character’s strong connection to stone.
 
 ### Step 4
 
-Looking through the backgrounds, Adam likes the idea of a solitary dwarven druid, and the [[srd/pf2e/compendium/character/backgrounds#Nomad|nomad]] background makes for a good choice. For the first attribute boost granted by the background, Adam chooses Wisdom, and for the free attribute boost, he chooses Constitution, taking both up to +2. On the second page, he writes “[[srd/pf2e/compendium/feats/player-core/skill/assurance|Assurance]] (Survival)” in the Skill Feats area, on the Background line. Finally, returning to the first page, he writes “cave” next to the first Lore skill entry and checks the box under the “T” for that skill and Survival.
+Looking through the backgrounds, Adam likes the idea of a solitary dwarven druid, and the [[srd/pf2e/compendium/character/Backgrounds#Nomad|nomad]] background makes for a good choice. For the first attribute boost granted by the background, Adam chooses Wisdom, and for the free attribute boost, he chooses Constitution, taking both up to +2. On the second page, he writes “[[srd/pf2e/compendium/feats/player-core/skill/Assurance|Assurance]] (Survival)” in the Skill Feats area, on the Background line. Finally, returning to the first page, he writes “cave” next to the first Lore skill entry and checks the box under the “T” for that skill and Survival.
 
 ### Step 5
 
@@ -302,7 +302,7 @@ Adam applies four more attribute boosts to determine his starting attribute modi
 
 As Adam applies his class, he has a number of things to figure out. First, he starts by recording all of his initial proficiencies, marking the appropriate boxes in the Armor Class, Saving Throws, Weapon Proficiencies, Spell Attack Modifier, and Spell DC areas of his sheet. Turning to skills, he marks Nature as trained and notes that once he picks his druid order, he'll become trained in another skill determined by that order. He then gets to choose two more skills (if he had a higher Intelligence, he would have gotten more). He decides on Athletics and Medicine, marking both of them as trained. Next, he adds the 8 Hit Points from the druid class and his Constitution modifier of +3 to the 10 Hit Points from his dwarf ancestry for an impressive 21 total Hit Points.
 
-Moving on to class features, Adam chooses the Animal Empathy feat from voice of nature and marks that and the [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] feat in the class feats and features area. He makes note of the anathema for being a druid and records Wildsong in his language section. Next, he looks through the druid orders and decides upon the untamed order, which gives him his final trained skill (Intimidation), the ability to cast [[srd/pf2e/compendium/spells/focus/untamed-shift|untamed shift]], and the [[srd/pf2e/compendium/feats/player-core/class/untamed-form|Untamed Form]] feat, which lets him cast a focus spell to turn into an animal. He writes these spells in the focus spell area of his character sheet. Because he has two focus spells, he notes that he has 2 Focus Points to use to cast these spells.
+Moving on to class features, Adam chooses the Animal Empathy feat from voice of nature and marks that and the [[srd/pf2e/compendium/feats/player-core/general/Shield Block|Shield Block]] feat in the class feats and features area. He makes note of the anathema for being a druid and records Wildsong in his language section. Next, he looks through the druid orders and decides upon the untamed order, which gives him his final trained skill (Intimidation), the ability to cast [[srd/pf2e/compendium/spells/focus/Untamed Shift|untamed shift]], and the [[srd/pf2e/compendium/feats/player-core/class/Untamed Form|Untamed Form]] feat, which lets him cast a focus spell to turn into an animal. He writes these spells in the focus spell area of his character sheet. Because he has two focus spells, he notes that he has 2 Focus Points to use to cast these spells.
 
 Finally, a druid can cast a limited number of primal spells. Although he can change them every morning, Adam is curious, and he turns to Chapter 7: Spells to decide what spells he might cast. He jots down five cantrips and two 1st-rank spells and marks them as prepared.
 

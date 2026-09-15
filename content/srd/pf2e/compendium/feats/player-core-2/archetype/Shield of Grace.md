@@ -15,8 +15,8 @@ socialImage: og-image.png
 `Champion`
 
 - **Archetype**: Golden Legionnaire (Level 18)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/shield-warden|Shield Warden]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Shield Warden|Shield Warden]]
 
-You protect an ally with both your shield and your body. Whenever you use the [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] reaction to prevent damage to an ally, you can evenly split the remaining damage after the Shield Block between the ally and yourself.
+You protect an ally with both your shield and your body. Whenever you use the [[srd/pf2e/compendium/feats/player-core/general/Shield Block|Shield Block]] reaction to prevent damage to an ally, you can evenly split the remaining damage after the Shield Block between the ally and yourself.
 
 *Source: Player Core 2 p. 99*

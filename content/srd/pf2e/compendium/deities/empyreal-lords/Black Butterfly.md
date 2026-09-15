@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: Study the stars, notice moments of silence, perform anonymous acts of kindness
 - **Anathema**: Disrupt another’s meditation, interrupt tranquil moments, play noisy or discordant music
 - **Area of Concern**: Distance, silence, space
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/cosmic-caravan|Cosmic Caravan]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Cosmic Caravan|Cosmic Caravan]]
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Dexterity or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/starknife|Starknife]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Starknife|Starknife]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/domains#Star|Star]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/Domains#Star|Star]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/penumbral-shroud|Penumbral Shroud]]
+[[srd/pf2e/compendium/spells/rank-1/Penumbral Shroud|Penumbral Shroud]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/blur|Blur]]
+[[srd/pf2e/compendium/spells/rank-2/Blur|Blur]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/flicker|Flicker]]
+[[srd/pf2e/compendium/spells/rank-4/Flicker|Flicker]]
 
 *Source: Divine Mysteries p. 308*

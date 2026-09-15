@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Uncommon`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/alter-ego|Alter Ego]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/alter-ego-dedication|Alter Ego Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Alter Ego|Alter Ego]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Alter Ego Dedication|Alter Ego Dedication]]
 
 Knowing how someone thinks makes it much easier to know where they'll be, or even replace them altogether. You can cast mind probe as an innate occult spell once per day, using your class DC or spell DC, whichever is higher.
 

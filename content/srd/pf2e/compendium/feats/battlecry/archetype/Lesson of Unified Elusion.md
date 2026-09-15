@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Fortune`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/iridian-choirmaster|Iridian Choirmaster]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/iridian-choirmaster-dedication|Iridian Choirmaster Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Iridian Choirmaster|Iridian Choirmaster]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Iridian Choirmaster Dedication|Iridian Choirmaster Dedication]]
 
 You and your student react as one to common threats. When you and your student are both targeted by the same effect that requires a Reflex saving throw, you and your student take the better of each of your die rolls for the save. You each still add your own Reflex save modifier to the die result.
 

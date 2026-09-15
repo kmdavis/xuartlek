@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Champion`  `Flourish`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/faithful-steed|Faithful Steed]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Faithful Steed|Faithful Steed]]
 - **Requirements**: An enemy triggered your champion's reaction since the end of your last turn.
 
-Those who defy your cause feel the powerful attacks of your mount. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] to order your steed to Strike the enemy who triggered your champion's reaction. Your steed's unarmed attack deals one extra damage die for this Strike. If the Strike hits, the target is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
+Those who defy your cause feel the powerful attacks of your mount. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] to order your steed to Strike the enemy who triggered your champion's reaction. Your steed's unarmed attack deals one extra damage die for this Strike. If the Strike hits, the target is knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]].
 
 *Source: Battlecry! p. 71*

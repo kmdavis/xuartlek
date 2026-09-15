@@ -28,10 +28,10 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; darkvision, scent (imprecise) 30 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +4, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +6"
 abilityMods: [4, 2, 3, -1, 1, 0]
 abilities_top:
   - name: "Items"
@@ -47,16 +47,16 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ bastard sword +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d12]]) __Damage__ 1d8+4 piercing"
+    desc: "⬻ bastard sword +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Two-Hand|two-hand d12]]) __Damage__ 1d8+4 piercing"
   - name: "Melee"
-    desc: "⬻ fist +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]]) __Damage__ 1d4+4 bludgeoning"
+    desc: "⬻ fist +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]]) __Damage__ 1d4+4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ javelin +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 30 feet]]) __Damage__ 1d6+4 piercing"
+    desc: "⬻ javelin +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 30 feet]]) __Damage__ 1d6+4 piercing"
 abilities_bot:
   - name: "Bushwhack"
-    desc: "⬻ The bugbear prowler Strides up to 10 feet and attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] a creature they're [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] by. If they succeed, they also deal fist damage to that creature."
+    desc: "⬻ The bugbear prowler Strides up to 10 feet and attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] a creature they're [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]] by. If they succeed, they also deal fist damage to that creature."
   - name: "Mauler"
-    desc: "The bugbear prowler gains a +3 circumstance bonus to damage rolls against creatures they have [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]."
+    desc: "The bugbear prowler gains a +3 circumstance bonus to damage rolls against creatures they have [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]]."
 sourcebook: "_Monster Core_, page 47."
 ```
 

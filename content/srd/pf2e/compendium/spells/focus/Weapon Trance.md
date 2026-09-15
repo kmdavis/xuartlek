@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Focus`  `Oracle`  `Uncommon`
 
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Battle|Battle]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Battle|Battle]]
 - **Duration**: 1 minute
 
 The serenity of violence fills your mind, giving you a heightened sense of knowing exactly where your weapons need to be. For the duration, your proficiency with martial weapons is equal to your proficiency with simple weapons.

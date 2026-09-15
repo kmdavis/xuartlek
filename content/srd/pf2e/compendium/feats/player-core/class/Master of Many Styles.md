@@ -15,13 +15,13 @@ socialImage: og-image.png
 
 `Fighter`  `Monk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/classes/fighter|Fighter]] [[srd/pf2e/compendium/feats/player-core/class/opening-stance-fighter|Opening Stance (Fighter)]]; [[srd/pf2e/compendium/character/classes/monk|Monk]] [[srd/pf2e/compendium/feats/player-core-2/class/reflexive-stance|Reflexive Stance]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/classes/Fighter|Fighter]] [[srd/pf2e/compendium/feats/player-core/class/Opening Stance (Fighter)|Opening Stance (Fighter)]]; [[srd/pf2e/compendium/character/classes/Monk|Monk]] [[srd/pf2e/compendium/feats/player-core-2/class/Reflexive Stance|Reflexive Stance]]
 - **Trigger**: Your turn begins
 
 You move fluidly between stances, using your mastery of combat to always adopt the best tactics. You use an action with the stance trait.
 
 ### Master of Many Styles leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/immortal-techniques|Immortal Techniques]], [[srd/pf2e/compendium/feats/player-core-2/class/qi-center|Qi Center]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Immortal Techniques|Immortal Techniques]], [[srd/pf2e/compendium/feats/player-core-2/class/Qi Center|Qi Center]]
 
 *Source: Player Core p. 150*

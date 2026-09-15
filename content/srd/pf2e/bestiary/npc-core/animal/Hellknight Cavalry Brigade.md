@@ -32,10 +32,10 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Diabolic|Diabolic]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/lore|Hell Lore]] +12, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +17, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +12, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/Lore|Hell Lore]] +12, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +17, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +12, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +12"
 abilityMods: [7, 1, 4, 2, 2, 3]
 ac: 27
 armorclass:
@@ -44,10 +44,10 @@ armorclass:
 hp: 135
 health:
   - name: "HP"
-    desc: "135 (4 segments); __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] 5, slashing 5; __Weaknesses__ area damage 8, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 8"
+    desc: "135 (4 segments); __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] 5, slashing 5; __Weaknesses__ area damage 8, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 8"
 abilities_mid:
   - name: "Mounted Troop"
-    desc: "Effects that target only [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]] or only [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoids]] might not work on the Hellknight cavalry brigade, subject to the GM's discretion."
+    desc: "Effects that target only [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animals]] or only [[srd/pf2e/compendium/rules-elements/traits/player-core/Humanoid|humanoids]] might not work on the Hellknight cavalry brigade, subject to the GM's discretion."
   - name: "Troop Defenses"
     desc: ""
 speed: "40 feet; trailblazing stride, troop movement"

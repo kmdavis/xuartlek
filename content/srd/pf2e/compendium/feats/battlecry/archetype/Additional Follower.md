@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/captain|Captain]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/captain-dedication|Captain Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Captain|Captain]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Captain Dedication|Captain Dedication]]
 
-Another follower joins you in your travels. They are a novice follower that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]] trait. 
+Another follower joins you in your travels. They are a [novice follower](https://2e.aonprd.com/Followers.aspx) that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Minion|minion]] trait. 
 
 **Special** You can select this feat more than once, gaining an additional follower each time, to a maximum of four total followers.
 

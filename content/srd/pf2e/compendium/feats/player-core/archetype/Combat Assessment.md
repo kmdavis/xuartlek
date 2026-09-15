@@ -21,6 +21,6 @@ You make a telegraphed attack to learn about your foe. Make a melee Strike. On a
 
 ### Combat Assessment leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/class/observational-analysis|Observational Analysis]]
+[[srd/pf2e/compendium/feats/battlecry/class/Observational Analysis|Observational Analysis]]
 
 *Source: Player Core p. 140*

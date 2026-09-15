@@ -17,8 +17,8 @@ socialImage: og-image.png
 `Divine`  `Fortune`  `Minotaur`
 
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/character/heritages#Ghost Bull Minotaur|Ghost Bull Minotaur]] heritage
-- **Trigger**: You attempt a check that would be subject to a [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] effect.
+- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Ghost Bull Minotaur|Ghost Bull Minotaur]] heritage
+- **Trigger**: You attempt a check that would be subject to a [[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|misfortune]] effect.
 
 You can harness the spiritual connection in your blood, allowing you to shift the negative threads of fate. You negate the misfortune effect and gain a +2 circumstance bonus to the triggering check.
 

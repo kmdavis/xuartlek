@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Archetype`  `Manipulate`  `Poison`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/living-vessel|Living Vessel]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/living-vessel-dedication|Living Vessel Dedication]]; your entity is a [[srd/pf2e/compendium/rules-elements/traits/player-core/demon|demon]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Living Vessel|Living Vessel]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Living Vessel Dedication|Living Vessel Dedication]]; your entity is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Demon|demon]]
 
 Most of the changes from the demon within you have harmed you so far, but you've found a way to expel some of the corruption within you to poison others. Until the beginning of your next turn, you and your weapons are covered in toxic sludge or another similar manifestation of the demonic corruption; your melee Strikes deal an additional 1d6 poison damage, and each time a creature hits you with a melee unarmed attack or otherwise touches you, it takes 1d6 poison damage.
 

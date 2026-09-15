@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Halfling`
 
-Whether keeping your balance or climbing, your feet easily find purchase. If you roll a success on an [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] check to Balance or an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to Climb, you get a critical success instead. You're not [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] when you attempt to Balance or Climb.
+Whether keeping your balance or climbing, your feet easily find purchase. If you roll a success on an [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] check to Balance or an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to Climb, you get a critical success instead. You're not [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] when you attempt to Balance or Climb.
 
 *Source: Player Core p. 60*

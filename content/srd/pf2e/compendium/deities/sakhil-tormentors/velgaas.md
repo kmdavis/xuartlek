@@ -24,23 +24,23 @@ Intelligence or Charisma
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/spiked-chain|Spiked Chain]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/Spiked Chain|Spiked Chain]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/domains#Passion|Passion]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/Domains#Passion|Passion]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Magic|Magic]], [[srd/pf2e/compendium/character/domains#Naga|Naga]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Magic|Magic]], [[srd/pf2e/compendium/character/Domains#Naga|Naga]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/charm|Charm]]
+[[srd/pf2e/compendium/spells/rank-1/Charm|Charm]]
 
 - **3rd**
 Distracting Chatter
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/subconscious-suggestion|Subconscious Suggestion]]
+[[srd/pf2e/compendium/spells/rank-5/Subconscious Suggestion|Subconscious Suggestion]]
 
 *Source: Divine Mysteries p. 320*

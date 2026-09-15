@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Agile`  `Thrown`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/azlanti-pantheon/amaznen|Amaznen]], [[srd/pf2e/compendium/deities/other-gods/brigh|Brigh]], [[srd/pf2e/compendium/deities/dwarven-gods/droskar|Droskar]], Gaasham, [[srd/pf2e/compendium/deities/dead-or-missing-deities/grundinnar|Grundinnar]], Keepers of the Hearth, [[srd/pf2e/compendium/deities/dwarven-gods/kols|Kols]], [[srd/pf2e/compendium/deities/other-gods/nivi-rhombodazzle|Nivi Rhombodazzle]], Pillars of Knowledge, [[srd/pf2e/compendium/deities/monitor-demigods/ssilameshnik|Ssila’meshnik]], [[srd/pf2e/compendium/deities/giant-gods/yrmidar|Yrmidar]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/azlanti-pantheon/Amaznen|Amaznen]], [[srd/pf2e/compendium/deities/other-gods/Brigh|Brigh]], [[srd/pf2e/compendium/deities/dwarven-gods/Droskar|Droskar]], Gaasham, [[srd/pf2e/compendium/deities/dead-or-missing-deities/Grundinnar|Grundinnar]], Keepers of the Hearth, [[srd/pf2e/compendium/deities/dwarven-gods/Kols|Kols]], [[srd/pf2e/compendium/deities/other-gods/Nivi Rhombodazzle|Nivi Rhombodazzle]], Pillars of Knowledge, [[srd/pf2e/compendium/deities/monitor-demigods/Ssila’meshnik|Ssila’meshnik]], [[srd/pf2e/compendium/deities/giant-gods/Yrmidar|Yrmidar]]
 - **Price**: 3 sp
 - **Damage**: 1d6 B
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Hammer
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Hammer|Hammer]]
 
 This smaller version of the warhammer has a wooden or metal shaft ending in a metal head. Unlike its heavier cousin, it is light enough to throw.
 

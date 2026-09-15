@@ -30,10 +30,10 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +12, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +12, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +12, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] +12"
 abilityMods: [1, 5, 2, 0, 1, 1]
 ac: 20
 armorclass:
@@ -42,16 +42,16 @@ armorclass:
 hp: 60
 health:
   - name: "HP"
-    desc: "60 (4 segments); __Weaknesses__ area damage 4, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 4"
+    desc: "60 (4 segments); __Weaknesses__ area damage 4, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 4"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
 speed: "30 feet; troop movement"
 abilities_bot:
   - name: "Dogpile"
-    desc: "The goblin rabble engage in as coordinated an attack as they can with their dogslicers, attacking each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] (DC 18 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). The damage depends on the number of actions. A creature who critically fails their save is also knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. ⬻ 1d6 slashing damage ⬺ 2d6+4 slashing damage ⬽ 2d6+7 slashing damage"
+    desc: "The goblin rabble engage in as coordinated an attack as they can with their dogslicers, attacking each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] (DC 18 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save). The damage depends on the number of actions. A creature who critically fails their save is also knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]. ⬻ 1d6 slashing damage ⬺ 2d6+4 slashing damage ⬽ 2d6+7 slashing damage"
   - name: "Hobble Pursuit"
-    desc: "⬺ The goblin rabble hamstring and hobble as many enemies as possible. Each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] must attempt a DC 18 Reflex save."
+    desc: "⬺ The goblin rabble hamstring and hobble as many enemies as possible. Each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] must attempt a DC 18 Reflex save."
   - name: "Critical Success"
     desc: "The creature is unaffected."
   - name: "Success"

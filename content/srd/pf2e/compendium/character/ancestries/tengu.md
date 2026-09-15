@@ -33,7 +33,7 @@ The greatest divide in tengu society is between tengu remaining in their ancestr
 
 ### Alignment and Religion
 
-Tengu often follow the faith of the region in which they were raised, though the tengu ancestral deity is the storm god [[srd/pf2e/compendium/deities/tian-gods/hei-feng|Hei Feng]]. Before their diaspora, tengu practiced a syncretic faith that blended a polytheistic worship of the deities responsible for creating the natural world. As tengu folklore posits that tengu long ago descended from the night sky on shooting stars to rest upon Golarion's highest peaks, animist rites were practiced on mountains and other great natural features.
+Tengu often follow the faith of the region in which they were raised, though the tengu ancestral deity is the storm god [[srd/pf2e/compendium/deities/tian-gods/Hei Feng|Hei Feng]]. Before their diaspora, tengu practiced a syncretic faith that blended a polytheistic worship of the deities responsible for creating the natural world. As tengu folklore posits that tengu long ago descended from the night sky on shooting stars to rest upon Golarion's highest peaks, animist rites were practiced on mountains and other great natural features.
 
  **Popular Edicts** protect tengu traditions, adopt the lessons of other cultures, seek out natural wonders
  **Popular Anathema** lose control of your emotions
@@ -57,18 +57,18 @@ Roosted tengu tend toward more traditional names, while migrating tengu readily 
 
 #### Languages
 
-[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
 Tengu
 
-Additional languages equal to your Intelligence modifier (if positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if positive). Choose from [[srd/pf2e/compendium/rules-elements/Languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/Languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/Languages#Halfling|Halfling]], [[srd/pf2e/compendium/rules-elements/Languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 #### Low-Light Vision
 
-You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition due to dim light.
 
 #### Sharp Beak
 
-With your sharp beak, you are never without a weapon. You have a beak [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack that deals 1d6 piercing damage. Your beak is in the brawling weapon group and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] traits.
+With your sharp beak, you are never without a weapon. You have a beak [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack that deals 1d6 piercing damage. Your beak is in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] weapon group and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] traits.
 
 *Source: Player Core 2 p. 32*

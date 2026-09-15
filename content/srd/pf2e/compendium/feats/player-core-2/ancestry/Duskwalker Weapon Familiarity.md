@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Duskwalker`
 
-You have familiarity with the [[srd/pf2e/compendium/equipment/weapons/club/bo-staff|bo staff]], [[srd/pf2e/compendium/equipment/weapons/bow/longbow|longbow]], [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]], [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|scythe]], and [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]—for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
+You have familiarity with the [[srd/pf2e/compendium/equipment/weapons/club/Bo Staff|bo staff]], [[srd/pf2e/compendium/equipment/weapons/bow/Longbow|longbow]], [[srd/pf2e/compendium/equipment/weapons/bow/Composite Longbow|composite longbow]], [[srd/pf2e/compendium/equipment/weapons/polearm/Scythe|scythe]], and [[srd/pf2e/compendium/equipment/weapons/club/Staff|staff]]—for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 
  At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 

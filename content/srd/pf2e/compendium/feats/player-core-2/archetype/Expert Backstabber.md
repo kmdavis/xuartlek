@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/assassin|Assassin]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/assassin-dedication|Assassin Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Assassin|Assassin]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Assassin Dedication|Assassin Dedication]]
 
-You excel at quickly dispatching your foes. When you Strike an [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] foe with a weapon that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/backstabber|backstabber]] weapon trait, you deal 2 extra precision damage instead of 1. If the weapon is a _+3 weapon_, you deal 4 extra precision damage instead of 2.
+You excel at quickly dispatching your foes. When you Strike an [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] foe with a weapon that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Backstabber|backstabber]] weapon trait, you deal 2 extra precision damage instead of 1. If the weapon is a _+3 weapon_, you deal 4 extra precision damage instead of 2.
 
 *Source: Player Core 2 p. 186*

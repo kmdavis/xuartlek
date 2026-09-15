@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Manipulate`  `Uncommon`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Trigger**: You’re the target of a spell you’re aware of.
 
 You attempt to counteract the triggering spell. If the spell would be counteracted, it instead continues with the caster as a target instead of you. _Spell riposte_ can't affect spells that aren't targeted (such as area spells).

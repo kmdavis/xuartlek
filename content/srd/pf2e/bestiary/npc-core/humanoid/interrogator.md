@@ -28,14 +28,14 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "+13"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +13, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +13, [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] +13"
 abilityMods: [4, 3, 1, 0, 2, 2]
 abilities_top:
   - name: "Items"
-    desc: "Dart (5), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|Healer's Toolkit]], leather apron (functions as [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]), _+1 [[srd/pf2e/compendium/equipment/weapons/knife/war-razor|war razor]]_"
+    desc: "Dart (5), [[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit|Healer's Toolkit]], leather apron (functions as [[srd/pf2e/compendium/equipment/Armor#Leather Armor|leather armor]]), _+1 [[srd/pf2e/compendium/equipment/weapons/knife/War Razor|war razor]]_"
 ac: 22
 armorclass:
   - name: "AC"
@@ -47,22 +47,22 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _war razor_ +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/backstabber|Backstabber]], [[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 1d4+10 slashing plus torment"
+    desc: "⬻ _war razor_ +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Backstabber|Backstabber]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]]) __Damage__ 1d4+10 slashing plus torment"
   - name: "Melee"
-    desc: "⬻ fist +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+10 bludgeoning plus torment"
+    desc: "⬻ fist +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+10 bludgeoning plus torment"
   - name: "Ranged"
-    desc: "⬻ dart +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d4+7 piercing plus torment"
+    desc: "⬻ dart +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 20 feet]]) __Damage__ 1d4+7 piercing plus torment"
 abilities_bot:
   - name: "Blood and Fear"
-    desc: "⬺ The interrogator Strikes with a slashing melee weapon. If they hit and deal damage, the target takes an additional 1d4 persistent bleed damage and is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]] (or 2d4 persistent bleed damage and frightened 2 on a critical hit). Each of the interrogator's other enemies in a 30-foot emanation around the target that witnesses the bloodshed must succeed at a DC 19 Will save or be frightened 1. The frightened part of this ability is an [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] effect."
+    desc: "⬺ The interrogator Strikes with a slashing melee weapon. If they hit and deal damage, the target takes an additional 1d4 persistent bleed damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened 1]] (or 2d4 persistent bleed damage and frightened 2 on a critical hit). Each of the interrogator's other enemies in a 30-foot emanation around the target that witnesses the bloodshed must succeed at a DC 19 Will save or be frightened 1. The frightened part of this ability is an [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]] effect."
   - name: "Hobble"
     desc: "⬻"
   - name: "Requirements"
-    desc: "A creature is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] by the interrogator"
+    desc: "A creature is [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] by the interrogator"
   - name: "Effect"
-    desc: "One creature grabbed or restrained by the interrogator takes 2d6 bludgeoning damage with a DC 23 basic Fortitude save. If the creature fails its save, it also gains a condition of the interrogator's choice: [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 2]] for 1 minute, [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 2]] for 1 minute, or [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]]."
+    desc: "One creature grabbed or restrained by the interrogator takes 2d6 bludgeoning damage with a DC 23 basic Fortitude save. If the creature fails its save, it also gains a condition of the interrogator's choice: [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy 2]] for 1 minute, [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled 2]] for 1 minute, or [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained 1]]."
   - name: "Torment"
-    desc: "The interrogator's Strikes deal an additional 1d8 mental damage to [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] creatures."
+    desc: "The interrogator's Strikes deal an additional 1d8 mental damage to [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] creatures."
 sourcebook: "_NPC Core_, page 158."
 ```
 

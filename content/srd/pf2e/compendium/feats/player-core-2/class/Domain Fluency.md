@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Oracle`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/domain-acumen|Domain Acumen]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Domain Acumen|Domain Acumen]]
 
 You command a deep understanding of the domains related to your mystery. Choose one of the domains associated with your mystery for which you have an initial domain spell. You gain an advanced domain spell from that domain, which you cast as a revelation spell.
 

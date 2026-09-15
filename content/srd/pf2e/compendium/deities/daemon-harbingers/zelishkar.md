@@ -24,23 +24,23 @@ Dexterity or Constitution
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/ranseur|Ranseur]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/Ranseur|Ranseur]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Fire|Fire]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Star|Star]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Star|Star]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/breathe-fire|Breathe Fire]]
+[[srd/pf2e/compendium/spells/rank-1/Breathe Fire|Breathe Fire]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/fire-shield|Fire Shield]]
+[[srd/pf2e/compendium/spells/rank-4/Fire Shield|Fire Shield]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/fiery-body|Fiery Body]]
+[[srd/pf2e/compendium/spells/rank-7/Fiery Body|Fiery Body]]
 
 *Source: Divine Mysteries p. 302*

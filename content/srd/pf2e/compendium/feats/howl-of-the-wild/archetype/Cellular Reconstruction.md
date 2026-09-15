@@ -15,11 +15,11 @@ socialImage: og-image.png
 
 `Archetype`  `Healing`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ostilli-host|Ostilli Host]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ostilli Host|Ostilli Host]]
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/ostilli-host-dedication|Ostilli Host Dedication]]
-- **Trigger**: You fail a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Recovery Checks|recovery check]] while [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]].
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Ostilli Host Dedication|Ostilli Host Dedication]]
+- **Trigger**: You fail a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Recovery Checks|recovery check]] while [[srd/pf2e/compendium/rules-elements/Conditions#Dying|dying]].
 
-Your ostilli takes control of your nervous system and kicks your cellular functions into overdrive when you're about to die. You regain Hit Points equal to your level. For the next 2 rounds, at the start of your turn, you regain Hit Points equal to half your level. The first time you regain Hit Points at the start of your turn, you reduce your [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] condition by 1.
+Your ostilli takes control of your nervous system and kicks your cellular functions into overdrive when you're about to die. You regain Hit Points equal to your level. For the next 2 rounds, at the start of your turn, you regain Hit Points equal to half your level. The first time you regain Hit Points at the start of your turn, you reduce your [[srd/pf2e/compendium/rules-elements/Conditions#Wounded|wounded]] condition by 1.
 
 *Source: Howl of the Wild p. 71*

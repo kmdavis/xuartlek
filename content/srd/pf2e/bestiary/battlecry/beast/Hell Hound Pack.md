@@ -34,10 +34,10 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; darkvision, scent (imprecise) 60 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]]; can't speak any language"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Diabolic|Diabolic]]; can't speak any language"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +15, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +16, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +16"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +15, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +16, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +16"
 abilityMods: [6, 4, 3, -2, 3, -2]
 ac: 26
 armorclass:
@@ -46,7 +46,7 @@ armorclass:
 hp: 135
 health:
   - name: "HP"
-    desc: "135 (4 segments); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Weaknesses__ area damage 8, [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 10, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 8"
+    desc: "135 (4 segments); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]]; __Weaknesses__ area damage 8, [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]] 10, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 8"
 abilities_mid:
   - name: "Hellish Revenge"
     desc: "⬲"
@@ -59,13 +59,13 @@ abilities_mid:
 speed: "40 feet; troop movement"
 abilities_bot:
   - name: "Hellfire Breath"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]]) The hell hounds in the pack combine their efforts to bathe the battlefield in hellish flame, dealing 2d10 fire damage to all creatures in two 15- foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cones]] (DC 25 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save) that can't overlap. The hell hound pack can't use Hellfire Breath again for 1d4 rounds. If the pack would take [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] damage or be targeted by a fire effect, its Hellfire Breath recharges."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|Unholy]]) The hell hounds in the pack combine their efforts to bathe the battlefield in hellish flame, dealing 2d10 fire damage to all creatures in two 15- foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Cone|cones]] (DC 25 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save) that can't overlap. The hell hound pack can't use Hellfire Breath again for 1d4 rounds. If the pack would take [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] damage or be targeted by a fire effect, its Hellfire Breath recharges."
   - name: "Infernal Mauling"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|Unholy]])"
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The pack tears into each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] with their flaming jaws (DC 23 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). The damage dealt depends on the number of actions. ⬻ 1d4 piercing damage plus 1d6 fire damage ⬺ 1d8+7 piercing damage plus 2d6 fire damage ⬽ 2d8+7 piercing damage plus 2d6 fire damage"
+    desc: "The pack tears into each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] with their flaming jaws (DC 23 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save). The damage dealt depends on the number of actions. ⬻ 1d4 piercing damage plus 1d6 fire damage ⬺ 1d8+7 piercing damage plus 2d6 fire damage ⬽ 2d8+7 piercing damage plus 2d6 fire damage"
 sourcebook: "_Battlecry!_, page 183."
 ```
 

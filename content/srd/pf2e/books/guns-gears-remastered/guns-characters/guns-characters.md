@@ -1,6 +1,7 @@
 ---
 title: "Guns Characters"
 aliases: ["Guns Characters"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Guns & Gears (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1646"
 citation: "Guns & Gears (Remastered) pg. 103"
-socialImage: og-image.png
 ---
 
 # Guns Characters
@@ -34,4 +34,4 @@ The most notable region of Arcadia to produce firearms and firearm wielders is t
 
 ## Contents
 
-- [[srd/pf2e/books/guns-gears-remastered/guns-characters/character-options|Character Options]]
+- [[srd/pf2e/books/guns-gears-remastered/guns-characters/Character Options|Character Options]]

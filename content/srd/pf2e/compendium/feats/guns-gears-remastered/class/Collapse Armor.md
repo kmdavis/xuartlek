@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Inventor`  `Manipulate`  `Modification`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/innovations#Armor|armor innovation]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Innovations#Armor|armor innovation]]
 - **Requirements**: You are wearing your armor innovation, or holding it in both hands in its compact form (see text).
 
 You've modified your armor innovation to collapse into a more compact form so you can don or remove it in an instant. If you’re wearing your innovation when you Collapse your Armor, you remove it instantly, and it compresses into its compact form, after which it latches onto your body, typically by attaching to a belt, bandoleer, or other convenient carrying surface as a nondescript satchel. If your armor is stowed and carried on your person in its compact form when you take this action, it unfolds back into its armor form onto your body.

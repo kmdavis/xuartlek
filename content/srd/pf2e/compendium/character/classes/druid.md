@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 You'll see the following key term in many druid class features.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
 
 ### Roleplaying the Druid
 
@@ -53,7 +53,7 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 #### Skills
 
-Trained in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+Trained in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
  Trained in one skill determined by your druidic order
  Trained in a number of additional skills equal to 2 plus your Intelligence modifier
 
@@ -112,7 +112,7 @@ In addition to what you get from your class at 1st level, you have four free boo
 
 The power of the wild world flows through you. You are a spellcaster and can cast spells of the primal tradition using the Cast a Spell activity (see Casting Spells). As a druid, your spellcasting incantations might be pleas to the environment around you or the invocation of ancient vows; your hands might sway like willows or curl into clawlike shapes as your gestures direct your magic.
 
- At 1st level, you can prepare two 1st-rank spells and five cantrips each morning from the common spells on the primal spell list, or from other primal spells to which you gain access and learn via Learn a Spell. Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare each day is called your spell slots.
+ At 1st level, you can prepare two 1st-rank spells and five cantrips each morning from the common spells on the [primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4) spell list, or from other primal spells to which you gain access and learn via Learn a Spell. Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare each day is called your spell slots.
 
  As you increase in level as a druid, the number of spells you can prepare each day increases, as does the highest rank of spell you can cast, as shown in the Druid Spells per Day table.
 
@@ -130,7 +130,7 @@ The power of the wild world flows through you. You are a spellcaster and can cas
 
 As stewards of the natural order, druids find affronts to nature anathema. If you repeatedly perform these acts, you lose your magical abilities from the druid class, including your druid spellcasting and the benefits of your order. These abilities can be regained only if you demonstrate your repentance with an _atone_ ritual. The following acts are anathema to all druids.
 
- **Anathema** despoil natural places, consume more natural resources than you require to live comfortably, teach the [[srd/pf2e/compendium/rules-elements/languages#Wildsong|Wildsong]] to non-druids.
+ **Anathema** despoil natural places, consume more natural resources than you require to live comfortably, teach the [[srd/pf2e/compendium/rules-elements/Languages#Wildsong|Wildsong]] to non-druids.
 
  Your choice of druidic order adds further anathema, as detailed in the order's entry
 
@@ -148,18 +148,24 @@ Upon becoming a druid, you align yourself with a druidic order, which grants you
 
 #### Voice of Nature
 
-You gain your choice of the [[srd/pf2e/compendium/feats/player-core/archetype/animal-empathy-druid|Animal Empathy]] or [[srd/pf2e/compendium/feats/player-core/class/plant-empathy|Plant Empathy]] druid feat.
+You gain your choice of the [[srd/pf2e/compendium/feats/player-core/archetype/Animal Empathy (Druid)|Animal Empathy]] or [[srd/pf2e/compendium/feats/player-core/class/Plant Empathy|Plant Empathy]] druid feat.
 
 #### Wildsong
 
-You know the [[srd/pf2e/compendium/rules-elements/languages#Wildsong|Wildsong]], a secret language known only within druid orders, in addition to any languages you know through your ancestry. The Wildsong is a melodic and tonal language sounding more like animal calls than a spoken tongue, and its alphabet involves fractals and spirals, like the arrangement of a seashell's chambers, a snowflake's crystals, or a fern's fronds. Teaching the Wildsong to non-druids is anathema.
+You know the [[srd/pf2e/compendium/rules-elements/Languages#Wildsong|Wildsong]], a secret language known only within druid orders, in addition to any languages you know through your ancestry. The Wildsong is a melodic and tonal language sounding more like animal calls than a spoken tongue, and its alphabet involves fractals and spirals, like the arrangement of a seashell's chambers, a snowflake's crystals, or a fern's fronds. Teaching the Wildsong to non-druids is anathema.
 
 | | |
 | --- | --- |
-| **Druid Feats** | At 2nd level and every even-numbered level, you gain a druid class feat. |
-| **Skill Feats** | At 2nd level and every 2 levels thereafter, you gain a skill feat. You must be trained or better in the corresponding skill to select a skill feat. |
+| **Druid Feats** | At 2nd level and every even-numbered level, you gain a [druid class feat](https://2e.aonprd.com/Feats.aspx?Traits=52). |
+
+#### Skill Feats
+
+At 2nd level and every 2 levels thereafter, you gain a [skill feat](https://2e.aonprd.com/Feats.aspx?Traits=144). You must be trained or better in the corresponding skill to select a skill feat.
+
+| | |
+| --- | --- |
 | **Perception Expertise** | You remain alert to threats around you. Your proficiency rank for Perception increases to expert. |
-| **General Feats** | At 3rd level and every 4 levels thereafter, you gain a general feat. |
+| **General Feats** | At 3rd level and every 4 levels thereafter, you gain a [general feat](https://2e.aonprd.com/Feats.aspx?Traits=78). |
 | **Fortitude Expertise** | Adventures have made your physique more hardy. Your proficiency rank for Fortitude saves increases to expert. |
 
 #### Skill Increases

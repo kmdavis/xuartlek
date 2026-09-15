@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Druid`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/wind-caller|Wind Caller]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Wind Caller|Wind Caller]]
 
-You can invoke nature’s fury upon your foes. You gain the [[srd/pf2e/compendium/spells/focus/storm-lord|_storm lord_]] order spell.
+You can invoke nature’s fury upon your foes. You gain the [[srd/pf2e/compendium/spells/focus/Storm Lord|_storm lord_]] order spell.
 
 *Source: Player Core p. 135*

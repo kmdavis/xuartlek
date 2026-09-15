@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Swashbuckler`
 
-Finishing a foe maintains your swagger. You gain panache whenever your [[srd/pf2e/compendium/rules-elements/traits/player-core-2/finisher|finisher]] brings a target to 0 HP.
+Finishing a foe maintains your swagger. You gain panache whenever your [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Finisher|finisher]] brings a target to 0 HP.
 
 *Source: Player Core 2 p. 165*

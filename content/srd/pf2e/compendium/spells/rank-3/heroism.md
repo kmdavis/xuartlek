@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Mental`
 
-- **Traditions**: Divine, Occult
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Aesir|Aesir]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Duration**: 10 minutes

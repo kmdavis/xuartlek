@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Orc`
 
-In combat, you favor the brutal weapons that are traditional for your orc ancestors. You gain access to all uncommon weapons with the [[srd/pf2e/compendium/rules-elements/traits/player-core/orc|orc]] trait. You have familiarity with weapons with the orc trait plus the falchion and greataxe—for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
+In combat, you favor the brutal weapons that are traditional for your orc ancestors. You gain access to all uncommon weapons with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Orc|orc]] trait. You have familiarity with weapons with the orc trait plus the falchion and greataxe—for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 
 At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Alchemist`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/invigorating-elixir|Invigorating Elixir]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Invigorating Elixir|Invigorating Elixir]]
 
-Choose physical invigoration or mental invigoration, and add the listed conditions to those you can choose for an invigorating elixir you create to counteract: **Physical Invigoration** [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]], [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]]; **Mental Invigoration** [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]], [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]], [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]], [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]].
+Choose physical invigoration or mental invigoration, and add the listed conditions to those you can choose for an invigorating elixir you create to counteract: **Physical Invigoration** [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]], [[srd/pf2e/compendium/rules-elements/Conditions#Deafened|deafened]], [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]]; **Mental Invigoration** [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]], [[srd/pf2e/compendium/rules-elements/Conditions#Controlled|controlled]], [[srd/pf2e/compendium/rules-elements/Conditions#Fleeing|fleeing]], [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]].
 
 **Special** You can select this feat a second time to choose a different type of invigoration and add its options to those you can choose.
 

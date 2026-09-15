@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Ratfolk`
 
-Years of experience among ratfolk communities have made you nimble, and you've learned to run and hide when enemies threaten. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] and [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
+Years of experience among ratfolk communities have made you nimble, and you've learned to run and hide when enemies threaten. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] and [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
 
- You also gain the [[srd/pf2e/compendium/feats/player-core/skill/additional-lore|Additional Lore]] general feat for [[srd/pf2e/compendium/rules-elements/skills/lore|Ratfolk Lore]].
+ You also gain the [[srd/pf2e/compendium/feats/player-core/skill/Additional Lore|Additional Lore]] general feat for [[srd/pf2e/compendium/rules-elements/skills/Lore|Ratfolk Lore]].
 
 *Source: Player Core 2 p. 30*

@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Kineticist`
 
-You can sustain yourself on a single drop of elemental dew or the slightest spark from the [[srd/pf2e/compendium/gm/planes#Plane of Fire|Plane of Fire]]. You gain a +2 status bonus to saving throws against poisons, [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]], and effects that would make you [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]]. You don't need to breathe, eat, or sleep, though you must still take a full night's rest every 24 hours to be able to make your daily preparations. During this time, you remain awake and alert, but you must spend the time meditating or attuning to your kinetic gate rather than engaging in other complex activities. Each kineticist attunes in their own individual way.
+You can sustain yourself on a single drop of elemental dew or the slightest spark from the [[srd/pf2e/compendium/gm/Planes#Plane of Fire|Plane of Fire]]. You gain a +2 status bonus to saving throws against poisons, [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]], and effects that would make you [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]]. You don't need to breathe, eat, or sleep, though you must still take a full night's rest every 24 hours to be able to make your daily preparations. During this time, you remain awake and alert, but you must spend the time meditating or attuning to your kinetic gate rather than engaging in other complex activities. Each kineticist attunes in their own individual way.
 
 ### Nourishing Gate leads to...
 
-[[srd/pf2e/compendium/feats/rage-of-elements/class/elemental-apotheosis|Elemental Apotheosis]]
+[[srd/pf2e/compendium/feats/rage-of-elements/class/Elemental Apotheosis|Elemental Apotheosis]]
 
 *Source: Rage of Elements p. 23*

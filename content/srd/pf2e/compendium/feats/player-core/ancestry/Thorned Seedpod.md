@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Leshy`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/seedpod|Seedpod]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/Seedpod|Seedpod]]
 
 When your seedpods [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|strike]] a felling blow, they burst into viciously thorny vines. When you critically succeed at a seedpod Strike, vines twist and stab your foe, dealing 1d4 persistent piercing damage.
 

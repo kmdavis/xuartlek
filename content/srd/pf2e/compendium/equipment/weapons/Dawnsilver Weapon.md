@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 - **Usage**: varies by weapon
 - **Bulk**: varies by weapon
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/dawnsilver|Dawnsilver]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/Dawnsilver|Dawnsilver]]
 
 Dawnsilver weapons are slightly lighter than silver. A dawnsilver weapon is 1 Bulk lighter than normal (or light Bulk if its normal Bulk is 1, with no effect on a weapon that normally has light Bulk).
 

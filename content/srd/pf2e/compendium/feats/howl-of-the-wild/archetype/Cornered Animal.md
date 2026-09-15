@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/werecreature|Werecreature]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/werecreature-dedication|Werecreature Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Werecreature|Werecreature]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Werecreature Dedication|Werecreature Dedication]]
 - **Requirements**: You are in animal or hybrid form and are flanked.
 
-You become more dangerous when surrounded by enemies. You make [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] Strikes against two different creatures flanking you. The attacks take a –2 penalty if the unarmed weapon is not agile. Both attacks count toward your multiple attack penalty, but the penalty doesn't increase until after you've made both of them.
+You become more dangerous when surrounded by enemies. You make [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] Strikes against two different creatures flanking you. The attacks take a –2 penalty if the unarmed weapon is not agile. Both attacks count toward your multiple attack penalty, but the penalty doesn't increase until after you've made both of them.
 
 *Source: Howl of the Wild p. 78*

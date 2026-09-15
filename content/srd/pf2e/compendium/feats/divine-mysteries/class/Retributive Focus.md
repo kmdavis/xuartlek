@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Champion`
 
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/desperate-prayer|Desperate Prayer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Desperate Prayer|Desperate Prayer]]
 - **Requirements**: Your focus pool is currently empty.
 
 Your enemy’s offenses fuel your righteous power. When an enemy triggers your champion’s reaction, you regain 1 Focus Point.

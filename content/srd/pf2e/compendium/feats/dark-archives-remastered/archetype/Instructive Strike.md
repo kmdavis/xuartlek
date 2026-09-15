@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Thaumaturge`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/vindicator|Vindicator]] (Level 4)
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Vindicator|Vindicator]] (Level 4)
 
 You attack your foe and analyze how it reacts. Make a Strike. On a hit, you can immediately attempt a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] about the target. On a critical hit, you gain a +2 circumstance bonus to the check to Recall Knowledge.
 

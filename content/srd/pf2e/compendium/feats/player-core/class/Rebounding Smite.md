@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Cleric`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/channel-smite|Channel Smite]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Channel Smite|Channel Smite]]
 - **Trigger**: You miss with your Strike during Channel Smite
 
 The energy from your smite persists for a moment, allowing you to pass it to a new target. Cast the 1-action version of the harm or heal spell you expended, targeting a creature other than the target of your Strike.

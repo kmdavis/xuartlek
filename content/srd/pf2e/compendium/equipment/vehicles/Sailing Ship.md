@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 **Passengers** 10
 
-**Piloting Check** Sailing [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] (DC 26), [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] (DC 28), or [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] (DC 28)
+**Piloting Check** Sailing [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] (DC 26), [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] (DC 28), or [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] (DC 28)
 
 ---
 

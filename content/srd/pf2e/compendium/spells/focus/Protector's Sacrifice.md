@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Cleric`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 - **Trigger**: An ally within 30 feet takes damage
 - **Range**: 30 feet
 

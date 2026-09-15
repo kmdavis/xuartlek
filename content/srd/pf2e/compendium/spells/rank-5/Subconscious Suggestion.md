@@ -19,9 +19,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Incapacitation`  `Linguistic`  `Manipulate`  `Mental`  `Subtle`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: Cormion, [[srd/pf2e/compendium/deities/daemon-harbingers/corosbel|Corosbel]], [[srd/pf2e/compendium/deities/dwarven-gods/droskar|Droskar]], [[srd/pf2e/compendium/deities/other-gods/erecura|Erecura]], [[srd/pf2e/compendium/deities/azlanti-pantheon/lissala-deity-565|Lissala]], [[srd/pf2e/compendium/deities/archdevils/mephistopheles|Mephistopheles]], Nalinivati, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-veiled-voice|Nyarlathotep (The Veiled Voice)]], The Tides of Chaos, [[srd/pf2e/compendium/deities/infernal-dukes/titivilus|Titivilus]], [[srd/pf2e/compendium/deities/sakhil-tormentors/velgaas|Velgaas]]
-- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Bargains|Lesson of Bargains]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: Cormion, [[srd/pf2e/compendium/deities/daemon-harbingers/Corosbel|Corosbel]], [[srd/pf2e/compendium/deities/dwarven-gods/Droskar|Droskar]], [[srd/pf2e/compendium/deities/other-gods/Erecura|Erecura]], [[srd/pf2e/compendium/deities/azlanti-pantheon/Lissala-deity-565|Lissala]], [[srd/pf2e/compendium/deities/archdevils/Mephistopheles|Mephistopheles]], Nalinivati, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (The Veiled Voice)|Nyarlathotep (The Veiled Voice)]], The Tides of Chaos, [[srd/pf2e/compendium/deities/infernal-dukes/Titivilus|Titivilus]], [[srd/pf2e/compendium/deities/sakhil-tormentors/Velgaas|Velgaas]]
+- **Lesson**: [[srd/pf2e/compendium/character/Lessons#Lesson of Bargains|Lesson of Bargains]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

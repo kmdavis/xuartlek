@@ -18,12 +18,12 @@ socialImage: og-image.png
 - **Price**: 90 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/brawling/knuckle-duster|Knuckle Duster]]
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/brawling/Knuckle Duster|Knuckle Duster]]
 
-Acid drips from the [[srd/pf2e/bestiary/monster-core/animal/ankhrav|ankhrav]] mandibles protruding from this _[[srd/pf2e/compendium/equipment/runes/weapon-potency|+1]] [[srd/pf2e/compendium/equipment/weapons/brawling/knuckle-duster|knuckle duster]]_. Strikes with this weapon deal an additional 1 acid damage.
+Acid drips from the [[srd/pf2e/bestiary/monster-core/animal/Ankhrav|ankhrav]] mandibles protruding from this _[[srd/pf2e/compendium/equipment/runes/Weapon Potency|+1]] [[srd/pf2e/compendium/equipment/weapons/brawling/Knuckle Duster|knuckle duster]]_. Strikes with this weapon deal an additional 1 acid damage.
 
-**Activate—Caustic Jabs** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Effect** Until the end of your next turn, your [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strikes]] with the ankhrav duster deal an additional 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent acid damage]].
+**Activate—Caustic Jabs** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) **Frequency** once per hour; **Effect** Until the end of your next turn, your [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strikes]] with the ankhrav duster deal an additional 1d6 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent acid damage]].
 
-**Craft Requirements** The initial raw materials must include the mandibles of an [[srd/pf2e/bestiary/monster-core/animal/ankhrav|ankhrav]].
+**Craft Requirements** The initial raw materials must include the mandibles of an [[srd/pf2e/bestiary/monster-core/animal/Ankhrav|ankhrav]].
 
 *Source: Howl of the Wild p. 101*

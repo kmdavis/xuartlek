@@ -17,10 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Summoner`  `Teleportation`
 
-- **Trigger**: You and your eidolon are in a damaging effect’s area.
-
 You switch places with your eidolon. You each teleport to the other’s position.
 
-**Special** This feat has the trait matching your eidolon’s tradition ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]).
+**Special** This feat has the trait matching your eidolon’s tradition ([[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]]).
 
 *Source: Impossible Magic p. 83*

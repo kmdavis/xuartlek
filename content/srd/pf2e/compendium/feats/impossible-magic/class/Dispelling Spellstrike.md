@@ -17,6 +17,6 @@ socialImage: og-image.png
 - **Prerequisites**: [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Spellstrike|Spellstrike]]
 - **Requirements**: Your Spellstrike is charged.
 
-The spell you deliver tries to force out magic affecting your enemy. Make a Spellstrike. If it hits, you also attempt to [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] a single spell of your choice that is active on the target. The counteract rank is half your level rounded up, and the counteract check modifier is the standard modifier for counteracting with a spell (your Intelligence modifier plus your spellcasting proficiency bonus, plus any bonuses or penalties that specifically apply to counteract checks).
+The spell you deliver tries to force out magic affecting your enemy. Make a Spellstrike. If it hits, you also attempt to [[srd/pf2e/books/player-core/chapter-7-spells/Counteracting|counteract]] a single spell of your choice that is active on the target. The counteract rank is half your level rounded up, and the counteract check modifier is the standard modifier for counteracting with a spell (your Intelligence modifier plus your spellcasting proficiency bonus, plus any bonuses or penalties that specifically apply to counteract checks).
 
 *Source: Impossible Magic p. 25*

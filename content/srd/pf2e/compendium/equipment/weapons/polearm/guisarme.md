@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Reach`  `Trip`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/monitor-demigods/saloc|Saloc]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/monitor-demigods/Saloc|Saloc]]
 - **Price**: 2 gp
 - **Damage**: 1d10 S
 - **Bulk**: 2
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Polearm
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Polearm|Polearm]]
 
 This polearm bears a long, often one-sided, curved blade with a hook protruding from the blunt side of the blade, which can allow its wielder to trip opponents at a distance. Its shaft is usually 8 feet long.
 
@@ -32,6 +32,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/hells-judgement|Hell's Judgement]]
+[[srd/pf2e/compendium/equipment/weapons/Hell's Judgement|Hell's Judgement]], Sorshen's Sinuous Guisarme
 
 *Source: Player Core p. 278*

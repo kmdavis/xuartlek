@@ -17,11 +17,11 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Summon`  `Unholy`
 
-- **Tradition**: Divine
+- **Tradition**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2)
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 
-You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiend]] trait and whose level is 5 or lower to fight for you. The GM might determine your deity restricts the specific types of fiends you can summon in certain cases. For instance, archdevils typically allow their followers to summon devils, but not other fiends.
+You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Fiend|fiend]] trait and whose level is 5 or lower to fight for you. The GM might determine your deity restricts the specific types of fiends you can summon in certain cases. For instance, archdevils typically allow their followers to summon devils, but not other fiends.
 
 ---
 **Heightened (6th)** Level 7.

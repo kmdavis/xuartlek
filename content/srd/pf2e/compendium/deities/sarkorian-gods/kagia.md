@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: Dispose of the dead, take appropriate time to rest, sustainably harvest resources
 - **Anathema**: Kill for pleasure or glory, waste resources
 - **Area of Concern**: Efficiency, harvests, resourcefulness
-- **Pantheons**: [[srd/pf2e/compendium/deities/sarkorian-covenants/the-spirit-wall|The Spirit Wall]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/sarkorian-covenants/The Spirit Wall|The Spirit Wall]]
 
 ### Devotee Benefits
 
@@ -25,24 +25,24 @@ Constitution or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/sickle|Sickle]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Sickle|Sickle]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Repose|Repose]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Repose|Repose]], [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Earth|Earth]], [[srd/pf2e/compendium/character/domains#Might|Might]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Earth|Earth]], [[srd/pf2e/compendium/character/Domains#Might|Might]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/sleep|Sleep]]
+[[srd/pf2e/compendium/spells/rank-1/Sleep|Sleep]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/animal-form|Animal Form]]
+[[srd/pf2e/compendium/spells/rank-2/Animal Form|Animal Form]]
 (bear only)
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/tangling-creepers|Tangling Creepers]]
+[[srd/pf2e/compendium/spells/rank-6/Tangling Creepers|Tangling Creepers]]
 
 *Source: Divine Mysteries p. 322*

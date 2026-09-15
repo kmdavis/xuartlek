@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/unexpected-sharpshooter|Unexpected Sharpshooter]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/unexpected-sharpshooter-dedication|Unexpected Sharpshooter Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Unexpected Sharpshooter|Unexpected Sharpshooter]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
 
-Despite the devastation your weapons tend to inflict upon their targets or the destruction you might unleash upon an area, your foes still manage to walk away at the end of a fight—at least sometimes. You can choose to add the [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] trait to your ranged weapons, making the choice of whether to add the trait or not just before each Strike.
+Despite the devastation your weapons tend to inflict upon their targets or the destruction you might unleash upon an area, your foes still manage to walk away at the end of a fight—at least sometimes. You can choose to add the [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]] trait to your ranged weapons, making the choice of whether to add the trait or not just before each Strike.
 
 *Source: Guns & Gears (Remastered) p. 142*

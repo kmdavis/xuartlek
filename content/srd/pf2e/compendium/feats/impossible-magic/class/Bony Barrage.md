@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-You launch a massive barrage of tiny bones. You learn the [[srd/pf2e/compendium/spells/focus/bony-barrage|_bony barrage_]] grave spell.
+You launch a massive barrage of tiny bones. You learn the [[srd/pf2e/compendium/spells/focus/Bony Barrage|_bony barrage_]] grave spell.
 
 *Source: Impossible Magic p. 35*

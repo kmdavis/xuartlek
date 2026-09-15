@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/vigilante|Vigilante]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/vigilante-dedication|Vigilante Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], Expert in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], Expert in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], or Expert in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Vigilante|Vigilante]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Vigilante Dedication|Vigilante Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], Expert in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], Expert in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], or Expert in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
-You've learned to hide the magical auras of your gear. During your daily preparations, you carefully tweak any or all of your magic items to appear non-magical. Objects adjusted in this way remain so until your next preparations. A spellcaster using [[srd/pf2e/compendium/spells/cantrips/detect-magic|_detect magic_]] or [[srd/pf2e/compendium/spells/cantrips/read-aura|_read aura_]] must succeed at a Perception check against your [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] DC to see through your obfuscations.
+You've learned to hide the magical auras of your gear. During your daily preparations, you carefully tweak any or all of your magic items to appear non-magical. Objects adjusted in this way remain so until your next preparations. A spellcaster using [[srd/pf2e/compendium/spells/cantrips/Detect Magic|_detect magic_]] or [[srd/pf2e/compendium/spells/cantrips/Read Aura|_read aura_]] must succeed at a Perception check against your [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] DC to see through your obfuscations.
 
 *Source: Player Core 2 p. 219*

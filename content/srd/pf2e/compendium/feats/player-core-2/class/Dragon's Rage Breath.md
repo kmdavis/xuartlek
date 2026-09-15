@@ -17,7 +17,7 @@ socialImage: og-image.png
 `Barbarian`  `Concentrate`  `Rage`
 
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/dragon|dragon instinct]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/Dragon|dragon instinct]]
 
 You breathe deeply and exhale powerful energy in a 30-foot cone, dealing 1d6 damage per level to each creature in the area with a basic Reflex save against your class DC. The damage type matches your instinct's dragon breath, and this action gains the trait of your dragon instinct's tradition.
 

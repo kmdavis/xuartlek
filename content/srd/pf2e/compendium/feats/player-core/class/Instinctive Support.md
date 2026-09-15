@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Druid`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/animal-companion|Animal Companion]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Animal Companion|Animal Companion]]
 - **Trigger**: You Cast a non-cantrip spell that targets only your animal companion
 
 When you support your animal companion, your companion supports you in turn. After your spell takes place, your companion gains its actions for the turn, as if you Commanded it, and one of the actions must be Support. If the companion has used any other actions already, it can’t Support you, as normal.

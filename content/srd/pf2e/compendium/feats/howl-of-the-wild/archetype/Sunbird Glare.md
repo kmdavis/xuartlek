@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/winged-warrior|Winged Warrior]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/winged-warrior-dedication|Winged Warrior Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Winged Warrior|Winged Warrior]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Winged Warrior Dedication|Winged Warrior Dedication]]
 - **Requirements**: You’re in bright light
 
-By keeping your feathers clean and sleek, you can catch the light across your wings to create a startling glare in the eyes of a creature within 20 feet. The target must succeed at a Fortitude save against your class DC or be [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round (1 minute on a critical failure). Regardless of their result, the target is temporarily immune to Sunbird Glare for 10 minutes.
+By keeping your feathers clean and sleek, you can catch the light across your wings to create a startling glare in the eyes of a creature within 20 feet. The target must succeed at a Fortitude save against your class DC or be [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] for 1 round (1 minute on a critical failure). Regardless of their result, the target is temporarily immune to Sunbird Glare for 10 minutes.
 
 *Source: Howl of the Wild p. 82*

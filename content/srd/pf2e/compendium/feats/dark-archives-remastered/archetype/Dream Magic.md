@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/sleepwalker|Sleepwalker]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/sleepwalker-dedication|Sleepwalker Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Sleepwalker|Sleepwalker]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Sleepwalker Dedication|Sleepwalker Dedication]]
 
-You learn dream-related magic to aid your studies. Choose [[srd/pf2e/compendium/spells/rank-3/dream-message|_dream message_]] or [[srd/pf2e/compendium/spells/rank-1/sleep|_sleep_]] upon taking this feat; you learn this spell as a 4th-rank occult innate spell that you can cast once per day. If you choose sleep, you can cast the spell only while in a Daydream Trance. You become trained in the spell attack modifier and spell DC statistics, and your spellcasting attribute for these spells is Wisdom.
+You learn dream-related magic to aid your studies. Choose [[srd/pf2e/compendium/spells/rank-3/Dream Message|_dream message_]] or [[srd/pf2e/compendium/spells/rank-1/Sleep|_sleep_]] upon taking this feat; you learn this spell as a 4th-rank occult innate spell that you can cast once per day. If you choose sleep, you can cast the spell only while in a Daydream Trance. You become trained in the spell attack modifier and spell DC statistics, and your spellcasting attribute for these spells is Wisdom.
 
 **Special** You can take this feat twice, gaining the spell you didn't select initially the second time.
 

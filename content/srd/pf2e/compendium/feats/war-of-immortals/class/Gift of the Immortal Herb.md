@@ -19,6 +19,8 @@ socialImage: og-image.png
 
 `Exemplar`  `Healing`  `Ikon`  `Light`  `Vitality`  `Positive`
 
+- **Usage**: imbued into a body ikon
+
 Your blood turns a divine gold, shining in moments its spilled and begetting new life. The imbued ikon gains the following effects. 
 
 **Immanence** If your divine spark remains in your body ikon for 10 continuous minutes, you regrow one damaged or ruined limb or organ.

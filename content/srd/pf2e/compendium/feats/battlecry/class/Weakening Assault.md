@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Guardian`
 
-With a barrage of blows, you diminish an enemy's strength. Strike an enemy affected by your [[srd/pf2e/compendium/rules-elements/actions/battlecry#Taunt|Taunt]] twice. If either Strike hits, the target is enfeebled 1 until the beginning of your next turn. If both Strikes hit, the target is [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 3 instead.
+With a barrage of blows, you diminish an enemy's strength. Strike an enemy affected by your [[srd/pf2e/compendium/rules-elements/actions/battlecry#Taunt|Taunt]] twice. If either Strike hits, the target is enfeebled 1 until the beginning of your next turn. If both Strikes hit, the target is [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]] 3 instead.
 
 *Source: Battlecry! p. 47*

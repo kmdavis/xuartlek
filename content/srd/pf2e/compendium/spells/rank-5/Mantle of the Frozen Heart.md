@@ -17,16 +17,16 @@ socialImage: og-image.png
 
 `Cold`  `Concentrate`  `Manipulate`  `Morph`
 
-- **Traditions**: Arcane, Primal
-- **Deity**: [[srd/pf2e/compendium/deities/giant-gods/thremyr|Thremyr]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deity**: [[srd/pf2e/compendium/deities/giant-gods/Thremyr|Thremyr]]
 - **Duration**: 1 minute
 
 You surround yourself in a mantle of frigid magic, and your skin and armor morph into cold, blue ice. Freezing air emanates from your body, sending a chill down the spine of anyone who draws too close and leaving a fine dusting of frost in your wake. Upon Casting this Spell, pick two of the options below. You can Sustain this spell once per round to change one of your chosen abilities to a different option from the list.
 
 - **Chilling Ice** The ice around your body thickens, inuring you to the cold. You gain resistance 10 to cold.
-- **Heart of Ice** Your body temperature plummets to blistering cold. Any creature that touches you or hits you with a melee [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack or non-[[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] melee weapon attack takes 2d6 cold damage.
+- **Heart of Ice** Your body temperature plummets to blistering cold. Any creature that touches you or hits you with a melee [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack or non-[[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach]] melee weapon attack takes 2d6 cold damage.
 
-- **Ice Glide** Ice trails from your feet for an instant as you move, allowing you to skate rapidly along it. You don’t need to [[srd/pf2e/compendium/rules-elements/actions/player-core#Balance|Balance]] on ice, and you ignore [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] caused by ice or snow. While moving along a smooth surface, you gain a +20-foot status bonus to your land Speed.
-- **Icy Claws** Your hands morph into vicious, piercing claws of ice, useful for attacking or climbing. As long as you have both hands free, you gain a climb Speed equal to your land Speed. You gain a claw unarmed attack with the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]] traits in the brawling weapon group. Your claw attack deals 1d6 piercing damage plus an additional 2d6 cold damage.
+- **Ice Glide** Ice trails from your feet for an instant as you move, allowing you to skate rapidly along it. You don’t need to [[srd/pf2e/compendium/rules-elements/actions/player-core#Balance|Balance]] on ice, and you ignore [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Difficult Terrain|difficult terrain]] caused by ice or snow. While moving along a smooth surface, you gain a +20-foot status bonus to your land Speed.
+- **Icy Claws** Your hands morph into vicious, piercing claws of ice, useful for attacking or climbing. As long as you have both hands free, you gain a climb Speed equal to your land Speed. You gain a claw unarmed attack with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]] traits in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] weapon group. Your claw attack deals 1d6 piercing damage plus an additional 2d6 cold damage.
 
 *Source: Impossible Magic p. 152*

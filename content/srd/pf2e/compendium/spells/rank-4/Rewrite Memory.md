@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Mental`  `Uncommon`
 
-- **Tradition**: Occult
-- **Deities**: [[srd/pf2e/compendium/deities/giant-gods/bergelmir|Bergelmir]], Narakaas, [[srd/pf2e/compendium/deities/eldest/the-lost-prince|The Lost Prince]]
+- **Tradition**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/giant-gods/Bergelmir|Bergelmir]], Narakaas, [[srd/pf2e/compendium/deities/eldest/The Lost Prince|The Lost Prince]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

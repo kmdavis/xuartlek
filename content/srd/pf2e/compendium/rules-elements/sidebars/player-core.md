@@ -11,7 +11,7 @@ socialImage: og-image.png
 
 ## Action Icon Key
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/format-of-rules#Activities|Activities]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Format of Rules#Activities|Activities]]
 
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")Single Action
 [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")Two-Action Activity
@@ -23,7 +23,7 @@ socialImage: og-image.png
 
 ## Adjusting the Setting
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/golarion-and-the-inner-sea#What Does My Character Know?|What Does My Character Know?]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Golarion and the Inner Sea#What Does My Character Know?|What Does My Character Know?]]
 
 Feel free to make Golarion your own! If something we write in our books gets in the way of a concept you want to play, ask your group and your GM if you can change it. What's important isn't that you agree with the “official” material that we publish, but that the people you play with facilitate communal storytelling.
 
@@ -55,7 +55,7 @@ If you want to Craft alchemical items or magic items, you need to select the ski
 
 ## Alternate Ancestry Boosts
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Step 3: Select an Ancestry|Step 3: Select an Ancestry]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation#Step 3: Select an Ancestry|Step 3: Select an Ancestry]]
 
 The attribute boosts and flaws listed in each ancestry represent general trends or help guide players to create the kinds of characters from that ancestry most likely to pursue the life of an adventurer. However, ancestries aren’t a monolith. You always have the option to replace your ancestry’s listed attribute boosts and attribute flaws entirely and instead select two free attribute boosts when creating your character.
 
@@ -63,7 +63,7 @@ The attribute boosts and flaws listed in each ancestry represent general trends 
 
 ## Attribute Modifier Overview
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation|Character Creation]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation|Character Creation]]
 
 Each attribute modifier starts at +0, representing the human average, but as you make character choices, you'll adjust these modifiers by applying attribute boosts, which increase an attribute modifier, and attribute flaws, which decrease an attribute modifier. As you build your character, remember to apply attribute modifier adjustments when making the following decisions.
 
@@ -91,24 +91,24 @@ Attribute flaws are not nearly as common in Pathfinder as attribute boosts. If y
 
 ## Avoiding Flanking
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Flanking|Flanking]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Flanking|Flanking]]
 
 Flanking is an excellent battle tactic that can cause the flanked creature to get hit much more often. Escaping and avoiding flanks can be crucial for a player character's survival.
 
-**Movement:** The most straightforward means to escape a flank is usually to [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]]. It's often worth it to avoid the hits you'd take due to being [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] and to make enemies spend actions moving to catch you.
+**Movement:** The most straightforward means to escape a flank is usually to [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]]. It's often worth it to avoid the hits you'd take due to being [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] and to make enemies spend actions moving to catch you.
 
 **All-Around Vision:** Some monsters are covered in eyes that face multiple directions or are otherwise hard to distract, making them immune to flanking.
 
-**Deny Advantage:** Some classes, such as [[srd/pf2e/compendium/character/classes/rogue|rogue]], can gain the deny advantage class feature, makes them harder to outflank. You can't flank a creature with deny advantage unless your level is higher than the creature's.
+**Deny Advantage:** Some classes, such as [[srd/pf2e/compendium/character/classes/Rogue|rogue]], can gain the deny advantage class feature, makes them harder to outflank. You can't flank a creature with deny advantage unless your level is higher than the creature's.
 
 *Source: Player Core p. 425*
 
 ## Being Stealthy
 
-- **Parent page**: [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+- **Parent page**: [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
 If you want to sneak around when there are creatures that can see you, you can use a combination of Hide and Sneak to do so. 
-First, **Hide** behind something (either by taking advantage of cover or having the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition due to fog, a spell, or a similar effect). A successful Stealth check makes you [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], though the creatures still know roughly where you are.Second, now that you're hidden, you can **Sneak**. That means you can move at half your Speed and attempt another Stealth check. If it's successful, you're now [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]]. That means the creatures don't know which square you're in anymore. If you were approaching creatures that didn't know you were there, you could begin Sneaking right away, since they didn't know your location to start with. Some actions can cause you to become [[srd/pf2e/compendium/rules-elements/conditions#Observed|observed]] again, but they're mostly what you'd expect: standing out in the open, attacking someone, making a bunch of noise, and so forth. Unobtrusive actions, such as Recalling Knowledge or reloading a weapon, allow you to remain hidden or undetected. If you Strike someone after successfully Hiding or Sneaking, though, they're [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to that Strike.
+First, **Hide** behind something (either by taking advantage of cover or having the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition due to fog, a spell, or a similar effect). A successful Stealth check makes you [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]], though the creatures still know roughly where you are.Second, now that you're hidden, you can **Sneak**. That means you can move at half your Speed and attempt another Stealth check. If it's successful, you're now [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]]. That means the creatures don't know which square you're in anymore. If you were approaching creatures that didn't know you were there, you could begin Sneaking right away, since they didn't know your location to start with. Some actions can cause you to become [[srd/pf2e/compendium/rules-elements/Conditions#Observed|observed]] again, but they're mostly what you'd expect: standing out in the open, attacking someone, making a bunch of noise, and so forth. Unobtrusive actions, such as Recalling Knowledge or reloading a weapon, allow you to remain hidden or undetected. If you Strike someone after successfully Hiding or Sneaking, though, they're [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to that Strike.
 
  Creatures can try to find you using the Seek action.
 
@@ -118,7 +118,7 @@ First, **Hide** behind something (either by taking advantage of cover or having 
 
 ## Broken
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage|Item Damage]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/Item Damage|Item Damage]]
 
 Broken is a condition that affects objects. An object is broken when damage has reduced its Hit Points below its Broken Threshold. A broken object can't be used for its normal function, nor does it grant bonuses—with the exception of armor. Broken armor still grants its item bonus to AC, but it also imparts a status penalty to AC depending on its category: –1 for broken light armor, –2 for broken medium armor, or –3 for broken heavy armor.
 
@@ -133,7 +133,7 @@ If an effect makes an item broken automatically and the item has more HP than it
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]]
 
 Your influence on NPCs is measured with a set of attitudes that reflect how they view your character. These are only a brief summary of a creature's disposition. The GM will supply additional nuance based on the history and beliefs of the characters you're interacting with, and their attitudes can change in accordance with the story. The attitudes are detailed in the [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|Conditions Appendix]] and are summarized here. 
-**Helpful**: Willing to help you and responds favorably to your requests.**Friendly**: Has a good attitude toward you, but won't necessarily stick their neck out to help you.**Indifferent**: Doesn't care about you either way. (Most NPCs start out indifferent.)**Unfriendly**: Dislikes you and doesn't want to help you.**Hostile**: Actively works against you—and might attack you just because of their dislike. No one can ever change the attitude of a player character with these skills. You can roleplay interactions with player characters, and even use [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] results if the player wants a mechanical sense of how convincing or charming a character is, but players make the ultimate decisions about how their characters respond.
+**Helpful**: Willing to help you and responds favorably to your requests.**Friendly**: Has a good attitude toward you, but won't necessarily stick their neck out to help you.**Indifferent**: Doesn't care about you either way. (Most NPCs start out indifferent.)**Unfriendly**: Dislikes you and doesn't want to help you.**Hostile**: Actively works against you—and might attack you just because of their dislike. No one can ever change the attitude of a player character with these skills. You can roleplay interactions with player characters, and even use [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] results if the player wants a mechanical sense of how convincing or charming a character is, but players make the ultimate decisions about how their characters respond.
 
 *Source: Player Core p. 239*
 
@@ -142,13 +142,13 @@ Your influence on NPCs is measured with a set of attitudes that reflect how they
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]]
 
 Your influence on NPCs is measured with a set of attitudes that reflect how they view your character. These are only a brief summary of a creature's disposition. The GM will supply additional nuance based on the history and beliefs of the characters you're interacting with, and their attitudes can change in accordance with the story. The attitudes are detailed in the [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|Conditions Appendix]] and are summarized here. 
-**Helpful**: Willing to help you and responds favorably to your requests.**Friendly**: Has a good attitude toward you, but won't necessarily stick their neck out to help you.**Indifferent**: Doesn't care about you either way. (Most NPCs start out indifferent.)**Unfriendly**: Dislikes you and doesn't want to help you.**Hostile**: Actively works against you—and might attack you just because of their dislike. No one can ever change the attitude of a player character with these skills. You can roleplay interactions with player characters, and even use [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] results if the player wants a mechanical sense of how convincing or charming a character is, but players make the ultimate decisions about how their characters respond.
+**Helpful**: Willing to help you and responds favorably to your requests.**Friendly**: Has a good attitude toward you, but won't necessarily stick their neck out to help you.**Indifferent**: Doesn't care about you either way. (Most NPCs start out indifferent.)**Unfriendly**: Dislikes you and doesn't want to help you.**Hostile**: Actively works against you—and might attack you just because of their dislike. No one can ever change the attitude of a player character with these skills. You can roleplay interactions with player characters, and even use [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] results if the player wants a mechanical sense of how convincing or charming a character is, but players make the ultimate decisions about how their characters respond.
 
 *Source: Player Core p. 240*
 
 ## Character Sheet
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Your Allies|Your Allies]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation#Your Allies|Your Allies]]
 
 Once you’ve developed your character’s concept, jot down a few sentences summarizing your ideas under the Notes section on the third page of your character sheet. Record any of the details you’ve already decided, such as your character’s name, on the appropriate lines on the first page.
 
@@ -156,7 +156,7 @@ Once you’ve developed your character’s concept, jot down a few sentences sum
 
 ## Character Sheet
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Step 3: Select an Ancestry|Step 3: Select an Ancestry]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation#Step 3: Select an Ancestry|Step 3: Select an Ancestry]]
 
 Write your character’s ancestry and heritage in the appropriate space at the top of your character sheet’s first page. Adjust your attribute modifiers, adding 1 to an attribute modifier if you gained an attribute boost from your ancestry, and subtracting 1 from an attribute modifier if you gained an attribute flaw from your ancestry. Note the number of Hit Points your character gains from their ancestry—you’ll add more to this number later. Finally, in the appropriate spaces, record your character’s size, Speed, and languages. If your character’s ancestry provides them with special abilities, write them in the appropriate spaces, such as darkvision in the Senses section on the first page and innate spells on the fourth page. Write the ancestry feat you selected in the Ancestry Feat section on your character sheet’s second page.
 
@@ -164,7 +164,7 @@ Write your character’s ancestry and heritage in the appropriate space at the t
 
 ## Character Sheet
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Step 4: Pick a Background|Step 4: Pick a Background]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation#Step 4: Pick a Background|Step 4: Pick a Background]]
 
 Record your character’s background in the space at the top of the first page of your character sheet. Adjust your attribute modifiers, adding 1 to an attribute modifier if you gained an attribute boost from your background. Record the skill feat the background provides in the Skill Feat section of your character sheet’s second page. On the first page, check the “T” box next to the name of the specific skill and for one Lore skill to indicate your character is trained, then write the name of the Lore skill granted by your background.
 
@@ -172,7 +172,7 @@ Record your character’s background in the space at the top of the first page o
 
 ## Character Sheet
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Step 5: Choose a Class|Step 5: Choose a Class]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation#Step 5: Choose a Class|Step 5: Choose a Class]]
 
 Write your character’s class in the space at the top of the first page of your character sheet, then write “1” in the Level box to indicate that your character is 1st level. Next to the attribute modifiers, note the class’s key attribute modifier, and add 1 to that attribute modifier from the attribute boost the class provides. Don’t worry about recording the rest of your character’s class features and abilities yet—you’ll handle that in Step 7.
 
@@ -180,7 +180,7 @@ Write your character’s class in the space at the top of the first page of your
 
 ## Character Sheet
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Step 6: Finish Attribute Modifiers|Step 6: Finish Attribute Modifiers]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation#Step 6: Finish Attribute Modifiers|Step 6: Finish Attribute Modifiers]]
 
 Write your character’s starting attribute modifiers in the box provided for each on the first page.
 
@@ -188,7 +188,7 @@ Write your character’s starting attribute modifiers in the box provided for ea
 
 ## Character Sheet
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Step 7: Record Class Details|Step 7: Record Class Details]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation#Step 7: Record Class Details|Step 7: Record Class Details]]
 
 Write your character’s total Hit Points on the first page of your character sheet. Use the proficiency fields (the boxes marked “T,” “E,” “M,” and “L”) on your character sheet to record your character’s initial proficiencies in Perception, saving throws, and the skills granted by their class; mark “T” if your character is trained, or “E” if your character is an expert. Indicate which additional skills you chose for your character to be trained in by marking the “T” proficiency box for each skill you selected. Likewise, record your character’s armor proficiencies in the Armor Class section at the top of the first page and their weapon proficiencies at the bottom of the first page. Record all other class feats and abilities on the second page. Don’t worry yet about finalizing any values for your character’s statistics—you’ll handle that in Step 9.
 
@@ -196,7 +196,7 @@ Write your character’s total Hit Points on the first page of your character sh
 
 ## Character Sheet
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Step 8: Buy Equipment|Step 8: Buy Equipment]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation#Step 8: Buy Equipment|Step 8: Buy Equipment]]
 
 Once you’ve spent your character’s starting wealth, calculate any remaining gp, sp, and cp they might still have and write those amounts in the Inventory section on the second page. Record your character’s weapons in the Melee Strikes and Ranged Strikes sections of the first page, depending on the weapon, and the rest of their equipment in the Inventory section on the second page. You’ll calculate specific numbers for melee Strikes and ranged Strikes with the weapons in Step 9 and for AC when wearing that armor in Step 10.
 
@@ -204,7 +204,7 @@ Once you’ve spent your character’s starting wealth, calculate any remaining 
 
 ## Character Sheet
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Skills|Skills]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation#Skills|Skills]]
 
 For Perception and saving throws, write your proficiency bonus and the appropriate attribute modifier in the boxes provided, then record the total modifier in the large space. Record the proficiency bonuses, attribute modifiers, and total modifiers for your melee Strikes and ranged Strikes in the box after the name of each weapon, and record the damage for each, along with the traits for that attack. For skills, record the attribute modifier and proficiency bonus in the appropriate box for each skill, and then write the total skill modifiers in the spaces to the left. If your character has any modifiers, bonuses, or penalties from feats or abilities that always apply, add them into the total modifiers. For ones that apply only in certain situations, note them next to the total modifiers.
 
@@ -214,77 +214,77 @@ For Perception and saving throws, write your proficiency bonus and the appropria
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]]
 
-Issuing commands to an animal doesn't always go smoothly. An animal is an independent creature with limited intelligence. Most animals understand only the simplest instructions, so you might be able to instruct an animal to move to a certain square but not dictate a specific path to get there, or command it to attack a certain creature but not to make its attack [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]]. The GM decides the specifics of the action the animal uses. 
+Issuing commands to an animal doesn't always go smoothly. An animal is an independent creature with limited intelligence. Most animals understand only the simplest instructions, so you might be able to instruct an animal to move to a certain square but not dictate a specific path to get there, or command it to attack a certain creature but not to make its attack [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]]. The GM decides the specifics of the action the animal uses. 
 
 The animal does what you commanded as soon as it can, usually as its first action on its next turn. If you successfully commanded it multiple times, it does what you said in order. It forgets all commands beyond what it can accomplish on its turn. If multiple people command the same animal, the GM determines how the animal reacts. The GM might also make the DC higher if someone has already tried to Command the Animal that round.
 
- If you have a pet, [[srd/pf2e/books/player-core/chapter-3-classes/companions#Animal Companions|animal companion]], [[srd/pf2e/books/player-core/chapter-3-classes/companions#Familiars|familiar]], or similar [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]], you can command it much more effectively.
+ If you have a pet, [[srd/pf2e/books/player-core/chapter-3-classes/Companions#Animal Companions|animal companion]], [[srd/pf2e/books/player-core/chapter-3-classes/Companions#Familiars|familiar]], or similar [[srd/pf2e/compendium/rules-elements/traits/player-core/Minion|minion]], you can command it much more effectively.
 
 *Source: Player Core p. 242*
 
 ## Common Lore Subcategories
 
-- **Parent page**: [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]]
+- **Parent page**: [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]]
 
 You can learn any Lore skill your GM gives you permission to take. The following list covers a wide variety of common Lore topics appropriate for player characters in most campaigns. Backgrounds often grant you a Lore skill from this list. 
-Academia LoreAccounting LoreArchitecture LoreArt LoreAstronomy LoreCarpentry LoreCircus LoreDriving LoreEngineering LoreFarming LoreFishing LoreFortune-Telling LoreGames LoreGenealogy LoreGladiatorial LoreGuild LoreHeraldry LoreHerbalism LoreHunting LoreLabor LoreLegal LoreLibrary LoreLore about a specific deity ([[srd/pf2e/compendium/deities/gods-of-the-inner-sea/abadar|Abadar]] Lore, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]] Lore)Lore about a specific creature or narrow category of creatures (Demon Lore, Giant Lore, Vampire Lore)Lore about a specific plane other than [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]], or the plane in which the game is set if not the Universe ([[srd/pf2e/compendium/gm/planes#Astral Plane|Astral Plane]] Lore, [[srd/pf2e/compendium/gm/planes#Heaven|Heaven]] Lore, [[srd/pf2e/compendium/gm/planes#Outer Rifts|Outer Rifts]] Lore)Lore about a specific public organization (Hellknights Lore, Pathfinder Society Lore)Lore about a specific settlement (Absalom Lore, Magnimar Lore)Lore about a specific terrain (Mountain Lore, River Lore)Lore about a type of food or drink (Alcohol Lore, Baking Lore, Butchering Lore, Cooking Lore, Tea Lore)Mercantile LoreMidwifery LoreMilling LoreMining LorePiloting LoreSailing LoreScouting LoreScribing LoreStabling LoreTanning LoreTheater LoreUnderworld LoreWarfare Lore
+Academia LoreAccounting LoreArchitecture LoreArt LoreAstronomy LoreCarpentry LoreCircus LoreDriving LoreEngineering LoreFarming LoreFishing LoreFortune-Telling LoreGames LoreGenealogy LoreGladiatorial LoreGuild LoreHeraldry LoreHerbalism LoreHunting LoreLabor LoreLegal LoreLibrary LoreLore about a specific deity ([[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Abadar|Abadar]] Lore, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Iomedae|Iomedae]] Lore)Lore about a specific creature or narrow category of creatures (Demon Lore, Giant Lore, Vampire Lore)Lore about a specific plane other than [[srd/pf2e/compendium/gm/Planes#The Universe|the Universe]], or the plane in which the game is set if not the Universe ([[srd/pf2e/compendium/gm/Planes#Astral Plane|Astral Plane]] Lore, [[srd/pf2e/compendium/gm/Planes#Heaven|Heaven]] Lore, [[srd/pf2e/compendium/gm/Planes#Outer Rifts|Outer Rifts]] Lore)Lore about a specific public organization (Hellknights Lore, Pathfinder Society Lore)Lore about a specific settlement (Absalom Lore, Magnimar Lore)Lore about a specific terrain (Mountain Lore, River Lore)Lore about a type of food or drink (Alcohol Lore, Baking Lore, Butchering Lore, Cooking Lore, Tea Lore)Mercantile LoreMidwifery LoreMilling LoreMining LorePiloting LoreSailing LoreScouting LoreScribing LoreStabling LoreTanning LoreTheater LoreUnderworld LoreWarfare Lore
 
 *Source: Player Core p. 240*
 
 ## Conditions
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/effects|Effects]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Effects|Effects]]
 
 Some effects apply conditions to a creature or item. These change your state of being in some way. Conditions are persistent, lasting until the stated duration ends, the condition is removed, or terms dictated in the condition cause it to end. Full rules appear in the [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|Conditions Appendix]].
 
-**[[srd/pf2e/compendium/rules-elements/conditions#Blinded|Blinded]]:** You're unable to see.
-**[[srd/pf2e/compendium/rules-elements/conditions#Broken|Broken]]:** This item can't be used for its normal function until repaired.
-**[[srd/pf2e/compendium/rules-elements/conditions#Clumsy|Clumsy]]:** You can't move as easily or gracefully as usual.
-**[[srd/pf2e/compendium/rules-elements/conditions#Concealed|Concealed]]:** Fog or similar obscuration makes you difficult to see and target.
-**[[srd/pf2e/compendium/rules-elements/conditions#Confused|Confused]]:** You attack indiscriminately.
-**[[srd/pf2e/compendium/rules-elements/conditions#Controlled|Controlled]]:** Another creature determines your actions.
-**[[srd/pf2e/compendium/rules-elements/conditions#Dazzled|Dazzled]]:** Everything is concealed to you.
-**[[srd/pf2e/compendium/rules-elements/conditions#Deafened|Deafened]]:** You're unable to hear.
-**[[srd/pf2e/compendium/rules-elements/conditions#Doomed|Doomed]]:** With your soul in peril, you are now closer to death.
-**[[srd/pf2e/compendium/rules-elements/conditions#Drained|Drained]]:** Blood loss or something similar has leached your vitality.
-**[[srd/pf2e/compendium/rules-elements/conditions#Dying|Dying]]:** You're slipping closer to death.
-**[[srd/pf2e/compendium/rules-elements/conditions#Encumbered|Encumbered]]:** You're carrying more weight than you can manage.
-**[[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|Enfeebled]]:** Your strength has been sapped away.
-**[[srd/pf2e/compendium/rules-elements/conditions#Fascinated|Fascinated]]:** You are compelled to focus your attention on something.
-**[[srd/pf2e/compendium/rules-elements/conditions#Fatigued|Fatigued]]:** Your defenses are lower and you can't use exploration activities while traveling.
-**[[srd/pf2e/compendium/rules-elements/conditions#Fleeing|Fleeing]]:** You must run away.
-**[[srd/pf2e/compendium/rules-elements/conditions#Friendly|Friendly]]:** An NPC with this condition has a good attitude toward you.
-**[[srd/pf2e/compendium/rules-elements/conditions#Frightened|Frightened]]:** Fear makes you less capable of attacking and defending.
-**[[srd/pf2e/compendium/rules-elements/conditions#Grabbed|Grabbed]]:** A creature, object, or magic holds you in place.
-**[[srd/pf2e/compendium/rules-elements/conditions#Helpful|Helpful]]:** An NPC with this condition wants to assist you.
-**[[srd/pf2e/compendium/rules-elements/conditions#Hidden|Hidden]]:** A creature you're hidden from knows your location but can't see you.
-**[[srd/pf2e/compendium/rules-elements/conditions#Hostile|Hostile]]:** An NPC with this condition wants to harm you.
-**[[srd/pf2e/compendium/rules-elements/conditions#Immobilized|Immobilized]]:** You can't move.
-**[[srd/pf2e/compendium/rules-elements/conditions#Indifferent|Indifferent]]:** An NPC with this condition doesn't have a strong opinion about you.
-**[[srd/pf2e/compendium/rules-elements/conditions#Invisible|Invisible]]:** Creatures can't see you.
-**[[srd/pf2e/compendium/rules-elements/conditions#Observed|Observed]]:** You're in plain view.
-**[[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|Off-Guard]]:** You're unable to defend yourself to your full capability.
-**[[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|Paralyzed]]:** Your body is frozen in place.
-**[[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|Persistent Damage]]:** You keep taking damage every round.
-**[[srd/pf2e/compendium/rules-elements/conditions#Petrified|Petrified]]:** You've been turned to stone.
-**[[srd/pf2e/compendium/rules-elements/conditions#Prone|Prone]]:** You're lying on the ground and easier to attack.
-**[[srd/pf2e/compendium/rules-elements/conditions#Quickened|Quickened]]:** You get an extra action each turn.
-**[[srd/pf2e/compendium/rules-elements/conditions#Restrained|Restrained]]:** You're tied up and can't move, or a grappling creature has you pinned.
-**[[srd/pf2e/compendium/rules-elements/conditions#Sickened|Sickened]]:** You're sick to your stomach.
-**[[srd/pf2e/compendium/rules-elements/conditions#Slowed|Slowed]]:** You lose actions each turn.
-**[[srd/pf2e/compendium/rules-elements/conditions#Stunned|Stunned]]:** You can't use actions.
-**[[srd/pf2e/compendium/rules-elements/conditions#Stupefied|Stupefied]]:** You can't access your full mental faculties, and you have trouble casting spells.
-**[[srd/pf2e/compendium/rules-elements/conditions#Unconscious|Unconscious]]:** You're asleep or knocked out.
-**[[srd/pf2e/compendium/rules-elements/conditions#Undetected|Undetected]]:** A creature you're undetected by doesn't know where you are.
-**[[srd/pf2e/compendium/rules-elements/conditions#Unfriendly|Unfriendly]]:** An NPC with this condition doesn't like you.
-**[[srd/pf2e/compendium/rules-elements/conditions#Unnoticed|Unnoticed]]:** A creature is entirely unaware you're present.
-**[[srd/pf2e/compendium/rules-elements/conditions#Wounded|Wounded]]:** You've been brought back from the brink of death but haven't fully recovered
+**[[srd/pf2e/compendium/rules-elements/Conditions#Blinded|Blinded]]:** You're unable to see.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Broken|Broken]]:** This item can't be used for its normal function until repaired.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|Clumsy]]:** You can't move as easily or gracefully as usual.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Concealed|Concealed]]:** Fog or similar obscuration makes you difficult to see and target.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Confused|Confused]]:** You attack indiscriminately.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Controlled|Controlled]]:** Another creature determines your actions.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|Dazzled]]:** Everything is concealed to you.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Deafened|Deafened]]:** You're unable to hear.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Doomed|Doomed]]:** With your soul in peril, you are now closer to death.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Drained|Drained]]:** Blood loss or something similar has leached your vitality.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Dying|Dying]]:** You're slipping closer to death.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Encumbered|Encumbered]]:** You're carrying more weight than you can manage.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|Enfeebled]]:** Your strength has been sapped away.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Fascinated|Fascinated]]:** You are compelled to focus your attention on something.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|Fatigued]]:** Your defenses are lower and you can't use exploration activities while traveling.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Fleeing|Fleeing]]:** You must run away.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Friendly|Friendly]]:** An NPC with this condition has a good attitude toward you.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Frightened|Frightened]]:** Fear makes you less capable of attacking and defending.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|Grabbed]]:** A creature, object, or magic holds you in place.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Helpful|Helpful]]:** An NPC with this condition wants to assist you.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Hidden|Hidden]]:** A creature you're hidden from knows your location but can't see you.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Hostile|Hostile]]:** An NPC with this condition wants to harm you.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|Immobilized]]:** You can't move.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Indifferent|Indifferent]]:** An NPC with this condition doesn't have a strong opinion about you.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Invisible|Invisible]]:** Creatures can't see you.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Observed|Observed]]:** You're in plain view.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|Off-Guard]]:** You're unable to defend yourself to your full capability.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|Paralyzed]]:** Your body is frozen in place.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|Persistent Damage]]:** You keep taking damage every round.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Petrified|Petrified]]:** You've been turned to stone.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Prone|Prone]]:** You're lying on the ground and easier to attack.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Quickened|Quickened]]:** You get an extra action each turn.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Restrained|Restrained]]:** You're tied up and can't move, or a grappling creature has you pinned.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Sickened|Sickened]]:** You're sick to your stomach.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Slowed|Slowed]]:** You lose actions each turn.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Stunned|Stunned]]:** You can't use actions.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|Stupefied]]:** You can't access your full mental faculties, and you have trouble casting spells.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|Unconscious]]:** You're asleep or knocked out.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Undetected|Undetected]]:** A creature you're undetected by doesn't know where you are.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Unfriendly|Unfriendly]]:** An NPC with this condition doesn't like you.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Unnoticed|Unnoticed]]:** A creature is entirely unaware you're present.
+**[[srd/pf2e/compendium/rules-elements/Conditions#Wounded|Wounded]]:** You've been brought back from the brink of death but haven't fully recovered
 
 *Source: Player Core p. 426*
 
 ## Conditions Related to Dying
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Dying|Dying]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Dying|Dying]]
 
 The effects of the dying condition are described under the Dying header on page 411, but you might also need to reference the unconscious, wounded, and doomed conditions.
 
@@ -315,15 +315,15 @@ Your doomed value decreases by 1 each time you get a full night's rest.
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]]
 
-You can Craft items with the [[srd/pf2e/compendium/rules-elements/traits/player-core/consumable|consumable]] trait in batches, making up to four of the same item at once with a single check. This requires you to include the raw materials for all the items in the batch at the start, and you must complete the batch all at once. You also Craft non-magical ammunition in batches, using the quantity listed in the Ranged Weapons Table (typically 10).
+You can Craft items with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Consumable|consumable]] trait in batches, making up to four of the same item at once with a single check. This requires you to include the raw materials for all the items in the batch at the start, and you must complete the batch all at once. You also Craft non-magical ammunition in batches, using the quantity listed in the Ranged Weapons Table (typically 10).
 
 *Source: Player Core p. 237*
 
 ## Cost of Living
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/downtime-mode#Shopping and Crafting|Shopping and Crafting]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Downtime Mode#Shopping and Crafting|Shopping and Crafting]]
 
-You might need to pay your [[srd/pf2e/books/player-core/chapter-6-equipment/gear#Cost of Living|cost of living]] for days spent in downtime. To avoid paying the cost, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Subsist|Subsist]], using [[srd/pf2e/compendium/rules-elements/skills/society|Society]] in a settlement or [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] in the wild. Experienced adventurers often have friends or patrons who take care of their living expenses. They might even have so much treasure that their cost of living—even one of the more expensive options—becomes a pittance.
+You might need to pay your [[srd/pf2e/books/player-core/chapter-6-equipment/Gear#Cost of Living|cost of living]] for days spent in downtime. To avoid paying the cost, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Subsist|Subsist]], using [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] in a settlement or [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] in the wild. Experienced adventurers often have friends or patrons who take care of their living expenses. They might even have so much treasure that their cost of living—even one of the more expensive options—becomes a pittance.
 
 *Source: Player Core p. 441*
 
@@ -331,7 +331,7 @@ You might need to pay your [[srd/pf2e/books/player-core/chapter-6-equipment/gear
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]]
 
-Ezren is a 5th-level wizard and an expert in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]. He has a Crafting modifier of +13 and the Magical Crafting feat. With 2 weeks of downtime ahead of him, he decides to craft a _striking_ rune, a 4th-level item, using its formula. The GM secretly chooses a DC of 19.
+Ezren is a 5th-level wizard and an expert in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]. He has a Crafting modifier of +13 and the Magical Crafting feat. With 2 weeks of downtime ahead of him, he decides to craft a _striking_ rune, a 4th-level item, using its formula. The GM secretly chooses a DC of 19.
 
  The item has a Price of 65 gp, so Ezren prepares 32 gp, 5 sp worth of raw materials. He has another 32 gp, 5 sp worth of raw materials on hand. After spending 1 day building and incanting spells, he rolls a 12 on his Crafting check, for a result of 25. That's a success! At this point, Ezren can spend the additional 32 gp, 5 sp worth of materials to complete the item immediately for 65 gp.
 
@@ -343,7 +343,7 @@ Ezren is a 5th-level wizard and an expert in [[srd/pf2e/compendium/rules-element
 
 ## Damage Dice
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Damage|Damage]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/Weapons#Damage|Damage]]
 
 Each weapon lists the damage die used for its damage roll. A standard weapon deals one die of damage, but a magical striking rune can increase the number of dice rolled, as can some special actions and spells. These additional dice use the same die size as the weapon or unarmed attack's normal damage die.
 
@@ -361,7 +361,7 @@ When an effect calls on you to increase the size of your weapon damage dice, ins
 
 ## Damage Types
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/damage-rolls#Step 2: Damage Type|Step 2: Damage Type]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Damage Rolls#Step 2: Damage Type|Step 2: Damage Type]]
 
 Damage has a number of different types and categories, which are described below.
 
@@ -369,7 +369,7 @@ Damage has a number of different types and categories, which are described below
 
 Damage dealt by weapons, many physical hazards, and a handful of spells is collectively called physical damage. The main types of physical damage are bludgeoning, piercing, and slashing. **Bludgeoning** damage comes from weapons and hazards that deal blunt-force trauma, like a hit from a club or being dashed against rocks. **Piercing** damage is dealt from stabs and punctures, whether from a dragon's fangs or the thrust of a spear. **Slashing** damage is delivered by a cut, be it the swing of the sword or the blow from a scythe blades trap.
 
-[[srd/pf2e/compendium/rules-elements/traits/monster-core/ghost|Ghosts]] and other [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]] creatures have a high resistance to physical attacks that aren't magical (attacks that lack the magical trait). Furthermore, most incorporeal creatures have additional, though lower, resistance to magical physical damage (such as damage dealt from a [[srd/pf2e/compendium/equipment/weapons/club/mace|mace]] with the [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] trait) and most other damage types.
+[[srd/pf2e/compendium/rules-elements/traits/monster-core/Ghost|Ghosts]] and other [[srd/pf2e/compendium/rules-elements/traits/gm-core/Incorporeal|incorporeal]] creatures have a high resistance to physical attacks that aren't magical (attacks that lack the magical trait). Furthermore, most incorporeal creatures have additional, though lower, resistance to magical physical damage (such as damage dealt from a [[srd/pf2e/compendium/equipment/weapons/club/Mace|mace]] with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]] trait) and most other damage types.
 
 ### Energy Damage
 
@@ -377,39 +377,39 @@ Many spells and other magical effects deal energy damage. Energy damage is also 
 
 Two special types of energy damage specifically target the living and the undead. **Vitality** damage harms only undead creatures, withering undead bodies and disrupting incorporeal undead. **Void** damage saps life, damaging only living creatures.
 
-Powerful and pure magical energy can manifest itself as **force** damage. Few things can resist this type of damage—not even incorporeal creatures such as ghosts and [[srd/pf2e/compendium/rules-elements/traits/monster-core/wraith|wraiths]].
+Powerful and pure magical energy can manifest itself as **force** damage. Few things can resist this type of damage—not even incorporeal creatures such as ghosts and [[srd/pf2e/compendium/rules-elements/traits/monster-core/Wraith|wraiths]].
 
 ### Spirit Damage
 
-Directly affecting the spiritual essence of a creature, **spirit** damage can damage a target projecting its consciousness or possessing another creature even if the target's body is elsewhere. The possessed creature isn't harmed by the blast. Spirit damage doesn't harm creatures that have no spirit, such as [[srd/pf2e/compendium/rules-elements/traits/player-core/construct|constructs]]. Many effects that deal spirit damage also have the [[srd/pf2e/compendium/rules-elements/traits/player-core/sanctified|sanctified]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait.
+Directly affecting the spiritual essence of a creature, **spirit** damage can damage a target projecting its consciousness or possessing another creature even if the target's body is elsewhere. The possessed creature isn't harmed by the blast. Spirit damage doesn't harm creatures that have no spirit, such as [[srd/pf2e/compendium/rules-elements/traits/player-core/Construct|constructs]]. Many effects that deal spirit damage also have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Sanctified|sanctified]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]] trait.
 
 ### Mental Damage
 
-Sometimes an effect can target the mind with enough psychic force to actually deal damage to the creature. When it does, it deals **mental** damage. [[srd/pf2e/compendium/rules-elements/traits/player-core/mindless|Mindless]] creatures and those with only programmed or rudimentary intelligence are often immune to mental damage and effects.
+Sometimes an effect can target the mind with enough psychic force to actually deal damage to the creature. When it does, it deals **mental** damage. [[srd/pf2e/compendium/rules-elements/traits/player-core/Mindless|Mindless]] creatures and those with only programmed or rudimentary intelligence are often immune to mental damage and effects.
 
 ### Poison Damage
 
-Venoms, toxins and the like can deal **poison** damage, which affects creatures by way of contact, ingestion, inhalation, or injury. In addition to coming from monster attacks, alchemical items, and spells, poison damage is often caused by ongoing afflictions, which follow special rules described [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions|here]].
+Venoms, toxins and the like can deal **poison** damage, which affects creatures by way of contact, ingestion, inhalation, or injury. In addition to coming from monster attacks, alchemical items, and spells, poison damage is often caused by ongoing afflictions, which follow special rules described [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions|here]].
 
 ### Bleed Damage
 
-Another special type of physical damage is **bleed** damage. This is typically [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]], and represents loss of blood. Typically nonliving creatures and living ones that don't need blood to live are immune to bleed. Weaknesses and resistances to physical damage apply. Bleed damage ends automatically if you're healed to your full Hit Points.
+Another special type of physical damage is **bleed** damage. This is typically [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent damage]], and represents loss of blood. Typically nonliving creatures and living ones that don't need blood to live are immune to bleed. Weaknesses and resistances to physical damage apply. Bleed damage ends automatically if you're healed to your full Hit Points.
 
 ### Precision Damage
 
-Sometimes you are able to make the most of your attack through sheer precision. When you hit with an ability that grants you **precision** damage, you increase the attack's listed damage, using the same damage type, rather than tracking a separate pool of damage. For example, a nonmagical [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]] Strike that deals 1d6 precision damage from a [[srd/pf2e/compendium/character/classes/rogue|rogue's]] sneak attack increases the piercing damage by 1d6.
+Sometimes you are able to make the most of your attack through sheer precision. When you hit with an ability that grants you **precision** damage, you increase the attack's listed damage, using the same damage type, rather than tracking a separate pool of damage. For example, a nonmagical [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|dagger]] Strike that deals 1d6 precision damage from a [[srd/pf2e/compendium/character/classes/Rogue|rogue's]] sneak attack increases the piercing damage by 1d6.
 
-Some creatures are immune to precision damage, regardless of the damage type; these are often amorphous creatures that lack vulnerable anatomy. A creature immune to precision damage would ignore the 1d6 precision damage in the example above, but it would still take the rest of the piercing damage from the Strike. Since precision damage is always the same type of damage as the attack it's augmenting, a creature that is resistant to physical damage, like a [[srd/pf2e/bestiary/monster-core/beast/gargoyle|gargoyle]], would resist not only the dagger's damage but also the precision damage, even though it is not specifically resistant to precision damage.
+Some creatures are immune to precision damage, regardless of the damage type; these are often amorphous creatures that lack vulnerable anatomy. A creature immune to precision damage would ignore the 1d6 precision damage in the example above, but it would still take the rest of the piercing damage from the Strike. Since precision damage is always the same type of damage as the attack it's augmenting, a creature that is resistant to physical damage, like a [[srd/pf2e/bestiary/monster-core/beast/Gargoyle|gargoyle]], would resist not only the dagger's damage but also the precision damage, even though it is not specifically resistant to precision damage.
 
 ### Precious Materials
 
-While not their own damage category, precious materials can modify damage to penetrate a creature's resistances or take advantage of its weaknesses. For instance, [[srd/pf2e/compendium/equipment/materials/silver|silver]] weapons are particularly effective against [[srd/pf2e/compendium/rules-elements/traits/gm-core/werecreature|werecreatures]] and bypass the resistances to physical damage that most [[srd/pf2e/compendium/rules-elements/traits/player-core/devil|devils]] have.
+While not their own damage category, precious materials can modify damage to penetrate a creature's resistances or take advantage of its weaknesses. For instance, [[srd/pf2e/compendium/equipment/materials/Silver|silver]] weapons are particularly effective against [[srd/pf2e/compendium/rules-elements/traits/gm-core/Werecreature|werecreatures]] and bypass the resistances to physical damage that most [[srd/pf2e/compendium/rules-elements/traits/player-core/Devil|devils]] have.
 
 *Source: Player Core p. 407*
 
 ## Damaging Armor
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/armor#Armor Statistics|Armor Statistics]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/Armor#Armor Statistics|Armor Statistics]]
 
 Your armor’s statistics are based on the material it’s predominantly made from. It’s not likely your armor will take damage, as explained in Item Damage on page 269.
 
@@ -423,28 +423,28 @@ Your armor’s statistics are based on the material it’s predominantly made fr
 
 - **Parent page**: [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|Conditions Appendix]]
 
-The [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], and [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] conditions all relate to the process of coming closer to death. The full rules are [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying|here]]. The most significant information not contained in the conditions themselves is this: When you're reduced to 0 Hit Points, you're knocked out with the following effects:
+The [[srd/pf2e/compendium/rules-elements/Conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/Conditions#Dying|dying]], [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]], and [[srd/pf2e/compendium/rules-elements/Conditions#Wounded|wounded]] conditions all relate to the process of coming closer to death. The full rules are [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying|here]]. The most significant information not contained in the conditions themselves is this: When you're reduced to 0 Hit Points, you're knocked out with the following effects:
 
-You immediately move your initiative position to directly before the creature or effect that reduced you to 0 Hit Points.You gain the dying 1 condition. If the effect that knocked you out was a critical success from the attacker or the result of your critical failure, you gain the dying 2 condition instead. If you have the wounded condition, increase these values by your wounded value. If the damage came from a [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attack or effect, you don't gain the dying condition—you are instead unconscious with 0 Hit Points.
+You immediately move your initiative position to directly before the creature or effect that reduced you to 0 Hit Points.You gain the dying 1 condition. If the effect that knocked you out was a critical success from the attacker or the result of your critical failure, you gain the dying 2 condition instead. If you have the wounded condition, increase these values by your wounded value. If the damage came from a [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]] attack or effect, you don't gain the dying condition—you are instead unconscious with 0 Hit Points.
 
 *Source: Player Core p. 442*
 
 ## Detecting with Other Senses
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Senses|Senses]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Senses|Senses]]
 
-Most abilities that designate “a creature you can see” or the like function just as well if the user can precisely sense the subject with a different sense. If a monster uses a sense other than vision, the GM can adapt ways of avoiding detection that work with the monster's senses. For example, a creature that has echolocation might use hearing as a primary sense. This could mean its quarry is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Concealed|concealed]] in a noisy chamber, [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Hidden|hidden]] in a great enough din, or [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Invisible|invisible]] under a [[srd/pf2e/compendium/spells/rank-2/silence|_silence_]] spell.
+Most abilities that designate “a creature you can see” or the like function just as well if the user can precisely sense the subject with a different sense. If a monster uses a sense other than vision, the GM can adapt ways of avoiding detection that work with the monster's senses. For example, a creature that has echolocation might use hearing as a primary sense. This could mean its quarry is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Concealed|concealed]] in a noisy chamber, [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Hidden|hidden]] in a great enough din, or [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Invisible|invisible]] under a [[srd/pf2e/compendium/spells/rank-2/Silence|_silence_]] spell.
 
 ### Using Stealth With Other Senses
 
-The [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] skill is designed to use [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] for avoiding visual detection and [[srd/pf2e/compendium/rules-elements/actions/player-core#Avoid Notice|Avoid Notice]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]] to avoid being both seen and heard. For many special senses, a player can describe how they're avoiding detection by that special sense and use the most applicable Stealth action. For instance, a creature stepping lightly to avoid being detected via [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Tremorsense|tremorsense]] would be using Sneak.
+The [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] skill is designed to use [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] for avoiding visual detection and [[srd/pf2e/compendium/rules-elements/actions/player-core#Avoid Notice|Avoid Notice]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]] to avoid being both seen and heard. For many special senses, a player can describe how they're avoiding detection by that special sense and use the most applicable Stealth action. For instance, a creature stepping lightly to avoid being detected via [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Tremorsense|tremorsense]] would be using Sneak.
 In some cases, rolling a Dexterity-based Stealth skill check to Sneak doesn't make the most sense. For example, a PC trying to avoid being detected by a creature that senses heartbeats might meditate to slow their heart rate, using Wisdom instead of Dexterity for their Stealth check. When a creature could detect you using multiple different senses, use your lowest applicable attribute modifier.
 
 *Source: Player Core p. 432*
 
 ## Dice
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/what-is-a-roleplaying-game#Tools of Play|Tools of Play]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/What is a Roleplaying Game#Tools of Play|Tools of Play]]
 
 Pathfinder requires a set of polyhedral dice. Each die has a different number of sides—four, six, eight, or more. When these dice are mentioned in the text, they’re indicated by a “d” followed by the number of sides on the die. Pathfinder uses 4-sided dice (or d4), 6-sided dice (d6), 8-sided dice (d8), 10-sided dice (d10), 12-sided dice (d12), and 20-sided dice (d20). If you need to roll multiple dice, a number before the “d” tells you how many. For example, “4d6” means you should roll four dice, all 6-sided. If a rule asks for d%, you generate a number from 1 to 100 by rolling two 10-sided dice, treating one as the tens place and the other as the ones place.
 
@@ -452,7 +452,7 @@ Pathfinder requires a set of polyhedral dice. Each die has a different number of
 
 ## Domains
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/religion#Deities|Deities]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Religion#Deities|Deities]]
 
 Clerics and some other devotees can gain domain spells from their deities. The following domains are used by the primary deities of Golarion. See page 113 to learn how clerics gain domain spells, and find the spells on pages 372–381.
 
@@ -460,7 +460,7 @@ Clerics and some other devotees can gain domain spells from their deities. The f
 
 ## Encumbered
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/bulk#Bulk Limits|Bulk Limits]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/Bulk#Bulk Limits|Bulk Limits]]
 
 You are carrying more weight than you can manage. While you’re encumbered, you’re clumsy 1 and take a –10-foot penalty to all your Speeds. As with all penalties to your Speed, this can’t reduce your Speed below 5 feet.
 
@@ -470,7 +470,7 @@ You are carrying more weight than you can manage. While you’re encumbered, you
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Create Forgery|Create Forgery]]
 
-A creature on the lookout for forgeries, even one who was fooled on a passive glance, can take time to closely examine a document to see if it's a forgery. They apply different techniques and analysis methods to look beyond the surface elements and attempt a secret Perception or [[srd/pf2e/compendium/rules-elements/skills/society|Society]] check against the forger's Society DC; any bonus you had to create the forgery initially applies to this DC. On a success, the examiner knows the document is a forgery. On a failure, they think the document is genuine and can't try again unless they get a new reason to be suspicious of the document. If a PC examines a genuine document, the GM might still pretend to roll a secret check before revealing the document is genuine.
+A creature on the lookout for forgeries, even one who was fooled on a passive glance, can take time to closely examine a document to see if it's a forgery. They apply different techniques and analysis methods to look beyond the surface elements and attempt a secret Perception or [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] check against the forger's Society DC; any bonus you had to create the forgery initially applies to this DC. On a success, the examiner knows the document is a forgery. On a failure, they think the document is genuine and can't try again unless they get a new reason to be suspicious of the document. If a PC examines a genuine document, the GM might still pretend to roll a secret check before revealing the document is genuine.
 
 *Source: Player Core p. 244*
 
@@ -492,7 +492,7 @@ When Earning Income, you might be able to spend days of downtime to prepare for 
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Maneuver in Flight|Maneuver in Flight]]
 
-When you fall more than 5 feet, you take falling damage when you land, which is bludgeoning damage equal to half the distance you fell. If you take any damage from a fall, you're knocked prone when you land. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Grab an Edge|Grab an Edge]] as a reaction to reduce or eliminate the damage from some falls. More detailed rules for falling damage appear [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Falling|here]].
+When you fall more than 5 feet, you take falling damage when you land, which is bludgeoning damage equal to half the distance you fell. If you take any damage from a fall, you're knocked prone when you land. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Grab an Edge|Grab an Edge]] as a reaction to reduce or eliminate the damage from some falls. More detailed rules for falling damage appear [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Falling|here]].
 
 *Source: Player Core p. 233*
 
@@ -506,7 +506,7 @@ When you fall more than 5 feet, you take falling damage when you land, which is 
 
 ## Flat Checks
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks|Checks]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks|Checks]]
 
 When the chance something will happen or fail to happen is based purely on chance, you'll attempt a flat check. A flat check never includes any modifiers, bonuses, or penalties—you just roll a d20 and compare the result on the die to the DC. Only abilities that specifically apply to flat checks can change the checks' DCs; most such effects affect only certain types of flat checks.
 
@@ -534,17 +534,17 @@ Reposition and Shove force a creature to move. When an effect forces you to move
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]]
 
-A written formula for an item helps you create it with less difficulty. This has two functions. First, it reduces the time needed to start [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] from 2 days to 1, as you have less preparation to do. Second, you can Craft [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] and rarer items if you're able to acquire their formulas. See [[srd/pf2e/books/player-core/chapter-6-equipment/gear#Formulas|Formulas]] for information on formulas.
+A written formula for an item helps you create it with less difficulty. This has two functions. First, it reduces the time needed to start [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] from 2 days to 1, as you have less preparation to do. Second, you can Craft [[srd/pf2e/compendium/rules-elements/traits/player-core/Uncommon|uncommon]] and rarer items if you're able to acquire their formulas. See [[srd/pf2e/books/player-core/chapter-6-equipment/Gear#Formulas|Formulas]] for information on formulas.
 
 *Source: Player Core p. 237*
 
 ## Fortune and Misfortune
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Step 1: Roll D20|Step 1: Roll D20]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Step 1: Roll D20|Step 1: Roll D20]]
 
-[[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|Fortune]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] effects can alter how you roll your dice. These abilities might allow you to reroll a failed roll, force you to reroll a successful roll, allow you to roll twice and use the higher result, or force you to roll twice and use the lower result.
+[[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|Fortune]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|misfortune]] effects can alter how you roll your dice. These abilities might allow you to reroll a failed roll, force you to reroll a successful roll, allow you to roll twice and use the higher result, or force you to roll twice and use the lower result.
 
-You can never have more than one fortune effect or misfortune effect come into play on a single roll. For instance, if an effect lets you roll twice and use the higher roll, you can't then use [[srd/pf2e/compendium/feats/player-core/ancestry/halfling-luck|Halfling Luck]] (a fortune effect) to reroll if you fail. If multiple fortune effects would apply, you have to pick which to use. If two misfortune effects apply, the GM decides which is worse and applies it.
+You can never have more than one fortune effect or misfortune effect come into play on a single roll. For instance, if an effect lets you roll twice and use the higher roll, you can't then use [[srd/pf2e/compendium/feats/player-core/ancestry/Halfling Luck|Halfling Luck]] (a fortune effect) to reroll if you fail. If multiple fortune effects would apply, you have to pick which to use. If two misfortune effects apply, the GM decides which is worse and applies it.
 
 If both a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.
 
@@ -554,7 +554,7 @@ If both a fortune effect and a misfortune effect would apply to the same roll, t
 
 - **Parent page**: [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|Conditions Appendix]]
 
-[[srd/pf2e/compendium/rules-elements/conditions#Quickened|Quickened]], [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]], and [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] are the primary ways you can gain or lose actions. The rules for how this works appear [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions#Gaining and Losing Actions|here]].. All these conditions alter how many actions you regain at the start of your turn. Gaining quickened or slowed on your turn doesn't adjust your actions that turn. If you get stunned on your turn, first complete any action or activity you're in the middle of. If the stunned condition has a value, lose remaining actions to reduce your stunned value rather than waiting until your next turn.
+[[srd/pf2e/compendium/rules-elements/Conditions#Quickened|Quickened]], [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]], and [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]] are the primary ways you can gain or lose actions. The rules for how this works appear [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Actions#Gaining and Losing Actions|here]].. All these conditions alter how many actions you regain at the start of your turn. Gaining quickened or slowed on your turn doesn't adjust your actions that turn. If you get stunned on your turn, first complete any action or activity you're in the middle of. If the stunned condition has a value, lose remaining actions to reduce your stunned value rather than waiting until your next turn.
 
 Some conditions prevent you from taking a certain subset of actions, typically reactions. Other conditions simply say you can't act. When you can't act, you're unable to take any actions at all. Unlike slowed or stunned, these don't change the number of actions you regain; they just prevent you from using them. That means if you are somehow cured of paralysis on your turn, you can act immediately.
 
@@ -562,7 +562,7 @@ Some conditions prevent you from taking a certain subset of actions, typically r
 
 ## Game Conventions
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/rules-overview|Rules Overview]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Rules Overview|Rules Overview]]
 
 Pathfinder has many specific rules, but you'll also want to keep these general guidelines in mind when playing.
 
@@ -598,17 +598,17 @@ Sometimes a rule could be interpreted multiple ways. If one version is too good 
 
 Some conditions exist relative to one another or share a similar theme. It can be useful to look at these conditions together to understand how they interact.
 
-**Detection:** [[srd/pf2e/compendium/rules-elements/conditions#Observed|Observed]], [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]], [[srd/pf2e/compendium/rules-elements/conditions#Unnoticed|unnoticed]]
-**Senses:** [[srd/pf2e/compendium/rules-elements/conditions#Blinded|Blinded]], [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]], [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]], [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]]
-**Death and Dying:** [[srd/pf2e/compendium/rules-elements/conditions#Doomed|Doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]]
-**Attitudes:** [[srd/pf2e/compendium/rules-elements/conditions#Hostile|Hostile]], [[srd/pf2e/compendium/rules-elements/conditions#Unfriendly|unfriendly]], [[srd/pf2e/compendium/rules-elements/conditions#Indifferent|indifferent]], [[srd/pf2e/compendium/rules-elements/conditions#Friendly|friendly]], [[srd/pf2e/compendium/rules-elements/conditions#Helpful|helpful]]
-**Lowered Abilities:** [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|Clumsy]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]]
+**Detection:** [[srd/pf2e/compendium/rules-elements/Conditions#Observed|Observed]], [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]], [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]], [[srd/pf2e/compendium/rules-elements/Conditions#Unnoticed|unnoticed]]
+**Senses:** [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|Blinded]], [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]], [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]], [[srd/pf2e/compendium/rules-elements/Conditions#Deafened|deafened]], [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]]
+**Death and Dying:** [[srd/pf2e/compendium/rules-elements/Conditions#Doomed|Doomed]], [[srd/pf2e/compendium/rules-elements/Conditions#Dying|dying]], [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/Conditions#Wounded|wounded]]
+**Attitudes:** [[srd/pf2e/compendium/rules-elements/Conditions#Hostile|Hostile]], [[srd/pf2e/compendium/rules-elements/Conditions#Unfriendly|unfriendly]], [[srd/pf2e/compendium/rules-elements/Conditions#Indifferent|indifferent]], [[srd/pf2e/compendium/rules-elements/Conditions#Friendly|friendly]], [[srd/pf2e/compendium/rules-elements/Conditions#Helpful|helpful]]
+**Lowered Abilities:** [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|Clumsy]], [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]]
 
 *Source: Player Core p. 442*
 
 ## Heroic Recovery
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Dying|Dying]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Dying|Dying]]
 
 If you have at least 1 Hero Point (page 413), you can spend all of your remaining Hero Points at the start of your turn or when your dying value would increase. You lose the dying condition entirely and stabilize with 0 Hit Points. You don’t gain the wounded condition or increase its value from losing the dying condition in this way, but if you already had that condition, you don’t lose it or decrease its value.
 
@@ -616,7 +616,7 @@ If you have at least 1 Hero Point (page 413), you can spend all of your remainin
 
 ## Improving Skills
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-4-skills/skill-actions|Skill Actions]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-4-skills/Skill Actions|Skill Actions]]
 
 As your character advances in level, there are two main ways their skills improve: skill increases and skill feats. Your class lists the levels at which you gain each of these improvements.
 
@@ -632,125 +632,125 @@ Skill feats are a type of general feat that often grant you a new way to use a s
 
 ## In-Depth Action Rules
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions|Actions]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Actions|Actions]]
 
 These rules clarify some of the specifics of using actions.
 
 ### Simultaneous Actions
 
-You can use only one single action, activity, or free action that doesn't have a trigger at a time. You must complete one before beginning another. For example, the [[srd/pf2e/compendium/feats/player-core/class/sudden-charge|Sudden Charge]] activity states you must [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] twice and then [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]], so you couldn't use an [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] action to open a door in the middle of the movement, nor could you perform part of the move, make your attack, and then finish the move.
+You can use only one single action, activity, or free action that doesn't have a trigger at a time. You must complete one before beginning another. For example, the [[srd/pf2e/compendium/feats/player-core/class/Sudden Charge|Sudden Charge]] activity states you must [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] twice and then [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]], so you couldn't use an [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] action to open a door in the middle of the movement, nor could you perform part of the move, make your attack, and then finish the move.
 
 Free actions with triggers and reactions work differently. You can use these whenever the trigger occurs, even if the trigger occurs in the middle of another action.
 
 ### Subordinate Actions
 
-An action might allow you to use a simpler action—usually one of the [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions#Basic Actions|Basic Actions]]—in a different circumstance or with different effects. This subordinate action still has its normal traits and effects, but it's modified in any ways listed in the larger action. For example, an activity that tells you to Stride up to half your Speed alters the normal distance you can move in a Stride. The Stride would still have the [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] trait, would still trigger reactions that occur based on movement, and so on. The subordinate action doesn't gain any of the traits of the larger action unless specified. The action that allows you to use a subordinate action doesn't require you to spend more actions or reactions to do so; that cost is already factored in.
+An action might allow you to use a simpler action—usually one of the [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Actions#Basic Actions|Basic Actions]]—in a different circumstance or with different effects. This subordinate action still has its normal traits and effects, but it's modified in any ways listed in the larger action. For example, an activity that tells you to Stride up to half your Speed alters the normal distance you can move in a Stride. The Stride would still have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] trait, would still trigger reactions that occur based on movement, and so on. The subordinate action doesn't gain any of the traits of the larger action unless specified. The action that allows you to use a subordinate action doesn't require you to spend more actions or reactions to do so; that cost is already factored in.
 
-Using an activity is not the same as using any of its subordinate actions. For example, the [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] condition you get from the [[srd/pf2e/compendium/spells/rank-3/haste|_haste_]] spell lets you spend an extra action each turn to Stride or Strike, but you couldn't use the extra action for an activity that includes a Stride or Strike. As another example, if you used an action that specified, “If the next action you use is a Strike,” an activity that includes a Strike wouldn't count, because the next thing you are doing is starting an activity, not using the Strike basic action
+Using an activity is not the same as using any of its subordinate actions. For example, the [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]] condition you get from the [[srd/pf2e/compendium/spells/rank-3/Haste|_haste_]] spell lets you spend an extra action each turn to Stride or Strike, but you couldn't use the extra action for an activity that includes a Stride or Strike. As another example, if you used an action that specified, “If the next action you use is a Strike,” an activity that includes a Strike wouldn't count, because the next thing you are doing is starting an activity, not using the Strike basic action
 
 *Source: Player Core p. 414*
 
 ## Key Terms
 
-- **Parent page**: [[srd/pf2e/compendium/character/classes/bard|Bard]]
+- **Parent page**: [[srd/pf2e/compendium/character/classes/Bard|Bard]]
 
 You'll see the following key terms in many bard class features.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/composition|Composition]]:** To cast a composition cantrip or focus spell, you use a type of [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]. If the spell requires an auditory performance, you might recite a poem, sing a song, or perform a dramatic monologue. If the spell requires a visual performance, you might dance or pantomime. You can cast only one composition spell each turn, and you can have only one active at a time. If you cast a new composition spell, any ongoing effects from your previous composition spell end immediately.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Composition|Composition]]:** To cast a composition cantrip or focus spell, you use a type of [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]. If the spell requires an auditory performance, you might recite a poem, sing a song, or perform a dramatic monologue. If the spell requires a visual performance, you might dance or pantomime. You can cast only one composition spell each turn, and you can have only one active at a time. If you cast a new composition spell, any ongoing effects from your previous composition spell end immediately.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
 
 *Source: Player Core p. 94*
 
 ## Key Terms
 
-- **Parent page**: [[srd/pf2e/compendium/character/classes/cleric|Cleric]]
+- **Parent page**: [[srd/pf2e/compendium/character/classes/Cleric|Cleric]]
 
 You'll see the following term in many cleric class features.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]]:** These traits mark something, like your character or a spell, that belongs to one side of the battle between [[srd/pf2e/compendium/rules-elements/traits/player-core/celestial|celestials]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiends]]. Generally, fiends and [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] are susceptible to holy abilities and celestials to unholy ones.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|Holy]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|Unholy]]:** These traits mark something, like your character or a spell, that belongs to one side of the battle between [[srd/pf2e/compendium/rules-elements/traits/player-core/Celestial|celestials]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Fiend|fiends]]. Generally, fiends and [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]] are susceptible to holy abilities and celestials to unholy ones.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/sanctified|Sanctified]]:** If you are holy or unholy, your sanctified actions and spells gain the same trait.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Sanctified|Sanctified]]:** If you are holy or unholy, your sanctified actions and spells gain the same trait.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|Spellshape]]:** These actions tweak your spells. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Effects added by a spellshape action are part of the spell's effect, not of the spellshape action.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Spellshape|Spellshape]]:** These actions tweak your spells. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Effects added by a spellshape action are part of the spell's effect, not of the spellshape action.
 
 *Source: Player Core p. 108*
 
 ## Key Terms
 
-- **Parent page**: [[srd/pf2e/compendium/character/classes/druid|Druid]]
+- **Parent page**: [[srd/pf2e/compendium/character/classes/Druid|Druid]]
 
 You'll see the following key term in many druid class features.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
 
 *Source: Player Core p. 122*
 
 ## Key Terms
 
-- **Parent page**: [[srd/pf2e/compendium/character/classes/fighter|Fighter]]
+- **Parent page**: [[srd/pf2e/compendium/character/classes/Fighter|Fighter]]
 
 Below are some key terms in many fighter class features.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/flourish|Flourish]]:** Actions with the flourish trait are special techniques that require too much exertion for you to perform frequently. You can use only one action with the flourish trait per round.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Flourish|Flourish]]:** Actions with the flourish trait are special techniques that require too much exertion for you to perform frequently. You can use only one action with the flourish trait per round.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/press|Press]]:** Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. You can't use a press action when it's not your turn, even if you use the [[srd/pf2e/compendium/equipment/runes/ready|Ready]] activity.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Press|Press]]:** Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. You can't use a press action when it's not your turn, even if you use the [[srd/pf2e/compendium/equipment/runes/Ready|Ready]] activity.
 Some actions with the press trait also grant an effect on a failure. The effects that are added on a failure don't apply on a critical failure. If your press action succeeds, you can choose to apply the failure effect instead. (For example, you may wish to do this when an attack deals no damage due to resistance.)
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/stance|Stance]]:** A stance is a general combat strategy that you enter by using an action with the stance trait, and you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you use a stance action again, whichever comes first. After you take an action with the stance trait, you can't take another one for 1 round. You can enter or be in a stance only in encounter mode. You can Dismiss a stance.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Stance|Stance]]:** A stance is a general combat strategy that you enter by using an action with the stance trait, and you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you use a stance action again, whichever comes first. After you take an action with the stance trait, you can't take another one for 1 round. You can enter or be in a stance only in encounter mode. You can Dismiss a stance.
 
 *Source: Player Core p. 136*
 
 ## Key Terms
 
-- **Parent page**: [[srd/pf2e/compendium/character/classes/ranger|Ranger]]
+- **Parent page**: [[srd/pf2e/compendium/character/classes/Ranger|Ranger]]
 
 You'll see these key terms in many ranger class features.
 
  **Flourish**: Actions with the flourish trait are special techniques that require too much exertion for you to perform frequently. You can use only one action with the flourish trait per round.
 
-**Press**: Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. You can't use a press action when it's not your turn, even if you use the [[srd/pf2e/compendium/equipment/runes/ready|Ready]] activity.
+**Press**: Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. You can't use a press action when it's not your turn, even if you use the [[srd/pf2e/compendium/equipment/runes/Ready|Ready]] activity.
  Some actions with the press trait also grant an effect on a failure. The effects that are added on a failure don't apply on a critical failure. If your press action succeeds, you can choose to apply the failure effect instead. (For example, you may wish to do this when an attack deals no damage due to resistance.)
 
 **Warden Spells:** Your relationship with the world around you extends from the physical to the magical. Certain feats grant you warden spells, which are a type of focus spell. It costs 1 Focus Point to cast a focus spell. When you gain your first warden spell, you also gain a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you regain 1 Focus Point by spending 10 minutes using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]] activity to commune with nature.
  Your warden spells are primal spells. When you first gain a warden spell, you become trained in spell attacks and spell DCs. Your spellcasting attribute is Wisdom.
- Focus spells are automatically heightened to half your level rounded up. Certain feats give you more focus spells. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but it can never be more than 3 points. The full rules for focus spells appear [[srd/pf2e/books/player-core/chapter-7-spells/focus-spells|here]].
+ Focus spells are automatically heightened to half your level rounded up. Certain feats give you more focus spells. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but it can never be more than 3 points. The full rules for focus spells appear [[srd/pf2e/books/player-core/chapter-7-spells/Focus Spells|here]].
 
 *Source: Player Core p. 152*
 
 ## Key Terms
 
-- **Parent page**: [[srd/pf2e/compendium/character/classes/rogue|Rogue]]
+- **Parent page**: [[srd/pf2e/compendium/character/classes/Rogue|Rogue]]
 
 Below are some key terms in many rogue class features.
 
 **Debilitation:** Debilitations apply conditions and other negative effects to a creature. When the creature is affected by a new debilitation, any previous one it was affected by ends.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/flourish|Flourish]]:** Actions with this trait are special techniques that require too much exertion for you to perform frequently. You can use only 1 action with the flourish trait per turn.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Flourish|Flourish]]:** Actions with this trait are special techniques that require too much exertion for you to perform frequently. You can use only 1 action with the flourish trait per turn.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/stance|Stance]]:** A stance is a general combat strategy that you enter by using an action with the stance trait, and you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you use a stance action again, whichever comes first. After you take an action with the stance trait, you can't take another one for 1 round. You can enter or be in a stance only in encounter mode. You can Dismiss a stance.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Stance|Stance]]:** A stance is a general combat strategy that you enter by using an action with the stance trait, and you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you use a stance action again, whichever comes first. After you take an action with the stance trait, you can't take another one for 1 round. You can enter or be in a stance only in encounter mode. You can Dismiss a stance.
 
 *Source: Player Core p. 164*
 
 ## Key Terms
 
-- **Parent page**: [[srd/pf2e/compendium/character/classes/witch|Witch]]
+- **Parent page**: [[srd/pf2e/compendium/character/classes/Witch|Witch]]
 
 You'll see these key terms in many witch class features.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/hex|Hex]]:** A hex is a spell caused by your patron's direct attention and intervention. Your patron does not take well to being disturbed repeatedly, so you can cast only one spell that has the hex trait each turn; attempts to use a second automatically fail and usually cause your familiar to hiss in displeasure as your patron rejects your call.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Hex|Hex]]:** A hex is a spell caused by your patron's direct attention and intervention. Your patron does not take well to being disturbed repeatedly, so you can cast only one spell that has the hex trait each turn; attempts to use a second automatically fail and usually cause your familiar to hiss in displeasure as your patron rejects your call.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
 
 *Source: Player Core p. 178*
 
 ## Key Terms
 
-- **Parent page**: [[srd/pf2e/compendium/character/classes/wizard|Wizard]]
+- **Parent page**: [[srd/pf2e/compendium/character/classes/Wizard|Wizard]]
 
 You'll see the following key term in many wizard abilities.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
 
 *Source: Player Core p. 192*
 
@@ -776,7 +776,7 @@ The Leap basic action is used for High Jump and Long Jump. A **horizontal** Leap
 
 ## Leveling-up Checklist
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/leveling-up|Leveling Up]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Leveling Up|Leveling Up]]
 
 Every time you gain a level, make sure you do each of the following:
 
@@ -816,7 +816,7 @@ An instinctual connection to and faith in the world, the cycle of day and night,
 
 - **Parent page**: Identify Magic
 
-Each magical tradition has a corresponding skill, as shown on the table below. You must have the trained proficiency rank in a skill to use it to Identify Magic or Learn a Spell. Something without a specific tradition, such as an item with the [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] trait, can be identified using any of these skills.
+Each magical tradition has a corresponding skill, as shown on the table below. You must have the trained proficiency rank in a skill to use it to Identify Magic or Learn a Spell. Something without a specific tradition, such as an item with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]] trait, can be identified using any of these skills.
 
 ## Magical Traditions and Skills
 
@@ -826,7 +826,7 @@ Each magical tradition has a corresponding skill, as shown on the table below. Y
 
 ## Materials
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/armor#Armor Statistics|Armor Statistics]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/Armor#Armor Statistics|Armor Statistics]]
 
 Most suits of armor and weapons are made from ordinary, commonly available materials like iron, leather, steel, and wood. If you're not sure what a suit of armor is made of, the GM determines the details.
 
@@ -836,7 +836,7 @@ Some armor, shields, and weapons are instead made of precious materials. These o
 
 ## Monster Core Dragons
 
-- **Parent page**: [[srd/pf2e/compendium/spells/rank-6/dragon-form|Dragon Form]]
+- **Parent page**: [[srd/pf2e/compendium/spells/rank-6/Dragon Form|Dragon Form]]
 
 The dragons from Lost Omens: Draconic Codex use the following specifications for dragon form. 
 
@@ -887,15 +887,15 @@ WishArcaneClimbCone of mentalWill
 
 ## Multiple Attacks with Athletics
 
-- **Parent page**: [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Parent page**: [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-Several Athletics actions have the [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] trait, meaning that using them more than once in the same turn makes them less accurate. Since these actions use your free hand, you use the traits for your fist attack to determine the multiple attack penalty, so your fist's [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] trait applies. Therefore, you take a –4 penalty if the action is your second attack of the turn, or a –8 if it's the third. Some weapon traits allow you to take these actions using a weapon, in which case the penalty might be –5 or –10 if the weapon doesn't have the agile trait. Some characters can get unarmed attacks without the agile trait as well. If it's unclear which penalty to use, the GM makes the call.
+Several Athletics actions have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]] trait, meaning that using them more than once in the same turn makes them less accurate. Since these actions use your free hand, you use the traits for your fist attack to determine the multiple attack penalty, so your fist's [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]] trait applies. Therefore, you take a –4 penalty if the action is your second attack of the turn, or a –8 if it's the third. Some weapon traits allow you to take these actions using a weapon, in which case the penalty might be –5 or –10 if the weapon doesn't have the agile trait. Some characters can get unarmed attacks without the agile trait as well. If it's unclear which penalty to use, the GM makes the call.
 
 *Source: Player Core p. 234*
 
 ## Optional: Voluntary Flaws
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Step 3: Select an Ancestry|Step 3: Select an Ancestry]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation#Step 3: Select an Ancestry|Step 3: Select an Ancestry]]
 
 Sometimes, it’s fun to play a character with a major flaw regardless of your ancestry. You can elect to take additional attribute flaws when applying the attribute boosts and attribute flaws from your ancestry. This is purely for roleplaying a highly flawed character, and you should consult with the rest of your group if you plan to do this! You can’t apply more than one flaw to any single attribute modifier.
 
@@ -903,7 +903,7 @@ Sometimes, it’s fun to play a character with a major flaw regardless of your a
 
 ## Other Spell Traits
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-7-spells/reading-spells|Reading Spells]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-7-spells/Reading Spells|Reading Spells]]
 
 Below is a glossary of a few traits you might see with important rules.
 
@@ -943,7 +943,7 @@ If a creature engages with an illusion in a way that would prove it's not what i
 
 ## Overview
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation|Character Creation]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation|Character Creation]]
 
 When you turn the page, you'll see a visual representation of ancestries and classes that provides at-a-glance information for players looking to make the most of their starting attribute modifiers. In the ancestries overview on page 20, each entry lists which attribute modifiers it boosts, and also indicates any attribute flaws the ancestry might have. You can find more about attribute boosts and flaws in Attribute Modifiers on page 19.
 
@@ -955,7 +955,7 @@ A character's background also affects their attribute modifiers, though there's 
 
 ## Pathfinder Society
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/golarion-and-the-inner-sea#What Does My Character Know?|What Does My Character Know?]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Golarion and the Inner Sea#What Does My Character Know?|What Does My Character Know?]]
 
 A prominent group of adventurers, explorers, and chronicle-keepers, the Pathfinder Society is well known across Golarion. This name is shared with Paizo's official organized play campaign played around our world. Visit **PathfinderSociety.club** to learn how you can participate!
 
@@ -963,7 +963,7 @@ A prominent group of adventurers, explorers, and chronicle-keepers, the Pathfind
 
 ## Persistent Damage Rules
 
-- **Parent page**: [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|Persistent Damage]]
+- **Parent page**: [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|Persistent Damage]]
 
 The additional rules presented below apply to persistent damage in certain cases.
 
@@ -989,7 +989,7 @@ You can be simultaneously affected by multiple persistent damage conditions so l
 
 ## Pet Feat Abilities
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-3-classes/companions#Familiar Abilities|Familiar Abilities]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-3-classes/Companions#Familiar Abilities|Familiar Abilities]]
 
 The following abilities you can choose from the Pet general feat (page 259) are repeated here for convenience.
 
@@ -1007,7 +1007,7 @@ If you want to quickly decide how to spend your starting money on what your clas
 
 ## Reactions to Movement
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Tactical Movement|Tactical Movement]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Tactical Movement|Tactical Movement]]
 
 Some reactions and free actions are triggered by a creature using an action with the move trait. The most notable example is Reactive Strike (reproduced below). Actions with the move trait can trigger reactions or free actions throughout the course of the distance traveled. Each time you exit a square within a creature's reach, your movement triggers those reactions and free actions (although no more than once per move action for a given reacting creature). If you use a move action but don't move out of a square, the trigger instead happens at the end of that action or ability.
 
@@ -1019,7 +1019,7 @@ Some actions, such as Step, specifically state they don't trigger reactions or f
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]]
 
-When encountering a subject for the first time, your first question will likely be a basic “What is it?”, which the GM can answer with a name and basic description like, “That's an ogre, a tough and cruel giant” or “This is the symbol of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa]], a goddess of disease, gluttony, and undeath.” If you already know this base level of detail on the subject, the list below includes some reasonable questions. The GM determines what other questions to allow. Usually this is simple as long as you stick to one question. Any question must be about something observable in the game world, not the abstract numbers of the rules. The GM might tell you a lumbering monster's Reflex save is its weakest—translating a concept your character could understand using the game term for clarity—but wouldn't reveal the exact Reflex modifier. The GM can find more guidance in _[[srd/pf2e/books/gm-core/chapter-1-running-the-game/difficulty-classes#Recall Knowledge|GM Core]]_.
+When encountering a subject for the first time, your first question will likely be a basic “What is it?”, which the GM can answer with a name and basic description like, “That's an ogre, a tough and cruel giant” or “This is the symbol of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Urgathoa|Urgathoa]], a goddess of disease, gluttony, and undeath.” If you already know this base level of detail on the subject, the list below includes some reasonable questions. The GM determines what other questions to allow. Usually this is simple as long as you stick to one question. Any question must be about something observable in the game world, not the abstract numbers of the rules. The GM might tell you a lumbering monster's Reflex save is its weakest—translating a concept your character could understand using the game term for clarity—but wouldn't reveal the exact Reflex modifier. The GM can find more guidance in _[[srd/pf2e/books/gm-core/chapter-1-running-the-game/Difficulty Classes#Recall Knowledge|GM Core]]_.
 
  **Creatures**: “Can it be reasoned with?” “What environments does it live in?” “What's its most notable offensive ability?” “Is it highly vulnerable or resistant to anything?” “Are any of its defenses weak?”
 
@@ -1037,10 +1037,10 @@ When encountering a subject for the first time, your first question will likely 
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]]
 
-The following skills can be used to Recall Knowledge about the listed topics. Some topics might appear on multiple lists, but the skills could give different information. For example, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] might tell you about the magical defenses of a construct, whereas [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] could tell you about its sturdy resistance to physical attacks.
+The following skills can be used to Recall Knowledge about the listed topics. Some topics might appear on multiple lists, but the skills could give different information. For example, [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] might tell you about the magical defenses of a construct, whereas [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] could tell you about its sturdy resistance to physical attacks.
 
  
-**Arcana**: Arcane theories, magical traditions, creatures of arcane significance, and arcane planes.**Crafting**: Alchemical reactions and creatures, item value, engineering, unusual materials, and constructs.**Lore**: The subject of the Lore skill's subcategory.**Medicine**: Diseases, poisons, wounds, and forensics.**Nature**: The environment, flora, geography, weather, creatures of natural origin, and natural planes.**Occultism**: Ancient mysteries, folk superstition, obscure philosophy, creatures of occult significance, and esoteric planes.**Religion**: Divine agents, divine planes, theology, obscure myths, and creatures of religious significance.**Society**: Local history, key personalities, legal institutions, societal structure, and humanoid culture. Using an applicable Lore to Recall Knowledge about a topic, such as Engineering Lore instead of Crafting to find structural weaknesses in a bridge, typically comes with a lower DC. Your special interests can pay off! In some cases, you can get the GM's permission to use a different but related skill, usually against a higher DC than normal. The GM might allow checks to Recall Knowledge using other skills. For example, you might assess the skill of an acrobat using [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]]. If you're using a physical skill (like in this example), the GM will most likely have you use a mental modifier—typically Intelligence—instead of the skill's normal physical attribute modifier.
+**Arcana**: Arcane theories, magical traditions, creatures of arcane significance, and arcane planes.**Crafting**: Alchemical reactions and creatures, item value, engineering, unusual materials, and constructs.**Lore**: The subject of the Lore skill's subcategory.**Medicine**: Diseases, poisons, wounds, and forensics.**Nature**: The environment, flora, geography, weather, creatures of natural origin, and natural planes.**Occultism**: Ancient mysteries, folk superstition, obscure philosophy, creatures of occult significance, and esoteric planes.**Religion**: Divine agents, divine planes, theology, obscure myths, and creatures of religious significance.**Society**: Local history, key personalities, legal institutions, societal structure, and humanoid culture. Using an applicable Lore to Recall Knowledge about a topic, such as Engineering Lore instead of Crafting to find structural weaknesses in a bridge, typically comes with a lower DC. Your special interests can pay off! In some cases, you can get the GM's permission to use a different but related skill, usually against a higher DC than normal. The GM might allow checks to Recall Knowledge using other skills. For example, you might assess the skill of an acrobat using [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]]. If you're using a physical skill (like in this example), the GM will most likely have you use a mental modifier—typically Intelligence—instead of the skill's normal physical attribute modifier.
 
 *Source: Player Core p. 231*
 
@@ -1050,19 +1050,19 @@ The following skills can be used to Recall Knowledge about the listed topics. So
 
 You can have a given condition only once at a time. If an effect would impose a condition you already have, you now have that condition for the longer of the two durations. The shorter-duration condition effectively ends, though other conditions caused by the original, shorter-duration effect might continue.
 
-For example, let's say you have been hit by a monster that crushes your arm; your wound causes you to be [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 2 and [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the end of the monster's next turn. Before the end of that creature's next turn, a trap poisons you, making you enfeebled 2 for 1 minute. In this case, the enfeebled 2 that lasts for 1 minute replaces the enfeebled 2 from the monster, so you would be enfeebled 2 for the longer duration. You would remain off-guard, since nothing replaced that condition, and it still lasts only until the end of the monster's next turn.
+For example, let's say you have been hit by a monster that crushes your arm; your wound causes you to be [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]] 2 and [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] until the end of the monster's next turn. Before the end of that creature's next turn, a trap poisons you, making you enfeebled 2 for 1 minute. In this case, the enfeebled 2 that lasts for 1 minute replaces the enfeebled 2 from the monster, so you would be enfeebled 2 for the longer duration. You would remain off-guard, since nothing replaced that condition, and it still lasts only until the end of the monster's next turn.
 
 Any ability that removes a condition removes it entirely, no matter what its condition value is or how many times you've been affected by it. In the example above, a spell that removes the enfeebled condition from you would remove it entirely—the spell wouldn't need to remove it twice.
 
 ### Redundant Conditions With Values
 
-Conditions with different values are considered different conditions. If you're affected by a condition with a value multiple times, you apply only the highest value, although you might have to track both durations if one has a lower value but lasts longer. For example, if you had a [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 2 condition that lasts 1 round and a slowed 1 condition that lasts for 6 rounds, you'd be slowed 2 for the first round, and then you'd change to slowed 1 for the remaining 5 rounds of the second effect's duration. If something reduces the condition value, it reduces it for all conditions of that name affecting you. For instance, in this example above, if something reduced your slowed value by 1, it would reduce the first condition from the example to slowed 1 and reduce the second to slowed 0, removing it.
+Conditions with different values are considered different conditions. If you're affected by a condition with a value multiple times, you apply only the highest value, although you might have to track both durations if one has a lower value but lasts longer. For example, if you had a [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]] 2 condition that lasts 1 round and a slowed 1 condition that lasts for 6 rounds, you'd be slowed 2 for the first round, and then you'd change to slowed 1 for the remaining 5 rounds of the second effect's duration. If something reduces the condition value, it reduces it for all conditions of that name affecting you. For instance, in this example above, if something reduced your slowed value by 1, it would reduce the first condition from the example to slowed 1 and reduce the second to slowed 0, removing it.
 
 *Source: Player Core p. 442*
 
 ## Riding Animal Companions
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-3-classes/companions#Companion Types|Companion Types]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-3-classes/Companions#Companion Types|Companion Types]]
 
 You or an ally can ride your animal companion as long as it is at least one size larger than the rider. If it is carrying a rider, the animal companion can use only its land Speed, and it can’t move and Support you on the same turn. However, if your companion has the mount special ability, it’s especially suited for riding and ignores both of these restrictions.
 
@@ -1070,19 +1070,19 @@ You or an ally can ride your animal companion as long as it is at least one size
 
 ## Sanctification
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/religion#Deities|Deities]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Religion#Deities|Deities]]
 
-Some deities sanctify their clerics and similarly devoted followers. This gives the follower the holy or unholy trait. The **[[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] trait** indicates a powerful devotion to altruism, helping others, and battling against unholy forces like fiends and undead. The **[[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait**, in turn, shows devotion to victimizing others, inflicting harm, and battling celestial powers. Deities that list "must choose" mandate gaining the trait and those that list "can choose" give the devotee the option to choose the trait or not. You can have the holy trait, unholy trait, or neither, but can never have both the holy and unholy traits.
+Some deities sanctify their clerics and similarly devoted followers. This gives the follower the holy or unholy trait. The **[[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]] trait** indicates a powerful devotion to altruism, helping others, and battling against unholy forces like fiends and undead. The **[[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]] trait**, in turn, shows devotion to victimizing others, inflicting harm, and battling celestial powers. Deities that list "must choose" mandate gaining the trait and those that list "can choose" give the devotee the option to choose the trait or not. You can have the holy trait, unholy trait, or neither, but can never have both the holy and unholy traits.
 
-Spells and other effects can also have these traits, making them more powerful against creatures with the opposite trait. Some spells and abilities have the **[[srd/pf2e/compendium/rules-elements/traits/player-core/sanctified|sanctified]] trait**. If you have the holy or unholy trait, your sanctified actions and spells gain the same trait.
+Spells and other effects can also have these traits, making them more powerful against creatures with the opposite trait. Some spells and abilities have the **[[srd/pf2e/compendium/rules-elements/traits/player-core/Sanctified|sanctified]] trait**. If you have the holy or unholy trait, your sanctified actions and spells gain the same trait.
 
 *Source: Player Core p. 35*
 
 ## Secret Checks
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks|Checks]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks|Checks]]
 
-Sometimes you as the player shouldn't know the exact result and effect of a check. In these situations, the rules (or the GM) will call for a secret check. The [[srd/pf2e/compendium/rules-elements/traits/player-core/secret|secret]] trait appears on anything that uses secret checks. This type of check uses the same formulas you normally would use for that check, but is rolled by the GM, who doesn't reveal the result. Instead, the GM simply describes the information or effects determined by the check's result. If you don't know a secret check is happening (for instance, if the GM rolls a secret Fortitude save against a poison that you failed to notice), you can't use any [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] abilities on that check, but if a fortune or misfortune effect would apply automatically, the GM applies it to the secret check. If you know that the GM is attempting a secret check—as often happens with [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]]—you can usually activate fortune or misfortune abilities for that check. Just tell the GM, and they'll apply the ability to the check.
+Sometimes you as the player shouldn't know the exact result and effect of a check. In these situations, the rules (or the GM) will call for a secret check. The [[srd/pf2e/compendium/rules-elements/traits/player-core/Secret|secret]] trait appears on anything that uses secret checks. This type of check uses the same formulas you normally would use for that check, but is rolled by the GM, who doesn't reveal the result. Instead, the GM simply describes the information or effects determined by the check's result. If you don't know a secret check is happening (for instance, if the GM rolls a secret Fortitude save against a poison that you failed to notice), you can't use any [[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|misfortune]] abilities on that check, but if a fortune or misfortune effect would apply automatically, the GM applies it to the secret check. If you know that the GM is attempting a secret check—as often happens with [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]]—you can usually activate fortune or misfortune abilities for that check. Just tell the GM, and they'll apply the ability to the check.
 
 The GM can choose to make any check secret, even if it's not usually rolled secretly. Conversely, the GM can let you roll any check yourself, even if that check would usually be secret. Some groups find it simpler to have players roll all secret checks and just try to avoid acting on any out-of-character knowledge, while others enjoy the mystery.
 
@@ -1090,13 +1090,13 @@ The GM can choose to make any check secret, even if it's not usually rolled secr
 
 ## Skill Downtime Activities
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/downtime-mode#Shopping and Crafting|Shopping and Crafting]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Downtime Mode#Shopping and Crafting|Shopping and Crafting]]
 
 [[srd/pf2e/books/player-core/chapter-4-skills/chapter-4-skills|Chapter 4: Skills]] includes several downtime activities, which are summarized here.
 
-**[[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]]:** Using the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill, you can create items from raw materials.
+**[[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]]:** Using the [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] skill, you can create items from raw materials.
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Create Forgery|Create Forgery]]:** You forge a document.
-**[[srd/pf2e/compendium/rules-elements/actions/player-core#Earn Income|Earn Income]]:** You earn money, typically using Crafting, [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]], or [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]].
+**[[srd/pf2e/compendium/rules-elements/actions/player-core#Earn Income|Earn Income]]:** You earn money, typically using Crafting, [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]], or [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]].
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Subsist|Subsist]]:** You find food and shelter in the wilderness or within a settlement.
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Disease|Treat Disease]]:** You spend time caring for a diseased creature in the hope of curing that creature.
 
@@ -1104,31 +1104,31 @@ The GM can choose to make any check secret, even if it's not usually rolled secr
 
 ## Skill Exploration Activities
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/exploration-mode#Exploration Activities|Exploration Activities]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Exploration Mode#Exploration Activities|Exploration Activities]]
 
 [[srd/pf2e/books/player-core/chapter-4-skills/chapter-4-skills|Chapter 4: Skills]] includes additional exploration activities.
 
-**[[srd/pf2e/compendium/rules-elements/actions/player-core#Borrow an Arcane Spell|Borrow an Arcane Spell]]:** You use [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] to prepare a spell from someone else's spellbook.
-**[[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]]:** You use [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] to threaten a creature so it does what you want.
-**[[srd/pf2e/compendium/rules-elements/actions/player-core#Cover Tracks|Cover Tracks]]:** You use [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] to obscure your passing.
+**[[srd/pf2e/compendium/rules-elements/actions/player-core#Borrow an Arcane Spell|Borrow an Arcane Spell]]:** You use [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] to prepare a spell from someone else's spellbook.
+**[[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]]:** You use [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] to threaten a creature so it does what you want.
+**[[srd/pf2e/compendium/rules-elements/actions/player-core#Cover Tracks|Cover Tracks]]:** You use [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] to obscure your passing.
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Decipher Writing|Decipher Writing]]:** You use a suitable skill to understand archaic, esoteric, or obscure texts.
-**[[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]]:** You use [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] to canvass the area to learn about a specific individual or topic.
-**[[srd/pf2e/compendium/rules-elements/actions/player-core#Identify Alchemy|Identify Alchemy]]:** You use [[srd/pf2e/compendium/rules-elements/skills/crafting|Craft]] and [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|alchemist's tools]] to identify an [[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|alchemical]] item.
+**[[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]]:** You use [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] to canvass the area to learn about a specific individual or topic.
+**[[srd/pf2e/compendium/rules-elements/actions/player-core#Identify Alchemy|Identify Alchemy]]:** You use [[srd/pf2e/compendium/rules-elements/skills/Crafting|Craft]] and [[srd/pf2e/compendium/equipment/adventuring-gear/Alchemist's Toolkit|alchemist's tools]] to identify an [[srd/pf2e/compendium/rules-elements/traits/player-core/Alchemical|alchemical]] item.
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Identify Magic|Identify Magic]]:** Using a variety of skills, you can learn about a magic item, location, or ongoing effect.
-**[[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]]:** You use [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] and usually a [[srd/pf2e/compendium/equipment/adventuring-gear/disguise-kit|disguise kit]] to create a disguise.
+**[[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]]:** You use [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] and usually a [[srd/pf2e/compendium/equipment/adventuring-gear/Disguise Kit|disguise kit]] to create a disguise.
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Learn a Spell|Learn a Spell]]:** You use the skill corresponding to the spell's tradition to gain access to a new spell.
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]]:** You use Diplomacy to make a good impression on someone (page 239).
-**[[srd/pf2e/compendium/rules-elements/actions/player-core#Repair|Repair]]:** With a [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|repair kit]] and the Crafting skill, you fix a damaged item.
+**[[srd/pf2e/compendium/rules-elements/actions/player-core#Repair|Repair]]:** With a [[srd/pf2e/compendium/equipment/adventuring-gear/Repair Toolkit|repair kit]] and the Crafting skill, you fix a damaged item.
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Direction|Sense Direction]]:** You use Survival to get a sense of where you are or determine cardinal directions.
-**[[srd/pf2e/compendium/rules-elements/actions/player-core#Squeeze|Squeeze]]:** Using [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], you squeeze though very tight spaces.
+**[[srd/pf2e/compendium/rules-elements/actions/player-core#Squeeze|Squeeze]]:** Using [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], you squeeze though very tight spaces.
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]]:** You use Survival to follow tracks.
-**[[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]]:** You use [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] to treat a living creature's wounds.
+**[[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]]:** You use [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] to treat a living creature's wounds.
 
 *Source: Player Core p. 438*
 
 ## Speaking
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions#Basic Actions|Basic Actions]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Actions#Basic Actions|Basic Actions]]
 
 As long as you can act, you can also speak. You don't need to spend any type of action to speak, but because a round represents 6 seconds of time, you can usually speak at most a single sentence or so per round. Special uses of speech, such as attempting a Deception skill check to Lie, require spending actions and follow their own rules. All speech has the auditory trait. If you communicate in some way other than speech, other rules might apply. For instance, using sign language is visual instead of auditory.
 
@@ -1136,7 +1136,7 @@ As long as you can act, you can also speak. You don't need to spend any type of 
 
 ## Spells and Spellcasting
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Step 9: Calculate Modifiers|Step 9: Calculate Modifiers]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation#Step 9: Calculate Modifiers|Step 9: Calculate Modifiers]]
 
 Many characters can learn a few cantrips or focus spells, but the bard, cleric, druid, witch, and wizard all gain spellcasting—the ability to cast a wide variety of spells. If your character’s class grants spells, you should take time during Step 7 to learn about the spells they know and how to cast them. The fourth page of the character sheet provides space to note your character’s magic tradition and their proficiency rank for their spell attack modifier and spell DC. It also gives space to record the spells in your character’s repertoire or spellbook. Each class determines how and which spells a character can cast, but the spells themselves and detailed rules for spellcasting are located in Chapter 7.
 
@@ -1144,7 +1144,7 @@ Many characters can learn a few cantrips or focus spells, but the bard, cleric, 
 
 ## Spellshape
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-7-spells/ranges-areas-and-targets|Ranges, Areas, and Targets]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-7-spells/Ranges, Areas, and Targets|Ranges, and Targets]]
 
 Many spellcasters can gain access to spellshape actions, typically by selecting spellshape feats. Spellshape actions tweak the properties of your spells. You must use a spellshape action directly before casting the spell you want to alter. If you use any action (including free actions and reactions) other than casting a spell directly after, you waste the benefits of the spellshape action. The benefit is also lost if your turn ends before you cast the spell. Any additional effects added by a spellshape action are part of the spell’s effect, not of the spellshape action itself.
 
@@ -1154,21 +1154,21 @@ Many spellcasters can gain access to spellshape actions, typically by selecting 
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]]
 
-See [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Attack Rolls|Attack Rolls]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/damage-rolls|Damage]] for details on calculating your attack and damage rolls. The damage roll for a Strike uses the damage die of the weapon or unarmed attack, plus any modifiers, bonuses, and penalties you have to damage. If you're using a type of attack other than a Strike, such as a spell attack or Grapple action, you calculate damage differently (or not at all).
+See [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Attack Rolls|Attack Rolls]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Damage Rolls|Damage]] for details on calculating your attack and damage rolls. The damage roll for a Strike uses the damage die of the weapon or unarmed attack, plus any modifiers, bonuses, and penalties you have to damage. If you're using a type of attack other than a Strike, such as a spell attack or Grapple action, you calculate damage differently (or not at all).
 
 *Source: Player Core p. 418*
 
 ## Subtle Spells
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-7-spells/ranges-areas-and-targets|Ranges, Areas, and Targets]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-7-spells/Ranges, Areas, and Targets|Ranges, and Targets]]
 
-A spell with the subtle trait can be cast without incantations and doesn't have obvious manifestations. Most of these spells enhance your subterfuge or stealth, such as invisibility. Some abilities, like the [[srd/pf2e/compendium/feats/player-core/class/conceal-spell|Conceal Spell]] feat, allow you to make spells subtle even if they wouldn't normally be.
+A spell with the subtle trait can be cast without incantations and doesn't have obvious manifestations. Most of these spells enhance your subterfuge or stealth, such as invisibility. Some abilities, like the [[srd/pf2e/compendium/feats/player-core/class/Conceal Spell|Conceal Spell]] feat, allow you to make spells subtle even if they wouldn't normally be.
 
 *Source: Player Core p. 300*
 
 ## Targeting Companions
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-3-classes/companions#Familiar Abilities|Familiar Abilities]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-3-classes/Companions#Familiar Abilities|Familiar Abilities]]
 
 Some spells and abilities can affect your companion. When “companion” is used in a stat block, it refers to animal companions, familiars, and types of companions appearing in other books—such as elemental companions. Some spells are even more specific. For example, if the spell says, “**Targets** your familiar,” you could cast it only on a familiar, not other kinds of companions. If you Cast a Spell that can benefit only a type of creature you don't have, such as Casting a Spell that can target only a familiar when you don't have a familiar, the spell does nothing.
 
@@ -1210,7 +1210,7 @@ Also called heart, faith, instinct, or vital essence, life represents the animat
 
 ## The Six Attribute Modifiers
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation|Character Creation]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation|Character Creation]]
 
 One of the most important aspects of your character is their attribute modifiers. These numbers represent your character's raw potential, and they influence nearly every other statistic on your character sheet. Determining your attribute modifiers is not done all at once, but instead happens over several steps during character creation.
 
@@ -1246,7 +1246,7 @@ Charisma measures your character's personal magnetism and strength of personalit
 
 ## The World as a Participant
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/basics-of-play#Creating a Narrative|Creating a Narrative]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/Basics of Play#Creating a Narrative|Creating a Narrative]]
 
 Aside from characters and monsters, the world of Pathfinder itself can be a force at the table and in the narrative. While the presence of the larger world can sometimes be an obvious hazard, such as when a powerful storm wreaks the countryside, the world can also act in subtle, small ways. Traps and treasures are just as important in many tales as cunning beasts. To help you understand these game elements, many of them use the same characteristics as characters and monsters. For example, most environmental hazards have a level, which indicates how dangerous they are, and the level of a magic item gives you a sense of its overall power and impact on a story.
 
@@ -1254,7 +1254,7 @@ Aside from characters and monsters, the world of Pathfinder itself can be a forc
 
 ## Three-Dimensional Combat
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/encounter-mode#Aerial Combat|Aerial Combat]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Encounter Mode#Aerial Combat|Aerial Combat]]
 
 In aerial and aquatic combat, you might need to track positioning in three dimensions. For flying creatures, you might use one of the following methods:
 
@@ -1266,9 +1266,9 @@ As with ground-based movement, moving diagonally up or down in 3-D space require
 
 ## Tiny Creatures and Flanking
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Flanking|Flanking]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Flanking|Flanking]]
 
-Tiny creatures usually have reach of 0 feet and need to be in a creature's space to attack it. This makes a Tiny creature unable to flank unless it's able to use a weapon with [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] or has a melee unarmed attack with reach greater than 0 feet.
+Tiny creatures usually have reach of 0 feet and need to be in a creature's space to attack it. This makes a Tiny creature unable to flank unless it's able to use a weapon with [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach]] or has a melee unarmed attack with reach greater than 0 feet.
 
 The GM might allow Tiny creatures to flank other Tiny creatures if they're all in the same square, but this is best left for special circumstances and uses the GM's best judgment.
 
@@ -1276,7 +1276,7 @@ The GM might allow Tiny creatures to flank other Tiny creatures if they're all i
 
 ## Tracking Initiative
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/encounter-mode#Step 1: Start Your Turn|Step 1: Start Your Turn]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Encounter Mode#Step 1: Start Your Turn|Step 1: Start Your Turn]]
 
 The GM keeps track of the initiative order for an encounter. It's usually okay for the players to know this order, since they'll see who goes when and be aware of one another's results. However, the GM might want to conceal information about adversaries the PCs have yet to detect or identify.
 
@@ -1284,21 +1284,21 @@ Once the encounter's order is set, it's usually not necessary to track the origi
 
 ### Changing The Initiative Order
 
-Any method used to track the initiative order needs to be flexible because the order can change. A creature can use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Delay|Delay]] basic action to change its place in the order, in which case you can erase it from the list or pull its marker aside until it reenters the initiative order. When a creature gets knocked out, its initiative order also changes (see [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Getting Knocked Out|Getting Knocked Out]]). Using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Ready|Ready]] basic action doesn't change a creature's place in the initiative order, though, because the designated action becomes a reaction.
+Any method used to track the initiative order needs to be flexible because the order can change. A creature can use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Delay|Delay]] basic action to change its place in the order, in which case you can erase it from the list or pull its marker aside until it reenters the initiative order. When a creature gets knocked out, its initiative order also changes (see [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Getting Knocked Out|Getting Knocked Out]]). Using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Ready|Ready]] basic action doesn't change a creature's place in the initiative order, though, because the designated action becomes a reaction.
 
 *Source: Player Core p. 435*
 
 ## Unobservable Stealth
 
-- **Parent page**: [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+- **Parent page**: [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
-In some cases, it can be impossible for a creature to fully observe you. Typically this happens if you're [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]], the observer is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]], or you're in darkness and the creature can't see in darkness. In such cases, any critical failure you roll on a check to Sneak is a failure instead. You also continue to be [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] if you lose cover or greater cover against or are no longer [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] from such a creature.
+In some cases, it can be impossible for a creature to fully observe you. Typically this happens if you're [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]], the observer is [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]], or you're in darkness and the creature can't see in darkness. In such cases, any critical failure you roll on a check to Sneak is a failure instead. You also continue to be [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]] if you lose cover or greater cover against or are no longer [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] from such a creature.
 
 *Source: Player Core p. 244*
 
 ## Wheelchair Rules
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/gear#Assistive Items|Assistive Items]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/Gear#Assistive Items|Assistive Items]]
 
 Each wheelchair operates in the following ways.
 
@@ -1316,13 +1316,13 @@ Each wheelchair operates in the following ways.
 
 ## Wheelchair Rules
 
-- **Parent page**: [[srd/pf2e/compendium/equipment/assistive-items/wheelchair|Wheelchair]]
+- **Parent page**: [[srd/pf2e/compendium/equipment/assistive-items/Wheelchair|Wheelchair]]
 
 Each wheelchair operates in the following ways.
 
  **Adjustable Seat Belts**: These belts strap around your waist, knees, and shins to keep you in the chair if it's thrown, knocked, or handled roughly. You can open and release your belts with an Interact action.
 
- **Bulk Limit**: A wheelchair is strong enough to support you and any amount of Bulk you could typically hold or carry. Your total carried Bulk includes all the items you are wearing, carrying, and stowing on your wheelchair. You take the usual effects when there's too much Bulk on you and your wheelchair: if you're carrying an amount of Bulk equal to 5 + your Strength modifier, you're [[srd/pf2e/compendium/rules-elements/conditions#Encumbered|encumbered]], and you and your wheelchair can't hold or carry more than 10 + your Strength modifier. The wheelchair's own Bulk doesn't count against your Bulk limit while riding in the wheelchair; it's listed in case you need to carry the wheelchair separately.
+ **Bulk Limit**: A wheelchair is strong enough to support you and any amount of Bulk you could typically hold or carry. Your total carried Bulk includes all the items you are wearing, carrying, and stowing on your wheelchair. You take the usual effects when there's too much Bulk on you and your wheelchair: if you're carrying an amount of Bulk equal to 5 + your Strength modifier, you're [[srd/pf2e/compendium/rules-elements/Conditions#Encumbered|encumbered]], and you and your wheelchair can't hold or carry more than 10 + your Strength modifier. The wheelchair's own Bulk doesn't count against your Bulk limit while riding in the wheelchair; it's listed in case you need to carry the wheelchair separately.
 
  **Frame**: A wheelchair is typically made from common materials like wood, but they can also be made from steel, other metals, or even rarer materials like dawnsilver. The wheelchairs presented here are made from durable wood.
 
@@ -1330,13 +1330,13 @@ Each wheelchair operates in the following ways.
 
  **Movement**: While using a wheelchair, you Stride at your normal Speed (listed in your ancestry, with any additional bonuses, penalties, and adjustments applied). You propel a wheelchair by using the hand rims. You can propel the wheelchair even while holding something in your hands, but not if you're restrained or otherwise unable to move your hands freely. You're still affected by difficult terrain and other terrain features. Any effect that would immobilize you, give a penalty to your Speeds, or similar by entangling or hindering your legs applies to the chair as well. You can use all of your actions while in a wheelchair.
 
- **Quick-Righting**: If the chair is tipped or you're knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] while in the chair, you can right yourself using the Stand action, though in this case you are righting the wheelchair instead. An ally can use an Interact action to help right you, allowing you to Stand as a free action triggered by their Interact action.
+ **Quick-Righting**: If the chair is tipped or you're knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] while in the chair, you can right yourself using the Stand action, though in this case you are righting the wheelchair instead. An ally can use an Interact action to help right you, allowing you to Stand as a free action triggered by their Interact action.
 
 *Source: Player Core p. 293*
 
 ## Writing Down Statistics
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Spell Attack Rolls|Spell Attack Rolls]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Spell Attack Rolls|Spell Attack Rolls]]
 
 When creating your character and adventuring you'll record the total modifier for various important checks on your character sheet. Since many bonuses and penalties are due to the immediate circumstances, spells, and other temporary magical effects, you typically won't apply them to your notations.
 

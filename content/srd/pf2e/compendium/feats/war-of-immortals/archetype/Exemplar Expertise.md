@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/exemplar|Exemplar]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/exemplar-dedication|Exemplar Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Exemplar|Exemplar]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Exemplar Dedication|Exemplar Dedication]]
 
 Your soul has been further tempered in divine power. Your proficiency in exemplar class DC increases to expert.
 

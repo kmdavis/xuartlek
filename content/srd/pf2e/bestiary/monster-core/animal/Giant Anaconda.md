@@ -28,7 +28,7 @@ perception:
     desc: "+17; low-light vision, scent (imprecise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +15, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +21, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +15, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +15, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +21, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +15, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +15"
 abilityMods: [7, 3, 6, -4, 3, -2]
 ac: 25
 armorclass:
@@ -42,26 +42,26 @@ abilities_mid:
   - name: "Tighten Coils"
     desc: "⬲"
   - name: "Trigger"
-    desc: "A creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] by the python attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]]"
+    desc: "A creature [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] by the python attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]]"
   - name: "Effect"
     desc: "The DC of the Escape check is increased by 2."
 speed: "30 feet, climb 30 feet, swim 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d10+7 piercing plus Grab"
+    desc: "⬻ jaws +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 2d10+7 piercing plus Grab"
   - name: "Melee"
-    desc: "⬻ tail +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d8+7 bludgeoning plus Push 10 feet"
+    desc: "⬻ tail +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 2d8+7 bludgeoning plus Push 10 feet"
 abilities_bot:
   - name: "Greater Constrict"
     desc: "⬻ 1d10+7 bludgeoning, DC 26"
   - name: "Slither"
-    desc: "⬻ The giant anaconda Strides, [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climbs]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swims]] up to half its Speed, pulling any creatures it has [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] with it."
+    desc: "⬻ The giant anaconda Strides, [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climbs]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swims]] up to half its Speed, pulling any creatures it has [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] with it."
   - name: "Swallow Whole"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]]) Large, 1d10+7 bludgeoning, Rupture 21"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|Attack]]) Large, 1d10+7 bludgeoning, Rupture 21"
   - name: "Wrap in Coils"
     desc: "⬻"
   - name: "Requirements"
-    desc: "A Large or smaller creature is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] in the giant anaconda's jaws"
+    desc: "A Large or smaller creature is [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] in the giant anaconda's jaws"
   - name: "Effect"
     desc: "The giant anaconda moves the creature into its coils, freeing its jaws to make attacks, then uses Greater Constrict against the creature. The giant anaconda's coils can hold as many creatures as will fit in its space."
 sourcebook: "_Monster Core_, page 317."

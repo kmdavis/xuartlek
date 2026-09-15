@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Fighter`  `Stance`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/archer|Archer]] (Level 10)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Archer|Archer]] (Level 10)
 
 Your shots become nimble and deadly. While you’re in this stance, your ranged Strikes don’t trigger Reactive Strike or other reactions that are triggered by a ranged attack.
 

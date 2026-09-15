@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/vigilante|Vigilante]], Venture-Gossip (Level 7)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/vigilante-dedication|Vigilante Dedication]]; Master in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Vigilante|Vigilante]], Venture-Gossip (Level 7)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Vigilante Dedication|Vigilante Dedication]]; Master in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
 Your disparate identities allow you to defeat magic that detects lies. As long as what you say is true from the point of view of your current identity, you can deceive effects like _ring of truth_ that reveal lies.
 

@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wrestler|Wrestler]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/wrestler-dedication|Wrestler Dedication]]
-- **Trigger**: A creature gives you the [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] condition.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wrestler|Wrestler]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Wrestler Dedication|Wrestler Dedication]]
+- **Trigger**: A creature gives you the [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] condition.
 
-Your ability to twist your opponents’ bodies into painful locks and holds makes you particularly adept at escaping such predicaments. Attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] the triggering condition. You gain a +2 circumstance bonus to this check.
+Your ability to twist your opponents’ bodies into painful locks and holds makes you particularly adept at escaping such predicaments. Attempt an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] the triggering condition. You gain a +2 circumstance bonus to this check.
 
 *Source: Player Core 2 p. 222*

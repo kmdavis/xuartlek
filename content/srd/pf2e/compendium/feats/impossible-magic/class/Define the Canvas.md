@@ -18,6 +18,6 @@ socialImage: og-image.png
 
 - **Frequency**: once per 10 minutes
 
-You produce rune-inscribed stones, which whirl in the air before darting away to form a perimeter for a runic canvas. The canvas is a 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] on the ground centered on a corner in your space. As long as you’re in or adjacent to the canvas, you can [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Trace Rune|Trace a Rune]] directly into the ground, which causes the rune to expand across the entire space, tracing it onto any number of eligible targets within the area. The canvas lasts for 1 minute.
+You produce rune-inscribed stones, which whirl in the air before darting away to form a perimeter for a runic canvas. The canvas is a 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]] on the ground centered on a corner in your space. As long as you’re in or adjacent to the canvas, you can [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Trace Rune|Trace a Rune]] directly into the ground, which causes the rune to expand across the entire space, tracing it onto any number of eligible targets within the area. The canvas lasts for 1 minute.
 
 *Source: Impossible Magic p. 52*

@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `Archetype`  `Magical`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/eldritch-archer|Eldritch Archer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/eldritch-archer-dedication|Eldritch Archer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Eldritch Archer|Eldritch Archer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Eldritch Archer Dedication|Eldritch Archer Dedication]]
 
-You imbue your ammunition with raw and potent magic, transforming it to suit your needs in any situation. When you select this feat, choose three types of common magical ammunition of 4th level or lower from _GM Core_ or this book. Your GM might allow you to choose from other types of magical ammunition of an appropriate level, such as [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] ammunition, or ammunition from other books. You gain the Transform Ammunition action.
+You imbue your ammunition with raw and potent magic, transforming it to suit your needs in any situation. When you select this feat, choose three types of [common magical ammunition](https://2e.aonprd.com/Equipment.aspx?Category=15&Subcategory=16) of 4th level or lower from _GM Core_ or this book. Your GM might allow you to choose from other types of magical ammunition of an appropriate level, such as [[srd/pf2e/compendium/rules-elements/traits/player-core/Uncommon|uncommon]] ammunition, or ammunition from other books. You gain the Transform Ammunition action.
 
- **Transform Ammunition** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]]) **Frequency** once per round; **Effect** You transform a non-magical arrow or bolt on your person into a piece of magical ammunition of one type you chose for the Magic Ammunition feat. You must shoot the ammunition before the end of your turn or the magic dissipates. If the ammunition has an Activate entry, you still need to spend the required actions to activate the ammunition before shooting it. You can choose a type of magical ammunition that is typically not available to the type of ammunition you're using—for example, you can use climbing bolt on an arrow, even though that magical ammunition is normally only found on bolts.
+ **Transform Ammunition** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]]) **Frequency** once per round; **Effect** You transform a non-magical arrow or bolt on your person into a piece of magical ammunition of one type you chose for the Magic Ammunition feat. You must shoot the ammunition before the end of your turn or the magic dissipates. If the ammunition has an Activate entry, you still need to spend the required actions to activate the ammunition before shooting it. You can choose a type of magical ammunition that is typically not available to the type of ammunition you're using—for example, you can use climbing bolt on an arrow, even though that magical ammunition is normally only found on bolts.
 
 **Special** You can select this feat multiple times. Each time you do, select three additional types of magical ammunition as described above.
 

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Catfolk`
 
-You have long fangs, natural or augmented. You gain a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the brawling group and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] trait.
+You have long fangs, natural or augmented. You gain a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] trait.
 
 *Source: Player Core 2 p. 10*

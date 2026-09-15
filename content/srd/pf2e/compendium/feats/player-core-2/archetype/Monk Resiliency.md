@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/monk|Monk]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/monk-dedication|Monk Dedication]]; class granting no more Hit Points per level than 8 + your Constitution modifier
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Monk|Monk]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Monk Dedication|Monk Dedication]]; class granting no more Hit Points per level than 8 + your Constitution modifier
 
 You gain 3 additional Hit Points for each monk archetype class feat you have. As you continue selecting monk archetype class feats, you continue to gain additional Hit Points in this way.
 

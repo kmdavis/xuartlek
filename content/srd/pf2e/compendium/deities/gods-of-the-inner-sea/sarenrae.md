@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: destroy the Spawn of Rovagug, protect allies, provide aid to the sick and wounded, seek and allow redemption
 - **Anathema**: create undead, lie, deny a repentant creature an opportunity for redemption, fail to strike down evil
 - **Area of Concern**: healing, honesty, redemption, and the sun
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/cosmic-caravan|Cosmic Caravan]], [[srd/pf2e/compendium/deities/covenants/good-neighbors|Good Neighbors]], [[srd/pf2e/compendium/deities/pantheons/radiant-prism|Radiant Prism]], The Path of the Heavens, The Prismatic Ray, Touch of the Sun
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Cosmic Caravan|Cosmic Caravan]], [[srd/pf2e/compendium/deities/covenants/Good Neighbors|Good Neighbors]], [[srd/pf2e/compendium/deities/pantheons/Radiant Prism|Radiant Prism]], The Path of the Heavens, The Prismatic Ray, Touch of the Sun
 
 ### Devotee Benefits
 
@@ -25,24 +25,24 @@ Constitution or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|Scimitar]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Scimitar|Scimitar]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Sun|Sun]], [[srd/pf2e/compendium/character/domains#Truth|Truth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Fire|Fire]], [[srd/pf2e/compendium/character/Domains#Healing|Healing]], [[srd/pf2e/compendium/character/Domains#Sun|Sun]], [[srd/pf2e/compendium/character/Domains#Truth|Truth]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Repose|Repose]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Repose|Repose]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/breathe-fire|Breathe Fire]]
+[[srd/pf2e/compendium/spells/rank-1/Breathe Fire|Breathe Fire]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/fireball|Fireball]]
+[[srd/pf2e/compendium/spells/rank-3/Fireball|Fireball]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/wall-of-fire|Wall of Fire]]
+[[srd/pf2e/compendium/spells/rank-4/Wall of Fire|Wall of Fire]]
 
 ### Divine Intercession
 
@@ -58,6 +58,6 @@ Sarenrae often bestows boons for making a sacrifice to do better or taking a ris
 
 **Moderate Curse** The sun shines its light on everything you say. You become unable to tell lies, and if you attempt to do so, you instead compulsively blurt out the truth on the matter in question. You are still able to withhold information or lie by omission.
 
-**Major Curse** Sarenrae restricts your ability to harm others. All attacks you make, spells you cast, and other sources of damage you deal are [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] except against fiends and undead, and you can’t ever make them lethal. You deal minimum damage except against fiends and undead. All creatures except fiends and undead gain a +4 status bonus to their AC and saving throws against your attacks and other effects.
+**Major Curse** Sarenrae restricts your ability to harm others. All attacks you make, spells you cast, and other sources of damage you deal are [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]] except against fiends and undead, and you can’t ever make them lethal. You deal minimum damage except against fiends and undead. All creatures except fiends and undead gain a +4 status bonus to their AC and saving throws against your attacks and other effects.
 
 *Source: Divine Mysteries p. 94*

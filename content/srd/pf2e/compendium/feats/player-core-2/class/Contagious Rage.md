@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Auditory`  `Barbarian`  `Rage`  `Visual`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/share-rage|Share Rage]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Share Rage|Share Rage]]
 
 You can drive your allies into a frenzy, granting them incredible benefits. You can ignore the requirements of Share Rage, using it multiple times in a Rage. Allies affected by Share Rage can choose to gain your instinct ability and the specialization ability it gains from weapon specialization, but not greater weapon specialization. They must abide by any restrictions of your instinct if they do so (such as the anathema of the superstition instinct).
 

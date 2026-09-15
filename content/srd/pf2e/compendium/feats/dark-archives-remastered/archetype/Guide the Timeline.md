@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/chronoskimmer|Chronoskimmer]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Chronoskimmer|Chronoskimmer]]
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/chronoskimmer-dedication|Chronoskimmer Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Chronoskimmer Dedication|Chronoskimmer Dedication]]
 
-You know the result you want and subtly nudge the timeline to your intended destination. Choose an ally or a foe. If you choose an ally, the next time within the next round that ally makes an attack roll or skill check, they roll it twice and take the higher result; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] effect. If you choose a foe, the next time within the next round that foe makes an attack roll or skill check, they must roll twice and take the lower result unless they succeed at a Will save against your chronoskimmer DC; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] effect. Regardless of your choice, the target becomes temporarily immune for 24 hours.
+You know the result you want and subtly nudge the timeline to your intended destination. Choose an ally or a foe. If you choose an ally, the next time within the next round that ally makes an attack roll or skill check, they roll it twice and take the higher result; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]] effect. If you choose a foe, the next time within the next round that foe makes an attack roll or skill check, they must roll twice and take the lower result unless they succeed at a Will save against your chronoskimmer DC; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|misfortune]] effect. Regardless of your choice, the target becomes temporarily immune for 24 hours.
 
 *Source: Dark Archives (Remastered) p. 186*

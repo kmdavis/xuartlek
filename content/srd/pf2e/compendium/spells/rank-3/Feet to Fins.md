@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Morph`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/other-gods/besmara|Besmara]], [[srd/pf2e/compendium/deities/demon-lords/dagon|Dagon]], Jin Li, Picoperi, [[srd/pf2e/compendium/deities/eldest/ragadahn|Ragadahn]], Seafarer's Hope, Sobek, Surveyors of the Deep, [[srd/pf2e/compendium/deities/monitor-demigods/telastmar|Telastmar]], [[srd/pf2e/compendium/deities/empyreal-lords/ylimancha|Ylimancha]], Zeaki
-- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of the Shark|Lesson of the Shark]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/Besmara|Besmara]], [[srd/pf2e/compendium/deities/demon-lords/Dagon|Dagon]], Jin Li, Picoperi, [[srd/pf2e/compendium/deities/eldest/Ragadahn|Ragadahn]], Seafarer's Hope, Sobek, Surveyors of the Deep, [[srd/pf2e/compendium/deities/monitor-demigods/Telastmar|Telastmar]], [[srd/pf2e/compendium/deities/empyreal-lords/Ylimancha|Ylimancha]], Zeaki
+- **Lesson**: [[srd/pf2e/compendium/character/Lessons#Lesson of the Shark|Lesson of the Shark]]
 - **Range**: touch
 - **Target**: 1 willing creature
 - **Duration**: 10 minutes

@@ -14,11 +14,11 @@ The world is a dangerous place. Thankfully, there are those who devote their liv
 
 ### Members
 
-[[srd/pf2e/bestiary/npc-core/humanoid/apothecary|Apothecary]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/humanitarian-hermit|Humanitarian Hermit]] (Creature 9), [[srd/pf2e/bestiary/npc-core/humanoid/local-herbalist|Local Herbalist]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/peerless-healer|Peerless Healer]] (Creature 15), [[srd/pf2e/bestiary/npc-core/humanoid/physician|Physician]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/plague-doctor|Plague Doctor]] (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/surgeon|Surgeon]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/therapeutic-healer|Therapeutic Healer]] (Creature 7), [[srd/pf2e/bestiary/npc-core/humanoid/tonic-merchant|Tonic Merchant]] (Creature 3)
+[[srd/pf2e/bestiary/npc-core/humanoid/Apothecary|Apothecary]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/Humanitarian Hermit|Humanitarian Hermit]] (Creature 9), [[srd/pf2e/bestiary/npc-core/humanoid/Local Herbalist|Local Herbalist]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/Peerless Healer|Peerless Healer]] (Creature 15), [[srd/pf2e/bestiary/npc-core/humanoid/Physician|Physician]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/Plague Doctor|Plague Doctor]] (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/Surgeon|Surgeon]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/Therapeutic Healer|Therapeutic Healer]] (Creature 7), [[srd/pf2e/bestiary/npc-core/humanoid/Tonic Merchant|Tonic Merchant]] (Creature 3)
 
 ### Ailments
 
-Common diseases can be found [[srd/pf2e/compendium/gm/diseases|here]]. These can be treated by most healers, though they may have longer-term physiological impacts. For unusual conditions, like [[srd/pf2e/bestiary/monster-core/aberration/bogwid|bogwid fever]] or [[srd/pf2e/bestiary/monster-core/undead/plague-zombie|zombie rot]], you might impose penalties on a normal healer attempting to remedy them.
+Common diseases can be found [[srd/pf2e/compendium/gm/Diseases|here]]. These can be treated by most healers, though they may have longer-term physiological impacts. For unusual conditions, like [[srd/pf2e/bestiary/monster-core/aberration/Bogwid|bogwid fever]] or [[srd/pf2e/bestiary/monster-core/undead/Plague Zombie|zombie rot]], you might impose penalties on a normal healer attempting to remedy them.
 
 ### Alchemical Reputation
 

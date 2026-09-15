@@ -1,7 +1,7 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/player-core
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/deadly
 - trait/two-hand
 - trait/uncommon
@@ -9,7 +9,7 @@ tags:
 - weapon/level/0
 aliases: ["Katana"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=411"
-source: "Player Core"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -18,14 +18,14 @@ socialImage: og-image.png
 `Deadly`  `Two-Hand`  `Uncommon`  `Versatile`
 
 - **PFS Note**: All Pathfinder agents have access to this weapon
-- **Favored Weapon**: Baekho, [[srd/pf2e/compendium/deities/tian-gods/shizuru|Shizuru]]
+- **Favored Weapon**: Baekho, [[srd/pf2e/compendium/deities/tian-gods/Shizuru|Shizuru]]
 - **Price**: 2 gp
 - **Damage**: 1d6 S
 - **Bulk**: 1
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 A katana is a curved, single-edged sword known for its wickedly sharped blade.
 
@@ -35,6 +35,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/north-winds-night-verse|North Wind's Night Verse]], Vashu's Ninth Life, Vashu's Ninth Life
+[[srd/pf2e/compendium/equipment/weapons/North Wind's Night Verse|North Wind's Night Verse]], Vashu's Ninth Life, Vashu's Ninth Life
 
-*Source: Player Core p. 278*
+*Source: Tian Xia Character Guide p. 127*

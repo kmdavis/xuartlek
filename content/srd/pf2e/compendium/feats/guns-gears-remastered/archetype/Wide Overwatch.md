@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/overwatch|Overwatch]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/overwatch-dedication|Overwatch Dedication]]; master in Perception
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Overwatch|Overwatch]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Overwatch Dedication|Overwatch Dedication]]; master in Perception
 
 Through a variety of perceptive techniques, careful routines, and upgrades to your enhanced visual gear, you have become able to observe and maintain your overwatch at a much greater distance. Increase the size of your overwatch field from 30 feet to 60 feet.
 

@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 - **Price**: 15 gp
 - **Ammunition**: any
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 Etched with the symbol of a ram’s head, activated _battering ammunition_ magically gathers momentum as it flies, imparting this momentum to its target on a successful Strike. It deals bludgeoning damage instead of its normal damage type and pushes the target 5 feet on a successful hit.
 

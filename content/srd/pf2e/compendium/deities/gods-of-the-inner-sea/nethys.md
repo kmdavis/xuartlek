@@ -25,42 +25,42 @@ Intelligence or Wisdom
 
 **Divine Sanctification** can choose holy or unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/staff|Staff]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Staff|Staff]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Magic|Magic]], [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Magic|Magic]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/domains#Glyph|Glyph]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/Domains#Glyph|Glyph]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/force-barrage|Force Barrage]]
+[[srd/pf2e/compendium/spells/rank-1/Force Barrage|Force Barrage]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/embed-message|Embed Message]]
+[[srd/pf2e/compendium/spells/rank-2/Embed Message|Embed Message]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/levitate|Levitate]]
+[[srd/pf2e/compendium/spells/rank-3/Levitate|Levitate]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/flicker|Flicker]]
+[[srd/pf2e/compendium/spells/rank-4/Flicker|Flicker]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/telekinetic-haul|Telekinetic Haul]]
+[[srd/pf2e/compendium/spells/rank-5/Telekinetic Haul|Telekinetic Haul]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/wall-of-force|Wall of Force]]
+[[srd/pf2e/compendium/spells/rank-6/Wall of Force|Wall of Force]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/warp-mind|Warp Mind]]
+[[srd/pf2e/compendium/spells/rank-7/Warp Mind|Warp Mind]]
 
 - **8th**
-[[srd/pf2e/compendium/spells/rank-8/quandary|Quandary]]
+[[srd/pf2e/compendium/spells/rank-8/Quandary|Quandary]]
 
 - **9th**
-[[srd/pf2e/compendium/spells/rank-9/detonate-magic|Detonate Magic]]
+[[srd/pf2e/compendium/spells/rank-9/Detonate Magic|Detonate Magic]]
 
 ### Divine Intercession
 

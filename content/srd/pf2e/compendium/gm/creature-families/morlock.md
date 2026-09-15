@@ -10,12 +10,12 @@ socialImage: og-image.png
 
 # Morlock  *Creature Family*
 
-Morlocks descended from humans who were lost among the dark, tangled tunnels of the upper reaches of the Darklands thousands of generations ago. Their eyes grew large and pale to absorb any speck of illumination. Their frames became wiry from an altered diet and their arms grew long, becoming perfect for the uncanny, four-limbed shuffle that lets them traverse the subterranean passages. However, their forms hide their strength and swiftness. Morlocks no longer remember the lives their ancestors led on the surface, although many of them dwell in shattered ruins that were swallowed by the earth. Some morlocks worship the statues of humans from these bygone eras as gods, but others now venerate [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/rovagug|Rovagug]], or other violent deities.
+Morlocks descended from humans who were lost among the dark, tangled tunnels of the upper reaches of the Darklands thousands of generations ago. Their eyes grew large and pale to absorb any speck of illumination. Their frames became wiry from an altered diet and their arms grew long, becoming perfect for the uncanny, four-limbed shuffle that lets them traverse the subterranean passages. However, their forms hide their strength and swiftness. Morlocks no longer remember the lives their ancestors led on the surface, although many of them dwell in shattered ruins that were swallowed by the earth. Some morlocks worship the statues of humans from these bygone eras as gods, but others now venerate [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Lamashtu|Lamashtu]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Rovagug|Rovagug]], or other violent deities.
 
  Morlocks typically stands just over 5 feet tall and weigh roughly 150 pounds.
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core-2/humanoid/morlock-tinkerer|Morlock Tinkerer]] (Creature 2)
+[[srd/pf2e/bestiary/monster-core-2/humanoid/Morlock Tinkerer|Morlock Tinkerer]] (Creature 2)
 
 *Source: Monster Core 2 p. 226*

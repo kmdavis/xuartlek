@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Sorcerer`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/crossblooded-evolution|Crossblooded Evolution]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Crossblooded Evolution|Crossblooded Evolution]]
 
 Your bloodline is extraordinarily complex. Choose up to three of the sorcerous gift spells granted by your secondary bloodline. You add these spells to your spell repertoire, heightened to the highest rank of spells you can cast or to the highest rank they can be heightened to that is lower than the highest rank of spells you can cast. You cast these spells as the tradition from your primary bloodline.
 

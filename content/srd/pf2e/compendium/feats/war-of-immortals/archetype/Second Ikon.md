@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/exemplar|Exemplar]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/exemplar-dedication|Exemplar Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Exemplar|Exemplar]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Exemplar Dedication|Exemplar Dedication]]
 
-You gain an additional ikon, selected from those listed [[srd/pf2e/compendium/character/ikons|here]]. When you Spark Transcendence, your spark moves automatically from the ikon you just used to the other ikon.
+You gain an additional ikon, selected from those listed [[srd/pf2e/compendium/character/Ikons|here]]. When you Spark Transcendence, your spark moves automatically from the ikon you just used to the other ikon.
 
 *Source: War of Immortals p. 57*

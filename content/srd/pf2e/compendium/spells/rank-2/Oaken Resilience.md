@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/covenants/blooms-of-the-spreading-weald|Blooms of the Spreading Weald]], Gendowyn, [[srd/pf2e/compendium/deities/orc-gods/uirch|Uirch]], [[srd/pf2e/compendium/deities/elemental-lords/verilorn|Verilorn]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/covenants/Blooms of the Spreading Weald|Blooms of the Spreading Weald]], Gendowyn, [[srd/pf2e/compendium/deities/orc-gods/Uirch|Uirch]], [[srd/pf2e/compendium/deities/elemental-lords/Verilorn|Verilorn]]
 - **Range**: touch
 - **Target**: 1 willing creature
 - **Duration**: 10 minutes

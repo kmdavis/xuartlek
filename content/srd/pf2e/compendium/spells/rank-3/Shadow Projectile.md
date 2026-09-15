@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Manipulate`  `Mental`  `Shadow`  `Visual`
 
-- **Traditions**: Arcane, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Trigger**: An ally within 20 feet of you makes a ranged attack roll.
 - **Defense**: Will
 
@@ -25,7 +25,7 @@ You create an illusory duplicate of your ally’s ranged attack. You launch an i
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against the triggering attack.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] against the triggering attack.
 
 **Failure** The creature is off-guard against the triggering attack and takes full damage from your illusory projectile.
 

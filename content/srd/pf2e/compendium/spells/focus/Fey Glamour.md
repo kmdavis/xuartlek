@@ -19,12 +19,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Focus`  `Illusion`  `Manipulate`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Fey|Fey]]
 - **Range**: 30 feet
 - **Area**: 30-foot burst or
 - **Target**: up to 10 willing creatures
 - **Duration**: 10 minutes
 
-You call upon fey glamours to cloak an area or the targets in illusion. This has the effect of either [[srd/pf2e/compendium/spells/rank-5/illusory-scene|_illusory scene_]] on the area or [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|_illusory disguise_]] on the creatures, as if heightened to a rank 1 rank lower than _fey glamour_, and using _fey glamour's_ range and duration.
+You call upon fey glamours to cloak an area or the targets in illusion. This has the effect of either [[srd/pf2e/compendium/spells/rank-5/Illusory Scene|_illusory scene_]] on the area or [[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|_illusory disguise_]] on the creatures, as if heightened to a rank 1 rank lower than _fey glamour_, and using _fey glamour's_ range and duration.
 
 *Source: Player Core 2 p. 264*

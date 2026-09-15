@@ -28,10 +28,10 @@ modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, Fire Lore +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +7, Fire Lore +7, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +7"
 abilityMods: [0, 4, 2, 0, -1, 3]
 abilities_top:
   - name: "Items"
@@ -54,10 +54,10 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ torch +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]]) __Damage__ 1d4 bludgeoning plus 1 fire"
+    desc: "⬻ torch +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|Fire]]) __Damage__ 1d4 bludgeoning plus 1 fire"
 spellcasting:
   - name: "Arcane Spontaneous Spells"
-    desc: "DC 16, attack +6 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/ignition|Ignition]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/tangle-vine|Tangle Vine]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/breathe-fire|Breathe Fire]], [[srd/pf2e/compendium/spells/rank-1/grease|Grease]] (3 slots)"
+    desc: "DC 16, attack +6 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/Ignition|Ignition]], [[srd/pf2e/compendium/spells/cantrips/Light|Light]], [[srd/pf2e/compendium/spells/cantrips/Tangle Vine|Tangle Vine]], [[srd/pf2e/compendium/spells/cantrips/Telekinetic Hand|Telekinetic Hand]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Breathe Fire|Breathe Fire]], [[srd/pf2e/compendium/spells/rank-1/Grease|Grease]] (3 slots)"
 sourcebook: "_Monster Core_, page 175."
 ```
 

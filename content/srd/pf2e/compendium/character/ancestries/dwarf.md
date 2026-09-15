@@ -36,7 +36,7 @@ Though the ancient dwarven empire fell long ago, overwhelmed by orc and goblinoi
 
 ### Alignment and Religion
 
-Dwarves tend to value honor and closely follow the traditions of their clans and kingdoms. They have a strong sense of friendship and justice, though they are often very particular about who they consider a friend. They work hard and play harder—especially when strong ale is involved. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/torag|Torag]], god of dwarvenkind, is dwarves' primary deity, though worship of Torag's family members is also common.
+Dwarves tend to value honor and closely follow the traditions of their clans and kingdoms. They have a strong sense of friendship and justice, though they are often very particular about who they consider a friend. They work hard and play harder—especially when strong ale is involved. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Torag|Torag]], god of dwarvenkind, is dwarves' primary deity, though worship of Torag's family members is also common.
 
  **Popular Edicts** create art with utility, guard your community against those who would harm it, keep your clan dagger close
  **Popular Anathema** leave an activity or promise uncompleted, forsake your family
@@ -57,11 +57,11 @@ Agna, Bodill, Edrukk, Grunyar, Ingra, Kotri, Morgrym, Rogar, Torra, Yangrit
 
 #### Languages
 
-[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
-[[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]]
+[[srd/pf2e/compendium/rules-elements/Languages#Dwarven|Dwarven]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]], and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/Languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/Languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/Languages#Orcish|Orcish]], [[srd/pf2e/compendium/rules-elements/Languages#Petran|Petran]], [[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 | | |
 | --- | --- |

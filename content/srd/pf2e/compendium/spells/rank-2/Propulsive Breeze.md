@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Air`  `Manipulate`  `Move`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Trigger**: An ally in range Strides or Leaps.
 - **Range**: 60 feet
 - **Target**: the triggering creature

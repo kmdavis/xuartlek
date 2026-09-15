@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Ranger`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/monster-hunter|Monster Hunter]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Monster Hunter|Monster Hunter]]
 
 You understand how to defend against your prey. When you grant bonuses from Monster Hunter, each creature who benefits also gains a +2 circumstance bonus either to their AC the next time the creature attacks them or to their next saving throw against an effect from that particular creature (whichever comes first.)
 

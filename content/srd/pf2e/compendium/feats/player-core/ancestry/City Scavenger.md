@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Goblin`
 
-You know that the greatest treasures often look like refuse. You gain a +1 circumstance bonus to checks to Subsist, and you can use [[srd/pf2e/compendium/rules-elements/skills/society|Society]] or [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] when you Subsist in a settlement.
+You know that the greatest treasures often look like refuse. You gain a +1 circumstance bonus to checks to Subsist, and you can use [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] or [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] when you Subsist in a settlement.
 
 When you Subsist in a city, you also gather valuable junk that silly longshanks threw away. You can Earn Income using Society or Survival at the same time while you Subsist, without spending any additional days of downtime. You also gain a +1 circumstance bonus to this check.
 

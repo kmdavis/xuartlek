@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Velstrac`
 
-A family of fiends from [[srd/pf2e/compendium/gm/planes#The Netherworld|the Netherworld]] that are associated with pain and agony. All velstracs possess some form of disturbing gaze.
+A family of fiends from [[srd/pf2e/compendium/gm/Planes#The Netherworld|the Netherworld]] that are associated with pain and agony. All velstracs possess some form of disturbing gaze.
 
 *Source: Monster Core 2 p. 366*

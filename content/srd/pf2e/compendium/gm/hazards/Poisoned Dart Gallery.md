@@ -22,7 +22,7 @@ socialImage: og-image.png
 +16 (expert) or DC 31 (master) to notice the control panel
 
 **Disable**
-DC 21 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (expert) on the control panel deactivates the trap
+DC 21 [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] (expert) on the control panel deactivates the trap
 
 **AC** 27, **Fort** +13, **Ref** +17
 
@@ -33,7 +33,7 @@ DC 21 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (expert) o
 56 (BT 28)
 
 **Immunities**
-[[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Hits|critical hits]], [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
+[[srd/pf2e/books/player-core/chapter-6-equipment/Weapons#Critical Hits|critical hits]], [[srd/pf2e/books/player-core/chapter-6-equipment/Item Damage#Object Immunities|object immunities]], precision damage
 
 **Dart Volley** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A creature enters the hallway or ends its turn in the hallway; **Effect** The trap makes a poisoned dart [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against the triggering creature, then rolls initiative.
 
@@ -45,7 +45,7 @@ DC 21 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (expert) o
 
 **Continuous Barrage** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") **Trigger** A creature within the active gallery finishes an action; **Effect** The trap makes a poisoned dart Strike against the triggering creature.
 
-**Flesset Poison** (poison) **Saving Throw** DC 22 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]] (1 round); **Stage 2** 2d6 poison damage and clumsy 2 (1 round); **Stage 3** 3d6 poison damage and clumsy 3 (1 round)
+**Flesset Poison** (poison) **Saving Throw** DC 22 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison damage and [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy 1]] (1 round); **Stage 2** 2d6 poison damage and clumsy 2 (1 round); **Stage 3** 3d6 poison damage and clumsy 3 (1 round)
 
 ---
 **Reset**

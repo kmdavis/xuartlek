@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Barbarian`  `Rage`
 
-- **Trigger**: An enemy within reach attempts to [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] away from you.
+- **Trigger**: An enemy within reach attempts to [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] away from you.
 
 You keep pace with a retreating foe. Stride up to your Speed, following the enemy and keeping it in reach throughout its movement until it stops moving or you've moved your full Speed. You can use No Escape to [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]] instead of Stride if you have the corresponding movement type.
 

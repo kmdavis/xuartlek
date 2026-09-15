@@ -14,11 +14,11 @@ socialImage: og-image.png
 
 `Inventor`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/innovations#Armor|armor innovation]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Innovations#Armor|armor innovation]]
 - **Trigger**: You would take damage
 
 Your armor innovation activates various devices you prepared ahead of time, and you use one of them to reduce the damage you would take by 15.
 
- **Unstable Function** You activate all the precautions at once, violently repelling the incoming attack to blunt its force. Add the [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/unstable|unstable]] trait to Negate Damage and reduce the damage you would take by 50.
+ **Unstable Function** You activate all the precautions at once, violently repelling the incoming attack to blunt its force. Add the [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/Unstable|unstable]] trait to Negate Damage and reduce the damage you would take by 50.
 
 *Source: Guns & Gears (Remastered) p. 31*

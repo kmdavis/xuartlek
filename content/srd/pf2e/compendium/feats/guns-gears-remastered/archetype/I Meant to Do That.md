@@ -14,11 +14,11 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/unexpected-sharpshooter|Unexpected Sharpshooter]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Unexpected Sharpshooter|Unexpected Sharpshooter]]
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/unexpected-sharpshooter-dedication|Unexpected Sharpshooter Dedication]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 - **Requirements**: Your previous action was a ranged weapon Strike that missed a foe within 60 feet.
 
-Somehow your stray bullet causes an unintended reaction that creates a problem for your enemy: perhaps a ricochet knocks your foe's weapon away or they stumble over stray debris in an attempt to dodge your bullets. Roll a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] check to attempt to Shove, Trip, or Disarm the foe you missed.
+Somehow your stray bullet causes an unintended reaction that creates a problem for your enemy: perhaps a ricochet knocks your foe's weapon away or they stumble over stray debris in an attempt to dodge your bullets. Roll a [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] check to attempt to Shove, Trip, or Disarm the foe you missed.
 
 *Source: Guns & Gears (Remastered) p. 143*

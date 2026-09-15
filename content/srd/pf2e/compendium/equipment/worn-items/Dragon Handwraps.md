@@ -18,12 +18,12 @@ socialImage: og-image.png
 
 - **Price**: 80, 000 gp
 - **Usage**: worn gloves
-- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/brawling/fist|Fist]]
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/brawling/Fist|Fist]]
 
-These silken handwraps feature intricate embroidery of a serpentine red dragon adorned with golden thread. The handwraps function as _+3 major striking greater flaming handwraps of mighty blows_. You also gain a +4 item bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks made to Grapple or Shove. When you invest the handwraps, you either increase your Strength modifier by 1 or increase it to +4, whichever would give you a higher value.
+These silken handwraps feature intricate embroidery of a serpentine red dragon adorned with golden thread. The handwraps function as _+3 major striking greater flaming handwraps of mighty blows_. You also gain a +4 item bonus to [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks made to Grapple or Shove. When you invest the handwraps, you either increase your Strength modifier by 1 or increase it to +4, whichever would give you a higher value.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You slap the bottom of your palms with hands splayed outward, casting a 7th-rank [[srd/pf2e/compendium/spells/rank-1/breathe-fire|_breathe fire_]] spell (DC 41).
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]]) **Frequency** once per day; **Effect** You slap the bottom of your palms with hands splayed outward, casting a 7th-rank [[srd/pf2e/compendium/spells/rank-1/Breathe Fire|_breathe fire_]] spell (DC 41).
 
-**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Trigger** You succeed or critically succeed with a Grapple; **Effect** You gain a +2 status bonus to your Athletics DC against any checks made to Escape your grapple until the end of your next turn.
+**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) **Frequency** once per hour; **Trigger** You succeed or critically succeed with a Grapple; **Effect** You gain a +2 status bonus to your Athletics DC against any checks made to Escape your grapple until the end of your next turn.
 
 *Source: Treasure Vault (Remastered) p. 103*

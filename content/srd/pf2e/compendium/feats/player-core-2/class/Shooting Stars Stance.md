@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Monk`  `Stance`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/monastic-weaponry|Monastic Weaponry]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Monastic Weaponry|Monastic Weaponry]]
 
-You enter a stance that lets you throw [[srd/pf2e/compendium/equipment/weapons/dart/shuriken|shuriken]] with lightning speed. While in this stance, you can use your monk feats or monk abilities that normally require [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attacks with shuriken instead.
+You enter a stance that lets you throw [[srd/pf2e/compendium/equipment/weapons/dart/Shuriken|shuriken]] with lightning speed. While in this stance, you can use your monk feats or monk abilities that normally require [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attacks with shuriken instead.
 
 *Source: Player Core 2 p. 120*

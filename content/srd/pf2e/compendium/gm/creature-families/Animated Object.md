@@ -14,7 +14,7 @@ Granted a semblance of life through the use of rituals or other strange magic, a
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core/construct/animated-armor|Animated Armor]] (Creature 2), [[srd/pf2e/bestiary/monster-core/construct/animated-broom|Animated Broom]] (Creature -1), [[srd/pf2e/bestiary/monster-core-2/construct/animated-colossus|Animated Colossus]] (Creature 15), [[srd/pf2e/bestiary/monster-core-2/construct/animated-furnace|Animated Furnace]] (Creature 9), [[srd/pf2e/bestiary/monster-core-2/construct/animated-silverware-swarm|Animated Silverware Swarm]] (Creature 1), [[srd/pf2e/bestiary/monster-core/construct/animated-statue|Animated Statue]] (Creature 3), [[srd/pf2e/bestiary/monster-core-2/construct/animated-trebuchet|Animated Trebuchet]] (Creature 13), [[srd/pf2e/bestiary/monster-core/construct/giant-animated-statue|Giant Animated Statue]] (Creature 7)
+[[srd/pf2e/bestiary/monster-core/construct/Animated Armor|Animated Armor]] (Creature 2), [[srd/pf2e/bestiary/monster-core/construct/Animated Broom|Animated Broom]] (Creature -1), [[srd/pf2e/bestiary/monster-core-2/construct/Animated Colossus|Animated Colossus]] (Creature 15), [[srd/pf2e/bestiary/monster-core-2/construct/Animated Furnace|Animated Furnace]] (Creature 9), [[srd/pf2e/bestiary/monster-core-2/construct/Animated Silverware Swarm|Animated Silverware Swarm]] (Creature 1), [[srd/pf2e/bestiary/monster-core/construct/Animated Statue|Animated Statue]] (Creature 3), [[srd/pf2e/bestiary/monster-core-2/construct/Animated Trebuchet|Animated Trebuchet]] (Creature 13), [[srd/pf2e/bestiary/monster-core/construct/Giant Animated Statue|Giant Animated Statue]] (Creature 7)
 
 ### Animating Objects
 

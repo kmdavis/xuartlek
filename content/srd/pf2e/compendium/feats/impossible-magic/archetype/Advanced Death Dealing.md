@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/necromancer|Necromancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/basic-death-dealing|Basic Death Dealing]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Necromancer|Necromancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Basic Death Dealing|Basic Death Dealing]]
 
-You gain one [[srd/pf2e/compendium/rules-elements/traits/impossible-magic/necromancer|necromancer feat]]. For the purpose of meeting its prerequisites, your necromancer level is equal to half your character level.
+You gain one [[srd/pf2e/compendium/rules-elements/traits/impossible-magic/Necromancer|necromancer feat]]. For the purpose of meeting its prerequisites, your necromancer level is equal to half your character level.
 
 **Special** You can select this feat more than once. Each time you select it, you gain another necromancer feat.
 

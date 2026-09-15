@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Awakened Animal`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/fascinated-by-society|Fascinated by Society]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/society|Society]] or Expert in [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Fascinated by Society|Fascinated by Society]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] or Expert in [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 Cities are just a new form of wilderness. You've adapted to this wilderness and now can navigate it as easily as where you once came from. When in an urban area, you can move at your full Speed while you [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]] and you can use your choice of Survival or Society to Track.
 

@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Auditory`  `Concentrate`  `Focus`  `Mental`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]]
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Aberrant|Aberrant]]
 - **Area**: 5-foot emanation or more
 - **Target**: each foe in the area
 - **Defense**: Will
@@ -29,9 +29,9 @@ You utter phrases in an unknown tongue, assaulting the minds of those nearby. Ea
 
 **Success** The target is unaffected.
 
-**Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 2]].
+**Failure** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied 2]].
 
-**Critical Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]].
+**Critical Failure** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]].
 
 ---
 **Heightened (+3)** The initial radius increases by 5 feet.

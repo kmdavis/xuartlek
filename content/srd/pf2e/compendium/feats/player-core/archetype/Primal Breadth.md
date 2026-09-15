@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/druid|Druid]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/basic-druid-spellcasting|Basic Druid Spellcasting]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Druid|Druid]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Basic Druid Spellcasting|Basic Druid Spellcasting]]
 
 Increase the spell slots you gain from druid archetype feats by 1 for each spell rank other than your two highest druid spell slots.
 

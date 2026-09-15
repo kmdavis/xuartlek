@@ -20,6 +20,6 @@ You have learned the secrets of another druidic order, passing whatever rites of
 
 ### Order Explorer leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/order-magic|Order Magic]]
+[[srd/pf2e/compendium/feats/player-core/class/Order Magic|Order Magic]]
 
 *Source: Player Core p. 129*

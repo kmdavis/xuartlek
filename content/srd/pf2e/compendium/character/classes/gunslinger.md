@@ -116,19 +116,19 @@ Class Features
 
 All gunslingers have a particular way they follow, a combination of philosophy and combat style that defines both how they fight and the weapons they excel with. At 1st level, your way grants you an initial deed, a unique reload action called a slinger's reload, and proficiency with a particular skill. You also gain advanced and greater deeds at later levels, as well as access to way-specific feats.
 
- Gunslinger ways can be found [[srd/pf2e/compendium/character/ways|here]].
+ Gunslinger ways can be found [[srd/pf2e/compendium/character/Ways|here]].
 
 | | |
 | --- | --- |
-| **Gunslinger Feats** | At 1st level and every even-numbered level, you gain a gunslinger class feat. |
+| **Gunslinger Feats** | At 1st level and every even-numbered level, you gain a [gunslinger class feat](https://2e.aonprd.com/Feats.aspx?Traits=406). |
 
 #### Slinger's Precision
 
-You have steady precision with guns and crossbows and can use weapons that incorporate them effectively. You deal an extra +2 precision damage with Strikes made using crossbows that don't have the [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/repeating|repeating]] trait, and deal an extra 1d4 precision damage on Strikes with firearms that don't have the repeating trait.
+You have steady precision with guns and crossbows and can use weapons that incorporate them effectively. You deal an extra +2 precision damage with Strikes made using [[srd/pf2e/compendium/rules-elements/Weapon Groups#Crossbow|crossbows]] that don't have the [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/Repeating|repeating]] trait, and deal an extra 1d4 precision damage on Strikes with [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|firearms]] that don't have the repeating trait.
 
  If you have gunslinging legend, you instead deal +3 additional precision damage with Strikes using crossbows that aren't repeating, and you deal an additional 1d6 precision damage with non-repeating firearm Strikes.
 
- If you are using a [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/combination|combination]] weapon whose ranged form is a firearm or crossbow, you use your proficiency with firearms and crossbows for attacks made with the melee portion of that weapon.
+ If you are using a [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/Combination|combination]] weapon whose ranged form is a firearm or crossbow, you use your proficiency with firearms and crossbows for attacks made with the melee portion of that weapon.
 
 | | |
 | --- | --- |
@@ -143,7 +143,7 @@ At 3rd level and every 2 levels thereafter, you gain a skill increase. You can u
 
 #### Stubborn
 
-You don't like being told what to do, and you don't give up. Your proficiency rank for Will saves increases to expert. When you fail, but don't critically fail, a Will save against an effect that would give you the [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]] condition, you can attempt a second save against the effect at the start of your next turn. On a successful second save, the controlled condition ends, though any other effects remain. As normal, failing this second save doesn't allow you to attempt a third save on the subsequent turn.
+You don't like being told what to do, and you don't give up. Your proficiency rank for Will saves increases to expert. When you fail, but don't critically fail, a Will save against an effect that would give you the [[srd/pf2e/compendium/rules-elements/Conditions#Controlled|controlled]] condition, you can attempt a second save against the effect at the start of your next turn. On a successful second save, the controlled condition ends, though any other effects remain. As normal, failing this second save doesn't allow you to attempt a third save on the subsequent turn.
 
 | | |
 | --- | --- |
@@ -169,7 +169,7 @@ You've learned how to inflict greater injuries with the weapons you know best. Y
 
 You've learned a powerful new technique of your chosen way. You gain the advanced deed ability of the way you chose at 1st level.
 
- Gunslinger ways can be found [[srd/pf2e/compendium/character/ways|here]].
+ Gunslinger ways can be found [[srd/pf2e/compendium/character/Ways|here]].
 
 | | |
 | --- | --- |
@@ -191,7 +191,7 @@ You've learned unique techniques for wielding firearms and crossbows that give y
 
 You've mastered the pinnacle technique of your chosen way. You gain the greater deed ability of the way you chose at 1st level.
 
- Gunslinger ways can be found [[srd/pf2e/compendium/character/ways|here]].
+ Gunslinger ways can be found [[srd/pf2e/compendium/character/Ways|here]].
 
 #### Greater Weapon Specialization
 

@@ -14,13 +14,13 @@ You know about the natural world, and you command and train animals and magical 
 
 ### Nature Untrained General Actions
 
-- Recall Knowledge about fauna, flora, geography, weather, the environment, creatures of natural origin (like [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]], [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beasts]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plants]]), the [[srd/pf2e/compendium/gm/planes#First World|First World]], and the Elemental Planes.
+- Recall Knowledge about fauna, flora, geography, weather, the environment, creatures of natural origin (like [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animals]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Beast|beasts]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fey|fey]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plants]]), the [[srd/pf2e/compendium/gm/Planes#First World|First World]], and the Elemental Planes.
 
 ### Nature Trained General Actions
 
-- Identify Magic, particularly magic of the primal tradition.
+- Identify Magic, particularly magic of the [primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4) tradition.
 
-- Learn a Spell from the primal tradition.
+- Learn a Spell from the [primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4) tradition.
 
 ### Item Bonuses for Nature
 
@@ -45,34 +45,34 @@ Other
 No
 Item Bonus
 
-[[srd/pf2e/compendium/equipment/staves/staff-of-natures-cunning|Staff Of Nature's Cunning]]
+[[srd/pf2e/compendium/equipment/staves/Staff of Nature's Cunning|Staff Of Nature's Cunning]]
 +2
 7
 Staves
 No
 Item bonus to Nature checks to Recall Knowledge.
 
-[[srd/pf2e/compendium/equipment/held-items/fulu-compendium|Fulu Compendium]]
+[[srd/pf2e/compendium/equipment/held-items/Fulu Compendium|Fulu Compendium]]
 +2
 9
 Held Items
 No
 Item bonus to determine a fulu's function or authenticity.
 
-[[srd/pf2e/compendium/equipment/worn-items/living-mantle|Living Mantle]]
+[[srd/pf2e/compendium/equipment/worn-items/Living Mantle|Living Mantle]]
 +2
 10
 Worn Items
 No
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
 +2
 11
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-[[srd/pf2e/compendium/equipment/staves/staff-of-natures-cunning|Greater Staff Of Nature's Cunning]]
+[[srd/pf2e/compendium/equipment/staves/Staff of Nature's Cunning|Greater Staff Of Nature's Cunning]]
 +2
 11
 Staves
@@ -93,14 +93,14 @@ Other
 No
 Item Bonus
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-[[srd/pf2e/compendium/equipment/worn-items/living-mantle|Living Mantle (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/Living Mantle|Living Mantle (Greater)]]
 +3
 18
 Worn Items

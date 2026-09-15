@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Investigator
 
-At 1st level and every even-numbered level, you gain an investigator class feat.
+At 1st level and every even-numbered level, you gain an [investigator class feat](https://2e.aonprd.com/Feats.aspx?Traits=818).
 
 *Source: Player Core 2 p. 100*

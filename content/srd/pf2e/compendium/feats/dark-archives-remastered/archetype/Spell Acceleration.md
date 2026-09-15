@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/time-mage|Time Mage]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/time-mage-dedication|Time Mage Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Time Mage|Time Mage]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Time Mage Dedication|Time Mage Dedication]]
 
-Special time-weaving techniques let you compress your spellcasting gestures and incantations into a short burst so you can cast with incredible speed—though it causes temporal strain. You gain the [[srd/pf2e/compendium/feats/player-core/archetype/quickened-casting|Quickened Casting]] feat. It applies to your cantrips and spells from the class you used to qualify for the Time Mage Dedication.
+Special time-weaving techniques let you compress your spellcasting gestures and incantations into a short burst so you can cast with incredible speed—though it causes temporal strain. You gain the [[srd/pf2e/compendium/feats/player-core/archetype/Quickened Casting|Quickened Casting]] feat. It applies to your cantrips and spells from the class you used to qualify for the Time Mage Dedication.
 
 *Source: Dark Archives (Remastered) p. 185*

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Centaur`
 
-You've trained in the weapons favored by your people, becoming a skilled archer and jouster. You have familiarity with the [[srd/pf2e/compendium/equipment/weapons/spear/lance|lance]], [[srd/pf2e/compendium/equipment/weapons/bow/longbow|longbow]], [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]], [[srd/pf2e/compendium/equipment/weapons/bow/shortbow|shortbow]], and [[srd/pf2e/compendium/equipment/weapons/spear/spear|spear]]—for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons.
+You've trained in the weapons favored by your people, becoming a skilled archer and jouster. You have familiarity with the [[srd/pf2e/compendium/equipment/weapons/spear/Lance|lance]], [[srd/pf2e/compendium/equipment/weapons/bow/Longbow|longbow]], [[srd/pf2e/compendium/equipment/weapons/spear/Longspear|longspear]], [[srd/pf2e/compendium/equipment/weapons/bow/Shortbow|shortbow]], and [[srd/pf2e/compendium/equipment/weapons/spear/Spear|spear]]—for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons.
 
  At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 

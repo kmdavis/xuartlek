@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Champion`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/causes#Obedience|obedience cause]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Causes#Obedience|obedience cause]]
 
 Disobeying your Iron Command has lasting consequences. If an enemy refuses to kneel to you, you can deal persistent mental damage instead of normal mental damage. You must decide whether the mental damage will be persistent before your enemy chooses whether to kneel or not. The amount of damage is unchanged.
 

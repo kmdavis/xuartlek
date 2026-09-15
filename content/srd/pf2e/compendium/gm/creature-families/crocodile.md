@@ -14,7 +14,7 @@ Powerful and primeval in appearance, crocodiles are dangerous natural predators 
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core/animal/crocodile|Crocodile]] (Creature 2), [[srd/pf2e/bestiary/monster-core/animal/deinosuchus|Deinosuchus]] (Creature 9), Vorvorak (Creature 10)
+[[srd/pf2e/bestiary/monster-core/animal/Crocodile|Crocodile]] (Creature 2), [[srd/pf2e/bestiary/monster-core/animal/Deinosuchus|Deinosuchus]] (Creature 9), Vorvorak (Creature 10)
 
 ### Prowling The Waters
 

@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/pick/pick|Pick]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/pick/Pick|Pick]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Decay|Decay]], [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Metal|Metal]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Decay|Decay]], [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Metal|Metal]], [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Sorrow|Sorrow]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Sorrow|Sorrow]], [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/conductive-weapon|Conductive Weapon]]
+[[srd/pf2e/compendium/spells/rank-1/Conductive Weapon|Conductive Weapon]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/noxious-metals|Noxious Metals]]
+[[srd/pf2e/compendium/spells/rank-3/Noxious Metals|Noxious Metals]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/rust-cloud|Rust Cloud]]
+[[srd/pf2e/compendium/spells/rank-4/Rust Cloud|Rust Cloud]]
 
 *Source: Divine Mysteries p. 306*

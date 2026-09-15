@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Illusion`  `Manipulate`
 
-- **Tradition**: Occult
-- **Deities**: [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/cthulhu|Cthulhu]], [[srd/pf2e/compendium/deities/vudrani-gods/suyuddha|Suyuddha]], The Enlightened Scholar's Path
+- **Tradition**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Cthulhu|Cthulhu]], [[srd/pf2e/compendium/deities/vudrani-gods/Suyuddha|Suyuddha]], The Enlightened Scholar's Path
 - **Range**: 60 feet
 - **Area**: 4 cubes, each 10 feet on a side
 - **Defense**: Will
@@ -27,6 +27,6 @@ You cause the areas to appear to swell, bend, and break, twisting together in a 
 
 **Success** The creature disbelieves the illusion.
 
-**Failure** All terrain in the cubes is difficult terrain for the creature, including the air if the creature is flying, walls if it's climbing, and so on. When the creature would exit one of the cubes, it exits from one randomly determined by the GM. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]] effect. It can exit from any edge of that cube it chooses. When selecting a random cube, the GM excludes any that don't match the creature's terrain; for instance, if the creature were exiting along the ground, the GM would exclude any cube that didn't have an exit on the ground.
+**Failure** All terrain in the cubes is difficult terrain for the creature, including the air if the creature is flying, walls if it's climbing, and so on. When the creature would exit one of the cubes, it exits from one randomly determined by the GM. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Teleportation|teleportation]] effect. It can exit from any edge of that cube it chooses. When selecting a random cube, the GM excludes any that don't match the creature's terrain; for instance, if the creature were exiting along the ground, the GM would exclude any cube that didn't have an exit on the ground.
 
 *Source: Player Core 2 p. 252*

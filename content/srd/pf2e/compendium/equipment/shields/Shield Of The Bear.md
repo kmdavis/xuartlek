@@ -4,23 +4,23 @@ tags:
 - compendium/src/pf2e/impossible-magic
 - trait/magical
 - equipment/level/9
-aliases: ["Shield Of The Bear"]
+aliases: ["Shield of the Bear"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5005"
 source: "Impossible Magic"
 socialImage: og-image.png
 ---
 
-# Shield Of The Bear  *Item 9*
+# Shield of the Bear  *Item 9*
 
 `Magical`
 
 - **Price**: 700 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Steel Shield|Steel Shield]]
+- **Base Shield**: [[srd/pf2e/compendium/equipment/Shields#Steel Shield|Steel Shield]]
 
-This massive [[srd/pf2e/compendium/equipment/shields#Steel Shield|steel shield]] ([[srd/pf2e/books/player-core/chapter-6-equipment/shields#Hardness|Hardness]] 8, HP 32, BT 16) is engraved with the image of a roaring face of a bear and lined with patches of bear fur. When you have this shield raised, if any effect would force you to move 10 feet or more, you’re moved 5 fewer feet. 
+This massive [[srd/pf2e/compendium/equipment/Shields#Steel Shield|steel shield]] ([[srd/pf2e/books/player-core/chapter-6-equipment/Shields#Hardness|Hardness]] 8, HP 32, BT 16) is engraved with the image of a roaring face of a bear and lined with patches of bear fur. When you have this shield raised, if any effect would force you to move 10 feet or more, you’re moved 5 fewer feet. 
 
-**Activate—Feral Roar** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per 10 minutes; **Trigger** You use the _shield of the bear_ to Shield Block a melee Strike; **Effect** The attacking creature must succeed at a DC 26 Fortitude save or be pushed up to 10 feet away from you (15 feet on a critical failure).
+**Activate—Feral Roar** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) **Frequency** once per 10 minutes; **Trigger** You use the _shield of the bear_ to Shield Block a melee Strike; **Effect** The attacking creature must succeed at a DC 26 Fortitude save or be pushed up to 10 feet away from you (15 feet on a critical failure).
 
 *Source: Impossible Magic p. 206*

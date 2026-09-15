@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/monk|Monk]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/monk-dedication|Monk Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Monk|Monk]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Monk Dedication|Monk Dedication]]
 
 You gain the [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Flurry of Blows|Flurry of Blows]] action. Your fists’ power, however, exceeds your conditioning; once you use Flurry of Blows, you can’t use it again for 1d4 rounds as your muscles recover.
 

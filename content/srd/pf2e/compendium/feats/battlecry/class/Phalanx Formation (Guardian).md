@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Guardian`
 
-You know how to clear a line of fire for your allies. You don't provide [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|lesser cover]] to enemies against your allies' attacks.
+You know how to clear a line of fire for your allies. You don't provide [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Cover|lesser cover]] to enemies against your allies' attacks.
 
 *Source: Battlecry! p. 42*

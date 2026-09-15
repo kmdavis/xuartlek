@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/veil-dancer|Veil Dancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/veil-dancer-dedication|Veil Dancer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Veil Dancer|Veil Dancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Veil Dancer Dedication|Veil Dancer Dedication]]
 
-You weave magic around you to mask your presence from observers. Once per hour each, you can cast [[srd/pf2e/compendium/spells/rank-2/invisibility|_invisibility_]] and [[srd/pf2e/compendium/spells/rank-2/silence|_silence_]] as [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Innate Spells|innate]] 2nd-rank occult spells. You can target only yourself with these spells.
+You weave magic around you to mask your presence from observers. Once per hour each, you can cast [[srd/pf2e/compendium/spells/rank-2/Invisibility|_invisibility_]] and [[srd/pf2e/compendium/spells/rank-2/Silence|_silence_]] as [[srd/pf2e/books/gm-core/chapter-2-building-games/Building Creatures#Innate Spells|innate]] 2nd-rank [occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3) spells. You can target only yourself with these spells.
 
 *Source: Impossible Magic p. 104*

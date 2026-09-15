@@ -28,14 +28,14 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +10, [[srd/pf2e/compendium/rules-elements/skills/lore|Settlement Lore]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +10, [[srd/pf2e/compendium/rules-elements/skills/Lore|Settlement Lore]] +8"
 abilityMods: [4, 1, 3, 0, 2, 1]
 abilities_top:
   - name: "Trained Animal"
-    desc: "The equestrian constable rides a trained mount of their level or lower, usually a [[srd/pf2e/bestiary/monster-core/animal/war-horse|war horse]] or, for elite equestrian constables, a [[srd/pf2e/bestiary/npc-core/animal/veteran-war-horse|veteran war horse]]. The animal has the standard number of actions, uses its normal stat block, and counts toward the encounter's XP budget normally."
+    desc: "The equestrian constable rides a trained mount of their level or lower, usually a [[srd/pf2e/bestiary/monster-core/animal/War Horse|war horse]] or, for elite equestrian constables, a [[srd/pf2e/bestiary/npc-core/animal/Veteran War Horse|veteran war horse]]. The animal has the standard number of actions, uses its normal stat block, and counts toward the encounter's XP budget normally."
   - name: "Items"
     desc: "Crossbow (20 bolts), Guisarme, Half Plate, poor manacles, Rope, Signal Whistle"
 ac: 21
@@ -50,15 +50,15 @@ abilities_mid:
   - name: "Opportune Maneuver"
     desc: "⬲"
   - name: "Trigger"
-    desc: "A creature within 10 feet uses an action with the [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] trait or leaves a space within the constable's reach during its move action"
+    desc: "A creature within 10 feet uses an action with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] trait or leaves a space within the constable's reach during its move action"
   - name: "Effect"
-    desc: "The constable attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] the triggering creature. On a success, the triggering action is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions#Disrupting Actions|disrupted]]."
+    desc: "The constable attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] the triggering creature. On a success, the triggering action is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Actions#Disrupting Actions|disrupted]]."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ guisarme +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d8+8 slashing plus Knockdown"
+    desc: "⬻ guisarme +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip|Trip]]) __Damage__ 1d8+8 slashing plus Knockdown"
   - name: "Melee"
-    desc: "⬻ fist +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+8 bludgeoning"
+    desc: "⬻ fist +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+8 bludgeoning"
   - name: "Ranged"
     desc: "⬻ crossbow +11 (range increment 120 feet, reload 1) __Damage__ 1d8+4 piercing"
 abilities_bot:

@@ -14,11 +14,11 @@ socialImage: og-image.png
 
 Your methodology emphasizes chemical and alchemical analysis, collecting information from unusual particles and fluids found on the scene. You possess enough alchemical know-how to whip up a few tinctures to help you with your cases.
 
-You’re trained in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] and gain the [[srd/pf2e/compendium/feats/player-core/skill/alchemical-crafting|Alchemical Crafting]] skill feat. You start with a standard [[srd/pf2e/compendium/equipment/adventuring-gear/formula-book-blank|formula book]], which contains the [[srd/pf2e/books/player-core/chapter-6-equipment/gear#Formulas|formulas]] for two common 1st-level alchemical items of your choice (these must be elixirs or tools), in addition to the formulas gained from Alchemical Crafting. Each time you gain a level, you learn the formula for one common alchemical elixir or alchemical tool of any level of item you can create.
+You’re trained in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] and gain the [[srd/pf2e/compendium/feats/player-core/skill/Alchemical Crafting|Alchemical Crafting]] skill feat. You start with a standard [[srd/pf2e/compendium/equipment/adventuring-gear/Formula Book (Blank)|formula book]], which contains the [[srd/pf2e/books/player-core/chapter-6-equipment/Gear#Formulas|formulas]] for two common 1st-level alchemical items of your choice (these must be [elixirs](https://2e.aonprd.com/Equipment.aspx?Category=6&Subcategory=8) or [tools](https://2e.aonprd.com/Equipment.aspx?Category=6&Subcategory=10)), in addition to the formulas gained from Alchemical Crafting. Each time you gain a level, you learn the formula for one common alchemical elixir or alchemical tool of any level of item you can create.
 
-During your daily preparations, you can create a number of versatile vials equal to your Intelligence modifier. Statistics for versatile vials appear in the [[srd/pf2e/compendium/character/classes/alchemist|alchemist]] class.
+During your daily preparations, you can create a number of versatile vials equal to your Intelligence modifier. Statistics for versatile vials appear in the [[srd/pf2e/compendium/character/classes/Alchemist|alchemist]] class.
 
-You gain the Quick Tincture action, which you can use to turn one of these vials into an elixir or alchemical tool for which you know the formula. If you have the ability to create versatile vials from more than one source (such as the [[srd/pf2e/compendium/character/archetypes/alchemist|alchemist multiclass archetype]]), you can use any of your versatile vials for any ability you have that requires them.
+You gain the Quick Tincture action, which you can use to turn one of these vials into an elixir or alchemical tool for which you know the formula. If you have the ability to create versatile vials from more than one source (such as the [[srd/pf2e/compendium/character/archetypes/Alchemist|alchemist multiclass archetype]]), you can use any of your versatile vials for any ability you have that requires them.
 
 *Source: Player Core 2 p. 103*
 
@@ -26,15 +26,15 @@ You gain the Quick Tincture action, which you can use to turn one of these vials
 
 Everything comes down to data. Calculating statistics, running numbers, and using inductive reasoning allows you to determine the most likely outcome of any scenario, and anything out of place draws your keen attention.
 
-You are trained in one Intelligence-based skill of your choice. You gain the [[srd/pf2e/compendium/feats/player-core-2/class/thats-odd|That’s Odd]] investigator feat, and you gain the Expeditious Inspection free action.
+You are trained in one Intelligence-based skill of your choice. You gain the [[srd/pf2e/compendium/feats/player-core-2/class/That's Odd|That’s Odd]] investigator feat, and you gain the Expeditious Inspection free action.
 
 *Source: Player Core 2 p. 104*
 
 ## Esoterica
 
-This methodology can be taken by [[srd/pf2e/compendium/character/archetypes/palatine-detective|Palatine Detectives]]
+This methodology can be taken by [[srd/pf2e/compendium/character/archetypes/Palatine Detective|Palatine Detectives]]
 
-You become trained in Occultism or Religion, and you gain the [[srd/pf2e/compendium/feats/player-core/skill/quick-identification|Quick Identification]] skill feat. In addition, choose one common cantrip from the divine spell list and one common cantrip from the occult spell list. You can cast those spells as innate spells at will. You become trained in the spell attack modifier and spell DCs statistics. Intelligence is your spellcasting attribute.
+You become trained in Occultism or Religion, and you gain the [[srd/pf2e/compendium/feats/player-core/skill/Quick Identification|Quick Identification]] skill feat. In addition, choose one common cantrip from the divine spell list and one common cantrip from the occult spell list. You can cast those spells as innate spells at will. You become trained in the spell attack modifier and spell DCs statistics. Intelligence is your spellcasting attribute.
 
 *Source: Divine Mysteries p. 288*
 
@@ -42,7 +42,7 @@ You become trained in Occultism or Religion, and you gain the [[srd/pf2e/compend
 
 You’ve learned that in most cases, especially murders, criminals tend to leave more evidence of the crime on the body than they’d like to believe. Information from bruising, bone fractures, blood spatters, and even the life cycle of carrion insects can provide valuable clues that help reconstruct the scene.
 
-You’re trained in [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] and gain the [[srd/pf2e/compendium/feats/player-core-2/skill/forensic-acumen|Forensic Acumen]] and [[srd/pf2e/compendium/feats/player-core/skill/battle-medicine|Battle Medicine]] skill feats. When you use Battle Medicine, on a success the target recovers additional Hit Points equal to your level, and the target becomes temporarily immune for only 1 hour, not 1 day.
+You’re trained in [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] and gain the [[srd/pf2e/compendium/feats/player-core-2/skill/Forensic Acumen|Forensic Acumen]] and [[srd/pf2e/compendium/feats/player-core/skill/Battle Medicine|Battle Medicine]] skill feats. When you use Battle Medicine, on a success the target recovers additional Hit Points equal to your level, and the target becomes temporarily immune for only 1 hour, not 1 day.
 
 *Source: Player Core 2 p. 104*
 
@@ -50,6 +50,6 @@ You’re trained in [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicin
 
 People can’t help but trust you, whether through your inherent likableness or your firm insistence on sticking to the truth. You have a way about you that gets others talking, and you’ve developed interrogative techniques to help you get to the truth of your investigations.
 
-You are trained in [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]. You gain the [[srd/pf2e/compendium/feats/player-core/skill/no-cause-for-alarm|No Cause for Alarm]] skill feat. You can also Pursue a Lead at the same time you [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]], as long as you ask a question related to the creature with which you’re conversing or a topic of your conversation. You also gain the Pointed Question action.
+You are trained in [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]. You gain the [[srd/pf2e/compendium/feats/player-core/skill/No Cause for Alarm|No Cause for Alarm]] skill feat. You can also Pursue a Lead at the same time you [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]], as long as you ask a question related to the creature with which you’re conversing or a topic of your conversation. You also gain the Pointed Question action.
 
 *Source: Player Core 2 p. 104*

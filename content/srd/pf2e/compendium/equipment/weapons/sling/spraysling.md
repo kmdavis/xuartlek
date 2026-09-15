@@ -25,8 +25,8 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Sling
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/sling/spray-pellet|Spray Pellet]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sling|Sling]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/sling/Spray Pellet|Spray Pellet]]
 
 A spraysling is similar to a standard sling but with a wider cup fitted with a thin blade affixed to the cup's edges. When used to make an attack with a specially prepared packet of spray pellets, the razor slices open the packet and the weapon launches a cluster of stinging pellets.
 

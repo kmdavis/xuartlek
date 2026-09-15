@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/pactbinder|Pactbinder]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/pactbinder-dedication|Pactbinder Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Pactbinder|Pactbinder]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Pactbinder Dedication|Pactbinder Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
 You can leverage your vow in more social interactions. The circumstance bonus from your Binding Vow also applies to attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] you make directly in service of fulfilling the vow.
 

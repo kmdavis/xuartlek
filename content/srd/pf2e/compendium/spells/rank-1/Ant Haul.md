@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: Aakriti, Balumbdar, Belech, [[srd/pf2e/compendium/deities/sarkorian-gods/dolok-darkfur|Dolok Darkfur]], [[srd/pf2e/compendium/deities/dwarven-gods/droskar|Droskar]], Hearth and Harvest, [[srd/pf2e/compendium/deities/orc-gods/jukha|Jukha]], [[srd/pf2e/compendium/deities/other-gods/kurgess|Kurgess]], [[srd/pf2e/compendium/deities/pantheons/stones-blood|Stone's Blood]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Aakriti, Balumbdar, Belech, [[srd/pf2e/compendium/deities/sarkorian-gods/Dolok Darkfur|Dolok Darkfur]], [[srd/pf2e/compendium/deities/dwarven-gods/Droskar|Droskar]], Hearth and Harvest, [[srd/pf2e/compendium/deities/orc-gods/Jukha|Jukha]], [[srd/pf2e/compendium/deities/other-gods/Kurgess|Kurgess]], [[srd/pf2e/compendium/deities/pantheons/Stone's Blood|Stone's Blood]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Duration**: 8 hours

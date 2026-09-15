@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/aldori-duelist|Aldori Duelist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/aldori-parry|Aldori Parry]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Aldori Duelist|Aldori Duelist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Aldori Parry|Aldori Parry]]
 - **Trigger**: An opponent within your reach critically fails a Strike against you.
-- **Requirements**: You are using an [[srd/pf2e/compendium/equipment/weapons/sword/aldori-dueling-sword|Aldori dueling sword]] to parry.
+- **Requirements**: You are using an [[srd/pf2e/compendium/equipment/weapons/sword/Aldori Dueling Sword|Aldori dueling sword]] to parry.
 
 You riposte with your Aldori dueling sword when your enemy leaves an opening. Make a melee Strike against or attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]] the triggering opponent using your Aldori dueling sword.
 

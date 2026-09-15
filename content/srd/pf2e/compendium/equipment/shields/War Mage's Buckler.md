@@ -19,10 +19,10 @@ socialImage: og-image.png
 - **Price**: 450 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Buckler|Buckler]]
+- **Base Shield**: [[srd/pf2e/compendium/equipment/Shields#Buckler|Buckler]]
 
-This _[[srd/pf2e/compendium/equipment/runes/reinforcing-rune|minor reinforced]] [[srd/pf2e/compendium/equipment/shields#Buckler|buckler]]_ (Hardness 6, HP 50, BT 25) is a lightweight metal disk with a rounded bump at the center. The shield gives off a light hum near magic.
+This _[[srd/pf2e/compendium/equipment/runes/Reinforcing Rune|minor reinforced]] [[srd/pf2e/compendium/equipment/Shields#Buckler|buckler]]_ (Hardness 6, HP 50, BT 25) is a lightweight metal disk with a rounded bump at the center. The shield gives off a light hum near magic.
 
-**Activate—Spell Amp** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You throw your shield up to 30 feet into an unoccupied space you can see. The shield magically floats in the space as a focal point for your magic for 1 minute. You can cast spells using the shield as your point of origin, calculating range and cover from its space instead of yours. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] this effect, causing the shield to fly back to your hand. If the shield [[srd/pf2e/compendium/rules-elements/conditions#Broken|breaks]], the effect ends.
+**Activate—Spell Amp** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]]) **Frequency** once per day; **Effect** You throw your shield up to 30 feet into an unoccupied space you can see. The shield magically floats in the space as a focal point for your magic for 1 minute. You can cast spells using the shield as your point of origin, calculating range and cover from its space instead of yours. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] this effect, causing the shield to fly back to your hand. If the shield [[srd/pf2e/compendium/rules-elements/Conditions#Broken|breaks]], the effect ends.
 
 *Source: Battlecry! p. 125*

@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/guerrilla|Guerrilla]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/guerrilla-dedication|Guerrilla Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
-- **Requirements**: You are [[srd/pf2e/compendium/rules-elements/conditions#Unnoticed|unnoticed]] or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] by your target.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Guerrilla|Guerrilla]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Guerrilla Dedication|Guerrilla Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
+- **Requirements**: You are [[srd/pf2e/compendium/rules-elements/Conditions#Unnoticed|unnoticed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]] by your target.
 
 Leaping from a hiding place, you quickly attack your foe before retreating. You Stride or Step, then attempt a melee or ranged Strike against a creature. After your Strike, you [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]] away. None of the movement taken as part of this activity triggers reactions.
 

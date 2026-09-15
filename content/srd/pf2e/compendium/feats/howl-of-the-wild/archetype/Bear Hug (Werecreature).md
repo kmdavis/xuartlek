@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/werecreature|Werecreature]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/werecreature-dedication|Werecreature Dedication]]; werebear
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Werecreature|Werecreature]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Werecreature Dedication|Werecreature Dedication]]; werebear
 - **Requirements**: You’re in bear or hybrid shape, and your last action was a successful claw Strike.
 
-You hug your opponent. You make another claw Strike against the same target. If this Strike hits, the target is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] until the end of your next turn, unless you move or your target [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]].
+You hug your opponent. You make another claw Strike against the same target. If this Strike hits, the target is [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] until the end of your next turn, unless you move or your target [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]].
 
 *Source: Howl of the Wild p. 77*

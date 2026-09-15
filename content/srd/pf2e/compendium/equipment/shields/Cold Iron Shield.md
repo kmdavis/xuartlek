@@ -12,7 +12,7 @@ socialImage: og-image.png
 # Cold Iron Shield  *Item 2+*
 
 - **Usage**: varies by shield
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/cold-iron|Cold Iron]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/Cold Iron|Cold Iron]]
 
 Cold iron shields don't typically have an additional effect, though when used for a shield bash, they're cold iron weapons.
 

@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Legendary in [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+- **Prerequisites**: Legendary in [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 You can survive indefinitely without food or water and can endure severe, extreme, and incredible cold and heat without taking damage from doing so.
 

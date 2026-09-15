@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wrestler|Wrestler]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/wrestler-dedication|Wrestler Dedication]]
-- **Requirements**: You have a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]].
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wrestler|Wrestler]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Wrestler Dedication|Wrestler Dedication]]
+- **Requirements**: You have a creature [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]].
 
-You squeeze the breath out of your foe. Make an unarmed melee Strike against the creature you have [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]]. On a success, you gain a circumstance bonus to damage equal to the number of weapon damage dice, and the target can barely speak until the start of your next turn or until it Escapes, whichever comes first. While it can barely speak, the target can’t vocalize above a hoarse whisper, and it must succeed at a DC 10 flat check or lose any action that requires speech. For an action requiring speech that is also a manipulate action, like Casting a Spell with the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] trait, the target just rolls a single DC 10 flat check, rather than an additional DC 5 flat check for being grabbed.
+You squeeze the breath out of your foe. Make an unarmed melee Strike against the creature you have [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]]. On a success, you gain a circumstance bonus to damage equal to the number of weapon damage dice, and the target can barely speak until the start of your next turn or until it Escapes, whichever comes first. While it can barely speak, the target can’t vocalize above a hoarse whisper, and it must succeed at a DC 10 flat check or lose any action that requires speech. For an action requiring speech that is also a manipulate action, like Casting a Spell with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]] trait, the target just rolls a single DC 10 flat check, rather than an additional DC 5 flat check for being grabbed.
 
 *Source: Player Core 2 p. 223*

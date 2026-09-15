@@ -22,6 +22,6 @@ You move with magical swiftness, treading between planar boundaries to shorten y
 
 ### Plane-Stepping Dash leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/ancestry/plane-hop|Plane Hop]]
+[[srd/pf2e/compendium/feats/battlecry/ancestry/Plane Hop|Plane Hop]]
 
 *Source: Battlecry! p. 13*

@@ -1,6 +1,7 @@
 ---
 title: "What Kind of War?"
 aliases: ["What Kind of War?"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3434"
 citation: "Battlecry! pg. 199"
-socialImage: og-image.png
 ---
 
 # What Kind of War?
@@ -24,11 +24,11 @@ Alternatively, one can build a war from the ground up. Preindustrial wars genera
 
 When all goes well, few raiders die, though if the attackers are discovered, an ambush can wipe out an entire raid. It also doesn’t need a lot of expensive or difficult-to-acquire weaponry or siege equipment. This style of warfare is thus commonly practiced by insurgents, guerrillas, or terrorists, but also by groups of bandits or raiders, and by various nomadic, pastoralist peoples.
 
-Golarion, of course, is a fantasy setting, and so one can imagine some innovations on the venerable raiding formula. For one, raids might come from odd or unexpected angles. Perhaps the raiders come bubbling up from [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/beyond-the-inner-sea#The Darklands|the Darklands]], or step over from another plane, or arrive on the backs of [[srd/pf2e/bestiary/monster-core/animal/hippogriff|hippogriffs]] before flying away. Discovering how a raid is done can make for an entertaining mystery for the heroes.
+Golarion, of course, is a fantasy setting, and so one can imagine some innovations on the venerable raiding formula. For one, raids might come from odd or unexpected angles. Perhaps the raiders come bubbling up from [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/Beyond the Inner Sea#The Darklands|the Darklands]], or step over from another plane, or arrive on the backs of [[srd/pf2e/bestiary/monster-core/animal/Hippogriff|hippogriffs]] before flying away. Discovering how a raid is done can make for an entertaining mystery for the heroes.
 
 Magic and native supernatural abilities can give raiders the kind of resources one usually needs a fully equipped national army for—imagine, say, the offensive abilities of a raid of giants. Raiding involves relatively small numbers, so one high-level character or monster can take on immense military significance, personalizing what is otherwise an impersonal genre of storytelling.
 
-**Siege warfare** is about taking and holding key locations. These are usually military, administrative, and supply centers, though in Golarion this could also be places of mystical significance. Such places are defended by walls and citadels and large numbers of soldiers that make raids impossible, and so the way to overcome it is to bring enough soldiers, usually escorting some manner of lumbering [[srd/pf2e/books/guns-gears-remastered/gears-equipment/siege-weapons|siege]] equipment, to the enemy citadel. The enemy, in turn, will either wait in their fortress, or if they think they can win, will march their own army out to meet you in open battle before anyone reaches the fortress (and in so doing minimize the damage you deal to their territory).
+**Siege warfare** is about taking and holding key locations. These are usually military, administrative, and supply centers, though in Golarion this could also be places of mystical significance. Such places are defended by walls and citadels and large numbers of soldiers that make raids impossible, and so the way to overcome it is to bring enough soldiers, usually escorting some manner of lumbering [[srd/pf2e/books/guns-gears-remastered/gears-equipment/Siege Weapons|siege]] equipment, to the enemy citadel. The enemy, in turn, will either wait in their fortress, or if they think they can win, will march their own army out to meet you in open battle before anyone reaches the fortress (and in so doing minimize the damage you deal to their territory).
 
 This kind of warfare is expensive and can involve tens of thousands of soldiers, many of whom will inevitably die. A typical preindustrial army will usually be about twenty to thirty thousand soldiers, with big ones going as high as sixty thousand, though these are very rough numbers. As a result, this kind of warfare is almost entirely the realm of organized states, countries with generals and uniforms and so forth.
 

@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/sentinel|Sentinel]], Stalwart Defender (Level 6)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/sentinel-dedication|Sentinel Dedication]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Sentinel|Sentinel]], Stalwart Defender (Level 6)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Sentinel Dedication|Sentinel Dedication]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-You wear your armor like a second skin, taking comfort in the protection it offers. You don't become [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] if you sleep while wearing armor.
+You wear your armor like a second skin, taking comfort in the protection it offers. You don't become [[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|fatigued]] if you sleep while wearing armor.
 
 *Source: Player Core 2 p. 215*

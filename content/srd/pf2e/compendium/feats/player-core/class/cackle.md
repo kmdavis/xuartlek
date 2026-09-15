@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Witch`
 
-Your patron’s power fills you with confidence, letting you sustain a magical working even as a quick burst of laughter leaves your lips. You learn the [[srd/pf2e/compendium/spells/focus/cackle|_cackle_]] hex.
+Your patron’s power fills you with confidence, letting you sustain a magical working even as a quick burst of laughter leaves your lips. You learn the [[srd/pf2e/compendium/spells/focus/Cackle|_cackle_]] hex.
 
 *Source: Player Core p. 186*

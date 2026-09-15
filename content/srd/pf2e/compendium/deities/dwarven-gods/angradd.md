@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: Seek and destroy evil, study evil to learn the best way to destroy it, train others in righteous ways
 - **Anathema**: Allow weaker evils to survive due to the presence of larger evils, deceive others outside of tactical gain
 - **Area of Concern**: Fire, offensive war, tradition
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/stones-blood|Stone's Blood]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Stone's Blood|Stone's Blood]]
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Strength or Constitution
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/axe/greataxe|Greataxe]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/axe/Greataxe|Greataxe]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Fate|Fate]], [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Fate|Fate]], [[srd/pf2e/compendium/character/Domains#Fire|Fire]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/breathe-fire|Breathe Fire]]
+[[srd/pf2e/compendium/spells/rank-1/Breathe Fire|Breathe Fire]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/blistering-invective|Blistering Invective]]
+[[srd/pf2e/compendium/spells/rank-2/Blistering Invective|Blistering Invective]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/fireball|Fireball]]
+[[srd/pf2e/compendium/spells/rank-3/Fireball|Fireball]]
 
 *Source: Divine Mysteries p. 304*

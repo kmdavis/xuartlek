@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 - **Prerequisites**: Qi Spells
 
-Your talent at controlling your qi has reached new heights. You gain [[srd/pf2e/compendium/spells/focus/qi-blast|_qi blast_]], [[srd/pf2e/compendium/spells/focus/shrink-the-span|_shrink the span_]], or another 3rd-rank qi spell you have access to.
+Your talent at controlling your qi has reached new heights. You gain [[srd/pf2e/compendium/spells/focus/Qi Blast|_qi blast_]], [[srd/pf2e/compendium/spells/focus/Shrink the Span|_shrink the span_]], or another 3rd-rank qi spell you have access to.
 
 **Special** You can select this feat more than once, choosing a different spell each time.
 

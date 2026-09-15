@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Occult
-- **Area**: 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Area**: 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Cone|cone]]
 - **Defense**: Fortitude
 
 You send forth a ripple of gravitic force, lifting enemies into the air before slamming them down to the ground, dealing 6d4 bludgeoning damage with a Fortitude save.
@@ -25,7 +25,7 @@ You send forth a ripple of gravitic force, lifting enemies into the air before s
 
 **Success** The target takes half damage.
 
-**Failure** The target takes full damage and falls [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
+**Failure** The target takes full damage and falls [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]].
 
 **Critical Failure** The target takes double damage and falls prone.
 

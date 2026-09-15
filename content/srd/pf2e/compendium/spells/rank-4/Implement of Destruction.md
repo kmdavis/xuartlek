@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Emotion`  `Fear`  `Manipulate`  `Mental`
 
-- **Traditions**: Divine, Occult
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 30 feet
 - **Target**: 1 enemy, and 1 weapon that is either unattended or wielded by you or a willing ally
 - **Defense**: Will
@@ -30,7 +30,7 @@ You solemnly declare that the target weapon will bring death to a foe, implantin
 
 **Success** The target weapon deals an additional 2d6 mental damage the first time it hits the target enemy before the end of the spell’s duration.
 
-**Failure** The target weapon deals an additional 2d6 persistent mental damage to the target enemy. If the enemy is critically hit by the weapon, the enemy is [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] 1 for as long as it takes this persistent mental damage.
+**Failure** The target weapon deals an additional 2d6 persistent mental damage to the target enemy. If the enemy is critically hit by the weapon, the enemy is [[srd/pf2e/compendium/rules-elements/Conditions#Doomed|doomed]] 1 for as long as it takes this persistent mental damage.
 
 **Critical Failure** The target weapon deals an additional 4d6 persistent mental damage to the target enemy. If the enemy is critically hit by the weapon, the enemy is doomed 1.
 

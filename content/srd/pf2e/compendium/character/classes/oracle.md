@@ -16,9 +16,9 @@ You'll see these key terms in many oracle class features.
 
  **Cursebound**: Abilities with this trait tighten your oracular curse's grasp on your soul in exchange for divine insights, giving you the cursebound condition (see below). When you use a cursebound ability, you become cursebound 1, or if you were already cursebound, you increase the value of your cursebound condition by 1. As cursebound abilities are directly linked to your oracular curse, you can't use a cursebound ability if you don't have an oracular curse or if you are already at your maximum cursebound value. You can't mitigate or bypass the drawbacks of any cursebound ability with spells or other effects, and the effects of any cursebound ability end when you Refocus and remove the cursebound condition. A cursebound ability that allows a defense uses your spell attack modifier or spell DC unless noted otherwise.
 
- **[[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|Fortune]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|Misfortune]]:** Fortune and misfortune effects can alter how you roll your dice. You can never have more than one fortune and one misfortune effect come into play on a single roll. If multiple fortune effects would apply, you must pick which to use. If two misfortune effects apply, the GM decides which is worse and applies it. If both a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.
+ **[[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|Fortune]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|Misfortune]]:** Fortune and misfortune effects can alter how you roll your dice. You can never have more than one fortune and one misfortune effect come into play on a single roll. If multiple fortune effects would apply, you must pick which to use. If two misfortune effects apply, the GM decides which is worse and applies it. If both a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.
 
- **[[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
+ **[[srd/pf2e/compendium/rules-elements/traits/player-core/Spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
 
 ### The Cursebound Condition
 
@@ -61,7 +61,7 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 #### Skills
 
-Trained in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+Trained in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
  Trained in one or more skills determined by your mystery
  Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 
@@ -144,7 +144,7 @@ The collection of spells you can cast is called your spell repertoire. At 1st le
 
 #### Swapping Spells In Your Repertoire
 
- As you gain new spells in your repertoire, you might want to replace some of the spells you previously learned. Each time you gain a level and learn new spells, you can swap out one of your old spells for a different spell of the same rank. This spell can be a cantrip. You can also swap out spells by [[srd/pf2e/books/player-core/chapter-8-playing-the-game/downtime-mode#Retraining|retraining]] during downtime.
+ As you gain new spells in your repertoire, you might want to replace some of the spells you previously learned. Each time you gain a level and learn new spells, you can swap out one of your old spells for a different spell of the same rank. This spell can be a cantrip. You can also swap out spells by [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Downtime Mode#Retraining|retraining]] during downtime.
 
 #### Mystery
 
@@ -152,11 +152,11 @@ An oracle wields divine power, but not from a single divine being. This power co
 
  Choose the mystery that empowers your magic. Your mystery grants you additional spells, and special focus spells called revelation spells. Your mystery also gives you a unique cursebound ability that lets you draw upon the divine, as well as dictating the effects of the oracular curse that falls upon you when you touch too much of this power.
 
-The list of oracle mysteries can be found [[srd/pf2e/compendium/character/mysteries|here]] 
+The list of oracle mysteries can be found [[srd/pf2e/compendium/character/Mysteries|here]] 
 
 #### Revelation Spells
 
- The powers of your mystery manifest in the form of revelation spells. Revelation spells are a type of [[srd/pf2e/books/player-core/chapter-7-spells/focus-spells|focus spell]]. It costs 1 Focus Point to cast a focus spell. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to search for omens in a way befitting your mystery, like gazing into a fire, throwing bones and seeing how they fall, or meditating to hear the voices of those who came before you.
+ The powers of your mystery manifest in the form of revelation spells. Revelation spells are a type of [[srd/pf2e/books/player-core/chapter-7-spells/Focus Spells|focus spell]]. It costs 1 Focus Point to cast a focus spell. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to search for omens in a way befitting your mystery, like gazing into a fire, throwing bones and seeing how they fall, or meditating to hear the voices of those who came before you.
 
  Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots, and you can't cast them using spell slots. Certain feats give you more focus spells.
 
@@ -170,13 +170,13 @@ The list of oracle mysteries can be found [[srd/pf2e/compendium/character/myster
 
  Your oracular curse is expressed using the cursebound condition, a unique condition that affects only oracles. Immediately after the first time you use a cursebound ability, you become cursebound 1, and if you use a cursebound ability while you are already cursebound, you increase the value of your cursebound condition by 1 after the ability resolves. At lower levels, you can tolerate only a modest amount of divine power, and your cursebound condition can't increase beyond cursebound 2; as you grow in levels, you can open yourself to even more power and your cursebound condition can progress to 3 and finally 4. Once saturated in divine power, your soul can't absorb any more, and so you can't use a cursebound ability if you are already at your maximum cursebound condition.
 
- Your oracular curse lists the specific effects of being cursebound, which are cumulative as your curse progresses. You remain cursebound until you Refocus, which reduces your cursebound condition by 1 in addition to restoring a Focus Point. As your curse is a direct result of divine power, you cannot mitigate, reduce, or remove the effects of your curse or any ability with the cursebound trait by any means other than Refocusing. For example, if a cursebound effect makes creatures [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] from you, you can't negate that concealed condition through a magic item or spell, such as [[srd/pf2e/compendium/spells/rank-1/sure-strike|_sure strike_]] (though you would still benefit from the other effects of that item or spell). Likewise, [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|_cleanse affliction_]] and similar abilities don't affect your curse at all.
+ Your oracular curse lists the specific effects of being cursebound, which are cumulative as your curse progresses. You remain cursebound until you Refocus, which reduces your cursebound condition by 1 in addition to restoring a Focus Point. As your curse is a direct result of divine power, you cannot mitigate, reduce, or remove the effects of your curse or any ability with the cursebound trait by any means other than Refocusing. For example, if a cursebound effect makes creatures [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] from you, you can't negate that concealed condition through a magic item or spell, such as [[srd/pf2e/compendium/spells/rank-1/Sure Strike|_sure strike_]] (though you would still benefit from the other effects of that item or spell). Likewise, [[srd/pf2e/compendium/spells/rank-2/Cleanse Affliction|_cleanse affliction_]] and similar abilities don't affect your curse at all.
 
  At 1st level, you gain a cursebound oracle feat determined by your mystery, and you can learn additional cursebound abilities through oracle feats.
 
 | | |
 | --- | --- |
-| **Oracle Feats** | At 2nd level and every 2 levels thereafter, you gain an oracle class feat. |
+| **Oracle Feats** | At 2nd level and every 2 levels thereafter, you gain an [oracle class feat](https://2e.aonprd.com/Feats.aspx?Traits=817). |
 | **Skill Feats** | At 2nd level and every 2 levels thereafter, you gain a skill feat. You must be trained or better in the corresponding skill to select a skill feat. |
 | **General Feats** | At 3rd level and every 4 levels thereafter, you gain a general feat. |
 

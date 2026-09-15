@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Air`  `Cantrip`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Duration**: 10 minutes
 
 You take an incredibly deep breath and can hold it for the spell's duration. You don't lose breath when hit, but you do lose all the air you inhaled if you speak (including to Cast a Spell). This spell doesn't create air; if you don't have air to breathe when you cast it, you get no benefit.

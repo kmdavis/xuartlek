@@ -24,7 +24,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Advanced
-- **Group**: Pick
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Pick|Pick]]
 
 This ingenious kobold pick conceals several hidden traps that the wielder can activate to trick and befuddle foes with a variety of damaging blades and bludgeoning surfaces.
 

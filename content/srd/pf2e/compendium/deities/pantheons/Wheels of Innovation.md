@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: devise solutions to problems through the creative use of items rather than magic or brute strength, encourage tinkering and experimentation, refuse to abandon a project at the first sign of failure
 - **Anathema**: deprive others of their innovations unduly, stifle imagination
 - **Area of Concern**: innovators, inspiration, perseverance in the face of failures, and technology
-- **Pantheon Members**: Aakriti, [[srd/pf2e/compendium/deities/empyreal-lords/bharnarol|Bharnarol]], [[srd/pf2e/compendium/deities/other-gods/brigh|Brigh]], [[srd/pf2e/compendium/deities/other-gods/casandalee|Casandalee]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/torag|Torag]]
+- **Pantheon Members**: Aakriti, [[srd/pf2e/compendium/deities/empyreal-lords/Bharnarol|Bharnarol]], [[srd/pf2e/compendium/deities/other-gods/Brigh|Brigh]], [[srd/pf2e/compendium/deities/other-gods/Casandalee|Casandalee]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Torag|Torag]]
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Dexterity or Intelligence
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/polytool|Polytool]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Polytool|Polytool]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Metal|Metal]], [[srd/pf2e/compendium/character/domains#Toil|Toil]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Metal|Metal]], [[srd/pf2e/compendium/character/Domains#Toil|Toil]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/temporary-tool|Temporary Tool]]
+[[srd/pf2e/compendium/spells/rank-1/Temporary Tool|Temporary Tool]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/creation|Creation]]
+[[srd/pf2e/compendium/spells/rank-4/Creation|Creation]]
 
 - **9th**
-[[srd/pf2e/compendium/spells/rank-9/metamorphosis|Metamorphosis]]
+[[srd/pf2e/compendium/spells/rank-9/Metamorphosis|Metamorphosis]]
 
 *Source: Divine Mysteries p. 245*

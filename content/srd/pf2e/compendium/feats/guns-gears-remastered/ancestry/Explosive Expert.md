@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Dwarf`  `Uncommon`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/ancestry/explosive-savant|Explosive Savant]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/ancestry/Explosive Savant|Explosive Savant]]
 - **Access**: You are from Dongun Hold or Alkenstar.
 
 You have continued training in volatile weapons and gained a deeper understanding. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency for simple and martial bombs and firearms.

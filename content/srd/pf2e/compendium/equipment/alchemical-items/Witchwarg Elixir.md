@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-This elixir warms your core and improves your circulation. For 24 hours, you're protected from the effects of [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Temperature|severe cold]].
+This elixir warms your core and improves your circulation. For 24 hours, you're protected from the effects of [[srd/pf2e/books/gm-core/chapter-2-building-games/Environment#Temperature|severe cold]].
 
 ### Witchwarg Elixir (Lesser)
 

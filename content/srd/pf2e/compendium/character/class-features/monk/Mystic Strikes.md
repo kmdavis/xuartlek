@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Monk
 
-Focusing your will into your physical attacks imbues them with mystical energy. Your unarmed attacks become magical, allowing them to get past resistances to non-magical attacks. However, you still need an item such as [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows|handwraps of mighty blows]] to gain an item bonus to attack rolls or increase your attacks' weapon damage dice.
+Focusing your will into your physical attacks imbues them with mystical energy. Your unarmed attacks become magical, allowing them to get past resistances to non-magical attacks. However, you still need an item such as [[srd/pf2e/compendium/equipment/worn-items/Handwraps of Mighty Blows|handwraps of mighty blows]] to gain an item bonus to attack rolls or increase your attacks' weapon damage dice.
 
 *Source: Player Core 2 p. 114*

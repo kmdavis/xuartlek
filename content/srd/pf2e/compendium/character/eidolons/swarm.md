@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Animal`  `Eidolon`  `Swarm`
 
-- **Tradition**: Primal
-- **Home Plane**: [[srd/pf2e/compendium/gm/planes#The Universe|the universe]]
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Home Plane**: [[srd/pf2e/compendium/gm/Planes#The Universe|the universe]]
 
 **Size** Medium (condensed) and Large (dispersed)
 
@@ -40,11 +40,11 @@ socialImage: og-image.png
 - Cha -1
 - +1 AC (+4 Dex cap)
 
-**Skills** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Senses** [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Low-Light Vision|low-light vision]]
+**Senses** [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Low-Light Vision|low-light vision]]
 
-**Language** [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+**Language** [[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
 **Speed** 25 feet
 

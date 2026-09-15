@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Manipulate`  `Water`
 
-- **Traditions**: Arcane, Divine, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 10 feet
 - **Target**: 1 object up to 10 Bulk
 

@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/qlippoth-lords/chavazvug|Chavazvug]], [[srd/pf2e/compendium/deities/covenants/light-of-the-everlasting-flame|Light of the Everlasting Flame]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], Sekhmet, [[srd/pf2e/compendium/deities/orc-gods/uirch|Uirch]], Walkena, [[srd/pf2e/compendium/deities/elemental-lords/ymeri|Ymeri]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/qlippoth-lords/Chavazvug|Chavazvug]], [[srd/pf2e/compendium/deities/covenants/Light of the Everlasting Flame|Light of the Everlasting Flame]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Sarenrae|Sarenrae]], Sekhmet, [[srd/pf2e/compendium/deities/orc-gods/Uirch|Uirch]], Walkena, [[srd/pf2e/compendium/deities/elemental-lords/Ymeri|Ymeri]]
 - **Range**: 120 feet
 - **Duration**: 1 minute
 

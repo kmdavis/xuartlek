@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Ranger`
 
-- **Prerequisites**: masterful hunter; [[srd/pf2e/compendium/feats/player-core/class/animal-companion|Animal Companion]]
+- **Prerequisites**: masterful hunter; [[srd/pf2e/compendium/feats/player-core/class/Animal Companion|Animal Companion]]
 
 Your animal companion shares your incredible hunting skills, allowing it to take down your shared prey with ease. When you Hunt Prey, your animal companion gains the masterful hunter benefit associated with your hunter’s edge, rather than just your original hunter’s edge benefit.
 

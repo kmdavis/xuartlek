@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Dhampir`  `Lineage`
 
-You were born to a [[srd/pf2e/compendium/gm/creature-families/vampire|moroi]], the most common vampires, and you share their supernatural fortitude and power of persuasion. When you have the [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] condition, calculate the penalty to your Fortitude saves and your Hit Point reduction as though the condition value were 1 lower. You're trained in [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]. If you would automatically be trained in it, you instead become trained in a skill of your choice.
+You were born to a [[srd/pf2e/compendium/gm/creature-families/Vampire|moroi]], the most common vampires, and you share their supernatural fortitude and power of persuasion. When you have the [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]] condition, calculate the penalty to your Fortitude saves and your Hit Point reduction as though the condition value were 1 lower. You're trained in [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]. If you would automatically be trained in it, you instead become trained in a skill of your choice.
 
 *Source: Player Core 2 p. 43*

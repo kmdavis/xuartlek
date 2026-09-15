@@ -23,7 +23,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Advanced
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 This weapon has a hilt like a longsword attached to several bladed segments connected by chain links. A highly technical weapon, the chain sword is valued by duelists and experienced soldiers alike in the nations of Nirmathas and Molthune.
 

@@ -23,7 +23,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Simple
-- **Group**: Brawling
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|Brawling]]
 
 This bit of hardened metal, favored by street toughs, is typically made of brass and features four finger holes so that it can sit atop the knuckles, adding extra power to a punch.
 
@@ -33,6 +33,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/ankhrav-duster|Ankhrav Duster]]
+[[srd/pf2e/compendium/equipment/weapons/Ankhrav Duster|Ankhrav Duster]]
 
 *Source: Guns & Gears (Remastered) p. 152*

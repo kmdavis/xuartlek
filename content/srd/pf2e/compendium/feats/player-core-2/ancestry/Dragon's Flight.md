@@ -20,6 +20,6 @@ You have grown a small pair of draconic wings or have honed your use of the wing
 
 ### Dragon's Flight leads to...
 
-Sheltering Wing, [[srd/pf2e/compendium/feats/player-core-2/ancestry/true-dragons-flight|True Dragon's Flight]]
+Sheltering Wing, [[srd/pf2e/compendium/feats/player-core-2/ancestry/True Dragon's Flight|True Dragon's Flight]]
 
 *Source: Player Core 2 p. 46*

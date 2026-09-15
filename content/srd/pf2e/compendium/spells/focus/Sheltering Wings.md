@@ -18,11 +18,11 @@ socialImage: og-image.png
 
 `Focus`  `Hex`  `Manipulate`  `Uncommon`  `Witch`
 
-- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of the Flock|Lesson of the Flock]]
+- **Lesson**: [[srd/pf2e/compendium/character/Lessons#Lesson of the Flock|Lesson of the Flock]]
 - **Trigger**: An ally moves through a square within 15 feet of you or uses an action that has the move trait.
 - **Range**: 15 feet
 - **Target**: 1 ally
 
-Like migratory birds, you know everyone flies farther together. You cause immense wings to sprout from your familiar. Your familiar [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]] up to 30 feet, though it must move toward the triggering ally. If your familiar ends this movement adjacent to the triggering ally, it lands on their back; until the beginning of your next turn, the familiar automatically is carried by the ally, and its wings provide them [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|cover]]. When the spell ends, the familiar hops off your ally into an adjacent square.
+Like migratory birds, you know everyone flies farther together. You cause immense wings to sprout from your familiar. Your familiar [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]] up to 30 feet, though it must move toward the triggering ally. If your familiar ends this movement adjacent to the triggering ally, it lands on their back; until the beginning of your next turn, the familiar automatically is carried by the ally, and its wings provide them [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Cover|cover]]. When the spell ends, the familiar hops off your ally into an adjacent square.
 
 *Source: Howl of the Wild p. 61*

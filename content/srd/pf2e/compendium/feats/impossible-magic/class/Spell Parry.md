@@ -20,6 +20,6 @@ You infuse magical power into your body or armaments to parry both physical and 
 
 ### Spell Parry leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/preternatural-parry|Preternatural Parry]]
+[[srd/pf2e/compendium/feats/impossible-magic/class/Preternatural Parry|Preternatural Parry]]
 
 *Source: Impossible Magic p. 18*

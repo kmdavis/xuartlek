@@ -1,16 +1,19 @@
 ---
-aliases: ["Irrepressible (Nephilim)"]
-source: "War of Immortals"
-aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7201"
-socialImage: og-image.png
+cssclasses: pf2e,pf2e-feat
 tags:
-- compendium/src/pf2e/feat
+- compendium/src/pf2e/war-of-immortals
+- trait/nephilim
+- feat/level/1
+aliases: ["Irrepressible (Nephilim)"]
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7201"
+source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Irrepressible (Nephilim)  *Feat 1*
 
-**Source** [War of Immortals](https://2e.aonprd.com/Sources.aspx) pg. 53
+`Nephilim`
 
----
+Your slight otherworldly nature allows you to easily brush off emotional manipulation. When you roll a success on a save against an [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]] effect, you get a critical success instead.
 
-Your slight otherworldly nature allows you to easily brush off emotional manipulation. When you roll a success on a save against an [emotion](https://2e.aonprd.com/Traits.aspx) effect, you get a critical success instead.
+*Source: War of Immortals p. 53*

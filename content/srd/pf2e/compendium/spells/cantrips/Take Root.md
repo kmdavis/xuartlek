@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Cantrip`  `Manipulate`  `Plant`  `Wood`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Target**: 1 willing creature
 - **Duration**: 1 round

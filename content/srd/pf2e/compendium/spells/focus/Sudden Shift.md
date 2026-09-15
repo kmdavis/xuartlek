@@ -17,10 +17,10 @@ socialImage: og-image.png
 
 `Cleric`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 - **Trigger**: An enemy misses you with a melee attack
 - **Duration**: until the end of your next turn
 
-You swiftly move from a dangerous spot and veil yourself. You Step and become [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]].
+You swiftly move from a dangerous spot and veil yourself. You Step and become [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]].
 
 *Source: Player Core p. 379*

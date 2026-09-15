@@ -17,9 +17,9 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`  `Spellshape`  `Metamagic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/hedge-mage|Hedge Mage]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/hedge-mage-dedication|Hedge Mage Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Hedge Mage|Hedge Mage]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Hedge Mage Dedication|Hedge Mage Dedication]]
 
-Your gentle magic eases even the most skittish of souls, a gift that almost guarantees you popularity among parents and farmers alike. If your next action is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a non-cantrip Spell]] that targets a single creature, you can reduce the target’s [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition by 1. If the target is an [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]], you can also attempt to [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] an effect imposing the [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] or [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] condition.
+Your gentle magic eases even the most skittish of souls, a gift that almost guarantees you popularity among parents and farmers alike. If your next action is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a non-cantrip Spell]] that targets a single creature, you can reduce the target’s [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] condition by 1. If the target is an [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animal]], you can also attempt to [[srd/pf2e/books/player-core/chapter-7-spells/Counteracting|counteract]] an effect imposing the [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]] or [[srd/pf2e/compendium/rules-elements/Conditions#Fleeing|fleeing]] condition.
 
 *Source: Impossible Magic p. 94*

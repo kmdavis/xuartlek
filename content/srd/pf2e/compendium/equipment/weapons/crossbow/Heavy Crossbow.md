@@ -1,17 +1,17 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/player-core
+- compendium/src/pf2e/tian-xia-character-guide
 - weapon/level/0
 aliases: ["Heavy Crossbow"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=428"
-source: "Player Core"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
 # Heavy Crossbow  *Weapon 0*
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/empyreal-lords/zohls|Zohls]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/empyreal-lords/Zohls|Zohls]]
 - **Price**: 4 gp
 - **Damage**: 1d10 P
 - **Bulk**: 2
@@ -20,8 +20,8 @@ socialImage: og-image.png
 - **Reload**: 2
 - **Type**: Ranged
 - **Category**: Simple
-- **Group**: Crossbow
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/crossbow/bolts|Bolts]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Crossbow|Crossbow]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/crossbow/Bolts|Bolts]]
 
 This large crossbow is harder to load and more substantial than a regular crossbow, but it packs a greater punch.
 
@@ -29,4 +29,4 @@ This large crossbow is harder to load and more substantial than a regular crossb
 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
 
-*Source: Player Core p. 280*
+*Source: Tian Xia Character Guide p. 128*

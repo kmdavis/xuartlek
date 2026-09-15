@@ -16,13 +16,13 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`  `Uncommon`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/sterling-dynamo|Sterling Dynamo]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Sterling Dynamo|Sterling Dynamo]]
 
 You obtain a sterling dynamo prosthetic, which allows you to replace or augment a limb, or even add a simple new non-prehensile limb, such as a tail. While your sterling dynamo prosthetic can replace a missing prehensile limb, such as an arm, choosing to add a new limb can never increases your character's number of hands or prehensile limbs beyond two, even in combination with other abilities or effects.
 
- Your sterling dynamo prosthesis is especially optimized for combat, granting you a dynamo melee [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack that is in the brawling weapon group and is made of silver (which makes it more effective against certain types of creatures, such as devils and werewolves).
+ Your sterling dynamo prosthesis is especially optimized for combat, granting you a dynamo melee [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack that is in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] weapon group and is made of silver (which makes it more effective against certain types of creatures, such as devils and werewolves).
 
- You have several options to customize your sterling dynamo. First, choose whether you have a power driver dynamo, which deals 1d6 bludgeoning damage and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|shove]] trait, or a percussive striker dynamo, which deals 1d4 bludgeoning damage and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]] traits.
+ You have several options to customize your sterling dynamo. First, choose whether you have a power driver dynamo, which deals 1d6 bludgeoning damage and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Shove|shove]] trait, or a percussive striker dynamo, which deals 1d4 bludgeoning damage and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]] traits.
 
  Most dynamos are automated, so they don't require a free hand to use, like other unarmed attacks. However, you can instead choose to make your dynamo be manually controlled via a handheld switch, lever, or other device; to make an attack with a manually controlled dynamo, you must have a hand free to operate it, but the benefit is great control and a more devastating strike. This increases the damage die by one size, to a 1d8 for a power drive dynamo or 1d6 for a percussive striker dynamo. Arm dynamos are always manual, but they use the hand on that arm to operate the dynamo when making strikes. Manual control is required only in the heat of combat, not for less strenuous adventuring or everyday activities.
 
@@ -30,6 +30,6 @@ You obtain a sterling dynamo prosthetic, which allows you to replace or augment 
 
 ### Sterling Dynamo Dedication leads to...
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/beast-dynamo-howl|Beast Dynamo Howl]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/golem-dynamo|Golem Dynamo]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/modular-dynamo|Modular Dynamo]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/piston-punch|Piston Punch]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/soaring-dynamo|Soaring Dynamo]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/stasian-smash|Stasian Smash]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Beast Dynamo Howl|Beast Dynamo Howl]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Golem Dynamo|Golem Dynamo]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Modular Dynamo|Modular Dynamo]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Piston Punch|Piston Punch]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Soaring Dynamo|Soaring Dynamo]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Stasian Smash|Stasian Smash]]
 
 *Source: Guns & Gears (Remastered) p. 52*

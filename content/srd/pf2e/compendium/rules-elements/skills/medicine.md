@@ -25,14 +25,14 @@ Category
 Consumable
 Note
 
-[[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|Healer's Toolkit (Expanded)]]
+[[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit|Healer's Toolkit (Expanded)]]
 +1
 3
 Adventuring Gear
 No
 Medicine checks to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds
 
-[[srd/pf2e/compendium/equipment/worn-items/mask-of-mercy|Mask of Mercy]]
+[[srd/pf2e/compendium/equipment/worn-items/Mask of Mercy|Mask of Mercy]]
 +1
 4
 Other Worn Items
@@ -46,48 +46,48 @@ Other Worn Items
 No
 Item bonus to a check of the crafter's choice
 
-[[srd/pf2e/compendium/equipment/consumables/crying-angel-pendant|Crying Angel Pendant]]
+[[srd/pf2e/compendium/equipment/consumables/Crying Angel Pendant|Crying Angel Pendant]]
 +1
 2
 Talismans
 Yes
 Medicine to Administer First Aid
 
-[[srd/pf2e/compendium/equipment/worn-items/medics-armband|Greater Medic’s Armband]]
+[[srd/pf2e/compendium/equipment/worn-items/Medic's Armband|Greater Medic’s Armband]]
 +2
 10
 Worn Items
 No
 Item bonus to Diplomacy checks to change the attitudes of diseased, poisoned, and wounded creatures.
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
 +2
 11
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-Sun Herald's Stylus
+[[srd/pf2e/compendium/equipment/held-items/Sun Herald's Stylus|Sun Herald's Stylus]]
 +2
 14
 Held Items
 No
 
-[[srd/pf2e/compendium/equipment/shields/medics-shield|Medic's Shield]]
+[[srd/pf2e/compendium/equipment/shields/Medic's Shield|Medic's Shield]]
 +2
 14
 Specific Shields
 No
 Item bonus to Medicine checks.
 
-[[srd/pf2e/compendium/equipment/alchemical-items/skinstitch-salve|Skinstitch Salve]]
+[[srd/pf2e/compendium/equipment/alchemical-items/Skinstitch Salve|Skinstitch Salve]]
 +2
 7
 Alchemical Tools
 Yes
 Medicine checks to Administer First Aid, Treat Wounds, or use Battle Medicine
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items

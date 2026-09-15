@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/weapon-improviser|Weapon Improviser]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/improvised-pummel|Improvised Pummel]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Weapon Improviser|Weapon Improviser]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Improvised Pummel|Improvised Pummel]]
 - **Trigger**: An improvised weapon you are wielding becomes broken as a result of a critical success on an Improvised Pummel.
 
 The improvised weapon shatters, destroying it completely but dealing an additional 3d6 piercing damage to the creature you hit with the Improvised Pummel. This extra damage you apply on the critical hit doesn't double from the critical hit, as normal.

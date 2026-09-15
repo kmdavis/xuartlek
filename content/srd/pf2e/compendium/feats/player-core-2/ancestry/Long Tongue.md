@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Tripkee`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/heritages#Snaptongue Tripkee|Snaptongue Tripkee]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Snaptongue Tripkee|Snaptongue Tripkee]] heritage
 
 You've learned to stretch your exceptionally long tongue beyond its original limits. When you use your tongue to deliver touch-range spells or perform very simple Interact actions, you can do so at a distance that is 5 feet beyond your usual reach.
 

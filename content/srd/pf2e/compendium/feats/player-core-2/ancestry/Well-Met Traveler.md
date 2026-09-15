@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Catfolk`
 
-You naturally adopt a pleasant and affable demeanor when meeting others. You are trained in [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]. If you would automatically become trained in Diplomacy (from your background or class, for example), you instead become trained in a skill of your choice.
+You naturally adopt a pleasant and affable demeanor when meeting others. You are trained in [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]. If you would automatically become trained in Diplomacy (from your background or class, for example), you instead become trained in a skill of your choice.
 
- In addition, you gain the [[srd/pf2e/compendium/feats/player-core/skill/hobnobber|Hobnobber]] skill feat.
+ In addition, you gain the [[srd/pf2e/compendium/feats/player-core/skill/Hobnobber|Hobnobber]] skill feat.
 
 *Source: Player Core 2 p. 10*

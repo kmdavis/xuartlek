@@ -1,6 +1,7 @@
 ---
 title: "Pets and Familiars"
 aliases: ["Pets and Familiars"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3371"
 citation: "NPC Core pg. 216"
-socialImage: og-image.png
 ---
 
 # Pets and Familiars
@@ -23,35 +23,35 @@ Pets and familiars can be broken down into the broad categories below, depending
 ## Aquatic
 
 **Examples** fish, octopus, otter, turtle
-**Splash** [one-action] ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Requirements** The NPC is in water; **Effect** The NPC commands their companion to splash water on an enemy within 15 feet. That target is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] until the beginning of the NPC's next turn.
+**Splash** [one-action] ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) **Requirements** The NPC is in water; **Effect** The NPC commands their companion to splash water on an enemy within 15 feet. That target is [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] until the beginning of the NPC's next turn.
 
 ## Burrowing
 
 **Examples** fox, giant ant, mole
-**Churn Earth** [one-action] ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) The NPC commands their companion to burrow through the nearby soil, creating a 10-foot-square area of difficult terrain within 15 feet.
+**Churn Earth** [one-action] ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) The NPC commands their companion to burrow through the nearby soil, creating a 10-foot-square area of [difficult terrain](https://2e.aonprd.com/Rules.aspx?ID=453) within 15 feet.
 
 ## Flying
 
 **Examples** bat, parrot, raven
-**Dive Bomb** [one-action] ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) The NPC commands their companion to fly at an enemy within 30 feet and flap its wings in their face. The target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the end of the NPC's turn.
+**Dive Bomb** [one-action] ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) The NPC commands their companion to fly at an enemy within 30 feet and flap its wings in their face. The target is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] until the end of the NPC's turn.
 
 ## Scent
 
 **Examples** cat, compsognathus, dog
-**Point Out** [one-action] ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) The NPC commands their companion to root out an [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] creature. The NPC gains the benefits of [[srd/pf2e/compendium/rules-elements/actions/player-core#Point Out|Point Out]] against an undetected creature within 20 feet.
+**Point Out** [one-action] ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) The NPC commands their companion to root out an [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]] creature. The NPC gains the benefits of [[srd/pf2e/compendium/rules-elements/actions/player-core#Point Out|Point Out]] against an undetected creature within 20 feet.
 
 ## Toxic
 
 **Examples** scorpion, spider, viper
-**Poison** [one-action] ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) The NPC commands their companion to deliver a dose of its natural venom to an enemy within 15 feet. That target takes 1d4 poison damage. This increases by 1d4 at 5th level and every 4 levels after that.
+**Poison** [one-action] ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) The NPC commands their companion to deliver a dose of its natural venom to an enemy within 15 feet. That target takes 1d4 poison damage. This increases by 1d4 at 5th level and every 4 levels after that.
 
 ## Other Encounter Abilties
 
 An NPC with a pet or familiar might also have one of the following abilities, no matter the shape and form of their companion. If an ability mentions a familiar, that NPC must have a familiar and not a pet.
 
-**Go Fetch** [one-action] ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Requirements** The NPC has a free hand; **Effect** The NPC commands their companion to retrieve an item of 1 Bulk or less that is unattended and within 20 feet. The companion places the item in the NPC's free hand.
+**Go Fetch** [one-action] ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) **Requirements** The NPC has a free hand; **Effect** The NPC commands their companion to retrieve an item of 1 Bulk or less that is unattended and within 20 feet. The companion places the item in the NPC's free hand.
 
-**Spell Courier** [one-action] ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) If the next action the NPC uses is to Cast a Spell with a range of touch, they can command their familiar to deliver that spell to a target within 15 feet. This effectively increases the range of the spell.
+**Spell Courier** [one-action] ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) If the next action the NPC uses is to Cast a Spell with a range of touch, they can command their familiar to deliver that spell to a target within 15 feet. This effectively increases the range of the spell.
 
 ## Downtime and Exploration Abilities
 
@@ -61,4 +61,4 @@ A pet or familiar might also grant their NPC aid during downtime and exploration
 
 **Ritual Assistant** The NPC's companion provides assistance during rituals. The familiar qualifies as a single secondary caster for rituals they cast, though the NPC uses their skill modifiers for any checks. If a ritual does not need secondary casters, the NPC instead gains a +2 circumstance bonus to any skill checks related to casting the ritual.
 
-**Suspicious Familiar** ([[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]]) The NPC's companion has a skeptical nature and can express it. When a creature attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]] to or [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] on the NPC, the creature must roll twice and take the lower of the two results
+**Suspicious Familiar** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|misfortune]]) The NPC's companion has a skeptical nature and can express it. When a creature attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]] to or [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] on the NPC, the creature must roll twice and take the lower of the two results

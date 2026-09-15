@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Trigger**: Your hunted prey is within your reach, and it uses a manipulate action, uses a move action, or leaves a square during a move action it’s using
 
-Make a melee Strike against your prey. If the attack is a critical hit, you [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions#Disrupting Actions|disrupt]] the triggering action.
+Make a melee Strike against your prey. If the attack is a critical hit, you [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Actions#Disrupting Actions|disrupt]] the triggering action.
 
 *Source: Player Core p. 159*

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Druid`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/order-explorer|Order Explorer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Order Explorer|Order Explorer]]
 
 You have delved deeper into the teaching of a new order, gaining access to a coveted order spell. Choose an order you have selected with Order Explorer. You gain the initial order spell from that order.
 

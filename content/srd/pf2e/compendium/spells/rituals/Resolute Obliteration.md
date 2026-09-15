@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 - **Cast**: 1 day
 - **Cost**: precious metals to create a ritual circle worth 10 gp × the ritual’s rank
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (trained)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] (trained)
 - **Range**: touch
 - **Target(s)**: up to 25 Bulk of non-magical items
 

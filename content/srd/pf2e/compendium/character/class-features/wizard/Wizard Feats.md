@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Wizard
 
-At 2nd level and every even-numbered level thereafter, you gain a wizard class feat.
+At 2nd level and every even-numbered level thereafter, you gain a [wizard class feat](https://2e.aonprd.com/Feats.aspx?Traits=166).
 
 *Source: Player Core p. 192*

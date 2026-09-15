@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Water`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: touch
 - **Target**: 1 object up to 10 Bulk
 - **Duration**: 1 hour
 
-You prevent the target item from taking on water or becoming wet for the duration of the spell. The hydrophobic properties of the spell also grant resistance 10 to acid and a +2 bonus to saves and DCs against damaging effects with the [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] traits.
+You prevent the target item from taking on water or becoming wet for the duration of the spell. The hydrophobic properties of the spell also grant resistance 10 to acid and a +2 bonus to saves and DCs against damaging effects with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Water|water]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|acid]] traits.
 
 ---
 **Heightened (4th)** The duration is 1 day.

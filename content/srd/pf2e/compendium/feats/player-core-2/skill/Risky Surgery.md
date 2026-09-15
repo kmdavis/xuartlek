@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]]
 
 Your surgery can bring a patient back from the brink of death, but might push them over the edge. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]], you can deal 1d8 slashing damage to your patient just before applying the effects of Treat Wounds. If you do, you gain a +2 circumstance bonus to your Medicine check to Treat Wounds, and if you roll a success, you get a critical success instead.
 

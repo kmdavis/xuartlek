@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Attack`  `Concentrate`  `Manipulate`  `Void`  `Negative`
 
-- **Traditions**: Arcane, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: AC

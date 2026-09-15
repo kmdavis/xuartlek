@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Duration**: 1 minute
 
-Three faintly glowing wisps of fire float around your head, dancing along to your movements. After you deal damage to a creature with a Strike, one of the wisps goes hurtling toward that creature, destroying the wisp and dealing 1d4 fire damage. If you Cast a Spell with the [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] trait while you have fewer than three wisps, a new wisp appears.
+Three faintly glowing wisps of fire float around your head, dancing along to your movements. After you deal damage to a creature with a Strike, one of the wisps goes hurtling toward that creature, destroying the wisp and dealing 1d4 fire damage. If you Cast a Spell with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] trait while you have fewer than three wisps, a new wisp appears.
 
 ---
 **Heightened (+2)** The damage increases by 1d4.

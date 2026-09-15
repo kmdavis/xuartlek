@@ -28,16 +28,16 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; low-light vision, spiritsense (imprecise) 30 feet"
-languages: "Amurrun, [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "Amurrun, [[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/lore|Catfolk Lore]] +15, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +12, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +14, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Lore|Catfolk Lore]] +15, [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] +12, [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] +14, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +12"
 abilityMods: [0, 4, 1, 2, 1, 4]
 abilities_top:
   - name: "Spiritsense"
-    desc: "The name collector senses [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirits]], embodied or not (including living creatures, most non-[[srd/pf2e/compendium/rules-elements/traits/player-core/mindless|mindless]] [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]], and [[srd/pf2e/compendium/rules-elements/traits/gm-core/haunt|haunts]])."
+    desc: "The name collector senses [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirits]], embodied or not (including living creatures, most non-[[srd/pf2e/compendium/rules-elements/traits/player-core/Mindless|mindless]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]], and [[srd/pf2e/compendium/rules-elements/traits/gm-core/Haunt|haunts]])."
   - name: "Items"
-    desc: "Leather Armor, _+1 [[srd/pf2e/compendium/equipment/weapons/knife/sickle|sickle]]_, [[srd/pf2e/compendium/spells/rank-1/command|_scroll of command_]], [[srd/pf2e/compendium/spells/rank-1/protection|_scroll of protection_]]"
+    desc: "Leather Armor, _+1 [[srd/pf2e/compendium/equipment/weapons/knife/Sickle|sickle]]_, [[srd/pf2e/compendium/spells/rank-1/Command|_scroll of command_]], [[srd/pf2e/compendium/spells/rank-1/Protection|_scroll of protection_]]"
 ac: 24
 armorclass:
   - name: "AC"
@@ -48,7 +48,7 @@ health:
     desc: "70"
 abilities_mid:
   - name: "Name the Worthy"
-    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]])"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Linguistic|linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]])"
   - name: "Frequency"
     desc: "once per day"
   - name: "Trigger"
@@ -58,12 +58,12 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _sickle_ +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d4+9 slashing"
+    desc: "⬻ _sickle_ +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip|Trip]]) __Damage__ 1d4+9 slashing"
   - name: "Melee"
-    desc: "⬻ claw +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+9 slashing"
+    desc: "⬻ claw +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+9 slashing"
 spellcasting:
   - name: "Occult Prepared Spells"
-    desc: "DC 24, attack +16 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/read-aura|Read Aura]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/bless|Bless]], [[srd/pf2e/compendium/spells/rank-1/spirit-link|Spirit Link]], [[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/laughing-fit|Laughing Fit]], [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|See the Unseen]], [[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/heroism|Heroism]], [[srd/pf2e/compendium/spells/rank-2/illusory-creature|Illusory Creature]]"
+    desc: "DC 24, attack +16 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/Daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/Read Aura|Read Aura]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Bless|Bless]], [[srd/pf2e/compendium/spells/rank-1/Spirit Link|Spirit Link]], [[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Laughing Fit|Laughing Fit]], [[srd/pf2e/compendium/spells/rank-2/See the Unseen|See the Unseen]], [[srd/pf2e/compendium/spells/rank-1/Soothe|Soothe]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/Heroism|Heroism]], [[srd/pf2e/compendium/spells/rank-2/Illusory Creature|Illusory Creature]]"
 sourcebook: "_NPC Core_, page 172."
 ```
 

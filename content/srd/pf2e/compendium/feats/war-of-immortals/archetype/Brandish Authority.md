@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 `Auditory`  `Mythic`  `Visual`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/archfiend|Archfiend]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/archfiend-dedication|Archfiend Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Archfiend|Archfiend]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Archfiend Dedication|Archfiend Dedication]]
 
-With a terrifying pronouncement, you manifest a visible sign of your authority and fiendish power, such as a crown of flame upon your brow, a scepter forged of solidified souls, or a throne comprised of a dozen dragon skulls. This object appears in your space or in your hand, as appropriate, and remains for 1 minute. When your sign of power appears, attempt an [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] each enemy within 30 feet who can see or hear you. These Demoralize attempts don’t take any penalty for not sharing a language. As long as your sign of power remains manifested, your enemies can’t reduce the value of their [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition below 1.
+With a terrifying pronouncement, you manifest a visible sign of your authority and fiendish power, such as a crown of flame upon your brow, a scepter forged of solidified souls, or a throne comprised of a dozen dragon skulls. This object appears in your space or in your hand, as appropriate, and remains for 1 minute. When your sign of power appears, attempt an [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] each enemy within 30 feet who can see or hear you. These Demoralize attempts don’t take any penalty for not sharing a language. As long as your sign of power remains manifested, your enemies can’t reduce the value of their [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] condition below 1.
 
 You can spend 1 [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] as part of performing this action; if you do, frightened creatures grovel before you, in awe of your terrible power. At the beginning of their turn, a creature that has the frightened condition from Brandish Authority must attempt a Will saving throw against your class DC or spell DC, whichever is higher. On failure, they must Drop Prone. On a critical failure, they must [[srd/pf2e/compendium/rules-elements/actions/player-core#Drop Prone|Drop Prone]] and can’t Stand this turn.
 

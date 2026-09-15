@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Nephilim`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/angelkin|Angelkin]], [[srd/pf2e/compendium/feats/player-core/ancestry/lawbringer|Lawbringer]], [[srd/pf2e/compendium/feats/player-core/ancestry/musetouched|Musetouched]], or another lineage feat associated with celestials
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/Angelkin|Angelkin]], [[srd/pf2e/compendium/feats/player-core/ancestry/Lawbringer|Lawbringer]], [[srd/pf2e/compendium/feats/player-core/ancestry/Musetouched|Musetouched]], or another lineage feat associated with celestials
 
-Your celestial powers allow you to remove lesser afflictions with ease. You can cast [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|_cleanse affliction_]] twice per day as a 4th-rank divine innate spell.
+Your celestial powers allow you to remove lesser afflictions with ease. You can cast [[srd/pf2e/compendium/spells/rank-2/Cleanse Affliction|_cleanse affliction_]] twice per day as a 4th-rank divine innate spell.
 
 *Source: Player Core p. 81*

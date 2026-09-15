@@ -1,6 +1,7 @@
 ---
 title: "Companions"
 aliases: ["Companions"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2112"
 citation: "Player Core pg. 206"
-socialImage: og-image.png
 ---
 
 # Companions
@@ -24,7 +24,7 @@ Animal companions and familiars are special benefits for certain classes or clas
 
 An animal companion is a loyal comrade who follows your orders. Your animal companion has the animal and minion traits, and it gains 2 actions during your turn if you use the Command an Animal action to command it; this replaces the usual effects of Command an Animal, and you don’t need to attempt a Nature check. If your companion dies, you can spend a week of downtime to replace it at no cost. You can have only one animal companion at a time.
 
-A list of available animal companions can be found in [[srd/pf2e/compendium/character/Animal Companions|Animal Companions]].
+A list of available animal companions can be found [[srd/pf2e/compendium/character/Animal Companions|here]].
 
 ### Young Animal Companions
 
@@ -51,7 +51,7 @@ The species of animal you choose is called your companion's type. Each companion
 
 ### Support [one-action]
 
-**Source** Player Core pg. 206
+**Source** [Player Core pg. 206](https://2e.aonprd.com/Sources.aspx?ID=216)
 **Requirements** The creature is an animal companion.
 
 ---
@@ -122,7 +122,7 @@ You or an ally can ride your animal companion as long as it is at least one size
 
 ## Familiars
 
-Familiars are mystically bonded creatures tied to your magic. Most familiars were originally animals, though the ritual of becoming a familiar makes them something more. You gain the [[srd/pf2e/compendium/feats/player-core/general/pet|Pet]] general feat, except that your pet has special abilities. Common choices for familiars include bats, cats, foxes, ravens, and snakes. Some familiars are different, usually described in the ability that granted you a familiar; for example, a druid’s leshy familiar has the plant or fungus trait instead of animal. You can replace a familiar or gain a new one as described in the Pet feat. A familiar is different from a basic pet in the following ways.
+Familiars are mystically bonded creatures tied to your magic. Most familiars were originally animals, though the ritual of becoming a familiar makes them something more. You gain the [[srd/pf2e/compendium/feats/player-core/general/Pet|Pet]] general feat, except that your pet has special abilities. Common choices for familiars include bats, cats, foxes, ravens, and snakes. Some familiars are different, usually described in the ability that granted you a familiar; for example, a druid’s leshy familiar has the plant or fungus trait instead of animal. You can replace a familiar or gain a new one as described in the Pet feat. A familiar is different from a basic pet in the following ways.
 
 ### Modifiers and AC
 

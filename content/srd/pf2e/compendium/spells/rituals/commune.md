@@ -18,7 +18,7 @@ socialImage: og-image.png
 - **Cast**: 1 day
 - **Cost**: rare incense worth a total value of 150 gp
 - **Secondary Casters**: 1
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (master), [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (master), or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (master)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] (master), [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] (master), or [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] (master)
 - **Secondary Checks**: Nature, Occultism, or Religion (whichever is used for the primary check)
 - **Duration**: up to 10 minutes
 

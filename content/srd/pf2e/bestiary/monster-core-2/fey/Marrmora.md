@@ -28,10 +28,10 @@ modifier: 27
 perception:
   - name: "Perception"
     desc: "+27; low-light vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +25, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +25, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +30, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +30, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +30, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +27, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +27"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +25, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +25, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +30, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +30, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +30, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +27, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +27"
 abilityMods: [6, 4, 8, 4, 6, 8]
 ac: 37
 armorclass:
@@ -40,40 +40,40 @@ armorclass:
 hp: 280
 health:
   - name: "HP"
-    desc: "280; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Resistances__ physical 10 (except slashing); __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 15"
+    desc: "280; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]]; __Resistances__ physical 10 (except slashing); __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/Cold Iron|cold iron]] 15"
 abilities_mid:
   - name: "Fascination of Flame"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) 30 feet. A creature that enters or begins its turn in this aura's emanation must attempt a DC 33 Will save. Regardless of the result of the saving throw, the creature is temporarily immune for 1 minute."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]]) 30 feet. A creature that enters or begins its turn in this aura's emanation must attempt a DC 33 Will save. Regardless of the result of the saving throw, the creature is temporarily immune for 1 minute."
   - name: "Critical Success"
     desc: "The creature is unaffected."
   - name: "Success"
-    desc: "The creature loses any [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] to fire for 1 round."
+    desc: "The creature loses any [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistance]] to fire for 1 round."
   - name: "Failure"
     desc: "The creature loses any resistance to fire for 1 hour."
   - name: "Critical Failure"
-    desc: "The creature loses any resistance to fire for 1 hour and gains [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Weakness|weakness]] 15 to fire for the same duration."
+    desc: "The creature loses any resistance to fire for 1 hour and gains [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Weakness|weakness]] 15 to fire for the same duration."
   - name: "Absorb Flame"
     desc: "⬲"
   - name: "Trigger"
-    desc: "The marrmora is targeted by a [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] spell or effect or is in the area of a fire effect"
+    desc: "The marrmora is targeted by a [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] spell or effect or is in the area of a fire effect"
   - name: "Effect"
     desc: "The marrmora is healed by the fire damage, regaining Hit Points equal to half the damage the fire effect would've dealt."
 speed: "30 feet, fly 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +29 __Damage__ 3d6+14 slashing plus 3d6 fire and 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent fire]]"
+    desc: "⬻ claw +29 __Damage__ 3d6+14 slashing plus 3d6 fire and 1d6 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent fire]]"
   - name: "Ranged"
-    desc: "⬻ flame jet +29 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], range increment 40 feet) __Damage__ 6d6 fire plus 2d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent fire]]"
+    desc: "⬻ flame jet +29 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|Fire]], range increment 40 feet) __Damage__ 6d6 fire plus 2d6 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent fire]]"
 abilities_bot:
   - name: "Igniting Assault"
     desc: "⬻"
   - name: "Requirements"
-    desc: "The marrmora isn't under the effect of [[srd/pf2e/compendium/spells/rank-4/fire-shield|_fire shield_]]"
+    desc: "The marrmora isn't under the effect of [[srd/pf2e/compendium/spells/rank-4/Fire Shield|_fire shield_]]"
   - name: "Effect"
-    desc: "The marrmora makes a claw Strike. If they hit, they can immediately cast one of their available _fire shield_ [[srd/pf2e/books/player-core/chapter-7-spells/innate-spells|innate spells]] as a free action. Fey Manipulators Marrmoras exert a strange and subtle dominance over other [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]]. The fey under their control are filled with both horror at the destruction wrought by marrmoras and fascination with their fiery power."
+    desc: "The marrmora makes a claw Strike. If they hit, they can immediately cast one of their available _fire shield_ [[srd/pf2e/books/player-core/chapter-7-spells/Innate Spells|innate spells]] as a free action. Fey Manipulators Marrmoras exert a strange and subtle dominance over other [[srd/pf2e/compendium/rules-elements/traits/player-core/Fey|fey]]. The fey under their control are filled with both horror at the destruction wrought by marrmoras and fascination with their fiery power."
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 36, attack +28 - __Cantrips (8th)__ [[srd/pf2e/compendium/spells/cantrips/ignition|Ignition]] - __6th__ [[srd/pf2e/compendium/spells/rank-4/fire-shield|Fire Shield]] (×3), [[srd/pf2e/compendium/spells/rank-3/fireball|Fireball]] (×3), [[srd/pf2e/compendium/spells/rank-2/one-with-plants|One with Plants]] (at will; appears as a burnt; dead tree) - __7th__ [[srd/pf2e/compendium/spells/rank-5/elemental-form|Elemental Form]] (fire elemental only), [[srd/pf2e/compendium/spells/rank-7/volcanic-eruption|Volcanic Eruption]], [[srd/pf2e/compendium/spells/rank-4/wall-of-fire|Wall of Fire]] - __8th__ [[srd/pf2e/compendium/spells/rank-2/blazing-bolt|Blazing Bolt]], [[srd/pf2e/compendium/spells/rank-3/fireball|Fireball]]"
+    desc: "DC 36, attack +28 - __Cantrips (8th)__ [[srd/pf2e/compendium/spells/cantrips/Ignition|Ignition]] - __6th__ [[srd/pf2e/compendium/spells/rank-4/Fire Shield|Fire Shield]] (×3), [[srd/pf2e/compendium/spells/rank-3/Fireball|Fireball]] (×3), [[srd/pf2e/compendium/spells/rank-2/One with Plants|One with Plants]] (at will; appears as a burnt; dead tree) - __7th__ [[srd/pf2e/compendium/spells/rank-5/Elemental Form|Elemental Form]] (fire elemental only), [[srd/pf2e/compendium/spells/rank-7/Volcanic Eruption|Volcanic Eruption]], [[srd/pf2e/compendium/spells/rank-4/Wall of Fire|Wall of Fire]] - __8th__ [[srd/pf2e/compendium/spells/rank-2/Blazing Bolt|Blazing Bolt]], [[srd/pf2e/compendium/spells/rank-3/Fireball|Fireball]]"
 sourcebook: "_Monster Core 2_, page 220."
 ```
 

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/poisoner|Poisoner]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/poisoner-dedication|Poisoner Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Poisoner|Poisoner]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Poisoner Dedication|Poisoner Dedication]]
 
 You can create up to 6 poisons per day with advanced alchemy.
 

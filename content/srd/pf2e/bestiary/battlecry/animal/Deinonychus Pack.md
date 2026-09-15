@@ -32,7 +32,7 @@ perception:
     desc: "+15; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +15, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +15, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +15"
 abilityMods: [4, 4, 6, -4, 2, 3]
 ac: 24
 armorclass:
@@ -41,7 +41,7 @@ armorclass:
 hp: 120
 health:
   - name: "HP"
-    desc: "120 (4 segments); __Weaknesses__ area damage 6, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 6"
+    desc: "120 (4 segments); __Weaknesses__ area damage 6, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 6"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
@@ -52,7 +52,7 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The pack makes a melee attack against each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] (DC 22 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). The damage depends on the number of actions. ⬻ 1d6 slashing or piercing damage plus 1d4 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]] ⬺ 2d6+4 slashing or piercing damage plus 2d4 persistent bleed damage ⬽ 3d6+6 slashing or piercing damage plus 2d4 persistent bleed damage"
+    desc: "The pack makes a melee attack against each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] (DC 22 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save). The damage depends on the number of actions. ⬻ 1d6 slashing or piercing damage plus 1d4 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent bleed damage]] ⬺ 2d6+4 slashing or piercing damage plus 2d4 persistent bleed damage ⬽ 3d6+6 slashing or piercing damage plus 2d4 persistent bleed damage"
   - name: "Predator's Advantage"
     desc: "Bleeding creatures take a –2 circumstance penalty to Reflex saves against a deinonychus pack's Jaws and Claws."
   - name: "Surround Prey"

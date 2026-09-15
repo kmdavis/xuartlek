@@ -23,7 +23,7 @@ This open-air vehicle is constructed similar to a sleigh, with four wheels in th
 
 **Passengers** 4
 
-**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (DC 34), [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (DC 34 to 42 depending on the pulling creature), or [[srd/pf2e/compendium/rules-elements/skills/lore|Piloting Lore]] (DC 32)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] (DC 34), [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] (DC 34 to 42 depending on the pulling creature), or [[srd/pf2e/compendium/rules-elements/skills/Lore|Piloting Lore]] (DC 32)
 
 ---
 
@@ -35,7 +35,7 @@ This open-air vehicle is constructed similar to a sleigh, with four wheels in th
 
 **HP** 190 (BT 95)
 
-**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/Item Damage#Object Immunities|object immunities]]
 
 ---
 
@@ -43,6 +43,6 @@ This open-air vehicle is constructed similar to a sleigh, with four wheels in th
 
 **Collision** 10d10 (DC 32)
 
-**Alchemical Launcher** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) Two crew members each perform a 3-action activity on their turn to launch a massive alchemical concoction from the chariot. The concoction explodes on impact, dealing 10d6 fire damage to each creature in a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] up to 50 feet away (DC 30 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save).
+**Alchemical Launcher** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]]) Two crew members each perform a 3-action activity on their turn to launch a massive alchemical concoction from the chariot. The concoction explodes on impact, dealing 10d6 fire damage to each creature in a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]] up to 50 feet away (DC 30 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save).
 
 *Source: Battlecry! p. 110*

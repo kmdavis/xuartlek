@@ -16,8 +16,8 @@ socialImage: og-image.png
 `Athamaru`  `Locathah`
 
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/coral-symbiotes|Coral Symbiotes]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Coral Symbiotes|Coral Symbiotes]]
 
-The coral colony that you've tended has merged with your kidneys to add an additional layer of filtration. Attempt a saving throw against a single [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] affecting you with a +2 circumstance bonus.
+The coral colony that you've tended has merged with your kidneys to add an additional layer of filtration. Attempt a saving throw against a single [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] affecting you with a +2 circumstance bonus.
 
 *Source: Howl of the Wild p. 20*

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Ratfolk`
 
-You're trained in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]. If you are trained in Crafting from another source (from your background or class, for example), you instead become trained in a skill of your choice. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Repair|Repair]] an item without using a [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|repair toolkit]] without taking the –2 circumstance penalty, improvising tools from whatever you have at hand. You gain a +1 circumstance bonus to Crafting checks to Repair an item when you have a repair toolkit.
+You're trained in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]. If you are trained in Crafting from another source (from your background or class, for example), you instead become trained in a skill of your choice. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Repair|Repair]] an item without using a [[srd/pf2e/compendium/equipment/adventuring-gear/Repair Toolkit|repair toolkit]] without taking the –2 circumstance penalty, improvising tools from whatever you have at hand. You gain a +1 circumstance bonus to Crafting checks to Repair an item when you have a repair toolkit.
 
 *Source: Player Core 2 p. 30*

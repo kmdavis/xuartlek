@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Lizardfolk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/bone-magic|Bone Magic]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Bone Magic|Bone Magic]]
 
-Using your ancestors' bones, you manifest their spirits around you in a fossilized form. You can cast [[srd/pf2e/compendium/spells/rank-7/mask-of-terror|_mask of terror_]] on yourself as an innate spell once per day. When you do, you appear as a skeletal lizardfolk ancestor, twisted in a way that inspires the deepest fears of those who observe you.
+Using your ancestors' bones, you manifest their spirits around you in a fossilized form. You can cast [[srd/pf2e/compendium/spells/rank-7/Mask of Terror|_mask of terror_]] on yourself as an innate spell once per day. When you do, you appear as a skeletal lizardfolk ancestor, twisted in a way that inspires the deepest fears of those who observe you.
 
 *Source: Player Core 2 p. 27*

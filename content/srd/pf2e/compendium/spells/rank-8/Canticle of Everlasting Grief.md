@@ -20,8 +20,8 @@ socialImage: og-image.png
 
 `Auditory`  `Concentrate`  `Curse`  `Emotion`  `Fear`  `Manipulate`  `Mental`
 
-- **Traditions**: Divine, Occult
-- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Demonic|Demonic]], [[srd/pf2e/compendium/character/bloodlines#Undead|Undead]]
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodlines**: [[srd/pf2e/compendium/character/Bloodlines#Demonic|Demonic]], [[srd/pf2e/compendium/character/Bloodlines#Undead|Undead]]
 - **Deity**: Otilaz
 - **Range**: 120 feet
 - **Target**: 1 creature

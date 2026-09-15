@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Tengu`
 
-You learned skills for surviving in the place where your people were dispersed. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/society|Society]] and [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
+You learned skills for surviving in the place where your people were dispersed. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] and [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
 
- You also gain the [[srd/pf2e/compendium/feats/player-core/skill/additional-lore|Additional Lore]] general feat for [[srd/pf2e/compendium/rules-elements/skills/lore|Tengu Lore]].
+ You also gain the [[srd/pf2e/compendium/feats/player-core/skill/Additional Lore|Additional Lore]] general feat for [[srd/pf2e/compendium/rules-elements/skills/Lore|Tengu Lore]].
 
 *Source: Player Core 2 p. 34*

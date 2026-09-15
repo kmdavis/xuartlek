@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/living-nexus|Living Nexus]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/living-nexus-dedication|Living Nexus Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Living Nexus|Living Nexus]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Living Nexus Dedication|Living Nexus Dedication]]
 
 After so much exposure to the myriad forms of magical energy, you absorb magic almost instinctively. At the start of each of your turns, you gain an additional reaction that can only be used to Absorb Magic.
 

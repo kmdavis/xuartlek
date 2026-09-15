@@ -19,10 +19,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Focus`  `Light`  `Manipulate`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]]
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Angelic|Angelic]]
 - **Duration**: 3 rounds
 
-Wings of pure light spread out from your back, granting you a fly Speed equal to your Speed. Your wings cast bright light in a 30-foot radius. When this spell's duration would end, if you're still flying, you float to the ground, as [[srd/pf2e/compendium/spells/rank-1/gentle-landing|_gentle landing_]].
+Wings of pure light spread out from your back, granting you a fly Speed equal to your Speed. Your wings cast bright light in a 30-foot radius. When this spell's duration would end, if you're still flying, you float to the ground, as [[srd/pf2e/compendium/spells/rank-1/Gentle Landing|_gentle landing_]].
 
 ---
 **Heightened (5th)** The duration increases to 1 minute.

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Ratfolk`
 
-You've learned how to cram vast quantities into small spaces. You can fit an additional 50% of the listed Bulk capacity into mundane storage containers or vehicles. For example, you can fit 6 Bulk in a [[srd/pf2e/compendium/equipment/adventuring-gear/backpack|backpack]], or 12 Bulk in a [[srd/pf2e/compendium/equipment/adventuring-gear/chest|chest]]. This doesn't alter the items' Bulk, nor does it change how much you can store in a [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/extradimensional|extradimensional]] storage space, such as a [[srd/pf2e/compendium/equipment/held-items/spacious-pouch|_spacious pouch_]].
+You've learned how to cram vast quantities into small spaces. You can fit an additional 50% of the listed Bulk capacity into mundane storage containers or vehicles. For example, you can fit 6 Bulk in a [[srd/pf2e/compendium/equipment/adventuring-gear/Backpack|backpack]], or 12 Bulk in a [[srd/pf2e/compendium/equipment/adventuring-gear/Chest|chest]]. This doesn't alter the items' Bulk, nor does it change how much you can store in a [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Extradimensional|extradimensional]] storage space, such as a [[srd/pf2e/compendium/equipment/held-items/Spacious Pouch|_spacious pouch_]].
 
 *Source: Player Core 2 p. 30*

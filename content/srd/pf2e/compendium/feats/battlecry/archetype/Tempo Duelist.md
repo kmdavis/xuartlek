@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/aldori-duelist|Aldori Duelist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/aldori-duelist-dedication|Aldori Duelist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Aldori Duelist|Aldori Duelist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Aldori Duelist Dedication|Aldori Duelist Dedication]]
 
-You move with an unpredictable tempo, shifting between unnervingly slow and rapid movements. You are [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] for 1 round. As the nature of this effect still leaves your location obvious, you can't use this concealment to Hide or Sneak.
+You move with an unpredictable tempo, shifting between unnervingly slow and rapid movements. You are [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] for 1 round. As the nature of this effect still leaves your location obvious, you can't use this concealment to Hide or Sneak.
 
 *Source: Battlecry! p. 55*

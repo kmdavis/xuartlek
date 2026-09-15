@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-You attempt to turn a creature into pure bone. You learn the [[srd/pf2e/compendium/spells/focus/calcification|_calcification_]] grave spell.
+You attempt to turn a creature into pure bone. You learn the [[srd/pf2e/compendium/spells/focus/Calcification|_calcification_]] grave spell.
 
 *Source: Impossible Magic p. 41*

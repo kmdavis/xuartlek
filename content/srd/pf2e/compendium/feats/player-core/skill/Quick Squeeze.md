@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]]
 
 You Squeeze 5 feet per round (10 feet on a critical success). If you’re legendary in Acrobatics, you Squeeze at full Speed.
 
 ### Quick Squeeze leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/implausible-infiltration|Implausible Infiltration]]
+[[srd/pf2e/compendium/feats/player-core/class/Implausible Infiltration|Implausible Infiltration]]
 
 *Source: Player Core p. 260*

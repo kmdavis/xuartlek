@@ -17,11 +17,11 @@ socialImage: og-image.png
 
 `Air`  `Concentrate`  `Fire`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/orc-gods/mahja-firehair|Mahja Firehair]], [[srd/pf2e/compendium/deities/monitor-demigods/vonymos|Vonymos]], Xiquiripat, [[srd/pf2e/compendium/deities/giant-gods/zursvaater|Zursvaater]]
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/orc-gods/Mahja Firehair|Mahja Firehair]], [[srd/pf2e/compendium/deities/monitor-demigods/Vonymos|Vonymos]], Xiquiripat, [[srd/pf2e/compendium/deities/giant-gods/Zursvaater|Zursvaater]]
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex
 
-Superheated air collects under you, buoying you high into the sky before you plummet back down in a fiery comet. You Fly 15 feet straight up into the air, then [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] in a straight [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]] to an empty space of your choice on the ground within 60 feet. When you land, blistering air blasts out from you, dealing 3d4 bludgeoning damage and 3d6 fire damage (basic Reflex save) to all creatures in a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]].
+Superheated air collects under you, buoying you high into the sky before you plummet back down in a fiery comet. You Fly 15 feet straight up into the air, then [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] in a straight [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Line|line]] to an empty space of your choice on the ground within 60 feet. When you land, blistering air blasts out from you, dealing 3d4 bludgeoning damage and 3d6 fire damage (basic Reflex save) to all creatures in a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]].
 
 ---
 **Heightened (+1)** The damage increases by 1d4 bludgeoning and 1d6 fire.

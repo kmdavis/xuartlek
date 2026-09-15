@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/cleric|Cleric]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/expert-cleric-spellcasting|Expert Cleric Spellcasting]]; Legendary in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Cleric|Cleric]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Expert Cleric Spellcasting|Expert Cleric Spellcasting]]; Legendary in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
-You gain the master [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|spellcasting benefits]].
+You gain the master [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Spellcasting Archetypes|spellcasting benefits]].
 
 *Source: Player Core p. 217*

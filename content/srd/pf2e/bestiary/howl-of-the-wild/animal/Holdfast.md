@@ -28,7 +28,7 @@ perception:
     desc: "+14; low-light vision, scent (imprecise) 30 feet, tremorsense (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +12"
 abilityMods: [5, 4, 3, -4, 2, 0]
 ac: 20
 armorclass:
@@ -44,7 +44,7 @@ abilities_mid:
   - name: "Hold Tight"
     desc: "⬲"
   - name: "Trigger"
-    desc: "A creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by the holdfast's jaws takes damage from another creature's Strike"
+    desc: "A creature [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] by the holdfast's jaws takes damage from another creature's Strike"
   - name: "Effect"
     desc: "The holdfast Constricts the creature in its jaws."
 speed: "30 feet, burrow 20 feet"
@@ -52,14 +52,14 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +13 __Damage__ 2d6+5 piercing plus Grab"
   - name: "Melee"
-    desc: "⬻ talon +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 2d4+5 slashing"
+    desc: "⬻ talon +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 2d4+5 slashing"
 abilities_bot:
   - name: "Burst from Below"
-    desc: "⬻ The holdfast [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrows]] and then Strikes. If the holdfast began this movement [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], it remains hidden until after this ability's Strike."
+    desc: "⬻ The holdfast [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrows]] and then Strikes. If the holdfast began this movement [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]], it remains hidden until after this ability's Strike."
   - name: "Constrict"
     desc: "⬻ 2d6+2 piercing plus crush throat, DC 21"
   - name: "Crush Throat"
-    desc: "When a creature fails a save against the holdfast's Constrict, the creature's throat is held tight, stopping them from speaking as long as they're [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]. This prevents the creature from casting spells with vocal incantations, as well as from using many [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] abilities."
+    desc: "When a creature fails a save against the holdfast's Constrict, the creature's throat is held tight, stopping them from speaking as long as they're [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]]. This prevents the creature from casting spells with vocal incantations, as well as from using many [[srd/pf2e/compendium/rules-elements/traits/player-core/Sonic|sonic]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]] abilities."
 sourcebook: "_Howl of the Wild_, page 160."
 ```
 

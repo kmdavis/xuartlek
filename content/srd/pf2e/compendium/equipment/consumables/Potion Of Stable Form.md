@@ -6,21 +6,21 @@ tags:
 - trait/magical
 - trait/potion
 - equipment/level/10
-aliases: ["Potion Of Stable Form"]
+aliases: ["Potion of Stable Form"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5100"
 source: "Impossible Magic"
 socialImage: og-image.png
 ---
 
-# Potion Of Stable Form  *Item 10+*
+# Potion of Stable Form  *Item 10+*
 
 `Consumable`  `Magical`  `Potion`
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-This aromatic potion is brewed from the white flowers and black roots of a rare herb. When you drink this potion, it immediately attempts to [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] all hostile [[srd/pf2e/compendium/rules-elements/traits/player-core/morph|morph]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] effects affecting you. For the next hour, you gain an item bonus to saving throws against morph and polymorph effects. If you roll a success on a saving throw against a polymorph effect during that time, you get a critical success instead.
+This aromatic potion is brewed from the white flowers and black roots of a rare herb. When you drink this potion, it immediately attempts to [[srd/pf2e/books/player-core/chapter-7-spells/Counteracting|counteract]] all hostile [[srd/pf2e/compendium/rules-elements/traits/player-core/Morph|morph]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]] effects affecting you. For the next hour, you gain an item bonus to saving throws against morph and polymorph effects. If you roll a success on a saving throw against a polymorph effect during that time, you get a critical success instead.
 
 ### Potion Of Stable Form
 

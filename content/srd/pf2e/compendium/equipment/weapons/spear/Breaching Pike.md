@@ -23,9 +23,9 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Spear
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Spear|Spear]]
 
-Forged with a heavy metal wedge as a spearhead, breaching pikes are often used by [[srd/pf2e/compendium/character/ancestries/hobgoblin|hobgoblin]] infantry alongside a tower shield. Breaching pikes are particularly effective at damaging enemy shields, leaving large, triangular puncture holes behind.
+Forged with a heavy metal wedge as a spearhead, breaching pikes are often used by [[srd/pf2e/compendium/character/ancestries/Hobgoblin|hobgoblin]] infantry alongside a tower shield. Breaching pikes are particularly effective at damaging enemy shields, leaving large, triangular puncture holes behind.
 
 ### Critical Specialization Effects
 

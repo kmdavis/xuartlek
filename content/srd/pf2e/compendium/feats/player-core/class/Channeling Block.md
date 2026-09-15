@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Cleric`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/general/Shield Block|Shield Block]]
 
 You pour divine energy into a desperate block. When you Shield Block, you can expend a harm or heal spell. Roll 1d8 for each rank of the spell, and increase the shield’s Hardness by the total for this block.
 

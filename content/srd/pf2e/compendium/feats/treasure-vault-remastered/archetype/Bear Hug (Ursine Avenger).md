@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ursine-avenger-hood|Ursine Avenger Hood]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ursine Avenger Hood|Ursine Avenger Hood]]
 - **Requirements**: Your last action was a successful claw Strike.
 
-You snatch at your opponent with your claws, pulling them close in a ferocious bear hug. You make another claw Strike against the same target. If this Strike hits, the target is also [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]].
+You snatch at your opponent with your claws, pulling them close in a ferocious bear hug. You make another claw Strike against the same target. If this Strike hits, the target is also [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]].
 
 *Source: Treasure Vault (Remastered) p. 183*

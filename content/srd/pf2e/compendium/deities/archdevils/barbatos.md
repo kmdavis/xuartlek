@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/staff|Staff]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Staff|Staff]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Magic|Magic]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Travel|Travel]], [[srd/pf2e/compendium/character/domains#Tyranny|Tyranny]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Magic|Magic]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]], [[srd/pf2e/compendium/character/Domains#Tyranny|Tyranny]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Confidence|Confidence]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/spider-sting|Spider Sting]]
+[[srd/pf2e/compendium/spells/rank-1/Spider Sting|Spider Sting]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/paralyze|Paralyze]]
+[[srd/pf2e/compendium/spells/rank-3/Paralyze|Paralyze]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/clairvoyance|Clairvoyance]]
+[[srd/pf2e/compendium/spells/rank-4/Clairvoyance|Clairvoyance]]
 
 *Source: Divine Mysteries p. 300*

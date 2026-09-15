@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ranger|Ranger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/ranger-dedication|Ranger Dedication]]; expert in Perception
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ranger|Ranger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Ranger Dedication|Ranger Dedication]]; expert in Perception
 
 Your proficiency rank in Perception increases to master.
 

@@ -30,7 +30,7 @@ Ravenous, bestial, and driven by instinct, drakes are draconic monsters who bear
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core/dragon/desert-drake|Desert Drake]] (Creature 8), [[srd/pf2e/bestiary/battlecry/dragon/drake-flight|Drake Flight]] (Creature 13), [[srd/pf2e/bestiary/monster-core/dragon/flame-drake|Flame Drake]] (Creature 5), [[srd/pf2e/bestiary/monster-core/dragon/frost-drake|Frost Drake]] (Creature 7), [[srd/pf2e/bestiary/monster-core/dragon/jungle-drake|Jungle Drake]] (Creature 6), [[srd/pf2e/bestiary/monster-core/dragon/river-drake|River Drake]] (Creature 3), [[srd/pf2e/bestiary/monster-core/dragon/wyvern|Wyvern]] (Creature 6)
+[[srd/pf2e/bestiary/monster-core/dragon/Desert Drake|Desert Drake]] (Creature 8), [[srd/pf2e/bestiary/battlecry/dragon/Drake Flight|Drake Flight]] (Creature 13), [[srd/pf2e/bestiary/monster-core/dragon/Flame Drake|Flame Drake]] (Creature 5), [[srd/pf2e/bestiary/monster-core/dragon/Frost Drake|Frost Drake]] (Creature 7), [[srd/pf2e/bestiary/monster-core/dragon/Jungle Drake|Jungle Drake]] (Creature 6), [[srd/pf2e/bestiary/monster-core/dragon/River Drake|River Drake]] (Creature 3), [[srd/pf2e/bestiary/monster-core/dragon/Wyvern|Wyvern]] (Creature 6)
 
 ### Drake Hunters
 

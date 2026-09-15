@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Barbarian`
 
-Your critical hits are particularly devastating. On a critical hit with a melee Strike, add one extra damage die. This is in addition to any extra dice you gain if the weapon is [[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal]]. The target also takes persistent bleed damage equal to two damage dice.
+Your critical hits are particularly devastating. On a critical hit with a melee Strike, add one extra damage die. This is in addition to any extra dice you gain if the weapon is [[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Fatal|fatal]]. The target also takes persistent bleed damage equal to two damage dice.
 
 *Source: Player Core 2 p. 85*

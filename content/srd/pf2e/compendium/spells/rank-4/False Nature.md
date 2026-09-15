@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Illusion`  `Manipulate`  `Uncommon`
 
-- **Traditions**: Arcane, Occult
-- **Deity**: [[srd/pf2e/compendium/deities/qlippoth-lords/nyuo-ogh|Nyuo-Ogh]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deity**: [[srd/pf2e/compendium/deities/qlippoth-lords/Nyuo-Ogh|Nyuo-Ogh]]
 - **Range**: touch
 - **Target**: one unattended item or one item you’re holding
 - **Duration**: until your next daily preparations

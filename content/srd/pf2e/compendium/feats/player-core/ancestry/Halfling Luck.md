@@ -22,6 +22,6 @@ Your happy-go-lucky nature makes it seem like misfortune avoids you, and to an e
 
 ### Halfling Luck leads to...
 
-[[srd/pf2e/compendium/feats/player-core/ancestry/guiding-luck|Guiding Luck]]
+[[srd/pf2e/compendium/feats/player-core/ancestry/Guiding Luck|Guiding Luck]]
 
 *Source: Player Core p. 60*

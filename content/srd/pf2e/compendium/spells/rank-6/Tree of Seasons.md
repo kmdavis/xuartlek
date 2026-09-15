@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
-- **Tradition**: Primal
-- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/amaznen|Amaznen]], Baekho, Kugaptee
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/Amaznen|Amaznen]], Baekho, Kugaptee
 - **Range**: 60 feet
 - **Duration**: 1 minute
 

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Catfolk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/cats-luck|Cat's Luck]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Cat's Luck|Cat's Luck]]
 
 You survive danger with surprising regularity. You can use Cat's Luck once per hour, rather than once per day.
 

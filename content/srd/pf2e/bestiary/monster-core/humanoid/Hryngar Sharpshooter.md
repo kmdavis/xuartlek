@@ -32,10 +32,10 @@ modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +3, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +3, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +5"
 abilityMods: [1, 3, 3, 0, 2, -2]
 abilities_top:
   - name: "Items"
@@ -43,7 +43,7 @@ abilities_top:
 ac: 15
 armorclass:
   - name: "AC"
-    desc: "15; __Fort__: +7; __Ref__: +7; __Will__: +4 +2 status to saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magic]]"
+    desc: "15; __Fort__: +7; __Ref__: +7; __Will__: +4 +2 status to saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magic]]"
 hp: 18
 health:
   - name: "HP"
@@ -54,15 +54,15 @@ abilities_mid:
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ light mace +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|Shove]]) __Damage__ 1d4+1 bludgeoning"
+    desc: "⬻ light mace +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Shove|Shove]]) __Damage__ 1d4+1 bludgeoning"
   - name: "Ranged"
     desc: "⬻ crossbow +7 (range increment 120 feet, reload 1) __Damage__ 1d8 piercing or bola bolt"
 abilities_bot:
   - name: "Bola Bolt"
-    desc: "This shot deals no damage, but on a hit, the target must succeed at a DC 16 Reflex save or be knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] and become [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] until it is freed with a successful DC 15 check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]]. This check can be attempted either by the target or a creature adjacent to the target."
+    desc: "This shot deals no damage, but on a hit, the target must succeed at a DC 16 Reflex save or be knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] and become [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] until it is freed with a successful DC 15 check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]]. This check can be attempted either by the target or a creature adjacent to the target."
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 12 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/sigil|Sigil]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/blood-vendetta|Blood Vendetta]], [[srd/pf2e/compendium/spells/rank-2/paranoia|Paranoia]]"
+    desc: "DC 12 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/Sigil|Sigil]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Blood Vendetta|Blood Vendetta]], [[srd/pf2e/compendium/spells/rank-2/Paranoia|Paranoia]]"
 sourcebook: "_Monster Core_, page 202."
 ```
 

@@ -17,14 +17,14 @@ socialImage: og-image.png
 
 `Agile`  `Finesse`  `Thrown`  `Versatile`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/alazhra|Alazhra]], [[srd/pf2e/compendium/deities/other-gods/alseta|Alseta]], Apep, [[srd/pf2e/compendium/deities/queens-of-the-night/ardad-lili|Ardad Lili]], [[srd/pf2e/compendium/deities/monitor-demigods/atropos|Atropos]], Chinostes (Nightwarden), Chinostes (Redeemer), Conqueror Worm, [[srd/pf2e/compendium/deities/daemon-harbingers/corosbel|Corosbel]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/cthulhu|Cthulhu]], [[srd/pf2e/compendium/deities/empyreal-lords/eritrice|Eritrice]], Eyes That Watch, [[srd/pf2e/compendium/deities/giant-gods/fandarra|Fandarra]], Gravelady's Guard, [[srd/pf2e/compendium/deities/dead-or-missing-deities/gyronna|Gyronna]], Kalekot, Kitumu, Lady Razor, Lao Shu Po, [[srd/pf2e/compendium/deities/goblin-gods/lurlup|Lurlup]], Naderi, [[srd/pf2e/compendium/deities/other-gods/nocticula|Nocticula]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]], [[srd/pf2e/compendium/deities/covenants/shadow-cabinet|Shadow Cabinet]], [[srd/pf2e/compendium/deities/demon-lords/shax|Shax]], [[srd/pf2e/compendium/deities/other-gods/thamir|Thamir]], [[srd/pf2e/compendium/deities/eldest/the-lantern-king|The Lantern King]], The Last Breath, The Tides of Chaos, Urban Prosperity, [[srd/pf2e/compendium/deities/empyreal-lords/vildeis|Vildeis]], [[srd/pf2e/compendium/deities/demon-lords/vulot|Vulot]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/ydersius|Ydersius]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/yog-sothoth|Yog-Sothoth]], [[srd/pf2e/compendium/deities/elven-gods/yuelral|Yuelral]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/Alazhra|Alazhra]], [[srd/pf2e/compendium/deities/other-gods/Alseta|Alseta]], Apep, [[srd/pf2e/compendium/deities/queens-of-the-night/Ardad Lili|Ardad Lili]], [[srd/pf2e/compendium/deities/monitor-demigods/Atropos|Atropos]], Chinostes (Nightwarden), Chinostes (Redeemer), Conqueror Worm, [[srd/pf2e/compendium/deities/daemon-harbingers/Corosbel|Corosbel]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Cthulhu|Cthulhu]], [[srd/pf2e/compendium/deities/empyreal-lords/Eritrice|Eritrice]], Eyes That Watch, [[srd/pf2e/compendium/deities/giant-gods/Fandarra|Fandarra]], Gravelady's Guard, [[srd/pf2e/compendium/deities/dead-or-missing-deities/Gyronna|Gyronna]], Kalekot, Kitumu, Lady Razor, Lao Shu Po, [[srd/pf2e/compendium/deities/goblin-gods/Lurlup|Lurlup]], Naderi, [[srd/pf2e/compendium/deities/other-gods/Nocticula|Nocticula]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Pharasma|Pharasma]], [[srd/pf2e/compendium/deities/covenants/Shadow Cabinet|Shadow Cabinet]], [[srd/pf2e/compendium/deities/demon-lords/Shax|Shax]], [[srd/pf2e/compendium/deities/other-gods/Thamir|Thamir]], [[srd/pf2e/compendium/deities/eldest/The Lantern King|The Lantern King]], The Last Breath, The Tides of Chaos, Urban Prosperity, [[srd/pf2e/compendium/deities/empyreal-lords/Vildeis|Vildeis]], [[srd/pf2e/compendium/deities/demon-lords/Vulot|Vulot]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/Ydersius|Ydersius]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Yog-Sothoth|Yog-Sothoth]], [[srd/pf2e/compendium/deities/elven-gods/Yuelral|Yuelral]]
 - **Price**: 2 sp
 - **Damage**: 1d4 P
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Simple
-- **Group**: Knife
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Knife|Knife]]
 
 This small, bladed weapon is held in one hand and used to stab a creature in close combat. It can also be thrown.
 
@@ -34,6 +34,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Apotheosis Knife, Bloody Fang, [[srd/pf2e/compendium/equipment/weapons/dog-bone-knife|Dog-Bone Knife]], Fiend's Hunger, Ghast Stiletto, [[srd/pf2e/compendium/equipment/weapons/gloaming-shard|Gloaming Shard]], [[srd/pf2e/compendium/equipment/weapons/poisonous-dagger|Poisonous Dagger]], [[srd/pf2e/compendium/equipment/weapons/serpent-dagger|Serpent Dagger]], Shadefield Knife, [[srd/pf2e/compendium/equipment/cursed-items/shard-of-self-destruction|Shard of Self-Destruction]], [[srd/pf2e/compendium/equipment/weapons/undead-scourge|Undead Scourge]]
+Apotheosis Knife, Bloody Fang, [[srd/pf2e/compendium/equipment/weapons/Dog-Bone Knife|Dog-Bone Knife]], Fiend's Hunger, Ghast Stiletto, [[srd/pf2e/compendium/equipment/weapons/Gloaming Shard|Gloaming Shard]], [[srd/pf2e/compendium/equipment/weapons/Poisonous Dagger|Poisonous Dagger]], [[srd/pf2e/compendium/equipment/weapons/Serpent Dagger|Serpent Dagger]], Shadefield Knife, [[srd/pf2e/compendium/equipment/cursed-items/Shard of Self-Destruction|Shard of Self-Destruction]], [[srd/pf2e/compendium/equipment/weapons/Undead Scourge|Undead Scourge]]
 
 *Source: Player Core p. 277*

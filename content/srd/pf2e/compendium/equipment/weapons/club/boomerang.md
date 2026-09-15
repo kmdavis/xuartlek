@@ -23,7 +23,7 @@ socialImage: og-image.png
 - **Range**: 60 ft.
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Club
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|Club]]
 
 The boomerang is a carved piece of wood designed to curve as it flies through the air, returning to the wielder after a successful throw.
 
@@ -33,6 +33,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/shattered-plan|Shattered Plan]], Shattered Plan
+[[srd/pf2e/compendium/equipment/weapons/Shattered Plan|Shattered Plan]], Shattered Plan
 
 *Source: Treasure Vault (Remastered) p. 30*

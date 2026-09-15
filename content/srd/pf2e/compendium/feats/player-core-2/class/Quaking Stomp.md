@@ -18,6 +18,6 @@ socialImage: og-image.png
 
 - **Frequency**: once per 10 minutes
 
-You stomp the ground with such force that it creates a minor earthquake, with the effects of the [[srd/pf2e/compendium/spells/rank-8/earthquake|_earthquake_]] spell.
+You stomp the ground with such force that it creates a minor earthquake, with the effects of the [[srd/pf2e/compendium/spells/rank-8/Earthquake|_earthquake_]] spell.
 
 *Source: Player Core 2 p. 85*

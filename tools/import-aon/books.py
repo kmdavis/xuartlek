@@ -57,11 +57,20 @@ REMASTER_RULEBOOKS: dict[str, str] = {
     "Impossible Magic": "IM",
     "Secrets of the Unlit Star Game Master's Guide": "SUS",
     "Divine Mysteries": "DM",
+    "Tian Xia Character Guide": "TXCG",
+    "Tian Xia World Guide": "TXWG",
 }
 
 # Books that are not in AoN's "Rulebooks" shelf but are imported anyway.
 # Kept separate so the Rulebooks-derived provenance above stays honest.
-NON_RULEBOOKS = frozenset({"Divine Mysteries"})
+NON_RULEBOOKS = frozenset({
+    "Divine Mysteries",
+    # Added for Qigang, the wuxia world: kitsune, nagaji, samsaran, tanuki and
+    # wayang are its obvious population, and the ancestry/heritage commonality
+    # sheet needs them.
+    "Tian Xia Character Guide",
+    "Tian Xia World Guide",
+})
 
 # The original five, kept so a run can be narrowed back down for comparison.
 CORE_FIVE = ["Player Core", "Player Core 2", "GM Core", "Monster Core", "NPC Core"]

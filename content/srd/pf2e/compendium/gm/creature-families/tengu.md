@@ -14,11 +14,11 @@ Tengu are an adaptable people originally from the continent of Tian Xia, but who
 
  Although humanoid, tengu have very distinct, birdlike features, and many would say that they resemble crows more than they do humans. They have strong, thick beaks, as well as sharp talons at the ends of their arms and legs. Most of a tengu's body is covered in small feathers that range in color from dark brown and midnight blue to glossy black, with lighter colors being rare but not unheard of. Like many avian creatures, tengu have hollow bones, making them much lighter than other humanoids of their size, and some tengu even possess wings that allow them to fly.
 
- Tengu have a strong cultural focus on the sky, considering tall mountaintops sacred places and worshipping gods associated with nature and storms, like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]] or [[srd/pf2e/compendium/deities/tian-gods/hei-feng|Hei Feng]]. They have a long and proud tradition of both martial arts and smithing, and many aspiring Tian heroes have sought out a tengu mentor or swordsmith. Tengu magic revolves around using tengu feathers, bound into a fan, as a medium to command wind and lightning, and some tengu even have the power to “eat” misfortune—skills that only help tengu as they continue expanding across Golarion to new lands.
+ Tengu have a strong cultural focus on the sky, considering tall mountaintops sacred places and worshipping gods associated with nature and storms, like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Gozreh|Gozreh]] or [[srd/pf2e/compendium/deities/tian-gods/Hei Feng|Hei Feng]]. They have a long and proud tradition of both martial arts and smithing, and many aspiring Tian heroes have sought out a tengu mentor or swordsmith. Tengu magic revolves around using tengu feathers, bound into a fan, as a medium to command wind and lightning, and some tengu even have the power to “eat” misfortune—skills that only help tengu as they continue expanding across Golarion to new lands.
 
 ### Members
 
-[[srd/pf2e/bestiary/npc-core/humanoid/gambling-companion|Gambling Companion]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/jinx-eater|Jinx Eater]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/tengu-bladesmith|Tengu Bladesmith]] (Creature 6), [[srd/pf2e/bestiary/monster-core/humanoid/tengu-sneak|Tengu Sneak]] (Creature 2)
+[[srd/pf2e/bestiary/npc-core/humanoid/Gambling Companion|Gambling Companion]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/Jinx Eater|Jinx Eater]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/Tengu Bladesmith|Tengu Bladesmith]] (Creature 6), [[srd/pf2e/bestiary/monster-core/humanoid/Tengu Sneak|Tengu Sneak]] (Creature 2)
 
 ### Jinx Eaters
 
@@ -26,6 +26,6 @@ In the pirate-controlled archipelago of the Shackles, tengu occupy a unique soci
 
 ### Storm Surge Blade Style
 
-This popular fighting style was originally developed by a master of the [[srd/pf2e/compendium/equipment/weapons/sword/tengu-gale-blade|tengu gale blade]]. There are two main disciplines students follow. Gusting Winds encompasses rapid strikes, feints, and disarms. Crashing Waves focuses on tripping and grappling techniques. Those who reach the highest level of training appear to harness the wind to enhance their bladework, manipulating the air around them with every swing.
+This popular fighting style was originally developed by a master of the [[srd/pf2e/compendium/equipment/weapons/sword/Tengu Gale Blade|tengu gale blade]]. There are two main disciplines students follow. Gusting Winds encompasses rapid strikes, feints, and disarms. Crashing Waves focuses on tripping and grappling techniques. Those who reach the highest level of training appear to harness the wind to enhance their bladework, manipulating the air around them with every swing.
 
 *Source: Monster Core p. 325*

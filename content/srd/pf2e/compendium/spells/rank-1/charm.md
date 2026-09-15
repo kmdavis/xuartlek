@@ -19,9 +19,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Emotion`  `Incapacitation`  `Manipulate`  `Mental`  `Subtle`
 
-- **Traditions**: Arcane, Occult, Primal
-- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Diabolic|Diabolic]], [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
-- **Deities**: [[srd/pf2e/compendium/deities/queens-of-the-night/ardad-lili|Ardad Lili]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]], [[srd/pf2e/compendium/deities/archdevils/belial|Belial]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/calistria|Calistria]], Conqueror Worm, [[srd/pf2e/compendium/deities/daemon-harbingers/corosbel|Corosbel]], Hathor, Kugaptee, Nalinivati, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-faceless-sphinx|Nyarlathotep (The Faceless Sphinx)]], [[srd/pf2e/compendium/deities/sakhil-tormentors/ozranvial|Ozranvial]], [[srd/pf2e/compendium/deities/vudrani-gods/ravithra|Ravithra]], [[srd/pf2e/compendium/deities/other-gods/razmir|Razmir]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/sturovenen|Sturovenen]], [[srd/pf2e/compendium/deities/eldest/the-green-mother|The Green Mother]], [[srd/pf2e/compendium/deities/infernal-dukes/ussharassim|Ussharassim]], [[srd/pf2e/compendium/deities/sakhil-tormentors/velgaas|Velgaas]], Zura
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Bloodlines**: [[srd/pf2e/compendium/character/Bloodlines#Diabolic|Diabolic]], [[srd/pf2e/compendium/character/Bloodlines#Fey|Fey]]
+- **Deities**: [[srd/pf2e/compendium/deities/queens-of-the-night/Ardad Lili|Ardad Lili]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Asmodeus|Asmodeus]], [[srd/pf2e/compendium/deities/archdevils/Belial|Belial]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Calistria|Calistria]], Conqueror Worm, [[srd/pf2e/compendium/deities/daemon-harbingers/Corosbel|Corosbel]], Hathor, Kugaptee, Nalinivati, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (The Faceless Sphinx)|Nyarlathotep (The Faceless Sphinx)]], [[srd/pf2e/compendium/deities/sakhil-tormentors/Ozranvial|Ozranvial]], [[srd/pf2e/compendium/deities/vudrani-gods/Ravithra|Ravithra]], [[srd/pf2e/compendium/deities/other-gods/Razmir|Razmir]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/Sturovenen|Sturovenen]], [[srd/pf2e/compendium/deities/eldest/The Green Mother|The Green Mother]], [[srd/pf2e/compendium/deities/infernal-dukes/Ussharassim|Ussharassim]], [[srd/pf2e/compendium/deities/sakhil-tormentors/Velgaas|Velgaas]], Zura
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will
@@ -33,9 +33,9 @@ To the target, your words are honey and your visage seems bathed in a dreamy haz
 
 **Critical Success** The target is unaffected and aware you tried to charm it.
 
-**Success** The target is unaffected but thinks your spell was something harmless instead of _charm_, unless it [[srd/pf2e/books/player-core/chapter-7-spells/identifying-spells|identifies the spell]].
+**Success** The target is unaffected but thinks your spell was something harmless instead of _charm_, unless it [[srd/pf2e/books/player-core/chapter-7-spells/Identifying Spells|identifies the spell]].
 
-**Failure** The target's attitude becomes [[srd/pf2e/compendium/rules-elements/conditions#Friendly|friendly]] toward you. If it was friendly, it becomes [[srd/pf2e/compendium/rules-elements/conditions#Helpful|helpful]]. It can't use hostile actions against you.
+**Failure** The target's attitude becomes [[srd/pf2e/compendium/rules-elements/Conditions#Friendly|friendly]] toward you. If it was friendly, it becomes [[srd/pf2e/compendium/rules-elements/Conditions#Helpful|helpful]]. It can't use hostile actions against you.
 
 **Critical Failure** The target's attitude becomes helpful toward you, and it can't use hostile actions against you.
 

@@ -28,7 +28,7 @@ perception:
     desc: "+8; darkvision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +6"
 abilityMods: [3, 3, 2, -4, 2, 0]
 ac: 18
 armorclass:
@@ -46,9 +46,9 @@ attacks:
   - name: "Melee"
     desc: "⬻ beak +9 __Damage__ 1d10+3 piercing"
   - name: "Melee"
-    desc: "⬻ talon +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+3 slashing"
+    desc: "⬻ talon +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d6+3 slashing"
   - name: "Melee"
-    desc: "⬻ wing +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d6+3 bludgeoning"
+    desc: "⬻ wing +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 1d6+3 bludgeoning"
 abilities_bot:
   - name: "Flying Strafe"
     desc: "⬺ The hippogriff [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]]up to its fly speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. The attacks take the normal multiple attack penalty."

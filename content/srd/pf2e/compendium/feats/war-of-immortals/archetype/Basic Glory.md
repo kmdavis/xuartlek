@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/exemplar|Exemplar]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/exemplar-dedication|Exemplar Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Exemplar|Exemplar]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Exemplar Dedication|Exemplar Dedication]]
 
-You gain a 1st- or 2nd-level exemplar feat.
+You gain a 1st- or 2nd-level [exemplar feat](https://2e.aonprd.com/Feats.aspx?Traits=839).
 
 ### Basic Glory leads to...
 
-[[srd/pf2e/compendium/feats/war-of-immortals/archetype/advanced-glory|Advanced Glory]]
+[[srd/pf2e/compendium/feats/war-of-immortals/archetype/Advanced Glory|Advanced Glory]]
 
 *Source: War of Immortals p. 57*

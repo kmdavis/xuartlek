@@ -32,7 +32,7 @@ perception:
     desc: "+12; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +14, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +12, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +14, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +12, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +12"
 abilityMods: [2, 5, 3, 0, 2, 2]
 ac: 21
 armorclass:
@@ -41,7 +41,7 @@ armorclass:
 hp: 75
 health:
   - name: "HP"
-    desc: "75; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
+    desc: "75; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 5"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
@@ -52,7 +52,7 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The pack makes a melee attack against each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] (DC 19 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] reflex save). The damage depends on the number of actions. ⬻ 1d6 piercing or slashing damage and 1d4 precision damage ⬺ 2d6 piercing or slashing damage and 2d4 precision damage ⬽ 3d6 piercing or slashing damage and 2d4 precision damage"
+    desc: "The pack makes a melee attack against each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] (DC 19 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] reflex save). The damage depends on the number of actions. ⬻ 1d6 piercing or slashing damage and 1d4 precision damage ⬺ 2d6 piercing or slashing damage and 2d4 precision damage ⬽ 3d6 piercing or slashing damage and 2d4 precision damage"
   - name: "Puff Up"
     desc: "The velociraptors ruffle their plumage to appear larger. They ignore the –4 penalty to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] for not knowing the same language as their target."
   - name: "Raptor Leap"
@@ -60,7 +60,7 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The pack [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Strides]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Ignore Difficult Terrain|ignoring difficult terrain]] (but not greater difficult terrain). At the end of this movement, each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] takes 1d8 piercing or slashing damage (DC 19 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save)."
+    desc: "The pack [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Strides]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Ignore Difficult Terrain|ignoring difficult terrain]] (but not greater difficult terrain). At the end of this movement, each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] takes 1d8 piercing or slashing damage (DC 19 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save)."
 sourcebook: "_Monster Core 2_, page 106."
 ```
 

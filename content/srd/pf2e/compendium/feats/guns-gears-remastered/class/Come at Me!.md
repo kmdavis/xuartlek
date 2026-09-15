@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Gunslinger`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/class/pistoleros-challenge|Pistolero's Challenge]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Pistolero's Challenge|Pistolero's Challenge]]
 
 You're a legendary duelist, welcoming all challengers, enabling you to challenge many foes even while other challenges are active. There is no longer a limit to the number of Pistolero's Challenges you can have in effect at one time.
 

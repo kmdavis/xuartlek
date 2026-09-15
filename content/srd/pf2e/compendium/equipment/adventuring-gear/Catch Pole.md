@@ -34,7 +34,7 @@ This sturdy pole has a rope attached to one end in a loop with the other end ext
 
 ---
 
-A giant catch pole is made from thicker steel and heavier rope. It functions the same as a catch pole but can be used to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] creatures up to your normal size limit. However, the implement is so ungainly that you are [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]] while wielding it.
+A giant catch pole is made from thicker steel and heavier rope. It functions the same as a catch pole but can be used to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] creatures up to your normal size limit. However, the implement is so ungainly that you are [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy 1]] while wielding it.
 
 ### Superior Catch Pole
 
@@ -46,6 +46,6 @@ A giant catch pole is made from thicker steel and heavier rope. It functions the
 
 ---
 
-A superior catch pole has a pole made of dawnsilver, and the loop at the end is silk rope, making it sturdier and more agile. It functions the same as a catch pole but gives you a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks made to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] with it.
+A superior catch pole has a pole made of dawnsilver, and the loop at the end is silk rope, making it sturdier and more agile. It functions the same as a catch pole but gives you a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks made to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] with it.
 
 *Source: Howl of the Wild p. 112*

@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Focus`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Imperial|Imperial]]
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Imperial|Imperial]]
 
 The memories of long-dead spellcasters grant you their knowledge, making your spells more formidable. You gain either a +1 status bonus to the next spell attack roll you attempt before the end of your turn or an enemy within 60 feet takes a –1 status penalty to the next saving throw they attempt against a spell you cast before the end of your turn.
 

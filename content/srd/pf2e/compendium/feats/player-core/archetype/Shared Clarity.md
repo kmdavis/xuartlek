@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Cleric`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/mortal-herald|Mortal Herald]] (Level 20)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/premonition-of-clarity|Premonition of Clarity]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Mortal Herald|Mortal Herald]] (Level 20)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Premonition of Clarity|Premonition of Clarity]]
 
 You can project your premonitions of clarity to your allies. When you use Premonition of Clarity, allies within 15 feet of you who failed the same saving throw against the same mental effect can also spend their reactions to reroll the failed saving throw with a +2 circumstance bonus.
 

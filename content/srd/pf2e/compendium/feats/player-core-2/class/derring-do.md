@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Fortune`  `Swashbuckler`
 
-When you compound panache with even more derring-do, it somehow tends to work out. When you already have panache, you can roll twice and use the higher result on checks to which the circumstance bonus from stylish combatant applies ([[srd/pf2e/compendium/rules-elements/actions/player-core#Tumble Through|Tumble Through]] and any skill actions with the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/bravado|bravado]] trait).
+When you compound panache with even more derring-do, it somehow tends to work out. When you already have panache, you can roll twice and use the higher result on checks to which the circumstance bonus from stylish combatant applies ([[srd/pf2e/compendium/rules-elements/actions/player-core#Tumble Through|Tumble Through]] and any skill actions with the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Bravado|bravado]] trait).
 
 *Source: Player Core 2 p. 167*

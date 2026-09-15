@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Halfling`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/step-lively|Step Lively]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/Step Lively|Step Lively]]
 
 You dart under the legs of your enemies in combat. You can end a successful Tumble Through action in a Large or larger enemy's space. Also, when using the Step Lively feat, you can Step into the triggering enemy's space. The enemy must have limbs or otherwise leave you enough room for this maneuver, as determined by the GM. For instance, you could share space with a giant or dragon, but not an ooze.
 
 ### Dance Underfoot leads to...
 
-[[srd/pf2e/compendium/feats/player-core/ancestry/toppling-dance|Toppling Dance]]
+[[srd/pf2e/compendium/feats/player-core/ancestry/Toppling Dance|Toppling Dance]]
 
 *Source: Player Core p. 61*

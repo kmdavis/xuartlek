@@ -18,9 +18,9 @@ socialImage: og-image.png
 - **Price**: 2, 700 gp
 - **Usage**: worn eyepiece
 
-Adherents of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/erastil|Erastil]], god of the hunt, create these magical eye patches. An eye of fortune has a jeweled eye symbol on its front, allowing you to magically see through the eye patch as though it were transparent. 
+Adherents of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Erastil|Erastil]], god of the hunt, create these magical eye patches. An eye of fortune has a jeweled eye symbol on its front, allowing you to magically see through the eye patch as though it were transparent. 
 
-**Activate—Luck Beyond Sight** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]])
- **Trigger** You attack a [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] or [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] creature and haven't attempted the flat check yet; **Effect** You can roll the flat check for the concealed or hidden condition twice and use the higher result.
+**Activate—Luck Beyond Sight** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]])
+ **Trigger** You attack a [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] creature and haven't attempted the flat check yet; **Effect** You can roll the flat check for the concealed or hidden condition twice and use the higher result.
 
 *Source: GM Core p. 289*

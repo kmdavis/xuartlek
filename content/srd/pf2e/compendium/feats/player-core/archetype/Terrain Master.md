@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Ranger`
 
 - **Archetypes**: Horizon Walker (Level 10), Steel Falcon (Level 10)
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]; [[srd/pf2e/compendium/feats/player-core/archetype/favored-terrain|Favored Terrain]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]; [[srd/pf2e/compendium/feats/player-core/archetype/Favored Terrain|Favored Terrain]]
 
 You are able to adapt to your surroundings in any natural terrain. You can spend 1 hour practicing in your current terrain in order to make it your favored terrain, replacing your current favored terrain temporarily. If you spend a full day out of the new favored terrain, your favored terrain reverts back to your original choice when you took the Favored Terrain feat.
 

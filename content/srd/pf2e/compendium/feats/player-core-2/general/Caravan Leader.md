@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `General`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/general/pick-up-the-pace|Pick Up the Pace]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/general/Pick Up the Pace|Pick Up the Pace]]
 
 You know how to get the most effort out of your allies on the road. Your group can [[srd/pf2e/compendium/rules-elements/actions/player-core#Hustle|Hustle]] for an additional 20 minutes beyond the length of time that the member who could Hustle longest on their own.
 

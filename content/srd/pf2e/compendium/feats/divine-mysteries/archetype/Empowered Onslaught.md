@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/battle-harbinger|Battle Harbinger]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Battle Harbinger|Battle Harbinger]]
 - **Frequency**: once per round
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/tandem-onslaught|Tandem Onslaught]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Tandem Onslaught|Tandem Onslaught]]
 - **Trigger**: You critically hit and [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] a battle aura.
 
 When your body and mind are perfectly in sync and pushed to the limit, it can produce even greater results. You channel your combat focus into the power of your battle auras. Choose one active battle aura you have; that battle aura’s status bonus or penalty increases by 1, to a maximum of 4. This value remains for the rest of the aura’s duration.

@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-Applying this clear yellow oil on a lock makes it easier to pick. Anyone attempting to [[srd/pf2e/compendium/rules-elements/actions/player-core#Pick a Lock|Pick the Lock]] within the next minute gains a +1 status bonus to the [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] check. In addition, the first time during that minute that anyone gets a critical failure on the Thievery check, they get a failure instead. There’s only enough in this tiny vial for one lock.
+Applying this clear yellow oil on a lock makes it easier to pick. Anyone attempting to [[srd/pf2e/compendium/rules-elements/actions/player-core#Pick a Lock|Pick the Lock]] within the next minute gains a +1 status bonus to the [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] check. In addition, the first time during that minute that anyone gets a critical failure on the Thievery check, they get a failure instead. There’s only enough in this tiny vial for one lock.
 
 ### Lockpicker's Oil
 

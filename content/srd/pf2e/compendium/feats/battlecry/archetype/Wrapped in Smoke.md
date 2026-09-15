@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/munitions-master|Munitions Master]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/munitions-master-dedication|Munitions Master Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Munitions Master|Munitions Master]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Munitions Master Dedication|Munitions Master Dedication]]
 
-You ignite a small portion of powder in a rapid, inefficient burn, creating a hazy cloud. You create a cloud of smoke in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] centered on your innovation, which lasts for 1 minute. All creatures and objects within the smoke become [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], and those outside the smoke become concealed to those within.
+You ignite a small portion of powder in a rapid, inefficient burn, creating a hazy cloud. You create a cloud of smoke in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] centered on your innovation, which lasts for 1 minute. All creatures and objects within the smoke become [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]], and those outside the smoke become concealed to those within.
 
 *Source: Battlecry! p. 65*

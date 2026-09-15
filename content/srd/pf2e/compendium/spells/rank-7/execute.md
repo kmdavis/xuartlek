@@ -18,13 +18,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Death`  `Manipulate`  `Void`  `Negative`
 
-- **Traditions**: Divine, Primal
-- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Undead|Undead]], [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Bloodlines**: [[srd/pf2e/compendium/character/Bloodlines#Undead|Undead]], [[srd/pf2e/compendium/character/Bloodlines#Aesir|Aesir]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: basic Fortitude
 
-You point at a creature and invoke the demise of all things. The target takes 70 void damage with a basic Fortitude save. If the target is [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] or otherwise has void healing, the spell loses the [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] traits and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] trait, and the target takes 70 vitality damage with a basic Fortitude save.
+You point at a creature and invoke the demise of all things. The target takes 70 void damage with a basic Fortitude save. If the target is [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]] or otherwise has void healing, the spell loses the [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]] traits and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Vitality|vitality]] trait, and the target takes 70 vitality damage with a basic Fortitude save.
 
 ---
 **Heightened (+1)** The damage increases by 10.

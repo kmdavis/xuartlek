@@ -22,6 +22,6 @@ If both attacks hit, combine their damage, and then add any other applicable eff
 
 ### Double Slice leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/graceful-poise|Graceful Poise]]
+[[srd/pf2e/compendium/feats/player-core/class/Graceful Poise|Graceful Poise]]
 
 *Source: Player Core p. 140*

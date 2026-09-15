@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: oracular clarity
 
-Your mystery grants you access to deep reserves of truly miraculous [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] power. You gain an additional 10th-rank spell slot.
+Your mystery grants you access to deep reserves of truly miraculous [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]] power. You gain an additional 10th-rank spell slot.
 
 *Source: Player Core 2 p. 143*

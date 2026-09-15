@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Auditory`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/seneschal|Seneschal]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/seneschal-witch-dedication|Seneschal Witch Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Seneschal|Seneschal]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Seneschal Witch Dedication|Seneschal Witch Dedication]]
 
-You gain the ability to speak to your charge over great distances. You gain [[srd/pf2e/compendium/spells/cantrips/message|_message_]] as an innate cantrip of your former patron’s tradition. You can send a message to a creature regardless of range if they have ever been your charge. If you [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]] as part of the message, the target receives a –2 circumstance penalty to their [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Perception|Perception]] DC and to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]] checks to reveal the lie.
+You gain the ability to speak to your charge over great distances. You gain [[srd/pf2e/compendium/spells/cantrips/Message|_message_]] as an innate cantrip of your former patron’s tradition. You can send a message to a creature regardless of range if they have ever been your charge. If you [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]] as part of the message, the target receives a –2 circumstance penalty to their [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Perception|Perception]] DC and to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]] checks to reveal the lie.
 
 *Source: War of Immortals p. 63*

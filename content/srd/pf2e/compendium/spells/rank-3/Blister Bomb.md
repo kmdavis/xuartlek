@@ -17,21 +17,21 @@ socialImage: og-image.png
 `Concentrate`  `Disease`  `Manipulate`
 
 - **PFS Note**: This spell is thematically appropriate for warfare, but not for Pathfinder Society.
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 100 feet
-- **Area**: 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
+- **Area**: 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
 - **Defense**: Fortitude
 
 You launch a small bomb enchanted with a fast-acting skin disease at your foes, causing their skin to break out in horrible bleeding sores. All creatures in the area of the burst must attempt a Fortitude save.
 
 **Critical Success** The creature is unaffected and immune to blister pox for 1 week.
 
-**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 2.
+**Success** The creature is {{conditions 91 "sickened"}} 2.
 
 **Failure** The creature is afflicted with blister pox at stage 1.
 
 **Critical Failure** The creature is afflicted with blister pox at stage 2.
 
-**Blister Pox** ([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]]) **Level** 5; A creature can’t reduce its [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] value below 1 while it’s taking [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]] from blister pox; **Stage 1** sickened 2 (1 round); **Stage 2** sickened 2 and 1d6 persistent bleed damage (1 round); **Stage 3** sickened 2 and 2d6 persistent bleed damage (1 round); **Stage 4** sickened 3 and 2d6 persistent bleed damage (1 day)
+**Blister Pox** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]]) **Level** 5; A creature can’t reduce its [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] value below 1 while it’s taking [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent bleed damage]] from blister pox; **Stage 1** sickened 2 (1 round); **Stage 2** sickened 2 and 1d6 persistent bleed damage (1 round); **Stage 3** sickened 2 and 2d6 persistent bleed damage (1 round); **Stage 4** sickened 3 and 2d6 persistent bleed damage (1 day)
 
 *Source: Battlecry! p. 84*

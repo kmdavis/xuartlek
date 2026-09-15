@@ -28,20 +28,20 @@ modifier: 24
 perception:
   - name: "Perception"
     desc: "+24"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +25, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +23, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +27, [[srd/pf2e/compendium/rules-elements/skills/lore|Engineering Lore]] +29, [[srd/pf2e/compendium/rules-elements/skills/lore|Siege Lore]] +29, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +25, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +23"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +25, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +23, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +27, [[srd/pf2e/compendium/rules-elements/skills/Lore|Engineering Lore]] +29, [[srd/pf2e/compendium/rules-elements/skills/Lore|Siege Lore]] +29, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +25, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] +23"
 abilityMods: [2, 5, 4, 5, 2, 0]
 abilities_top:
   - name: "Alchemical Grenades"
-    desc: "A siegebreaker carries 15 alchemical grenades that deal either acid, cold, or fire damage plus 10 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] and 10 [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage of the same type (typically five of each damage type). They replenish these grenades each day."
+    desc: "A siegebreaker carries 15 alchemical grenades that deal either acid, cold, or fire damage plus 10 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent damage]] and 10 [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage of the same type (typically five of each damage type). They replenish these grenades each day."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|Alchemist's Toolkit]], formula book, _+2 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/club/light-mace|light mace]]_, _+1 [[srd/pf2e/compendium/equipment/runes/resilient|resilient]] [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]_"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/Alchemist's Toolkit|Alchemist's Toolkit]], formula book, _+2 [[srd/pf2e/compendium/equipment/runes/Striking|striking]] [[srd/pf2e/compendium/equipment/weapons/club/Light Mace|light mace]]_, _+1 [[srd/pf2e/compendium/equipment/runes/Resilient|resilient]] [[srd/pf2e/compendium/equipment/Armor#Leather Armor|leather armor]]_"
 ac: 34
 armorclass:
   - name: "AC"
-    desc: "34; __Fort__: +25; __Ref__: +28; __Will__: +23 Resistances [[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|alchemical]] items 10"
+    desc: "34; __Fort__: +25; __Ref__: +28; __Will__: +23 Resistances [[srd/pf2e/compendium/rules-elements/traits/player-core/Alchemical|alchemical]] items 10"
 hp: 300
 health:
   - name: "HP"
@@ -52,18 +52,18 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _light mace_ +27 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|Shove]]) __Damage__ 2d4+18 bludgeoning"
+    desc: "⬻ _light mace_ +27 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Shove|Shove]]) __Damage__ 2d4+18 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +25 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+18 bludgeoning"
+    desc: "⬻ fist +25 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+18 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ alchemical grenade +27 (range increment 60 feet, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|Splash]]) __Damage__ 3d6 acid, cold, or fire plus 10 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] and 10 [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage of the same type"
+    desc: "⬻ alchemical grenade +27 (range increment 60 feet, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|Splash]]) __Damage__ 3d6 acid, cold, or fire plus 10 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent damage]] and 10 [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage of the same type"
 abilities_bot:
   - name: "Expanded Splash"
     desc: "The siegebreaker's grenades deal splash damage in a 10-foot radius."
   - name: "Quick Grenadier"
     desc: "⬻ The siegebreaker Interacts to draw a grenade, then Strikes with it."
   - name: "The Wall Must Fall"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/exploration|Exploration]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Exploration|Exploration]])"
   - name: "Requirements"
     desc: "The siegebreaker is at the base of a fortified wall"
   - name: "Effect"

@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Void`  `Negative`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude
@@ -28,7 +28,7 @@ A ghostly iron maiden snaps shut on the target and drains its vitality for your 
 
 **Success** The target takes half damage.
 
-**Failure** The target is briefly trapped within the vampiric maiden. The target takes full damage and is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] by the iron maiden for 1 round or until it uses an Interact action to extricate itself, whichever comes first.
+**Failure** The target is briefly trapped within the vampiric maiden. The target takes full damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] by the iron maiden for 1 round or until it uses an Interact action to extricate itself, whichever comes first.
 
 **Critical Failure** The target takes double damage and is immobilized by the vampiric maiden for 1 round or until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (the DC is your spell DC), whichever comes first.
 

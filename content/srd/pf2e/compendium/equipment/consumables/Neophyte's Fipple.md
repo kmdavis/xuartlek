@@ -18,8 +18,8 @@ socialImage: og-image.png
 - **Price**: 8 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
-- **Requirement**: You are untrained in [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]].
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]])
+- **Requirement**: You are untrained in [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]].
 
 Made of polished wood, a _neophyte's fipple_ is a block flute enchanted to guarantee melodic sound. When you Perform a song on the fipple to Activate it, your ability modifier, proficiency bonus, and item bonus for the Performance check total +7, regardless of what they would normally be. Add other bonuses and penalties to the check normally. Once the magic is used, the fipple remains as a mundane instrument.
 

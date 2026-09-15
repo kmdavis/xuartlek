@@ -19,13 +19,13 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Mental`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Introspection|Introspection]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Introspection|Introspection]]
 - **Range**: 30 feet
 - **Target**: 1 creature
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] will
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] will
 - **Duration**: sustained up to 1 minute
 
-You show the target the spiraling web of actions and consequences that is their life and the changes wrought by these decisions upon themselves and those around them. These events swirl around the target like shards of broken pottery. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] this Spell, you force the target to confront an alternate permutation of themselves, witnessing the events of their life as if they’d chosen another path. They take 4d6 [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] damage (basic Will save) and are [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 until the beginning of your next turn. On a critical success, the spell ends.
+You show the target the spiraling web of actions and consequences that is their life and the changes wrought by these decisions upon themselves and those around them. These events swirl around the target like shards of broken pottery. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] this Spell, you force the target to confront an alternate permutation of themselves, witnessing the events of their life as if they’d chosen another path. They take 4d6 [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] damage (basic Will save) and are [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]] 1 until the beginning of your next turn. On a critical success, the spell ends.
 
 ---
 **Heightened (+1)** The damage increases by 1d6.

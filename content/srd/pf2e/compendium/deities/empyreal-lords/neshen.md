@@ -24,23 +24,23 @@ Strength or Intelligence
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/ranseur|Ranseur]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/Ranseur|Ranseur]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/domains#Might|Might]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/Domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/Domains#Might|Might]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/grim-tendrils|Grim Tendrils]]
+[[srd/pf2e/compendium/spells/rank-1/Grim Tendrils|Grim Tendrils]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/illusory-scene|Illusory Scene]]
+[[srd/pf2e/compendium/spells/rank-5/Illusory Scene|Illusory Scene]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/vibrant-pattern|Vibrant Pattern]]
+[[srd/pf2e/compendium/spells/rank-6/Vibrant Pattern|Vibrant Pattern]]
 
 *Source: Divine Mysteries p. 308*

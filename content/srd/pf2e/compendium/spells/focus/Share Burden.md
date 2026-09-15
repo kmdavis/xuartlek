@@ -18,8 +18,8 @@ socialImage: og-image.png
 
 `Cleric`  `Focus`  `Manipulate`  `Mental`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Repose|Repose]]
-- **Trigger**: An ally within range is about to attempt a saving throw against a harmful [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effect, and you would not otherwise have to save against the effect.
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Repose|Repose]]
+- **Trigger**: An ally within range is about to attempt a saving throw against a harmful [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]] effect, and you would not otherwise have to save against the effect.
 - **Range**: 30 feet
 - **Target**: you and the triggering ally
 

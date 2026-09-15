@@ -17,10 +17,10 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`  `Magical`  `Uncommon`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/beast-gunner|Beast Gunner]]
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]; expert with at least one type of firearm, you own a beast gun and have slain the type of creature associated with your beast gun in a fair hunt (see above)
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Beast Gunner|Beast Gunner]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]; expert with at least one type of firearm, you own a beast gun and have slain the type of creature associated with your beast gun in a fair hunt (see above)
 
-You've bonded to your beast gun and unlocked the first hints of its hidden potential. You treat all beast guns as martial firearms when determining your proficiency with them, even beast guns that are normally advanced weapons. You can change your bonded beast gun to another beast gun you own each day during your daily preparations, as long as you've previously performed a ritual hunt associated with the new beast gun.
+You've bonded to your [beast gun](https://2e.aonprd.com/Equipment.aspx?Category=37&Subcategory=74) and unlocked the first hints of its hidden potential. You treat all beast guns as martial firearms when determining your proficiency with them, even beast guns that are normally advanced weapons. You can change your bonded beast gun to another beast gun you own each day during your daily preparations, as long as you've previously performed a ritual hunt associated with the new beast gun.
 
  The beast gun also acts as a conduit, drawing out and amplifying any latent or active magic power you have. You learn to cast spontaneous spells and gain the Cast a Spell activity. You gain a spell repertoire with one cantrip of your choice, from either the arcane or primal spell list. You choose this cantrip from the common spells on your chosen spell list or from other spells you have access to on the list. This cantrip must require a spell attack roll. You’re trained in the spell attack modifier and spell DC statistics. Your key spellcasting ability for these spells is either Charisma or Intelligence, chosen when you take this feat.
 
@@ -30,12 +30,12 @@ You've bonded to your beast gun and unlocked the first hints of its hidden poten
 
  **Spellsling**[>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") **Requirements** You’re wielding your bonded beast gun or another magic firearm; **Effect** You Cast a Spell that takes 1 or 2 actions to cast and requires a spell attack roll. The effects of the spell do not occur immediately but are imbued into the beast gun you're wielding. Make a Strike with that beast gun. Your spell flies with the ammunition, using your attack roll result to determine the effects of both the Strike and the spell. This counts as two attacks for the purposes of determining your multiple attack penalty, but you don't apply the penalty until after you've completed resolving the attack and spell.
 
-**Special** If you also have the [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/spell-woven-shot|Spell-Woven Shot]] action you can load and activate a piece of magical ammunition
+**Special** If you also have the [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Spell-Woven Shot|Spell-Woven Shot]] action you can load and activate a piece of magical ammunition
 as a free action before making a Spellsling attack once per 10
 minutes.
 
 ### Beast Gunner Dedication leads to...
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/basic-beast-gunner-spellcasting|Basic Beast Gunner Spellcasting]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/controlled-bullet|Controlled Bullet]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/drain-vitality|Drain Vitality]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Basic Beast Gunner Spellcasting|Basic Beast Gunner Spellcasting]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Controlled Bullet|Controlled Bullet]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Drain Vitality|Drain Vitality]]
 
 *Source: Guns & Gears (Remastered) p. 130*

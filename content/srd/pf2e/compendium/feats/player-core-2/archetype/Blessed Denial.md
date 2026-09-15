@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/blessed-one|Blessed One]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/blessed-one-dedication|Blessed One Dedication]]
-- **Trigger**: An ally within 30 feet would become [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], or [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]].
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Blessed One|Blessed One]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Blessed One Dedication|Blessed One Dedication]]
+- **Trigger**: An ally within 30 feet would become [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]], [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]], or [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]].
 
 You exude peace and protection, lessening a harmful condition as it falls upon an ally. Reduce the value of the condition your ally would take by 1 (to a minimum of 0). If the ally has more than one eligible condition at the same time, choose one to reduce.
 

@@ -20,6 +20,6 @@ socialImage: og-image.png
 
 `Concentrate`  `Necromancer`  `Occult`  `Spellshape`  `Void`  `Metamagic`  `Negative`
 
-If the next action you use is to cast a grave spell that deals damage, creatures damaged by the spell take additional [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] damage equal to the rank of the spell. If this void damage or the spell reduces one or more creatures to 0 Hit Points, you regain 1 Focus Point. You can regain a Focus Point this way only once per 10 minutes.
+If the next action you use is to cast a grave spell that deals damage, creatures damaged by the spell take additional [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]] damage equal to the rank of the spell. If this void damage or the spell reduces one or more creatures to 0 Hit Points, you regain 1 Focus Point. You can regain a Focus Point this way only once per 10 minutes.
 
 *Source: Impossible Magic p. 37*

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Lizardfolk`
 
-Your iruxi unarmed attacks channel the spiritual energy of your ancestors. Any unarmed attacks you acquire from the lizardfolk ancestry, lizardfolk heritages, or lizardfolk ancestry feats gain the effects of a [[srd/pf2e/compendium/equipment/runes/ghost-touch|_ghost touch_]] property rune.
+Your iruxi unarmed attacks channel the spiritual energy of your ancestors. Any unarmed attacks you acquire from the lizardfolk ancestry, lizardfolk heritages, or lizardfolk ancestry feats gain the effects of a [[srd/pf2e/compendium/equipment/runes/Ghost Touch|_ghost touch_]] property rune.
 
 *Source: Player Core 2 p. 27*

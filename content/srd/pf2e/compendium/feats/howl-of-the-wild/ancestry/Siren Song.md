@@ -18,15 +18,15 @@ socialImage: og-image.png
 `Auditory`  `Mental`  `Merfolk`  `Primal`
 
 - **Frequency**: once per day
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]
 
 You can beguile and bewitch with your song. All creatures in a 60-foot emanation must attempt a Will save against your Performance DC. On subsequent rounds, you can Sustain the song, causing each creature in the area currently affected by your song to attempt another Will save. Typically, creatures that have traveled with you for a significant time, such as your fellow party members, are immune to your Siren Song.
 
 **Critical Success** The target is unaffected and becomes immune to your Siren Song for 24 hours.
 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] with you until the end of your next turn.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Fascinated|fascinated]] with you until the end of your next turn.
 
-**Failure** As success, and the target is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]] for as long as it's fascinated.
+**Failure** As success, and the target is [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied 1]] for as long as it's fascinated.
 
 **Critical Failure** As success, and the target is stupefied 2 for as long as it's fascinated.
 

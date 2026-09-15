@@ -21,6 +21,6 @@ socialImage: og-image.png
 
 - **PFS Note**: Banner’s Inspiration allows a new saving throw, so anything that happens on a failed save still occurs if a PC fails.
 
-You wave your banner, inspiring allies to throw off the shackles of fear. Each ally currently benefiting from your commander's banner reduces their [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition by 1 and can immediately attempt a new saving throw against any one mental effect currently affecting them. Regardless of the result, any ally that attempts this save is temporarily immune to Banner's Inspiration for 10 minutes.
+You wave your banner, inspiring allies to throw off the shackles of fear. Each ally currently benefiting from your commander's banner reduces their [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] condition by 1 and can immediately attempt a new saving throw against any one mental effect currently affecting them. Regardless of the result, any ally that attempts this save is temporarily immune to Banner's Inspiration for 10 minutes.
 
 *Source: Battlecry! p. 31*

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Magus`
 
-You can speed yourself up to move and attack more swiftly. You learn the [[srd/pf2e/compendium/spells/focus/hasted-assault|_hasted assault_]] conflux spell.
+You can speed yourself up to move and attack more swiftly. You learn the [[srd/pf2e/compendium/spells/focus/Hasted Assault|_hasted assault_]] conflux spell.
 
 *Source: Impossible Magic p. 25*

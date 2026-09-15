@@ -21,6 +21,6 @@ You can knock aside ranged attacks. You gain a +4 circumstance bonus to AC again
 
 ### Cut from the Air leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/smash-from-the-air|Smash from the Air]]
+[[srd/pf2e/compendium/feats/player-core/class/Smash from the Air|Smash from the Air]]
 
 *Source: Player Core p. 147*

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wizard|Wizard]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/expert-wizard-spellcasting|Expert Wizard Spellcasting]]; Legendary in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wizard|Wizard]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Expert Wizard Spellcasting|Expert Wizard Spellcasting]]; Legendary in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]]
 
-You gain the master [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|spellcasting benefits]].
+You gain the master [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Spellcasting Archetypes|spellcasting benefits]].
 
 *Source: Player Core p. 223*

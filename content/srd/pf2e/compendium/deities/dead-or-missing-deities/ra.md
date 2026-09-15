@@ -24,23 +24,23 @@ Strength or Intelligence
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/spear|Spear]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/spear/Spear|Spear]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Sun|Sun]], [[srd/pf2e/compendium/character/domains#Time|Time]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Fire|Fire]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Sun|Sun]], [[srd/pf2e/compendium/character/Domains#Time|Time]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/breathe-fire|Breathe Fire]]
+[[srd/pf2e/compendium/spells/rank-1/Breathe Fire|Breathe Fire]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/floating-flame|Floating Flame]]
+[[srd/pf2e/compendium/spells/rank-2/Floating Flame|Floating Flame]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/threefold-aspect|Threefold Aspect]]
+[[srd/pf2e/compendium/spells/rank-3/Threefold Aspect|Threefold Aspect]]
 
 *Source: Divine Mysteries p. 314*

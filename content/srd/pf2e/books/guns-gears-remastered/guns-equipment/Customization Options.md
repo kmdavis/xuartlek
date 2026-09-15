@@ -1,6 +1,7 @@
 ---
 title: "Customization Options"
 aliases: ["Customization Options"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Guns & Gears (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1658"
 citation: "Guns & Gears (Remastered) pg. 179"
-socialImage: og-image.png
 ---
 
 # Customization Options
@@ -32,7 +32,7 @@ Scopes for firearms and crossbows have existed, in one form or another, for many
 
 ## Stabilizers
 
-The ferocious kickback of firearms is part of the functionality that makes them so appealing as weapons, but it can also present a barrier in wielding them effectively. To increase the functionality of firearms and make them more accessible to a wider audience, gunsmiths and engineers have created a large array of supporting stabilization over the years. From the humble [[srd/pf2e/compendium/equipment/adventuring-gear/tripod|tripod]] to more elaborate arrays like the gunner's saddle, these tools can be an invaluable part of any gunner's loadout.
+The ferocious kickback of firearms is part of the functionality that makes them so appealing as weapons, but it can also present a barrier in wielding them effectively. To increase the functionality of firearms and make them more accessible to a wider audience, gunsmiths and engineers have created a large array of supporting stabilization over the years. From the humble [[srd/pf2e/compendium/equipment/adventuring-gear/Tripod|tripod]] to more elaborate arrays like the gunner's saddle, these tools can be an invaluable part of any gunner's loadout.
 
 ## Other Modifications
 

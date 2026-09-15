@@ -17,9 +17,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Mythic`  `Spellshape`  `Metamagic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wildspell|Wildspell]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wildspell|Wildspell]]
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/wildspell-dedication|Wildspell Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Wildspell Dedication|Wildspell Dedication]]
 
 You overload your minor spells to give them greater effect. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]. If the next action you use is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]], that spell is heightened to the highest spell rank that you can cast. Any spell attack roll is made with mythic proficiency, and the spell’s DC is calculated with mythic proficiency. The spell slot used to cast the spell isn’t changed.
 

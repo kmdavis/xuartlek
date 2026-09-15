@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Sorcerer
 
-At 2nd level and every even-numbered level thereafter, you gain a sorcerer class feat.
+At 2nd level and every even-numbered level thereafter, you gain a [sorcerer class feat](https://2e.aonprd.com/Feats.aspx?Traits=148).
 
 *Source: Player Core 2 p. 144*

@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/chronoskimmer|Chronoskimmer]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Chronoskimmer|Chronoskimmer]]
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/chronoskimmer-dedication|Chronoskimmer Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Chronoskimmer Dedication|Chronoskimmer Dedication]]
 
-You reach into another creature's timeline and attempt to alter their flow of time. Select a creature within 30 feet. That creature attempts a Fortitude saving throw against your chronoskimmer DC. The creature takes the effects of [[srd/pf2e/compendium/spells/rank-3/slow|_slow_]] based on the result of its saving throw.
+You reach into another creature's timeline and attempt to alter their flow of time. Select a creature within 30 feet. That creature attempts a Fortitude saving throw against your chronoskimmer DC. The creature takes the effects of [[srd/pf2e/compendium/spells/rank-3/Slow|_slow_]] based on the result of its saving throw.
 
 *Source: Dark Archives (Remastered) p. 186*

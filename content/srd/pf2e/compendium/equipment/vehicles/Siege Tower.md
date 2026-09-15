@@ -26,7 +26,7 @@ The siege tower uses pushed propulsion, which uses the same rules as pulled.
 
 **Passengers** 40
 
-**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] (DC 21), [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] (DC 21), or Warfare Lore (DC 19)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] (DC 21), [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] (DC 21), or Warfare Lore (DC 19)
 
 ---
 

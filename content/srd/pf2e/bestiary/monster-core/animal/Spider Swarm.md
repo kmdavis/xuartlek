@@ -30,7 +30,7 @@ perception:
     desc: "+4; darkvision, web sense"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +2, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +2, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +5"
 abilityMods: [-2, 3, 0, -5, 0, -4]
 abilities_top:
   - name: "Web Sense"
@@ -42,19 +42,19 @@ armorclass:
 hp: 12
 health:
   - name: "HP"
-    desc: "12; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]], precision, [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]], swarm mind; __Resistances__ bludgeoning 2, piercing 5, slashing 5; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
+    desc: "12; __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]], precision, [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]], [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]], swarm mind; __Resistances__ bludgeoning 2, piercing 5, slashing 5; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 5"
 speed: "20 feet, climb 20 feet"
 abilities_bot:
   - name: "Swarming Bites"
     desc: "⬻ Each enemy in the spider swarm's space takes 1d4 piercing damage with a DC 14 basic Reflex save. A creature that fails its save is exposed to spider swarm venom."
   - name: "Spider Swarm Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 14 Fortitude"
   - name: "Maximum Duration"
     desc: "4 rounds"
   - name: "Stage 1"
-    desc: "1 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] (1 round)"
+    desc: "1 poison damage and [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled 1]] (1 round)"
   - name: "Stage 2"
     desc: "1d4 poison damage and enfeebled 1 (1 round)"
 sourcebook: "_Monster Core_, page 320."

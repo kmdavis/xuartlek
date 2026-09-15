@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Trigger**: An enemy critically misses a Strike or spell attack roll against your AC.
 
-You make a foe pay for attacking you as its blow or spell glances off your armor. Either Strike the triggering enemy or Stride up to your Speed toward the triggering enemy. If you Stride and end your movement adjacent to the triggering enemy, it's [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the end of your next turn.
+You make a foe pay for attacking you as its blow or spell glances off your armor. Either Strike the triggering enemy or Stride up to your Speed toward the triggering enemy. If you Stride and end your movement adjacent to the triggering enemy, it's [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] until the end of your next turn.
 
 *Source: Battlecry! p. 48*

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Orc`
 
-You have an impressive innate ability to tame and command ferocious beasts. You become trained in the [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] skill and gain your choice of the [[srd/pf2e/compendium/feats/player-core/general/pet|Pet]] general feat or the Train Animal skill feat.
+You have an impressive innate ability to tame and command ferocious beasts. You become trained in the [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] skill and gain your choice of the [[srd/pf2e/compendium/feats/player-core/general/Pet|Pet]] general feat or the Train Animal skill feat.
 
 *Source: Player Core p. 72*

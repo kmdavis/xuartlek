@@ -17,11 +17,11 @@ socialImage: og-image.png
 `Archetype`  `Magical`  `Teleportation`
 
 - **PFS Note**: The Spellshot archetype’s Call Gun action can only be used on a gun in the character’s possession.
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/spellshot|Spellshot]], [[srd/pf2e/compendium/character/archetypes/beast-gunner|Beast Gunner]] (Level 8)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/spellshot-dedication|Spellshot Dedication]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Spellshot|Spellshot]], [[srd/pf2e/compendium/character/archetypes/Beast Gunner|Beast Gunner]] (Level 8)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Spellshot Dedication|Spellshot Dedication]]
 
 You build a powerful magical connection with a chosen gun or crossbow, gaining the ability to conjure it directly to your hand from any distant location. During your daily preparations, choose a single crossbow or firearm. Until your next daily preparations, you can use the Call Gun action to call the gun to your hand.
 
- **Call Gun** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]]) **Effect** You hold aloft a free hand and call the firearm or crossbow you chose during your daily preparations into your hand. As long as the weapon you chose is on the same plane, it appears in your hand.
+ **Call Gun** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]]) **Effect** You hold aloft a free hand and call the firearm or crossbow you chose during your daily preparations into your hand. As long as the weapon you chose is on the same plane, it appears in your hand.
 
 *Source: Guns & Gears (Remastered) p. 141*

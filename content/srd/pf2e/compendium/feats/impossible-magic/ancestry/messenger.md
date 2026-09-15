@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Automaton`
 
-You were built with a special ability to relay private messages to your fellow automatons, but you can luckily use it with anyone you would like. You gain [[srd/pf2e/compendium/spells/cantrips/message|_message_]] as an [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Innate Spells|innate]] arcane cantrip.
+You were built with a special ability to relay private messages to your fellow automatons, but you can luckily use it with anyone you would like. You gain [[srd/pf2e/compendium/spells/cantrips/Message|_message_]] as an [[srd/pf2e/books/gm-core/chapter-2-building-games/Building Creatures#Innate Spells|innate]] [arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1) cantrip.
 
 **Enhancement** You can target up to five creatures at once when you cast _message_.
 

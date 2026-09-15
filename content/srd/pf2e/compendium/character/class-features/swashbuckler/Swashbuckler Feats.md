@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Swashbuckler
 
-At 1st level and every even-numbered level, you gain a swashbuckler class feat.
+At 1st level and every even-numbered level, you gain a [swashbuckler class feat](https://2e.aonprd.com/Feats.aspx?Traits=321).
 
 *Source: Player Core 2 p. 158*

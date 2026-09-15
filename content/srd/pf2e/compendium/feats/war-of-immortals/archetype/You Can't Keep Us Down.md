@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Healing`  `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/broken-chain|Broken Chain]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Broken Chain|Broken Chain]]
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/broken-chain-dedication|Broken Chain Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Broken Chain Dedication|Broken Chain Dedication]]
 
-Seeing your allies falter, you fill their hearts with your unbreakable hope, rousing them to stay in the fight. All allies within 60 feet that are [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]], or [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] and [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]], are healed a number of Hit Points equal to three times your level. Then, all allies within 60 feet that are [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] may stand up as a free action that does not provoke reactions.
+Seeing your allies falter, you fill their hearts with your unbreakable hope, rousing them to stay in the fight. All allies within 60 feet that are [[srd/pf2e/compendium/rules-elements/Conditions#Dying|dying]], or [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]] and [[srd/pf2e/compendium/rules-elements/Conditions#Wounded|wounded]], are healed a number of Hit Points equal to three times your level. Then, all allies within 60 feet that are [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] may stand up as a free action that does not provoke reactions.
 
 *Source: War of Immortals p. 124*

@@ -20,12 +20,12 @@ socialImage: og-image.png
 
 `Attack`  `Cleric`  `Cold`  `Concentrate`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Cold|Cold]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Cold|Cold]]
 - **Range**: 60 feet
 - **Target**: 1 creature
 - **Defense**: AC
 
-You fling a hollow icicle filled with winter’s wrath. Make a [[srd/pf2e/books/player-core/chapter-7-spells/spell-attacks|spell attack]] against the target’s AC. The bolt deals 1d8 piercing damage and lodges in the target. At the end of the target’s next turn, the bolt shatters, releasing a whirl of snow and ice that deals 1d12 [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] damage to the target and all adjacent creatures. The bolt can be removed with an Interact action, which causes it to melt harmlessly without detonating.
+You fling a hollow icicle filled with winter’s wrath. Make a [[srd/pf2e/books/player-core/chapter-7-spells/Spell Attacks|spell attack]] against the target’s AC. The bolt deals 1d8 piercing damage and lodges in the target. At the end of the target’s next turn, the bolt shatters, releasing a whirl of snow and ice that deals 1d12 [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]] damage to the target and all adjacent creatures. The bolt can be removed with an Interact action, which causes it to melt harmlessly without detonating.
 
 **Critical Success** The initial bolt deals full damage and is especially well anchored, taking 2 [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] actions to remove. The bolt’s explosion deals double damage.
 

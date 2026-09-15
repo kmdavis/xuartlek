@@ -18,7 +18,7 @@ socialImage: og-image.png
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 
-A _composer staff_ is short and shaped like an elegant black conductor's baton with a silver tip. When waved through the air, it hums melodically. In this way, you can play it as though it were an instrument, and it grants a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks made with it.
+A _composer staff_ is short and shaped like an elegant black conductor's baton with a silver tip. When waved through the air, it hums melodically. In this way, you can play it as though it were an instrument, and it grants a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] checks made with it.
 
 **Activate** Cast a Spell; **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
@@ -42,7 +42,7 @@ A _composer staff_ is short and shaped like an elegant black conductor's baton w
 
 ---
 
-**2nd** _sonata span_**3rd** [[srd/pf2e/compendium/spells/rank-1/concordant-choir|_concordant choir_]], [[srd/pf2e/compendium/spells/rank-3/enthrall|_enthrall_]], _roaring applause_
+**2nd** _sonata span_**3rd** [[srd/pf2e/compendium/spells/rank-1/Concordant Choir|_concordant choir_]], [[srd/pf2e/compendium/spells/rank-3/Enthrall|_enthrall_]], _roaring applause_
 
 ### Composer Staff (Major)
 
@@ -53,6 +53,6 @@ A _composer staff_ is short and shaped like an elegant black conductor's baton w
 ---
 
 The item bonus is +2.
-**4th** _ infectious melody_**5th** [[srd/pf2e/compendium/spells/rank-1/concordant-choir|_concordant choir_]], [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]
+**4th** _ infectious melody_**5th** [[srd/pf2e/compendium/spells/rank-1/Concordant Choir|_concordant choir_]], [[srd/pf2e/compendium/spells/rank-5/Truespeech|_truespeech_]]
 
 *Source: Treasure Vault (Remastered) p. 131*

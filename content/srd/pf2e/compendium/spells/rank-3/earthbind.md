@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Earth`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/queens-of-the-night/doloras|Doloras]], [[srd/pf2e/compendium/deities/orc-gods/jukha|Jukha]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/torag|Torag]], [[srd/pf2e/compendium/deities/covenants/treasures-of-the-eternal-delve|Treasures of the Eternal Delve]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/queens-of-the-night/Doloras|Doloras]], [[srd/pf2e/compendium/deities/orc-gods/Jukha|Jukha]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Torag|Torag]], [[srd/pf2e/compendium/deities/covenants/Treasures of the Eternal Delve|Treasures of the Eternal Delve]]
 - **Range**: 120 feet
 - **Target**: 1 flying creature
 - **Defense**: Fortitude

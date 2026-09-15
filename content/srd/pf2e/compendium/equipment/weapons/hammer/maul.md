@@ -14,14 +14,14 @@ socialImage: og-image.png
 
 `Shove`
 
-- **Favored Weapon**: Belech, [[srd/pf2e/compendium/deities/other-gods/the-devourer|The Devourer]], Uvuko
+- **Favored Weapon**: Belech, [[srd/pf2e/compendium/deities/other-gods/The Devourer|The Devourer]], Uvuko
 - **Price**: 3 gp
 - **Damage**: 1d12 B
 - **Bulk**: 2
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Hammer
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Hammer|Hammer]]
 
 Mauls are massive warhammers that must be swung with two hands.
 
@@ -31,6 +31,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/catoblepas-maul|Catoblepas Maul]], [[srd/pf2e/compendium/equipment/weapons/glacier-hammer|Glacier Hammer]], [[srd/pf2e/compendium/equipment/weapons/jistkan-colossus-crusher|Jistkan Colossus Crusher]], Temperbrand
+[[srd/pf2e/compendium/equipment/weapons/Catoblepas Maul|Catoblepas Maul]], [[srd/pf2e/compendium/equipment/weapons/Glacier Hammer|Glacier Hammer]], [[srd/pf2e/compendium/equipment/weapons/Jistkan Colossus Crusher|Jistkan Colossus Crusher]], Temperbrand
 
 *Source: Player Core p. 278*

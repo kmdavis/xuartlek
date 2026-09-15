@@ -22,6 +22,6 @@ If you swap or retrain this cantrip later, you can choose its replacement from t
 
 ### Adapted Cantrip leads to...
 
-[[srd/pf2e/compendium/feats/player-core/ancestry/adaptive-adept|Adaptive Adept]]
+[[srd/pf2e/compendium/feats/player-core/ancestry/Adaptive Adept|Adaptive Adept]]
 
 *Source: Player Core p. 63*

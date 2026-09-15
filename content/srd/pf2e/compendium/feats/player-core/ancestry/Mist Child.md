@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Changeling`
 
-You blend in with unnatural subtlety. When you are [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] or [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], increase the DC of the flat check to target you to 6 if you’re concealed or 12 if you’re hidden.
+You blend in with unnatural subtlety. When you are [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]], increase the DC of the flat check to target you to 6 if you’re concealed or 12 if you’re hidden.
 
 *Source: Player Core p. 77*

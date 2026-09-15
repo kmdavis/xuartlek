@@ -20,6 +20,6 @@ socialImage: og-image.png
 
 - **Frequency**: once per day
 
-The powers of creation that run through you allow you to conjure a temporary wall. You create a wall of dirt with the effects of [[srd/pf2e/compendium/spells/rank-5/wall-of-stone|_wall of stone_]] with the following exceptions. The wall can be up to 60 feet long and 10 feet high and must stand vertically, preventing you from building other structures with it. Each 10-foot-by- 10-foot section of the wall has AC 10, Hardness 10, and 20 Hit Points. The wall remains for 1 hour or until [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismissed]].
+The powers of creation that run through you allow you to conjure a temporary wall. You create a wall of dirt with the effects of [[srd/pf2e/compendium/spells/rank-5/Wall of Stone|_wall of stone_]] with the following exceptions. The wall can be up to 60 feet long and 10 feet high and must stand vertically, preventing you from building other structures with it. Each 10-foot-by- 10-foot section of the wall has AC 10, Hardness 10, and 20 Hit Points. The wall remains for 1 hour or until [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismissed]].
 
 *Source: Battlecry! p. 14*

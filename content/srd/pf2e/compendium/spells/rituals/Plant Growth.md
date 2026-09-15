@@ -20,7 +20,7 @@ socialImage: og-image.png
 
 - **Cast**: 1 day
 - **Secondary Casters**: 1
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] (expert)
 - **Secondary Checks**: Farming Lore or Survival
 - **Area**: 1/2-mile-radius circle centered on you
 - **Duration**: 1 year

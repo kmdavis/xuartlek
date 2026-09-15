@@ -26,7 +26,7 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Dart
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Dart|Dart]]
 
 A deceptively simple weapon made from a length of cord attached to a weighted, conical metal spike. A rope dart can be whirled and manipulated at great speeds to attack in unexpected ways and from unexpected angles.
 

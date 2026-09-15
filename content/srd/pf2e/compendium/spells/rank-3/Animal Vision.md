@@ -16,13 +16,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Mental`
 
-- **Tradition**: Primal
-- **Deities**: Baekho, Bastet, [[srd/pf2e/compendium/deities/dead-or-missing-deities/isis|Isis]], [[srd/pf2e/compendium/deities/elven-gods/ketephys|Ketephys]], Tanagaar
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Baekho, Bastet, [[srd/pf2e/compendium/deities/dead-or-missing-deities/Isis|Isis]], [[srd/pf2e/compendium/deities/elven-gods/Ketephys|Ketephys]], Tanagaar
 - **Cast**: 1 minute
 - **Range**: 120 Feet
 - **Target**: 1 animal
 - **Duration**: 1 hour
 
-You tap into the target's senses, allowing you to sense whatever it senses for the spell's duration. If the target wishes to prevent you from doing so, it can attempt a Will save, negating the spell on a success, but most [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]] don't bother to do so. While tapping into the target's senses, you can't use your own body's senses, but you can change back and forth from your body's senses to the target's senses using a [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] action.
+You tap into the target's senses, allowing you to sense whatever it senses for the spell's duration. If the target wishes to prevent you from doing so, it can attempt a Will save, negating the spell on a success, but most [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animals]] don't bother to do so. While tapping into the target's senses, you can't use your own body's senses, but you can change back and forth from your body's senses to the target's senses using a [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] action.
 
 *Source: Player Core 2 p. 240*

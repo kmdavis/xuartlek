@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/marshal|Marshal]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/marshal-dedication|Marshal Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Marshal|Marshal]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Marshal Dedication|Marshal Dedication]]
 
-You excel at watching your allies’ backs and helping them watch yours. Any ally adjacent to you can’t be [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] due to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Flanking|flanking]] unless you’re also flanked. Similarly, while you’re adjacent to at least one ally, you can’t be off-guard due to flanking unless at least one ally you’re adjacent to is flanked as well.
+You excel at watching your allies’ backs and helping them watch yours. Any ally adjacent to you can’t be [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] due to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Flanking|flanking]] unless you’re also flanked. Similarly, while you’re adjacent to at least one ally, you can’t be off-guard due to flanking unless at least one ally you’re adjacent to is flanked as well.
 
 *Source: Player Core 2 p. 205*

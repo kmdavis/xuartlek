@@ -17,10 +17,10 @@ socialImage: og-image.png
 
 - **Prerequisites**: bloodline that grants primal spells
 
-You can call upon the creatures of the wild for aid. You gain an additional spell slot of your highest rank, which you can use only to cast [[srd/pf2e/compendium/spells/rank-1/summon-animal|_summon animal_]] or [[srd/pf2e/compendium/spells/rank-1/summon-plant-or-fungus|_summon plant or fungus_]]. You can cast either of these spells using that spell slot, even if they aren't in your spell repertoire.
+You can call upon the creatures of the wild for aid. You gain an additional spell slot of your highest rank, which you can use only to cast [[srd/pf2e/compendium/spells/rank-1/Summon Animal|_summon animal_]] or [[srd/pf2e/compendium/spells/rank-1/Summon Plant or Fungus|_summon plant or fungus_]]. You can cast either of these spells using that spell slot, even if they aren't in your spell repertoire.
 
 ### Primal Evolution leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/greater-physical-evolution|Greater Physical Evolution]], [[srd/pf2e/compendium/feats/player-core-2/class/greater-vital-evolution|Greater Vital Evolution]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Greater Physical Evolution|Greater Physical Evolution]], [[srd/pf2e/compendium/feats/player-core-2/class/Greater Vital Evolution|Greater Vital Evolution]]
 
 *Source: Player Core 2 p. 153*

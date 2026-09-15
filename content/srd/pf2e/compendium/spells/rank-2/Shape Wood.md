@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: Hearth and Harvest, [[srd/pf2e/compendium/deities/pantheons/sovyrian-conclave|Sovyrian Conclave]], [[srd/pf2e/compendium/deities/elven-gods/yuelral|Yuelral]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Hearth and Harvest, [[srd/pf2e/compendium/deities/pantheons/Sovyrian Conclave|Sovyrian Conclave]], [[srd/pf2e/compendium/deities/elven-gods/Yuelral|Yuelral]]
 - **Range**: touch
 - **Target**: an unworked piece of wood up to 20 cubic feet in volume
 

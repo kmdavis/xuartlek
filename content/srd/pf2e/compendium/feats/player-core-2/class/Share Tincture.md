@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Investigator`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/methodologies#Alchemical Sciences|alchemical sciences methodology]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Methodologies#Alchemical Sciences|alchemical sciences methodology]]
 
 You use [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Quick Tincture|Quick Tincture]], and the item you create remains potent until the start of your next turn. Then you can Interact to pass the item to another creature. If you pass it by throwing it, your ranged attack automatically succeeds. You must have a versatile vial to use Quick Tincture, as normal.
 

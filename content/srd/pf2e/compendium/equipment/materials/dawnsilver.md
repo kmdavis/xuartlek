@@ -23,11 +23,11 @@ Dawnsilver is renowned for its lightness, durability, and effectiveness against 
 
 #### Material Uses
 
-[[srd/pf2e/compendium/equipment/armor/dawnsilver-armor|Dawnsilver Armor]]
+[[srd/pf2e/compendium/equipment/armor/Dawnsilver Armor|Dawnsilver Armor]]
 
-[[srd/pf2e/compendium/equipment/shields/dawnsilver-shield|Dawnsilver Shield]]
+[[srd/pf2e/compendium/equipment/shields/Dawnsilver Shield|Dawnsilver Shield]]
 
-[[srd/pf2e/compendium/equipment/weapons/dawnsilver-weapon|Dawnsilver Weapon]]
+[[srd/pf2e/compendium/equipment/weapons/Dawnsilver Weapon|Dawnsilver Weapon]]
 
 ### Dawnsilver Chunk
 

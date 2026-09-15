@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: pursue your personal freedom, seek hedonistic thrills, take revenge
 - **Anathema**: become too consumed by love or a need for revenge, let a slight go unanswered
 - **Area of Concern**: lust, revenge, and trickery
-- **Pantheons**: Elven Pantheon, [[srd/pf2e/compendium/deities/pantheons/sovyrian-conclave|Sovyrian Conclave]], The Last Breath, The Tides of Chaos
+- **Pantheons**: Elven Pantheon, [[srd/pf2e/compendium/deities/pantheons/Sovyrian Conclave|Sovyrian Conclave]], The Last Breath, The Tides of Chaos
 
 ### Devotee Benefits
 
@@ -25,24 +25,24 @@ Dexterity or Charisma
 
 **Divine Sanctification** can choose holy or unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/whip|Whip]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/Whip|Whip]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Pain|Pain]], [[srd/pf2e/compendium/character/domains#Passion|Passion]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Pain|Pain]], [[srd/pf2e/compendium/character/Domains#Passion|Passion]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/charm|Charm]]
+[[srd/pf2e/compendium/spells/rank-1/Charm|Charm]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/enthrall|Enthrall]]
+[[srd/pf2e/compendium/spells/rank-3/Enthrall|Enthrall]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/mislead|Mislead]]
+[[srd/pf2e/compendium/spells/rank-6/Mislead|Mislead]]
 
 ### Divine Intercession
 
@@ -50,7 +50,7 @@ Signs of favor or displeasure from the Savored Sting are sometimes subtle and at
 
 **Minor Boon** Calistria smiles on the riskiest deceptions. Once, when you roll a failure on a check to Lie, you get a critical success instead. Calistria typically grants this boon for an extremely consequential lie.
 
-**Moderate Boon** A foot-long wasp finds and befriends you. It serves you as a [[srd/pf2e/compendium/character/familiar-abilities|familiar]] as long as you maintain Calistria’s grace. The wasp always has the burrower and flier familiar abilities.
+**Moderate Boon** A foot-long wasp finds and befriends you. It serves you as a [[srd/pf2e/compendium/character/Familiar Abilities|familiar]] as long as you maintain Calistria’s grace. The wasp always has the burrower and flier familiar abilities.
 
 **Major Boon** Calistria guides you towards vengeance. You always know the direction and distance towards the nearest creature that has wronged you and thus far gone unpunished.
 

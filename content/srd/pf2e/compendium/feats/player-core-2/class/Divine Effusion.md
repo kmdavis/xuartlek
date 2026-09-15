@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Oracle`
 
-The power of your mystery surges through you like a font of [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] energy, even when your own magic dwindles. Twice per day, you can cast a spell after you've run out of spell slots of the appropriate spell rank; the two spells you cast with this feat must be of different spell ranks.
+The power of your mystery surges through you like a font of [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]] energy, even when your own magic dwindles. Twice per day, you can cast a spell after you've run out of spell slots of the appropriate spell rank; the two spells you cast with this feat must be of different spell ranks.
 
 *Source: Player Core 2 p. 143*

@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 - **Frequency**: once per 10 minutes
 
-You can conjure up at will the kind of strength that most beings only attain in life-or-death situations. You can attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grab]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] a creature using a spell attack roll instead of an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check. 
+You can conjure up at will the kind of strength that most beings only attain in life-or-death situations. You can attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grab]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] a creature using a spell attack roll instead of an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check. 
 
 You can recharge this ability early by making an unarmed Strike to destroy one of your thralls within your reach.
 

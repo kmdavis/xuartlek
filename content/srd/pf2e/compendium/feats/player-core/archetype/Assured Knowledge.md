@@ -18,12 +18,12 @@ socialImage: og-image.png
 - **Archetype**: Loremaster (Level 8)
 - **Prerequisites**: enigma muse
 
-You can procure information with confidence. Whenever you [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] using any skill (including [[srd/pf2e/compendium/feats/player-core/class/bardic-lore|Bardic Lore]]), you can forgo rolling your check to instead receive a result of 10 + your proficiency bonus (don’t apply any other bonuses, penalties, or modifiers).
+You can procure information with confidence. Whenever you [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] using any skill (including [[srd/pf2e/compendium/feats/player-core/class/Bardic Lore|Bardic Lore]]), you can forgo rolling your check to instead receive a result of 10 + your proficiency bonus (don’t apply any other bonuses, penalties, or modifiers).
 
-As long as you are an expert in a skill, you meet the prerequisites for the [[srd/pf2e/compendium/feats/player-core/skill/automatic-knowledge|Automatic Knowledge]] skill feat for that skill, even if you don’t have the [[srd/pf2e/compendium/feats/player-core/skill/assurance|Assurance]] feat for that skill.
+As long as you are an expert in a skill, you meet the prerequisites for the [[srd/pf2e/compendium/feats/player-core/skill/Automatic Knowledge|Automatic Knowledge]] skill feat for that skill, even if you don’t have the [[srd/pf2e/compendium/feats/player-core/skill/Assurance|Assurance]] feat for that skill.
 
 ### Assured Knowledge leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/enigmas-knowledge|Enigma's Knowledge]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Enigma's Knowledge|Enigma's Knowledge]]
 
 *Source: Player Core p. 103*

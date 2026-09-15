@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Occult, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/other-gods/ah-pook|Ah Pook]], [[srd/pf2e/compendium/deities/orc-gods/nulgreth|Nulgreth]]
+- **Traditions**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/Ah Pook|Ah Pook]], [[srd/pf2e/compendium/deities/orc-gods/Nulgreth|Nulgreth]]
 - **Duration**: 1 hour
 
 You sigh, and your breath transforms into delicate, black-winged butterflies and huge death's-head hawkmoths. They flutter about you briefly, and then range forth in search of sustenance—fresh-spilled blood, by preference, but rotting corpses, flowering plants, or even left-behind food will do in a pinch. They then return, perching on your hair or shoulders and whispering their secrets into your ears. This has three effects. 

@@ -24,9 +24,9 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Hammer
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Hammer|Hammer]]
 
-This [[srd/pf2e/compendium/character/ancestries/gnome|gnome]] tool and weapon features a hammer at one end and a curved pick on the other. It's such a strange and awkward weapon that others think the gnomes are slightly erratic for using it.
+This [[srd/pf2e/compendium/character/ancestries/Gnome|gnome]] tool and weapon features a hammer at one end and a curved pick on the other. It's such a strange and awkward weapon that others think the gnomes are slightly erratic for using it.
 
 ### Critical Specialization Effects
 

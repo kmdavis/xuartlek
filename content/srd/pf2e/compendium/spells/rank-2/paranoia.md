@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Illusion`  `Manipulate`  `Mental`
 
-- **Tradition**: Occult
-- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/gyronna|Gyronna]], Imot, Ongalte, [[srd/pf2e/compendium/deities/azlanti-pantheon/ulon|Ulon]]
+- **Tradition**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/Gyronna|Gyronna]], Imot, Ongalte, [[srd/pf2e/compendium/deities/azlanti-pantheon/Ulon|Ulon]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will
@@ -28,7 +28,7 @@ You cause the target to see all other creatures as dire threats. The target is s
 
 **Critical Success** The target is unaffected.
 
-**Success** The target believes everyone it sees is a potential threat. It becomes [[srd/pf2e/compendium/rules-elements/conditions#Unfriendly|unfriendly]] to all creatures to which it wasn't already [[srd/pf2e/compendium/rules-elements/conditions#Hostile|hostile]], even those that were previously allies. It treats no one as an ally. The spell ends after 1 round.
+**Success** The target believes everyone it sees is a potential threat. It becomes [[srd/pf2e/compendium/rules-elements/Conditions#Unfriendly|unfriendly]] to all creatures to which it wasn't already [[srd/pf2e/compendium/rules-elements/Conditions#Hostile|hostile]], even those that were previously allies. It treats no one as an ally. The spell ends after 1 round.
 
 **Failure** As success, but the effect lasts 1 minute.
 

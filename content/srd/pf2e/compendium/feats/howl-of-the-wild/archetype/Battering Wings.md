@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/winged-warrior|Winged Warrior]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/winged-warrior-dedication|Winged Warrior Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Winged Warrior|Winged Warrior]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Winged Warrior Dedication|Winged Warrior Dedication]]
 
-Though not powerful enough for flight, your wings can deliver a thrashing to anyone who gets close. You gain a wing unarmed attack that deals 1d4 bludgeoning damage. Your wing attack is in the brawling group and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] traits.
+Though not powerful enough for flight, your wings can deliver a thrashing to anyone who gets close. You gain a wing unarmed attack that deals 1d4 bludgeoning damage. Your wing attack is in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] traits.
 
 *Source: Howl of the Wild p. 82*

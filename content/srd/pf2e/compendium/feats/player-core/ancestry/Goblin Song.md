@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Goblin`
 
-You sing annoying goblin songs, distracting your foes with silly and repetitive lyrics. Attempt a [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check against the Will DC of a single enemy within 30 feet. This has all the usual traits and restrictions of a [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check to sing.
+You sing annoying goblin songs, distracting your foes with silly and repetitive lyrics. Attempt a [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] check against the Will DC of a single enemy within 30 feet. This has all the usual traits and restrictions of a [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] check to sing.
 
 You can affect up to two targets within range if you have expert proficiency in Performance, four if you have master proficiency, and eight if you have legendary proficiency.
 
@@ -26,6 +26,6 @@ You can affect up to two targets within range if you have expert proficiency in 
 
 ### Goblin Song leads to...
 
-[[srd/pf2e/compendium/feats/player-core/ancestry/loud-singer|Loud Singer]]
+[[srd/pf2e/compendium/feats/player-core/ancestry/Loud Singer|Loud Singer]]
 
 *Source: Player Core p. 56*

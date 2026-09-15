@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Commander
 
-At 1st level and every even-numbered level, you gain a commander class feat.
+At 1st level and every even-numbered level, you gain a [commander class feat](https://2e.aonprd.com/Feats.aspx?Traits=855).
 
 *Source: Battlecry! p. 21*

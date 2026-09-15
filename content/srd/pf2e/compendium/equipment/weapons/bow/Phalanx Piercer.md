@@ -26,10 +26,10 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Advanced
-- **Group**: Bow
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/bow/bolts-phalanx-piercer|Bolts (Phalanx Piercer)]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bow|Bow]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/bow/Bolts (Phalanx Piercer)|Bolts (Phalanx Piercer)]]
 
-This massive bow is made from bone or wood reinforced with flexible metal strips and strung with reinforced cord. Designed by [[srd/pf2e/compendium/character/ancestries/hobgoblin|hobgoblin]] engineers to take down shielded opponents, the phalanx piercer fires heavy, iron-shod bolts.
+This massive bow is made from bone or wood reinforced with flexible metal strips and strung with reinforced cord. Designed by [[srd/pf2e/compendium/character/ancestries/Hobgoblin|hobgoblin]] engineers to take down shielded opponents, the phalanx piercer fires heavy, iron-shod bolts.
 
 ### Critical Specialization Effects
 

@@ -18,7 +18,7 @@ socialImage: og-image.png
 - **Cast**: 1 day
 - **Cost**: 3 drops of fresh water taken from a naturally occurring lake within 1, 000 miles of the ritual site
 - **Secondary Casters**: 1
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] (expert)
 - **Secondary Checks**: Nature or Survival
 - **Area**: 10-foot burst
 - **Duration**: 1 year

@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Electricity`  `Manipulate`  `Metal`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/daemon-harbingers/cixyron|Cixyron]], [[srd/pf2e/compendium/deities/elemental-lords/ferrumnestra|Ferrumnestra]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/daemon-harbingers/Cixyron|Cixyron]], [[srd/pf2e/compendium/deities/elemental-lords/Ferrumnestra|Ferrumnestra]]
 - **Range**: touch
 - **Target**: 1 metal weapon that is unattended or attended by a willing creature
 - **Duration**: 1 minute

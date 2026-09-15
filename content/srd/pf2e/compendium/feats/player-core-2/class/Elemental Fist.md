@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Monk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/spells/focus/inner-upheaval|_Inner Upheaval_]]
+- **Prerequisites**: [[srd/pf2e/compendium/spells/focus/Inner Upheaval|_Inner Upheaval_]]
 
 You can color your qi in bright elemental energy. When you cast _inner upheaval_, in addition to the damage types normally available, you can deliver the extra damage with elemental magic, adding the element's trait and changing the damage type to the listed one: **air** electricity (sparking gust), **earth** bludgeoning (chunk of stone), **fire** fire (flickering flame), **metal** slashing (flying metal shards), **water** cold (wave of frigid water), or **wood** bludgeoning (pummeling pine cones).
 

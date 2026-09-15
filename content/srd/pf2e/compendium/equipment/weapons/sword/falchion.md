@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Forceful`  `Sweep`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/sakhil-tormentors/charg|Charg]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu]], [[srd/pf2e/compendium/deities/empyreal-lords/reymenda|Reymenda]], [[srd/pf2e/compendium/deities/orc-gods/rull|Rull]], Sobek
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/sakhil-tormentors/Charg|Charg]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Lamashtu|Lamashtu]], [[srd/pf2e/compendium/deities/empyreal-lords/Reymenda|Reymenda]], [[srd/pf2e/compendium/deities/orc-gods/Rull|Rull]], Sobek
 - **Price**: 3 gp
 - **Damage**: 1d10 S
 - **Bulk**: 2
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 This weapon is a heavier, two-handed version of the curved-bladed scimitar. It is weighted toward the blade's end, making it a powerful slashing weapon.
 

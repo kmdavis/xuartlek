@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Attack`  `Concentrate`  `Focus`  `Manipulate`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Demonic|Demonic]]
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Demonic|Demonic]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: AC

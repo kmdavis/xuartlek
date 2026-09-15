@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/thlipit-contestant|Thlipit Contestant]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/thlipit-contestant-dedication|Thlipit Contestant Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Thlipit Contestant|Thlipit Contestant]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Thlipit Contestant Dedication|Thlipit Contestant Dedication]]
 
 You've honed your reflexes so well that your lash can begin closing around a target as soon as it makes contact. Make a lash Strike; if the Strike hits, you can immediately attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] the target. Both actions count toward your multiple attack penalty, but don't increase your penalty until you've made both attacks.
 

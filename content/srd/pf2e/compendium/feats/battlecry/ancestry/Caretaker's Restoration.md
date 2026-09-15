@@ -15,12 +15,12 @@ socialImage: og-image.png
 `Jotunborn`
 
 - **Frequency**: once per day
-- **Trigger**: An item you’re holding, wearing, or wielding becomes [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]] but not destroyed.
+- **Trigger**: An item you’re holding, wearing, or wielding becomes [[srd/pf2e/compendium/rules-elements/Conditions#Broken|broken]] but not destroyed.
 
 The stewarding abilities of your forebears allows you to repair objects important to you. The triggering item is restored to a number of Hit Points that is 1 higher than its Broken Threshold. For example, a steel shield with a Broken Threshold of 10 is restored to 11 Hit Points.
 
 ### Caretaker's Restoration leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/ancestry/jotuns-restoration|Jotun's Restoration]]
+[[srd/pf2e/compendium/feats/battlecry/ancestry/Jotun's Restoration|Jotun's Restoration]]
 
 *Source: Battlecry! p. 13*

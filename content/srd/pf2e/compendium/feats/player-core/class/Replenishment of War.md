@@ -20,6 +20,6 @@ Striking out against your enemies draws praise and protection from your deity. W
 
 ### Replenishment of War leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/shared-replenishment|Shared Replenishment]]
+[[srd/pf2e/compendium/feats/player-core/class/Shared Replenishment|Shared Replenishment]]
 
 *Source: Player Core p. 118*

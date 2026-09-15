@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Diabolic|Diabolic]]
-- **Deities**: Khepri, Lubaiko, [[srd/pf2e/compendium/deities/demon-lords/nurgal|Nurgal]], Pharimia, [[srd/pf2e/compendium/deities/dead-or-missing-deities/ra|Ra]], The Path of the Heavens
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Diabolic|Diabolic]]
+- **Deities**: Khepri, Lubaiko, [[srd/pf2e/compendium/deities/demon-lords/Nurgal|Nurgal]], Pharimia, [[srd/pf2e/compendium/deities/dead-or-missing-deities/Ra|Ra]], The Path of the Heavens
 - **Range**: 30 feet
 - **Area**: 1 5-foot square
 - **Defense**: Reflex

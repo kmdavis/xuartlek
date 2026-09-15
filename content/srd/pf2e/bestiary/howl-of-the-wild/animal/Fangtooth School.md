@@ -32,11 +32,11 @@ perception:
     desc: "+11; low-light vision, scent (imprecise) 120 feet, wavesense (precise) 15 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +9, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +9, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +5"
 abilityMods: [-2, 3, 2, -5, 2, -3]
 abilities_top:
   - name: "Sunless Sight"
-    desc: "While in bright light, the fangtooth fish school is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] and [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]]."
+    desc: "While in bright light, the fangtooth fish school is [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] and [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed 1]]."
 ac: 18
 armorclass:
   - name: "AC"
@@ -44,7 +44,7 @@ armorclass:
 hp: 40
 health:
   - name: "HP"
-    desc: "40; __Immunities__ precision, swarm mind; __Resistances__ bludgeoning 5, piercing 2, slashing 5; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
+    desc: "40; __Immunities__ precision, swarm mind; __Resistances__ bludgeoning 5, piercing 2, slashing 5; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 5"
 speed: "swim 30 feet"
 abilities_bot:
   - name: "Bite and Gnaw"

@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Mythic`  `Spellshape`  `Metamagic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/apocalypse-rider|Apocalypse Rider]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/apocalypse-rider-dedication|Apocalypse Rider Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Apocalypse Rider|Apocalypse Rider]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Apocalypse Rider Dedication|Apocalypse Rider Dedication]]
 
 Your magic can bring devastation to more individuals. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]. If your next action is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] that inflicts damage or debilitating conditions and targets a specific number of creatures, you can target one additional creature.
 

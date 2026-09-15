@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Athamaru`  `Locathah`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/emit-defensive-odor|Emit Defensive Odor]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Emit Defensive Odor|Emit Defensive Odor]]
 
 Your supply of pheromones replenish very quickly. You can Emit Defensive Odor once per hour, rather than once per day.
 

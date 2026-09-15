@@ -14,6 +14,6 @@ Aesir are both warriors and monitors who constantly seek to sharpen their battle
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core-2/monitor/einherji|Einherji]] (Creature 10), [[srd/pf2e/bestiary/monster-core-2/monitor/valkyrie|Valkyrie]] (Creature 12)
+[[srd/pf2e/bestiary/monster-core-2/monitor/Einherji|Einherji]] (Creature 10), [[srd/pf2e/bestiary/monster-core-2/monitor/Valkyrie|Valkyrie]] (Creature 12)
 
 *Source: Monster Core 2 p. 14*

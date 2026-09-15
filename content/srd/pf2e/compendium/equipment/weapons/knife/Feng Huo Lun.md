@@ -1,7 +1,7 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/treasure-vault-remastered
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/agile
 - trait/disarm
 - trait/finesse
@@ -13,7 +13,7 @@ tags:
 - weapon/level/0
 aliases: ["Feng Huo Lun"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=283"
-source: "Treasure Vault (Remastered)"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -28,7 +28,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Advanced
-- **Group**: Knife
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Knife|Knife]]
 
 Also known as wind and fire wheels, these large, flat steel rings feature several protruding blades typically stylized to resemble flames.
 
@@ -38,6 +38,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Heavenly Rolling Flames
+[[srd/pf2e/compendium/equipment/weapons/Heavenly Rolling Flames|Heavenly Rolling Flames]]
 
-*Source: Treasure Vault (Remastered) p. 27*
+*Source: Tian Xia Character Guide p. 127*

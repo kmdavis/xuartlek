@@ -15,15 +15,15 @@ socialImage: og-image.png
 
 `Monk`  `Stance`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]] (Level 4), [[srd/pf2e/compendium/character/archetypes/wild-mimic|Wild Mimic]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Martial Artist|Martial Artist]] (Level 4), [[srd/pf2e/compendium/character/archetypes/Wild Mimic|Wild Mimic]] (Level 4)
 - **Requirements**: You are unarmored.
 
-You enter the stance of a wolf, low to the ground with your hands held like fangs. You can make wolf jaw unarmed attacks. These deal 1d8 piercing damage; are in the brawling group; and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/backstabber|backstabber]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] traits.
+You enter the stance of a wolf, low to the ground with your hands held like fangs. You can make wolf jaw unarmed attacks. These deal 1d8 piercing damage; are in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group; and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Backstabber|backstabber]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] traits.
 
- If you're flanking a target while in Wolf Stance, your wolf jaw unarmed attacks also gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|trip]] trait.
+ If you're flanking a target while in Wolf Stance, your wolf jaw unarmed attacks also gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip|trip]] trait.
 
 ### Wolf Stance leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/wolf-drag|Wolf Drag]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Wolf Drag|Wolf Drag]]
 
 *Source: Player Core 2 p. 119*

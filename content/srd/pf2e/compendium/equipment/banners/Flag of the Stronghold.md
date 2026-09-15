@@ -19,7 +19,7 @@ socialImage: og-image.png
 - **Usage**: affixed or held in 1 hand
 - **Bulk**: L
 
-This magical banner is off-white with a depiction of a stronghold that’s often colored in a striking blue. Those who stand under the banner are prepared to face the weapons of war and defend their keep until the end. You and allies within the banner’s aura gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance|resistance]] 5 to damage from siege weapons.
+This magical banner is off-white with a depiction of a stronghold that’s often colored in a striking blue. Those who stand under the banner are prepared to face the weapons of war and defend their keep until the end. You and allies within the banner’s aura gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance|resistance]] 5 to damage from siege weapons.
 
 ### Flag of the Stronghold
 

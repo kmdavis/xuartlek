@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Wood`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Duration**: 1 minute
 
-You utilize wood's rigidity to prevent harmful shapechanging effects. For the duration of this spell, whenever you're targeted by a harmful [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] effect, you can use your reaction to attempt to counteract the effect.
+You utilize wood's rigidity to prevent harmful shapechanging effects. For the duration of this spell, whenever you're targeted by a harmful [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]] effect, you can use your reaction to attempt to counteract the effect.
 
 ---
 **Heightened (6th)** The duration increases to 10 minutes.

@@ -24,7 +24,7 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Advanced
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 Little more than three swords attached to a single hilt, a bladesweeper is a devastating weapon in the hands of a jotunborn warrior.
 

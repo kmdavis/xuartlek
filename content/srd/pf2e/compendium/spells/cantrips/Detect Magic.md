@@ -17,14 +17,14 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Detection`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
-- **Spell Lists**: Elemental
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Imperial|Imperial]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Imperial|Imperial]]
 - **Area**: 30-foot emanation
 
 You send out a pulse that registers the presence of magic. You receive no information beyond the presence or absence of magic. You can choose to ignore magic you're fully aware of, such as the magic items and ongoing spells of you and your allies.
 
- You detect [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]] magic only if that magic's effect has a lower rank than the rank of your _detect magic_ spell. However, items that have an illusion aura but aren't deceptive in appearance (such as an _invisibility potion_) typically are detected normally.
+ You detect [[srd/pf2e/compendium/rules-elements/traits/player-core/Illusion|illusion]] magic only if that magic's effect has a lower rank than the rank of your _detect magic_ spell. However, items that have an illusion aura but aren't deceptive in appearance (such as an _invisibility potion_) typically are detected normally.
 
 ---
 **Heightened (3rd)** You learn the rank or level of the most powerful magical effect the spell detects, as determined by the GM.

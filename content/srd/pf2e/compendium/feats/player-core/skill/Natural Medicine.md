@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
 You can apply natural cures to heal your allies. You can use Nature instead of Medicine to Treat Wounds, including higher Nature proficiency letting you attempt more difficult checks. It doesn’t replace Medicine for uses of the skill other than Treat Wounds or for feat prerequisites.
 
@@ -23,6 +23,6 @@ If you’re in the wilderness, you might have easier access to fresh ingredients
 
 ### Natural Medicine leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/herbalist-dedication|Herbalist Dedication]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Herbalist Dedication|Herbalist Dedication]]
 
 *Source: Player Core p. 258*

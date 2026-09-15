@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Kholo`  `Gnoll`
 
-You carry the bones of your ancestors with you, and you can ask them for counsel. You can cast [[srd/pf2e/compendium/spells/rank-2/augury|_augury_]] twice per day as a 2nd-rank occult innate spell.
+You carry the bones of your ancestors with you, and you can ask them for counsel. You can cast [[srd/pf2e/compendium/spells/rank-2/Augury|_augury_]] twice per day as a 2nd-rank occult innate spell.
 
 *Source: Player Core 2 p. 19*

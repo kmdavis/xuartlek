@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Cleric`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/healing-hands|Healing Hands]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Healing Hands|Healing Hands]]
 
 The blessing of your deity heightens your healing ability, integrating magical healing with the mundane. When you succeed at a Medicine check to Treat Wounds, you can roll d10s instead of d8s for the healing and add a status bonus to the healing equal to your level.
 

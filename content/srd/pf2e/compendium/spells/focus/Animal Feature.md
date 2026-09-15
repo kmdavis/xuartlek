@@ -22,7 +22,7 @@ socialImage: og-image.png
 - **Duration**: 1 minute
 
 Without fully transforming your body, you gain one animalistic feature, which you select from the list below each time you Cast the Spell. 
-**Cat Eyes** You gain low-light vision.**Claws** You gain a claw attack that deals 1d6 slashing damage and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] traits.**Jaws** You gain a jaws attack that deals 1d8 piercing damage and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] trait.
+**Cat Eyes** You gain low-light vision.**Claws** You gain a claw attack that deals 1d6 slashing damage and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] traits.**Jaws** You gain a jaws attack that deals 1d8 piercing damage and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] trait.
 
 ---
 **Heightened (4th)** Add the following options to the list. 

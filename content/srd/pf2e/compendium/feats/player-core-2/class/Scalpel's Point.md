@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Investigator`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/methodologies#Forensic Medicine|forensic medicine methodology]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Methodologies#Forensic Medicine|forensic medicine methodology]]
 
 Your stratagems benefit from your precise knowledge of anatomy. When you critically hit with an attack on which you substituted your attack roll due to [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Devise a Stratagem|Devising a Stratagem]], if your attack dealt piercing or slashing damage, you also deal 1d6 persistent bleed damage to your target.
 

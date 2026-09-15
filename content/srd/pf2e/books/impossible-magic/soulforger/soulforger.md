@@ -1,6 +1,7 @@
 ---
 title: "Soulforger"
 aliases: ["Soulforger"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Impossible Magic"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3688"
 citation: "Impossible Magic pg. 98"
-socialImage: og-image.png
 ---
 
 # Soulforger
@@ -20,6 +20,6 @@ Your devotion to a cause grants you the power to summon and wield a soulforged a
 
 ## Contents
 
-- [[srd/pf2e/books/impossible-magic/soulforger/essence-powers|Essence Powers]]
-- [[srd/pf2e/books/impossible-magic/soulforger/binding-an-armament|Binding an Armament]]
-- [[srd/pf2e/books/impossible-magic/soulforger/soul-path|Soul Path]]
+- [[srd/pf2e/books/impossible-magic/soulforger/Essence Powers|Essence Powers]]
+- [[srd/pf2e/books/impossible-magic/soulforger/Binding an Armament|Binding an Armament]]
+- [[srd/pf2e/books/impossible-magic/soulforger/Soul Path|Soul Path]]

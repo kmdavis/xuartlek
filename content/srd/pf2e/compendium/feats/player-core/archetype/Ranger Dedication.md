@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`  `Multiclass`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ranger|Ranger]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ranger|Ranger]]
 - **Prerequisites**: Dexterity +2
 
-You become trained in [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]; if you were already trained in Survival, you instead become trained in another skill of your choice. You become trained in ranger class DC.
+You become trained in [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]; if you were already trained in Survival, you instead become trained in another skill of your choice. You become trained in ranger class DC.
 
 If you gain a warden spell through this archetype, you become trained in spell attacks and spell DCs. Your spellcasting attribute is Wisdom.
 
@@ -27,6 +27,6 @@ You can use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Hunt Pr
 
 ### Ranger Dedication leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/basic-hunters-trick|Basic Hunter's Trick]], [[srd/pf2e/compendium/feats/player-core/archetype/master-spotter-ranger|Master Spotter (Ranger)]], [[srd/pf2e/compendium/feats/player-core/archetype/ranger-resiliency|Ranger Resiliency]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Basic Hunter's Trick|Basic Hunter's Trick]], [[srd/pf2e/compendium/feats/player-core/archetype/Master Spotter (Ranger)|Master Spotter (Ranger)]], [[srd/pf2e/compendium/feats/player-core/archetype/Ranger Resiliency|Ranger Resiliency]]
 
 *Source: Player Core p. 220*

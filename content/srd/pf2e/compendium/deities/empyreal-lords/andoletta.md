@@ -24,24 +24,24 @@ Wisdom or Charisma
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/staff|Staff]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Staff|Staff]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Sorrow|Sorrow]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Sorrow|Sorrow]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/gentle-landing|Gentle Landing]]
+[[srd/pf2e/compendium/spells/rank-1/Gentle Landing|Gentle Landing]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/aerial-form|Aerial Form]]
+[[srd/pf2e/compendium/spells/rank-4/Aerial Form|Aerial Form]]
 (bird only)
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/collective-transposition|Collective Transposition]]
+[[srd/pf2e/compendium/spells/rank-6/Collective Transposition|Collective Transposition]]
 
 *Source: Divine Mysteries p. 308*

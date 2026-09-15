@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Magus`
 
-- **Prerequisites**: [[srd/pf2e/books/player-core/chapter-7-spells/focus-spells|focus pool]]
+- **Prerequisites**: [[srd/pf2e/books/player-core/chapter-7-spells/Focus Spells|focus pool]]
 
-You can make yourself resistant to damaging spells. You learn the [[srd/pf2e/compendium/spells/focus/conjurers-countermeasure|_conjurer’s countermeasure_]] conflux spell.
+You can make yourself resistant to damaging spells. You learn the [[srd/pf2e/compendium/spells/focus/Conjurer's Countermeasure|_conjurer’s countermeasure_]] conflux spell.
 
 *Source: Impossible Magic p. 21*

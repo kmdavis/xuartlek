@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Emotion`  `Psyche`  `Psychic`
 
-- **Requirements**: [[srd/pf2e/compendium/character/subconscious-minds#Emotional Acceptance|emotional acceptance]] subconscious mind
+- **Requirements**: [[srd/pf2e/compendium/character/Subconscious Minds#Emotional Acceptance|emotional acceptance]] subconscious mind
 
 Your heart soars, increasing your power for a moment. You gain a +2 status bonus to attack rolls and skill checks until the start of your next turn.
 

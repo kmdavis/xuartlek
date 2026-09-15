@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Archetype`  `Magical`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/eldritch-archer|Eldritch Archer]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Eldritch Archer|Eldritch Archer]]
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/eldritch-archer-dedication|Eldritch Archer Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Eldritch Archer Dedication|Eldritch Archer Dedication]]
 
-You can concentrate an immense amount of magic to create a piece of ammunition that phases through everything but your target. Make a bow or crossbow Strike against a foe who is [[srd/pf2e/compendium/rules-elements/conditions#Observed|observed]] or [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] to you (but not [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]]). The ammunition travels to your target in a straight line, passing through any non-magical barriers or walls in its way, though magical barriers stop the arrow. The shot ignores all cover, the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition, the hidden condition, and circumstance bonuses to AC from shields. It has a +4 status bonus to hit creatures wearing any type of armor. The Strike's damage can't be reduced with a [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] reaction using a non-[[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] shield.
+You can concentrate an immense amount of magic to create a piece of ammunition that phases through everything but your target. Make a bow or crossbow Strike against a foe who is [[srd/pf2e/compendium/rules-elements/Conditions#Observed|observed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] to you (but not [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]]). The ammunition travels to your target in a straight line, passing through any non-magical barriers or walls in its way, though magical barriers stop the arrow. The shot ignores all cover, the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition, the hidden condition, and circumstance bonuses to AC from shields. It has a +4 status bonus to hit creatures wearing any type of armor. The Strike's damage can't be reduced with a [[srd/pf2e/compendium/feats/player-core/general/Shield Block|Shield Block]] reaction using a non-[[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]] shield.
 
 *Source: Player Core 2 p. 199*

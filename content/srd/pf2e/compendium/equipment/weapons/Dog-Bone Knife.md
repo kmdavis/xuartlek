@@ -18,8 +18,8 @@ socialImage: og-image.png
 - **Price**: 150 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/knife/dagger|Dagger]]
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|Dagger]]
 
-The blade of this _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]]_ [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]] is made from the thigh bone of a canine that died in the act of protecting its master. A [[srd/pf2e/compendium/gm/creature-families/werecreature|werecreature]] or other creature willingly under the effects of a non-permanent [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] effect damaged by a dog-bone knife must succeed at a DC 19 Will save or immediately revert to its natural form—this has no effect on a creature unwillingly polymorphed. On a successful save, the creature is temporarily immune to this effect for 1 minute. Kushtakas and other creatures vulnerable to canines take a –2 circumstance penalty to saves against this effect, and this weapon overcomes any resistance such creatures have to physical attacks.
+The blade of this _[[srd/pf2e/compendium/equipment/weapons/Magic Weapon|+1 striking]]_ [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|dagger]] is made from the thigh bone of a canine that died in the act of protecting its master. A [[srd/pf2e/compendium/gm/creature-families/Werecreature|werecreature]] or other creature willingly under the effects of a non-permanent [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]] effect damaged by a dog-bone knife must succeed at a DC 19 Will save or immediately revert to its natural form—this has no effect on a creature unwillingly polymorphed. On a successful save, the creature is temporarily immune to this effect for 1 minute. Kushtakas and other creatures vulnerable to canines take a –2 circumstance penalty to saves against this effect, and this weapon overcomes any resistance such creatures have to physical attacks.
 
 *Source: Dark Archives (Remastered) p. 134*

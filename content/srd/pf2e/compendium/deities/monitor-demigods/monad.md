@@ -24,23 +24,23 @@ Intelligence or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/fist|Fist]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/Fist|Fist]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/domains#Truth|Truth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/Domains#Truth|Truth]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/phantasmal-minion|Phantasmal Minion]]
+[[srd/pf2e/compendium/spells/rank-1/Phantasmal Minion|Phantasmal Minion]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/ghostly-carrier|Ghostly Carrier]]
+[[srd/pf2e/compendium/spells/rank-2/Ghostly Carrier|Ghostly Carrier]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/vapor-form|Vapor Form]]
+[[srd/pf2e/compendium/spells/rank-4/Vapor Form|Vapor Form]]
 
 *Source: Divine Mysteries p. 316*

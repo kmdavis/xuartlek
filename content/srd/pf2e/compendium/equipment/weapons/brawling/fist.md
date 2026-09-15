@@ -17,14 +17,14 @@ socialImage: og-image.png
 
 `Agile`  `Finesse`  `Nonlethal`  `Unarmed`
 
-- **Favored Weapon**: Adanye, Angazhan, Apsu, [[srd/pf2e/compendium/deities/other-gods/atrogine|Atrogine]], Bastet, Brixori, Dahak, [[srd/pf2e/compendium/deities/sarkorian-gods/dolok-darkfur|Dolok Darkfur]], Drokalion, Essence Dancers, Gaasham, Garhaazh, [[srd/pf2e/compendium/deities/faiths-philosophies/green-faith|Green Faith]], Iapholi, [[srd/pf2e/compendium/deities/monitor-demigods/ilsurrish|Il’Surrish]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Irori]], [[srd/pf2e/compendium/deities/demon-lords/jezelda|Jezelda]], [[srd/pf2e/compendium/deities/demon-lords/kabriri|Kabriri]], Kalekot, [[srd/pf2e/compendium/deities/empyreal-lords/korada|Korada]], [[srd/pf2e/compendium/deities/vudrani-gods/lahkgya|Lahkgya]], [[srd/pf2e/compendium/deities/monitor-demigods/monad|Monad]], Mugura and Nrithu, Nalinivati, Otilaz, [[srd/pf2e/compendium/deities/vudrani-gods/ravithra|Ravithra]], Sarshallatu, Sekhmet, [[srd/pf2e/compendium/deities/sarkorian-covenants/the-spirit-wall|The Spirit Wall]], Turvu, [[srd/pf2e/compendium/deities/monitor-demigods/ydajisk|Ydajisk]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/yig|Yig]], Yluma
+- **Favored Weapon**: Adanye, Angazhan, Apsu, [[srd/pf2e/compendium/deities/other-gods/Atrogine|Atrogine]], Bastet, Brixori, Dahak, [[srd/pf2e/compendium/deities/sarkorian-gods/Dolok Darkfur|Dolok Darkfur]], Drokalion, Essence Dancers, Gaasham, Garhaazh, [[srd/pf2e/compendium/deities/faiths-philosophies/Green Faith|Green Faith]], Iapholi, [[srd/pf2e/compendium/deities/monitor-demigods/Il’Surrish|Il’Surrish]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Irori|Irori]], [[srd/pf2e/compendium/deities/demon-lords/Jezelda|Jezelda]], [[srd/pf2e/compendium/deities/demon-lords/Kabriri|Kabriri]], Kalekot, [[srd/pf2e/compendium/deities/empyreal-lords/Korada|Korada]], [[srd/pf2e/compendium/deities/vudrani-gods/Lahkgya|Lahkgya]], [[srd/pf2e/compendium/deities/monitor-demigods/Monad|Monad]], Mugura and Nrithu, Nalinivati, Otilaz, [[srd/pf2e/compendium/deities/vudrani-gods/Ravithra|Ravithra]], Sarshallatu, Sekhmet, [[srd/pf2e/compendium/deities/sarkorian-covenants/The Spirit Wall|The Spirit Wall]], Turvu, [[srd/pf2e/compendium/deities/monitor-demigods/Ydajisk|Ydajisk]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Yig|Yig]], Yluma
 - **Price**: —
 - **Damage**: 1d4 B
 - **Bulk**: —
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Unarmed
-- **Group**: Brawling
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|Brawling]]
 
 _Nethys Note: no description was provided for this item_
 
@@ -34,6 +34,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/worn-items/amphisbaena-handwraps|Amphisbaena Handwraps]], Bloodknuckles, [[srd/pf2e/compendium/equipment/worn-items/dragon-handwraps|Dragon Handwraps]], Dragon Handwraps, Fleshgem, [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows|Handwraps of Mighty Blows]]
+[[srd/pf2e/compendium/equipment/worn-items/Amphisbaena Handwraps|Amphisbaena Handwraps]], Bloodknuckles, [[srd/pf2e/compendium/equipment/worn-items/Dragon Handwraps|Dragon Handwraps]], Dragon Handwraps, Fleshgem, [[srd/pf2e/compendium/equipment/worn-items/Handwraps of Mighty Blows|Handwraps of Mighty Blows]]
 
 *Source: Player Core p. 277*

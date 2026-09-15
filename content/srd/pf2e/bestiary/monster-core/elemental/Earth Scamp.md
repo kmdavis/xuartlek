@@ -28,10 +28,10 @@ modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; darkvision, tremorsense (imprecise) 30 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Petran|Petran]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +2"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +2"
 abilityMods: [3, -1, 2, -2, 0, -1]
 ac: 15
 armorclass:
@@ -40,17 +40,17 @@ armorclass:
 hp: 20
 health:
   - name: "HP"
-    desc: "20 (fast healing 2 (while underground)); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
+    desc: "20 (fast healing 2 (while underground)); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]"
 speed: "20 feet, burrow 20 feet, fly 15 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ body +8 __Damage__ 1d6+3 bludgeoning"
 abilities_bot:
   - name: "Scree Breath"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|Earth]]) The earth scamp breathes rocks in a 15-foot cone that deals 2d6 bludgeoning damage to each creature within the area (DC 17 basic Reflex save). The earth scamp can't use Scree Breath again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Earth|Earth]]) The earth scamp breathes rocks in a 15-foot cone that deals 2d6 bludgeoning damage to each creature within the area (DC 17 basic Reflex save). The earth scamp can't use Scree Breath again for 1d4 rounds."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 17 - __2nd__ [[srd/pf2e/compendium/spells/rank-2/enlarge|Enlarge]] (self only) - __3rd__ [[srd/pf2e/compendium/spells/rank-3/one-with-stone|One with Stone]]"
+    desc: "DC 17 - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Enlarge|Enlarge]] (self only) - __3rd__ [[srd/pf2e/compendium/spells/rank-3/One with Stone|One with Stone]]"
 sourcebook: "_Monster Core_, page 146."
 ```
 

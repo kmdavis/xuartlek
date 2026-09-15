@@ -20,7 +20,7 @@ A quick strike to the face or mouth silences your opponent. Make a melee Strike 
 
 **Success** The target is unaffected.
 
-**Failure** The target is dazed and can barely vocalize. It's [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]] and its speech is raspy and hard to understand. It must succeed at a DC 11 flat check to use [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|linguistic]] actions or Cast a Spell, unless the spell has the [[srd/pf2e/compendium/rules-elements/traits/player-core/subtle|subtle]] trait.
+**Failure** The target is dazed and can barely vocalize. It's [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned 1]] and its speech is raspy and hard to understand. It must succeed at a DC 11 flat check to use [[srd/pf2e/compendium/rules-elements/traits/player-core/Linguistic|linguistic]] actions or Cast a Spell, unless the spell has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Subtle|subtle]] trait.
 
 **Critical Failure** As failure, but the creature is stunned 3 instead of stunned 1.
 

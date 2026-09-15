@@ -13,7 +13,7 @@ socialImage: og-image.png
 
 - **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/trappings-of-power/trappings-of-power|Trappings of Power]]
 
-Many instruments in this chapter, as well as some presented in Wondrous Consumables, give you a bonus or effect while you’re playing the instrument, sometimes improving you in ways not directly related to your performance, such as getting a bonus to Perception checks. Usually, the GM can easily determine whether you’re playing the instrument. If you need concrete rules, you’re considered to be playing an instrument as long as you spend at least 1 action each round playing it. This includes playing the instrument for [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks, playing it for material or somatic components of spells, or just spending a single action to play it. If you just want to play just to keep up the benefit, you can usually take the Perform action for this purpose and forgo your roll.
+Many instruments in this chapter, as well as some presented in [Wondrous Consumables](https://2e.aonprd.com/Equipment.aspx?Category=15&Subcategory=20), give you a bonus or effect while you’re playing the instrument, sometimes improving you in ways not directly related to your performance, such as getting a bonus to Perception checks. Usually, the GM can easily determine whether you’re playing the instrument. If you need concrete rules, you’re considered to be playing an instrument as long as you spend at least 1 action each round playing it. This includes playing the instrument for [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] checks, playing it for material or somatic components of spells, or just spending a single action to play it. If you just want to play just to keep up the benefit, you can usually take the Perform action for this purpose and forgo your roll.
 
 *Source: Treasure Vault (Remastered) p. 101*
 
@@ -21,17 +21,17 @@ Many instruments in this chapter, as well as some presented in Wondrous Consumab
 
 - **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/trappings-of-power/trappings-of-power|Trappings of Power]]
 
-Fantasy gaming is for everyone. It’s incredibly important for all people, regardless of what unique circumstances they may face in life, to be able to see reflections of themselves inside the world of the game. You can find assistive items for a variety of disabilities here, in _Guns & Gears_, and in _Pathfinder Lost Omens Grand Bazaar_. Representation in gaming is essential to creating open and welcoming communities, so respectful use of assistive items has a place in all games and stories.
+Fantasy gaming is for everyone. It’s incredibly important for all people, regardless of what unique circumstances they may face in life, to be able to see reflections of themselves inside the world of the game. You can find [assistive items](https://2e.aonprd.com/Equipment.aspx?Category=72) for a variety of disabilities here, in _Guns & Gears_, and in _Pathfinder Lost Omens Grand Bazaar_. Representation in gaming is essential to creating open and welcoming communities, so respectful use of assistive items has a place in all games and stories.
 
 *Source: Treasure Vault (Remastered) p. 101*
 
 ## Blightburn Sickness
 
-- **Parent page**: [[srd/pf2e/compendium/equipment/alchemical-items/blightburn-bomb|Blightburn Bomb]]
+- **Parent page**: [[srd/pf2e/compendium/equipment/alchemical-items/Blightburn Bomb|Blightburn Bomb]]
 
 Caused by exposure to blightburn crystal, blightburn sickness burns and dissolves the afflicted creature from within. The target can't recover from the disease's drained or sickened condition except by magic. It's typically a 15th-level affliction (DC 32 Fortitude), but exposure to other forms of blightburn can change it.
 
-**Onset** 1d4 days; **Stage 1** [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1 (1 day); **Stage 2** drained 1 and [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 (1 day); **Stage 3** drained 2 and sickened 2 (1 week); **Stage 4** drained 3 and sickened 3 (1 month); **Stage 5** increase drained condition by 1 (1 year)
+**Onset** 1d4 days; **Stage 1** [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]] 1 (1 day); **Stage 2** drained 1 and [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] 1 (1 day); **Stage 3** drained 2 and sickened 2 (1 week); **Stage 4** drained 3 and sickened 3 (1 month); **Stage 5** increase drained condition by 1 (1 year)
 
 *Source: Treasure Vault (Remastered) p. 44*
 
@@ -45,43 +45,43 @@ Getting the opportunity to use a consumable is often one of the most exciting pa
 
 ## Dragon Damage Types
 
-- **Parent page**: [[srd/pf2e/compendium/equipment/consumables/dragonclaw-scutcheon|Dragonclaw Scutcheon]]
+- **Parent page**: [[srd/pf2e/compendium/equipment/consumables/Dragonclaw Scutcheon|Dragonclaw Scutcheon]]
 
-The _dragonclaw scutcheon_ and _[[srd/pf2e/compendium/equipment/consumables/dragontooth-trophy|dragontooth trophy]]_ use a type of damage depending on what kind of dragon the claw or tooth came from. These items are typically made from the [[srd/pf2e/compendium/gm/creature-families/dragon|dragons]] in Monster Core, but your GM might introduce uncommon or rare versions made from other types of dragons.
+The _dragonclaw scutcheon_ and _[[srd/pf2e/compendium/equipment/consumables/Dragontooth Trophy|dragontooth trophy]]_ use a type of damage depending on what kind of dragon the claw or tooth came from. These items are typically made from the [[srd/pf2e/compendium/gm/creature-families/Dragon|dragons]] in Monster Core, but your GM might introduce uncommon or rare versions made from other types of dragons.
 
  
 **Dragon Type** **Damage Type** 
-[[srd/pf2e/bestiary/monster-core/dragon/young-adamantine-dragon|Adamantine]] Bludgeoning 
-[[srd/pf2e/bestiary/monster-core/dragon/young-conspirator-dragon|Conspirator]] or [[srd/pf2e/bestiary/monster-core/dragon/young-horned-dragon|horned]] Bludgeoning 
-[[srd/pf2e/bestiary/monster-core/dragon/young-diabolic-dragon|Diabolic]] Fire 
-[[srd/pf2e/bestiary/monster-core/dragon/young-empyreal-dragon|Empyreal]] Spirit 
-[[srd/pf2e/bestiary/monster-core/dragon/young-fortune-dragon|Fortune]] Force 
-[[srd/pf2e/bestiary/monster-core/dragon/young-mirage-dragon|Mirage]] or [[srd/pf2e/bestiary/monster-core/dragon/young-omen-dragon|omen]] mental
+[[srd/pf2e/bestiary/monster-core/dragon/Young Adamantine Dragon|Adamantine]] Bludgeoning 
+[[srd/pf2e/bestiary/monster-core/dragon/Young Conspirator Dragon|Conspirator]] or [[srd/pf2e/bestiary/monster-core/dragon/Young Horned Dragon|horned]] Bludgeoning 
+[[srd/pf2e/bestiary/monster-core/dragon/Young Diabolic Dragon|Diabolic]] Fire 
+[[srd/pf2e/bestiary/monster-core/dragon/Young Empyreal Dragon|Empyreal]] Spirit 
+[[srd/pf2e/bestiary/monster-core/dragon/Young Fortune Dragon|Fortune]] Force 
+[[srd/pf2e/bestiary/monster-core/dragon/Young Mirage Dragon|Mirage]] or [[srd/pf2e/bestiary/monster-core/dragon/Young Omen Dragon|omen]] mental
 
 *Source: Treasure Vault (Remastered) p. 92*
 
 ## Dragon Damage Types
 
-- **Parent page**: [[srd/pf2e/compendium/equipment/consumables/dragontooth-trophy|Dragontooth Trophy]]
+- **Parent page**: [[srd/pf2e/compendium/equipment/consumables/Dragontooth Trophy|Dragontooth Trophy]]
 
-The _[[srd/pf2e/compendium/equipment/consumables/dragonclaw-scutcheon|dragonclaw scutcheon]]_ and _dragontooth trophy_ use a type of damage depending on what kind of dragon the claw or tooth came from. These items are typically made from the [[srd/pf2e/compendium/gm/creature-families/dragon|dragons]] in Monster Core, but your GM might introduce uncommon or rare versions made from other types of dragons.
+The _[[srd/pf2e/compendium/equipment/consumables/Dragonclaw Scutcheon|dragonclaw scutcheon]]_ and _dragontooth trophy_ use a type of damage depending on what kind of dragon the claw or tooth came from. These items are typically made from the [[srd/pf2e/compendium/gm/creature-families/Dragon|dragons]] in Monster Core, but your GM might introduce uncommon or rare versions made from other types of dragons.
 
  
 **Dragon Type** **Damage Type** 
-[[srd/pf2e/bestiary/monster-core/dragon/young-adamantine-dragon|Adamantine]] Bludgeoning 
-[[srd/pf2e/bestiary/monster-core/dragon/young-conspirator-dragon|Conspirator]] or [[srd/pf2e/bestiary/monster-core/dragon/young-horned-dragon|horned]] Bludgeoning 
-[[srd/pf2e/bestiary/monster-core/dragon/young-diabolic-dragon|Diabolic]] Fire 
-[[srd/pf2e/bestiary/monster-core/dragon/young-empyreal-dragon|Empyreal]] Spirit 
-[[srd/pf2e/bestiary/monster-core/dragon/young-fortune-dragon|Fortune]] Force 
-[[srd/pf2e/bestiary/monster-core/dragon/young-mirage-dragon|Mirage]] or [[srd/pf2e/bestiary/monster-core/dragon/young-omen-dragon|omen]] mental
+[[srd/pf2e/bestiary/monster-core/dragon/Young Adamantine Dragon|Adamantine]] Bludgeoning 
+[[srd/pf2e/bestiary/monster-core/dragon/Young Conspirator Dragon|Conspirator]] or [[srd/pf2e/bestiary/monster-core/dragon/Young Horned Dragon|horned]] Bludgeoning 
+[[srd/pf2e/bestiary/monster-core/dragon/Young Diabolic Dragon|Diabolic]] Fire 
+[[srd/pf2e/bestiary/monster-core/dragon/Young Empyreal Dragon|Empyreal]] Spirit 
+[[srd/pf2e/bestiary/monster-core/dragon/Young Fortune Dragon|Fortune]] Force 
+[[srd/pf2e/bestiary/monster-core/dragon/Young Mirage Dragon|Mirage]] or [[srd/pf2e/bestiary/monster-core/dragon/Young Omen Dragon|omen]] mental
 
 *Source: Treasure Vault (Remastered) p. 93*
 
 ## New Alchemical Items
 
-- **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/alchemy-unleashed/alchemical-foods|Alchemical Foods]]
+- **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/alchemy-unleashed/Alchemical Foods|Alchemical Foods]]
 
-The new alchemical options appearing in this chapter represent some notable expansions of the abilities available to anyone who uses alchemy, but the [[srd/pf2e/compendium/character/classes/alchemist|alchemist]] class in particular. It’s important to consider the impact these options can have on the play experience, not from a balance perspective, but from a story perspective. Characters specializing in alchemical foods will want an adventure that gives them time to prepare alchemical foods with the [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/processed|processed]] trait, like the new [[srd/pf2e/compendium/equipment/alchemical-items/cooperative-waffles|cooperative waffles]]. Be sure that your players choosing these options have the opportunity to take full advantage of them, or warn them if that option won’t be available.
+The new alchemical options appearing in this chapter represent some notable expansions of the abilities available to anyone who uses alchemy, but the [[srd/pf2e/compendium/character/classes/Alchemist|alchemist]] class in particular. It’s important to consider the impact these options can have on the play experience, not from a balance perspective, but from a story perspective. Characters specializing in [alchemical foods](https://2e.aonprd.com/Equipment.aspx?Category=6&Subcategory=92) will want an adventure that gives them time to prepare alchemical foods with the [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/Processed|processed]] trait, like the new [[srd/pf2e/compendium/equipment/alchemical-items/Cooperative Waffles|cooperative waffles]]. Be sure that your players choosing these options have the opportunity to take full advantage of them, or warn them if that option won’t be available.
 
 *Source: Treasure Vault (Remastered) p. 46*
 
@@ -103,10 +103,10 @@ Many of the items presented in this section offer great power to the character w
 
 ## Variant Materials
 
-- **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/secrets-of-crafting/nature-crafting#Additional Materials|Additional Materials]]
+- **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/secrets-of-crafting/Nature Crafting#Additional Materials|Additional Materials]]
 
-Many weapons traditionally made from wood or metal might be made from alternative materials instead, covering the gamut from stone and ice to more esoteric materials like refined essence of ooze. For most campaigns, metal weapons can be treated as interchangeable with weapons made from these alternative materials without requiring significant changes or adjustments. Armors should generally not be crafted from materials other than those they are presented as being made from, since accessibility to stone and wooden armors directly affects the balance and progression of various classes. Rather than allowing a character to craft a suit of full plate from a non-metallic material, direct the character towards the non-metallic armors presented [[srd/pf2e/compendium/equipment/armor|here]].
+Many weapons traditionally made from wood or metal might be made from alternative materials instead, covering the gamut from stone and ice to more esoteric materials like refined essence of ooze. For most campaigns, metal weapons can be treated as interchangeable with weapons made from these alternative materials without requiring significant changes or adjustments. Armors should generally not be crafted from materials other than those they are presented as being made from, since accessibility to stone and wooden armors directly affects the balance and progression of various classes. Rather than allowing a character to craft a suit of full plate from a non-metallic material, direct the character towards the non-metallic armors presented [[srd/pf2e/compendium/equipment/Armor|here]].
 
- GMs looking to add a greater sense of differentiation between weapons and armor made from nonstandard materials can find the statistics for differing materials here, particularly the statistics for [[srd/pf2e/compendium/equipment/materials/bone|bone]] and [[srd/pf2e/compendium/equipment/materials/stone|stone]] equipment. Generally, this shouldn’t significantly change the price of the crafted item (particularly for magic weapons) as long as you are sticking to basic materials. While a stone sword might be slightly more fragile than an iron sword, it’s also less prone to damage from effects like a _rusting grasp_ spell or the predations of a rust monster.
+ GMs looking to add a greater sense of differentiation between weapons and armor made from nonstandard materials can find the statistics for differing materials [here](https://2e.aonprd.com/Equipment.aspx?Category=22), particularly the statistics for [[srd/pf2e/compendium/equipment/materials/Bone|bone]] and [[srd/pf2e/compendium/equipment/materials/Stone|stone]] equipment. Generally, this shouldn’t significantly change the price of the crafted item (particularly for magic weapons) as long as you are sticking to basic materials. While a stone sword might be slightly more fragile than an iron sword, it’s also less prone to damage from effects like a _rusting grasp_ spell or the predations of a rust monster.
 
 *Source: Treasure Vault (Remastered) p. 169*

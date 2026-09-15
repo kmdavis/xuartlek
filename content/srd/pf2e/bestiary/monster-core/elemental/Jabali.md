@@ -30,14 +30,14 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; darkvision, tremorsense (imprecise) 60 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]]; [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Petran|Petran]]; [[srd/pf2e/compendium/spells/rank-5/Truespeech|_truespeech_]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +19, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +14, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +16, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +15, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +19, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +14, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +16, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +15, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +14"
 abilityMods: [6, 1, 4, 3, 2, 3]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/weapons/sword/falchion|falchion]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/weapons/sword/Falchion|falchion]]_"
 ac: 25
 armorclass:
   - name: "AC"
@@ -49,17 +49,17 @@ health:
 speed: "25 feet, burrow 45 feet, climb 20 feet; earth glide"
 attacks:
   - name: "Melee"
-    desc: "⬻ _falchion_ +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d10+12 slashing"
+    desc: "⬻ _falchion_ +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|Sweep]]) __Damage__ 1d10+12 slashing"
   - name: "Melee"
-    desc: "⬻ fist +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d4+12 bludgeoning plus Push 10 feet and stone clutch"
+    desc: "⬻ fist +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 1d4+12 bludgeoning plus Push 10 feet and stone clutch"
 abilities_bot:
   - name: "Earth Glide"
     desc: "The jabali can [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]] through dirt and stone at their full burrow Speed, leaving no tunnels or signs of their passing."
   - name: "Stone Clutch"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|Earth]]) When the jabali Pushes a creature into a stone barrier, the surface grips it with fingers of stone. The target must succeed at a DC 22 Reflex save or become [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by the surface ([[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] DC 28). Jabali Shuyookhs Jabali shuyookhs fulfill wishes as straightforwardly as possible. They add the following innate spells: __8th__ [[srd/pf2e/compendium/spells/rank-8/earthquake|_earthquake_]]; __6th__ [[srd/pf2e/compendium/spells/rank-4/mountain-resilience|_mountain resilience_]] (at will; self only), [[srd/pf2e/compendium/spells/rank-6/petrify|_petrify_]]; __5th__ [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|_illusory disguise_]]."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Earth|Earth]]) When the jabali Pushes a creature into a stone barrier, the surface grips it with fingers of stone. The target must succeed at a DC 22 Reflex save or become [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] by the surface ([[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] DC 28). Jabali Shuyookhs Jabali shuyookhs fulfill wishes as straightforwardly as possible. They add the following innate spells: __8th__ [[srd/pf2e/compendium/spells/rank-8/Earthquake|_earthquake_]]; __6th__ [[srd/pf2e/compendium/spells/rank-4/Mountain Resilience|_mountain resilience_]] (at will; self only), [[srd/pf2e/compendium/spells/rank-6/Petrify|_petrify_]]; __5th__ [[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|_illusory disguise_]]."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 24 - __Cantrips (4th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/shape-stone|Shape Stone]] (at will) - __5th__ [[srd/pf2e/compendium/spells/rank-5/wall-of-stone|Wall of Stone]] - __7th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (to [[srd/pf2e/compendium/equipment/runes/astral|Astral Plane]]; Elemental Planes; or [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] only) - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
+    desc: "DC 24 - __Cantrips (4th)__ [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/Shape Stone|Shape Stone]] (at will) - __5th__ [[srd/pf2e/compendium/spells/rank-5/Wall of Stone|Wall of Stone]] - __7th__ [[srd/pf2e/compendium/spells/rank-7/Interplanar Teleport|Interplanar Teleport]] (to [[srd/pf2e/compendium/equipment/runes/Astral|Astral Plane]]; Elemental Planes; or [[srd/pf2e/compendium/gm/Planes#The Universe|the Universe]] only) - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/Truespeech|Truespeech]]"
 sourcebook: "_Monster Core_, page 158."
 ```
 

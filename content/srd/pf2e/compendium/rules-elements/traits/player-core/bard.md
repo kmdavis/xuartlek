@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Bard`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/bard|bard]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Bard|bard]] class.
 
 *Source: Player Core p. 453*

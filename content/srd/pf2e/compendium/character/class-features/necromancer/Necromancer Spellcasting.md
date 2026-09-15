@@ -19,7 +19,7 @@ Your studies into the nature of life and death have resulted in the ability to c
 
  As you increase in level as a necromancer, the number of spells you can prepare each day increases, as does the highest rank of spell you can cast, as shown in the Necromancer Spells per Day table.
 
- Some of your spells require you to attempt a spell attack to see how effective they are or for your enemies to roll against your spell DC (typically by attempting a saving throw). Since your key attribute is Intelligence, your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Spell Attack Rolls|spell attack modifier]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Spell DC|spell DC]] use your Intelligence modifier. 
+ Some of your spells require you to attempt a spell attack to see how effective they are or for your enemies to roll against your spell DC (typically by attempting a saving throw). Since your key attribute is Intelligence, your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Spell Attack Rolls|spell attack modifier]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Spell DC|spell DC]] use your Intelligence modifier. 
 
 #### Heightening Spells
 
@@ -31,7 +31,7 @@ Some of your spells are cantrips. A cantrip is a special type of spell that does
 
 #### Dirge
 
- Your occult spells become a part of an internal dirge that echoes throughout your body, bones, and even your spirit. Each day, to prepare your spells, you pull forth pieces of your dirge to vocalize. Your dirge contains your choice of eight occult cantrips, the 1st-rank spell harm, and four other 1st-rank occult spells of your choice. You choose these from the common spells on the occult spell list or from other occult spells you gain access to. You can prepare and cast [[srd/pf2e/compendium/spells/rank-1/harm|_harm_]] as an occult spell.
+ Your occult spells become a part of an internal dirge that echoes throughout your body, bones, and even your spirit. Each day, to prepare your spells, you pull forth pieces of your dirge to vocalize. Your dirge contains your choice of eight occult cantrips, the 1st-rank spell harm, and four other 1st-rank occult spells of your choice. You choose these from the common spells on the occult spell list or from other occult spells you gain access to. You can prepare and cast [[srd/pf2e/compendium/spells/rank-1/Harm|_harm_]] as an occult spell.
 
  Each time you gain a level, you add two occult spells to your dirge, of any spell rank for which you have spell slots, chosen from common occult spells or others you gain access to and learn via [[srd/pf2e/compendium/rules-elements/actions/player-core#Learn a Spell|Learn a Spell]].
 

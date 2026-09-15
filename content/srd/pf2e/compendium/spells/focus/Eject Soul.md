@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Incapacitation`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Soul|Soul]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Soul|Soul]]
 - **Range**: touch
 - **Target**: 1 living creature that has a soul
 - **Defense**: Fortitude
@@ -28,9 +28,9 @@ Your touch disrupts the connection between body and soul, possibly forcing the s
 
 **Success** The target is unaffected.
 
-**Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1 as its soul briefly loses its connection to their body.
+**Failure** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]] 1 as its soul briefly loses its connection to their body.
 
-**Critical Failure** The target’s soul exits its body and the target’s body becomes [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] for 1 round. While their body is stunned in this way, the target remains fully aware in soul form; they simply can’t consciously move their body (though the body makes basic instinctual defensive movements). The target’s soul has the [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]] trait, is [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]], and has a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Fly Speed|fly Speed]] of 60 feet. It can’t [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|cast spells]], or attempt any skill checks that require a physical body, and it must always maintain line of effect to the target’s body. When the target’s body ceases being stunned, the target’s soul instantly returns to their body as the target wakes.
+**Critical Failure** The target’s soul exits its body and the target’s body becomes [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]] for 1 round. While their body is stunned in this way, the target remains fully aware in soul form; they simply can’t consciously move their body (though the body makes basic instinctual defensive movements). The target’s soul has the [[srd/pf2e/compendium/rules-elements/traits/gm-core/Incorporeal|incorporeal]] trait, is [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]], and has a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Fly Speed|fly Speed]] of 60 feet. It can’t [[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|cast spells]], or attempt any skill checks that require a physical body, and it must always maintain line of effect to the target’s body. When the target’s body ceases being stunned, the target’s soul instantly returns to their body as the target wakes.
 
 ---
 **Heightened (+3)** If a willing ally chooses to critically fail, they can stay in soul form for 1 additional round.

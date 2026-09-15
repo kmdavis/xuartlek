@@ -20,6 +20,6 @@ socialImage: og-image.png
 - **Frequency**: once per turn
 - **Requirements**: Your most recent action was to cast a noncantrip spell.
 
-Spiritual power encases your weapon or unarmed attack. Until the end of your turn, one wielded weapon or unarmed attack you have deals an extra 1d6 [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]] damage and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] trait, if it didn’t have it already.
+Spiritual power encases your weapon or unarmed attack. Until the end of your turn, one wielded weapon or unarmed attack you have deals an extra 1d6 [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]] damage and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]] trait, if it didn’t have it already.
 
 *Source: War of Immortals p. 24*

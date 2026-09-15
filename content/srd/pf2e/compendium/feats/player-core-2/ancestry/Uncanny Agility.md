@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Tengu`
 
-You have near-supernatural poise that lets you move swiftly across the most unsteady surfaces. You gain the [[srd/pf2e/compendium/feats/player-core/skill/steady-balance|Steady Balance]] skill feat. You can Step into difficult terrain caused by uneven ground, such as a rocky field, hilly incline, or rocking ship.
+You have near-supernatural poise that lets you move swiftly across the most unsteady surfaces. You gain the [[srd/pf2e/compendium/feats/player-core/skill/Steady Balance|Steady Balance]] skill feat. You can Step into difficult terrain caused by uneven ground, such as a rocky field, hilly incline, or rocking ship.
 
 *Source: Player Core 2 p. 34*

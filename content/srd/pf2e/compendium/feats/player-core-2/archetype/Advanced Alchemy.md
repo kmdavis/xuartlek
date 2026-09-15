@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/alchemist|Alchemist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/alchemist-dedication|Alchemist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Alchemist|Alchemist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Alchemist Dedication|Alchemist Dedication]]
 
-You gain the [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Alchemical Archetypes|advanced alchemy benefits]], and you can create 4 alchemical consumables during your daily preparations.
+You gain the [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Alchemical Archetypes|advanced alchemy benefits]], and you can create 4 alchemical consumables during your daily preparations.
 
 *Source: Player Core 2 p. 175*

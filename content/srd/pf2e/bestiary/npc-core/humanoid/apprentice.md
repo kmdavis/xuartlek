@@ -28,14 +28,14 @@ modifier: 2
 perception:
   - name: "Perception"
     desc: "+2"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +3, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +5, [[srd/pf2e/compendium/rules-elements/skills/lore|Geography Lore]] +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +3, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +5, [[srd/pf2e/compendium/rules-elements/skills/Lore|Geography Lore]] +5"
 abilityMods: [1, 2, 1, 3, 0, 0]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit]], [[srd/pf2e/compendium/equipment/adventuring-gear/map|assorted maps]], Dagger, rugged clothes with tool belt (functions as [[srd/pf2e/compendium/equipment/armor#Padded Armor|padded armor]])"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/Artisan's Toolkit|Artisan's Toolkit]], [[srd/pf2e/compendium/equipment/adventuring-gear/Map|assorted maps]], Dagger, rugged clothes with tool belt (functions as [[srd/pf2e/compendium/equipment/Armor#Padded Armor|padded armor]])"
 ac: 14
 armorclass:
   - name: "AC"
@@ -47,11 +47,11 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+1 piercing"
+    desc: "⬻ dagger +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+1 piercing"
   - name: "Melee"
-    desc: "⬻ fist +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+1 bludgeoning"
+    desc: "⬻ fist +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+1 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dagger +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+1 piercing"
+    desc: "⬻ dagger +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+1 piercing"
 abilities_bot:
   - name: "Apprentice's Ambition"
     desc: "⭓"

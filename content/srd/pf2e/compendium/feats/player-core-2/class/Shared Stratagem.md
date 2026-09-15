@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Investigator`
 
-The plans you make include your allies as well as yourself. When you hit a creature with an attack on which you substituted your attack roll due to [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Devise a Stratagem|Devising a Stratagem]], designate one ally. The creature you hit is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to that ally on the next attack that ally makes against that creature before the start of your next turn.
+The plans you make include your allies as well as yourself. When you hit a creature with an attack on which you substituted your attack roll due to [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Devise a Stratagem|Devising a Stratagem]], designate one ally. The creature you hit is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to that ally on the next attack that ally makes against that creature before the start of your next turn.
 
 ### Shared Stratagem leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/didactic-strike|Didactic Strike]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Didactic Strike|Didactic Strike]]
 
 *Source: Player Core 2 p. 107*

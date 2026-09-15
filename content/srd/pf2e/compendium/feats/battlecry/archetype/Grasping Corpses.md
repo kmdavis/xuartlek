@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/necrologist|Necrologist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/necrologist-dedication|Necrologist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Necrologist|Necrologist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Necrologist Dedication|Necrologist Dedication]]
 
-Your foes are left reeling from the attacks made by the zombies or skeletons of your horde. A creature that is damaged by your horde's Mobbing Assault is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the beginning of your next turn.
+Your foes are left reeling from the attacks made by the zombies or skeletons of your horde. A creature that is damaged by your horde's Mobbing Assault is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] until the beginning of your next turn.
 
 ### Grasping Corpses leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/archetype/in-the-hordes-grip|In the Horde's Grip]]
+[[srd/pf2e/compendium/feats/battlecry/archetype/In the Horde's Grip|In the Horde's Grip]]
 
 *Source: Battlecry! p. 67*

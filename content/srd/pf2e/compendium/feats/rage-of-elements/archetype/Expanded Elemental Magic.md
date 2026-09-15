@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/elementalist|Elementalist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/rage-of-elements/archetype/elementalist-dedication|Elementalist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Elementalist|Elementalist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/rage-of-elements/archetype/Elementalist Dedication|Elementalist Dedication]]
 
 You reach new understandings of the elements, taking an expansive view. Add to your elemental philosophy any of the following elements it doesn't already include: air, earth, fire, metal, water, and wood.
 

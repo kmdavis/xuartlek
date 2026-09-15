@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/veil-dancer|Veil Dancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/veil-dancer-dedication|Veil Dancer Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Veil Dancer|Veil Dancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Veil Dancer Dedication|Veil Dancer Dedication]]
 
-You can remain within the interstices of reality longer. Your Part the Veil has a duration of one hour, though it still ends if you take a [[srd/pf2e/books/player-core/chapter-7-spells/hostile-actions|hostile action]]. Additionally, while [[srd/pf2e/compendium/rules-elements/actions/player-core#Avoid Notice|Avoiding Notice]] during exploration, you can also Part the Veil.
+You can remain within the interstices of reality longer. Your Part the Veil has a duration of one hour, though it still ends if you take a [[srd/pf2e/books/player-core/chapter-7-spells/Hostile Actions|hostile action]]. Additionally, while [[srd/pf2e/compendium/rules-elements/actions/player-core#Avoid Notice|Avoiding Notice]] during exploration, you can also Part the Veil.
 
 *Source: Impossible Magic p. 105*

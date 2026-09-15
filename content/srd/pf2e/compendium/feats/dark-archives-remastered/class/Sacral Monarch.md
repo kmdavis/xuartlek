@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Champion`  `Oracle`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/class/sacral-lord|Sacral Lord]]; Master in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] or Master in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Sacral Lord|Sacral Lord]]; Master in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] or Master in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
-You have come into your full powers and are truly a monarch of your realm, by your own definition at least. While in your territory, you can cast [[srd/pf2e/compendium/spells/rank-5/banishment|_banishment_]] and _inevitable disaster_ as innate divine spells, each once per day.
+You have come into your full powers and are truly a monarch of your realm, by your own definition at least. While in your territory, you can cast [[srd/pf2e/compendium/spells/rank-5/Banishment|_banishment_]] and _inevitable disaster_ as innate divine spells, each once per day.
 
 *Source: Dark Archives (Remastered) p. 177*

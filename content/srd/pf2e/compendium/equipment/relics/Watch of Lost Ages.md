@@ -23,8 +23,8 @@ The origins of the _watch of lost ages_, a silver pocket watch, are enigmatic. I
 
 ---
 
-**Minor Gifts**: [[srd/pf2e/compendium/equipment/relics#Fervor|fervor]], [[srd/pf2e/compendium/equipment/relics#Sands of the Hourglass|sands of the hourglass]]
- **Major Gifts**: [[srd/pf2e/compendium/equipment/relics#Fervent Spell|fervent spell]], [[srd/pf2e/compendium/equipment/relics#Temporal Pulse|temporal pulse]]
-**Grand Gift**: [[srd/pf2e/compendium/equipment/relics#Time Reversal|time reversal]]
+**Minor Gifts**: [[srd/pf2e/compendium/equipment/Relics#Fervor|fervor]], [[srd/pf2e/compendium/equipment/Relics#Sands of the Hourglass|sands of the hourglass]]
+ **Major Gifts**: [[srd/pf2e/compendium/equipment/Relics#Fervent Spell|fervent spell]], [[srd/pf2e/compendium/equipment/Relics#Temporal Pulse|temporal pulse]]
+**Grand Gift**: [[srd/pf2e/compendium/equipment/Relics#Time Reversal|time reversal]]
 
 *Source: Treasure Vault (Remastered) p. 205*

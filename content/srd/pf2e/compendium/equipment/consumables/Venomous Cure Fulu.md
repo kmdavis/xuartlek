@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 - **Price**: 10 gp
 - **Usage**: affixed to armor
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]])
 - **Trigger**: You attempt a saving throw against an injected poison.
 
 This green fulu depicts venomous creatures and vermin. When activated, the venom from the fulu fights against the venom in your system, granting you a +2 status bonus to the triggering saving throw.

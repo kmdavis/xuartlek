@@ -17,12 +17,12 @@ socialImage: og-image.png
 - **Cast**: 1 day
 - **Cost**: faerie circle ingredients worth a total value of 1 gp × the spell rank × the target’s level
 - **Secondary Casters**: 4
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (master)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] (master)
 - **Secondary Checks**: Crafting, Diplomacy, Survival
 - **Range**: 100 miles
 - **Target(s)**: 1 animal, beast, fey, fungus, or plant
 - **Duration**: see text
 
-This functions as _planar servitor_ except you craft a faerie circle and call an [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beast]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]] &lt;%END>, [[srd/pf2e/compendium/rules-elements/traits/player-core/fungus|fungus]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] from within 100 miles.
+This functions as _planar servitor_ except you craft a faerie circle and call an [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Beast|beast]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fey|fey]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fungus|fungus]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]] from within 100 miles.
 
 *Source: Player Core p. 394*

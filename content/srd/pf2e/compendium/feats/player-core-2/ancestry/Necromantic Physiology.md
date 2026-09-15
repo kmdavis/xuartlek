@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Dhampir`
 
-Your unusual physiology has developed in a way that makes it difficult for parasites and other infestations to prey upon you. You gain a +2 circumstance bonus to saving throws against diseases. If you roll a success on a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], you get a critical success instead. If you have a different ability that would improve the save in this way (such as the battle hardened fighter class feature), if you roll a critical failure on the save you get a failure instead.
+Your unusual physiology has developed in a way that makes it difficult for parasites and other infestations to prey upon you. You gain a +2 circumstance bonus to saving throws against diseases. If you roll a success on a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], you get a critical success instead. If you have a different ability that would improve the save in this way (such as the battle hardened fighter class feature), if you roll a critical failure on the save you get a failure instead.
 
 *Source: Player Core 2 p. 43*

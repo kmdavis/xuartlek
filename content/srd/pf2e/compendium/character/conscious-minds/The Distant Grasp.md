@@ -13,23 +13,23 @@ socialImage: og-image.png
 Motion characterizes the physical—a boulder falls, creatures move, the world turns. You believe the truest form of mind over matter is therefore to move things as well, wielding telekinesis as an arm that can grasp the furthest and finest of objects.
 
 **Granted Spells**
-- **1st** [[srd/pf2e/compendium/spells/rank-1/kinetic-ram|Kinetic Ram]]
-- **2nd** [[srd/pf2e/compendium/spells/rank-2/telekinetic-maneuver|Telekinetic Maneuver]]
-- **3rd** [[srd/pf2e/compendium/spells/rank-3/gravity-well|Gravity Well]]
-- **4th** [[srd/pf2e/compendium/spells/rank-4/fly|Fly]]
-- **5th** [[srd/pf2e/compendium/spells/rank-5/telekinetic-haul|Telekinetic Haul]]
-- **6th** [[srd/pf2e/compendium/spells/rank-6/poltergeists-fury|Poltergeist's Fury]]
-- **7th** [[srd/pf2e/compendium/spells/rank-7/telekinetic-bombardment|Telekinetic Bombardment]]
-- **8th** [[srd/pf2e/compendium/spells/rank-8/falling-sky|Falling Sky]]
-- **9th** [[srd/pf2e/compendium/spells/rank-9/implosion|Implosion]]
+- **1st** [[srd/pf2e/compendium/spells/rank-1/Kinetic Ram|Kinetic Ram]]
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/Telekinetic Maneuver|Telekinetic Maneuver]]
+- **3rd** [[srd/pf2e/compendium/spells/rank-3/Gravity Well|Gravity Well]]
+- **4th** [[srd/pf2e/compendium/spells/rank-4/Fly|Fly]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/Telekinetic Haul|Telekinetic Haul]]
+- **6th** [[srd/pf2e/compendium/spells/rank-6/Poltergeist's Fury|Poltergeist's Fury]]
+- **7th** [[srd/pf2e/compendium/spells/rank-7/Telekinetic Bombardment|Telekinetic Bombardment]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/Falling Sky|Falling Sky]]
+- **9th** [[srd/pf2e/compendium/spells/rank-9/Implosion|Implosion]]
 
-**Standard Psi Cantrips** [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]] and [[srd/pf2e/compendium/spells/cantrips/telekinetic-projectile|Telekinetic Projectile]]
+**Standard Psi Cantrips** [[srd/pf2e/compendium/spells/cantrips/Telekinetic Hand|Telekinetic Hand]] and [[srd/pf2e/compendium/spells/cantrips/Telekinetic Projectile|Telekinetic Projectile]]
 
-**Surface Psi Cantrip** [[srd/pf2e/compendium/spells/cantrips/telekinetic-rend|Telekinetic Rend]]
+**Surface Psi Cantrip** [[srd/pf2e/compendium/spells/cantrips/Telekinetic Rend|Telekinetic Rend]]
 
-**Deeper Psi Cantrip (Level 6)** [[srd/pf2e/compendium/spells/cantrips/vector-screen|Vector Screen]]
+**Deeper Psi Cantrip (Level 6)** [[srd/pf2e/compendium/spells/cantrips/Vector Screen|Vector Screen]]
 
-**Deepest Psi Cantrip (Level 10)** [[srd/pf2e/compendium/spells/cantrips/dancing-blade|Dancing Blade]]
+**Deepest Psi Cantrip (Level 10)** [[srd/pf2e/compendium/spells/cantrips/Dancing Blade|Dancing Blade]]
 
 ### Telekinetic Hand
 

@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Cleric`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Might|Might]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Might|Might]]
 - **Trigger**: An attack or effect would deal damage to you
 
 Your own might mingles with divine power to protect you from harm. You gain resistance equal to 8 plus your Strength modifier against all damage from the triggering attack or effect.

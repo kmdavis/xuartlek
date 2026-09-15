@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/inventor|Inventor]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/inventor-dedication|Inventor Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Inventor|Inventor]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Inventor Dedication|Inventor Dedication]]
 
-You've learned to modify your innovation in order to enhance its capabilities beyond what an ordinary piece of equipment can accomplish. You gain a basic modification of your choice for your [[srd/pf2e/compendium/character/innovations|innovation]]. Your innovation must meet any requirements for the modification you choose, as normal.
+You've learned to modify your innovation in order to enhance its capabilities beyond what an ordinary piece of equipment can accomplish. You gain a basic modification of your choice for your [[srd/pf2e/compendium/character/Innovations|innovation]]. Your innovation must meet any requirements for the modification you choose, as normal.
 
 *Source: Guns & Gears (Remastered) p. 49*

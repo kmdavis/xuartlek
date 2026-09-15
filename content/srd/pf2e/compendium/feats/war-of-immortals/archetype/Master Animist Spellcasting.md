@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/animist|Animist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/expert-animist-spellcasting|Expert Animist Spellcasting]]; Legendary in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Animist|Animist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Expert Animist Spellcasting|Expert Animist Spellcasting]]; Legendary in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
-You gain the [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|master spellcasting benefits]] as a prepared divine caster.
+You gain the [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Spellcasting Archetypes|master spellcasting benefits]] as a prepared [divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2) caster.
 
 *Source: War of Immortals p. 56*

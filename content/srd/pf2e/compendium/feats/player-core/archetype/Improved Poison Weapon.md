@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Rogue`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/assassin|Assassin]] (Level 10), [[srd/pf2e/compendium/character/archetypes/poisoner|Poisoner]] (Level 10)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/poison-weapon|Poison Weapon]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Assassin|Assassin]] (Level 10), [[srd/pf2e/compendium/character/archetypes/Poisoner|Poisoner]] (Level 10)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Poison Weapon|Poison Weapon]]
 
 You deliver poisons in ways that maximize their harmful effects. When you apply a simple poison with Poison Weapon, the poison deals 2d4 poison damage instead of 1d4 poison damage. You don’t waste a poison you apply with Poison Weapon on a critically failed attack roll.
 

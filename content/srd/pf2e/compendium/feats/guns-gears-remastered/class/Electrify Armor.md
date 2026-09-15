@@ -15,13 +15,13 @@ socialImage: og-image.png
 
 `Inventor`  `Manipulate`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/innovations#Armor|armor innovation]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Innovations#Armor|armor innovation]]
 - **Requirements**: You are wearing your armor innovation.
 
-You electrify your armor to punish foes who dare to attack you. For 1 round, any creature that touches you, or that hits you with a melee [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack or a non-[[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] melee weapon attack, takes 1d4 electricity damage. The effect ends if you cease wearing your armor innovation.
+You electrify your armor to punish foes who dare to attack you. For 1 round, any creature that touches you, or that hits you with a melee [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack or a non-[[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach]] melee weapon attack, takes 1d4 electricity damage. The effect ends if you cease wearing your armor innovation.
 
  If you have the revolutionary innovation class feature, the damage increases to 2d4.
 
- **Unstable Function** You create an unstable chain reaction, sending countless sparks dancing across your armor. Add the [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/unstable|unstable]] trait to Electrify Armor. The effects last for 1 minute instead of 1 round, and the damage dice increase from d4s to d12s.
+ **Unstable Function** You create an unstable chain reaction, sending countless sparks dancing across your armor. Add the [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/Unstable|unstable]] trait to Electrify Armor. The effects last for 1 minute instead of 1 round, and the damage dice increase from d4s to d12s.
 
 *Source: Guns & Gears (Remastered) p. 29*

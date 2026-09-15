@@ -17,8 +17,8 @@ socialImage: og-image.png
 `Barbarian`  `Druid`  `Mental`
 
 - **Prerequisites**: animal instinct or untamed order
-- **Requirements**: Your last action dealt bludgeoning damage using an [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] Strike granted by a [[srd/pf2e/compendium/rules-elements/traits/player-core/morph|morph]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] effect.
+- **Requirements**: Your last action dealt bludgeoning damage using an [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] Strike granted by a [[srd/pf2e/compendium/rules-elements/traits/player-core/Morph|morph]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]] effect.
 
-You've learned how to cloud your foes' minds with the brutal impact of your repeated attacks. Make an unarmed Strike against the same target. If the Strike hits and deals bludgeoning damage, the target is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 2]] for 1 round (stupefied 3 on a critical hit).
+You've learned how to cloud your foes' minds with the brutal impact of your repeated attacks. Make an unarmed Strike against the same target. If the Strike hits and deals bludgeoning damage, the target is [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied 2]] for 1 round (stupefied 3 on a critical hit).
 
 *Source: Howl of the Wild p. 56*

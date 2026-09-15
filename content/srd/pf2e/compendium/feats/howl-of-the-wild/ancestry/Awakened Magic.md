@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Awakened Animal`
 
-When you awakened, primal magic was released within you. Choose one [[srd/pf2e/compendium/rules-elements/traits/player-core/cantrip|cantrip]] from the primal spell list. You can cast this spell as an primal innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
+When you awakened, primal magic was released within you. Choose one [[srd/pf2e/compendium/rules-elements/traits/player-core/Cantrip|cantrip]] from the [primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4) spell list. You can cast this spell as an primal innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
 
 ### Awakened Magic leads to...
 
-[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/animal-summoner|Animal Summoner]]
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Animal Summoner|Animal Summoner]]
 
 *Source: Howl of the Wild p. 25*

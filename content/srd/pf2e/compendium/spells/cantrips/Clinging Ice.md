@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Cantrip`  `Cold`  `Hex`  `Manipulate`  `Uncommon`  `Witch`
 
-- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Silence in Snow|Silence in Snow]]
+- **Patron Theme**: [[srd/pf2e/compendium/character/Patrons#Silence in Snow|Silence in Snow]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Reflex

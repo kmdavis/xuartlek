@@ -30,14 +30,14 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "+14"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +14, [[srd/pf2e/compendium/rules-elements/skills/lore|Engineering Lore]] +14, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +14, [[srd/pf2e/compendium/rules-elements/skills/Lore|Engineering Lore]] +14, [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] +12"
 abilityMods: [2, 4, 2, 2, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit]] (rocketry), flight suit (functions as [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]), heavy wrench (functions as a [[srd/pf2e/compendium/equipment/weapons/club/mace|mace]]), moderate alchemist's fire (4), _+1 slide pistol_ (20 rounds)"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/Artisan's Toolkit|Artisan's Toolkit]] (rocketry), flight suit (functions as [[srd/pf2e/compendium/equipment/Armor#Leather Armor|leather armor]]), heavy wrench (functions as a [[srd/pf2e/compendium/equipment/weapons/club/Mace|mace]]), moderate alchemist's fire (4), _+1 slide pistol_ (20 rounds)"
 ac: 23
 armorclass:
   - name: "AC"
@@ -48,15 +48,15 @@ health:
     desc: "85"
 abilities_mid:
   - name: "Fuel Tank Vulnerability"
-    desc: "When the rocketeer is struck by a critical hit that deals piercing or fire damage, they must attempt a DC 5 flat check. On a failure, the rocketeer's fuel tank explodes, dealing 6d6 fire damage to the rocketeer and all creatures in a 20-foot emanation and knocking the rocketeer [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. The rocketeer loses their fly Speed and can't use Explosive Liftoff, Mid-air Collision, or Rocketing Strafe until they repair their jet pack, which requires an appropriate set of artisan's tools and takes 2 hours."
+    desc: "When the rocketeer is struck by a critical hit that deals piercing or fire damage, they must attempt a DC 5 flat check. On a failure, the rocketeer's fuel tank explodes, dealing 6d6 fire damage to the rocketeer and all creatures in a 20-foot emanation and knocking the rocketeer [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]. The rocketeer loses their fly Speed and can't use Explosive Liftoff, Mid-air Collision, or Rocketing Strafe until they repair their jet pack, which requires an appropriate set of artisan's tools and takes 2 hours."
 speed: "25 feet, fly 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ heavy wrench +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/shove|Shove]]) __Damage__ 1d6+8 bludgeoning"
+    desc: "⬻ heavy wrench +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Shove|Shove]]) __Damage__ 1d6+8 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+8 bludgeoning"
+    desc: "⬻ fist +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+8 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ _slide pistol_ +17 ([[srd/pf2e/compendium/rules-elements/traits/gm-core/city|capacity 5]], [[srd/pf2e/compendium/rules-elements/traits/npc-core/concussive|Concussive]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d10]], range increment 30 feet, reload 1) __Damage__ 1d6+6 piercing"
+    desc: "⬻ _slide pistol_ +17 ([[srd/pf2e/compendium/rules-elements/traits/gm-core/City|capacity 5]], [[srd/pf2e/compendium/rules-elements/traits/npc-core/Concussive|Concussive]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fatal|fatal d10]], range increment 30 feet, reload 1) __Damage__ 1d6+6 piercing"
 abilities_bot:
   - name: "Explosive Liftoff"
     desc: "⬺"
@@ -67,7 +67,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The rocketeer unleashes the full strength of their jets to launch themself into the air, dealing 7d6 fire and bludgeoning damage to all creatures in a 15-foot emanation with a DC 24 basic Reflex save. The rocketeer [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]] twice, straight up into the air."
   - name: "Mid-air Collision"
-    desc: "⬺ The rocketeer [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]] twice, then attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] another flying creature. If they roll a success on the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check, they get a critical success instead."
+    desc: "⬺ The rocketeer [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]] twice, then attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] another flying creature. If they roll a success on the [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check, they get a critical success instead."
   - name: "Rocketing Strafe"
     desc: "⬺ The rocketeer [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]] and makes two melee Strikes at any point during that movement. Each Strike must target a different creature. The rocketeer can forgo the melee Strikes to instead make one slide pistol Strike at any point during that movement and Interact to select the next loaded chamber of their slide pistol; they can do these in either order. Any Strike made as part of a Rocketing Strafe deals an additional 2d6 damage and takes the normal multiple attack penalty."
 sourcebook: "_NPC Core_, page 47."

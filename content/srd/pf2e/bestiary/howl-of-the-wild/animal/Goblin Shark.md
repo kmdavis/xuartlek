@@ -30,13 +30,13 @@ perception:
     desc: "+15; blood scent, electrolocation 20 feet, scent (imprecise) 100 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +15, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +15, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +10"
 abilityMods: [6, 4, 5, -4, 3, -3]
 abilities_top:
   - name: "Blood Scent"
     desc: "The shark can smell blood in the water from up to 1 mile away."
   - name: "Camouflage"
-    desc: "The goblin shark's coloration blends in with the water. It doesn't need cover to attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] with a [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] check while underwater."
+    desc: "The goblin shark's coloration blends in with the water. It doesn't need cover to attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] with a [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] check while underwater."
   - name: "Electrolocation"
     desc: "A goblin shark can sense minute electrical charges in living creatures, which it can use as a precise sense at a range of 20 feet."
 ac: 21

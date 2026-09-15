@@ -34,10 +34,10 @@ modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]], Utopian; telepathy 100 feet"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/Languages#Sussuran|Sussuran]], Utopian; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +19, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +19, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +22, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +22, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +19, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +22, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +16"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] +19, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +19, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +22, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +22, [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] +19, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +22, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +16"
 abilityMods: [7, 3, 5, 6, 5, 5]
 ac: 30
 armorclass:
@@ -50,41 +50,41 @@ health:
 speed: "15 feet, fly 50 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 2d10+13 piercing plus quetz coatl venom and Grab"
+    desc: "⬻ jaws +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]]) __Damage__ 2d10+13 piercing plus quetz coatl venom and Grab"
 abilities_bot:
   - name: "Greater Constrict"
     desc: "⬻ 2d10+7 bludgeoning, DC 29"
   - name: "Quetz Coatl Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]]) To [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] creatures, this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]] instead of a poison and deals spirit damage instead of poison damage"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]]) To [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]] creatures, this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Curse|curse]] instead of a poison and deals spirit damage instead of poison damage"
   - name: "Saving Throw"
     desc: "DC 29 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "2d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] (1 round)"
+    desc: "2d6 poison damage and [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled 1]] (1 round)"
   - name: "Stage 2"
-    desc: "2d8 poison damage, enfeebled 1, and [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] (1 round)"
+    desc: "2d8 poison damage, enfeebled 1, and [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] (1 round)"
   - name: "Stage 3"
     desc: "2d10 poison damage, enfeebled 2, and off-guard (1 round)"
   - name: "Radiant Wings"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/light|Light]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|Visual]]) The quetz coatl spreads their multicolored wings and radiant plumage. Each enemy in a 30-foot emanation must attempt a DC 29 Will save."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Light|Light]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|Visual]]) The quetz coatl spreads their multicolored wings and radiant plumage. Each enemy in a 30-foot emanation must attempt a DC 29 Will save."
   - name: "Critical Success"
     desc: "The creature is unaffected and is temporarily immune to Radiant Wings for 24 hours."
   - name: "Success"
-    desc: "The creature is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round."
+    desc: "The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] for 1 round."
   - name: "Failure"
     desc: "The creature is dazzled for 1 minute."
   - name: "Critical Failure"
-    desc: "As failure, plus if the creature is [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]], it is also [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 3]]."
+    desc: "As failure, plus if the creature is [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]], it is also [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned 3]]."
   - name: "Wrap in Coils"
     desc: "⬻"
   - name: "Requirements"
-    desc: "The quetz coatl has a Medium or smaller creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] in its jaws"
+    desc: "The quetz coatl has a Medium or smaller creature [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] in its jaws"
   - name: "Effect"
     desc: "The quetz coatl moves the creature into its coils, freeing its fangs to make attacks, then uses Greater Constrict against the creature. The quetz coatl can hold as many creatures in its coils as will fit in its space."
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 29 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]], [[srd/pf2e/compendium/spells/cantrips/vitality-lash|Vitality Lash]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/mind-reading|Mind Reading]] (at will) - __4th__ [[srd/pf2e/compendium/spells/rank-1/charm|Charm]], [[srd/pf2e/compendium/spells/rank-4/vapor-form|Vapor Form]] - __5th__ [[srd/pf2e/compendium/spells/rank-5/breath-of-life|Breath of Life]], [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|Cleanse Affliction]], [[srd/pf2e/compendium/spells/rank-4/divine-wrath|Divine Wrath]] - __7th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (self only)"
+    desc: "DC 29 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/Light|Light]], [[srd/pf2e/compendium/spells/cantrips/Telekinetic Hand|Telekinetic Hand]], [[srd/pf2e/compendium/spells/cantrips/Vitality Lash|Vitality Lash]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/Mind Reading|Mind Reading]] (at will) - __4th__ [[srd/pf2e/compendium/spells/rank-1/Charm|Charm]], [[srd/pf2e/compendium/spells/rank-4/Vapor Form|Vapor Form]] - __5th__ [[srd/pf2e/compendium/spells/rank-5/Breath of Life|Breath of Life]], [[srd/pf2e/compendium/spells/rank-2/Cleanse Affliction|Cleanse Affliction]], [[srd/pf2e/compendium/spells/rank-4/Divine Wrath|Divine Wrath]] - __7th__ [[srd/pf2e/compendium/spells/rank-7/Interplanar Teleport|Interplanar Teleport]] (self only)"
 sourcebook: "_Monster Core_, page 65."
 ```
 

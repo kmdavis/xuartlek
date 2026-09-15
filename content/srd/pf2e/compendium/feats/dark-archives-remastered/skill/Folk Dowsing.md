@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `General`  `Skill`  `Uncommon`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-You can find what you're looking for using a dowsing rod or pendulum. If you Search while wielding a dowsing rod or pendulum, in addition to the normal checks for [[srd/pf2e/compendium/rules-elements/actions/player-core#Search|Searching]], the GM rolls a secret Survival check for you to detect the largest source of water, oil, or another natural non-bodily fluid in the area. Even if the liquid is concealed from you—for example, if it stems from an underground spring or is piped through a wall—this technique points you in the right direction. The GM determines the DC, which is usually the trained [[srd/pf2e/books/gm-core/chapter-1-running-the-game/difficulty-classes#Simple DCs|simple DC]] with a [[srd/pf2e/books/gm-core/chapter-1-running-the-game/difficulty-classes#Adjusting Difficulty|hard or very hard adjustment]] if the source of water is small.
+You can find what you're looking for using a dowsing rod or pendulum. If you Search while wielding a dowsing rod or pendulum, in addition to the normal checks for [[srd/pf2e/compendium/rules-elements/actions/player-core#Search|Searching]], the GM rolls a secret Survival check for you to detect the largest source of water, oil, or another natural non-bodily fluid in the area. Even if the liquid is concealed from you—for example, if it stems from an underground spring or is piped through a wall—this technique points you in the right direction. The GM determines the DC, which is usually the trained [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Difficulty Classes#Simple DCs|simple DC]] with a [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Difficulty Classes#Adjusting Difficulty|hard or very hard adjustment]] if the source of water is small.
 
  If you're an expert in Survival, the GM also makes a Survival check for you to detect sizable deposits of metal, minerals, and nearby graves. The DC is usually the expert simple DC, with DC adjustments for smaller deposits.
 

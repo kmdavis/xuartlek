@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Electricity`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: Anras, [[srd/pf2e/compendium/deities/daemon-harbingers/cixyron|Cixyron]], [[srd/pf2e/compendium/deities/demon-lords/dagon|Dagon]], [[srd/pf2e/compendium/deities/tian-gods/hei-feng|Hei Feng]], [[srd/pf2e/compendium/deities/elemental-lords/ranginori|Ranginori]], [[srd/pf2e/compendium/deities/orc-gods/rull|Rull]], [[srd/pf2e/compendium/deities/vudrani-gods/vineshvakhi|Vineshvakhi]], [[srd/pf2e/compendium/deities/pantheons/weight-of-the-world|Weight of the World]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Anras, [[srd/pf2e/compendium/deities/daemon-harbingers/Cixyron|Cixyron]], [[srd/pf2e/compendium/deities/demon-lords/Dagon|Dagon]], [[srd/pf2e/compendium/deities/tian-gods/Hei Feng|Hei Feng]], [[srd/pf2e/compendium/deities/elemental-lords/Ranginori|Ranginori]], [[srd/pf2e/compendium/deities/orc-gods/Rull|Rull]], [[srd/pf2e/compendium/deities/vudrani-gods/Vineshvakhi|Vineshvakhi]], [[srd/pf2e/compendium/deities/pantheons/Weight of the World|Weight of the World]]
 - **Range**: 500 feet
 - **Target**: 1 creature, plus any number of additional creatures
 - **Defense**: basic Reflex

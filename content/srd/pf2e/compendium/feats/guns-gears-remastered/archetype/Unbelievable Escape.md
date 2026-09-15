@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/unexpected-sharpshooter|Unexpected Sharpshooter]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/unexpected-sharpshooter-dedication|Unexpected Sharpshooter Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Unexpected Sharpshooter|Unexpected Sharpshooter]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
 
-Your ability to narrowly evade danger defies all logic. You can use [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/lucky-escape|Lucky Escape]] once per hour instead of once per day.
+Your ability to narrowly evade danger defies all logic. You can use [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Lucky Escape|Lucky Escape]] once per hour instead of once per day.
 
 *Source: Guns & Gears (Remastered) p. 143*

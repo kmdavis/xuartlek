@@ -41,9 +41,9 @@ health:
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ maw +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d10+10 piercing plus Grab"
+    desc: "⬻ maw +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 2d10+10 piercing plus Grab"
   - name: "Melee"
-    desc: "⬻ root +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d8+10 bludgeoning"
+    desc: "⬻ root +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 2d8+10 bludgeoning"
 abilities_bot:
   - name: "Pod Prison"
     desc: "⭓"
@@ -54,9 +54,9 @@ abilities_bot:
   - name: "Pod Spawn"
     desc: "If a Small or larger creature dies within a pod prison, the pod transforms into an adult moonflower with full Hit Points after 1d4 hours of growth. The dead creature's equipment remains inside the new moonflower and can be retrieved if the moonflower is slain."
   - name: "Spray Blossoms"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]) The moonflower expels mind-warping petals in a 30-foot cone. Creatures in the area take 4d6 mental damage and 4d6 poison damage (DC 26 basic Will save). A creature that fails is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 2 for 1 minute, and confused for 1 round if it got a critical failure. The moonflower can't Spray Blossoms again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]]) The moonflower expels mind-warping petals in a 30-foot cone. Creatures in the area take 4d6 mental damage and 4d6 poison damage (DC 26 basic Will save). A creature that fails is [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] 2 for 1 minute, and confused for 1 round if it got a critical failure. The moonflower can't Spray Blossoms again for 1d4 rounds."
   - name: "Swallow Whole"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]]) Large, 2d10+10 bludgeoning and 2d6 acid, Rupture 21"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|Attack]]) Large, 2d10+10 bludgeoning and 2d6 acid, Rupture 21"
 sourcebook: "_Dark Archives (Remastered)_, page 153."
 ```
 

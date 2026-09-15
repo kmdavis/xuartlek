@@ -20,7 +20,7 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Emotion`  `Focus`  `Manipulate`  `Mental`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Confidence|Confidence]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

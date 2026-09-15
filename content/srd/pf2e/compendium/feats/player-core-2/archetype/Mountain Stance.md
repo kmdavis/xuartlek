@@ -15,15 +15,15 @@ socialImage: og-image.png
 
 `Monk`  `Stance`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Martial Artist|Martial Artist]] (Level 4)
 - **Requirements**: You are unarmored and touching the ground.
 
-You enter the stance of an implacable mountain—a technique created by dwarven monks—allowing you to strike with the weight of an avalanche and block blows with your garments. The only Strikes you can make are falling stone unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] traits.
+You enter the stance of an implacable mountain—a technique created by dwarven monks—allowing you to strike with the weight of an avalanche and block blows with your garments. The only Strikes you can make are falling stone unarmed attacks. These deal 1d8 bludgeoning damage; are in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group; and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Forceful|forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] traits.
 
- While in Mountain Stance, you gain a +4 item bonus to AC and a +2 circumstance bonus to any defenses against [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]], and other forced movement effects. You have a Dexterity modifier cap to your AC of +0, meaning you don't add your Dexterity to your AC, and your Speeds are all reduced by 5 feet. The item bonus to AC from Mountain Stance is cumulative with [[srd/pf2e/compendium/equipment/runes/armor-potency|_armor potency_]] runes on your [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]], [[srd/pf2e/compendium/spells/rank-1/mystic-armor|_mystic armor_]], and [[srd/pf2e/compendium/equipment/worn-items/bands-of-force|_bands of force_]].
+ While in Mountain Stance, you gain a +4 item bonus to AC and a +2 circumstance bonus to any defenses against [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]], and other forced movement effects. You have a Dexterity modifier cap to your AC of +0, meaning you don't add your Dexterity to your AC, and your Speeds are all reduced by 5 feet. The item bonus to AC from Mountain Stance is cumulative with [[srd/pf2e/compendium/equipment/runes/Armor Potency|_armor potency_]] runes on your [[srd/pf2e/compendium/equipment/Armor#Explorer's Clothing|explorer's clothing]], [[srd/pf2e/compendium/spells/rank-1/Mystic Armor|_mystic armor_]], and [[srd/pf2e/compendium/equipment/worn-items/Bands of Force|_bands of force_]].
 
 ### Mountain Stance leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/mountain-stronghold|Mountain Stronghold]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Mountain Stronghold|Mountain Stronghold]]
 
 *Source: Player Core 2 p. 118*

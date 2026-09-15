@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Dhampir`
 
-You call forth the blood of your foes to grant you vigor. You can cast [[srd/pf2e/compendium/spells/rank-6/vampiric-exsanguination|_vampiric exsanguination_]] as a 7th-rank divine innate spell once per day
+You call forth the blood of your foes to grant you vigor. You can cast [[srd/pf2e/compendium/spells/rank-6/Vampiric Exsanguination|_vampiric exsanguination_]] as a 7th-rank divine innate spell once per day
 
 *Source: Player Core 2 p. 45*

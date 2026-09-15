@@ -23,7 +23,7 @@ socialImage: og-image.png
 `Auditory`  `Concentrate`  `Curse`  `Druid`  `Linguistic`  `Manipulate`  `Primal`  `Ranger`  `Uncommon`
 
 - **Frequency**: once per hour
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 - **Requirements**: You must be in either natural terrain or in abandoned or relatively unused artificial terrain (such as a darkened alley or haunted house).
 
 You know there are places in the world that are just wrong— places where the birds don't sing and where you always feel like you're being watched. You can spot these places, and you can awaken them. To do so, you must gesture toward a 10-foot by 10- foot square you can see and make an ominous proclamation of some manner (i.e. “This is cursed ground,” “That is an ill-omened place.”). The next creature that enters the marked territory must attempt a Will save against your spell DC (if you're a druid) or class DC (if you're a ranger).
@@ -36,6 +36,6 @@ You know there are places in the world that are just wrong— places where the b
 
 ## 
 
-**d4****Failure****Critical Failure**1[[srd/pf2e/compendium/rules-elements/conditions#Clumsy|Clumsy 2]]Clumsy 32[[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|Enfeebled 2]]Enfeebled 33[[srd/pf2e/compendium/rules-elements/conditions#Stupefied|Stupefied 2]]Stupefied 34[[srd/pf2e/compendium/rules-elements/conditions#Dazzled|Dazzled]][[srd/pf2e/compendium/rules-elements/conditions#Blinded|Blinded]] for 1 round, then dazzled
+**d4****Failure****Critical Failure**1{{conditions 61 "Clumsy 2"}}Clumsy 32{{conditions 71 "Enfeebled 2"}}Enfeebled 33{{conditions 94 "Stupefied 2"}}Stupefied 34{{conditions 65 "Dazzled"}}{{conditions 59 "Blinded"}} for 1 round, then dazzled
 
 *Source: Dark Archives (Remastered) p. 65*

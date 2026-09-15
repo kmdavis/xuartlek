@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Jotunborn`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/ancestry/jotuns-battle-stance|Jotun's Battle Stance]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/ancestry/Jotun's Battle Stance|Jotun's Battle Stance]]
 
 You have unlocked the power of a true giant within you. Your size becomes Huge. You have a 10-foot reach. Your maximum Hit Points increase by your level.
 

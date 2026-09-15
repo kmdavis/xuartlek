@@ -13,25 +13,25 @@ socialImage: og-image.png
 
 #### Vindicator 1st
 
-You have been specially trained to use guile and magic to reveal hidden threats. You must select [[srd/pf2e/compendium/feats/war-of-immortals/archetype/silence-the-profane-vindicator|Vindicator Dedication]] as your 2nd-level class feat.
+You have been specially trained to use guile and magic to reveal hidden threats. You must select [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Silence the Profane (Vindicator)|Vindicator Dedication]] as your 2nd-level class feat.
 
-**Prerequisites:** You must be a [[srd/pf2e/compendium/character/classes/ranger|ranger]]. 
+**Prerequisites:** You must be a [[srd/pf2e/compendium/character/classes/Ranger|ranger]]. 
 
-**Vindicator Adjustments:** You must choose a [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Deity|deity]] to be a follower of, and you gain your deity's sanctification. You are trained in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] instead of [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]].
+**Vindicator Adjustments:** You must choose a [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation#Deity|deity]] to be a follower of, and you gain your deity's sanctification. You are trained in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] instead of [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]].
 
 You are trained in your deity's favored weapon. 
 
-If your deity's favored weapon is a simple weapon or unarmed attack with a damage die smaller than d6, you gain the [[srd/pf2e/compendium/feats/player-core/class/deadly-simplicity|Deadly Simplicity]] feat. If your deity's favored weapon is an advanced weapon, your proficiency with it is equal to your proficiency with martial weapons.
+If your deity's favored weapon is a simple weapon or unarmed attack with a damage die smaller than d6, you gain the [[srd/pf2e/compendium/feats/player-core/class/Deadly Simplicity|Deadly Simplicity]] feat. If your deity's favored weapon is an advanced weapon, your proficiency with it is equal to your proficiency with martial weapons.
 
 You must choose the vindication edge for your hunter's edge.
 
-You learn warden spells as divine spells instead of primal spells, and your spellcasting attribute is Wisdom. When you gain domain spells via the [[srd/pf2e/compendium/feats/player-core/archetype/domain-initiate|Domain Initiate]] or [[srd/pf2e/compendium/feats/player-core/archetype/advanced-domain|Advanced Domain]] feats, they are warden spells for the purposes of all your vindicator feats and abilities.
+You learn warden spells as divine spells instead of primal spells, and your spellcasting attribute is Wisdom. When you gain domain spells via the [[srd/pf2e/compendium/feats/player-core/archetype/Domain Initiate|Domain Initiate]] or [[srd/pf2e/compendium/feats/player-core/archetype/Advanced Domain|Advanced Domain]] feats, they are warden spells for the purposes of all your vindicator feats and abilities.
 
 #### Vindication Edge
 
 Your specialized training gives you a unique edge that allows you to more effectively bring the tools of your faith to bear against the monsters that lurk in the night or hide among the faithful.
 
-You gain a +1 status bonus to your spell attack rolls against your hunted prey, and they take a –1 status penalty to their saving throws against divine spells you cast. You gain the [[srd/pf2e/compendium/spells/focus/vindicators-mark|_vindicator’s mark_]] warden spell.
+You gain a +1 status bonus to your spell attack rolls against your hunted prey, and they take a –1 status penalty to their saving throws against divine spells you cast. You gain the [[srd/pf2e/compendium/spells/focus/Vindicator's Mark|_vindicator’s mark_]] warden spell.
 
 #### Additional Feats
 

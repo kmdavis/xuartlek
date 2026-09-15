@@ -24,7 +24,7 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Polearm
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Polearm|Polearm]]
 
 Created by goblins to battle horses, this weapon is essentially a long shaft ending in a blade with a large hook.
 

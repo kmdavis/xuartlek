@@ -28,14 +28,14 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+6"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +11, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +9, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +10, [[srd/pf2e/compendium/rules-elements/skills/lore|Mercantile Lore]] +9, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +11, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +9, [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] +10, [[srd/pf2e/compendium/rules-elements/skills/Lore|Mercantile Lore]] +9, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +9"
 abilityMods: [0, 2, 1, 4, 1, 2]
 abilities_top:
   - name: "Items"
-    desc: "moderate acid flask (×8), [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|Alchemist's Toolkit]], Dagger, formula book, [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|Healer's Toolkit]]"
+    desc: "moderate acid flask (×8), [[srd/pf2e/compendium/equipment/adventuring-gear/Alchemist's Toolkit|Alchemist's Toolkit]], Dagger, formula book, [[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit|Healer's Toolkit]]"
 ac: 17
 armorclass:
   - name: "AC"
@@ -47,16 +47,16 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+4 piercing"
+    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+4 piercing"
   - name: "Melee"
-    desc: "⬻ fist +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+4 bludgeoning"
+    desc: "⬻ fist +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ acid flask +10 ([[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|Splash]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 30 feet]]) __Damage__ 2d6 persistent acid damage plus 2 acid [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage"
+    desc: "⬻ acid flask +10 ([[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|Splash]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 30 feet]]) __Damage__ 2d6 persistent acid damage plus 2 acid [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage"
   - name: "Ranged"
-    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+4 piercing"
+    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+4 piercing"
 abilities_bot:
   - name: "Healing Bomb"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) The tonic merchant quickly crafts a [[srd/pf2e/compendium/equipment/alchemical-items/antidote|lesser antidote]], [[srd/pf2e/compendium/equipment/alchemical-items/antiplague|lesser antiplague]], or [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|minor elixir of life]] and lobs it at a willing or [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] ally within 30 feet. The elixir affects the ally as though they imbibed it. The tonic merchant can use the rarest materials in their toolkit to improve the item to a moderate antidote, moderate antiplague, or lesser elixir of life. Afterward, they must spend 10 minutes gathering new ingredients before they can do so again."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|Manipulate]]) The tonic merchant quickly crafts a [[srd/pf2e/compendium/equipment/alchemical-items/Antidote|lesser antidote]], [[srd/pf2e/compendium/equipment/alchemical-items/Antiplague|lesser antiplague]], or [[srd/pf2e/compendium/equipment/alchemical-items/Elixir of Life|minor elixir of life]] and lobs it at a willing or [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]] ally within 30 feet. The elixir affects the ally as though they imbibed it. The tonic merchant can use the rarest materials in their toolkit to improve the item to a moderate antidote, moderate antiplague, or lesser elixir of life. Afterward, they must spend 10 minutes gathering new ingredients before they can do so again."
 sourcebook: "_NPC Core_, page 62."
 ```
 

@@ -16,12 +16,12 @@ socialImage: og-image.png
 `Concentrate`  `Runesmith`
 
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: one or more [[srd/pf2e/compendium/rules-elements/traits/impossible-magic/diacritic|diacritic]] runes
+- **Prerequisites**: one or more [[srd/pf2e/compendium/rules-elements/traits/impossible-magic/Diacritic|diacritic]] runes
 
 When you intensify your attention, you can modify a rune with great speed. The next time you [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Trace Rune|Trace a Rune]] this turn, you can also Trace a diacritic Rune on that rune.
 
 ### Diacritic Fluency leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/shades-of-meaning|Shades of Meaning]]
+[[srd/pf2e/compendium/feats/impossible-magic/class/Shades of Meaning|Shades of Meaning]]
 
 *Source: Impossible Magic p. 49*

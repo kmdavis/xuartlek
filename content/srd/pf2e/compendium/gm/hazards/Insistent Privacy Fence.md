@@ -23,7 +23,7 @@ socialImage: og-image.png
 DC 30 (expert)
 
 **Disable**
-[[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] DC 28 (expert) to carefully disconnect the coil from the fence or [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] DC 30 (master) to jury-rig a grounding device to nullify the shock
+[[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] DC 28 (expert) to carefully disconnect the coil from the fence or [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] DC 30 (master) to jury-rig a grounding device to nullify the shock
 
 **AC** 25, **Fort** +20, **Ref** +14
 

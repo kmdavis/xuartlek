@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 `Archetype`  `Manipulate`  `Unstable`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/munitions-master|Munitions Master]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/munitions-master-dedication|Munitions Master Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Munitions Master|Munitions Master]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Munitions Master Dedication|Munitions Master Dedication]]
 - **Trigger**: Your turn begins.
 
-You push yourself and your [[srd/pf2e/compendium/character/innovations#Light Mortar|light mortar]] beyond your limits. You are quickened for this turn. You can use the extra action to Load or Launch your light mortar. This doesn't allow you to bypass the normal limit of one Launch per round.
+You push yourself and your [[srd/pf2e/compendium/character/Innovations#Light Mortar|light mortar]] beyond your limits. You are quickened for this turn. You can use the extra action to Load or Launch your light mortar. This doesn't allow you to bypass the normal limit of one Launch per round.
 
 *Source: Battlecry! p. 65*

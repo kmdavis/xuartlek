@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Rogue`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 - **Requirements**: Your last action was a successful Shove
 
 You leverage your weight to topple foes that you move. You attempt to Trip the target, even if the target is no longer in your reach.

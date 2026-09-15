@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/weapon-improviser|Weapon Improviser]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/weapon-improviser-dedication|Weapon Improviser Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Weapon Improviser|Weapon Improviser]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Weapon Improviser Dedication|Weapon Improviser Dedication]]
 
-Whenever you make a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with an improvised weapon against a creature that hasn't [[srd/pf2e/compendium/rules-elements/conditions#Observed|observed]] you making a Strike using an improvised weapon or that is otherwise ignorant of your skill with improvised weapons, the creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against you for that Strike.
+Whenever you make a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with an improvised weapon against a creature that hasn't [[srd/pf2e/compendium/rules-elements/Conditions#Observed|observed]] you making a Strike using an improvised weapon or that is otherwise ignorant of your skill with improvised weapons, the creature is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] against you for that Strike.
 
 *Source: Player Core 2 p. 221*

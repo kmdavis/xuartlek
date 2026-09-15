@@ -26,10 +26,10 @@ modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; darkvision, tremorsense (imprecise) 60 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]; (can't speak any language)"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]]; (can't speak any language)"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +29, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +28, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +30, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +27"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +29, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +28, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +30, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +27"
 abilityMods: [8, 6, 6, -2, 4, 2]
 ac: 37
 armorclass:
@@ -38,13 +38,13 @@ armorclass:
 hp: 335
 health:
   - name: "HP"
-    desc: "335; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 20, slashing 15"
+    desc: "335; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]] 20, slashing 15"
 speed: "25 feet, burrow 25 feet, climb 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ vine +29 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d12]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|sweep]]) __Damage__ 4d12+10 bludgeoning plus Improved Grab"
+    desc: "⬻ vine +29 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d12]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|sweep]]) __Damage__ 4d12+10 bludgeoning plus Improved Grab"
   - name: "Ranged"
-    desc: "⬻ boulder +27 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d12]], range increment 60 feet) __Damage__ 4d10+10 bludgeoning"
+    desc: "⬻ boulder +27 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fatal|fatal d12]], range increment 60 feet) __Damage__ 4d10+10 bludgeoning"
 abilities_bot:
   - name: "Blood Leech"
     desc: "Trigger__ The wemmuth deals damage to a creature with Constrict__ ⬲"
@@ -55,7 +55,7 @@ abilities_bot:
   - name: "Engulf"
     desc: "⬺ DC 36, 4d8 bludgeoning, [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] DC 33, Rupture 36"
   - name: "Thorny Mass"
-    desc: "Whenever a creature within 10 feet attempts a melee attack against a wemmuth or uses [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Tumble Through|Tumble Through]] its space, that creature takes 1d12+10 piercing damage (DC 36 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). Wemmuth Treasure Wemmuths have little interest in using magical items or accumulating treasure out of a sense of greed, but they are smart enough to understand that a few well-placed trinkets and baubles work amazingly well as lures"
+    desc: "Whenever a creature within 10 feet attempts a melee attack against a wemmuth or uses [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Tumble Through|Tumble Through]] its space, that creature takes 1d12+10 piercing damage (DC 36 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save). Wemmuth Treasure Wemmuths have little interest in using magical items or accumulating treasure out of a sense of greed, but they are smart enough to understand that a few well-placed trinkets and baubles work amazingly well as lures"
 sourcebook: "_Monster Core 2_, page 354."
 ```
 

@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Druid`  `Ranger`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
-The natural world can be scary to those not used to it—and you make it scarier still. If you're [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] from a creature, you can attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] it without losing your hidden condition— imitating the sounds of strange beasts or causing the foliage to rustle menacingly. When you do so, you don't take a penalty to your check if the target doesn't understand your language.
+The natural world can be scary to those not used to it—and you make it scarier still. If you're [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] from a creature, you can attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] it without losing your hidden condition— imitating the sounds of strange beasts or causing the foliage to rustle menacingly. When you do so, you don't take a penalty to your check if the target doesn't understand your language.
 
 *Source: Dark Archives (Remastered) p. 65*

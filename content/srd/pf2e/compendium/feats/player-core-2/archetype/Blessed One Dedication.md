@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/blessed-one|Blessed One]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Blessed One|Blessed One]]
 
-You are touched by a deity and gifted with the ability to alleviate the suffering of others. You gain the [[srd/pf2e/compendium/spells/focus/lay-on-hands|_lay on hands_]] devotion spell. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]] by meditating, whether you reflect on the deity granting the blessing or not, allowing your blessing to refill your focus pool. Your devotion spells from the blessed one archetype are divine spells. You become trained in spell attack modifier and spell DC. Your spellcasting attribute is Charisma.
+You are touched by a deity and gifted with the ability to alleviate the suffering of others. You gain the [[srd/pf2e/compendium/spells/focus/Lay on Hands|_lay on hands_]] devotion spell. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]] by meditating, whether you reflect on the deity granting the blessing or not, allowing your blessing to refill your focus pool. Your devotion spells from the blessed one archetype are divine spells. You become trained in spell attack modifier and spell DC. Your spellcasting attribute is Charisma.
 
 ### Blessed One Dedication leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/blessed-denial|Blessed Denial]], [[srd/pf2e/compendium/feats/player-core-2/archetype/blessed-sacrifice|Blessed Sacrifice]], [[srd/pf2e/compendium/feats/player-core-2/archetype/blessed-spell|Blessed Spell]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Blessed Denial|Blessed Denial]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Blessed Sacrifice|Blessed Sacrifice]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Blessed Spell|Blessed Spell]]
 
 *Source: Player Core 2 p. 190*

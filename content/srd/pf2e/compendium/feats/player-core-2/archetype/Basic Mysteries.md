@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/oracle|Oracle]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/oracle-dedication|Oracle Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Oracle|Oracle]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Oracle Dedication|Oracle Dedication]]
 
-You gain a 1st- or 2nd-level oracle feat of your choice.
+You gain a 1st- or 2nd-level [oracle feat](https://2e.aonprd.com/Feats.aspx?Traits=319) of your choice.
 
 ### Basic Mysteries leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/advanced-mysteries|Advanced Mysteries]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Advanced Mysteries|Advanced Mysteries]]
 
 *Source: Player Core 2 p. 180*

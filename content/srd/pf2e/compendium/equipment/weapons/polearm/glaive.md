@@ -1,14 +1,14 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/player-core
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/deadly
 - trait/forceful
 - trait/reach
 - weapon/level/0
 aliases: ["Glaive"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=375"
-source: "Player Core"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -16,14 +16,14 @@ socialImage: og-image.png
 
 `Deadly`  `Forceful`  `Reach`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/demon-lords/baphomet|Baphomet]], [[srd/pf2e/compendium/deities/covenants/faith-in-the-fallen|Faith in the Fallen]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]], The Lady of the North Star
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/demon-lords/Baphomet|Baphomet]], [[srd/pf2e/compendium/deities/covenants/Faith in the Fallen|Faith in the Fallen]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Shelyn|Shelyn]], The Lady of the North Star
 - **Price**: 1 gp
 - **Damage**: 1d8 S
 - **Bulk**: 2
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Polearm
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Polearm|Polearm]]
 
 This polearm consists of a long, single-edged blade on the end of a 7-foot pole. It is extremely effective at delivering lethal cuts at a distance.
 
@@ -33,6 +33,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Frost Fair Yanyuedao, [[srd/pf2e/compendium/equipment/weapons/gravediggers-call|Gravedigger's Call]]
+[[srd/pf2e/compendium/equipment/weapons/Frost Fair Yanyuedao|Frost Fair Yanyuedao]], [[srd/pf2e/compendium/equipment/weapons/Gravedigger's Call|Gravedigger's Call]]
 
-*Source: Player Core p. 278*
+*Source: Tian Xia Character Guide p. 127*

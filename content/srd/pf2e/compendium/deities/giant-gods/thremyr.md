@@ -24,18 +24,18 @@ Strength or Constitution
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/axe/greataxe|Greataxe]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/axe/Greataxe|Greataxe]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Cold|Cold]], [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Water|Water]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Cold|Cold]], [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Water|Water]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/sleep|Sleep]]
+[[srd/pf2e/compendium/spells/rank-1/Sleep|Sleep]]
 
 - **5th**
 Mantle of the Frozen Heart

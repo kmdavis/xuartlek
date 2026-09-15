@@ -16,8 +16,8 @@ socialImage: og-image.png
 `Consumable`  `Magical`
 
 - **Price**: 200 gp
-- **Ammunition**: stones ([[srd/pf2e/compendium/equipment/siege-weapons/trebuchet|trebuchet]])
+- **Ammunition**: stones ([[srd/pf2e/compendium/equipment/siege-weapons/Trebuchet|trebuchet]])
 
-This stone is riddled with holes and cracks large enough to allow insects or other small vermin to pass through. After it’s Launched, two [[srd/pf2e/bestiary/monster-core/animal/army-ant-swarm|army ant swarms]] crawl out of the stone into spaces adjacent to the stone. The swarms are agitated and attack the closest non-ant creatures.
+This stone is riddled with holes and cracks large enough to allow insects or other small vermin to pass through. After it’s Launched, two [[srd/pf2e/bestiary/monster-core/animal/Army Ant Swarm|army ant swarms]] crawl out of the stone into spaces adjacent to the stone. The swarms are agitated and attack the closest non-ant creatures.
 
 *Source: Battlecry! p. 133*

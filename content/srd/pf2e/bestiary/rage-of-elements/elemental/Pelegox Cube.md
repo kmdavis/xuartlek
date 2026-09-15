@@ -32,10 +32,10 @@ modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; metalsense (imprecise) 60 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Talican|Talican]]; telepathy 30 feet"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Talican|Talican]]; telepathy 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +22, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +21, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +20, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +21"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +22, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +21, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +20, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +21"
 abilityMods: [4, 7, 6, 5, 3, 4]
 abilities_top:
   - name: "Metalsense"
@@ -47,14 +47,14 @@ armorclass:
 hp: 210
 health:
   - name: "HP"
-    desc: "210 (16 squares); __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 10; __Weaknesses__ area damage 15, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 10"
+    desc: "210 (16 squares); __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|electricity]] 10; __Weaknesses__ area damage 15, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 10"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
 speed: "fly 25 feet; troop movement"
 abilities_bot:
   - name: "Entrancing Shapes"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|Visual]]) The pelegox cube rapidly shifts, creating a display of seemingly impossible geometric patterns. Creatures in a 60-foot cone take 9d6 mental damage (DC 29 basic Will save). A creature that fails is also [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] with the pelegox cube and stupefied 1 for 1 minute."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|Occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|Visual]]) The pelegox cube rapidly shifts, creating a display of seemingly impossible geometric patterns. Creatures in a 60-foot cone take 9d6 mental damage (DC 29 basic Will save). A creature that fails is also [[srd/pf2e/compendium/rules-elements/Conditions#Fascinated|fascinated]] with the pelegox cube and stupefied 1 for 1 minute."
   - name: "Scrambled Strike"
     desc: ""
   - name: "Frequency"

@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-You transform a thrall into a special instrument that plays a silent, soothing song heard only by a creature’s soul. You learn the [[srd/pf2e/compendium/spells/focus/song-of-the-soul|_song of the soul_]] grave spell.
+You transform a thrall into a special instrument that plays a silent, soothing song heard only by a creature’s soul. You learn the [[srd/pf2e/compendium/spells/focus/Song of the Soul|_song of the soul_]] grave spell.
 
 *Source: Impossible Magic p. 34*

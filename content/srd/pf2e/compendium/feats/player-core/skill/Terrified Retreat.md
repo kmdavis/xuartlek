@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-When you critically succeed at the Demoralize action, if the target's level is lower than yours, the target is [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] for 1 round.
+When you critically succeed at the Demoralize action, if the target's level is lower than yours, the target is [[srd/pf2e/compendium/rules-elements/Conditions#Fleeing|fleeing]] for 1 round.
 
 *Source: Player Core p. 263*

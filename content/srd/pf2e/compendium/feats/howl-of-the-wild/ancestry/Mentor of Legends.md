@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Centaur`
 
-You're an extraordinary teacher, capable of inspiring your students to amazing feats of athletics and ingenuity. Once per day, you can cast [[srd/pf2e/compendium/spells/rank-3/heroism|_heroism_]] as an innate divine spell; in addition to its normal effects, the spell also grants temporary Hit Points equal to half your level. You can't cast this spell on yourself.
+You're an extraordinary teacher, capable of inspiring your students to amazing feats of athletics and ingenuity. Once per day, you can cast [[srd/pf2e/compendium/spells/rank-3/Heroism|_heroism_]] as an innate divine spell; in addition to its normal effects, the spell also grants temporary Hit Points equal to half your level. You can't cast this spell on yourself.
 
 *Source: Howl of the Wild p. 32*

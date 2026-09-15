@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Dragonblood`  `Lineage`
 
-You descend from a dragon that wields mastery of their magical abilities, such as a [[srd/pf2e/compendium/gm/creature-families/dragon-fortune|fortune dragon]] or [[srd/pf2e/compendium/gm/creature-families/dragon-mirage|mirage dragon]]. As such, you can instinctively grasp the intricacies of magic. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]. If you would automatically become trained in Arcana (from your background or class, for example), you instead become trained in a skill of your choice. You gain the [[srd/pf2e/compendium/feats/player-core/skill/arcane-sense|Arcane Sense]] skill feat. If you choose a draconic exemplar, you must choose an arcane dragon.
+You descend from a dragon that wields mastery of their magical abilities, such as a [[srd/pf2e/compendium/gm/creature-families/Dragon, Fortune|fortune dragon]] or [[srd/pf2e/compendium/gm/creature-families/Dragon, Mirage|mirage dragon]]. As such, you can instinctively grasp the intricacies of magic. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]]. If you would automatically become trained in Arcana (from your background or class, for example), you instead become trained in a skill of your choice. You gain the [[srd/pf2e/compendium/feats/player-core/skill/Arcane Sense|Arcane Sense]] skill feat. If you choose a draconic exemplar, you must choose an arcane dragon.
 
 ### Arcane Dragonblood leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/ancestry/traditional-resistances|Traditional Resistances]]
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Traditional Resistances|Traditional Resistances]]
 
 *Source: Player Core 2 p. 45*

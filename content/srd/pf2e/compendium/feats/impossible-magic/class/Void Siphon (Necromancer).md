@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Necromancer`  `Occult`
 
-- **Trigger**: You would take [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] damage.
+- **Trigger**: You would take [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]] damage.
 - **Requirements**: You are living.
 
-You open your body to absorb [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] energy. You gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] equal to your level to the triggering void damage. After you take the triggering damage, you gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] equal to your level. These temporary Hit Points last for 1 round.
+You open your body to absorb [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]] energy. You gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistance]] equal to your level to the triggering void damage. After you take the triggering damage, you gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Temporary Hit Points|temporary Hit Points]] equal to your level. These temporary Hit Points last for 1 round.
 
 *Source: Impossible Magic p. 35*

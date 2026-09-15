@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 - **Frequency**: once per day
 
-You've learned to hold back your [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]]. If the next action you use is a [[srd/pf2e/compendium/rules-elements/traits/player-core-2/cursebound|cursebound]] ability, your cursebound value doesn't increase.
+You've learned to hold back your [[srd/pf2e/compendium/rules-elements/traits/player-core/Curse|curse]]. If the next action you use is a [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Cursebound|cursebound]] ability, your cursebound value doesn't increase.
 
 *Source: Player Core 2 p. 142*

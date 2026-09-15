@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/longsword|Longsword]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Longsword|Longsword]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Lightning|Lightning]], [[srd/pf2e/compendium/character/domains#Pain|Pain]], [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Duty|Duty]], [[srd/pf2e/compendium/character/Domains#Lightning|Lightning]], [[srd/pf2e/compendium/character/Domains#Pain|Pain]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/leaden-steps|Leaden Steps]]
+[[srd/pf2e/compendium/spells/rank-1/Leaden Steps|Leaden Steps]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/enlarge|Enlarge]]
+[[srd/pf2e/compendium/spells/rank-2/Enlarge|Enlarge]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/chain-lightning|Chain Lightning]]
+[[srd/pf2e/compendium/spells/rank-6/Chain Lightning|Chain Lightning]]
 
 *Source: Divine Mysteries p. 322*

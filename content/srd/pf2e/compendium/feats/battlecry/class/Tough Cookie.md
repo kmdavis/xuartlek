@@ -17,6 +17,6 @@ socialImage: og-image.png
 - **Frequency**: once per day
 - **Requirements**: Your current Hit Points are at half your maximum or less.
 
-Though you've taken a lot of punishment, you aren't easily brought down. You gain a number of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] equal to half your maximum Hit Points that last for 1 minute.
+Though you've taken a lot of punishment, you aren't easily brought down. You gain a number of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Temporary Hit Points|temporary Hit Points]] equal to half your maximum Hit Points that last for 1 minute.
 
 *Source: Battlecry! p. 46*

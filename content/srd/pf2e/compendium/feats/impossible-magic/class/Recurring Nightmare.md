@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-You summon a lingering spirit that just won’t stay dead. You learn the [[srd/pf2e/compendium/spells/focus/recurring-nightmare|_recurring nightmare_]] grave spell.
+You summon a lingering spirit that just won’t stay dead. You learn the [[srd/pf2e/compendium/spells/focus/Recurring Nightmare|_recurring nightmare_]] grave spell.
 
 *Source: Impossible Magic p. 39*

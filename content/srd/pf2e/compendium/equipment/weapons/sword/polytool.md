@@ -17,16 +17,16 @@ socialImage: og-image.png
 `Agile`  `Modular`  `Uncommon`
 
 - **PFS Note**: Characters from Numeria have access to the polytool
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/casandalee|Casandalee]], [[srd/pf2e/compendium/deities/pantheons/wheels-of-innovation|Wheels of Innovation]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/Casandalee|Casandalee]], [[srd/pf2e/compendium/deities/pantheons/Wheels of Innovation|Wheels of Innovation]]
 - **Price**: 10 gp
 - **Damage**: 1d6 modular
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
-The polytool is a small metal rod with a number of simple tools folded inside. The user can extend a long ceramic blade, as well as an awl, chisel, file, flint and steel, hook, inkpen, magnifying glass, pliers, scissors, and a small saw. The flint and steel can be used up to 10 times before needing to be replaced. Though inspired by advanced Numerian technology, the polytool is a simple enough feat of metalworking that any blacksmith could produce it—perfect for the goddess [[srd/pf2e/compendium/deities/other-gods/casandalee|Casandalee]] to spread innovation farther than actual Numerian tech could reach.
+The polytool is a small metal rod with a number of simple tools folded inside. The user can extend a long ceramic blade, as well as an awl, chisel, file, flint and steel, hook, inkpen, magnifying glass, pliers, scissors, and a small saw. The flint and steel can be used up to 10 times before needing to be replaced. Though inspired by advanced Numerian technology, the polytool is a simple enough feat of metalworking that any blacksmith could produce it—perfect for the goddess [[srd/pf2e/compendium/deities/other-gods/Casandalee|Casandalee]] to spread innovation farther than actual Numerian tech could reach.
 
 ### Critical Specialization Effects
 

@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Water`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/giant-gods/aegirran|Aegirran]], [[srd/pf2e/compendium/deities/demon-lords/gogunta|Gogunta]], [[srd/pf2e/compendium/deities/other-gods/hanspur|Hanspur]], [[srd/pf2e/compendium/deities/sakhil-tormentors/hataam|Hataam]], [[srd/pf2e/compendium/deities/elemental-lords/lysianassa|Lysianassa]], [[srd/pf2e/compendium/deities/other-gods/obari|Obari]], [[srd/pf2e/compendium/deities/sarkorian-gods/ristrentho|Ristrentho]], [[srd/pf2e/compendium/deities/covenants/waves-of-the-boundless-sea|Waves of the Boundless Sea]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/giant-gods/Aegirran|Aegirran]], [[srd/pf2e/compendium/deities/demon-lords/Gogunta|Gogunta]], [[srd/pf2e/compendium/deities/other-gods/Hanspur|Hanspur]], [[srd/pf2e/compendium/deities/sakhil-tormentors/Hataam|Hataam]], [[srd/pf2e/compendium/deities/elemental-lords/Lysianassa|Lysianassa]], [[srd/pf2e/compendium/deities/other-gods/Obari|Obari]], [[srd/pf2e/compendium/deities/sarkorian-gods/Ristrentho|Ristrentho]], [[srd/pf2e/compendium/deities/covenants/Waves of the Boundless Sea|Waves of the Boundless Sea]]
 - **Range**: 60 feet
 - **Defense**: Reflex
 - **Duration**: sustained up to 1 minute
@@ -29,7 +29,7 @@ A sphere of water 10 feet in diameter forms in an unoccupied space in range, eit
 **Success** The creature can either let the orb pass (remaining in its space or moving out of the orb's path into a space of the creature's choice) or allow itself to be pushed in front of the orb to the end of the orb's movement.
 
 **Failure** The creature is engulfed in the orb. It moves along with the orb and must hold its breath or begin suffocating (unless it can breathe in water). An engulfed Medium or smaller creature and anyone trying to affect that creature follow the normal rules for aquatic battles. An engulfed Large creature is usually big enough that parts of it stick out from the water, and it can reach out of the water.
- The creature can get free either by Swimming with a successful DC 10 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check or by Escaping against your spell DC. A freed creature exits the orb's space and can immediately breathe.
+ The creature can get free either by Swimming with a successful DC 10 [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check or by Escaping against your spell DC. A freed creature exits the orb's space and can immediately breathe.
 
 **Critical Failure** As failure, but the creature can't Swim to get free.
 

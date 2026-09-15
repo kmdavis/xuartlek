@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Orc`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/orc-ferocity|Orc Ferocity]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/ancestry/Orc Ferocity|Orc Ferocity]]
 - **Trigger**: You use Orc Ferocity
 
 You lash out viciously even as you fend off death. Make a single melee Strike. If this Strike brings a foe to 0 Hit Points, this activation of Orc Ferocity doesn’t count against its frequency

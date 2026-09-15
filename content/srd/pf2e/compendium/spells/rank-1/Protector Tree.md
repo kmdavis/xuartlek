@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
-- **Tradition**: Primal
-- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/acavna|Acavna]], [[srd/pf2e/compendium/deities/azlanti-pantheon/jaidi|Jaidi]], [[srd/pf2e/compendium/deities/orc-gods/uirch|Uirch]], [[srd/pf2e/compendium/deities/elemental-lords/verilorn|Verilorn]]
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/Acavna|Acavna]], [[srd/pf2e/compendium/deities/azlanti-pantheon/Jaidi|Jaidi]], [[srd/pf2e/compendium/deities/orc-gods/Uirch|Uirch]], [[srd/pf2e/compendium/deities/elemental-lords/Verilorn|Verilorn]]
 - **Range**: 30 feet
 - **Duration**: 1 minute
 

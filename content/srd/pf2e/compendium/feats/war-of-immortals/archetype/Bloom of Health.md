@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Auditory`  `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/prophesied-monarch|Prophesied Monarch]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Prophesied Monarch|Prophesied Monarch]]
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/prophesied-monarch-dedication|Prophesied Monarch Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Prophesied Monarch Dedication|Prophesied Monarch Dedication]]
 
 You shout a rallying cry that inspires the well-being of your kingdom’s protectors. All your knights who hear your cry gain fast healing equal to half your level for 1 minute.
 

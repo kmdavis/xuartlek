@@ -24,24 +24,24 @@ Strength or Dexterity
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/longbow|Longbow]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/Longbow|Longbow]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Air|Air]], [[srd/pf2e/compendium/character/domains#Cold|Cold]], [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Dust|Dust]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Air|Air]], [[srd/pf2e/compendium/character/Domains#Cold|Cold]], [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Dust|Dust]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/gust-of-wind|Gust of Wind]]
+[[srd/pf2e/compendium/spells/rank-1/Gust of Wind|Gust of Wind]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/summon-elemental|Summon Elemental]]
+[[srd/pf2e/compendium/spells/rank-2/Summon Elemental|Summon Elemental]]
 (water only)
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/vapor-form|Vapor Form]]
+[[srd/pf2e/compendium/spells/rank-4/Vapor Form|Vapor Form]]
 
 *Source: Divine Mysteries p. 306*

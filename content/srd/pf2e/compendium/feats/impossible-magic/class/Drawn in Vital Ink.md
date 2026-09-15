@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Runesmith`
 
-- **Requirements**: During your last action, you succeeded at a melee Strike that dealt physical damage to a creature that can [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]].
+- **Requirements**: During your last action, you succeeded at a melee Strike that dealt physical damage to a creature that can [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|bleed]].
 
 After striking the target, you run a brush or finger along your weapon to collect a bit of its blood. For the next minute, you can [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Trace Rune|Trace a Rune]] targeting the creature you drew blood from at a range of 60 feet (even if you’re Tracing a Rune as a single action). Using Drawn in Vital Ink against a different creature requires you to wipe off the blood already on your weapon, ending the effect for the previous creature.
 

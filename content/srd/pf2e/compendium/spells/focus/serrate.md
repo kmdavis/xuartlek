@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Cleric`  `Focus`  `Manipulate`  `Metal`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Metal|Metal]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Metal|Metal]]
 - **Range**: touch
 - **Target**: 1 metal weapon
 

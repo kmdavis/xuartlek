@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Visual`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/werecreature|Werecreature]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/werecreature-dedication|Werecreature Dedication]]; you were afflicted with the curse of the werecreature
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Werecreature|Werecreature]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Werecreature Dedication|Werecreature Dedication]]; you were afflicted with the curse of the werecreature
 
-Your flesh tears and warps as you transform. Attempt [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] each enemy within 30 feet. This Demoralize loses the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] trait and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] trait, and you don't take a penalty if a creature doesn't understand your language. Regardless of the results of your checks, each creature is temporarily immune to Terrifying Transformation for 1 minute.
+Your flesh tears and warps as you transform. Attempt [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] each enemy within 30 feet. This Demoralize loses the [[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]] trait and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]] trait, and you don't take a penalty if a creature doesn't understand your language. Regardless of the results of your checks, each creature is temporarily immune to Terrifying Transformation for 1 minute.
 
 *Source: Howl of the Wild p. 78*

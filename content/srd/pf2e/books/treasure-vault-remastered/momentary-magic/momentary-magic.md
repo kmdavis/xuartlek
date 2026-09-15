@@ -1,6 +1,7 @@
 ---
 title: "Momentary Magic"
 aliases: ["Momentary Magic"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,22 +10,21 @@ tags:
 source: "Treasure Vault (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1907"
 citation: "Treasure Vault (Remastered) pg. 73"
-socialImage: og-image.png
 ---
 
 # Momentary Magic
 
 <sup>TV p. 73</sup>
 
-While many magical items in an adventurer's toolkit might be carried over the course of their entire career, like a sword they ensorcell with ever more powerful runes, other magical items exist for a particular moment in time, meant to be used and then replaced. Talismans that attach to armor until their magic is used to avert disaster, catalysts whose only purpose is to be consumed during the casting of a spell to transform its effects, and many more types of magical items all fit within this broad category.
+While many magical items in an adventurer's toolkit might be carried over the course of their entire career, like a sword they ensorcell with ever more powerful runes, other magical items exist for a particular moment in time, meant to be used and then replaced. [Talismans](https://2e.aonprd.com/Equipment.aspx?Category=15&Subcategory=19) that attach to armor until their magic is used to avert disaster, [catalysts](https://2e.aonprd.com/Equipment.aspx?Category=15&Subcategory=67) whose only purpose is to be consumed during the casting of a spell to transform its effects, and many more types of magical items all fit within this broad category.
 
-This chapter expands upon the existing types of magical consumables available within the game and introduces new types of consumables and consumable functions. Catalysts and fulus, originally introduced in *Pathfinder Secrets of Magic*, are expanded with new options. Magical missives are a new category of items comprised of letters, musical compositions, and drawings that have a variety of effects based on the content the user inscribes onto the page.
+This chapter expands upon the existing types of magical consumables available within the game and introduces new types of consumables and consumable functions. Catalysts and [fulus](https://2e.aonprd.com/Equipment.aspx?Category=15&Subcategory=61), originally introduced in *Pathfinder Secrets of Magic*, are expanded with new options. Magical [missives](https://2e.aonprd.com/Equipment.aspx?Category=15&Subcategory=95) are a new category of items comprised of letters, musical compositions, and drawings that have a variety of effects based on the content the user inscribes onto the page.
 
-Wondrous consumables make up a diverse category of new magic items that come in a wide array of shapes, sizes, and functions. From simple point-and-fire [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/spellgun|spellguns]] that act as a hybrid of a wand and firearm to launch a single magical effect, to magical instruments inscribed with a one-time spell to summon an extraplanar creature into a musical battle, wondrous consumables can perform almost any function, though typically no more than once.
+[Wondrous consumables](https://2e.aonprd.com/Equipment.aspx?Category=15&Subcategory=20) make up a diverse category of new magic items that come in a wide array of shapes, sizes, and functions. From simple point-and-fire [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/Spellgun|spellguns]] that act as a hybrid of a wand and firearm to launch a single magical effect, to magical instruments inscribed with a one-time spell to summon an extraplanar creature into a musical battle, wondrous consumables can perform almost any function, though typically no more than once.
 
 GMs seeking to get the most out of this section for their tables might have players look at a particular section of this chapter and suggest some items that suit their character's story or desired play style. While part of the fun of using consumables can be having a quirky or unusual effect come into play in an unexpected way, it can also be fun for players to get their hands on items that will allow them pull off a particular cinematic scene or trick that creates a memorable table event.
 
-A GM might also drop magical consumables into an adventure to serve as solutions to a cunning puzzle or enemy whose nature is one the party is not particularly suited for. Whether a potion to help a bard remember a tricky piece of information or an oil to help a fighter battle a rust monster without having it devour their precious weapons and armor, consumables can be a fun and effective way to allow characters to engage with a story in a way that their normal skill set might not be fully suited for.
+A GM might also drop magical consumables into an adventure to serve as solutions to a cunning puzzle or enemy whose nature is one the party is not particularly suited for. Whether a [potion](https://2e.aonprd.com/Equipment.aspx?Category=15&Subcategory=18) to help a bard remember a tricky piece of information or an [oil](https://2e.aonprd.com/Equipment.aspx?Category=15&Subcategory=17) to help a fighter battle a [rust monster](https://2e.aonprd.com/Monsters.aspx?ID=354) without having it devour their precious weapons and armor, consumables can be a fun and effective way to allow characters to engage with a story in a way that their normal skill set might not be fully suited for.
 
 > [!pf2-sidebar] CREATING THE MOMENT
 >
@@ -32,5 +32,5 @@ A GM might also drop magical consumables into an adventure to serve as solutions
 
 ## Contents
 
-- [[srd/pf2e/books/treasure-vault-remastered/momentary-magic/missive|Missive]]
-- [[srd/pf2e/books/treasure-vault-remastered/momentary-magic/spellguns|Spellguns]]
+- [[srd/pf2e/books/treasure-vault-remastered/momentary-magic/Missive|Missive]]
+- [[srd/pf2e/books/treasure-vault-remastered/momentary-magic/Spellguns|Spellguns]]

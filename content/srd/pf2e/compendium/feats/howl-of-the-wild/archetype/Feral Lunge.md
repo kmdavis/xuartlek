@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/werecreature|Werecreature]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/werecreature-dedication|Werecreature Dedication]]; your animal shape grants a fangs or jaws unarmed attack
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Werecreature|Werecreature]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Werecreature Dedication|Werecreature Dedication]]; your animal shape grants a fangs or jaws unarmed attack
 - **Requirements**: You’re in hybrid or animal shape.
 
-You spring on an unsuspecting opponent, tearing at them with your teeth. You Stride up to 10 feet and make a jaws Strike at the end of that movement. If you began this action [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], you remain hidden until after this Strike. If you have a fly or swim Speed, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]] up to 10 feet instead of Stride.
+You spring on an unsuspecting opponent, tearing at them with your teeth. You Stride up to 10 feet and make a jaws Strike at the end of that movement. If you began this action [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]], you remain hidden until after this Strike. If you have a fly or swim Speed, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]] up to 10 feet instead of Stride.
 
 *Source: Howl of the Wild p. 78*

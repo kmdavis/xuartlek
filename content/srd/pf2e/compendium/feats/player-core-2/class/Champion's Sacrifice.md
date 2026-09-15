@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: you aren't unholy
 
-You can suffer so that others might live. You can cast the [[srd/pf2e/compendium/spells/focus/champions-sacrifice|_champion's sacrifice_]] devotion spell.
+You can suffer so that others might live. You can cast the [[srd/pf2e/compendium/spells/focus/Champion's Sacrifice|_champion's sacrifice_]] devotion spell.
 
 *Source: Player Core 2 p. 98*

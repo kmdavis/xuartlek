@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Flourish`  `Gunslinger`
 
-- **Requirements**: You're wielding a firearm with an attached [[srd/pf2e/compendium/equipment/weapons/knife/bayonet|bayonet]] or [[srd/pf2e/compendium/equipment/weapons/club/reinforced-stock|reinforced stock]], a [[srd/pf2e/compendium/equipment/weapons/firearm/fire-lance|fire lance]], or a [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/combination|combination]] weapon.
+- **Requirements**: You're wielding a firearm with an attached [[srd/pf2e/compendium/equipment/weapons/knife/Bayonet|bayonet]] or [[srd/pf2e/compendium/equipment/weapons/club/Reinforced Stock|reinforced stock]], a [[srd/pf2e/compendium/equipment/weapons/firearm/Fire Lance|fire lance]], or a [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/Combination|combination]] weapon.
 
 You slice or smash your opponent with the melee portion of your weapon before pulling the trigger at point-blank range. Make a melee Strike with the required weapon. If the Strike is successful, you can immediately make a ranged Strike against the same target with a +2 circumstance bonus to the attack roll. This counts as two attacks toward your multiple attack penalty, but you don't apply the multiple attack penalty until after making both attacks.
 

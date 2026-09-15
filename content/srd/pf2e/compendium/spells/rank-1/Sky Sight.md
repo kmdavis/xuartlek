@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Divine, Occult, Primal
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Duration**: 1 hour
 
 You gaze up and see the sky clearly despite environmental conditions. You can see through weather and physical obstructions such as a forest canopy, building material, and cave walls. This can be used to spot flying creatures or navigate by the stars even when you otherwise couldn’t see them.

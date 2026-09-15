@@ -16,13 +16,13 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`  `Dedication`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/avenger|Avenger]]
-- **Prerequisites**: [[srd/pf2e/compendium/character/rackets#Avenger|Avenger]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Avenger|Avenger]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Rackets#Avenger|Avenger]]
 
-Your training regimen has given you particular advantages when it comes to enforcing the interests of your faith. You gain a +1 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] spells and effects that deal [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]] damage. You can use [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]] as long as you are in a town or city with a church dedicated to your deity, extracting clues from the faithful with displays of your piety.
+Your training regimen has given you particular advantages when it comes to enforcing the interests of your faith. You gain a +1 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]] spells and effects that deal [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]] damage. You can use [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]] as long as you are in a town or city with a church dedicated to your deity, extracting clues from the faithful with displays of your piety.
 
 ### Avenger Dedication leads to...
 
-[[srd/pf2e/compendium/feats/war-of-immortals/archetype/shadow-of-death|Shadow of Death]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/silence-the-profane-avenger|Silence the Profane (Avenger)]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/slay|Slay]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/zealous-inevitability|Zealous Inevitability]]
+[[srd/pf2e/compendium/feats/war-of-immortals/archetype/Shadow of Death|Shadow of Death]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Silence the Profane (Avenger)|Silence the Profane (Avenger)]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Slay|Slay]], [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Zealous Inevitability|Zealous Inevitability]]
 
 *Source: War of Immortals p. 58*

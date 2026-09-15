@@ -25,23 +25,23 @@ Strength or Constitution
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/meteor-hammer|Meteor Hammer]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/Meteor Hammer|Meteor Hammer]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Earth|Earth]], [[srd/pf2e/compendium/character/domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/domains#Perfection|Perfection]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Earth|Earth]], [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/Domains#Perfection|Perfection]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Repose|Repose]], [[srd/pf2e/compendium/character/domains#Zeal|Zeal]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Repose|Repose]], [[srd/pf2e/compendium/character/Domains#Zeal|Zeal]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/liberating-command|Liberating Command]]
+[[srd/pf2e/compendium/spells/rank-1/Liberating Command|Liberating Command]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/weapon-storm|Weapon Storm]]
+[[srd/pf2e/compendium/spells/rank-4/Weapon Storm|Weapon Storm]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/phantasmal-calamity|Phantasmal Calamity]]
+[[srd/pf2e/compendium/spells/rank-6/Phantasmal Calamity|Phantasmal Calamity]]
 
 *Source: Divine Mysteries p. 302*

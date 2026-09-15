@@ -23,9 +23,9 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Simple
-- **Group**: Spear
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Spear|Spear]]
 
-Developed by Alkenstar scouts who often don't have time to break down a tripod when beset by the chaotic mutant monsters of the Mana Wastes, this two-pronged stabbing weapon can be used as a bipod to stabilize a gun with potent kickback. A forked bipod can be deployed or retrieved for use as a melee weapon as an Interact action. As with a [[srd/pf2e/compendium/equipment/adventuring-gear/tripod|tripod]], you can change your grip on the weapon as part of this action.
+Developed by Alkenstar scouts who often don't have time to break down a tripod when beset by the chaotic mutant monsters of the Mana Wastes, this two-pronged stabbing weapon can be used as a bipod to stabilize a gun with potent kickback. A forked bipod can be deployed or retrieved for use as a melee weapon as an Interact action. As with a [[srd/pf2e/compendium/equipment/adventuring-gear/Tripod|tripod]], you can change your grip on the weapon as part of this action.
 
 ### Critical Specialization Effects
 

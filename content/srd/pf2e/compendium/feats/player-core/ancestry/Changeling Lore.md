@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Changeling`
 
-All too aware of your true nature, you’ve studied hags and their powers. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] and [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
+All too aware of your true nature, you’ve studied hags and their powers. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] and [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
 
-You also gain the Additional Lore general feat for Hag [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]].
+You also gain the Additional Lore general feat for Hag [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]].
 
 *Source: Player Core p. 77*

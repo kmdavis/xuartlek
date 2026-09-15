@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Air`  `Concentrate`  `Manipulate`  `Polymorph`
 
-- **Traditions**: Arcane, Occult, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/ashava|Ashava]], [[srd/pf2e/compendium/deities/elemental-lords/hshurha|Hshurha]], [[srd/pf2e/compendium/deities/monitor-demigods/ilsurrish|Il’Surrish]], [[srd/pf2e/compendium/deities/monitor-demigods/monad|Monad]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-veiled-voice|Nyarlathotep (The Veiled Voice)]], [[srd/pf2e/compendium/deities/vudrani-gods/ragdya|Ragdya]], Zura
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/Ashava|Ashava]], [[srd/pf2e/compendium/deities/elemental-lords/Hshurha|Hshurha]], [[srd/pf2e/compendium/deities/monitor-demigods/Il’Surrish|Il’Surrish]], [[srd/pf2e/compendium/deities/monitor-demigods/Monad|Monad]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (The Veiled Voice)|Nyarlathotep (The Veiled Voice)]], [[srd/pf2e/compendium/deities/vudrani-gods/Ragdya|Ragdya]], Zura
 - **Range**: touch
 - **Target**: 1 willing creature
 - **Duration**: 5 minutes

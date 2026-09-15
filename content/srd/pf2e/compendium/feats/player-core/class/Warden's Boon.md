@@ -18,6 +18,6 @@ You point out vulnerabilities present in your hunted prey, granting the benefits
 
 ### Warden's Boon leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/shared-prey|Shared Prey]]
+[[srd/pf2e/compendium/feats/player-core/class/Shared Prey|Shared Prey]]
 
 *Source: Player Core p. 161*

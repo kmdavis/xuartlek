@@ -18,13 +18,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Healing`  `Manipulate`  `Vitality`  `Positive`
 
-- **Traditions**: Divine, Primal
-- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Renewal|Lesson of Renewal]]
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Lesson**: [[srd/pf2e/compendium/character/Lessons#Lesson of Renewal|Lesson of Renewal]]
 - **Range**: 30 feet
 - **Area**: 20-foot burst
 - **Duration**: sustained up to 1 minute
 
-A field of life energy fills the area, exuding warmth and rejuvenating those within. Each living creature that starts its turn in the area regains 1d8 Hit Points, and any [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] creature that starts its turn in the area takes 1d8 vitality damage.
+A field of life energy fills the area, exuding warmth and rejuvenating those within. Each living creature that starts its turn in the area regains 1d8 Hit Points, and any [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]] creature that starts its turn in the area takes 1d8 vitality damage.
 
 ---
 **Heightened (8th)** The healing and damage increase to 1d10.

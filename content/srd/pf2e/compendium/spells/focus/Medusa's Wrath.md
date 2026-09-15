@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Focus`  `Manipulate`  `Monk`  `Uncommon`
 
-You make an attack filled with a [[srd/pf2e/bestiary/monster-core/humanoid/medusa|medusa's]] petrifying power. Make an [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] Strike with the following additional effects.
+You make an attack filled with a [[srd/pf2e/bestiary/monster-core/humanoid/Medusa|medusa's]] petrifying power. Make an [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] Strike with the following additional effects.
 
-**Critical Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 2]] and must attempt a Fortitude save at the end of each of its turns; this ongoing save has the [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]] trait. On a failed save, the slowed condition increases by 1 (2 on a critical failure). A successful save reduces the slowed condition by 1. When a creature is unable to act due to the slowed condition from medusa's wrath, it is [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]] permanently. The spell ends if the creature is petrified or the slowed condition is removed.
+**Critical Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed 2]] and must attempt a Fortitude save at the end of each of its turns; this ongoing save has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|incapacitation]] trait. On a failed save, the slowed condition increases by 1 (2 on a critical failure). A successful save reduces the slowed condition by 1. When a creature is unable to act due to the slowed condition from medusa's wrath, it is [[srd/pf2e/compendium/rules-elements/Conditions#Petrified|petrified]] permanently. The spell ends if the creature is petrified or the slowed condition is removed.
 
 **Success** As critical success, but the target is initially slowed 1.
 

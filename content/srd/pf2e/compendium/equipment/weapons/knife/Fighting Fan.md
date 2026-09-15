@@ -1,7 +1,7 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/treasure-vault-remastered
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/agile
 - trait/backstabber
 - trait/deadly
@@ -11,7 +11,7 @@ tags:
 - weapon/level/0
 aliases: ["Fighting Fan"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=284"
-source: "Treasure Vault (Remastered)"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -20,14 +20,14 @@ socialImage: og-image.png
 `Agile`  `Backstabber`  `Deadly`  `Finesse`  `Monk`  `Uncommon`
 
 - **PFS Note**: Characters from Tian Xia have access to this option
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/pantheons/fortunes-fate|Fortune's Fate]], Lady Jingxi
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/pantheons/Fortune's Fate|Fortune's Fate]], Lady Jingxi
 - **Price**: 1 gp, 1 sp
 - **Damage**: 1d4 S
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Knife
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Knife|Knife]]
 
 This fan is useful for elegant dances as well as for slicing unsuspecting foes with the blades along its outer edge. If used in performances, it might be disguised as a frilly accessory, or it might be an obvious, though elegant, weapon.
 
@@ -37,6 +37,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Spirit Fan, [[srd/pf2e/compendium/equipment/weapons/storm-herald|Storm Herald]]
+Spirit Fan, [[srd/pf2e/compendium/equipment/weapons/Storm Herald|Storm Herald]]
 
-*Source: Treasure Vault (Remastered) p. 27*
+*Source: Tian Xia Character Guide p. 127*

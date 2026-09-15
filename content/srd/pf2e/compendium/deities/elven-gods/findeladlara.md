@@ -24,23 +24,23 @@ Charisma or Intelligence
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/staff|Staff]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Staff|Staff]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Cities|Cities]], [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Star|Star]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Cities|Cities]], [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Star|Star]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/temporary-tool|Temporary Tool]]
+[[srd/pf2e/compendium/spells/rank-1/Temporary Tool|Temporary Tool]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/shape-stone|Shape Stone]]
+[[srd/pf2e/compendium/spells/rank-4/Shape Stone|Shape Stone]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/planar-palace|Planar Palace]]
+[[srd/pf2e/compendium/spells/rank-7/Planar Palace|Planar Palace]]
 
 *Source: Divine Mysteries p. 308*

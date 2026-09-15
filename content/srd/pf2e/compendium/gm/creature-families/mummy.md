@@ -14,14 +14,14 @@ While many cultures practice mummification for benign reasons, undead mummies ar
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core/undead/mummy-guardian|Mummy Guardian]] (Creature 6), [[srd/pf2e/bestiary/monster-core/undead/mummy-pharaoh|Mummy Pharaoh]] (Creature 9), Radiant Veranallia (Creature 20)
+[[srd/pf2e/bestiary/monster-core/undead/Mummy Guardian|Mummy Guardian]] (Creature 6), [[srd/pf2e/bestiary/monster-core/undead/Mummy Pharaoh|Mummy Pharaoh]] (Creature 9), Radiant Veranallia (Creature 20)
 
 ### Faithful Preservation
 
-Few faiths support mummification as a means of creating the undead. Certain [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Iroran]]sects practice self-mummification, for example, and worshippers of the ancient Osirian god Set left behind many mummies in that empire's lands. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa's]]faith, however, wholeheartedly embraces the mummification of the willing and unwilling alike, producing most of the mummies in modern times.
+Few faiths support mummification as a means of creating the undead. Certain [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Irori|Iroran]]sects practice self-mummification, for example, and worshippers of the ancient Osirian god Set left behind many mummies in that empire's lands. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Urgathoa|Urgathoa's]]faith, however, wholeheartedly embraces the mummification of the willing and unwilling alike, producing most of the mummies in modern times.
 
 ### Into Eternity
 
-Undead mummies stand in a mockery of preserving bodies after death, trapping souls in their static husks rather than allowing them to enter the Great Beyond. Followers of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]] consider them an affront to their goddess on many levels, with some even refusing to perform the traditional rites their goddess supports.
+Undead mummies stand in a mockery of preserving bodies after death, trapping souls in their static husks rather than allowing them to enter the Great Beyond. Followers of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Pharasma|Pharasma]] consider them an affront to their goddess on many levels, with some even refusing to perform the traditional rites their goddess supports.
 
 *Source: Monster Core p. 234*

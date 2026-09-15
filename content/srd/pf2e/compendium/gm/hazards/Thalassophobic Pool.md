@@ -22,9 +22,9 @@ socialImage: og-image.png
 DC 25 (trained)
 
 **Disable**
-DC 32 (master) [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] or [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] to quell the fear and calm the pool or DC 35 [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] to give the pool something worse to fear; three successes required.
+DC 32 (master) [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] or [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] to quell the fear and calm the pool or DC 35 [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] to give the pool something worse to fear; three successes required.
 
-**Downpour** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A creature falls into the pool; **Effect** More water pours forth from the chalice. Creatures in the pool become [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1, and they can't decrease their clumsy condition so long as they remain in the pool. The trap then rolls initiative.
+**Downpour** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A creature falls into the pool; **Effect** More water pours forth from the chalice. Creatures in the pool become [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]] 1, and they can't decrease their clumsy condition so long as they remain in the pool. The trap then rolls initiative.
 
 ---
 **Routine**

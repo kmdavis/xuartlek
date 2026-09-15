@@ -22,9 +22,9 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Simple
-- **Group**: Club
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|Club]]
 
-This reinforced lute is suitable both for use as a handheld [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument|musical instrument]] and for bashing heads should a crowd turn sour. Its strings are finely braided wires that run along its sturdy metal neck. A battle lute adds its item bonus from weapon potency runes (if any) as an item bonus on [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks made while using it as an instrument.
+This reinforced lute is suitable both for use as a handheld [[srd/pf2e/compendium/equipment/adventuring-gear/Musical Instrument|musical instrument]] and for bashing heads should a crowd turn sour. Its strings are finely braided wires that run along its sturdy metal neck. A battle lute adds its item bonus from weapon potency runes (if any) as an item bonus on [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] checks made while using it as an instrument.
 
 ### Critical Specialization Effects
 

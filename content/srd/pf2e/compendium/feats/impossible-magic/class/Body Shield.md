@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Necromancer`  `Occult`
 
-- **Trigger**: A creature targets you with an [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], and you can see the attacker.
+- **Trigger**: A creature targets you with an [[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]], and you can see the attacker.
 - **Requirements**: You are adjacent to at least one of your thralls.
 
 You throw an adjacent thrall in between you and the attacker. The thrall grants you a +2 circumstance bonus to AC against the triggering attack. If the attack still hits, you gain resistance to the triggering attack’s damage equal to your level. Regardless of the result, the thrall is destroyed.

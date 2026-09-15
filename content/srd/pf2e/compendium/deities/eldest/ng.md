@@ -24,23 +24,23 @@ Wisdom or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/gauntlet|Gauntlet]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/Gauntlet|Gauntlet]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Magic|Magic]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/domains#Travel|Travel]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Magic|Magic]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Nature|Nature]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Nature|Nature]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/vanishing-tracks|Vanishing Tracks]]
+[[srd/pf2e/compendium/spells/rank-1/Vanishing Tracks|Vanishing Tracks]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]]
+[[srd/pf2e/compendium/spells/rank-2/Invisibility|Invisibility]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/flicker|Flicker]]
+[[srd/pf2e/compendium/spells/rank-4/Flicker|Flicker]]
 
 *Source: Divine Mysteries p. 306*

@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/trick-driver|Trick Driver]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/trick-driver-dedication|Trick Driver Dedication]]; Expert in Driving Lore; Trained in [[srd/pf2e/compendium/rules-elements/skills/lore|Driving Lore]]
-- **Requirements**: You are adjacent to a vehicle's point of entry.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Trick Driver|Trick Driver]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Trick Driver Dedication|Trick Driver Dedication]]; Expert in Driving Lore; Trained in [[srd/pf2e/compendium/rules-elements/skills/Lore|Driving Lore]]
+- **Requirements**: You are adjacent to a [[srd/pf2e/compendium/equipment/vehicles/vehicles|vehicle's]] point of entry.
 
 Diving into a moving vehicle and seizing the controls is nothing new for you. You Board and Take Control of the adjacent vehicle.
 

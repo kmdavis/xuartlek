@@ -15,6 +15,6 @@ socialImage: og-image.png
 `Sorcerer`
 
 The force of your magic can be used to propel yourself or another. You know the following blood magic effect. 
-**Blood Magic—Propelling Sorcery** You channel your magic outward into a rush of movement. Either you [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]] as a free action or [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] the target 5 feet in a direction of your choice.
+**Blood Magic—Propelling Sorcery** You channel your magic outward into a rush of movement. Either you [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]] as a free action or [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] the target 5 feet in a direction of your choice.
 
 *Source: Player Core 2 p. 153*

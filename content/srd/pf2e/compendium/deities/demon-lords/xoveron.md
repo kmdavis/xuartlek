@@ -24,23 +24,23 @@ Strength or Constitution
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/ranseur|Ranseur]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/Ranseur|Ranseur]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Cities|Cities]], [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Earth|Earth]], [[srd/pf2e/compendium/character/domains#Indulgence|Indulgence]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Cities|Cities]], [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Earth|Earth]], [[srd/pf2e/compendium/character/Domains#Indulgence|Indulgence]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Decay|Decay]], [[srd/pf2e/compendium/character/domains#Might|Might]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Decay|Decay]], [[srd/pf2e/compendium/character/Domains#Might|Might]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/pummeling-rubble|Pummeling Rubble]]
+[[srd/pf2e/compendium/spells/rank-1/Pummeling Rubble|Pummeling Rubble]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/feast-of-ashes|Feast of Ashes]]
+[[srd/pf2e/compendium/spells/rank-2/Feast of Ashes|Feast of Ashes]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/mountain-resilience|Mountain Resilience]]
+[[srd/pf2e/compendium/spells/rank-4/Mountain Resilience|Mountain Resilience]]
 
 *Source: Divine Mysteries p. 304*

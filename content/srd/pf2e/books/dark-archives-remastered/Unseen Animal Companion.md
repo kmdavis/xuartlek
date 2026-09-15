@@ -1,6 +1,7 @@
 ---
 title: "Unseen Animal Companion"
 aliases: ["Unseen Animal Companion"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,12 +10,11 @@ tags:
 source: "Dark Archives (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3498"
 citation: "Dark Archives (Remastered) pg. 65"
-socialImage: og-image.png
 ---
 
 # Unseen Animal Companion
 
 <sup>DA p. 65</sup>
 
-**Rarity**: [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|Uncommon]]
-Cryptid animal companions look a touch peculiar, often with uncanny features or ones that seem to come from a different animal. If you take a feat that would normally allow you to choose to have your companion become a savage or nimble animal companion, you can choose to make it an unseen animal companion instead.
+**Rarity**: [[srd/pf2e/compendium/rules-elements/traits/player-core/Uncommon|Uncommon]]
+Cryptid animal companions look a touch peculiar, often with uncanny features or ones that seem to come from a different animal. If you take a feat that would normally allow you to choose to have your companion become a savage or nimble animal companion, you can choose to make it an [[srd/pf2e/compendium/character/Animal Companions|unseen animal companion instead]].

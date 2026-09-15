@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Swashbuckler`
 
-You find opportunities to perform stylish feats in the moments between others' heartbeats and eye blinks. You are permanently [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]]. You can use the extra action only to perform a [[srd/pf2e/compendium/rules-elements/traits/player-core-2/bravado|bravado]] action.
+You find opportunities to perform stylish feats in the moments between others' heartbeats and eye blinks. You are permanently [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]]. You can use the extra action only to perform a [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Bravado|bravado]] action.
 
 *Source: Player Core 2 p. 169*

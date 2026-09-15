@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Guardian`
 
-Thanks to your armor, almost nothing can stop you. While you are wearing medium or heavy armor, the [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] you receive from guardian's armor increases to 6 + half your level.
+Thanks to your armor, almost nothing can stop you. While you are wearing medium or heavy armor, the [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistance]] you receive from guardian's armor increases to 6 + half your level.
 
 *Source: Battlecry! p. 49*

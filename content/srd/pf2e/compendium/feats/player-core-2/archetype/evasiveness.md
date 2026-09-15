@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/swashbuckler|Swashbuckler]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/swashbuckler-dedication|Swashbuckler Dedication]]; expert in Reflex Saves
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Swashbuckler|Swashbuckler]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Swashbuckler Dedication|Swashbuckler Dedication]]; expert in Reflex Saves
 
 Your proficiency rank for Reflex saves increases to master.
 

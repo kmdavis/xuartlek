@@ -30,14 +30,14 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "+14"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +12, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +14, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +14, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +11, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +12, [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] +14, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +14, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +11, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +12"
 abilityMods: [3, 3, 1, 0, 4, 2]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]]"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/weapons/sword/Scimitar|scimitar]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/Religious Symbol|religious symbol]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Sarenrae|Sarenrae]]"
 ac: 21
 armorclass:
   - name: "AC"
@@ -49,21 +49,21 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _scimitar_ +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d6+8 slashing"
+    desc: "⬻ _scimitar_ +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|Sweep]]) __Damage__ 1d6+8 slashing"
   - name: "Melee"
-    desc: "⬻ fist +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+8 bludgeoning"
+    desc: "⬻ fist +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+8 bludgeoning"
 abilities_bot:
   - name: "Cleric Domain Spells"
-    desc: "DC 24, 1 Focus Point - __3rd__ [[srd/pf2e/compendium/spells/focus/dazzling-flash|Dazzling Flash]]"
+    desc: "DC 24, 1 Focus Point - __3rd__ [[srd/pf2e/compendium/spells/focus/Dazzling Flash|Dazzling Flash]]"
   - name: "Divine Rituals"
     desc: "DC 24 - __2nd__ Consecrate"
   - name: "Healing Hands"
-    desc: "When the priest casts [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]], they roll d10s instead of d8s."
+    desc: "When the priest casts [[srd/pf2e/compendium/spells/rank-1/Heal|_heal_]], they roll d10s instead of d8s."
   - name: "Steady Spellcasting"
-    desc: "If another creature's reaction [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions#Disrupting Actions|disrupts]] the priest's spellcasting action, the priest attempts a DC 15 flat check. If the priest succeeds, their action isn't disrupted."
+    desc: "If another creature's reaction [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Actions#Disrupting Actions|disrupts]] the priest's spellcasting action, the priest attempts a DC 15 flat check. If the priest succeeds, their action isn't disrupted."
 spellcasting:
   - name: "Divine Prepared Spells"
-    desc: "DC 24, attack +16 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/divine-lance|Divine Lance]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/read-aura|Read Aura]], [[srd/pf2e/compendium/spells/cantrips/vitality-lash|Vitality Lash]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/infuse-vitality|Infuse Vitality]], [[srd/pf2e/compendium/spells/rank-1/breathe-fire|Breathe Fire]], [[srd/pf2e/compendium/spells/rank-1/spirit-link|Spirit Link]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/resist-energy|Resist Energy]], [[srd/pf2e/compendium/spells/rank-2/revealing-light|Revealing Light]], [[srd/pf2e/compendium/spells/rank-2/spiritual-armament|Spiritual Armament]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/fireball|Fireball]], [[srd/pf2e/compendium/spells/rank-1/heal|Heal]] (×5), [[srd/pf2e/compendium/spells/rank-3/holy-light|Holy Light]] (×2)"
+    desc: "DC 24, attack +16 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/Divine Lance|Divine Lance]], [[srd/pf2e/compendium/spells/cantrips/Light|Light]], [[srd/pf2e/compendium/spells/cantrips/Read Aura|Read Aura]], [[srd/pf2e/compendium/spells/cantrips/Vitality Lash|Vitality Lash]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Infuse Vitality|Infuse Vitality]], [[srd/pf2e/compendium/spells/rank-1/Breathe Fire|Breathe Fire]], [[srd/pf2e/compendium/spells/rank-1/Spirit Link|Spirit Link]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Resist Energy|Resist Energy]], [[srd/pf2e/compendium/spells/rank-2/Revealing Light|Revealing Light]], [[srd/pf2e/compendium/spells/rank-2/Spiritual Armament|Spiritual Armament]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/Fireball|Fireball]], [[srd/pf2e/compendium/spells/rank-1/Heal|Heal]] (×5), [[srd/pf2e/compendium/spells/rank-3/Holy Light|Holy Light]] (×2)"
 sourcebook: "_NPC Core_, page 32."
 ```
 

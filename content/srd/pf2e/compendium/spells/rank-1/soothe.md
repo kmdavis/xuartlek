@@ -18,13 +18,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Emotion`  `Healing`  `Manipulate`  `Mental`
 
-- **Tradition**: Occult
-- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/aesocar|Aesocar]], [[srd/pf2e/compendium/deities/empyreal-lords/ashava|Ashava]], [[srd/pf2e/compendium/deities/elemental-lords/atreia|Atreia]], [[srd/pf2e/compendium/deities/dwarven-gods/bolka|Bolka]], [[srd/pf2e/compendium/deities/empyreal-lords/dalenydra|Dalenydra]], Immonhiel, [[srd/pf2e/compendium/deities/dead-or-missing-deities/isis|Isis]], Kofusachi, [[srd/pf2e/compendium/deities/empyreal-lords/korada|Korada]], [[srd/pf2e/compendium/deities/monitor-demigods/mother-vulture|Mother Vulture]], [[srd/pf2e/compendium/deities/monitor-demigods/mrtyu|Mrtyu]], [[srd/pf2e/compendium/deities/azlanti-pantheon/myr|Myr]], Naderi, Oathos, [[srd/pf2e/compendium/deities/dead-or-missing-deities/osiris|Osiris]], Phi Deva, Qi Zhong, Selket, [[srd/pf2e/compendium/deities/eldest/the-lost-prince|The Lost Prince]], The Offering Plate, Tlehar, Touch of the Sun, [[srd/pf2e/compendium/deities/tian-gods/tsukiyo|Tsukiyo]], Wards of the Pharaoh
+- **Tradition**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/Aesocar|Aesocar]], [[srd/pf2e/compendium/deities/empyreal-lords/Ashava|Ashava]], [[srd/pf2e/compendium/deities/elemental-lords/Atreia|Atreia]], [[srd/pf2e/compendium/deities/dwarven-gods/Bolka|Bolka]], [[srd/pf2e/compendium/deities/empyreal-lords/Dalenydra|Dalenydra]], Immonhiel, [[srd/pf2e/compendium/deities/dead-or-missing-deities/Isis|Isis]], Kofusachi, [[srd/pf2e/compendium/deities/empyreal-lords/Korada|Korada]], [[srd/pf2e/compendium/deities/monitor-demigods/Mother Vulture|Mother Vulture]], [[srd/pf2e/compendium/deities/monitor-demigods/Mrtyu|Mrtyu]], [[srd/pf2e/compendium/deities/azlanti-pantheon/Myr|Myr]], Naderi, Oathos, [[srd/pf2e/compendium/deities/dead-or-missing-deities/Osiris|Osiris]], Phi Deva, Qi Zhong, Selket, [[srd/pf2e/compendium/deities/eldest/The Lost Prince|The Lost Prince]], The Offering Plate, Tlehar, Touch of the Sun, [[srd/pf2e/compendium/deities/tian-gods/Tsukiyo|Tsukiyo]], Wards of the Pharaoh
 - **Range**: 30 feet
 - **Target**: 1 willing creature
 - **Duration**: 1 minute
 
-You grace the target's mind, boosting its mental defenses and healing its wounds. The target regains 1d10+4 Hit Points when you Cast the Spell and gains a +2 status bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effects for the duration.
+You grace the target's mind, boosting its mental defenses and healing its wounds. The target regains 1d10+4 Hit Points when you Cast the Spell and gains a +2 status bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effects for the duration.
 
 ---
 **Heightened (+1)** The amount of healing increases by 1d10+4.

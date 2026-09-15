@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/gladiator|Gladiator]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/gladiator-dedication|Gladiator Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Gladiator|Gladiator]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Gladiator Dedication|Gladiator Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]
 
 You show off your fighting style to discourage your foes. You can use Performance to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]].
 

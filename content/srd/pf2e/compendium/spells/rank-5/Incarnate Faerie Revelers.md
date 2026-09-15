@@ -16,23 +16,23 @@ socialImage: og-image.png
 
 `Concentrate`  `Incarnate`  `Manipulate`
 
-- **Traditions**: Occult, Primal
+- **Traditions**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Duration**: until the end of your next turn
 
 You extend an invitation to a faerie revel, a ceaseless celebration of mischief and mischance. The party pours out from under tables and behind trees, a host of gremlins and sprites and stranger things besides. This strange collective joins the fight by causing as much mayhem and chaos as they can. The revel occupies the space of a Huge creature and has a Speed of 30 feet.
 
-**Arrive** ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) _Mischief_ The infectious nature of the faerie revel causes chaos. Each creature adjacent to the revel must attempt a Will save. 
+**Arrive** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]]) _Mischief_ The infectious nature of the faerie revel causes chaos. Each creature adjacent to the revel must attempt a Will save. 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 and [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 for 1 round.
+**Success** The creature is {{conditions 94 "stupefied"}} 1 and {{conditions 61 "clumsy"}} 1 for 1 round.
 
 **Failure** The creature is stupefied 2 and clumsy 2 for 1 round.
 
 **Critical Failure** The creature is stupefied 3 and clumsy 3 for 1 round.
 
-**Depart** ([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]]) _Mischance_ The faerie revel leaves as quickly as it came, off to bedevil some other soul. With its departure, the world seems darker and gloomier, and every creature within a 15-foot emanation of the revel must attempt a Will save. 
+**Depart** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|misfortune]]) _Mischance_ The faerie revel leaves as quickly as it came, off to bedevil some other soul. With its departure, the world seems darker and gloomier, and every creature within a 15-foot emanation of the revel must attempt a Will save. 
 
 **Success** The creature is unaffected.
 

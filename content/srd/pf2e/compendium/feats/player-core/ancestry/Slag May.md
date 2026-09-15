@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Changeling`  `Lineage`
 
-Your mother was an iron hag known for physical prowess, and you have one violet or steel-gray eye. You have thick, sturdy claws made of cold iron that grow naturally from your body. You gain a claw unarmed attack that deals 1d6 slashing damage. Your claws are in the brawling group, have the [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/grapple|grapple]] traits, and are cold iron.
+Your mother was an iron hag known for physical prowess, and you have one violet or steel-gray eye. You have thick, sturdy claws made of cold iron that grow naturally from your body. You gain a claw unarmed attack that deals 1d6 slashing damage. Your claws are in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group, have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Grapple|grapple]] traits, and are cold iron.
 
 *Source: Player Core p. 77*

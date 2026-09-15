@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Inventor
 
-You've increased your skill in crafting, and you can put your devices into a more powerful state of overdrive. You become an expert in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], and on a successful use of Overdrive, you increase the additional damage by 1.
+You've increased your skill in crafting, and you can put your devices into a more powerful state of overdrive. You become an expert in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], and on a successful use of Overdrive, you increase the additional damage by 1.
 
 *Source: Guns & Gears (Remastered) p. 15*

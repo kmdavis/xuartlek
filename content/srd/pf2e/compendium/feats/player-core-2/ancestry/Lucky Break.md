@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Catfolk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/cats-luck|Cat's Luck]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Cat's Luck|Cat's Luck]]
 
-You are luckier even than most catfolk. You can trigger Cat's Luck when you fail or critically fail a Fortitude saving throw, Will saving throw, [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] check, or [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check in addition to Reflex saving throws. You still can use Cat's Luck only once per day.
+You are luckier even than most catfolk. You can trigger Cat's Luck when you fail or critically fail a Fortitude saving throw, Will saving throw, [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] check, or [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check in addition to Reflex saving throws. You still can use Cat's Luck only once per day.
 
 *Source: Player Core 2 p. 10*

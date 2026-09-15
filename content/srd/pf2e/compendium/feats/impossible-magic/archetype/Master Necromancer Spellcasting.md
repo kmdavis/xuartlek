@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/necromancer|Necromancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/expert-necromancer-spellcasting|Expert Necromancer Spellcasting]]; Legendary in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Necromancer|Necromancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Expert Necromancer Spellcasting|Expert Necromancer Spellcasting]]; Legendary in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
 You gain the master spellcasting benefits.
 

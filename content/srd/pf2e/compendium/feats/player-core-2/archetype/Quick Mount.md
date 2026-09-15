@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/cavalier|Cavalier]], Mammoth Lord (Level 4)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/cavalier-dedication|Cavalier Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Cavalier|Cavalier]], Mammoth Lord (Level 4)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Cavalier Dedication|Cavalier Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 - **Requirements**: You are adjacent to a creature that is at least one size larger than you and is willing to be your mount.
 
 You and your mount can spring into action at a moment’s notice. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Mount|Mount]] the creature and [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] to issue it an order of your choice.

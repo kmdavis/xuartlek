@@ -32,10 +32,10 @@ modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; low-light vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Muan|Muan]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/Languages#Muan|Muan]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +17"
 abilityMods: [6, 1, 3, -1, 3, -2]
 ac: 26
 armorclass:
@@ -44,10 +44,10 @@ armorclass:
 hp: 135
 health:
   - name: "HP"
-    desc: "135 (16 squares); __Weaknesses__ area damage 8, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 8, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 8"
+    desc: "135 (16 squares); __Weaknesses__ area damage 8, [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] 8, [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage 8"
 abilities_mid:
   - name: "Juice Shower"
-    desc: "When a harvest regiment is critically hit or critically fails a save against a damaging effect, sticky fruit juices splash out. This affects all creatures in a 5-foot emanation. A splashed creature takes a –10-foot status penalty to its Speeds and everything is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] to it. A creature can Interact to clear off the juice."
+    desc: "When a harvest regiment is critically hit or critically fails a save against a damaging effect, sticky fruit juices splash out. This affects all creatures in a 5-foot emanation. A splashed creature takes a –10-foot status penalty to its Speeds and everything is [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] to it. A creature can Interact to clear off the juice."
   - name: "Troop Defenses"
     desc: ""
 speed: "25 feet; troop movement"

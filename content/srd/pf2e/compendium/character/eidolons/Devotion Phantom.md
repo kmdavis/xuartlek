@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Eidolon`  `Ethereal`  `Phantom`
 
-- **Tradition**: Occult
-- **Home Plane**: [[srd/pf2e/compendium/gm/planes#Ethereal Plane|Ethereal Plane]]
+- **Tradition**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Home Plane**: [[srd/pf2e/compendium/gm/Planes#Ethereal Plane|Ethereal Plane]]
 
 **Size** Medium or Small
 
@@ -30,7 +30,7 @@ socialImage: og-image.png
 - Cha 0
 - AC ( Dex cap)
 
-**Skills** [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
 **Senses** darkvision
 
@@ -52,7 +52,7 @@ socialImage: og-image.png
 
 ### Steadfast Devotion
 
-Your eidolon's dedication makes it extremely challenging for your foes to bend their mind. Your eidolon gains a +2 circumstance bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effects, and if they roll a success against such an effect, they get a critical success instead. If you have the shared resolve class feature and your eidolon rolls a critical failure against a mental effect, they get a failure instead.
+Your eidolon's dedication makes it extremely challenging for your foes to bend their mind. Your eidolon gains a +2 circumstance bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effects, and if they roll a success against such an effect, they get a critical success instead. If you have the shared resolve class feature and your eidolon rolls a critical failure against a mental effect, they get a failure instead.
 
 ### Devotion Aura
 

@@ -20,8 +20,8 @@ socialImage: og-image.png
 
 `Barbarian`  `Champion`  `Commander`  `Exemplar`  `Guardian`  `Magus`  `Swashbuckler`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/marshal|Marshal]] (Level 8), Golden Legionnaire (Level 8)
-- **Trigger**: A creature within your reach uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] action or a [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action, makes a ranged attack, or leaves a square during a move action it’s using.
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Marshal|Marshal]] (Level 8), Golden Legionnaire (Level 8)
+- **Trigger**: A creature within your reach uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]] action or a [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] action, makes a ranged attack, or leaves a square during a move action it’s using.
 
 You lash out at a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger was a manipulate action, you disrupt that action. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike.
 

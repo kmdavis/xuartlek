@@ -22,6 +22,6 @@ The fires of creation become yours to control. You create a miniature sun in a 5
 
  The sun lasts until the end of your next turn, but you can Sustain it up to 1 minute. The first time you Sustain the impulse each round, you can choose to increase the size of the sun's burst by 5 feet, then make it Fly up to 30 feet. The sun can move through creatures, damaging them as described above.
 
- The sun continually channels fire into you and your allies. You and each of your allies within the sun's light deal an additional 1d6 fire damage with all Strikes, spells that deal fire damage, and [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/impulse|impulses]] that deal fire damage (except for Ignite the Sun itself). These aren't cumulative with multiple suns.
+ The sun continually channels fire into you and your allies. You and each of your allies within the sun's light deal an additional 1d6 fire damage with all Strikes, spells that deal fire damage, and [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/Impulse|impulses]] that deal fire damage (except for Ignite the Sun itself). These aren't cumulative with multiple suns.
 
 *Source: Rage of Elements p. 29*

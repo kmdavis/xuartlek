@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/broken-chain|Broken Chain]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/broken-chain-dedication|Broken Chain Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Broken Chain|Broken Chain]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Broken Chain Dedication|Broken Chain Dedication]]
 
-You can feel the sorrow, pain, and rage of those fallen to oppression, peering from just behind the veil of death, and you can bring them forth to exact their revenge. You can cast either a 9th-rank [[srd/pf2e/compendium/spells/rank-5/invoke-spirits|_invoke spirits_]] or [[srd/pf2e/compendium/spells/rank-9/wails-of-the-damned|_wails of the damned_]] once per day as an innate occult spell. For either spell, use your class DC or spell DC, whichever is higher.
+You can feel the sorrow, pain, and rage of those fallen to oppression, peering from just behind the veil of death, and you can bring them forth to exact their revenge. You can cast either a 9th-rank [[srd/pf2e/compendium/spells/rank-5/Invoke Spirits|_invoke spirits_]] or [[srd/pf2e/compendium/spells/rank-9/Wails of the Damned|_wails of the damned_]] once per day as an innate [occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3) spell. For either spell, use your class DC or spell DC, whichever is higher.
 
 *Source: War of Immortals p. 125*

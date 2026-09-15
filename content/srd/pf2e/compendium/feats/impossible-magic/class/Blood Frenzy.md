@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Eidolon`  `Evolution`  `Summoner`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/bloodletting-claws|Bloodletting Claws]]
-- **Requirements**: Your eidolon’s last action dealt [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]] damage to a living creature.
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/Bloodletting Claws|Bloodletting Claws]]
+- **Requirements**: Your eidolon’s last action dealt [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|bleed]] damage to a living creature.
 
-Your eidolon flies into a frenzy. While in the frenzy, your eidolon is affected by _boost eidolon_ and gains [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary HP]] equal to your level, but takes a –1 penalty to AC. The temporary HP last until the frenzy ends. They can’t voluntarily end the frenzy or start another frenzy while in the frenzy. The frenzy lasts for 1 minute or until your eidolon is no longer manifested, whichever comes first, after which your eidolon can’t start another frenzy for 1 minute.
+Your eidolon flies into a frenzy. While in the frenzy, your eidolon is affected by _boost eidolon_ and gains [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Temporary Hit Points|temporary HP]] equal to your level, but takes a –1 penalty to AC. The temporary HP last until the frenzy ends. They can’t voluntarily end the frenzy or start another frenzy while in the frenzy. The frenzy lasts for 1 minute or until your eidolon is no longer manifested, whichever comes first, after which your eidolon can’t start another frenzy for 1 minute.
 
 *Source: Impossible Magic p. 81*

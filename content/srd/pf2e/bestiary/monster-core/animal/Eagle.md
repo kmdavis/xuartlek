@@ -28,7 +28,7 @@ perception:
     desc: "+6; low-light vision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +6"
 abilityMods: [0, 3, 1, -4, 1, 1]
 ac: 15
 armorclass:
@@ -41,9 +41,9 @@ health:
 speed: "10 feet, fly 60 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ beak +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6 piercing"
+    desc: "⬻ beak +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]]) __Damage__ 1d6 piercing"
   - name: "Melee"
-    desc: "⬻ talon +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d4 slashing"
+    desc: "⬻ talon +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]]) __Damage__ 1d4 slashing"
 abilities_bot:
   - name: "Eagle Dive"
     desc: "⬺ The eagle Flies up to double its fly Speed in a straight line, descending at least 10 feet, and then makes a talon Strike."

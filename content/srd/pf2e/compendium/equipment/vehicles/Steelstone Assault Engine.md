@@ -26,7 +26,7 @@ This steam-powered vehicle has eight sets of axles, each with a pair of huge, sp
 
 **Passengers** 2
 
-**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 41) or [[srd/pf2e/compendium/rules-elements/skills/lore|Driving Lore]] (DC 39)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] (DC 41) or [[srd/pf2e/compendium/rules-elements/skills/Lore|Driving Lore]] (DC 39)
 
 ---
 
@@ -38,14 +38,14 @@ This steam-powered vehicle has eight sets of axles, each with a pair of huge, sp
 
 **HP** 320 (BT 160)
 
-**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/Item Damage#Object Immunities|object immunities]], precision damage
 
 ---
 
-**Speed** 25 feet ([[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|alchemical]], [[srd/pf2e/compendium/rules-elements/traits/monster-core-2/clockwork|clockwork]])
+**Speed** 25 feet ([[srd/pf2e/compendium/rules-elements/traits/player-core/Alchemical|alchemical]], [[srd/pf2e/compendium/rules-elements/traits/monster-core-2/Clockwork|clockwork]])
 
 **Collision** 14d10 (DC 39)
 
-**Steelstone Cannon** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) Two crew members each perform a 3-action activity on their turn to fire a massive gunpowder cannon. The shell fired separates into large chunks of metal and stone after it’s fired, dealing 13d6 bludgeoning damage to each creature in a 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] within 50 feet (DC 39 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). The cannon stops working if the vehicle is broken.
+**Steelstone Cannon** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]]) Two crew members each perform a 3-action activity on their turn to fire a massive gunpowder cannon. The shell fired separates into large chunks of metal and stone after it’s fired, dealing 13d6 bludgeoning damage to each creature in a 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]] within 50 feet (DC 39 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save). The cannon stops working if the vehicle is broken.
 
 *Source: Battlecry! p. 112*

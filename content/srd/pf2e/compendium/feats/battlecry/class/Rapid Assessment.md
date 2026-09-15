@@ -20,6 +20,6 @@ You quickly evaluate your enemies. Attempt a check to [[srd/pf2e/compendium/rule
 
 ### Rapid Assessment leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/class/unrivaled-analysis|Unrivaled Analysis]]
+[[srd/pf2e/compendium/feats/battlecry/class/Unrivaled Analysis|Unrivaled Analysis]]
 
 *Source: Battlecry! p. 31*

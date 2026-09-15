@@ -18,10 +18,10 @@ socialImage: og-image.png
 
 `Archetype`  `Auditory`  `Concentrate`  `Linguistic`  `Mental`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/field-propagandist|Field Propagandist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/field-propagandist-dedication|Field Propagandist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Field Propagandist|Field Propagandist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Field Propagandist Dedication|Field Propagandist Dedication]]
 
-When you seek to convince others of the worth of your cause, you are capable of unleashing such an entrancing torrent of rhetoric and metaphor that it is all but impossible to look away from you. When you begin a conversation or similar attempt with the goal of [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Making an Impression]], all creatures who are observing you become [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] unless they succeed at a Will save against the higher of your class DC or spell DC. Creatures who are familiar with you and your verbal techniques, such as allies you've known for at least several days, are immune to this effect, though newer allies who have not heard one of your speeches before might still be affected. 
+When you seek to convince others of the worth of your cause, you are capable of unleashing such an entrancing torrent of rhetoric and metaphor that it is all but impossible to look away from you. When you begin a conversation or similar attempt with the goal of [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Making an Impression]], all creatures who are observing you become [[srd/pf2e/compendium/rules-elements/Conditions#Fascinated|fascinated]] unless they succeed at a Will save against the higher of your class DC or spell DC. Creatures who are familiar with you and your verbal techniques, such as allies you've known for at least several days, are immune to this effect, though newer allies who have not heard one of your speeches before might still be affected. 
  
 Affected creatures remain fascinated for as long as you continue your filibuster, though they can attempt a new save to end the effect at the end of each minute while your filibuster lasts. A creature who succeeds at a saving throw to end the fascinated condition from your filibuster is also unaffected by your attempt to Make an Impression. 
  

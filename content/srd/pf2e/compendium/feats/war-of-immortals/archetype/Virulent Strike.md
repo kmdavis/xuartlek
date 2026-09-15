@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Flourish`  `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/apocalypse-rider|Apocalypse Rider]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/apocalypse-rider-dedication|Apocalypse Rider Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Apocalypse Rider|Apocalypse Rider]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Apocalypse Rider Dedication|Apocalypse Rider Dedication]]
 
-Those afflicted by certain maladies are closer to death in your presence. Make a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against a creature. If your attack hits, the target must attempt a new saving throw against the highest-level [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] that is currently affecting it, possibly progressing it to a higher stage even if the [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions|affliction]]’s interval hasn’t passed. If the target successfully saves or critically saves against the affliction, the affliction’s stage isn’t reduced. If your attack was a critical hit, the target takes a –4 circumstance penalty to the save.
+Those afflicted by certain maladies are closer to death in your presence. Make a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against a creature. If your attack hits, the target must attempt a new saving throw against the highest-level [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] that is currently affecting it, possibly progressing it to a higher stage even if the [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions|affliction]]’s interval hasn’t passed. If the target successfully saves or critically saves against the affliction, the affliction’s stage isn’t reduced. If your attack was a critical hit, the target takes a –4 circumstance penalty to the save.
 
 *Source: War of Immortals p. 108*

@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Cantrip`  `Curse`  `Hex`  `Manipulate`  `Uncommon`  `Witch`
 
-- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#The Resentment|The Resentment]]
+- **Patron Theme**: [[srd/pf2e/compendium/character/Patrons#The Resentment|The Resentment]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

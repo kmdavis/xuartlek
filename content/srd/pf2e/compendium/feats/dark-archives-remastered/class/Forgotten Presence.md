@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Druid`  `Uncommon`
 
-The world conspires to keep you forgotten and unnoticed— memories cloud, ink stains out your name in ledgers, and portraits of you crack and warp over your face. Characters attempting to Recall Knowledge about you take a –2 circumstance penalty. Add [[srd/pf2e/compendium/spells/rank-4/rewrite-memory|_rewrite memory_]] to your spell list as a primal spell.
+The world conspires to keep you forgotten and unnoticed— memories cloud, ink stains out your name in ledgers, and portraits of you crack and warp over your face. Characters attempting to Recall Knowledge about you take a –2 circumstance penalty. Add [[srd/pf2e/compendium/spells/rank-4/Rewrite Memory|_rewrite memory_]] to your spell list as a primal spell.
 
 *Source: Dark Archives (Remastered) p. 65*

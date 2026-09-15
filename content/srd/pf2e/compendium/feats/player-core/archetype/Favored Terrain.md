@@ -22,6 +22,6 @@ You have studied a specific terrain to overcome its challenges. Choose aquatic, 
 
 ### Favored Terrain leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/terrain-master|Terrain Master]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Terrain Master|Terrain Master]]
 
 *Source: Player Core p. 158*

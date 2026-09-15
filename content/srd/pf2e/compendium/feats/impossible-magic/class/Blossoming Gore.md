@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-You create a field of bloody roses. You learn the [[srd/pf2e/compendium/spells/focus/blossoming-gore|_blossoming gore_]] grave spell.
+You create a field of bloody roses. You learn the [[srd/pf2e/compendium/spells/focus/Blossoming Gore|_blossoming gore_]] grave spell.
 
 *Source: Impossible Magic p. 37*

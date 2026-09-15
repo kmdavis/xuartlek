@@ -18,6 +18,6 @@ You leave a lasting impression on your squadmates that makes them particularly a
 
 ### Drilled Reflexes leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/class/practiced-reflexes|Practiced Reflexes]]
+[[srd/pf2e/compendium/feats/battlecry/class/Practiced Reflexes|Practiced Reflexes]]
 
 *Source: Battlecry! p. 33*

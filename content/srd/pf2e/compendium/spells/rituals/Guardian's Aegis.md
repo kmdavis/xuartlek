@@ -17,7 +17,7 @@ socialImage: og-image.png
 - **Cast**: 1 day
 - **Cost**: rare oils worth 10 gp × the primary caster’s level
 - **Secondary Casters**: 1
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] or [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 - **Secondary Checks**: Athletics, Diplomacy, or Society
 - **Duration**: 1 week
 

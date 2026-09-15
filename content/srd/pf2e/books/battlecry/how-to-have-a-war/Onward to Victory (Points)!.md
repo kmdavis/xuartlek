@@ -1,6 +1,7 @@
 ---
 title: "Onward to Victory (Points)!"
 aliases: ["Onward to Victory (Points)!"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,20 +10,19 @@ tags:
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3437"
 citation: "Battlecry! pg. 202"
-socialImage: og-image.png
 ---
 
 # Onward to Victory (Points)!
 
 <sup>BC p. 202</sup>
 
-The [[srd/pf2e/books/gm-core/chapter-4-subsystems/victory-points|Victory Point]] subsystem is particularly well suited for war campaigns—it might not even need a change of name! Typically, you’ll want to use Victory Points when the characters have sufficient power or strategic pull to determine the outcome of the battle. Campaigns, especially about the futility or absurdity of war, should leave them out when the party can’t make the difference between victory and defeat.
+The [[srd/pf2e/books/gm-core/chapter-4-subsystems/Victory Points|Victory Point]] subsystem is particularly well suited for war campaigns—it might not even need a change of name! Typically, you’ll want to use Victory Points when the characters have sufficient power or strategic pull to determine the outcome of the battle. Campaigns, especially about the futility or absurdity of war, should leave them out when the party can’t make the difference between victory and defeat.
 
 Victory Points let you concretely show the group’s impact on another layer of the war. This is most often a tactical group’s impact on the operations level, with their contributions changing the fate of a particular battle, holding a key location, or even evacuating a city in time. But a group focused on building supply lines, gathering intelligence, or making strategic decisions might see their efforts (and the associated skill rolls) play out through Victory Points deciding battles they aren’t even present for.
 
 **Victory Point Scale:** Wars can last for centuries or be over in a single day. So, it’s important to consider the speed at which you’re telling that story. An epic campaign can unfold in the bloody final days of a single siege, while months or years with shifting strategic goals can likewise pass in a few sessions.
 
-Decide whether to use Victory Points and set the [[srd/pf2e/books/gm-core/chapter-4-subsystems/victory-points#Setting Your Scale|scale]] based on the time you expect it to take at the table. A series of raids to meet a strategic objective might play out as a quick encounter for the rulers of a large nation, while a tactical group might approach each raid as an adventure with its own total of Victory Points. But a longer scale is appropriate for those rulers if the process of cajoling allies to join the raids takes most of a session or they decide to lead from the front lines.
+Decide whether to use Victory Points and set the [[srd/pf2e/books/gm-core/chapter-4-subsystems/Victory Points#Setting Your Scale|scale]] based on the time you expect it to take at the table. A series of raids to meet a strategic objective might play out as a quick encounter for the rulers of a large nation, while a tactical group might approach each raid as an adventure with its own total of Victory Points. But a longer scale is appropriate for those rulers if the process of cajoling allies to join the raids takes most of a session or they decide to lead from the front lines.
 
 Using this structure can be a powerful tool for pacing and tone. If you’re presenting this war as a glorious endeavor, a vicious fighting retreat might be a long encounter with the PCs holding the line while their allies withdraw, accumulating Victory Points to potentially save everyone. But when focusing on the darkness of war, that retreat might stretch over an entire adventure with the Diminishing Victory Points variant, where each failure represents deaths on their grueling march to safety.
 

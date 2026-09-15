@@ -20,6 +20,6 @@ socialImage: og-image.png
 - **Usage**: held in 1 hand
 - **Activate**: Cast a Spell
 
-A faint scent of sweetness and bitterness wafts from this dried, preserved herb. When used as a catalyst to cast the _[[srd/pf2e/compendium/spells/rank-2/create-food|_create food_]]_ spell, the created food becomes flavorful and pleasing. Anyone who eats this food gains 1 temporary Hit Point per rank of the spell that lasts for 1 hour.
+A faint scent of sweetness and bitterness wafts from this dried, preserved herb. When used as a catalyst to cast the _[[srd/pf2e/compendium/spells/rank-2/Create Food|_create food_]]_ spell, the created food becomes flavorful and pleasing. Anyone who eats this food gains 1 temporary Hit Point per rank of the spell that lasts for 1 hour.
 
 *Source: Impossible Magic p. 216*

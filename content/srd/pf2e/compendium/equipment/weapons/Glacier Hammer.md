@@ -17,10 +17,10 @@ socialImage: og-image.png
 
 - **Price**: 60 gp
 - **Bulk**: 2
-- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/hammer/maul|Maul]]
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/hammer/Maul|Maul]]
 
-Frost covers the head of this _+1 magic [[srd/pf2e/compendium/equipment/weapons/hammer/maul|maul]]_. Any hit with this maul deals 1 extra cold damage. You can use a special action to transform the frost into giant icicles.
+Frost covers the head of this _+1 magic [[srd/pf2e/compendium/equipment/weapons/hammer/Maul|maul]]_. Any hit with this maul deals 1 extra cold damage. You can use a special action to transform the frost into giant icicles.
 
-**Activate—Grow Icicles** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]]); **Effect** Until the end of your turn, the maul deals 1d6 extra cold damage instead of just 1. After you activate the _glacier hammer_, you can't activate it again for 10 minutes.
+**Activate—Grow Icicles** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]]); **Effect** Until the end of your turn, the maul deals 1d6 extra cold damage instead of just 1. After you activate the _glacier hammer_, you can't activate it again for 10 minutes.
 
 *Source: Secrets of the Unlit Star Game Master's Guide p. 59*

@@ -24,23 +24,23 @@ Dexterity or Intelligence
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/rapier|Rapier]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Rapier|Rapier]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Luck|Luck]], [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Luck|Luck]], [[srd/pf2e/compendium/character/Domains#Secrecy|Secrecy]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Disorientation|Disorientation]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Disorientation|Disorientation]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/vanishing-tracks|Vanishing Tracks]]
+[[srd/pf2e/compendium/spells/rank-1/Vanishing Tracks|Vanishing Tracks]]
 
 - **3rd**
 Time Jump
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/hallucination|Hallucination]]
+[[srd/pf2e/compendium/spells/rank-5/Hallucination|Hallucination]]
 
 *Source: Divine Mysteries p. 320*

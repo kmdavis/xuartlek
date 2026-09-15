@@ -20,7 +20,7 @@ socialImage: og-image.png
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 Your teeth elongate into fangs with grooves that can channel a deadly venom. You gain a fangs unarmed attack that deals 1d6 piercing damage, unless you already have an unarmed bite attack that deals more damage. You gain the listed item bonus to unarmed attack and damage rolls when you [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with your fangs or another bite attack.
 

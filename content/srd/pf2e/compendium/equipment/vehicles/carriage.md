@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 **Passengers** 4
 
-**Piloting Check** Driving Lore (DC 16) or [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (DC 18 to DC 26, depending on pulling creature)
+**Piloting Check** Driving Lore (DC 16) or [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] (DC 18 to DC 26, depending on pulling creature)
 
 ---
 

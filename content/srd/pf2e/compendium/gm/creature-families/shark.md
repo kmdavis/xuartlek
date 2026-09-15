@@ -14,7 +14,7 @@ Sharks of all shapes and sizes have stalked the oceans, largely unchanged, since
 
 ### Members
 
-[[srd/pf2e/bestiary/howl-of-the-wild/animal/goblin-shark|Goblin Shark]] (Creature 5), [[srd/pf2e/bestiary/monster-core/animal/great-white-shark|Great White Shark]] (Creature 4), [[srd/pf2e/bestiary/howl-of-the-wild/animal/heliocoprion|Heliocoprion]] (Creature 10), [[srd/pf2e/bestiary/monster-core/animal/megalodon|Megalodon]] (Creature 9)
+[[srd/pf2e/bestiary/howl-of-the-wild/animal/Goblin Shark|Goblin Shark]] (Creature 5), [[srd/pf2e/bestiary/monster-core/animal/Great White Shark|Great White Shark]] (Creature 4), [[srd/pf2e/bestiary/howl-of-the-wild/animal/Heliocoprion|Heliocoprion]] (Creature 10), [[srd/pf2e/bestiary/monster-core/animal/Megalodon|Megalodon]] (Creature 9)
 
 ### When Sharks Attack
 

@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Cold`  `Focus`  `Hex`  `Uncommon`  `Witch`
 
-- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Snow|Lesson of Snow]]
+- **Lesson**: [[srd/pf2e/compendium/character/Lessons#Lesson of Snow|Lesson of Snow]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude
@@ -30,7 +30,7 @@ Your patron's breath becomes a blizzard of obscuring, scouring ice that follows 
 
 **Success** The target takes 1d6 cold damage, and the spell ends.
 
-**Failure** The target takes 1d6 cold damage and 1d6 persistent cold damage. The persistent damage automatically ends when the spell ends. It is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] to other creatures, and other creatures are concealed to it.
+**Failure** The target takes 1d6 cold damage and 1d6 persistent cold damage. The persistent damage automatically ends when the spell ends. It is [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] to other creatures, and other creatures are concealed to it.
 
 **Critical Failure** As failure, but both the cold damage and the persistent cold damage are 2d6.
 

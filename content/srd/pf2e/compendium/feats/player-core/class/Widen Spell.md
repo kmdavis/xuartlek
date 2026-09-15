@@ -25,6 +25,6 @@ You manipulate the energy of your spell, causing it to spread out and affect a w
 
 ### Widen Spell leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/knowledge-of-shapes|Knowledge of Shapes]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Knowledge of Shapes|Knowledge of Shapes]]
 
 *Source: Player Core p. 128*

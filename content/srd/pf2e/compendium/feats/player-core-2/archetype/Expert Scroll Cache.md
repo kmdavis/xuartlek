@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/scroll-trickster|Scroll Trickster]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/basic-scroll-cache|Basic Scroll Cache]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Scroll Trickster|Scroll Trickster]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Basic Scroll Cache|Basic Scroll Cache]]
 
 Your scroll collection has vastly grown, both in size and potency. In addition to your daily scrolls from Basic Scroll Cache, add a scroll with a 3rd-rank spell. At 14th level, add a scroll with a 4th-rank spell. At 16th level, add a scroll with a 5th-rank spell.
 
 ### Expert Scroll Cache leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/master-scroll-cache|Master Scroll Cache]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Master Scroll Cache|Master Scroll Cache]]
 
 *Source: Player Core 2 p. 213*

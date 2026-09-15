@@ -18,6 +18,6 @@ socialImage: og-image.png
 
 #### Multiclass Inventor Characters
 
-Inventor is a great fit for intelligent characters looking to branch out and learn new tricks, especially alchemists, who are already good at [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] and may appreciate unstable options as an alternative to daily alchemical resources. If they meet the Intelligence requirements, clerics of deities who encourage invention and experimentation like [[srd/pf2e/compendium/deities/other-gods/brigh|Brigh]] are an amazing fit, both because it makes narrative sense and because such characters can usually Refocus while fixing their innovation after using an unstable ability.
+Inventor is a great fit for intelligent characters looking to branch out and learn new tricks, especially alchemists, who are already good at [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] and may appreciate unstable options as an alternative to daily alchemical resources. If they meet the Intelligence requirements, clerics of deities who encourage invention and experimentation like [[srd/pf2e/compendium/deities/other-gods/Brigh|Brigh]] are an amazing fit, both because it makes narrative sense and because such characters can usually Refocus while fixing their innovation after using an unstable ability.
 
 *Source: Guns & Gears (Remastered) p. 49*

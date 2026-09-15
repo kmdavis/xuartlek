@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/captivator|Captivator]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/captivator-dedication|Captivator Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Captivator|Captivator]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Captivator Dedication|Captivator Dedication]]
 - **Trigger**: Your turn begins.
 
-You maintain your innate charms and illusions with hardly a thought. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] an [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Innate Spells|innate captivator spell]].
+You maintain your innate charms and illusions with hardly a thought. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] an [[srd/pf2e/books/gm-core/chapter-2-building-games/Building Creatures#Innate Spells|innate captivator spell]].
 
 *Source: Impossible Magic p. 93*

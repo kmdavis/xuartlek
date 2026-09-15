@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Cleric`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/seneschal|Seneschal]] (Level 18)
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Seneschal|Seneschal]] (Level 18)
 
 Your deity punishes creatures that harm you. Creatures that hit you with an attack take 3d6 spirit damage every time they do. If you have the holy or unholy trait, you can apply it to this damage.
 

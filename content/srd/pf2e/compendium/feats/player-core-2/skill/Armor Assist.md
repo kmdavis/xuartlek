@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] or Trained in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Lore|Warfare Lore]] or Trained in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-You are practiced in helping yourself and others don heavy gear. You can attempt an Athletics or Warfare Lore check with a DC determined by the GM (usually DC 15 for common armor, DC 20 for uncommon armor, and DC 25 for rare armor) to halve the time you take to [[srd/pf2e/books/player-core/chapter-6-equipment/armor#Donning and Removing Armor|don armor]]. You can halve an ally's time to don armor by working with them to don the armor and succeeding at an Athletics or Warfare Lore check against the same DC.
+You are practiced in helping yourself and others don heavy gear. You can attempt an Athletics or Warfare Lore check with a DC determined by the GM (usually DC 15 for common armor, DC 20 for uncommon armor, and DC 25 for rare armor) to halve the time you take to [[srd/pf2e/books/player-core/chapter-6-equipment/Armor#Donning and Removing Armor|don armor]]. You can halve an ally's time to don armor by working with them to don the armor and succeeding at an Athletics or Warfare Lore check against the same DC.
 
 *Source: Player Core 2 p. 227*

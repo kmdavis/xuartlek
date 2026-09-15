@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Magus`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/spell-parry|Spell Parry]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/Spell Parry|Spell Parry]]
 - **Trigger**: You’re targeted by a Strike or a spell attack, or you’re about to roll a saving throw against a spell effect.
 - **Requirements**: You have one or more hands free.
 

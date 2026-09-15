@@ -22,6 +22,6 @@ You instinctively twist away from danger. Reroll the triggering saving throw and
 
 ### Cat's Luck leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/ancestry/luck-of-the-clowder|Luck of the Clowder]], [[srd/pf2e/compendium/feats/player-core-2/ancestry/lucky-break|Lucky Break]], [[srd/pf2e/compendium/feats/player-core-2/ancestry/reliable-luck|Reliable Luck]]
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Luck of the Clowder|Luck of the Clowder]], [[srd/pf2e/compendium/feats/player-core-2/ancestry/Lucky Break|Lucky Break]], [[srd/pf2e/compendium/feats/player-core-2/ancestry/Reliable Luck|Reliable Luck]]
 
 *Source: Player Core 2 p. 10*

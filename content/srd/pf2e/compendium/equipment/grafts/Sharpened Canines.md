@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 - **Usage**: implanted
 
-Some of your teeth have been replaced with those of a larger meat-eating predator. You gain a jaws [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack that deals 1d6 piercing damage. These jaws are in the brawling group.
+Some of your teeth have been replaced with those of a larger meat-eating predator. You gain a jaws [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack that deals 1d6 piercing damage. These jaws are in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group.
 
 ### Sharpened Canines
 
@@ -30,6 +30,6 @@ Some of your teeth have been replaced with those of a larger meat-eating predato
 
 ---
 
-The damage die for your jaws unarmed attack increases to 1d8, and whenever you score a critical hit with your jaws, your target takes 1 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]] per weapon damage die.
+The damage die for your jaws unarmed attack increases to 1d8, and whenever you score a critical hit with your jaws, your target takes 1 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent bleed damage]] per weapon damage die.
 
 *Source: Howl of the Wild p. 98*

@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Summoner`
 
-During [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Daily Preparations|daily preparations]], you can designate one of your spell slots to become two summoning slots of the same spell rank, from which you can cast only spells with the [[srd/pf2e/compendium/rules-elements/traits/player-core/summon|summon]] or [[srd/pf2e/compendium/rules-elements/traits/howl-of-the-wild/incarnate|incarnate]] trait.
+During [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Running Exploration#Daily Preparations|daily preparations]], you can designate one of your spell slots to become two summoning slots of the same spell rank, from which you can cast only spells with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Summon|summon]] or [[srd/pf2e/compendium/rules-elements/traits/howl-of-the-wild/Incarnate|incarnate]] trait.
 
 ### Master Summoner leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/legendary-summoner|Legendary Summoner]]
+[[srd/pf2e/compendium/feats/impossible-magic/class/Legendary Summoner|Legendary Summoner]]
 
 *Source: Impossible Magic p. 81*

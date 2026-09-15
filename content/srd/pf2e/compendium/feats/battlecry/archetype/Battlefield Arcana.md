@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`  `Spellshape`  `Metamagic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/war-mage|War Mage]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/steady-spellcasting|Steady Spellcasting]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/War Mage|War Mage]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Steady Spellcasting|Steady Spellcasting]]
 
 You have learned to safely cast spells even in the heat of battle. If the next action you use is to cast a wizard cantrip, or a wizard spell that is at least 2 ranks lower than the highest rank wizard spell slot you have, that spell does not trigger reactions that normally trigger due to a spell being cast or someone using an action with the manipulate trait.
 

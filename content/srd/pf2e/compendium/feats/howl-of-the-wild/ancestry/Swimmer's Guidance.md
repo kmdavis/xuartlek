@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Merfolk`
 
-You're always ready to help those floundering in the water. Any ally who starts their turn within 30 feet of you and in the same body of water gains a 10-foot swim Speed until the end of their turn. If any ally affected by Swimmer's Guidance rolls a critical failure on an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]], they get a failure instead.
+You're always ready to help those floundering in the water. Any ally who starts their turn within 30 feet of you and in the same body of water gains a 10-foot swim Speed until the end of their turn. If any ally affected by Swimmer's Guidance rolls a critical failure on an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]], they get a failure instead.
 
 *Source: Howl of the Wild p. 37*

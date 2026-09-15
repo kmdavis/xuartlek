@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Dwarf`
 
-You understand the intricacies of stonework. You become trained in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]. If you're already trained in Crafting, you instead gain the Specialty Crafting skill feat for stonemasonry.
+You understand the intricacies of stonework. You become trained in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]. If you're already trained in Crafting, you instead gain the Specialty Crafting skill feat for stonemasonry.
 
 You also gain a +2 circumstance bonus to Perception checks to notice unusual stonework. This bonus applies to checks to discover mechanical traps made of stone or hidden within stone.
 

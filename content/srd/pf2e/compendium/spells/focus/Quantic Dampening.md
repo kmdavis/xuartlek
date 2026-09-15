@@ -19,10 +19,10 @@ socialImage: og-image.png
 
 `Aura`  `Concentrate`  `Focus`  `Manipulate`  `Uncommon`  `Wizard`
 
-- **Area**: 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]
+- **Area**: 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]]
 - **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] up to 1 minute
 
-You demonstrate exceptional control over elemental forces, allowing you to mitigate the effects of energy damage. As a reaction, whenever you or an ally in the area would attempt a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save to resist an effect that deals acid, cold, electricity, fire, force, or sonic damage, they use the outcome one degree of success better than the result of their saving throw.
+You demonstrate exceptional control over elemental forces, allowing you to mitigate the effects of energy damage. As a reaction, whenever you or an ally in the area would attempt a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save to resist an effect that deals acid, cold, electricity, fire, force, or sonic damage, they use the outcome one degree of success better than the result of their saving throw.
 
 ---
 **Heightened (8th)** The area increases to a 30-foot emanation.

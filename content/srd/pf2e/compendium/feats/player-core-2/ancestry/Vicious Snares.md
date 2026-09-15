@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Kobold`
 
-- **Prerequisites**: Snare Crafting; Expert in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+- **Prerequisites**: Snare Crafting; Expert in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
 You deal an additional 1d6 precision damage with damage snares you craft. This increases to 2d6 additional precision damage if you're legendary in Crafting.
 

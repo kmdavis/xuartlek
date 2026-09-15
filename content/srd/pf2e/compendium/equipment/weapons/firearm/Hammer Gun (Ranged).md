@@ -30,7 +30,7 @@ This weapon, favored by dwarves and those who like smashing and shooting, takes 
 
 **Damage** 1d10 B
 
-**Group** Hammer
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Hammer|Hammer]]
 
 ### Ranged
 
@@ -40,9 +40,9 @@ This weapon, favored by dwarves and those who like smashing and shooting, takes 
 
 **Reload** 1
 
-**Group** Firearm
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
 
-**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
 ### Critical Specialization Effects
 

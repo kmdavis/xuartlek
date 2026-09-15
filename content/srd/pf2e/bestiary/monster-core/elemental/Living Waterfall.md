@@ -30,14 +30,14 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +12"
 abilityMods: [4, 3, 3, -2, 1, 0]
 abilities_top:
   - name: "Waterbound"
-    desc: "When not touching water, the living waterfall is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] and can't use reactions."
+    desc: "When not touching water, the living waterfall is [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed 1]] and can't use reactions."
 ac: 20
 armorclass:
   - name: "AC"
@@ -45,17 +45,17 @@ armorclass:
 hp: 90
 health:
   - name: "HP"
-    desc: "90; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5"
+    desc: "90; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] 5"
 abilities_mid:
   - name: "Vortex"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]]) 30 feet. Water in the area that is in the same body of water as the living waterfall is difficult terrain for [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swimming]] creatures that don't have the [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] trait."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Water|water]]) 30 feet. Water in the area that is in the same body of water as the living waterfall is difficult terrain for [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swimming]] creatures that don't have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Water|water]] trait."
 speed: "20 feet, swim 60 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ wave +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d8+7 bludgeoning plus Push or Pull 5 feet"
+    desc: "⬻ wave +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 2d8+7 bludgeoning plus Push or Pull 5 feet"
 abilities_bot:
   - name: "Drench"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|Water]]) The elemental puts out all fires in a 5-foot emanation. It extinguishes all non-magical fires automatically and attempts to counteract magical fires (+14 counteract modifier)."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|Primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Water|Water]]) The elemental puts out all fires in a 5-foot emanation. It extinguishes all non-magical fires automatically and attempts to counteract magical fires (+14 counteract modifier)."
 sourcebook: "_Monster Core_, page 148."
 ```
 

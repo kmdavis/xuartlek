@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Ratfolk`
 
-You have a pet rat that has become magically bonded to you. You gain a [[srd/pf2e/books/player-core/chapter-3-classes/companions#Familiars|familiar]], and this familiar must be a rat. It still gets the benefits of familiar abilities, but its base form remains a rat.
+You have a pet rat that has become magically bonded to you. You gain a [[srd/pf2e/books/player-core/chapter-3-classes/Companions#Familiars|familiar]], and this familiar must be a rat. It still gets the benefits of familiar abilities, but its base form remains a rat.
 
 *Source: Player Core 2 p. 30*

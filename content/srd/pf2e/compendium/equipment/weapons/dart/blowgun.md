@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Agile`  `Nonlethal`
 
-- **Favored Weapon**: Picoperi, [[srd/pf2e/compendium/deities/empyreal-lords/seramaydiel|Seramaydiel]]
+- **Favored Weapon**: Picoperi, [[srd/pf2e/compendium/deities/empyreal-lords/Seramaydiel|Seramaydiel]]
 - **Price**: 1 sp
 - **Damage**: 1 P
 - **Bulk**: L
@@ -24,8 +24,8 @@ socialImage: og-image.png
 - **Reload**: 1
 - **Type**: Ranged
 - **Category**: Simple
-- **Group**: Dart
-- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/dart/blowgun-darts|Blowgun Darts]]
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Dart|Dart]]
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/dart/Blowgun Darts|Blowgun Darts]]
 
 This long, narrow tube is used for shooting blowgun darts, using only the power of a forcefully exhaled breath.
 

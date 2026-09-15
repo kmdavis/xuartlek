@@ -19,7 +19,7 @@ socialImage: og-image.png
 `Attack`  `Cantrip`  `Concentrate`  `Manipulate`  `Metal`
 
 - **PFS Note**: Any spells which require metal to function require the PC to be in possession of at least one chunk of that metal or an item made of that metal.
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 60 feet
 - **Target**: 1 creature
 - **Defense**: AC

@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 `Aura`  `Guardian`  `Stance`
 
-You make it difficult for enemies to move past you. While you are in this stance, squares in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] are [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] for your enemies.
+You make it difficult for enemies to move past you. While you are in this stance, squares in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] are [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Difficult Terrain|difficult terrain]] for your enemies.
 
 ### Hampering Stance leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/class/lock-down|Lock Down]], [[srd/pf2e/compendium/feats/battlecry/class/not-so-fast|Not so Fast!]]
+[[srd/pf2e/compendium/feats/battlecry/class/Lock Down|Lock Down]], [[srd/pf2e/compendium/feats/battlecry/class/Not so Fast!|Not so Fast!]]
 
 *Source: Battlecry! p. 42*

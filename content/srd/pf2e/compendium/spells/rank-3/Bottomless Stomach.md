@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Extradimensional`  `Manipulate`
 
-- **Traditions**: Arcane, Occult, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/goblin-gods/lurlup|Lurlup]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/orgesh|Orgesh]], [[srd/pf2e/compendium/deities/infernal-dukes/vapula|Vapula]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/goblin-gods/Lurlup|Lurlup]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Orgesh|Orgesh]], [[srd/pf2e/compendium/deities/infernal-dukes/Vapula|Vapula]]
 - **Range**: touch
 - **Target**: 1 willing creature
 - **Duration**: 1 hour
@@ -28,7 +28,7 @@ You create a shimmering extradimensional space accessible from the target's mout
 
  The target can Interact to spit out a single object of their choice, causing the object to fall to the ground in the target's space. The target can Interact three times in a row to spit out the entire contents of the extradimensional storage; the target doesn't have to take these actions all in the same turn, but if they take any other actions in between, the target has to start over. The items eject into the target's space, possibly spilling out into adjacent spaces if there's too much to fit.
 
- When the spell ends or the target falls [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], the contents of the extradimensional storage are disgorged in a riotous spew, landing in the nearest unoccupied space, a bit wet but otherwise unharmed.
+ When the spell ends or the target falls [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]], the contents of the extradimensional storage are disgorged in a riotous spew, landing in the nearest unoccupied space, a bit wet but otherwise unharmed.
 
 ---
 **Heightened (5th)** The duration increases to 8 hours.

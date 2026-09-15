@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/witch|Witch]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/witch-dedication|Witch Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Witch|Witch]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Witch Dedication|Witch Dedication]]
 
-You gain a 1st- or 2nd-level witch feat of your choice. You can select three familiar abilities for your familiar each day, instead of two.
+You gain a 1st- or 2nd-level [witch feat](https://2e.aonprd.com/Feats.aspx?Traits=323) of your choice. You can select three familiar abilities for your familiar each day, instead of two.
 
 ### Basic Witchcraft leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/advanced-witchcraft|Advanced Witchcraft]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Advanced Witchcraft|Advanced Witchcraft]]
 
 *Source: Player Core p. 222*

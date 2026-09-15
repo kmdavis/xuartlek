@@ -22,6 +22,6 @@ You quickly fling some of your powered-up mechanisms to an ally, sharing your be
 
 ### Overdrive Ally leads to...
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/class/shared-overdrive|Shared Overdrive]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/class/Shared Overdrive|Shared Overdrive]]
 
 *Source: Guns & Gears (Remastered) p. 28*

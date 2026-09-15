@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Monk`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bullet-dancer|Bullet Dancer]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Bullet Dancer|Bullet Dancer]] (Level 4)
 
-You have cultivated your qi to produce magical effects. You gain [[srd/pf2e/compendium/spells/focus/inner-upheaval|_inner upheaval_]], [[srd/pf2e/compendium/spells/focus/qi-rush|_qi rush_]], or another 1st-rank monk qi spell you have access to.
+You have cultivated your qi to produce magical effects. You gain [[srd/pf2e/compendium/spells/focus/Inner Upheaval|_inner upheaval_]], [[srd/pf2e/compendium/spells/focus/Qi Rush|_qi rush_]], or another 1st-rank monk qi spell you have access to.
 
 **Special** You can select this feat more than once, choosing a different spell each time.
 

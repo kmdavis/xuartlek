@@ -28,7 +28,7 @@ perception:
     desc: "+11; echolocation (precise) 40 feet, low-light vision"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +8"
 abilityMods: [4, 2, 3, -4, 3, -2]
 abilities_top:
   - name: "Echolocation"
@@ -53,7 +53,7 @@ attacks:
   - name: "Melee"
     desc: "⬻ fangs +9 __Damage__ 1d10+4 piercing"
   - name: "Melee"
-    desc: "⬻ wing +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+4 slashing"
+    desc: "⬻ wing +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d6+4 slashing"
 sourcebook: "_Monster Core_, page 40."
 ```
 

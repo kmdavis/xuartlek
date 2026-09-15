@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 `Barbarian`  `Concentrate`  `Rage`
 
-You push back your rage for a moment in order to think clearly. Until the end of this turn, you can use actions with the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait even if those actions don't have the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/rage|rage]] trait.
+You push back your rage for a moment in order to think clearly. Until the end of this turn, you can use actions with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] trait even if those actions don't have the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Rage|rage]] trait.
 
 *Source: Player Core 2 p. 77*

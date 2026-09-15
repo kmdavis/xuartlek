@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/bullet-dancer|Bullet Dancer]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/black-powder-boost|Black Powder Boost]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Bullet Dancer|Bullet Dancer]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Black Powder Boost|Black Powder Boost]]
 - **Requirements**: You're wielding a loaded firearm.
 
 You learn to take advantage of every shot, flying across the battlefield with the help of your weapon's recoil. Stride and use Black Powder Boost. Make a melee Strike with the required weapon at any point during the Black Powder Boost.

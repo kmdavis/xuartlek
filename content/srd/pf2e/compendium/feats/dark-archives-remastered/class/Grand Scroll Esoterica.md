@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Thaumaturge`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/class/elaborate-scroll-esoterica|Elaborate Scroll Esoterica]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Elaborate Scroll Esoterica|Elaborate Scroll Esoterica]]
 
 You've completed the third and final step in your assimilation of scroll esoterica, granting you daily scrolls of incredible power. In addition to your daily scrolls from Scroll Esoterica and Elaborate Scroll Esoterica, add a single scroll with a 6th-rank spell. At 20th level, add a scroll with a 7th-rank spell.
 

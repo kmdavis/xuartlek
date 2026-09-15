@@ -22,6 +22,6 @@ At 14th level, if you would normally deal 3d6 or more sneak attack damage to off
 
 ### Sly Striker leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/impossible-striker|Impossible Striker]]
+[[srd/pf2e/compendium/feats/player-core/class/Impossible Striker|Impossible Striker]]
 
 *Source: Player Core p. 174*

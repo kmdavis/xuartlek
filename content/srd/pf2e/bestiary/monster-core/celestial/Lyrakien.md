@@ -30,10 +30,10 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Empyrean|Empyrean]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +9, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +6, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +8, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +9, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +6, [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] +8, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +6, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +7"
 abilityMods: [-2, 4, 1, 1, 3, 3]
 ac: 17
 armorclass:
@@ -46,15 +46,15 @@ health:
 speed: "25 feet, fly 50 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 0 feet]]) __Damage__ 1d4–2 bludgeoning"
+    desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 0 feet]]) __Damage__ 1d4–2 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ starlight ray +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/light|Light]], range 30 feet) __Damage__ 2d4 spirit"
+    desc: "⬻ starlight ray +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Light|Light]], range 30 feet) __Damage__ 2d4 spirit"
 abilities_bot:
   - name: "Starlight Blast"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/light|Light]]) The lyrakien unleashes a blast of holy starlight in a 5-foot emanation. Enemies in the area take 2d6 spirit damage with a DC 17 basic Reflex save. The lyrakien can't use Starlight Blast or their starlight ray ranged attack for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Light|Light]]) The lyrakien unleashes a blast of holy starlight in a 5-foot emanation. Enemies in the area take 2d6 spirit damage with a DC 17 basic Reflex save. The lyrakien can't use Starlight Blast or their starlight ray ranged attack for 1d4 rounds."
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 17 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/light|Light]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/heal|Heal]], [[srd/pf2e/compendium/spells/rank-1/illusory-object|Illusory Object]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/read-omens|Read Omens]] - __Constant (4th)__ [[srd/pf2e/compendium/spells/rank-4/unfettered-movement|Unfettered Movement]]"
+    desc: "DC 17 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/Daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/Light|Light]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Heal|Heal]], [[srd/pf2e/compendium/spells/rank-1/Illusory Object|Illusory Object]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/Read Omens|Read Omens]] - __Constant (4th)__ [[srd/pf2e/compendium/spells/rank-4/Unfettered Movement|Unfettered Movement]]"
 sourcebook: "_Monster Core_, page 32."
 ```
 

@@ -32,7 +32,7 @@ This elegant weapon is shaped similarly to a rapier with a pistol down the lengt
 
 **Damage** 1d4 P
 
-**Group** Sword
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 ### Ranged
 
@@ -42,9 +42,9 @@ This elegant weapon is shaped similarly to a rapier with a pistol down the lengt
 
 **Reload** 1
 
-**Group** Firearm
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
 
-**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
 ### Critical Specialization Effects
 
@@ -52,6 +52,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/nightmares-lament|Nightmare's Lament]]
+[[srd/pf2e/compendium/equipment/weapons/Nightmare's Lament|Nightmare's Lament]]
 
 *Source: Guns & Gears (Remastered) p. 159*

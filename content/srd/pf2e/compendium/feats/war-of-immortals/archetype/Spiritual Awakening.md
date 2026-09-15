@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/animist|Animist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/animist-dedication|Animist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Animist|Animist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Animist Dedication|Animist Dedication]]
 
 You gain a 1st- or 2nd-level animist feat.
 
 ### Spiritual Awakening leads to...
 
-[[srd/pf2e/compendium/feats/war-of-immortals/archetype/animists-power|Animist's Power]]
+[[srd/pf2e/compendium/feats/war-of-immortals/archetype/Animist's Power|Animist's Power]]
 
 *Source: War of Immortals p. 56*

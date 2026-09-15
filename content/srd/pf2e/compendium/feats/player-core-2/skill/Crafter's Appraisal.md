@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
 Your knowledge of items' construction allows you to discern their magical effects as well. You can use Crafting instead of a skill associated with a magic tradition to [[srd/pf2e/compendium/rules-elements/actions/player-core#Identify Magic|Identify Magic]] on magic items, though not on any other sorts of magic.
 

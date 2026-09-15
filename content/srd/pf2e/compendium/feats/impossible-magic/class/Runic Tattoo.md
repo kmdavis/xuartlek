@@ -20,6 +20,6 @@ You can magically alter your runic tattoo to change it to another rune you know 
 
 ### Runic Tattoo leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/words-fly-free|Words, Fly Free]]
+[[srd/pf2e/compendium/feats/impossible-magic/class/Words, Fly Free|Words, Fly Free]]
 
 *Source: Impossible Magic p. 48*

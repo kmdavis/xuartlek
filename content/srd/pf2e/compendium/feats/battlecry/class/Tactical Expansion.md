@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Commander`
 
-Your folio is filled with tactics and techniques you’ve devised based on study and experience. Add two additional [[srd/pf2e/compendium/character/tactics|tactics]] you qualify for to your folio.
+Your folio is filled with tactics and techniques you’ve devised based on study and experience. Add two additional [[srd/pf2e/compendium/character/Tactics|tactics]] you qualify for to your folio.
 
 **Special** You can take this feat multiple times, adding two new tactics to your folio each time.
 

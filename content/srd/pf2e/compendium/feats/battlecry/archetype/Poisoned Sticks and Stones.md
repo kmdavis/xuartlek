@@ -14,17 +14,17 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/guerrilla|Guerrilla]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/guerrilla-weaponry|Guerrilla Weaponry]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Guerrilla|Guerrilla]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Guerrilla Weaponry|Guerrilla Weaponry]]
 
 You prepare your sling stones with small, edged grooves to enable them to deliver poison, and you have learned other techniques for poisoning your weapons. You can apply injury poisons to sling bullets, allowing them to deliver such poisons on a successful Strike. 
 
-During your daily preparations, you can prepare a number of simple injury poisons equal to your level that can only be applied to sling bullets or blowgun darts. These follow the rules for [[srd/pf2e/compendium/rules-elements/traits/gm-core/injury|injury]] poisons, except that they deal 1d4 poison damage with no saving throw. Only you can apply these poisons properly, and they expire at your next daily preparations. 
+During your daily preparations, you can prepare a number of simple injury poisons equal to your level that can only be applied to sling bullets or blowgun darts. These follow the rules for [[srd/pf2e/compendium/rules-elements/traits/gm-core/Injury|injury]] poisons, except that they deal 1d4 poison damage with no saving throw. Only you can apply these poisons properly, and they expire at your next daily preparations. 
 
-**Special** If you later gain the [[srd/pf2e/compendium/feats/player-core/archetype/poison-weapon|Poison Weapon]] feat (such as from the poisoner archetype or the rogue multiclass archetype), you can apply your injury poisons to any weapon that is normally a valid receptacle for injury poisons, but you do not gain additional simple injury poisons during your daily preparations.
+**Special** If you later gain the [[srd/pf2e/compendium/feats/player-core/archetype/Poison Weapon|Poison Weapon]] feat (such as from the poisoner archetype or the rogue multiclass archetype), you can apply your injury poisons to any weapon that is normally a valid receptacle for injury poisons, but you do not gain additional simple injury poisons during your daily preparations.
 
 ### Poisoned Sticks and Stones leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/archetype/deathblow|Deathblow]], [[srd/pf2e/compendium/feats/battlecry/archetype/venomous-weapons|Venomous Weapons]]
+[[srd/pf2e/compendium/feats/battlecry/archetype/Deathblow|Deathblow]], [[srd/pf2e/compendium/feats/battlecry/archetype/Venomous Weapons|Venomous Weapons]]
 
 *Source: Battlecry! p. 60*

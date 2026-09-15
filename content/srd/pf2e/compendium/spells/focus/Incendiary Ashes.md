@@ -20,14 +20,14 @@ socialImage: og-image.png
 `Concentrate`  `Fire`  `Focus`  `Manipulate`  `Oracle`  `Uncommon`
 
 - **Range**: 120 feet
-- **Area**: 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
+- **Area**: 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
 - **Defense**: Fortitude
 
 A cloud of magical ashes descends upon creatures in the area. The ashes scour flesh and linger in the wounds, igniting upon the slightest flicker of flame. Creatures in the area take 4d6 slashing damage and must attempt a Fortitude save.
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and has [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance|weakness]] to [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 3 until the start of its next turn.
+**Success** The creature takes half damage and has [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance|weakness]] to [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] 3 until the start of its next turn.
 
 **Failure** The creature takes full damage and has weakness to fire 3 for 1 minute. If the creature is killed by fire during this time it’s reduced to ashes, though its gear remains.
 

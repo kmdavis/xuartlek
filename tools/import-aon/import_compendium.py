@@ -334,9 +334,13 @@ def destination(d: dict, root: Path, class_index: dict[str, str],
             group = group[0] if group else "other-gods"
         return root / "deities" / slugify(group) / f"{note_filename(d.get('name',''))}.md", None
 
+    # Consolidated pages are leaf notes with real names ("Heritages", "Armor"),
+    # so they take Title Case like any other entry. Only categories and source
+    # folders stay kebab-case. Emitting the raw kebab stem here silently
+    # renamed 11 pages on every run and broke the links pointing at them.
     if cat in CONSOLIDATE:
         folder, stem = CONSOLIDATE[cat]
-        return root / folder / f"{stem}.md", cat
+        return root / folder / f"{note_filename(titlecase_stem(stem))}.md", cat
 
     if cat in CONSOLIDATE_BY_SOURCE:
         folder, _ = CONSOLIDATE_BY_SOURCE[cat]
@@ -476,7 +480,7 @@ def flatten_bold_links(text: str) -> str:
     return BOLD_LINK.sub(lambda m: f"**{m.group(1) or m.group(2)}**", text)
 
 
-LINK = re.compile(r"\[((?:[^\[\]]|\[[^\[\]]*\])*)\]\([^)]*\)")
+LINK = re.compile(r"\[((?:[^\[\]]|\[[^\[\]]*\])*)\]\(([^)]*)\)")
 
 
 def unlink(text: str) -> str:
@@ -485,9 +489,18 @@ def unlink(text: str) -> str:
     AoN nests links inside link labels. A single pass leaves a stranded
     "](/Url.aspx?ID=86)" behind, because re.sub does not rescan what it just
     substituted, so repeat until the text stops changing.
+
+    Absolute http(s) links are kept. Those are the deliberate fallback for an
+    AoN category page with no vault equivalent -- stripping them here is what
+    left sentences ending in a dead "found here".
     """
+    def keep_or_strip(m: re.Match) -> str:
+        if re.match(r"https?://", m.group(2) or ""):
+            return m.group(0)
+        return m.group(1)
+
     for _ in range(10):
-        new = LINK.sub(r"\1", text)
+        new = LINK.sub(keep_or_strip, text)
         if new == text:
             return new
         text = new
@@ -707,6 +720,10 @@ def parse_entry(d: dict) -> tuple[str, dict]:
         f"aliases: [{json.dumps(shorten(name, MAX_ALIAS), ensure_ascii=False)}]",
         f"aon_url: {json.dumps(AON + d.get('url', ''))}",
         f"source: {json.dumps(primary)}",
+        # Pin one shared OG image. Without this Quartz renders a bespoke
+        # social card per page: 12,614 images and ~20 extra minutes of CI
+        # for pages nobody shares. Removing this line is a 4x build regression.
+        "socialImage: og-image.png",
         "---",
         "",
     ]
@@ -838,6 +855,18 @@ def page_title(category: str, entries: list[dict], stem: str) -> str:
     return label
 
 
+def titlecase_stem(stem: str) -> str:
+    """kebab page stem -> the display name it represents.
+
+    "heritages" -> "Heritages", "animal-companions" -> "Animal Companions".
+    Small joining words stay lowercase so "secrets-of-magic" reads correctly.
+    """
+    small = {"of", "the", "and", "a", "an", "to", "in", "for", "or"}
+    words = stem.replace("_", "-").split("-")
+    return " ".join(w if i and w in small else w.capitalize()
+                    for i, w in enumerate(words))
+
+
 def render_page(category: str, entries: list[dict], stem: str) -> str:
     sources = sorted({e["source"] for e in entries})
     title = page_title(category, entries, stem)
@@ -850,6 +879,10 @@ def render_page(category: str, entries: list[dict], stem: str) -> str:
         *[f"- compendium/src/pf2e/{slugify(s)}" for s in sources],
         f"aliases: [{json.dumps(title, ensure_ascii=False)}]",
         f"entries: {len(entries)}",
+        # Pin one shared OG image. Without this Quartz renders a bespoke
+        # social card per page: 12,614 images and ~20 extra minutes of CI
+        # for pages nobody shares. Removing this line is a 4x build regression.
+        "socialImage: og-image.png",
         "---",
         "",
         f"# {title}",
@@ -948,6 +981,7 @@ def main() -> int:
                                srcs[0] if srcs else "")
 
     diags, per_folder, seen_paths = [], {}, {}
+    by_path_cat: dict[Path, str] = {}
     disambiguated = 0
     pages: dict[Path, tuple[str, list[dict]]] = {}
 
@@ -979,6 +1013,7 @@ def main() -> int:
                 guard += 1
             disambiguated += 1
         seen_paths[path] = d["name"]
+        by_path_cat[path] = d.get("category", "")
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(normalise_newlines(text), encoding="utf-8")
         folder = path.parent.relative_to(args.out).parts[0]
@@ -989,6 +1024,44 @@ def main() -> int:
             w = ("  !! " + "; ".join(diag["warnings"])) if diag["warnings"] else ""
             print(f"  {diag['category']:18} {d['name'][:30]:32} "
                   f"traits={diag['traits']:2d} meta={diag['meta']:2d} body={diag['body_chars']:5d}{w}")
+
+    # Folder notes for small categories kept as one note per entry. AoN links
+    # to these as bare category pages ("the instincts can be found [here]"),
+    # and build_linkmap points that link at folder/folder.md, so the file has
+    # to exist. Named after its folder, which is what Obsidian's folder-notes
+    # plugin expects and what Quartz serves as the folder's landing page.
+    cat_folders: dict[tuple[str, Path], list[str]] = {}
+    for path, name in seen_paths.items():
+        cat_folders.setdefault((by_path_cat.get(path, ""), path.parent), []).append(name)
+    folder_notes = 0
+    for (category, folder), names in sorted(cat_folders.items()):
+        if not category or len(names) < 2 or len(names) > 40:
+            continue
+        note = folder / f"{folder.name}.md"
+        if note in seen_paths or note.exists():
+            continue
+        label = folder.name.replace("-", " ").title()
+        body = [
+            "---",
+            f'title: "{label}"',
+            f'aliases: ["{label}"]',
+            "cssclasses: pf2e",
+            "tags:",
+            f"- compendium/category/{folder.name}",
+            "socialImage: og-image.png",
+            "---",
+            "",
+            f"# {label}",
+            "",
+            f"{len(names)} entries, one note each:",
+            "",
+            *[f"- [[{n}]]" for n in sorted(names)],
+            "",
+        ]
+        note.write_text("\n".join(body), encoding="utf-8")
+        folder_notes += 1
+    if folder_notes:
+        print(f"  {folder_notes} category folder notes")
 
     sharded = 0
     for path, (category, entries) in pages.items():

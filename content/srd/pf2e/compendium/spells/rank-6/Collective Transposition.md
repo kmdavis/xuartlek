@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Teleportation`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/andoletta|Andoletta]], [[srd/pf2e/compendium/deities/dwarven-gods/bolka|Bolka]], [[srd/pf2e/compendium/deities/empyreal-lords/lorris|Lorris]], [[srd/pf2e/compendium/deities/covenants/the-readied-strike|The Readied Strike]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/Andoletta|Andoletta]], [[srd/pf2e/compendium/deities/dwarven-gods/Bolka|Bolka]], [[srd/pf2e/compendium/deities/empyreal-lords/Lorris|Lorris]], [[srd/pf2e/compendium/deities/covenants/The Readied Strike|The Readied Strike]]
 - **Area**: 30-foot emanation
 - **Target**: up to 2 creatures
 - **Defense**: Will

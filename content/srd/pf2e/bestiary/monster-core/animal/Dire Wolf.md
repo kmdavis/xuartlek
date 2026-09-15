@@ -28,7 +28,7 @@ perception:
     desc: "+10; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +10"
 abilityMods: [5, 3, 4, -4, 3, -2]
 ac: 18
 armorclass:
@@ -44,14 +44,14 @@ abilities_mid:
 speed: "35 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d10+5 piercing plus Grab or Knockdown"
+    desc: "⬻ jaws +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 1d10+5 piercing plus Grab or Knockdown"
 abilities_bot:
   - name: "Pack Attack"
     desc: "The dire wolf's Strikes deal 1d6 extra damage to creatures within reach of at least two of the wolf's allies."
   - name: "Worry"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]])"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|Attack]])"
   - name: "Requirements"
-    desc: "The dire wolf has a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] in its jaws"
+    desc: "The dire wolf has a creature [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] in its jaws"
   - name: "Effect"
     desc: "The dire wolf fiercely shakes the creature with its teeth, dealing 1d10+2 damage with a DC 20 basic Fortitude save."
 sourcebook: "_Monster Core_, page 350."

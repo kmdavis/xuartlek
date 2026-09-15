@@ -32,10 +32,10 @@ modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; low-light vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Cyclops, [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], Cyclops, [[srd/pf2e/compendium/rules-elements/Languages#Jotun|Jotun]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +25, any one Lore +18, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +22"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +25, any one Lore +18, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +22"
 abilityMods: [7, 1, 6, -2, 4, -1]
 abilities_top:
   - name: "Items"
@@ -52,7 +52,7 @@ abilities_mid:
   - name: "Ferocity"
     desc: "⬲"
   - name: "Flash of Brutality"
-    desc: "⭓ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]])"
+    desc: "⭓ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]])"
   - name: "Frequency"
     desc: "once per day, and recharges when the great cyclops uses Ferocity"
   - name: "Trigger"
@@ -62,11 +62,11 @@ abilities_mid:
 speed: "40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ greatclub +25 ([[srd/pf2e/compendium/rules-elements/traits/player-core/backswing|Backswing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|Shove]]) __Damage__ 3d10+13 bludgeoning"
+    desc: "⬻ greatclub +25 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Backswing|Backswing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Shove|Shove]]) __Damage__ 3d10+13 bludgeoning"
   - name: "Melee"
-    desc: "⬻ horn +25 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d10+13 piercing"
+    desc: "⬻ horn +25 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 2d10+13 piercing"
   - name: "Melee"
-    desc: "⬻ fist +25 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 3d4+13 bludgeoning"
+    desc: "⬻ fist +25 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 3d4+13 bludgeoning"
   - name: "Ranged"
     desc: "⬻ rock +23 (Brutal, range increment 120 feet) __Damage__ 4d6+7 bludgeoning"
 abilities_bot:

@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
 You can set up a disguise in one-tenth the usual time (generally 1 minute). If you’re a master in Deception, you can create a full disguise and Impersonate as a 3-action activity. If you’re legendary, it takes a single action.
 

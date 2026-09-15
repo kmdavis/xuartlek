@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Champion`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/causes#Grandeur|grandeur cause]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Causes#Grandeur|grandeur cause]]
 
-Your light cleanses souls of fear. When you use [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Flash of Grandeur|Flash of Grandeur]], the attacker is also [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] for 1 round.
+Your light cleanses souls of fear. When you use [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Flash of Grandeur|Flash of Grandeur]], the attacker is also [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] for 1 round.
 
 *Source: Player Core 2 p. 93*

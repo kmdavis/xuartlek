@@ -21,6 +21,6 @@ You can have only one verdant seed at a time. If you prepare a second, your firs
 
 ### Verdant Weapon leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/pristine-weapon|Pristine Weapon]]
+[[srd/pf2e/compendium/feats/player-core/class/Pristine Weapon|Pristine Weapon]]
 
 *Source: Player Core p. 128*

@@ -15,13 +15,13 @@ socialImage: og-image.png
 
 `Mythic`  `Uncommon`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/skill/quick-recognition|Quick Recognition]]; ability to [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/activating-items#Cast a Spell|cast spells]] from spell slots, ; Sage's Calling
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/skill/Quick Recognition|Quick Recognition]]; ability to [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/Activating Items#Cast a Spell|cast spells]] from spell slots, ; Sage's Calling
 - **Trigger**: A creature Casts a Spell, you’ve successfully Recognized the Spell, and you have either a prepared spell or an unexpended spell slot of equal or greater rank.
 
-You quench and counter your enemy’s magic with potent spellcraft amplified and enhanced by carefully deployed mythic power. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]], and expend a prepared spell or unexpended spell slot of the same rank as the triggering spell or higher. You lose your spell slot as if you’d cast the triggering spell. You then attempt to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] the triggering spell using mythic proficiency to determine your spellcasting proficiency bonus for the counteract check.
+You quench and counter your enemy’s magic with potent spellcraft amplified and enhanced by carefully deployed mythic power. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]], and expend a prepared spell or unexpended spell slot of the same rank as the triggering spell or higher. You lose your spell slot as if you’d cast the triggering spell. You then attempt to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions#Counteracting|counteract]] the triggering spell using mythic proficiency to determine your spellcasting proficiency bonus for the counteract check.
 
 ### Mythic Counterspell leads to...
 
-[[srd/pf2e/compendium/feats/war-of-immortals/mythic/steal-magic|Steal Magic]]
+[[srd/pf2e/compendium/feats/war-of-immortals/mythic/Steal Magic|Steal Magic]]
 
 *Source: War of Immortals p. 82*

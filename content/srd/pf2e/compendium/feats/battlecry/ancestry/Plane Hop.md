@@ -16,12 +16,12 @@ socialImage: og-image.png
 `Jotunborn`  `Teleportation`
 
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/ancestry/plane-stepping-dash|Plane-Stepping Dash]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/ancestry/Plane-Stepping Dash|Plane-Stepping Dash]]
 
 The spaces between planes are obvious to you, and you can use them to move in unexpected ways. You instantly teleport to any point you could reach with your Speed.
 
 ### Plane Hop leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/ancestry/planar-traveler|Planar Traveler]]
+[[srd/pf2e/compendium/feats/battlecry/ancestry/Planar Traveler|Planar Traveler]]
 
 *Source: Battlecry! p. 15*

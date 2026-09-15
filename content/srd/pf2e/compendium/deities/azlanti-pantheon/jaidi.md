@@ -24,23 +24,23 @@ Strength or Constitution
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|Scythe]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/Scythe|Scythe]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Sun|Sun]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Sun|Sun]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Earth|Earth]], [[srd/pf2e/compendium/character/domains#Toil|Toil]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Earth|Earth]], [[srd/pf2e/compendium/character/Domains#Toil|Toil]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/protector-tree|Protector Tree]]
+[[srd/pf2e/compendium/spells/rank-1/Protector Tree|Protector Tree]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/wall-of-thorns|Wall of Thorns]]
+[[srd/pf2e/compendium/spells/rank-3/Wall of Thorns|Wall of Thorns]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/natures-pathway|Nature's Pathway]]
+[[srd/pf2e/compendium/spells/rank-5/Nature's Pathway|Nature's Pathway]]
 
 *Source: Divine Mysteries p. 300*

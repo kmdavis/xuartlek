@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Druid`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/untamed-form|Untamed Form]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Untamed Form|Untamed Form]]
 
-Your understanding of life expands, allowing you to mimic a wider range of creatures. Add the shapes in [[srd/pf2e/compendium/spells/rank-3/insect-form|_insect form_]] to your untamed form list. Whenever you use untamed form to polymorph into the non-flying insect shapes listed in pest form, the duration is 24 hours instead of 10 minutes.
+Your understanding of life expands, allowing you to mimic a wider range of creatures. Add the shapes in [[srd/pf2e/compendium/spells/rank-3/Insect Form|_insect form_]] to your untamed form list. Whenever you use untamed form to polymorph into the non-flying insect shapes listed in pest form, the duration is 24 hours instead of 10 minutes.
 
 *Source: Player Core p. 131*

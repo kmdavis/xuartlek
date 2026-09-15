@@ -28,14 +28,14 @@ modifier: 17
 perception:
   - name: "Perception"
     desc: "+17"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +11, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +13, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +11, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +13, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +13"
 abilityMods: [4, 2, 3, 1, 2, 1]
 abilities_top:
   - name: "Items"
-    desc: "Backpack, Bastard Sword, Bedroll, Compass, _+1 [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_ (10 arrows), Flint and Steel, [[srd/pf2e/compendium/equipment/adventuring-gear/map|maps]], pup tent, Scale Mail"
+    desc: "Backpack, Bastard Sword, Bedroll, Compass, _+1 [[srd/pf2e/compendium/equipment/weapons/bow/Composite Longbow|composite longbow]]_ (10 arrows), Flint and Steel, [[srd/pf2e/compendium/equipment/adventuring-gear/Map|maps]], pup tent, Scale Mail"
 ac: 24
 armorclass:
   - name: "AC"
@@ -54,11 +54,11 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ bastard sword +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d12]]) __Damage__ 1d8+10 slashing"
+    desc: "⬻ bastard sword +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Two-Hand|two-hand d12]]) __Damage__ 1d8+10 slashing"
   - name: "Melee"
-    desc: "⬻ fist +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+10 bludgeoning"
+    desc: "⬻ fist +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+10 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ _composite longbow_ +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 100 feet, reload 0, [[srd/pf2e/compendium/rules-elements/traits/player-core/volley|volley 30 feet]]) __Damage__ 1d8+8 piercing"
+    desc: "⬻ _composite longbow_ +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Propulsive|Propulsive]], range increment 100 feet, reload 0, [[srd/pf2e/compendium/rules-elements/traits/player-core/Volley|volley 30 feet]]) __Damage__ 1d8+8 piercing"
 abilities_bot:
   - name: "Warden's Protection"
     desc: "A warden deals an extra 1d8 damage to any creature trespassing on the territory the warden protects."

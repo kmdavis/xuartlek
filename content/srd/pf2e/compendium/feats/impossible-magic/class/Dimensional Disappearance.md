@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Magus`
 
-- **Prerequisites**: dimensional assault_ focus spell, ; laughing shadow hybrid study
+- **Prerequisites**: dimensional assault_ focus spell, ; [[srd/pf2e/compendium/character/Hybrid Studies#Laughing Shadow|laughing shadow hybrid study]]
 
-You take advantage of certain idiosyncrasies of [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]] magic to better hide your position. When you cast _dimensional assault_, you’re affected by an [[srd/pf2e/compendium/spells/rank-2/invisibility|_invisibility_]] spell at the end of the teleport. You can choose not to make the Strike that is normally part of dimensional assault. If you do make the Strike, your invisibility ends after the Strike, as normal for invisibility.
+You take advantage of certain idiosyncrasies of [[srd/pf2e/compendium/rules-elements/traits/player-core/Teleportation|teleportation]] magic to better hide your position. When you cast _dimensional assault_, you’re affected by an [[srd/pf2e/compendium/spells/rank-2/Invisibility|_invisibility_]] spell at the end of the teleport. You can choose not to make the Strike that is normally part of dimensional assault. If you do make the Strike, your invisibility ends after the Strike, as normal for invisibility.
 
 *Source: Impossible Magic p. 23*

@@ -17,11 +17,11 @@ socialImage: og-image.png
 
 `Air`  `Concentrate`  `Fire`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deity**: [[srd/pf2e/compendium/deities/pantheons/talons-of-the-godclaw|Talons of the Godclaw]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deity**: [[srd/pf2e/compendium/deities/pantheons/Talons of the Godclaw|Talons of the Godclaw]]
 - **Range**: 120 feet
 - **Area**: 5-foot radius, 40-foot tall cylinder
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex
 - **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] up to 1 minute
 
 You combine a blazing inferno and air currents into a fiery vortex. You can Cast this Spell only if you're outside or the ceiling is 40 feet or higher. All squares in the vortex are difficult terrain for flying creatures.

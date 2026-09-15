@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 All gunslingers have a particular way they follow, a combination of philosophy and combat style that defines both how they fight and the weapons they excel with. At 1st level, your way grants you an initial deed, a unique reload action called a slinger's reload, and proficiency with a particular skill. You also gain advanced and greater deeds at later levels, as well as access to way-specific feats.
 
- Gunslinger ways can be found [[srd/pf2e/compendium/character/ways|here]].
+ Gunslinger ways can be found [[srd/pf2e/compendium/character/Ways|here]].
 
 *Source: Guns & Gears (Remastered) p. 105*

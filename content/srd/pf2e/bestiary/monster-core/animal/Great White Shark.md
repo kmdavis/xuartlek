@@ -30,7 +30,7 @@ perception:
     desc: "+11; blood scent, scent (imprecise) 100 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +12, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +9"
 abilityMods: [6, 2, 4, -4, 1, -4]
 abilities_top:
   - name: "Blood Scent"

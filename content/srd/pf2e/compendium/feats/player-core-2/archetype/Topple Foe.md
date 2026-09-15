@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/marshal|Marshal]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/marshal-dedication|Marshal Dedication]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Marshal|Marshal]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Marshal Dedication|Marshal Dedication]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 - **Trigger**: An ally succeeds at a melee [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against an enemy you are both adjacent to.
 
-You take advantage of the opening created by your ally to tip your foe off their feet. Attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] the target of the triggering attack.
+You take advantage of the opening created by your ally to tip your foe off their feet. Attempt an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] the target of the triggering attack.
 
 *Source: Player Core 2 p. 205*

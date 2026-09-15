@@ -14,14 +14,14 @@ socialImage: og-image.png
 
 `Versatile`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/vudrani-gods/ashukharma|Ashukharma]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/gorum|Gorum]], [[srd/pf2e/compendium/deities/monitor-demigods/mrtyu|Mrtyu]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/smiad|Smiad]], [[srd/pf2e/compendium/deities/apocalypse-riders/szuriel|Szuriel]], [[srd/pf2e/compendium/deities/other-gods/zjar-tovan|Zjar-Tovan]], [[srd/pf2e/compendium/deities/giant-gods/zursvaater|Zursvaater]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/vudrani-gods/Ashukharma|Ashukharma]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/Gorum|Gorum]], [[srd/pf2e/compendium/deities/monitor-demigods/Mrtyu|Mrtyu]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/Smiad|Smiad]], [[srd/pf2e/compendium/deities/apocalypse-riders/Szuriel|Szuriel]], [[srd/pf2e/compendium/deities/other-gods/Zjar-Tovan|Zjar-Tovan]], [[srd/pf2e/compendium/deities/giant-gods/Zursvaater|Zursvaater]]
 - **Price**: 2 gp
 - **Damage**: 1d12 S
 - **Bulk**: 2
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 This immense two-handed sword is nearly as tall as its wielder. Its lower blade is often somewhat dulled to allow it to be gripped for extra leverage in close-quarter fights.
 
@@ -31,6 +31,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Calamity, [[srd/pf2e/compendium/equipment/artifacts/lamentation-of-the-faithless|Lamentation of the Faithless]], Thundering Fury Dadao
+Calamity, [[srd/pf2e/compendium/equipment/artifacts/Lamentation of the Faithless|Lamentation of the Faithless]], Thundering Fury Dadao
 
 *Source: Player Core p. 278*

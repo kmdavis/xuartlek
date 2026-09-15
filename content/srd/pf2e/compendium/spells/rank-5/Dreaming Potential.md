@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Mental`
 
-- **Tradition**: Occult
-- **Deities**: [[srd/pf2e/compendium/deities/giant-gods/aegirran|Aegirran]], [[srd/pf2e/compendium/deities/empyreal-lords/arshea|Arshea]], [[srd/pf2e/compendium/deities/empyreal-lords/bharnarol|Bharnarol]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]], Granduncle Taproot, [[srd/pf2e/compendium/deities/monitor-demigods/saloc|Saloc]], Shei, The Anointing of Kings, Tlehar
+- **Tradition**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/giant-gods/Aegirran|Aegirran]], [[srd/pf2e/compendium/deities/empyreal-lords/Arshea|Arshea]], [[srd/pf2e/compendium/deities/empyreal-lords/Bharnarol|Bharnarol]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Desna|Desna]], Granduncle Taproot, [[srd/pf2e/compendium/deities/monitor-demigods/Saloc|Saloc]], Shei, The Anointing of Kings, Tlehar
 - **Cast**: 10 minutes
 - **Range**: touch
 - **Target**: 1 willing sleeping creature

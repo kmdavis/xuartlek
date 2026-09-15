@@ -24,23 +24,23 @@ Intelligence or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/starknife|Starknife]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Starknife|Starknife]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Star|Star]], [[srd/pf2e/compendium/character/domains#Truth|Truth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Star|Star]], [[srd/pf2e/compendium/character/Domains#Truth|Truth]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/gentle-landing|Gentle Landing]]
+[[srd/pf2e/compendium/spells/rank-1/Gentle Landing|Gentle Landing]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/containment|Containment]]
+[[srd/pf2e/compendium/spells/rank-4/Containment|Containment]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/mind-probe|Mind Probe]]
+[[srd/pf2e/compendium/spells/rank-5/Mind Probe|Mind Probe]]
 
 *Source: Divine Mysteries p. 312*

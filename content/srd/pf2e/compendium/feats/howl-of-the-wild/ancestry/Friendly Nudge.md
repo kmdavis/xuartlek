@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Minotaur`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-You don't always have time to wait for your allies to make room, so it's best to politely move them yourself. Attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] an ally. You don't need to have a free hand to attempt this check. If your ally is willing, treat the result as one degree of success higher.
+You don't always have time to wait for your allies to make room, so it's best to politely move them yourself. Attempt an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] an ally. You don't need to have a free hand to attempt this check. If your ally is willing, treat the result as one degree of success higher.
 
 ### Friendly Nudge leads to...
 
-[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/shift-the-little-ones|Shift the Little Ones]]
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Shift the Little Ones|Shift the Little Ones]]
 
 *Source: Howl of the Wild p. 43*

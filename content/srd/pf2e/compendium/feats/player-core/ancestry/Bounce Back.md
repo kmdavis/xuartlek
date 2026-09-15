@@ -17,6 +17,6 @@ socialImage: og-image.png
 - **Frequency**: once per day
 - **Trigger**: You lose the dying condition
 
-You recover from near-death experiences with astounding resilience. Don’t increase the value of your [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] condition due to losing the [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] condition.
+You recover from near-death experiences with astounding resilience. Don’t increase the value of your [[srd/pf2e/compendium/rules-elements/Conditions#Wounded|wounded]] condition due to losing the [[srd/pf2e/compendium/rules-elements/Conditions#Dying|dying]] condition.
 
 *Source: Player Core p. 65*

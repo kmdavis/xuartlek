@@ -17,13 +17,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Darkness`  `Manipulate`  `Shadow`
 
-- **Traditions**: Arcane, Occult
-- **Deity**: [[srd/pf2e/compendium/deities/other-gods/dajermube|Dajermube]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deity**: [[srd/pf2e/compendium/deities/other-gods/Dajermube|Dajermube]]
 - **Range**: touch
 - **Target**: 1 willing creature
 - **Duration**: 10 minutes
 
-You wrap the target in shadows, granting it a +1 status bonus to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] while in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Dim Light|dim light]] or [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Darkness|darkness]]. In addition, the shadows mask the target’s features. While the target is in dim light or darkness, other creatures must succeed at a [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] action against the spell’s DC to discern details about its appearance. For example, without using Seek, other creatures can determine the target’s general shape (such as [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoid]]), but they must Seek to determine the target’s precise appearance. Creatures with [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Darkvision and Greater Darkvision|darkvision]] can still see the target and its features normally. The target’s normal appearance is revealed in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Bright Light|bright light]].
+You wrap the target in shadows, granting it a +1 status bonus to [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] while in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Dim Light|dim light]] or [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Darkness|darkness]]. In addition, the shadows mask the target’s features. While the target is in dim light or darkness, other creatures must succeed at a [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] action against the spell’s DC to discern details about its appearance. For example, without using Seek, other creatures can determine the target’s general shape (such as [[srd/pf2e/compendium/rules-elements/traits/player-core/Humanoid|humanoid]]), but they must Seek to determine the target’s precise appearance. Creatures with [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Darkvision and Greater Darkvision|darkvision]] can still see the target and its features normally. The target’s normal appearance is revealed in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Bright Light|bright light]].
 
 ---
 **Heightened (4th)** The status bonus is +2. Creatures with darkvision can no longer discern details about the target while the target is in dim light or darkness without Seeking, though creatures with greater darkvision can still determine these details. 

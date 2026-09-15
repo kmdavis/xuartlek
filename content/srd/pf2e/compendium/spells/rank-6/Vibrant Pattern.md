@@ -18,14 +18,14 @@ socialImage: og-image.png
 
 `Illusion`  `Incapacitation`  `Manipulate`  `Subtle`  `Visual`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/neshen|Neshen]], [[srd/pf2e/compendium/deities/covenants/the-pandemonia|The Pandemonia]], Yelayne
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/Neshen|Neshen]], [[srd/pf2e/compendium/deities/covenants/The Pandemonia|The Pandemonia]], Yelayne
 - **Range**: 120 feet
 - **Area**: 10-foot burst
 - **Defense**: Will
 - **Duration**: sustained up to 1 minute
 
-You create a pattern of lights that pulses with intensity. Creatures are [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] while inside the pattern. In addition, a creature must attempt a Will saving throw if it's inside the pattern when you cast it, enters the pattern, ends its turn within the pattern, or uses a Seek or Interact action on the pattern. A creature currently [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] by the pattern doesn't need to attempt new saving throws.
+You create a pattern of lights that pulses with intensity. Creatures are [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] while inside the pattern. In addition, a creature must attempt a Will saving throw if it's inside the pattern when you cast it, enters the pattern, ends its turn within the pattern, or uses a Seek or Interact action on the pattern. A creature currently [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] by the pattern doesn't need to attempt new saving throws.
 
 **Success** The creature is unaffected.
 

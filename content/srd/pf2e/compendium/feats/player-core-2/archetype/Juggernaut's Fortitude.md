@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/barbarian|Barbarian]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/barbarian-dedication|Barbarian Dedication]]; expert in Fortitude saves
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Barbarian|Barbarian]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Barbarian Dedication|Barbarian Dedication]]; expert in Fortitude saves
 
 Your proficiency rank in Fortitude saves increases to master.
 

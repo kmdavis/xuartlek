@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/hedge-mage|Hedge Mage]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/hedge-mage-dedication|Hedge Mage Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Hedge Mage|Hedge Mage]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Hedge Mage Dedication|Hedge Mage Dedication]]
 
-You can pick up on subtle magic with ease. Add the [[srd/pf2e/compendium/spells/cantrips/detect-magic|_detect magic_]] cantrip to your keepsake. Additionally, you can perform the [[srd/pf2e/compendium/rules-elements/actions/player-core#Detect Magic|Detect Magic]] exploration activity at the same time as the [[srd/pf2e/compendium/rules-elements/actions/player-core#Search|Search]] exploration activity.
+You can pick up on subtle magic with ease. Add the [[srd/pf2e/compendium/spells/cantrips/Detect Magic|_detect magic_]] cantrip to your keepsake. Additionally, you can perform the [[srd/pf2e/compendium/rules-elements/actions/player-core#Detect Magic|Detect Magic]] exploration activity at the same time as the [[srd/pf2e/compendium/rules-elements/actions/player-core#Search|Search]] exploration activity.
 
 *Source: Impossible Magic p. 94*

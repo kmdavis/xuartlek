@@ -18,8 +18,8 @@ socialImage: og-image.png
 - **Price**: 325 gp
 - **Usage**: worn belt
 
-A feeling of security radiates out from this sash made of fine yellow fabric. You gain a +1 status bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]].
+A feeling of security radiates out from this sash made of fine yellow fabric. You gain a +1 status bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]].
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You and each ally in a 5-foot emanation reduce your [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] values by 1.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) **Frequency** once per day; **Effect** You and each ally in a 5-foot emanation reduce your [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] values by 1.
 
 *Source: Treasure Vault (Remastered) p. 146*

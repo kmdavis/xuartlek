@@ -20,9 +20,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Emotion`  `Fear`  `Illusion`  `Manipulate`  `Mental`  `Visual`
 
-- **Traditions**: Arcane, Occult, Primal
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Draconic|Draconic]]
-- **Deities**: [[srd/pf2e/compendium/deities/orc-gods/grask-uldeth|Grask Uldeth]], Jaidz, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa]], [[srd/pf2e/compendium/deities/qlippoth-lords/yamasoth|Yamasoth]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/ydersius|Ydersius]], Zura
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Draconic|Draconic]]
+- **Deities**: [[srd/pf2e/compendium/deities/orc-gods/Grask Uldeth|Grask Uldeth]], Jaidz, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Urgathoa|Urgathoa]], [[srd/pf2e/compendium/deities/qlippoth-lords/Yamasoth|Yamasoth]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/Ydersius|Ydersius]], Zura
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: 1 minute

@@ -19,6 +19,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: blessed swiftness
 
-You gain the [[srd/pf2e/compendium/spells/focus/spectral-advance|_spectral advance_]] devotion spell, which lets you move to an enemy, bypassing hindrances.
+You gain the [[srd/pf2e/compendium/spells/focus/Spectral Advance|_spectral advance_]] devotion spell, which lets you move to an enemy, bypassing hindrances.
 
 *Source: Player Core 2 p. 97*

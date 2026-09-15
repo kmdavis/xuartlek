@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Flourish`  `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/prophesied-monarch|Prophesied Monarch]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/prophesied-monarch-dedication|Prophesied Monarch Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Prophesied Monarch|Prophesied Monarch]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Prophesied Monarch Dedication|Prophesied Monarch Dedication]]
 
-Bolstered by the presence of your knights, you strike a mighty blow in the name of your rule. [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] an enemy. This counts as two attacks when calculating your multiple attack penalty. If this Strike hits, you deal an additional amount of damage equal to double the number of your designated knights whom you can see. If the Strike is a critical hit, the target is also [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 until the start of your next turn.
+Bolstered by the presence of your knights, you strike a mighty blow in the name of your rule. [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] an enemy. This counts as two attacks when calculating your multiple attack penalty. If this Strike hits, you deal an additional amount of damage equal to double the number of your designated knights whom you can see. If the Strike is a critical hit, the target is also [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]] 1 until the start of your next turn.
 
 *Source: War of Immortals p. 136*

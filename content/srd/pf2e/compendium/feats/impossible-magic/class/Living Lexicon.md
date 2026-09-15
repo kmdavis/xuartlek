@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Runesmith`
 
-Your knowledge of runes knows no bounds. You add an [[srd/pf2e/compendium/character/runesmith-runes|additional rune]] to your runic repertoire of any level. Additionally, each day during your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Daily Preparations|daily preparations]], you can swap any one rune in your runic repertoire with another rune of the same level.
+Your knowledge of runes knows no bounds. You add an [[srd/pf2e/compendium/character/Runesmith Runes|additional rune]] to your runic repertoire of any level. Additionally, each day during your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Running Exploration#Daily Preparations|daily preparations]], you can swap any one rune in your runic repertoire with another rune of the same level.
 
 *Source: Impossible Magic p. 53*

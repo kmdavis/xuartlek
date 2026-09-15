@@ -18,6 +18,6 @@ You can clue in all your allies at once. When you use the [[srd/pf2e/compendium/
 
 ### Clue Them All In leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/lead-investigator|Lead Investigator]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Lead Investigator|Lead Investigator]]
 
 *Source: Player Core 2 p. 109*

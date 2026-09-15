@@ -19,6 +19,6 @@ socialImage: og-image.png
 - **Frequency**: once per 10 minutes
 - **Requirements**: You have Sparked Transcendence of at least two different ikons in the last 10 minutes, and your divine spark currently dwells in a third ikon.
 
-As your divine spark travels through each of your ikons in turn, it gains power, culminating its journey when it enters your third ikon. You Spark Transcendence of your final ikon, but instead of its normal effect, the item casts the 3-action version of [[srd/pf2e/compendium/spells/rank-1/harm|_harm_]] or [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]] heightened to half your level rounded up.
+As your divine spark travels through each of your ikons in turn, it gains power, culminating its journey when it enters your third ikon. You Spark Transcendence of your final ikon, but instead of its normal effect, the item casts the 3-action version of [[srd/pf2e/compendium/spells/rank-1/Harm|_harm_]] or [[srd/pf2e/compendium/spells/rank-1/Heal|_heal_]] heightened to half your level rounded up.
 
 *Source: War of Immortals p. 39*

@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/viking|Viking]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/viking-dedication|Viking Dedication]]
-- **Requirements**: You're wielding a [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown]] weapon.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Viking|Viking]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Viking Dedication|Viking Dedication]]
+- **Requirements**: You're wielding a [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown]] weapon.
 
 You make a ranged [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with your thrown weapon, [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]], and then Interact to draw another weapon. This Interact action doesn't trigger reactions.
 
-**Special** If you are [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|raging]] and end the Stride adjacent to an enemy, that enemy is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against the next Strike you make against it with the weapon you drew before the end of your next turn.
+**Special** If you are [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|raging]] and end the Stride adjacent to an enemy, that enemy is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] against the next Strike you make against it with the weapon you drew before the end of your next turn.
 
 *Source: Player Core 2 p. 220*

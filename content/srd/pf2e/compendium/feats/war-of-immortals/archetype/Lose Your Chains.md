@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Auditory`  `Linguistic`  `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/broken-chain|Broken Chain]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/broken-chain-dedication|Broken Chain Dedication]]
-- **Trigger**: An ally gains the [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] condition.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Broken Chain|Broken Chain]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Broken Chain Dedication|Broken Chain Dedication]]
+- **Trigger**: An ally gains the [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] condition.
 
 You rouse rebellion in the hearts of your allies, inspiring them to break free of their bonds. The triggering ally can make a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] at mythic proficiency.
 

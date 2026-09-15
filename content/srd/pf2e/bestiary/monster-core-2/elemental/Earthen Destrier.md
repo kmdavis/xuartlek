@@ -28,10 +28,10 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; darkvision, tremorsense (imprecise) 60 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Petran|Petran]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +12"
 abilityMods: [4, 1, 4, -1, 3, 0]
 ac: 20
 armorclass:
@@ -40,11 +40,11 @@ armorclass:
 hp: 75
 health:
   - name: "HP"
-    desc: "75; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
+    desc: "75; __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]"
 speed: "50 feet, burrow 30 feet; earth glide"
 attacks:
   - name: "Melee"
-    desc: "⬻ lance arm +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d8+6 piercing and lancing charge"
+    desc: "⬻ lance arm +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 2d8+6 piercing and lancing charge"
   - name: "Melee"
     desc: "⬻ hoof +14 __Damage__ 2d6+6 bludgeoning"
 abilities_bot:

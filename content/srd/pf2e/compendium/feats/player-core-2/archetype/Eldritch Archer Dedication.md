@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`  `Magical`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/eldritch-archer|Eldritch Archer]]
-- **Prerequisites**: expert in at least one weapon from the or bow or crossbow weapon group
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Eldritch Archer|Eldritch Archer]]
+- **Prerequisites**: expert in at least one weapon from the or [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bow|bow]] or [[srd/pf2e/compendium/rules-elements/Weapon Groups#Crossbow|crossbow]] weapon group
 
 You channel powerful magic with your archery, allowing you to deliver potent spells through the tip of an arrow rather than the more mundane flick of the wrist or whatever other gestures are usually used. If you don't already cast spells from spell slots, you learn to cast spontaneous spells and gain the Cast a Spell activity. You gain a spell repertoire with one cantrip of your choice, from a tradition of your choice. You choose a common cantrip or other cantrip to which you have access. This cantrip must require a spell attack roll and come from your chosen tradition. You're trained in spell attack modifier and spell DC. Your key spellcasting attribute for these spells is Charisma.
 
@@ -27,6 +27,6 @@ You channel powerful magic with your archery, allowing you to deliver potent spe
 
 ### Eldritch Archer Dedication leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/basic-eldritch-archer-spellcasting|Basic Eldritch Archer Spellcasting]], [[srd/pf2e/compendium/feats/player-core-2/archetype/eldritch-reload|Eldritch Reload]], [[srd/pf2e/compendium/feats/player-core-2/archetype/enchanting-shot|Enchanting Shot]], [[srd/pf2e/compendium/feats/player-core-2/archetype/fatal-shot|Fatal Shot]], [[srd/pf2e/compendium/feats/player-core-2/archetype/homing-shot|Homing Shot]], [[srd/pf2e/compendium/feats/player-core-2/archetype/incorporeal-shot|Incorporeal Shot]], [[srd/pf2e/compendium/feats/player-core-2/archetype/magic-ammunition|Magic Ammunition]], [[srd/pf2e/compendium/feats/player-core-2/archetype/precious-ammunition|Precious Ammunition]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Basic Eldritch Archer Spellcasting|Basic Eldritch Archer Spellcasting]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Eldritch Reload|Eldritch Reload]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Enchanting Shot|Enchanting Shot]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Fatal Shot|Fatal Shot]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Homing Shot|Homing Shot]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Incorporeal Shot|Incorporeal Shot]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Magic Ammunition|Magic Ammunition]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Precious Ammunition|Precious Ammunition]]
 
 *Source: Player Core 2 p. 198*

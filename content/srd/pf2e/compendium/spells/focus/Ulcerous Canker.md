@@ -21,12 +21,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Oracle`  `Poison`  `Uncommon`  `Void`  `Focus`  `Negative`
 
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Blight|Blight]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Blight|Blight]]
 - **Range**: 30 feet
 - **Target**: 1 living creature
 - **Defense**: Fortitude
 
-Weeping sores open on the target as you expose it to decay, dealing 1d4 [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] damage and 1d4 [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] damage plus 1 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]]. The target must attempt a Fortitude save.
+Weeping sores open on the target as you expose it to decay, dealing 1d4 [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]] damage and 1d4 [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] damage plus 1 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent bleed damage]]. The target must attempt a Fortitude save.
 
 **Critical Success** The target is unaffected.
 

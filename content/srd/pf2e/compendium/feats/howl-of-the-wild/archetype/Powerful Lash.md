@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/thlipit-contestant|Thlipit Contestant]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/thlipit-contestant-dedication|Thlipit Contestant Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Thlipit Contestant|Thlipit Contestant]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Thlipit Contestant Dedication|Thlipit Contestant Dedication]]
 
-You've learned to swing your lash ever faster and in wider arcs. The damage die of your lash increases to 1d6 instead of 1d4 and it gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|sweep]] trait.
+You've learned to swing your lash ever faster and in wider arcs. The damage die of your lash increases to 1d6 instead of 1d4 and it gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|sweep]] trait.
 
 *Source: Howl of the Wild p. 74*

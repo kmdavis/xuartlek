@@ -15,6 +15,8 @@ socialImage: og-image.png
 
 `Exemplar`  `Ikon`
 
+- **Usage**: imbued into a melee weapon ikon or worn ikon made of [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/Materials#Material Statistics|metal]], [[srd/pf2e/compendium/equipment/materials/Stone|stone]], or a similarly hard material
+
 The ring of divinely empowered steel assails your enemies. 
 **Transcendence—Ringing Challenge** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (sonic, spirit, transcendence) You clang your ikon against a weapon, shield, or the ground, emitting a shock wave that deals 1d4 spirit damage and 1d4 sonic damage to all creatures in a 30-foot cone or 15-foot emanation (basic Fortitude save). A creature that critically fails its saving throw is deafened for 1 minute.
 

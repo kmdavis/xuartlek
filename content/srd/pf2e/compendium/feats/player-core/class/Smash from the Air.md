@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Fighter`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/cut-from-the-air|Cut from the Air]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Cut from the Air|Cut from the Air]]
 
 Your expertise enables you to knock away spells. You can use Cut from the Air against ranged spell attacks.
 

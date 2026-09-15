@@ -57,7 +57,7 @@ You can attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Esca
 
 `Concentrate`  `Emotion`  `Mental`  `Transcendence`  `Visual`
 
-You focus your attention on a creature within 30 feet, overwhelming its senses. The creature must succeed at a Will save against your class DC or be [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] by you until the start of your next turn. The condition ends if you use a [[srd/pf2e/compendium/rules-elements/conditions#Hostile|hostile]] action against the target, but not if you use a hostile action against its allies.
+You focus your attention on a creature within 30 feet, overwhelming its senses. The creature must succeed at a Will save against your class DC or be [[srd/pf2e/compendium/rules-elements/Conditions#Fascinated|fascinated]] by you until the start of your next turn. The condition ends if you use a [[srd/pf2e/compendium/rules-elements/Conditions#Hostile|hostile]] action against the target, but not if you use a hostile action against its allies.
 
 *Source: War of Immortals p. 44*
 
@@ -67,7 +67,7 @@ You focus your attention on a creature within 30 feet, overwhelming its senses. 
 
 `Transcendence`
 
-Your skin becomes virtually unbreakable. Until the start of your next turn, you have resistance equal to your level to the chosen damage type. During this time, if a creature attacking you using a weapon dealing the same damage type as your resistance misses you or hits you but deals no damage due to your resistance, the weapon clangs wildly off your skin. This painful reverberation makes the attacking enemy [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] and gives it a –2 circumstance penalty to attacks with that weapon until the start of the enemy’s next turn.
+Your skin becomes virtually unbreakable. Until the start of your next turn, you have resistance equal to your level to the chosen damage type. During this time, if a creature attacking you using a weapon dealing the same damage type as your resistance misses you or hits you but deals no damage due to your resistance, the weapon clangs wildly off your skin. This painful reverberation makes the attacking enemy [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] and gives it a –2 circumstance penalty to attacks with that weapon until the start of the enemy’s next turn.
 
 *Source: War of Immortals p. 46*
 
@@ -109,7 +109,7 @@ The _horn of plenty_ allows you to transfer the effects of potions and elixirs t
 
 `Spirit`  `Transcendence`
 
-You lash out with both arms, rending all before you. Each creature in a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]] must succeed at a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save against your class DC or take spirit damage equal to your normal Strike damage with your hands of the wildling. You can choose to swing with abandon, which imposes a –2 circumstance bonus to enemies’ saving throws, but causes you to become [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the start of your next turn.
+You lash out with both arms, rending all before you. Each creature in a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Cone|cone]] must succeed at a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save against your class DC or take spirit damage equal to your normal Strike damage with your hands of the wildling. You can choose to swing with abandon, which imposes a –2 circumstance bonus to enemies’ saving throws, but causes you to become [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] until the start of your next turn.
 
 *Source: War of Immortals p. 44*
 
@@ -119,7 +119,7 @@ You lash out with both arms, rending all before you. Each creature in a 15-foot 
 
 `Spirit`  `Transcendence`
 
-Make two Strikes with the gleaming blade, each against the same target and using your current multiple attack penalty. If the gleaming blade doesn’t have the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] trait, the second Strike takes a –2 penalty. If both attacks hit, you combine their damage, which is all dealt as spirit damage. You add any precision damage only once. Combine the damage from both Strikes and apply [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance|resistances and weaknesses]] only once. This counts as two attacks when calculating your multiple attack penalty.
+Make two Strikes with the gleaming blade, each against the same target and using your current multiple attack penalty. If the gleaming blade doesn’t have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]] trait, the second Strike takes a –2 penalty. If both attacks hit, you combine their damage, which is all dealt as spirit damage. You add any precision damage only once. Combine the damage from both Strikes and apply [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance|resistances and weaknesses]] only once. This counts as two attacks when calculating your multiple attack penalty.
 
 *Source: War of Immortals p. 44*
 
@@ -139,7 +139,7 @@ Your spirit is so dense it takes on tangible force. Make a melee Strike with the
 
 `Spirit`  `Transcendence`
 
-You shoot the _starshot_, causing a detonation in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] within 60 feet. Each creature in the area must succeed at a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save against your class DC or take spirit damage equal to your normal Strike damage with the starshot. Creatures larger than you take a –2 circumstance penalty to their saving throws. This shot requires any ammunition that would normally be required for the weapon.
+You shoot the _starshot_, causing a detonation in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]] within 60 feet. Each creature in the area must succeed at a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save against your class DC or take spirit damage equal to your normal Strike damage with the starshot. Creatures larger than you take a –2 circumstance penalty to their saving throws. This shot requires any ammunition that would normally be required for the weapon.
 
 *Source: War of Immortals p. 46*
 
@@ -161,7 +161,7 @@ You consume the blood lingering upon your weapon. You reduce the value of your d
 
 - **Requirements**: Your previous action was an unsuccessful Strike with the weapon from the _shadow sheath
 
-The shadow weapon you threw fades, the distraction covering your true intention all along—a second strike in hidden in the blind spot of the first! Interact to draw another weapon from the shadow sheath, then Strike with it at the same multiple attack penalty as the unsuccessful attack. The opponent is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to this attack. This Strike counts toward your multiple attack penalty as normal. After the Strike resolves, you can Interact to draw another weapon from the _shadow sheath_.
+The shadow weapon you threw fades, the distraction covering your true intention all along—a second strike in hidden in the blind spot of the first! Interact to draw another weapon from the shadow sheath, then Strike with it at the same multiple attack penalty as the unsuccessful attack. The opponent is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to this attack. This Strike counts toward your multiple attack penalty as normal. After the Strike resolves, you can Interact to draw another weapon from the _shadow sheath_.
 
 *Source: War of Immortals p. 45*
 
@@ -201,7 +201,7 @@ You rally your allies, carrying them from the brink of disaster to the verge of 
 
 `Force`  `Transcendence`
 
-You [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise]] the _mirrored aegis_, which summons ethereal shields that surround you and one ally of your choice within 15 feet in a tortoise shield formation. You and the ally gain a +1 status bonus to AC, Reflex saves, and any save against a force, [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] effect for 1 minute.
+You [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise]] the _mirrored aegis_, which summons ethereal shields that surround you and one ally of your choice within 15 feet in a tortoise shield formation. You and the ally gain a +1 status bonus to AC, Reflex saves, and any save against a force, [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Vitality|vitality]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]] effect for 1 minute.
 
 *Source: War of Immortals p. 45*
 
@@ -235,7 +235,7 @@ Destiny, fate, or some other force bends around you as your mythic power swells,
 
 `Divine`  `Exemplar`
 
-You shift your power, filling one of your ikons with your divine spark. That ikon softly glows with radiant light, emits subtle chimes as it moves, or is otherwise obviously empowered in a way that matches your growing divinity, granting the ikon the [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] trait and granting you that ikon's immanence effects for as long as your divine spark is empowering it. Your spark is indivisible, so it can empower only one ikon at a time. You can also Shift Immanence to return your spark to the depths of your soul, leaving none of your ikons empowered.
+You shift your power, filling one of your ikons with your divine spark. That ikon softly glows with radiant light, emits subtle chimes as it moves, or is otherwise obviously empowered in a way that matches your growing divinity, granting the ikon the [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]] trait and granting you that ikon's immanence effects for as long as your divine spark is empowering it. Your spark is indivisible, so it can empower only one ikon at a time. You can also Shift Immanence to return your spark to the depths of your soul, leaving none of your ikons empowered.
 
 ---
 
@@ -251,7 +251,7 @@ You shift your power, filling one of your ikons with your divine spark. That iko
 
 - **Requirements**: Your last action this turn was a successful Strike with the _noble branch
 
-You channel a rending pulse of energy down your weapon in the moment of contact. The target of the Strike takes spirit damage equal to the _noble branch’s_ weapon damage dice. This includes any extra dice from [[srd/pf2e/compendium/equipment/runes/striking|striking]] runes, but not from special abilities, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Property Runes|property runes]], or the like.
+You channel a rending pulse of energy down your weapon in the moment of contact. The target of the Strike takes spirit damage equal to the _noble branch’s_ weapon damage dice. This includes any extra dice from [[srd/pf2e/compendium/equipment/runes/Striking|striking]] runes, but not from special abilities, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/Armor & Armaments#Property Runes|property runes]], or the like.
 
 *Source: War of Immortals p. 45*
 
@@ -261,6 +261,6 @@ You channel a rending pulse of energy down your weapon in the moment of contact.
 
 `Aura`  `Manipulate`  `Transcendence`
 
-You wrap the pelt around yourself. You can choose to change the damage type the pelt is attuned to. The pelt shines gold, drawing the offending energies into itself. Until the start of your next turn, this shine creates an aura in a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]. You and all allies in the emanation gain a +2 circumstance bonus to AC and saving throws against effects with that trait.
+You wrap the pelt around yourself. You can choose to change the damage type the pelt is attuned to. The pelt shines gold, drawing the offending energies into itself. Until the start of your next turn, this shine creates an aura in a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]]. You and all allies in the emanation gain a +2 circumstance bonus to AC and saving throws against effects with that trait.
 
 *Source: War of Immortals p. 45*

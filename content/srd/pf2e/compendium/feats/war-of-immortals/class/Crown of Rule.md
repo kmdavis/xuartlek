@@ -15,8 +15,10 @@ socialImage: og-image.png
 
 `Exemplar`  `Ikon`
 
+- **Usage**: imbued into a worn ikon or a body ikon
+
 This badge of office proclaims your sovereignty. The imbued ikon gains the following ability.
 
-**Transcendence—Heavy is the Crown** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, mental, spirit, transcendence) The weight of authority falls heavily upon you, as well as nearby creatures. All enemies in a 15 foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] within 60 feet take spirit damage equal to your level with a basic Will save against your class DC. Any enemy that fails its save must immediately kneel, dropping prone as a free action.
+**Transcendence—Heavy is the Crown** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, mental, spirit, transcendence) The weight of authority falls heavily upon you, as well as nearby creatures. All enemies in a 15 foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]] within 60 feet take spirit damage equal to your level with a basic Will save against your class DC. Any enemy that fails its save must immediately kneel, dropping prone as a free action.
 
 *Source: War of Immortals p. 40*

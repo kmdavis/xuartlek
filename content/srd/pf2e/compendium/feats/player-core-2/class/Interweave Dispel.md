@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Sorcerer`  `Spellshape`  `Metamagic`
 
-- **Prerequisites**: [[srd/pf2e/compendium/spells/rank-2/dispel-magic|_dispel magic_]] in your spell repertoire
+- **Prerequisites**: [[srd/pf2e/compendium/spells/rank-2/Dispel Magic|_dispel magic_]] in your spell repertoire
 
-You weave dispelling energy into a spell. If your next action is to cast a single-target spell against an enemy, and you either hit the enemy with the spell [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] roll or the enemy fails its saving throw, you can cast [[srd/pf2e/compendium/spells/rank-2/dispel-magic|_dispel magic_]] on the enemy as a free action, expending a spell slot as normal and targeting one spell effect affecting the enemy.
+You weave dispelling energy into a spell. If your next action is to cast a single-target spell against an enemy, and you either hit the enemy with the spell [[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]] roll or the enemy fails its saving throw, you can cast [[srd/pf2e/compendium/spells/rank-2/Dispel Magic|_dispel magic_]] on the enemy as a free action, expending a spell slot as normal and targeting one spell effect affecting the enemy.
 
 *Source: Player Core 2 p. 156*

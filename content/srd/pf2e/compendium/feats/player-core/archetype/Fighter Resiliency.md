@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/fighter|Fighter]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/fighter-dedication|Fighter Dedication]]; class granting no more Hit Points per level than 8 + your Constitution modifier
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Fighter|Fighter]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Fighter Dedication|Fighter Dedication]]; class granting no more Hit Points per level than 8 + your Constitution modifier
 
 You gain 3 additional Hit Points for each fighter archetype class feat you have. As you continue selecting fighter archetype class feats, you continue to gain additional Hit Points in this way.
 

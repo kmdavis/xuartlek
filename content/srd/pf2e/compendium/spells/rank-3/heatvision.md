@@ -17,12 +17,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Manipulate`  `Uncommon`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: touch
 - **Target**: 1 willing creature
 - **Duration**: 1 hour
 
-The target visually senses the heat energy emitted by the creatures and objects around it, gaining infrared vision at a range of 60 feet as a precise sense. This vision can detect any warm-blooded creature or source of heat not completely covered behind a solid object, such as a wall; this bypasses any concealement granted by smoke or darkness. It can similarly detect especially cold creatures and sources of cold. Almost all creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] trait can be detected with _heatvision_. [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|Undead]] and constructs are typically the same temperature as their environment and can't be detected with _heatvision_. The GM decides in other cases.
+The target visually senses the heat energy emitted by the creatures and objects around it, gaining infrared vision at a range of 60 feet as a precise sense. This vision can detect any warm-blooded creature or source of heat not completely covered behind a solid object, such as a wall; this bypasses any concealement granted by smoke or darkness. It can similarly detect especially cold creatures and sources of cold. Almost all creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] trait can be detected with _heatvision_. [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|Undead]] and constructs are typically the same temperature as their environment and can't be detected with _heatvision_. The GM decides in other cases.
 
 ---
 **Heightened (6th)** The duration lasts until you next make your daily preparations, and the range increases to 120 feet.

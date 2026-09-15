@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Changeling`
 
-You’ve heard the Call, and by resisting it, you’ve developed a bulwark against effects that target your mind. You gain a +1 circumstance bonus to Will saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effects. If you roll a success on your saving throw against a mental effect that would make you [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]], you get a critical success instead.
+You’ve heard the Call, and by resisting it, you’ve developed a bulwark against effects that target your mind. You gain a +1 circumstance bonus to Will saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effects. If you roll a success on your saving throw against a mental effect that would make you [[srd/pf2e/compendium/rules-elements/Conditions#Controlled|controlled]], you get a critical success instead.
 
 *Source: Player Core p. 77*

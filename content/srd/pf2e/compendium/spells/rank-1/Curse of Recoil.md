@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Curse`
 
-- **Traditions**: Divine, Occult
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Trigger**: An enemy you can see is about to make a ranged attack.
 - **Range**: 120 feet
 - **Target**: 1 creature
@@ -26,7 +26,7 @@ You curse an enemy to suffer a kickback as they make a ranged attack, potentiall
 
 **Critical Success** The target is unaffected.
 
-**Success** The recoil from their ranged attack causes the target to be [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the beginning of their next turn.
+**Success** The recoil from their ranged attack causes the target to be [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] until the beginning of their next turn.
 
 **Failure** The recoil imposes a –1 status penalty to the ranged attack and renders the target off-guard until the beginning of their next turn.
 

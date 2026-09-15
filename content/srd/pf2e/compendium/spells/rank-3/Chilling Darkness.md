@@ -19,19 +19,19 @@ socialImage: og-image.png
 
 `Attack`  `Cold`  `Concentrate`  `Darkness`  `Manipulate`  `Unholy`
 
-- **Tradition**: Divine
-- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Shadow|Lesson of Shadow]]
+- **Tradition**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2)
+- **Lesson**: [[srd/pf2e/compendium/character/Lessons#Lesson of Shadow|Lesson of Shadow]]
 - **Range**: 120 feet
 - **Target**: 1 creature
 - **Defense**: AC
 
-You shoot an utterly cold ray of darkness tinged with unholy energy. Make a ranged spell attack. The ray deals 5d6 cold damage. If the target has the [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] trait, you deal an extra 5d6 spirit damage.
+You shoot an utterly cold ray of darkness tinged with unholy energy. Make a ranged spell attack. The ray deals 5d6 cold damage. If the target has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]] trait, you deal an extra 5d6 spirit damage.
 
 **Critical Success** The target takes double damage.
 
 **Success** The target takes full damage.
 
-If the ray passes through an area of magical light or targets a creature affected by magical [[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]], _chilling darkness_ attempts to counteract the light. If you need to determine whether the ray passes through an area of light, draw a line between yourself and the spell's target.
+If the ray passes through an area of magical light or targets a creature affected by magical [[srd/pf2e/compendium/rules-elements/traits/player-core/Light|light]], _chilling darkness_ attempts to counteract the light. If you need to determine whether the ray passes through an area of light, draw a line between yourself and the spell's target.
 
 ---
 **Heightened (+1)** The cold damage increases by 2d6, and the spirit damage against holy creatures increases by 2d6.

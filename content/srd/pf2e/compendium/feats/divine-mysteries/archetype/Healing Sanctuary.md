@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Divine`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/mortal-herald|Mortal Herald]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/shield-the-faithful|Shield the Faithful]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Mortal Herald|Mortal Herald]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Shield the Faithful|Shield the Faithful]]
 
-When you call upon your deity’s power, you also radiate a sense of safety that fortifies your allies. An ally who begins their turn in your Shield the Faithful aura gains 10 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] that last for 1 round.
+When you call upon your deity’s power, you also radiate a sense of safety that fortifies your allies. An ally who begins their turn in your Shield the Faithful aura gains 10 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Temporary Hit Points|temporary Hit Points]] that last for 1 round.
 
 *Source: Divine Mysteries p. 281*

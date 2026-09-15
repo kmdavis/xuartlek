@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/beast-lord|Beast Lord]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/beast-lord-dedication|Beast Lord Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Beast Lord|Beast Lord]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Beast Lord Dedication|Beast Lord Dedication]]
 
-The minds of you and your [[srd/pf2e/compendium/rules-elements/traits/gm-core/companion|companion]] are so intertwined that, so long as one of you lives, the other continues to exist in the living one’s mind. If your united companion ever dies or is destroyed and it is within 30 feet of you, its consciousness is drawn into your mind, where it can communicate with you normally and remains there until your next [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Daily Preparations|daily preparations]]. During your next daily preparations, you can call upon your union to restore your companion to life again in a ritual that takes 1 hour. Your restored united companion returns whole-bodied, at their maximum Hit Point total, and cured of any afflictions that may have been afflicting it when it died.
+The minds of you and your [[srd/pf2e/compendium/rules-elements/traits/gm-core/Companion|companion]] are so intertwined that, so long as one of you lives, the other continues to exist in the living one’s mind. If your united companion ever dies or is destroyed and it is within 30 feet of you, its consciousness is drawn into your mind, where it can communicate with you normally and remains there until your next [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Running Exploration#Daily Preparations|daily preparations]]. During your next daily preparations, you can call upon your union to restore your companion to life again in a ritual that takes 1 hour. Your restored united companion returns whole-bodied, at their maximum Hit Point total, and cured of any afflictions that may have been afflicting it when it died.
 
 If you would ever die or be destroyed and you are within 30 feet of your united companion, you consciousness flows into your companion for 3 days. During this time, you can perform actions as if you are your united companion using its abilities and characteristics for any actions you perform. After spending 3 days in this state, you are returned to life with a number of Hit Points equal to twice your level and regain a Mythic Point.
 

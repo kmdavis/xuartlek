@@ -16,11 +16,11 @@ socialImage: og-image.png
 
 `Concentrate`  `Light`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: touch
 - **Target**: a gemstone worth 6 gp or more
 - **Duration**: unlimited
 
-The gemstone you touch glows, spreading bright light with a color of your choice in a 20-foot radius (and dim light for the next 20 feet). The spell ends immediately if the gemstone is [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]].
+The gemstone you touch glows, spreading bright light with a color of your choice in a 20-foot radius (and dim light for the next 20 feet). The spell ends immediately if the gemstone is [[srd/pf2e/compendium/rules-elements/Conditions#Broken|broken]].
 
 *Source: Player Core p. 329*

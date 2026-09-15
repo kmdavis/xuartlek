@@ -23,11 +23,11 @@ socialImage: og-image.png
 - **Area**: all squares that contain plants in a 20-foot burst
 - **Duration**: sustained up to 1 minute
 
-Plants in the area grow rapidly, taking on carnivorous characteristics as they seek to consume prey. All affected squares are [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]], both on the ground and for flying creatures. Each creature that begins its turn in the area must attempt a Reflex save unless it's already [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]].
+Plants in the area grow rapidly, taking on carnivorous characteristics as they seek to consume prey. All affected squares are [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Difficult Terrain|difficult terrain]], both on the ground and for flying creatures. Each creature that begins its turn in the area must attempt a Reflex save unless it's already [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]].
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is grabbed until the beginning of its next turn or it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]].
+**Success** The creature is grabbed until the beginning of its next turn or it {{actions 2296 "Escapes"}}.
 
 **Failure** The creature is grabbed until the spell ends or it Escapes.
 

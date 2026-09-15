@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
 You take only 1 minute to [[srd/pf2e/compendium/rules-elements/actions/gm-core#Affix a Talisman|Affix a Talisman]]. If you're legendary in Crafting, you can Affix a Talisman as a 3-action activity.
 

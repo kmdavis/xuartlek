@@ -17,11 +17,11 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Manipulate`  `Wood`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Area**: 15-foot line
 - **Defense**: basic Reflex
 
-You create a small dead tree in your space that falls over on anyone in its path, then immediately decomposes. Any creature in the area takes 2d4 bludgeoning damage, with a basic Reflex saving throw. A creature that critically fails its save is knocked for a loop, making it [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] until the end of its next turn.
+You create a small dead tree in your space that falls over on anyone in its path, then immediately decomposes. Any creature in the area takes 2d4 bludgeoning damage, with a basic Reflex saving throw. A creature that critically fails its save is knocked for a loop, making it [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] until the end of its next turn.
 
 ---
 **Heightened (+1)** The initial damage increases by 1d4.

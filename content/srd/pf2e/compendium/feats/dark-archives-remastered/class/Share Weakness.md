@@ -23,6 +23,6 @@ You select an object from your esoterica that has great personal value to you, s
 
 ### Share Weakness leads to...
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/class/ubiquitous-weakness|Ubiquitous Weakness]]
+[[srd/pf2e/compendium/feats/dark-archives-remastered/class/Ubiquitous Weakness|Ubiquitous Weakness]]
 
 *Source: Dark Archives (Remastered) p. 45*

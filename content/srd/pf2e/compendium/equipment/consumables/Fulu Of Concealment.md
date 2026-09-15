@@ -7,13 +7,13 @@ tags:
 - trait/illusion
 - trait/magical
 - equipment/level/6
-aliases: ["Fulu Of Concealment"]
+aliases: ["Fulu of Concealment"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5073"
 source: "Impossible Magic"
 socialImage: og-image.png
 ---
 
-# Fulu Of Concealment  *Item 6*
+# Fulu of Concealment  *Item 6*
 
 `Consumable`  `Fulu`  `Illusion`  `Magical`
 
@@ -21,6 +21,6 @@ socialImage: og-image.png
 - **Duration**: 1 hour
 - **Usage**: affixed to the ground in four spaces along a 10-foot radius circle
 
-This fulu comes in four pieces, one placed in each cardinal direction. Choose one of the following traits when Activating the fulus: [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beast]], [[srd/pf2e/compendium/rules-elements/traits/player-core/celestial|celestial]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiend]], [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/monitor|monitor]], [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]]. Those within the fulus’ circle upon activation (including the fulus themselves) gain the effects of _[[srd/pf2e/compendium/spells/rank-3/shared-invisibility|_shared invisibility_]]_, except that the area is the fulus’ circle instead of an [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] and the invisibility is only effective against creatures with the chosen trait. If any of the fulus are moved or destroyed after activation, the effect ends.
+This fulu comes in four pieces, one placed in each cardinal direction. Choose one of the following traits when Activating the fulus: [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Beast|beast]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Celestial|celestial]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fey|fey]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fiend|fiend]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Humanoid|humanoid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Monitor|monitor]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]]. Those within the fulus’ circle upon activation (including the fulus themselves) gain the effects of _[[srd/pf2e/compendium/spells/rank-3/Shared Invisibility|_shared invisibility_]]_, except that the area is the fulus’ circle instead of an [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] and the invisibility is only effective against creatures with the chosen trait. If any of the fulus are moved or destroyed after activation, the effect ends.
 
 *Source: Impossible Magic p. 218*

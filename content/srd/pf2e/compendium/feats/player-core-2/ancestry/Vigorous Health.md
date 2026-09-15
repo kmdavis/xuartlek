@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Hobgoblin`
 
-You can withstand blood loss startlingly well. Whenever you would gain the [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] condition, you can attempt a DC 17 flat check. On a success, you don't gain the drained condition.
+You can withstand blood loss startlingly well. Whenever you would gain the [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]] condition, you can attempt a DC 17 flat check. On a success, you don't gain the drained condition.
 
 *Source: Player Core 2 p. 14*

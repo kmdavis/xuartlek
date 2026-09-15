@@ -15,8 +15,8 @@ socialImage: og-image.png
 `Nephilim`
 
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/ancestry/proteankin|Proteankin]]
-- **Trigger**: You take [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]] damage.
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/ancestry/Proteankin|Proteankin]]
+- **Trigger**: You take [[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|electricity]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Sonic|sonic]] damage.
 
 You focus on your protean forebears to change your energy resistance. The energy resistance you gain from your Proteankin lineage changes to match the triggering damage. This change occurs after the damage is dealt and lasts until the next day, or the next time you use this ability.
 

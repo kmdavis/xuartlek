@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `General`  `Healing`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]]
 
 You have practice combating plague, and your patients are less likely to succumb to the same disease again for a time. When you successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Disease|Treat a Disease]] on someone and they fully recover from the disease, they gain a +2 circumstance bonus to saving throws against that same disease for 1 week.
 

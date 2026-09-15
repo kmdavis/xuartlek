@@ -45,7 +45,7 @@ Surki society places great importance on individuality and self-expression. Ever
 
 Surkis' connection to their environment leads them to typically worship natural deities. Their own ancient traditions identify each creature as possessing a unique spirit, with keystone species occupying a deific role within their ecosystem. Surki traditions dictate that surkis and other cultures aren't part of this spirit cycle, though with time, care, and practice, one can be accepted into it with the blessing of the environment's keystone species.
 
- Among surki communities in Sarkoris, worship of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]] and [[srd/pf2e/compendium/deities/dead-or-missing-deities/sturovenen|Sturovenen]] has grown quickly. Surkis who dedicate themselves to a deity are more likely to choose one representing their own environment or the natural world as a whole. Deities whose domains include [[srd/pf2e/compendium/character/domains#Travel|travel]] or [[srd/pf2e/compendium/character/domains#Change|change]] are also popular among surki devotees.
+ Among surki communities in Sarkoris, worship of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Gozreh|Gozreh]] and [[srd/pf2e/compendium/deities/dead-or-missing-deities/Sturovenen|Sturovenen]] has grown quickly. Surkis who dedicate themselves to a deity are more likely to choose one representing their own environment or the natural world as a whole. Deities whose domains include [[srd/pf2e/compendium/character/Domains#Travel|travel]] or [[srd/pf2e/compendium/character/Domains#Change|change]] are also popular among surki devotees.
 
  It's very important to surkis that life be allowed to follow its natural course. Death, violence, and war all have their place and purpose.
 
@@ -75,11 +75,11 @@ Surkis choose their names when they enter adolescence. Every surki has a name re
 
 #### Languages
 
-[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
-[[srd/pf2e/compendium/rules-elements/languages#Surki|Surki]]
+[[srd/pf2e/compendium/rules-elements/Languages#Surki|Surki]]
 
-Additional languages equal to your Intelligence modifier (if positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]], and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if positive). Choose from [[srd/pf2e/compendium/rules-elements/Languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 | | |
 | --- | --- |

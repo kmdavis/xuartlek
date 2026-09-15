@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ritualist|Ritualist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/ritualist-dedication|Ritualist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ritualist|Ritualist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Ritualist Dedication|Ritualist Dedication]]
 
-You can perform particularly extensive rituals in less time. If the ritual normally requires 1 day to cast, you can cast it in 4 hours. If it takes longer than 1 day, you cast it in half the number of days, rounded up. 
+You can perform particularly extensive [[srd/pf2e/compendium/spells/rituals/rituals|rituals]] in less time. If the ritual normally requires 1 day to cast, you can cast it in 4 hours. If it takes longer than 1 day, you cast it in half the number of days, rounded up. 
 
 At 14th level, if a ritual has a casting time measured in days, you can cast it in an equal number of hours. If this results in a ritual longer than 8 hours, you split the ritual between multiple days, as normal for a ritual.
 

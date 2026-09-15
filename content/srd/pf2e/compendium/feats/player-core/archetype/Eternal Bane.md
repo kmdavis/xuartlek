@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Cleric`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/mortal-herald|Mortal Herald]] (Level 18)
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Mortal Herald|Mortal Herald]] (Level 18)
 - **Prerequisites**: unholy
 
 Your life has made you a nexus for your deity’s vile power. You’re continuously surrounded by a bane spell, with a spell rank equal to half your level (rounded up). The radius is 15 feet, and you can’t increase it. You can Dismiss the spell; if you do, it returns automatically after 1 minute.

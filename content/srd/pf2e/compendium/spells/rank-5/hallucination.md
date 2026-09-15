@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Illusion`  `Incapacitation`  `Manipulate`  `Mental`  `Subtle`
 
-- **Traditions**: Arcane, Occult
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
-- **Deities**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/cayden-cailean|Cayden Cailean]], [[srd/pf2e/compendium/deities/sakhil-tormentors/dachzerul|Dachzerul]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/hastur|Hastur]], [[srd/pf2e/compendium/deities/empyreal-lords/seramaydiel|Seramaydiel]], [[srd/pf2e/compendium/deities/tian-gods/tsukiyo|Tsukiyo]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Fey|Fey]]
+- **Deities**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Cayden Cailean|Cayden Cailean]], [[srd/pf2e/compendium/deities/sakhil-tormentors/Dachzerul|Dachzerul]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Hastur|Hastur]], [[srd/pf2e/compendium/deities/empyreal-lords/Seramaydiel|Seramaydiel]], [[srd/pf2e/compendium/deities/tian-gods/Tsukiyo|Tsukiyo]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: 1 hour

@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/runesmith|Runesmith]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/runesmith-dedication|Runesmith Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Runesmith|Runesmith]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Runesmith Dedication|Runesmith Dedication]]
 
-You gain a 1st- or 2nd-level [[srd/pf2e/compendium/rules-elements/traits/impossible-magic/runesmith|runesmith feat]].
+You gain a 1st- or 2nd-level [[srd/pf2e/compendium/rules-elements/traits/impossible-magic/Runesmith|runesmith feat]].
 
 ### Basic Rune Magic leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/archetype/advanced-rune-magic|Advanced Rune Magic]]
+[[srd/pf2e/compendium/feats/impossible-magic/archetype/Advanced Rune Magic|Advanced Rune Magic]]
 
 *Source: Impossible Magic p. 90*

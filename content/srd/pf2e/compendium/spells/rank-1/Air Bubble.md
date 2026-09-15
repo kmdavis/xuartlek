@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Air`  `Concentrate`
 
-- **Traditions**: Arcane, Divine, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Trigger**: A creature within range enters an environment where it can't breathe.
 - **Range**: 60 feet
 - **Target**: the triggering creature

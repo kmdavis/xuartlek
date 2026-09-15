@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Inventor`  `Manipulate`  `Modification`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/innovations#Construct|construct innovation]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Innovations#Construct|construct innovation]]
 
 You've modified your construct companion and built it out of light materials, enabling you to collapse it into a carrying case or other compact and innocuous form. Either your construct or you (if you're adjacent to it) can Collapse your Construct to turn it into its compact form or back into its normal form.
 

@@ -28,10 +28,10 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; (DC 19 against [[srd/pf2e/compendium/rules-elements/actions/player-core#Steal|Stealing]])"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +8, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +8, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +8, [[srd/pf2e/compendium/rules-elements/skills/lore|Legal Lore]] +9, [[srd/pf2e/compendium/rules-elements/skills/lore|Mercantile Lore]] +10, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +9, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +8, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +8, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +8, [[srd/pf2e/compendium/rules-elements/skills/Lore|Legal Lore]] +9, [[srd/pf2e/compendium/rules-elements/skills/Lore|Mercantile Lore]] +10, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +9, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] +6"
 abilityMods: [0, 1, 0, 3, 2, 2]
 abilities_top:
   - name: "Financial Specialist"
@@ -49,14 +49,14 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4 piercing"
+    desc: "⬻ dagger +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4 piercing"
   - name: "Melee"
-    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4 bludgeoning"
+    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4 bludgeoning"
   - name: "Ranged"
     desc: "⬻ crossbow +5 (range increment 120 feet, reload 1) __Damage__ 1d8 piercing"
 abilities_bot:
   - name: "Glittering Distraction"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The tax collector Strides. At any point during this movement, they can Interact to hurl a handful of coins. If there are commoners about, this typically causes a scene. Crowds are usually difficult terrain and [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Crowds|have other effects]]."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]]) The tax collector Strides. At any point during this movement, they can Interact to hurl a handful of coins. If there are commoners about, this typically causes a scene. Crowds are usually difficult terrain and [[srd/pf2e/books/gm-core/chapter-2-building-games/Environment#Crowds|have other effects]]."
 sourcebook: "_NPC Core_, page 109."
 ```
 

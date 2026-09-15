@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Athamaru`  `Locathah`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/coral-symbiotes|Coral Symbiotes]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Coral Symbiotes|Coral Symbiotes]]
 
-The difference between yourself and your coral symbiotes is nearly impossible to tell apart as your bodies are so intertwined. When you are underwater, you no longer need to [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Starvation and Thirst|eat or drink]], as your coral symbiotes provide you with sufficient nutrition. While you are on land, your body provides your coral symbiotes with sufficient hydration. You no longer need to submerge yourself in water every 24 hours.
+The difference between yourself and your coral symbiotes is nearly impossible to tell apart as your bodies are so intertwined. When you are underwater, you no longer need to [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Running Exploration#Starvation and Thirst|eat or drink]], as your coral symbiotes provide you with sufficient nutrition. While you are on land, your body provides your coral symbiotes with sufficient hydration. You no longer need to submerge yourself in water every 24 hours.
 
 *Source: Howl of the Wild p. 19*

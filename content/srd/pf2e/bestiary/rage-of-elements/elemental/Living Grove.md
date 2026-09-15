@@ -30,10 +30,10 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; tremorsense 30 feet"
-languages: "Arboreal, [[srd/pf2e/compendium/rules-elements/languages#Muan|Muan]]; (understands but can't speak)"
+languages: "Arboreal, [[srd/pf2e/compendium/rules-elements/Languages#Muan|Muan]]; (understands but can't speak)"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +13, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +13, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +13, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +12"
 abilityMods: [4, 0, 5, 0, 1, 1]
 abilities_top:
   - name: "Defensive Camouflage"
@@ -45,7 +45,7 @@ armorclass:
 hp: 90
 health:
   - name: "HP"
-    desc: "90; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ axes 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 7"
+    desc: "90; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/Weapon Groups#Axe|axes]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] 7"
 speed: "20 feet"
 attacks:
   - name: "Melee"
@@ -62,7 +62,7 @@ abilities_bot:
   - name: "Failure"
     desc: "The creature is stunned 2."
   - name: "Critical Failure"
-    desc: "The creature is stunned 4. Slumbering Giants Long before mortal civilization, living groves made their way to the Universe, buried their roots deep for safety, and fell dormant. A handful of these ancient elementals survive to this day, numbering among the oldest non-immortal entities yet living on the plane. Their long separation from the [[srd/pf2e/compendium/gm/planes#Plane of Wood|Plane of Wood]] has sent most into a deep hibernation, but an infusion of planar energy or powerful primal magic could potentially wake them up."
+    desc: "The creature is stunned 4. Slumbering Giants Long before mortal civilization, living groves made their way to the Universe, buried their roots deep for safety, and fell dormant. A handful of these ancient elementals survive to this day, numbering among the oldest non-immortal entities yet living on the plane. Their long separation from the [[srd/pf2e/compendium/gm/Planes#Plane of Wood|Plane of Wood]] has sent most into a deep hibernation, but an infusion of planar energy or powerful primal magic could potentially wake them up."
 sourcebook: "_Rage of Elements_, page 207."
 ```
 

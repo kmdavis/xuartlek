@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: maestro muse
 
-Your anthems grow louder and more potent, bolstered by your muse’s power. You learn the [[srd/pf2e/compendium/spells/focus/fortissimo-composition|_fortissimo composition_]] spellshape focus spell.
+Your anthems grow louder and more potent, bolstered by your muse’s power. You learn the [[srd/pf2e/compendium/spells/focus/Fortissimo Composition|_fortissimo composition_]] spellshape focus spell.
 
 *Source: Player Core p. 104*

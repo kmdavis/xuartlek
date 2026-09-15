@@ -1,6 +1,7 @@
 ---
 title: "Gears Character Options"
 aliases: ["Gears Character Options"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Guns & Gears (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1615"
 citation: "Guns & Gears (Remastered) pg. 36"
-socialImage: og-image.png
 ---
 
 # Gears Character Options
@@ -26,8 +26,8 @@ Fantasy is as broad and deep as human imagination. Let the ancestry, backgrounds
 
 > [!pf2-sidebar] VARIATIONS ON A THEME
 >
-> The [[srd/pf2e/compendium/character/classes/inventor|inventor]] class, [[srd/pf2e/compendium/character/ancestries/automaton|automaton]] ancestry, new backgrounds, and other elements located in this book give players ways to embody different aesthetics that infuse mechanical concepts or fantastic science into their character designs. The degree to which you combine these elements is something that can help you impact the development of your character and the tone and feel of your game in a variety of ways.
+> The [[srd/pf2e/compendium/character/classes/Inventor|inventor]] class, [[srd/pf2e/compendium/character/ancestries/Automaton|automaton]] ancestry, new backgrounds, and other elements located in this book give players ways to embody different aesthetics that infuse mechanical concepts or fantastic science into their character designs. The degree to which you combine these elements is something that can help you impact the development of your character and the tone and feel of your game in a variety of ways.
 >
-> An automaton character with a Pathfinder *Core Rulebook* class like fighter or monk can be an interesting twist on a classic idea. An automaton inventor with the [[srd/pf2e/compendium/character/backgrounds#Disciple of the Gear|Disciple of the Gear]] background who multiclasses as a cleric of Brigh, goddess of invention, can be the focal point of an entire campaign arc themed around the spread of technology and the search to understand the mortal soul. A gnome [[srd/pf2e/compendium/character/archetypes/vehicle-mechanic|vehicle mechanic]] who maintains and makes improvements upon a single vehicle can serve as an unusual character whose existence begs the question of the prevalence of technology throughout the world, or as an established member of a robust mechanics' guild that creates and maintains a small fleet of vehicles used for a particular purpose by a city or civilization.
+> An automaton character with a Pathfinder *Core Rulebook* class like [[srd/pf2e/compendium/character/classes/classes|fighter]] or [[srd/pf2e/compendium/character/classes/classes|monk]] can be an interesting twist on a classic idea. An automaton inventor with the [[srd/pf2e/compendium/character/Backgrounds#Disciple of the Gear|Disciple of the Gear]] background who multiclasses as a [[srd/pf2e/compendium/character/classes/classes|cleric]] of [Brigh](https://2e.aonprd.com/Deities.aspx?ID=33), goddess of invention, can be the focal point of an entire campaign arc themed around the spread of technology and the search to understand the mortal soul. A [gnome](https://2e.aonprd.com/Ancestries.aspx?ID=3) [[srd/pf2e/compendium/character/archetypes/Vehicle Mechanic|vehicle mechanic]] who maintains and makes improvements upon a single vehicle can serve as an unusual character whose existence begs the question of the prevalence of technology throughout the world, or as an established member of a robust mechanics' guild that creates and maintains a small fleet of vehicles used for a particular purpose by a city or civilization.
 >
 > The way that you combine the elements presented in this section can enable you to tell a vast array of different stories. The extent to which magic and technology coexist in your fantasy setting is up to you. Players and GMs should work together to discover how their respective ideas can influence each other as they explore how much influence technology has on the world, as well as discuss methods they might employ as the campaign unfolds to demonstrate its importance, or lack thereof.

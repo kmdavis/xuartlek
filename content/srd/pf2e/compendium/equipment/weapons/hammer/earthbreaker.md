@@ -24,7 +24,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Hammer
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Hammer|Hammer]]
 
 This massive hammer's metal head is shaped or molded with heavy metal wedges along its primary striking surface, enabling it to tear through shields and armor with ease.
 

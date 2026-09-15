@@ -20,10 +20,10 @@ socialImage: og-image.png
 - **Price**: 10 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 The opaque white sap from the graveroot shrub clouds the mind. 
 
-**Saving Throw** DC 19 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 1d8 poison damage (1 round); **Stage 2** 1d10 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 (1 round); Stage 3 2d6 poison damage and stupefied 2 (1 round)
+**Saving Throw** DC 19 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 1d8 poison damage (1 round); **Stage 2** 1d10 poison damage and [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] 1 (1 round); Stage 3 2d6 poison damage and stupefied 2 (1 round)
 
 *Source: Player Core 2 p. 293*

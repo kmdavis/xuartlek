@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/psychic|Psychic]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/psychic-dedication|Psychic Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Psychic|Psychic]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Psychic Dedication|Psychic Dedication]]
 
-You gain a 1st- or 2nd-level psychic feat of your choice.
+You gain a 1st- or 2nd-level [psychic feat](https://2e.aonprd.com/Feats.aspx?Traits=894) of your choice.
 
 ### Basic Thoughtform leads to...
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/advanced-thoughtform|Advanced Thoughtform]]
+[[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Advanced Thoughtform|Advanced Thoughtform]]
 
 *Source: Dark Archives (Remastered) p. 48*

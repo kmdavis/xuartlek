@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 - **Price**: 160 gp
 - **Usage**: affixed to armor
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]])
 - **Trigger**: You attempt a Stealth check for initiative, but you haven't rolled yet
 - **Requirement**: You are trained in Stealth
 

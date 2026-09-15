@@ -25,6 +25,6 @@ You attempt to deftly swap places with an adjacent enemy to avoid the attack. Ch
 
 **Failure** You lose your panache.
 
-**Critical Failure** You become [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against the triggering attack, and you lose your panache.
+**Critical Failure** You become [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] against the triggering attack, and you lose your panache.
 
 *Source: Player Core 2 p. 167*

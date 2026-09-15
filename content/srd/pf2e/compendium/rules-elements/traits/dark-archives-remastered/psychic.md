@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Psychic`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/psychic|psychic]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Psychic|psychic]] class.
 
 *Source: Dark Archives (Remastered) p. 221*

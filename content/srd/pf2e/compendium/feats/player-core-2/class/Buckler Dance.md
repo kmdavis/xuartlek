@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Stance`  `Swashbuckler`
 
-- **Requirements**: You are wielding a [[srd/pf2e/compendium/equipment/shields#Buckler|buckler]].
+- **Requirements**: You are wielding a [[srd/pf2e/compendium/equipment/Shields#Buckler|buckler]].
 
 You spin your buckler defensively toward every attack. You constantly have your buckler raised as if you'd used [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise a Shield]], as long as you meet that action's requirements.
 

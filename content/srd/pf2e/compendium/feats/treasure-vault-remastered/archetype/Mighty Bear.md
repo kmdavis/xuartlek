@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ursine-avenger-hood|Ursine Avenger Hood]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/treasure-vault-remastered/archetype/great-bear|Great Bear]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ursine Avenger Hood|Ursine Avenger Hood]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/treasure-vault-remastered/archetype/Great Bear|Great Bear]]
 
 The power of the bear within you can expand your physical presence even further. The _enlarge_ spell you cast with your Great Bear feat is heightened to 4th rank.
 

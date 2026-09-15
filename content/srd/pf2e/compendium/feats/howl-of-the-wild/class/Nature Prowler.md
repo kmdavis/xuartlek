@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Ranger`
 
-When you begin your turn [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/conditions#Unnoticed|unnoticed]] by your hunted prey, that creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to you until the end of your turn. If you're in natural surroundings, you can Avoid Notice and [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]] at full speed.
+When you begin your turn [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/Conditions#Unnoticed|unnoticed]] by your hunted prey, that creature is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to you until the end of your turn. If you're in natural surroundings, you can Avoid Notice and [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]] at full speed.
 
 *Source: Howl of the Wild p. 59*

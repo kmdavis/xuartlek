@@ -20,7 +20,7 @@ socialImage: og-image.png
 - **Bulk**: —
 - **Type**: Ranged
 - **Category**: Ammunition
-- **Group**: Firearm
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
 
 A typical air repeater magazine holds 6 pellets.
 

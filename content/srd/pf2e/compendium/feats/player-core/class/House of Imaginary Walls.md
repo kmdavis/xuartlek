@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Bard`
 
-You erect an imaginary barrier others believe to be real. You learn the [[srd/pf2e/compendium/spells/cantrips/house-of-imaginary-walls|_house of imaginary walls_]] [[srd/pf2e/compendium/rules-elements/traits/player-core/composition|composition]] cantrip.
+You erect an imaginary barrier others believe to be real. You learn the [[srd/pf2e/compendium/spells/cantrips/House of Imaginary Walls|_house of imaginary walls_]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Composition|composition]] cantrip.
 
 *Source: Player Core p. 105*

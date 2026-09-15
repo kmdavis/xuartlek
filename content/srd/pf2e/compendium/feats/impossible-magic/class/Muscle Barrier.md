@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-You create an extra thick layer of muscle to protect your target. You learn the [[srd/pf2e/compendium/spells/focus/muscle-barrier|_muscle barrier_]] grave spell.
+You create an extra thick layer of muscle to protect your target. You learn the [[srd/pf2e/compendium/spells/focus/Muscle Barrier|_muscle barrier_]] grave spell.
 
 *Source: Impossible Magic p. 34*

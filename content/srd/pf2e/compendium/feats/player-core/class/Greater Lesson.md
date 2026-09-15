@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Witch`
 
-Your patron grants you greater knowledge. Choose a greater or basic lesson from the list [[srd/pf2e/compendium/character/lessons|here]]. You gain its associated hex, and your familiar learns the associated spell.
+Your patron grants you greater knowledge. Choose a greater or basic lesson from the list [[srd/pf2e/compendium/character/Lessons|here]]. You gain its associated hex, and your familiar learns the associated spell.
 
 *Source: Player Core p. 188*

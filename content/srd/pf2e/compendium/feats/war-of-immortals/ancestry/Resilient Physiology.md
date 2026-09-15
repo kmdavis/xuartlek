@@ -15,8 +15,8 @@ socialImage: og-image.png
 `Nephilim`
 
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/ancestry/aeonbound|Aeonbound]]
-- **Requirements**: You’re afflicted by a [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], or are taking [[srd/pf2e/books/player-core/chapter-8-playing-the-game/damage-rolls#Persistent Damage|persistent damage]].
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/ancestry/Aeonbound|Aeonbound]]
+- **Requirements**: You’re afflicted by a [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], or are taking [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Damage Rolls#Persistent Damage|persistent damage]].
 
 Your ordered physiology rejects unwelcome elements, allowing you to reject the negative effects of poisons and diseases or shrug off other lasting negative effects. Choose one.
 

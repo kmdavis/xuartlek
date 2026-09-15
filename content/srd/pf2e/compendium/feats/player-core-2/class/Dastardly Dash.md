@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Flourish`  `Swashbuckler`
 
-You dash past an opponent, confounding them with underhanded tactics. Stride up to half your speed. You can attempt a [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] or a [[srd/pf2e/compendium/feats/player-core-2/skill/dirty-trick|Dirty Trick]] (if you have that action) against one opponent you pass within range of at any point during your movement.
+You dash past an opponent, confounding them with underhanded tactics. Stride up to half your speed. You can attempt a [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] or a [[srd/pf2e/compendium/feats/player-core-2/skill/Dirty Trick|Dirty Trick]] (if you have that action) against one opponent you pass within range of at any point during your movement.
 
 *Source: Player Core 2 p. 165*

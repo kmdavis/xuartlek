@@ -14,14 +14,14 @@ socialImage: og-image.png
 
 `Attached`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/monitor-demigods/dramindyr|Dramindyr]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/monitor-demigods/Dramindyr|Dramindyr]]
 - **Price**: 5 sp
 - **Damage**: 1d6 P
 - **Bulk**: —
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Shield
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Shield|Shield]]
 
 These metal spikes are strategically placed on the defensive side of the shield to deal piercing damage with a shield bash.
 

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Gunslinger`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/hit-the-dirt|Hit the Dirt!]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Hit the Dirt!|Hit the Dirt!]]
 
 You're quick enough to line up a shot even while diving to the ground. When you use your Hit the Dirt! reaction, at any point during your Leap you can also make a ranged Strike with a loaded firearm or crossbow, targeting the creature whose attack triggered the reaction.
 

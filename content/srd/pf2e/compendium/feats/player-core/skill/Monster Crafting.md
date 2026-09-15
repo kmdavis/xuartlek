@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 You can use the parts of monsters to aid in crafting. You can use the body of a monster to help Craft items, using Survival instead of Crafting for the Craft activity when you do so. If parts of the monster’s body are valuable, you can expend them toward the item’s raw material cost as well. (The GM makes the determination if the monster’s entry doesn’t list any valuable materials from its body.)
 

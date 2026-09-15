@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/firework-technician|Firework Technician]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/firework-technician-dedication|Firework Technician Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Firework Technician|Firework Technician]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Firework Technician Dedication|Firework Technician Dedication]]
 
 You've learned how to unleash a sudden and disruptive noisemaker at just the right moment in your display, a technique that can cause a spellcaster to fumble the phrasing of their magic. You gain the Banshee Cry fireworks display.
 
@@ -23,7 +23,7 @@ You've learned how to unleash a sudden and disruptive noisemaker at just the rig
 
 **Success** The creature is unaffected.
 
-**Failure** The creature must use an additional action on the triggering action or activity, or it’s [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions#Disrupting Actions|disrupted]].
+**Failure** The creature must use an additional action on the triggering action or activity, or it’s [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Actions#Disrupting Actions|disrupted]].
 
 **Critical Failure** The triggering action is disrupted.
 

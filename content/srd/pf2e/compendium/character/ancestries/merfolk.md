@@ -42,7 +42,7 @@ Merfolk can be found in the corners of every ocean, but the largest concentratio
 
 In general, merfolk follow the morals and customs of their parents and the communities in which they were raised. These vary greatly throughout the world. For instance, some merfolk are expected to live harmoniously with nature, while others follow a rigid set of laws ordained by their ancestors. Many merfolk believe that acts of altruism raise a community as a whole, even if they don't immediately produce beneficial results for the one who performed the deed in the first place.
 
- Merfolk worship is, like their societies, diverse. Deities with control over water are placed in high regard, and most communities have a shrine to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]] or one of the Elemental Lords of Water: [[srd/pf2e/compendium/deities/elemental-lords/kelizandri|Kelizandri]] or [[srd/pf2e/compendium/deities/elemental-lords/lysianassa|Lysianassa]]. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/abadar|Abadar]] is a popular god in some larger merfolk settlements, and a version of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/erastil|Erastil]]—more associated with sharks than with stags—is worshipped in smaller villages.
+ Merfolk worship is, like their societies, diverse. Deities with control over water are placed in high regard, and most communities have a shrine to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Gozreh|Gozreh]] or one of the Elemental Lords of Water: [[srd/pf2e/compendium/deities/elemental-lords/Kelizandri|Kelizandri]] or [[srd/pf2e/compendium/deities/elemental-lords/Lysianassa|Lysianassa]]. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Abadar|Abadar]] is a popular god in some larger merfolk settlements, and a version of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Erastil|Erastil]]—more associated with sharks than with stags—is worshipped in smaller villages.
 
  **Popular Edicts** aid one's neighbor whenever possible, bring the beauty of music to the world, protect the seas from threats within and without
  **Popular Anathema** fight the current head-on, use magic to harm innocents or hoard wealth 
@@ -51,7 +51,7 @@ In general, merfolk follow the morals and customs of their parents and the commu
 
 Merfolk become adventurers for all sorts of reasons, but one thing is certain—the decision to leave home, especially to go and live above the waves, is never taken lightly. Some merfolk adventure to defend their homes or forge alliances with other peoples, while other merfolk are exiles, banished for crimes they might or might not have committed. And of course, some merfolk are just curious about the surface world.
 
- Merfolk come from all kinds of backgrounds— adventurous merfolk might come from the [[srd/pf2e/compendium/character/backgrounds#Artisan|artisan]], [[srd/pf2e/compendium/character/backgrounds#Guard|guard]], [[srd/pf2e/compendium/character/backgrounds#Sailor|sailor]], or [[srd/pf2e/compendium/character/backgrounds#Warrior|warrior]] backgrounds, and merfolk have their share of [[srd/pf2e/compendium/character/backgrounds#Emissary|emissaries]] and [[srd/pf2e/compendium/character/backgrounds#Noble|nobles]] as well. With their affinity for magic, many merfolk become wizards, witches, or magi. Less magically inclined merfolk are more likely to become fighters (having trained in the local militia) or occasionally rangers, bonding with sharks or other sea life.
+ Merfolk come from all kinds of backgrounds— adventurous merfolk might come from the [[srd/pf2e/compendium/character/Backgrounds#Artisan|artisan]], [[srd/pf2e/compendium/character/Backgrounds#Guard|guard]], [[srd/pf2e/compendium/character/Backgrounds#Sailor|sailor]], or [[srd/pf2e/compendium/character/Backgrounds#Warrior|warrior]] backgrounds, and merfolk have their share of [[srd/pf2e/compendium/character/Backgrounds#Emissary|emissaries]] and [[srd/pf2e/compendium/character/Backgrounds#Noble|nobles]] as well. With their affinity for magic, many merfolk become wizards, witches, or magi. Less magically inclined merfolk are more likely to become fighters (having trained in the local militia) or occasionally rangers, bonding with sharks or other sea life.
 
 ### Names
 
@@ -81,19 +81,19 @@ Outsea is home to not just merfolk but also sedacthies, azarketi, nagas, and sev
 
 #### Languages
 
-[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
-[[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]
+[[srd/pf2e/compendium/rules-elements/Languages#Thalassic|Thalassic]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], Azlanti, [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], and [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/Languages#Aklo|Aklo]], Azlanti, [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Elven|Elven]], and [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 #### Aquatic Grace
 
-When you roll a success on a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] effect, you get a critical success instead.
+When you roll a success on a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Water|water]] effect, you get a critical success instead.
 
 #### Low-Light Vision
 
-You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition due to dim light.
 
 #### Hydration
 

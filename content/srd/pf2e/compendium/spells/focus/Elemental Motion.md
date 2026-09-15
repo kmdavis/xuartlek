@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Focus`  `Manipulate`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Elemental|Elemental]]
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Elemental|Elemental]]
 - **Duration**: 1 minute
 
 You call upon your element to propel you, improving your Speed depending on your element. This spell has your element's trait. 

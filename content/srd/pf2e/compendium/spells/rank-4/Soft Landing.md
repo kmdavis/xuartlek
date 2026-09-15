@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Occult, Primal
-- **Deity**: [[srd/pf2e/compendium/deities/empyreal-lords/lorris|Lorris]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deity**: [[srd/pf2e/compendium/deities/empyreal-lords/Lorris|Lorris]]
 - **Range**: 1 mile
 - **Area**: 20-foot tall, 60-foot radius cylinder with the ground at the bottom
 - **Duration**: 1 minute

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/familiar-master|Familiar Master]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/familiar-master-dedication|Familiar Master Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Familiar Master|Familiar Master]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Familiar Master Dedication|Familiar Master Dedication]]
 
 When selecting master abilities, you can choose an ally to benefit from any specific master ability. Each master ability can benefit only a single character, and you can select a specific master ability only once unless the ability says otherwise.
 

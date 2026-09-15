@@ -23,13 +23,13 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Category**: Advanced
 
-The wrecker combines a [[srd/pf2e/compendium/equipment/weapons/flail/dwarven-dorn-dergar|dwarven dorn-dergar]] with a heavy, gear-reinforced arm cover that allows it to be fired like an oversized sling, then retrieved and reloaded by manually activating a clockwork spool. A wrecker must be loaded to be switched from its ranged configuration to its melee configuration.
+The wrecker combines a [[srd/pf2e/compendium/equipment/weapons/flail/Dwarven Dorn-Dergar|dwarven dorn-dergar]] with a heavy, gear-reinforced arm cover that allows it to be fired like an oversized sling, then retrieved and reloaded by manually activating a clockwork spool. A wrecker must be loaded to be switched from its ranged configuration to its melee configuration.
 
 ### Melee
 
 **Damage** 1d8 B
 
-**Group** Flail
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Flail|Flail]]
 
 ### Ranged
 
@@ -39,7 +39,7 @@ The wrecker combines a [[srd/pf2e/compendium/equipment/weapons/flail/dwarven-dor
 
 **Reload** 1
 
-**Group** Sling
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sling|Sling]]
 
 ### Critical Specialization Effects
 

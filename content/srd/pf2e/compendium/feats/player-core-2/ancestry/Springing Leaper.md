@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Catfolk`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
 Your powerful legs allow you to make sudden and dramatic leaps. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]] as a 2-action activity to double the distance you can Leap vertically, or Leap as a 3-action activity to triple the distance you can Leap vertically. You don't automatically fail [[srd/pf2e/compendium/rules-elements/actions/player-core#Long Jump|Long Jumps]] for jumping in a different direction than your Stride.
 

@@ -28,16 +28,16 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "+15"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +13, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +9, [[srd/pf2e/compendium/rules-elements/skills/lore|Legal Lore]] +13, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] +13, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +9, [[srd/pf2e/compendium/rules-elements/skills/Lore|Legal Lore]] +13, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +11"
 abilityMods: [1, 4, 2, 4, 1, 0]
 abilities_top:
   - name: "Arcane Watch"
     desc: "The watchmage can either [[srd/pf2e/compendium/rules-elements/actions/player-core#Investigate|Investigate]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Search|Search]] while using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Detect Magic|Detect Magic]] exploration activity."
   - name: "Items"
-    desc: "Leather Armor, Shortbow (20 arrows), spellbook (contains all prepared spells plus [[srd/pf2e/compendium/spells/rank-3/earthbind|_earthbind_]], [[srd/pf2e/compendium/spells/rank-2/revealing-light|_revealing light_]], [[srd/pf2e/compendium/spells/rank-1/sleep|_sleep_]], and [[srd/pf2e/compendium/spells/rank-1/tailwind|_tailwind_]])"
+    desc: "Leather Armor, Shortbow (20 arrows), spellbook (contains all prepared spells plus [[srd/pf2e/compendium/spells/rank-3/Earthbind|_earthbind_]], [[srd/pf2e/compendium/spells/rank-2/Revealing Light|_revealing light_]], [[srd/pf2e/compendium/spells/rank-1/Sleep|_sleep_]], and [[srd/pf2e/compendium/spells/rank-1/Tailwind|_tailwind_]])"
 ac: 21
 armorclass:
   - name: "AC"
@@ -48,20 +48,20 @@ health:
     desc: "70"
 abilities_mid:
   - name: "Counter Escape"
-    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]])"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]])"
   - name: "Trigger"
-    desc: "A creature Casts a Spell with the [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]] trait or as a reaction"
+    desc: "A creature Casts a Spell with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Teleportation|teleportation]] trait or as a reaction"
   - name: "Effect"
     desc: "The watchmage expends a spell slot of the same rank or higher as the trigger creature's spell and attempts to counteract the triggering spell (counteract modifier +11)."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d6+5 bludgeoning"
+    desc: "⬻ fist +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d6+5 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ shortbow +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], range increment 60 feet) __Damage__ 1d6+4 piercing plus 1d6 force"
+    desc: "⬻ shortbow +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], range increment 60 feet) __Damage__ 1d6+4 piercing plus 1d6 force"
 abilities_bot:
   - name: "Eldritch Arms"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]]) In a brief ritual that takes 10 minutes, the watchmage chooses a single weapon or unarmed attack through which they can focus their magic. Strikes the watchmage makes with that weapon are magical and deal 1d6 additional force damage."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]]) In a brief ritual that takes 10 minutes, the watchmage chooses a single weapon or unarmed attack through which they can focus their magic. Strikes the watchmage makes with that weapon are magical and deal 1d6 additional force damage."
   - name: "Spellbound Strike"
     desc: "⬽"
   - name: "Requirements"
@@ -70,7 +70,7 @@ abilities_bot:
     desc: "The watchmage Casts a Spell that takes 1 or 2 actions to cast, imbuing that spell into the weapon. The watchmage Strikes with the required weapon. This counts as two attacks for the watchmage's multiple attack penalty. On a hit, the target is also affected by the spell, though the target gets any normal defenses allowed by the spell. If the spell is targeted, it targets the creature that was hit and no one else. If the spell is an area, the target must be in the area. A burst is centered on a corner of the target's square if the target is Medium or smaller, or the corner of a square closest to the creature's center if it's Large or larger. A cone or line emits from a square of the watchmage's choice adjacent to the target."
 spellcasting:
   - name: "Arcane Prepared Spells"
-    desc: "DC 20, attack +12 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/frostbite|Frostbite]], [[srd/pf2e/compendium/spells/cantrips/ignition|Ignition]], [[srd/pf2e/compendium/spells/cantrips/read-aura|Read Aura]], [[srd/pf2e/compendium/spells/cantrips/tangle-vine|Tangle Vine]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/command|Command]], [[srd/pf2e/compendium/spells/rank-1/force-barrage|Force Barrage]], [[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/dispel-magic|Dispel Magic]], [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|See the Unseen]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/haste|Haste]], [[srd/pf2e/compendium/spells/rank-3/slow|Slow]]"
+    desc: "DC 20, attack +12 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/Frostbite|Frostbite]], [[srd/pf2e/compendium/spells/cantrips/Ignition|Ignition]], [[srd/pf2e/compendium/spells/cantrips/Read Aura|Read Aura]], [[srd/pf2e/compendium/spells/cantrips/Tangle Vine|Tangle Vine]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Command|Command]], [[srd/pf2e/compendium/spells/rank-1/Force Barrage|Force Barrage]], [[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Dispel Magic|Dispel Magic]], [[srd/pf2e/compendium/spells/rank-2/See the Unseen|See the Unseen]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/Haste|Haste]], [[srd/pf2e/compendium/spells/rank-3/Slow|Slow]]"
 sourcebook: "_NPC Core_, page 115."
 ```
 

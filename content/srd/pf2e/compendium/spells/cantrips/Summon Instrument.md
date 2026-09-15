@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Duration**: 1 hour
 
 You materialize a handheld musical instrument in your grasp. The instrument is typical for its type, but it plays for only you. It vanishes when the spell ends. If you cast _summon instrument_ again, any instrument you previously summoned disappears.

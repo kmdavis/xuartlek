@@ -16,14 +16,14 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`  `Sanctified`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/mortal-herald|Mortal Herald]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/fear-of-god|Fear of God]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Mortal Herald|Mortal Herald]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Fear of God|Fear of God]]
 
-With but a mere word from your deity, you exploit a foe’s fear to see their inner being brought low. You chastise the spirit of a foe within 30 feet that has the [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition. The target must attempt a Will saving throw against the higher of your class DC or spell DC. The target is then temporarily immune for 1 hour.
+With but a mere word from your deity, you exploit a foe’s fear to see their inner being brought low. You chastise the spirit of a foe within 30 feet that has the [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] condition. The target must attempt a Will saving throw against the higher of your class DC or spell DC. The target is then temporarily immune for 1 hour.
 
 **Critical Success** The target is unaffected.
 
-**Success** The target takes 2 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent spirit damage]]. The first time the creature fails their flat check to recover from this, the persistent spirit damage doubles.
+**Success** The target takes 2 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent spirit damage]]. The first time the creature fails their flat check to recover from this, the persistent spirit damage doubles.
 
 **Failure** The target takes 4 persistent spirit damage. The first time the creature fails their flat check to recover from this, the persistent spirit damage doubles.
 

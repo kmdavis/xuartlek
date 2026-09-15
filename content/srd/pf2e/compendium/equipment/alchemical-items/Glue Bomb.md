@@ -21,8 +21,8 @@ socialImage: og-image.png
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") Strike
 
 A glue bomb is a harmless explosive mechanism bursting with sticky substances. When you hit a creature with a glue bomb, that creature takes a status penalty to its Speeds for 1 minute. Many types of glue bomb also grant an item bonus to attack rolls. 
-On a critical hit, a creature in contact with a solid surface becomes stuck to the surface and [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] for 1 round, and a creature flying via wings has its wings tangled, causing it to fall safely to the ground and become unable to [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] again for 1 round. Glue bombs aren't effective when used on a creature that's in water. 
-The target can end any effects by [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escaping]] or spending a total of 3 [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] actions to carefully remove the sticky substances. These manipulate actions don't have to be consecutive, and other creatures can provide the actions as well.
+On a critical hit, a creature in contact with a solid surface becomes stuck to the surface and [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] for 1 round, and a creature flying via wings has its wings tangled, causing it to fall safely to the ground and become unable to [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] again for 1 round. Glue bombs aren't effective when used on a creature that's in water. 
+The target can end any effects by [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escaping]] or spending a total of 3 [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]] actions to carefully remove the sticky substances. These manipulate actions don't have to be consecutive, and other creatures can provide the actions as well.
 
 ### Glue Bomb (Lesser)
 

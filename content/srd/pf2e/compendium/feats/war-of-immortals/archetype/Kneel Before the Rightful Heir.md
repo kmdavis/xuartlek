@@ -18,18 +18,18 @@ socialImage: og-image.png
 
 `Auditory`  `Linguistic`  `Mental`  `Mythic`  `Visual`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/prophesied-monarch|Prophesied Monarch]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/prophesied-monarch-dedication|Prophesied Monarch Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Prophesied Monarch|Prophesied Monarch]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Prophesied Monarch Dedication|Prophesied Monarch Dedication]]
 
 You command that your foes bow down before you or face your wrath. All enemies within 40 feet who can see and hear you must attempt a Will saving throw against your class DC or spell DC, whichever is higher. Regardless of the result, a creature is then temporarily immune to Kneel Before the Rightful Heir for 24 hours. 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes 3d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent mental damage]].
+**Success** The creature takes 3d6 {{conditions 86 "persistent mental damage"}}.
 
-**Failure** The creature takes 6d6 persistent [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] damage.
+**Failure** The creature takes 6d6 persistent {{traits 647 "mental"}} damage.
 
-**Critical Failure** The creature takes 6d6 persistent mental damage and is [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 2 for as long as it’s taking that persistent damage.
+**Critical Failure** The creature takes 6d6 persistent mental damage and is {{conditions 61 "clumsy"}} 2 for as long as it’s taking that persistent damage.
 
 The persistent mental damage can be ended only if the creature [[srd/pf2e/compendium/rules-elements/actions/player-core#Drop Prone|Drops Prone]] in a location that you can see and doesn't Stand until their next turn. An affected creature is aware of this restriction.
 

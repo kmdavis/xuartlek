@@ -14,7 +14,7 @@ While the common wasp poses little threat to a hardy adventurer aside from an un
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core/animal/giant-wasp|Giant Wasp]] (Creature 3), [[srd/pf2e/bestiary/monster-core/animal/wasp-swarm|Wasp Swarm]] (Creature 4)
+[[srd/pf2e/bestiary/monster-core/animal/Giant Wasp|Giant Wasp]] (Creature 3), [[srd/pf2e/bestiary/monster-core/animal/Wasp Swarm|Wasp Swarm]] (Creature 4)
 
 ### Paralytic Poison
 
@@ -22,6 +22,6 @@ The poison of the giant wasp loses its potency soon after being harvested, but a
 
 ### Sacred Stingers
 
-Wasps are upheld as sacred among the priesthood of the elven deity [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/calistria|Calistria]], goddess of vengeance. Some priests of Calistria summon giant wasps or wasp swarms as servitors, while a few nurture giant wasps as pets, temple guardians, or companions. Followers of Calistria emulate the wasp's penchant for leaving stung victims alive to suffer over a long period—a fitting model for revenge.
+Wasps are upheld as sacred among the priesthood of the elven deity [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Calistria|Calistria]], goddess of vengeance. Some priests of Calistria summon giant wasps or wasp swarms as servitors, while a few nurture giant wasps as pets, temple guardians, or companions. Followers of Calistria emulate the wasp's penchant for leaving stung victims alive to suffer over a long period—a fitting model for revenge.
 
 *Source: Monster Core p. 343*

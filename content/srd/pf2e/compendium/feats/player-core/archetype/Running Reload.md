@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Gunslinger`  `Ranger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/archer|Archer]] (Level 6), Drow Shootist (Level 8), Game Hunter (Level 8), Alkenstar Agent (Level 6), [[srd/pf2e/compendium/character/archetypes/eldritch-archer|Eldritch Archer]] (Level 8)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Archer|Archer]] (Level 6), Drow Shootist (Level 8), Game Hunter (Level 8), Alkenstar Agent (Level 6), [[srd/pf2e/compendium/character/archetypes/Eldritch Archer|Eldritch Archer]] (Level 8)
 
 You can reload your weapon on the move. You Stride, Step, or Sneak, then Interact to reload.
 

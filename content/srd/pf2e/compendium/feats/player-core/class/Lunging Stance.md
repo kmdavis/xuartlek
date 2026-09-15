@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Fighter`  `Stance`
 
-- **Prerequisites**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Reactive Strike|Reactive Strike]]; [[srd/pf2e/compendium/feats/player-core/archetype/lunge|Lunge]]
+- **Prerequisites**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Reactive Strike|Reactive Strike]]; [[srd/pf2e/compendium/feats/player-core/archetype/Lunge|Lunge]]
 - **Requirements**: You are wielding a melee weapon
 
 Your body coiled to strike, you can lash out at distant enemies. While you are in this stance, you can use Reactive Strike against a creature that is outside your reach but within the reach you would have with a Lunge. If you do, you increase your range with the Strike by 5 feet.

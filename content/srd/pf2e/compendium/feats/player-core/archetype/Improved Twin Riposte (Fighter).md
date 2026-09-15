@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Fighter`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/dual-weapon-warrior|Dual-Weapon Warrior]] (Level 16), [[srd/pf2e/compendium/character/archetypes/avenger|Avenger]] (Level 16)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/twin-riposte|Twin Riposte]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Dual-Weapon Warrior|Dual-Weapon Warrior]] (Level 16), [[srd/pf2e/compendium/character/archetypes/Avenger|Avenger]] (Level 16)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Twin Riposte|Twin Riposte]]
 
 Your weapons are a blur, blocking and biting at your foes. You can use Twin Riposte even if you aren't benefiting from Twin Parry (though you must be wielding two melee weapons, one in each hand). At the start of each of your turns, you gain an additional reaction that you can use only to make a Twin Riposte.
 

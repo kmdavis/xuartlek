@@ -18,6 +18,6 @@ Odd interactions in your bloodline provide you with unexpected effects. Choose a
 
 ### Crossblooded Evolution leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/greater-crossblooded-evolution|Greater Crossblooded Evolution]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Greater Crossblooded Evolution|Greater Crossblooded Evolution]]
 
 *Source: Player Core 2 p. 154*

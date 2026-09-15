@@ -28,31 +28,31 @@ modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; (23 to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]]) darkvision, scent (imprecise) 60 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]; telepathy 100 feet"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]]; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +17, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +19, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +18, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +20, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +18, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +21, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +23, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +19, [[srd/pf2e/compendium/rules-elements/skills/lore|Underworld Lore]] +23"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +17, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +19, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +18, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +20, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +18, [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] +21, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +23, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +19, [[srd/pf2e/compendium/rules-elements/skills/Lore|Underworld Lore]] +23"
 abilityMods: [5, 3, 4, 7, 4, 6]
 abilities_top:
   - name: "Information Network"
-    desc: "The dragon can attempt a [[srd/pf2e/compendium/rules-elements/skills/society|Society]] check to [[srd/pf2e/books/gm-core/chapter-1-running-the-game/difficulty-classes#Recall Knowledge|Recall Knowledge]] in place of a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]], recalling intelligence from prior informants."
+    desc: "The dragon can attempt a [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] check to [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Difficulty Classes#Recall Knowledge|Recall Knowledge]] in place of a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]], recalling intelligence from prior informants."
 ac: 31
 armorclass:
   - name: "AC"
-    desc: "31; __Fort__: +21; __Ref__: +19; __Will__: +24 +2 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]"
+    desc: "31; __Fort__: +21; __Ref__: +19; __Will__: +24 +2 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]]"
 hp: 190
 health:
   - name: "HP"
-    desc: "190; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
+    desc: "190; __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]"
 abilities_mid:
   - name: "Diplomatic Solution"
-    desc: "⭓ ([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]])"
+    desc: "⭓ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]])"
   - name: "Trigger"
     desc: "The dragon rolls initiative"
   - name: "Effect"
-    desc: "The dragon targets all enemies it can see within 60 feet with [[srd/pf2e/compendium/spells/rank-2/calm|_calm_]] heightened to a rank equal to half the dragon's level rounded up (DC 28 Will save). The dragon doesn't need to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain an Effect|Sustain this effect]], but if the dragon takes any [[srd/pf2e/books/player-core/chapter-7-spells/hostile-actions|hostile action]] against those affected, it breaks the effect for all creatures."
+    desc: "The dragon targets all enemies it can see within 60 feet with [[srd/pf2e/compendium/spells/rank-2/Calm|_calm_]] heightened to a rank equal to half the dragon's level rounded up (DC 28 Will save). The dragon doesn't need to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain an Effect|Sustain this effect]], but if the dragon takes any [[srd/pf2e/books/player-core/chapter-7-spells/Hostile Actions|hostile action]] against those affected, it breaks the effect for all creatures."
   - name: "Distracting Whisper"
-    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]])"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]])"
   - name: "Trigger"
     desc: "The dragon is targeted with an attack"
   - name: "Effect"
@@ -60,20 +60,20 @@ abilities_mid:
 speed: "50 feet, fly 170 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d12+11 piercing"
+    desc: "⬻ jaws +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 2d12+11 piercing"
   - name: "Melee"
-    desc: "⬻ claw +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]]) __Damage__ 2d10+11 slashing"
+    desc: "⬻ claw +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]]) __Damage__ 2d10+11 slashing"
   - name: "Melee"
-    desc: "⬻ tail +22 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d10+11 bludgeoning"
+    desc: "⬻ tail +22 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 2d10+11 bludgeoning"
 abilities_bot:
   - name: "Cogitation Breath"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) The dragon unleashes a befuddling miasma, dealing 10d6 mental damage in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]] (DC 30 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Will save). A creature that fails its save is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 (stupefied 2 on a critical failure) for 1 minute. The dragon can't use Cogitation Breath again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]]) The dragon unleashes a befuddling miasma, dealing 10d6 mental damage in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Cone|cone]] (DC 30 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Will save). A creature that fails its save is [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] 1 (stupefied 2 on a critical failure) for 1 minute. The dragon can't use Cogitation Breath again for 1d4 rounds."
   - name: "Draconic Frenzy"
     desc: "⬺ The dragon makes two claw Strikes and one tail Strike in any order."
   - name: "Draconic Momentum"
     desc: "The dragon recharges their Cogitation Breath whenever they score a critical hit with a Strike."
   - name: "Steal Knowledge"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) The dragon plucks a fragment of knowledge from the mind of a creature within 60 feet, choosing a skill to affect. The creature must attempt a DC 28 Will save."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]]) The dragon plucks a fragment of knowledge from the mind of a creature within 60 feet, choosing a skill to affect. The creature must attempt a DC 28 Will save."
   - name: "Success"
     desc: "The creature is unaffected."
   - name: "Failure"
@@ -81,10 +81,10 @@ abilities_bot:
   - name: "Critical Failure"
     desc: "As failure, but the penalty is –2 and the bonus is +2."
   - name: "Unveil Secret"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) The dragon delves into the mind of a creature within 60 feet to scour for secrets, learning something the creature would find embarrassing or shameful unless they succeed a DC 30 Will save. The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1 and can't reduce their frightened condition for 1 minute or until the dragon reveals the secret. As a reaction when the affected creature attempts a check, the dragon can reveal their secret to discomfit them, requiring them to roll twice and take the lower result; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] effect."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]]) The dragon delves into the mind of a creature within 60 feet to scour for secrets, learning something the creature would find embarrassing or shameful unless they succeed a DC 30 Will save. The target becomes [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] 1 and can't reduce their frightened condition for 1 minute or until the dragon reveals the secret. As a reaction when the affected creature attempts a check, the dragon can reveal their secret to discomfit them, requiring them to roll twice and take the lower result; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|misfortune]] effect."
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 30 - __Cantrips (6th)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/message|Message]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/embed-message|Embed Message]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/clairaudience|Clairaudience]] (at will), [[srd/pf2e/compendium/spells/rank-3/mind-reading|Mind Reading]], [[srd/pf2e/compendium/spells/rank-3/ring-of-truth|Ring of Truth]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/clairvoyance|Clairvoyance]] (at will) - __5th__ [[srd/pf2e/compendium/spells/rank-5/mind-probe|Mind Probe]] - __6th__ [[srd/pf2e/compendium/spells/rank-1/charm|Charm]], [[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]]"
+    desc: "DC 30 - __Cantrips (6th)__ [[srd/pf2e/compendium/spells/cantrips/Daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/Message|Message]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Embed Message|Embed Message]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/Clairaudience|Clairaudience]] (at will), [[srd/pf2e/compendium/spells/rank-3/Mind Reading|Mind Reading]], [[srd/pf2e/compendium/spells/rank-3/Ring of Truth|Ring of Truth]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/Clairvoyance|Clairvoyance]] (at will) - __5th__ [[srd/pf2e/compendium/spells/rank-5/Mind Probe|Mind Probe]] - __6th__ [[srd/pf2e/compendium/spells/rank-1/Charm|Charm]], [[srd/pf2e/compendium/spells/rank-4/Suggestion|Suggestion]]"
 sourcebook: "_Monster Core 2_, page 134."
 ```
 

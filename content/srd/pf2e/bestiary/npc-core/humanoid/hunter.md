@@ -28,18 +28,18 @@ modifier: 17
 perception:
   - name: "Perception"
     desc: "+17"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/lore|Forest Lore]] +13, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +15, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +17, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +17, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Lore|Forest Lore]] +13, [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] +15, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +17, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +17, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +17"
 abilityMods: [4, 4, 2, 1, 4, 0]
 abilities_top:
   - name: "Expert Subsistence"
-    desc: "While using [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Subsist|Subsist]], if the hunter rolls any result worse than a success, they get a success. On a success, they can provide subsistence living for themselves and sixteen additional creatures, and on a critical success, they can take care of twice as many creatures as on a success."
+    desc: "While using [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Subsist|Subsist]], if the hunter rolls any result worse than a success, they get a success. On a success, they can provide subsistence living for themselves and sixteen additional creatures, and on a critical success, they can take care of twice as many creatures as on a success."
   - name: "Forest Walker"
     desc: "The hunter ignores the effects of difficult terrain in a forest environment."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_, Dagger, Leather Armor, Shortsword"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/weapons/bow/Composite Longbow|composite longbow]]_, Dagger, Leather Armor, Shortsword"
 ac: 25
 armorclass:
   - name: "AC"
@@ -51,16 +51,16 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+10 piercing"
+    desc: "⬻ dagger +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+10 piercing"
   - name: "Melee"
-    desc: "⬻ shortsword +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d6+10 piercing"
+    desc: "⬻ shortsword +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d6+10 piercing"
   - name: "Melee"
-    desc: "⬻ fist +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+10 bludgeoning"
+    desc: "⬻ fist +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+10 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ _composite longbow_ +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 100 feet, reload 0, [[srd/pf2e/compendium/rules-elements/traits/player-core/volley|volley 30 feet]]) __Damage__ 1d8+8 piercing"
+    desc: "⬻ _composite longbow_ +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Propulsive|Propulsive]], range increment 100 feet, reload 0, [[srd/pf2e/compendium/rules-elements/traits/player-core/Volley|volley 30 feet]]) __Damage__ 1d8+8 piercing"
 abilities_bot:
   - name: "On the Hunt"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]]) The hunter designates one creature they're observing or tracking as their prey. The hunter gains a +2 circumstance bonus to Perception checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] the prey and to [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]] the prey. The first time the hunter hits the designated prey in a round, they deal an additional 1d8 precision damage. These effects last until the hunter uses On the Hunt again."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]]) The hunter designates one creature they're observing or tracking as their prey. The hunter gains a +2 circumstance bonus to Perception checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] the prey and to [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]] the prey. The first time the hunter hits the designated prey in a round, they deal an additional 1d8 precision damage. These effects last until the hunter uses On the Hunt again."
 sourcebook: "_NPC Core_, page 57."
 ```
 

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/artillerist|Artillerist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/artillerist-dedication|Artillerist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Artillerist|Artillerist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Artillerist Dedication|Artillerist Dedication]]
 
-By loading special ammunition in a particular way, you can make your siege weapons do all manner of tricks that other siege engineers can barely even imagine. If you personally contribute an additional [[srd/pf2e/books/guns-gears-remastered/gears-equipment/siege-weapons#Aiming|Load]] action to the siege weapon's loading, above the minimum, you can change a burst into a line twice as long as the size of the burst, or vice versa (so a 10-foot burst turns into a 20-foot line, or a 20-foot line turns into a 10-foot burst).
+By loading special ammunition in a particular way, you can make your [[srd/pf2e/compendium/equipment/siege-weapons/siege-weapons|siege weapons]] do all manner of tricks that other siege engineers can barely even imagine. If you personally contribute an additional [[srd/pf2e/books/guns-gears-remastered/gears-equipment/Siege Weapons#Aiming|Load]] action to the siege weapon's loading, above the minimum, you can change a burst into a line twice as long as the size of the burst, or vice versa (so a 10-foot burst turns into a 20-foot line, or a 20-foot line turns into a 10-foot burst).
 
 *Source: Guns & Gears (Remastered) p. 129*

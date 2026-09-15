@@ -20,10 +20,10 @@ socialImage: og-image.png
 - **Price**: 55 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 Tangle root toxin sees use to impede opponents in athletic competitions, in addition to espionage and tracking. 
 
-**Saving Throw** DC 26 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 minutes; **Stage 1** [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 and –10-foot status penalty to all Speeds (1 minute); **Stage 2** clumsy 2 and –20- foot status penalty to all Speeds (1 minute); **Stage 3** clumsy 3, [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]], and –30-foot status penalty to all Speeds (1 minute)
+**Saving Throw** DC 26 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 minutes; **Stage 1** [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]] 1 and –10-foot status penalty to all Speeds (1 minute); **Stage 2** clumsy 2 and –20- foot status penalty to all Speeds (1 minute); **Stage 3** clumsy 3, [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]], and –30-foot status penalty to all Speeds (1 minute)
 
 *Source: Player Core 2 p. 294*

@@ -17,10 +17,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Earth`  `Manipulate`  `Polymorph`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: Granduncle Taproot, [[srd/pf2e/compendium/deities/azlanti-pantheon/onos|Onos]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/rhan-tegoth|Rhan-Tegoth]], [[srd/pf2e/compendium/deities/empyreal-lords/soralyon|Soralyon]], [[srd/pf2e/compendium/deities/elven-gods/yuelral|Yuelral]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Granduncle Taproot, [[srd/pf2e/compendium/deities/azlanti-pantheon/Onos|Onos]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Rhan-Tegoth|Rhan-Tegoth]], [[srd/pf2e/compendium/deities/empyreal-lords/Soralyon|Soralyon]], [[srd/pf2e/compendium/deities/elven-gods/Yuelral|Yuelral]]
 - **Duration**: 10 minutes or 8 hours
 
-You can either transform into a stone or merge with stone. This spell has the same effects as [[srd/pf2e/compendium/spells/rank-2/one-with-plants|_one with plants_]], but lets you merge with or turn into stone. A stone you turn into has AC 23. You can Dismiss this spell.
+You can either transform into a stone or merge with stone. This spell has the same effects as [[srd/pf2e/compendium/spells/rank-2/One with Plants|_one with plants_]], but lets you merge with or turn into stone. A stone you turn into has AC 23. You can Dismiss this spell.
 
 *Source: Player Core p. 347*

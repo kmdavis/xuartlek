@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Catfolk`
 
-You gain access to all uncommon weapons with the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/catfolk|catfolk]] trait. You have familiarity with weapons with the catfolk trait plus the [[srd/pf2e/compendium/equipment/weapons/knife/kama|kama]], [[srd/pf2e/compendium/equipment/weapons/knife/kukri|kukri]], [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]], and [[srd/pf2e/compendium/equipment/weapons/knife/sickle|sickle]]—for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
+You gain access to all uncommon weapons with the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Catfolk|catfolk]] trait. You have familiarity with weapons with the catfolk trait plus the [[srd/pf2e/compendium/equipment/weapons/knife/Kama|kama]], [[srd/pf2e/compendium/equipment/weapons/knife/Kukri|kukri]], [[srd/pf2e/compendium/equipment/weapons/sword/Scimitar|scimitar]], and [[srd/pf2e/compendium/equipment/weapons/knife/Sickle|sickle]]—for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 
  At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 

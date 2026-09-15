@@ -31,7 +31,7 @@ This item, favored by firearms-using dwarves and barbarians, takes the form of a
 
 **Damage** 1d8 S
 
-**Group** Axe
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Axe|Axe]]
 
 ### Ranged
 
@@ -41,9 +41,9 @@ This item, favored by firearms-using dwarves and barbarians, takes the form of a
 
 **Reload** 1
 
-**Group** Firearm
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
 
-**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
 ### Critical Specialization Effects
 

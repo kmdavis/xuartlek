@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Kobold`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/heritages#Dragonscaled Kobold|Dragonscaled Kobold]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Dragonscaled Kobold|Dragonscaled Kobold]] heritage
 
-As kin to dragonkind, you project unflappable confidence (that collapses catastrophically against the deadliest foes). When you roll a success on a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] effect, you get a critical success instead. When you roll a failure against a fear effect, you get a critical failure instead.
+As kin to dragonkind, you project unflappable confidence (that collapses catastrophically against the deadliest foes). When you roll a success on a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]] effect, you get a critical success instead. When you roll a failure against a fear effect, you get a critical failure instead.
 
- In addition, when you attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] a foe of your level or lower, you gain a +1 circumstance bonus to the [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check.
+ In addition, when you attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] a foe of your level or lower, you gain a +1 circumstance bonus to the [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] check.
 
 *Source: Player Core 2 p. 22*

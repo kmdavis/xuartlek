@@ -15,11 +15,11 @@ socialImage: og-image.png
 
 `Archetype`  `Healing`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/rivethun-invoker|Rivethun Invoker]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Rivethun Invoker|Rivethun Invoker]]
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/rivethun-invoker-dedication|Rivethun Invoker Dedication]]
-- **Trigger**: You fail or critically fail a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] effect.
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Rivethun Invoker Dedication|Rivethun Invoker Dedication]]
+- **Trigger**: You fail or critically fail a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]] effect.
 
-You leverage your emotional turmoil to mend your physical form. You regain 2d8 Hit Points. If you’re a master in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], you regain 4d8 Hit Points instead. If you’re legendary in Athletics, you regain 6d8 Hit Points instead.
+You leverage your emotional turmoil to mend your physical form. You regain 2d8 Hit Points. If you’re a master in [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]], you regain 4d8 Hit Points instead. If you’re legendary in Athletics, you regain 6d8 Hit Points instead.
 
 *Source: Divine Mysteries p. 294*

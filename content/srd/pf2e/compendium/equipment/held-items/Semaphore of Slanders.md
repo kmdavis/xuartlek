@@ -20,13 +20,13 @@ socialImage: og-image.png
 
 This semaphore set consists of two hardwood poles painted white, with finely crafted silk flags bisected by yellow and red fields. A tiny stylized black serpent with its tongue extended is depicted on the top outer corner of each flag. The _semaphore of slanders_, in addition to being a functioning semaphore set, can be used to send false signals to any enemy forces observing the signaler, providing a +2 item bonus to Deception checks to do so, and allies are always aware of this ruse.
 
-**Activate—Insidious Insinuation** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) **Frequency** once per day; **Effect** You activate the semaphore to mislead the enemy. Choose a creature within 60 feet to attempt a DC 28 Will saving throw.
+**Activate—Insidious Insinuation** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]]) **Frequency** once per day; **Effect** You activate the semaphore to mislead the enemy. Choose a creature within 60 feet to attempt a DC 28 Will saving throw.
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] 1.
 
-**Failure** The target is frightened 1 and is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] for 1 round.
+**Failure** The target is frightened 1 and is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] for 1 round.
 
 **Critical Failure** The target is frightened 2 and off-guard for 2 rounds.
 

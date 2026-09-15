@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Earth`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: Arqueros, Belech, [[srd/pf2e/compendium/deities/coatl-tribunal/cihua-coatl|Cihua Coatl]], Dammerich, [[srd/pf2e/compendium/deities/eldest/imbrex|Imbrex]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Irori]], [[srd/pf2e/compendium/deities/other-gods/kazutal|Kazutal]], Keepers of the Hearth, [[srd/pf2e/compendium/deities/azlanti-pantheon/myr|Myr]], [[srd/pf2e/compendium/deities/elemental-lords/sairazul|Sairazul]], [[srd/pf2e/compendium/deities/empyreal-lords/soralyon|Soralyon]], [[srd/pf2e/compendium/deities/pantheons/talons-of-the-godclaw|Talons of the Godclaw]], [[srd/pf2e/compendium/deities/dwarven-gods/trudd|Trudd]], [[srd/pf2e/compendium/deities/giant-gods/urazra|Urazra]], [[srd/pf2e/compendium/deities/monitor-demigods/vavaalrav|Vavaalrav]], [[srd/pf2e/compendium/deities/demon-lords/xoveron|Xoveron]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Arqueros, Belech, [[srd/pf2e/compendium/deities/coatl-tribunal/Cihua Coatl|Cihua Coatl]], Dammerich, [[srd/pf2e/compendium/deities/eldest/Imbrex|Imbrex]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Irori|Irori]], [[srd/pf2e/compendium/deities/other-gods/Kazutal|Kazutal]], Keepers of the Hearth, [[srd/pf2e/compendium/deities/azlanti-pantheon/Myr|Myr]], [[srd/pf2e/compendium/deities/elemental-lords/Sairazul|Sairazul]], [[srd/pf2e/compendium/deities/empyreal-lords/Soralyon|Soralyon]], [[srd/pf2e/compendium/deities/pantheons/Talons of the Godclaw|Talons of the Godclaw]], [[srd/pf2e/compendium/deities/dwarven-gods/Trudd|Trudd]], [[srd/pf2e/compendium/deities/giant-gods/Urazra|Urazra]], [[srd/pf2e/compendium/deities/monitor-demigods/Vavaalrav|Vavaalrav]], [[srd/pf2e/compendium/deities/demon-lords/Xoveron|Xoveron]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Duration**: 20 minutes

@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Shadow`  `Void`  `Negative`
 
-- **Traditions**: Divine, Occult, Primal
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Target**: your companion
 - **Duration**: 1 minute

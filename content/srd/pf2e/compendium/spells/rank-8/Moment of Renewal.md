@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Healing`  `Manipulate`
 
-- **Traditions**: Divine, Primal
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]]
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Angelic|Angelic]]
 - **Range**: touch
 - **Target**: up to 6 creatures
 

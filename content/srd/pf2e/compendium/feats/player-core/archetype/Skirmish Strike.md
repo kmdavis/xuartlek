@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Flourish`  `Ranger`  `Rogue`
 
-- **Archetypes**: Drow Shootist (Level 10), [[srd/pf2e/compendium/character/archetypes/crossbow-infiltrator|Crossbow Infiltrator]] (Level 10)
+- **Archetypes**: Drow Shootist (Level 10), [[srd/pf2e/compendium/character/archetypes/Crossbow Infiltrator|Crossbow Infiltrator]] (Level 10)
 
 Your feet and weapon move in tandem. Either Step and then Strike, or Strike and then Step.
 

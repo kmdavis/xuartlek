@@ -24,23 +24,23 @@ Constitution or Intelligence
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/greatsword|Greatsword]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Greatsword|Greatsword]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Earth|Earth]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Protection|Protection]], [[srd/pf2e/compendium/character/domains#Repose|Repose]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Earth|Earth]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]], [[srd/pf2e/compendium/character/Domains#Repose|Repose]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/shattering-gem|Shattering Gem]]
+[[srd/pf2e/compendium/spells/rank-1/Shattering Gem|Shattering Gem]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/shape-stone|Shape Stone]]
+[[srd/pf2e/compendium/spells/rank-4/Shape Stone|Shape Stone]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/wall-of-stone|Wall of Stone]]
+[[srd/pf2e/compendium/spells/rank-5/Wall of Stone|Wall of Stone]]
 
 *Source: Divine Mysteries p. 322*

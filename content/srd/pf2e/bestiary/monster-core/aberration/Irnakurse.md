@@ -26,10 +26,10 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]; (can't speak any language)"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/Languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]]; (can't speak any language)"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +20, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +20, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +20"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +20, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +20, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +20"
 abilityMods: [5, 5, 3, -2, 3, 4]
 ac: 28
 armorclass:
@@ -42,22 +42,22 @@ health:
 speed: "15 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d12+11 piercing"
+    desc: "⬻ jaws +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 2d12+11 piercing"
   - name: "Melee"
-    desc: "⬻ tentacle +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 2d8+11 slashing plus mind lash"
+    desc: "⬻ tentacle +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 20 feet]]) __Damage__ 2d8+11 slashing plus mind lash"
 abilities_bot:
   - name: "Mind Lash"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) A creature hit by an irnakurse's tentacle is overwhelmed with corrupted images of a ruined life and must succeed at a DC 28 Will save or be [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 2]] (or stunned 4 on a critical failure). After attempting this save, the creature is temporarily immune to mind lash for 24 hours."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|Occult]]) A creature hit by an irnakurse's tentacle is overwhelmed with corrupted images of a ruined life and must succeed at a DC 28 Will save or be [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned 2]] (or stunned 4 on a critical failure). After attempting this save, the creature is temporarily immune to mind lash for 24 hours."
   - name: "Soul Scream"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]])"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|Occult]])"
   - name: "Frequency"
     desc: "once per day"
   - name: "Effect"
-    desc: "The irnakurse unleashes an alien shriek of nightmarish horror and pain. All non-[[srd/pf2e/compendium/rules-elements/traits/player-core/aberration|aberration]] creatures within a 10-foot emanation must attempt a DC 28 Will save. The irnakurse can Sustain Soul Scream for up to 6 rounds; each time it does, it repeats the effect without a new save."
+    desc: "The irnakurse unleashes an alien shriek of nightmarish horror and pain. All non-[[srd/pf2e/compendium/rules-elements/traits/player-core/Aberration|aberration]] creatures within a 10-foot emanation must attempt a DC 28 Will save. The irnakurse can Sustain Soul Scream for up to 6 rounds; each time it does, it repeats the effect without a new save."
   - name: "Critical Success"
     desc: "The creature is unaffected, and it's temporarily immune to Soul Scream for 24 hours."
   - name: "Success"
-    desc: "The creature is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]] for 1 round."
+    desc: "The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied 1]] for 1 round."
   - name: "Failure"
     desc: "The creature is stupefied 1. Further failed saves against Soul Scream increase the stupefied value by 1, to a maximum of stupefied 4. Each time the character gets a full night's rest, the stupefied condition gained from Soul Scream decreases by 1."
   - name: "Critical Failure"

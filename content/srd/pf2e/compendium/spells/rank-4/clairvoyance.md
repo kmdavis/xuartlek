@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Scrying`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/archdevils/barbatos|Barbatos]], Followers of Fate, [[srd/pf2e/compendium/deities/other-gods/kaldemash|Kaldemash]], [[srd/pf2e/compendium/deities/vudrani-gods/ravithra|Ravithra]], [[srd/pf2e/compendium/deities/covenants/shadow-cabinet|Shadow Cabinet]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/archdevils/Barbatos|Barbatos]], Followers of Fate, [[srd/pf2e/compendium/deities/other-gods/Kaldemash|Kaldemash]], [[srd/pf2e/compendium/deities/vudrani-gods/Ravithra|Ravithra]], [[srd/pf2e/compendium/deities/covenants/Shadow Cabinet|Shadow Cabinet]]
 - **Cast**: 1 minute
 - **Range**: 500 feet
 - **Duration**: 10 minutes
 
-You create an [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] floating eye at a location within range (even if it's outside your line of sight or line of effect). The eye can't move, but you can see in all directions from that point as if using your normal visual senses.
+You create an [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]] floating eye at a location within range (even if it's outside your line of sight or line of effect). The eye can't move, but you can see in all directions from that point as if using your normal visual senses.
 
 *Source: Player Core p. 320*

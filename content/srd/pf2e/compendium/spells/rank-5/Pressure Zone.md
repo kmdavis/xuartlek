@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Air`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 500 feet
 - **Area**: 20-foot burst
 - **Defense**: Fortitude
@@ -26,7 +26,7 @@ Air pressure drops precipitously, causing pain and debilitation in creatures' in
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] and clumsy 1 until the end of its next turn, after which it's temporarily immune for 1 hour.
+**Success** The creature is {{conditions 8 "deafened"}} and {{conditions 3 "clumsy 1"}} until the end of its next turn, after which it's temporarily immune for 1 hour.
 
 **Failure** The creature is deafened and clumsy 2. At the end of each of its turns, it can attempt a new save if it's no longer in the pressure zone. On a success, it ends the effects and is temporarily immune for 1 hour.
 

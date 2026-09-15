@@ -28,7 +28,7 @@ perception:
     desc: "+13; darkvision, web sense"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +13"
 abilityMods: [6, 4, 4, -5, 2, -4]
 abilities_top:
   - name: "Web Sense"
@@ -51,7 +51,7 @@ abilities_bot:
   - name: "Eerie Flexibility"
     desc: "An ogre spider can fit through tight spaces as if it were a Large creature. While Squeezing, it can move at its full Speed."
   - name: "Ogre Spider Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 22 Fortitude"
   - name: "Maximum Duration"
@@ -59,13 +59,13 @@ abilities_bot:
   - name: "Stage 1"
     desc: "1d6 poison damage (1 round)"
   - name: "Stage 2"
-    desc: "1d6 poison damage, [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1, and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 (1 round)"
+    desc: "1d6 poison damage, [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]] 1, and [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]] 1 (1 round)"
   - name: "Stage 3"
     desc: "2d6 poison damage, clumsy 1, and enfeebled 1 (1 round)"
   - name: "Stage 4"
     desc: "2d6 poison damage, clumsy 2, and enfeebled 2 (1 round)"
   - name: "Web Trap"
-    desc: "A creature hit by the ogre spider's web attack is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] and stuck to the nearest surface until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 22)."
+    desc: "A creature hit by the ogre spider's web attack is [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] and stuck to the nearest surface until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 22)."
 sourcebook: "_Monster Core 2_, page 302."
 ```
 

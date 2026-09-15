@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Minotaur`
 
-Like many minotaurs, you take pride in creating items made from stone or metal. You become trained in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (or another skill of your choice, if you're already trained in Crafting) and gain the [[srd/pf2e/compendium/feats/player-core/skill/specialty-crafting|Specialty Crafting]] skill feat in your choice of blacksmithing, leatherworking, or stonemasonry.
+Like many minotaurs, you take pride in creating items made from stone or metal. You become trained in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] (or another skill of your choice, if you're already trained in Crafting) and gain the [[srd/pf2e/compendium/feats/player-core/skill/Specialty Crafting|Specialty Crafting]] skill feat in your choice of blacksmithing, leatherworking, or stonemasonry.
 
 *Source: Howl of the Wild p. 42*

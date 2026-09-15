@@ -13,29 +13,29 @@ socialImage: og-image.png
 Every mind murmurs constantly, and the static from those nearby reverberates in your head like wind through leaves. What better focus for your magic then, than the very thoughts of those around you? Your versatile telepathic abilities let you soothe and communicate with your allies or control your enemies.
 
 **Granted Spells**
-- **1st** [[srd/pf2e/compendium/spells/rank-1/mindlink|Mindlink]]
-- **2nd** [[srd/pf2e/compendium/spells/rank-2/stupefy|Stupefy]]
-- **3rd** [[srd/pf2e/compendium/spells/rank-3/heroism|Heroism]]
-- **4th** [[srd/pf2e/compendium/spells/rank-4/telepathy|Telepathy]]
-- **5th** [[srd/pf2e/compendium/spells/rank-5/synaptic-pulse|Synaptic Pulse]]
-- **5th** [[srd/pf2e/compendium/spells/rank-5/sending|Sending]]
-- **7th** [[srd/pf2e/compendium/spells/rank-7/visions-of-danger|Visions of Danger]]
-- **8th** [[srd/pf2e/compendium/spells/rank-8/uncontrollable-dance|Uncontrollable Dance]]
-- **9th** [[srd/pf2e/compendium/spells/rank-9/telepathic-demand|Telepathic Demand]]
+- **1st** [[srd/pf2e/compendium/spells/rank-1/Mindlink|Mindlink]]
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/Stupefy|Stupefy]]
+- **3rd** [[srd/pf2e/compendium/spells/rank-3/Heroism|Heroism]]
+- **4th** [[srd/pf2e/compendium/spells/rank-4/Telepathy|Telepathy]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/Synaptic Pulse|Synaptic Pulse]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/Sending|Sending]]
+- **7th** [[srd/pf2e/compendium/spells/rank-7/Visions of Danger|Visions of Danger]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/Uncontrollable Dance|Uncontrollable Dance]]
+- **9th** [[srd/pf2e/compendium/spells/rank-9/Telepathic Demand|Telepathic Demand]]
 
-**Standard Psi Cantrips** [[srd/pf2e/compendium/spells/cantrips/daze|Daze]] and [[srd/pf2e/compendium/spells/cantrips/message|Message]]
+**Standard Psi Cantrips** [[srd/pf2e/compendium/spells/cantrips/Daze|Daze]] and [[srd/pf2e/compendium/spells/cantrips/Message|Message]]
 
-**Surface Psi Cantrip** [[srd/pf2e/compendium/spells/cantrips/forbidden-thought|Forbidden Thought]]
+**Surface Psi Cantrip** [[srd/pf2e/compendium/spells/cantrips/Forbidden Thought|Forbidden Thought]]
 
-**Deeper Psi Cantrip (Level 6)** [[srd/pf2e/compendium/spells/cantrips/shatter-mind|Shatter Mind]]
+**Deeper Psi Cantrip (Level 6)** [[srd/pf2e/compendium/spells/cantrips/Shatter Mind|Shatter Mind]]
 
-**Deepest Psi Cantrip (Level 10)** [[srd/pf2e/compendium/spells/cantrips/contagious-idea|Contagious Idea]]
+**Deepest Psi Cantrip (Level 10)** [[srd/pf2e/compendium/spells/cantrips/Contagious Idea|Contagious Idea]]
 
 ### Daze
 
 You can _daze_ from a great distance, your thoughts resounding like a siren in your foes' minds. The range increases to 120 feet. Your _daze_ also gains the following amp.
 
-**Amp** Your spell cracks the target's mental defenses, leaving it susceptible to further psychic attack. The spell's damage changes to 1d10. If the target fails its Will save, until the end of its next turn, it gains weakness 1 to mental damage and takes a –1 status penalty to Will saves. On a critical failure, the weakness is 3 (in addition to the target being [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1). The weakness applies before _daze_ deals damage.
+**Amp** Your spell cracks the target's mental defenses, leaving it susceptible to further psychic attack. The spell's damage changes to 1d10. If the target fails its Will save, until the end of its next turn, it gains weakness 1 to mental damage and takes a –1 status penalty to Will saves. On a critical failure, the weakness is 3 (in addition to the target being [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]] 1). The weakness applies before _daze_ deals damage.
 
 **Amp Heightened (+2)** The spell's damage increases by 2d10, and the weakness on a failure or critical failure increases by 1.
 

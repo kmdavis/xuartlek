@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Evolution`  `Summoner`
 
-Your eidolon evolves to cast spells. They gain the Cast a Spell activity and learn two cantrips of their tradition, which they can cast as [[srd/pf2e/books/player-core/chapter-7-spells/innate-spells|innate spells]].
+Your eidolon evolves to cast spells. They gain the Cast a Spell activity and learn two cantrips of their tradition, which they can cast as [[srd/pf2e/books/player-core/chapter-7-spells/Innate Spells|innate spells]].
 
 ### Magical Understudy leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/class/magical-adept|Magical Adept]], [[srd/pf2e/compendium/feats/impossible-magic/class/share-eidolon-magic|Share Eidolon Magic]]
+[[srd/pf2e/compendium/feats/impossible-magic/class/Magical Adept|Magical Adept]], [[srd/pf2e/compendium/feats/impossible-magic/class/Share Eidolon Magic|Share Eidolon Magic]]
 
 *Source: Impossible Magic p. 79*

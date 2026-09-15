@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Tripkee`
 
-You are adept at dodging roots, foliage, and other jungle obstacles. You ignore difficult terrain in forests and jungles. In addition, when you use the [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] skill to [[srd/pf2e/compendium/rules-elements/actions/player-core#Balance|Balance]] on narrow surfaces or uneven ground made of plant material, you aren't off-guard, and when you roll a success at one of these Acrobatics checks, you get a critical success instead.
+You are adept at dodging roots, foliage, and other jungle obstacles. You ignore difficult terrain in forests and jungles. In addition, when you use the [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] skill to [[srd/pf2e/compendium/rules-elements/actions/player-core#Balance|Balance]] on narrow surfaces or uneven ground made of plant material, you aren't off-guard, and when you roll a success at one of these Acrobatics checks, you get a critical success instead.
 
 *Source: Player Core 2 p. 38*

@@ -15,13 +15,13 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/bastion|Bastion]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Bastion|Bastion]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/general/Shield Block|Shield Block]]
 
-You are particularly skilled at using a shield to protect yourself in combat. You gain the [[srd/pf2e/compendium/feats/player-core/archetype/reactive-shield|Reactive Shield]] fighter feat.
+You are particularly skilled at using a shield to protect yourself in combat. You gain the [[srd/pf2e/compendium/feats/player-core/archetype/Reactive Shield|Reactive Shield]] fighter feat.
 
 ### Bastion Dedication leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/destructive-block|Destructive Block]], [[srd/pf2e/compendium/feats/player-core-2/archetype/disarming-block|Disarming Block]], [[srd/pf2e/compendium/feats/player-core-2/archetype/nimble-shield-hand|Nimble Shield Hand]], [[srd/pf2e/compendium/feats/player-core-2/archetype/shield-salvation|Shield Salvation]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Destructive Block|Destructive Block]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Disarming Block|Disarming Block]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Nimble Shield Hand|Nimble Shield Hand]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Shield Salvation|Shield Salvation]]
 
 *Source: Player Core 2 p. 187*

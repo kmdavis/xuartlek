@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Aura`  `Concentrate`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Area**: emanation up to 40 feet
 - **Defense**: Will
 - **Duration**: 1 minute

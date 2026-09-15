@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/witch|Witch]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/basic-witch-spellcasting|Basic Witch Spellcasting]]; master in the skill associated with your patron's tradition
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Witch|Witch]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Basic Witch Spellcasting|Basic Witch Spellcasting]]; master in the skill associated with your patron's tradition
 
-You gain the expert [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|spellcasting benefits]].
+You gain the expert [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Spellcasting Archetypes|spellcasting benefits]].
 
 ### Expert Witch Spellcasting leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/master-witch-spellcasting|Master Witch Spellcasting]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Master Witch Spellcasting|Master Witch Spellcasting]]
 
 *Source: Player Core p. 222*

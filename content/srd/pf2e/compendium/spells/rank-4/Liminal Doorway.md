@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Extradimensional`  `Manipulate`  `Uncommon`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/dalenydra|Dalenydra]], [[srd/pf2e/compendium/deities/other-gods/nivi-rhombodazzle|Nivi Rhombodazzle]], [[srd/pf2e/compendium/deities/infernal-dukes/vapula|Vapula]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/Dalenydra|Dalenydra]], [[srd/pf2e/compendium/deities/other-gods/Nivi Rhombodazzle|Nivi Rhombodazzle]], [[srd/pf2e/compendium/deities/infernal-dukes/Vapula|Vapula]]
 - **Cast**: 10 minutes
 - **Range**: touch
 - **Duration**: 8 hours

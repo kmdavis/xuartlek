@@ -21,6 +21,6 @@ You defend yourself against magic by relying on techniques derived from orc cult
 
 ### Orc Superstition leads to...
 
-[[srd/pf2e/compendium/feats/player-core/ancestry/pervasive-superstition|Pervasive Superstition]], Spell Survivor
+[[srd/pf2e/compendium/feats/player-core/ancestry/Pervasive Superstition|Pervasive Superstition]], Spell Survivor
 
 *Source: Player Core p. 72*

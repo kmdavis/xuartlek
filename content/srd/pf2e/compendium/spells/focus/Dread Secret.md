@@ -21,7 +21,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Emotion`  `Fear`  `Focus`  `Manipulate`  `Mental`  `Oracle`  `Uncommon`
 
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Lore|Lore]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Lore|Lore]]
 - **Range**: 60 feet
 - **Target**: up to 6 creatures
 - **Defense**: Will
@@ -33,7 +33,7 @@ You utter a powerful secret at odds with the fundamental nature of the target cr
 
 **Success** The creature takes 1 damage that matches the type or trait of weakness you chose (thus triggering the creature's weakness) if you chose a weakness, or loses its resistance until the end of your next turn if you chose a resistance.
 
-**Failure** As success, and the creature becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]] from the revelation of its dread secret.
+**Failure** As success, and the creature becomes [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened 1]] from the revelation of its dread secret.
 
 **Critical Failure** As failure, except the creature is frightened 3.
 

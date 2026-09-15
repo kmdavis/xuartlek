@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Mythic`  `Uncommon`
 
-Mythic power grants you speed to rival [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beasts]] and demigods. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]; for the next minute, you gain a +10-foot status bonus to all your Speeds and are [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]]. You can use the extra action each round to [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]].
+Mythic power grants you speed to rival [[srd/pf2e/compendium/rules-elements/traits/player-core/Beast|beasts]] and demigods. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]; for the next minute, you gain a +10-foot status bonus to all your Speeds and are [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]]. You can use the extra action each round to [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]].
 
 *Source: War of Immortals p. 82*

@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Manipulate`  `Thaumaturge`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/class/share-weakness|Share Weakness]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/class/Share Weakness|Share Weakness]]
 
 You've nurtured your bonds with your comrades, allowing you to share the benefits of your esoterica. When you use [[srd/pf2e/compendium/rules-elements/actions/dark-archives-remastered#Exploit Vulnerability|Exploit Vulnerability]] and choose mortal weakness, select any number of allies within 30 feet of you. Their Strikes apply the weakness from mortal weakness the same way your Strikes do. This benefit ends when you stop benefiting from Exploit Vulnerability. Since this effect depends on magically strengthening your bond to your allies, only allies with whom you've developed a rapport over the course of one or more days gain the benefit.
 

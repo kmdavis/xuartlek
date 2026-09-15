@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Kholo`  `Gnoll`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/laughing-kholo|Laughing Kholo]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Laughing Kholo|Laughing Kholo]]
 
 Your laugher echoes in the minds of your enemies. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] creatures up to 60 feet away. Additionally, whenever you successfully Demoralize a creature, it takes 3d8 mental damage (or 6d8 mental damage on a critical success).
 

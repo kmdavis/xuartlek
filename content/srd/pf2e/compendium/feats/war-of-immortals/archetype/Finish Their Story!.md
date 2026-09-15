@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/eternal-legend|Eternal Legend]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/eternal-legend-dedication|Eternal Legend Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Eternal Legend|Eternal Legend]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Eternal Legend Dedication|Eternal Legend Dedication]]
 
 Though your tale is immortal, your foes aren’t afforded such an advantage and mainly serve only to further your legend. When the time is right, you can shepherd a weaker opponent off this mortal coil. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] and make a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] at mythic proficiency against an enemy. This Strike counts as two attacks for your multiple attack penalty and either kills or damages the target depending on their level, as noted below. After you make this Strike, the target becomes temporarily immune to Finish Their Story!, for 1 hour.
 

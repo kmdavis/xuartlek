@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Archetype`  `Downtime`  `Skill`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/field-propagandist|Field Propagandist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/field-propagandist-dedication|Field Propagandist Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Field Propagandist|Field Propagandist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Field Propagandist Dedication|Field Propagandist Dedication]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
 You spend 7 days of downtime seeding propaganda through a settlement with a population of 2,500 or fewer. At 10th level, this increases to a settlement with a population of 10,000 or fewer, and at 16th level, you can affect settlements of any size. 
 

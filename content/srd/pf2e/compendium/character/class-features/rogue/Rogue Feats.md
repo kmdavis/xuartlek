@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Rogue
 
-At 1st level and every even-numbered level, you gain a rogue class feat.
+At 1st level and every even-numbered level, you gain a [rogue class feat](https://2e.aonprd.com/Feats.aspx?Traits=139).
 
 *Source: Player Core p. 164*

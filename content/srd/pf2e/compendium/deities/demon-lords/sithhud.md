@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/longsword|Longsword]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Longsword|Longsword]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Cold|Cold]], [[srd/pf2e/compendium/character/domains#Undeath|Undeath]], [[srd/pf2e/compendium/character/domains#Water|Water]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Cold|Cold]], [[srd/pf2e/compendium/character/Domains#Undeath|Undeath]], [[srd/pf2e/compendium/character/Domains#Water|Water]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Toil|Toil]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Toil|Toil]], [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/chilling-spray|Chilling Spray]]
+[[srd/pf2e/compendium/spells/rank-1/Chilling Spray|Chilling Spray]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/slow|Slow]]
+[[srd/pf2e/compendium/spells/rank-3/Slow|Slow]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/howling-blizzard|Howling Blizzard]]
+[[srd/pf2e/compendium/spells/rank-5/Howling Blizzard|Howling Blizzard]]
 
 *Source: Divine Mysteries p. 304*

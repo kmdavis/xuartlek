@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Earth`  `Manipulate`  `Uncommon`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/dramindyr|Dramindyr]], [[srd/pf2e/compendium/deities/dwarven-gods/dranngvit|Dranngvit]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/Dramindyr|Dramindyr]], [[srd/pf2e/compendium/deities/dwarven-gods/Dranngvit|Dranngvit]]
 - **Range**: touch
 - **Area**: 5-foot-wide, 10-foot-tall, 10-foot-deep section of wooden, plaster, or stone wall
 - **Duration**: 1 hour

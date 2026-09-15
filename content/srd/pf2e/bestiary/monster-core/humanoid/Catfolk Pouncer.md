@@ -28,10 +28,10 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; low-light vision"
-languages: "Amurrun, [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "Amurrun, [[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +4, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +4"
 abilityMods: [3, 4, 1, -1, 1, 1]
 abilities_top:
   - name: "Items"
@@ -46,7 +46,7 @@ health:
     desc: "17"
 abilities_mid:
   - name: "Cat's Luck"
-    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]])"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]])"
   - name: "Trigger"
     desc: "The catfolk pouncer fails or critically fails a Reflex saving throw"
   - name: "Frequency"
@@ -56,11 +56,11 @@ abilities_mid:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ greataxe +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d12+3 slashing"
+    desc: "⬻ greataxe +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|Sweep]]) __Damage__ 1d12+3 slashing"
   - name: "Melee"
-    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+3 piercing"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+3 piercing"
   - name: "Ranged"
-    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4 +3 piercing"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4 +3 piercing"
 abilities_bot:
   - name: "Sudden Charge"
     desc: "⬺ The catfolk pouncer Strides twice. If the catfolk ends their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy."

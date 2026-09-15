@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/cavalier|Cavalier]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/impressive-mount|Impressive Mount]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Cavalier|Cavalier]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Impressive Mount|Impressive Mount]]
 
-Under your care and training, your mount has realized its innate potential. The mount you gained through the [[srd/pf2e/compendium/feats/player-core-2/archetype/cavalier-dedication|Cavalier Dedication]] feat becomes a nimble or savage animal companion (your choice), gaining additional capabilities determined by the type of companion.
+Under your care and training, your mount has realized its innate potential. The mount you gained through the [[srd/pf2e/compendium/feats/player-core-2/archetype/Cavalier Dedication|Cavalier Dedication]] feat becomes a nimble or savage animal companion (your choice), gaining additional capabilities determined by the type of companion.
 
 ### Incredible Mount leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/specialized-mount|Specialized Mount]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Specialized Mount|Specialized Mount]]
 
 *Source: Player Core 2 p. 193*

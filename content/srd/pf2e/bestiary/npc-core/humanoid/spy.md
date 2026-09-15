@@ -28,16 +28,16 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "+14"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +14, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +16, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +14, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +14, [[srd/pf2e/compendium/rules-elements/skills/lore|Local Court Lore]] +16, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +14, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +16, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +14, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +16, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +14, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +14, [[srd/pf2e/compendium/rules-elements/skills/Lore|Local Court Lore]] +16, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +14, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +16, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] +14"
 abilityMods: [0, 4, 0, 2, 2, 4]
 abilities_top:
   - name: "Noble's Ally"
     desc: "The spy has positioned themself to seem a trusted ally, gaining a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]] or to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] among the nobles of that court."
   - name: "Items"
-    desc: "Dagger (4), Disguise Kit, [[srd/pf2e/compendium/equipment/adventuring-gear/clothing|fine clothes]], Leather Armor, _+1 [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|Thieves' Toolkit]]"
+    desc: "Dagger (4), Disguise Kit, [[srd/pf2e/compendium/equipment/adventuring-gear/Clothing|fine clothes]], Leather Armor, _+1 [[srd/pf2e/compendium/equipment/weapons/sword/Rapier|rapier]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/Thieves' Toolkit|Thieves' Toolkit]]"
 ac: 23
 armorclass:
   - name: "AC"
@@ -49,13 +49,13 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _rapier_ +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 1d6+7 piercing"
+    desc: "⬻ _rapier_ +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]]) __Damage__ 1d6+7 piercing"
   - name: "Melee"
-    desc: "⬻ dagger +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+7 piercing"
+    desc: "⬻ dagger +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+7 piercing"
   - name: "Melee"
-    desc: "⬻ fist +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+7 bludgeoning"
+    desc: "⬻ fist +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+7 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dagger +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+7 piercing"
+    desc: "⬻ dagger +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+7 piercing"
 abilities_bot:
   - name: "Hidden Blade"
     desc: "⬻"
@@ -64,7 +64,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The spy draws a weapon and then Strikes with it. The target of the Strike is off-guard against the attack."
   - name: "Sneak Attack"
-    desc: "The spy deals an extra 2d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
+    desc: "The spy deals an extra 2d6 precision damage to [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] creatures."
 sourcebook: "_NPC Core_, page 15."
 ```
 

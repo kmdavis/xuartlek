@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/beastmaster|Beastmaster]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Beastmaster|Beastmaster]]
 - **Prerequisites**: Beastmaster Dedication; animal companion with a claw, fist, pincer, or talon unarmed attack
 
 Your companion sinks its claws and rips. Your companions with a qualifying unarmed attack learn the Vicious Rend activity.

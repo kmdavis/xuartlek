@@ -22,10 +22,10 @@ socialImage: og-image.png
 
 `Bard`  `Concentrate`  `Necromancer`  `Oracle`  `Sorcerer`  `Spellshape`  `Witch`  `Wizard`  `Metamagic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/time-mage|Time Mage]] (Level 12)
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Time Mage|Time Mage]] (Level 12)
 - **Frequency**: once per day
 
-If your next action is to cast a [[srd/pf2e/compendium/rules-elements/traits/player-core/cantrip|cantrip]] or a spell that is at least 2 ranks lower than the highest-rank spell slot you have, reduce the number of actions to cast it by 1 (minimum 1 action).
+If your next action is to cast a [[srd/pf2e/compendium/rules-elements/traits/player-core/Cantrip|cantrip]] or a spell that is at least 2 ranks lower than the highest-rank spell slot you have, reduce the number of actions to cast it by 1 (minimum 1 action).
 
 **Special** This feat can only be used on a cantrip or spell that is at least 2 ranks lower than the highest-rank spell slot from the class or archetype matching the one you gained this feat from.
 

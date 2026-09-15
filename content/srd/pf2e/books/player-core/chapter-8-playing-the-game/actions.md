@@ -1,6 +1,7 @@
 ---
 title: "Actions"
 aliases: ["Actions"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2335"
 citation: "Player Core pg. 414"
-socialImage: og-image.png
 ---
 
 # Actions
@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 You affect the world around you primarily by using actions, which produce effects. Actions are most closely measured and restricted during the encounter mode of play, but even when it isn't important for you to keep strict track of actions, they remain the way in which you interact with the game world.
 
-You will need to track your actions carefully in an encounter. At the start of each turn you take in an encounter, you regain 3 actions and 1 reaction to spend that round. (Regaining your actions is described in detail [[srd/pf2e/books/player-core/chapter-8-playing-the-game/encounter-mode#Turns|here]].) You can spend your actions in many different ways.
+You will need to track your actions carefully in an encounter. At the start of each turn you take in an encounter, you regain 3 actions and 1 reaction to spend that round. (Regaining your actions is described in detail [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Encounter Mode#Turns|here]].) You can spend your actions in many different ways.
 
 There are four types of actions: single actions, activities, reactions, and free actions.
 
@@ -32,7 +32,7 @@ There are four types of actions: single actions, activities, reactions, and free
 
 ## Action Icon Key
 
-These icons appear in stat blocks as shorthand for each type of action. As a player, you'll usually see the icon in an action's header (such as in a basic action, skill action, feat, or spell). In a creature stat block, or a feat that gives you a new action in addition to other benefits, the icon will appear in the running text. For examples, see the [[srd/pf2e/books/player-core/chapter-1-introduction/format-of-rules|formatting of rules]].
+These icons appear in stat blocks as shorthand for each type of action. As a player, you'll usually see the icon in an action's header (such as in a basic action, skill action, feat, or spell). In a creature stat block, or a feat that gives you a new action in addition to other benefits, the icon will appear in the running text. For examples, see the [[srd/pf2e/books/player-core/chapter-1-introduction/Format of Rules|formatting of rules]].
 [one-action] Single Action
 [two-actions] Two-Action Activity
 [three-actions] Three-Action Activity
@@ -45,15 +45,15 @@ These icons appear in stat blocks as shorthand for each type of action. As a pla
 >
 > ## Simultaneous Actions
 >
-> You can use only one single action, activity, or free action that doesn't have a trigger at a time. You must complete one before beginning another. For example, the [[srd/pf2e/compendium/feats/player-core/class/sudden-charge|Sudden Charge]] activity states you must [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] twice and then [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]], so you couldn't use an [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] action to open a door in the middle of the movement, nor could you perform part of the move, make your attack, and then finish the move.
+> You can use only one single action, activity, or free action that doesn't have a trigger at a time. You must complete one before beginning another. For example, the [[srd/pf2e/compendium/feats/player-core/class/Sudden Charge|Sudden Charge]] activity states you must [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] twice and then [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]], so you couldn't use an [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] action to open a door in the middle of the movement, nor could you perform part of the move, make your attack, and then finish the move.
 >
 > Free actions with triggers and reactions work differently. You can use these whenever the trigger occurs, even if the trigger occurs in the middle of another action.
 >
 > ## Subordinate Actions
 >
-> An action might allow you to use a simpler action—usually one of the [[#Basic Actions|Basic Actions]]—in a different circumstance or with different effects. This subordinate action still has its normal traits and effects, but it's modified in any ways listed in the larger action. For example, an activity that tells you to Stride up to half your Speed alters the normal distance you can move in a Stride. The Stride would still have the [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] trait, would still trigger reactions that occur based on movement, and so on. The subordinate action doesn't gain any of the traits of the larger action unless specified. The action that allows you to use a subordinate action doesn't require you to spend more actions or reactions to do so; that cost is already factored in.
+> An action might allow you to use a simpler action—usually one of the [[#Basic Actions|Basic Actions]]—in a different circumstance or with different effects. This subordinate action still has its normal traits and effects, but it's modified in any ways listed in the larger action. For example, an activity that tells you to Stride up to half your Speed alters the normal distance you can move in a Stride. The Stride would still have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] trait, would still trigger reactions that occur based on movement, and so on. The subordinate action doesn't gain any of the traits of the larger action unless specified. The action that allows you to use a subordinate action doesn't require you to spend more actions or reactions to do so; that cost is already factored in.
 >
-> Using an activity is not the same as using any of its subordinate actions. For example, the [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] condition you get from the [[srd/pf2e/compendium/spells/rank-3/haste|haste]] spell lets you spend an extra action each turn to Stride or Strike, but you couldn't use the extra action for an activity that includes a Stride or Strike. As another example, if you used an action that specified, “If the next action you use is a Strike,” an activity that includes a Strike wouldn't count, because the next thing you are doing is starting an activity, not using the Strike basic action
+> Using an activity is not the same as using any of its subordinate actions. For example, the [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]] condition you get from the [[srd/pf2e/compendium/spells/rank-3/Haste|haste]] spell lets you spend an extra action each turn to Stride or Strike, but you couldn't use the extra action for an activity that includes a Stride or Strike. As another example, if you used an action that specified, “If the next action you use is a Strike,” an activity that includes a Strike wouldn't count, because the next thing you are doing is starting an activity, not using the Strike basic action
 
 ## Activities
 
@@ -83,13 +83,13 @@ This limitation of one action per trigger is per creature; more than one creatur
 
 ## Other Actions
 
-Sometimes you need to attempt something not already covered by defined actions in the game. When this happens, the rules tell you how many actions you need to spend, as well as any traits your action might have. For example, a spell that lets you switch targets might say you can do so “by spending a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait.” Game Masters can also use this approach when a character tries to do something that isn’t covered in the rules.
+Sometimes you need to attempt something not already covered by defined actions in the game. When this happens, the rules tell you how many actions you need to spend, as well as any traits your action might have. For example, a spell that lets you switch targets might say you can do so “by spending a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] trait.” Game Masters can also use this approach when a character tries to do something that isn’t covered in the rules.
 
 ## Gaining and Losing Actions
 
-[[srd/pf2e/compendium/rules-elements/conditions#Quickened|Quickened]], [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]], and [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] are the primary ways you can gain or lose actions. The rules for how this works appear [[#Gaining and Losing Actions|here]]. All these conditions alter how many actions you regain at the start of your turn. Gaining quickened or slowed on your turn doesn’t adjust your actions that turn. If you get stunned on your turn, first complete any action or activity you’re in the middle of. If the stunned condition has a value, lose remaining actions to reduce your stunned value rather than waiting until your next turn.
+[[srd/pf2e/compendium/rules-elements/Conditions#Quickened|Quickened]], [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]], and [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]] are the primary ways you can gain or lose actions. The rules for how this works appear [[#Gaining and Losing Actions|here]]. All these conditions alter how many actions you regain at the start of your turn. Gaining quickened or slowed on your turn doesn’t adjust your actions that turn. If you get stunned on your turn, first complete any action or activity you’re in the middle of. If the stunned condition has a value, lose remaining actions to reduce your stunned value rather than waiting until your next turn.
 
-Some effects are even more restrictive. Certain abilities, instead of or in addition to changing the number of actions you can use, say specifically that you can't use reactions. The most restrictive form of reducing actions is when an effect states that you can't act: this means you can't use any actions, or even speak. When you can't act, you still regain your actions unless another effect (like the [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] condition) prevents it.
+Some effects are even more restrictive. Certain abilities, instead of or in addition to changing the number of actions you can use, say specifically that you can't use reactions. The most restrictive form of reducing actions is when an effect states that you can't act: this means you can't use any actions, or even speak. When you can't act, you still regain your actions unless another effect (like the [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]] condition) prevents it.
 
 ## Disrupting Actions
 
@@ -103,13 +103,13 @@ Basic actions represent common tasks like moving around, attacking, and helping 
 
 Actions that are used less frequently but are still available to most creatures are presented in [[#Specialty Basic Actions|Specialty Basic Actions]]. These typically have requirements that not all characters are likely to meet, such as wielding a shield, having a burrow Speed, or falling through the air.
 
-In addition to the actions in these two sections, the actions for spellcasting can be found [[srd/pf2e/books/player-core/chapter-7-spells/casting-spells|here]], and the actions for using magic items appear [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/activating-items|here]].
+In addition to the actions in these two sections, the actions for spellcasting can be found [[srd/pf2e/books/player-core/chapter-7-spells/Casting Spells|here]], and the actions for using magic items appear [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/Activating Items|here]].
 
 **Delay and Ready:** If you want to change when you take actions, two basic actions let you do so. [[srd/pf2e/compendium/rules-elements/actions/player-core#Delay|Delay]] shifts your entire turn later in the round, and [[srd/pf2e/compendium/rules-elements/actions/player-core#Ready|Ready]] lets you prepare to take one specific action when a trigger you choose is met.
 
 ### Aid [reaction]
 
-**Source** Player Core pg. 416
+**Source** [Player Core pg. 416](https://2e.aonprd.com/Sources.aspx?ID=216)
 **Trigger** An ally is about to use an action that requires a skill check or attack roll.
 **Requirements** The ally is willing to accept your aid, and you have prepared to help (see below).
 
@@ -135,9 +135,9 @@ The following clarifications might be relevant when Aiding an ally.
 
 ### Crawl [one-action]
 
-Move
-**Source** Player Core pg. 416
-**Requirements** You are prone and your Speed is at least 10 feet.
+[Move](https://2e.aonprd.com/Traits.aspx?ID=114)
+**Source** [Player Core pg. 416](https://2e.aonprd.com/Sources.aspx?ID=216)
+**Requirements** You are [[srd/pf2e/compendium/rules-elements/Conditions|prone]] and your Speed is at least 10 feet.
 
 ---
 
@@ -145,32 +145,32 @@ You move 5 feet by crawling and continue to stay prone.
 
 ### Delay [free-action]
 
-**Source** Player Core pg. 416
+**Source** [Player Core pg. 416](https://2e.aonprd.com/Sources.aspx?ID=216)
 **Trigger** Your turn begins.
 
 ---
 
 You wait for the right moment to act. The rest of your turn doesn't happen yet. Instead, you're removed from the initiative order. You can return to the initiative order as a free action triggered by the end of any other creature's turn. This permanently changes your initiative to the new position. You can't use reactions until you return to the initiative order. If you Delay an entire round without returning to the initiative order, the actions from the Delayed turn are lost, your initiative doesn't change, and your next turn occurs at your original position in the initiative order.
 
-When you Delay, any persistent damage or other negative effects that normally occur at the start or end of your turn occur immediately when you use the Delay action. Any beneficial effects that would end at any point during your turn also end. The GM might determine that other effects end when you Delay as well. Essentially, you can't Delay to avoid negative consequences that would happen on your turn or to extend beneficial effects that would end on your turn.
+When you Delay, any [[srd/pf2e/compendium/rules-elements/Conditions|persistent damage]] or other negative effects that normally occur at the start or end of your turn occur immediately when you use the Delay action. Any beneficial effects that would end at any point during your turn also end. The GM might determine that other effects end when you Delay as well. Essentially, you can't Delay to avoid negative consequences that would happen on your turn or to extend beneficial effects that would end on your turn.
 
 ### Drop Prone [one-action]
 
-Move
-**Source** Player Core pg. 416
+[Move](https://2e.aonprd.com/Traits.aspx?ID=114)
+**Source** [Player Core pg. 416](https://2e.aonprd.com/Sources.aspx?ID=216)
 
 ---
 
-You fall prone.
+You fall [[srd/pf2e/compendium/rules-elements/Conditions|prone]].
 
 ### Escape [one-action]
 
-Attack
-**Source** Player Core pg. 416
+[Attack](https://2e.aonprd.com/Traits.aspx?ID=15)
+**Source** [Player Core pg. 416](https://2e.aonprd.com/Sources.aspx?ID=216)
 
 ---
 
-You attempt to escape from being grabbed, immobilized, or restrained. Choose one creature, object, spell effect, hazard, or other impediment imposing any of those conditions on you. Attempt a check using your unarmed attack modifier against the DC of the effect. This is typically the Athletics DC of a creature grabbing you, the Thievery DC of a creature who tied you up, the spell DC for a spell effect, or the listed Escape DC of an object, hazard, or other impediment. You can attempt an Acrobatics or Athletics check instead of using your attack modifier if you choose (but this action still has the attack trait).
+You attempt to escape from being [[srd/pf2e/compendium/rules-elements/Conditions|grabbed]], [[srd/pf2e/compendium/rules-elements/Conditions|immobilized]], or [[srd/pf2e/compendium/rules-elements/Conditions|restrained]]. Choose one creature, object, spell effect, hazard, or other impediment imposing any of those conditions on you. Attempt a check using your unarmed attack modifier against the DC of the effect. This is typically the [[srd/pf2e/compendium/rules-elements/skills/skills|Athletics]] DC of a creature grabbing you, the [[srd/pf2e/compendium/rules-elements/skills/skills|Thievery]] DC of a creature who tied you up, the spell DC for a spell effect, or the listed Escape DC of an object, hazard, or other impediment. You can attempt an [[srd/pf2e/compendium/rules-elements/skills/skills|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/skills|Athletics]] check instead of using your attack modifier if you choose (but this action still has the [attack](https://2e.aonprd.com/Traits.aspx?ID=15) trait).
 
 **Critical Success** You get free and remove the grabbed, immobilized, and restrained conditions imposed by your chosen target. You can then Stride up to 5 feet.
 **Success** You get free and remove the grabbed, immobilized, and restrained conditions imposed by your chosen target.
@@ -178,69 +178,69 @@ You attempt to escape from being grabbed, immobilized, or restrained. Choose one
 
 ### Interact [one-action]
 
-Manipulate
-**Source** Player Core pg. 416
+[Manipulate](https://2e.aonprd.com/Traits.aspx?ID=104)
+**Source** [Player Core pg. 416](https://2e.aonprd.com/Sources.aspx?ID=216)
 
 ---
 
-You use your hand or hands to manipulate an object or the terrain. You can grab an unattended or stored object, draw a weapon, [[srd/pf2e/books/player-core/chapter-6-equipment/carrying-items#Drawing and Stowing Items|swap a held item for another]], open a door, or achieve a similar effect. On rare occasions, you might have to attempt a skill check to determine if your Interact action was successful.
+You use your hand or hands to manipulate an object or the terrain. You can grab an unattended or stored object, draw a weapon, [[srd/pf2e/books/player-core/chapter-6-equipment/Carrying Items#Drawing and Stowing Items|swap a held item for another]], open a door, or achieve a similar effect. On rare occasions, you might have to attempt a skill check to determine if your Interact action was successful.
 
 ### Leap [one-action]
 
-Move
-**Source** Player Core pg. 417
+[Move](https://2e.aonprd.com/Traits.aspx?ID=114)
+**Source** [Player Core pg. 417](https://2e.aonprd.com/Sources.aspx?ID=216)
 
 ---
 
-You take a short horizontal or vertical jump. Jumping a greater distance requires using the Athletics skill for a High Jump or Long Jump.
+You take a short horizontal or vertical jump. Jumping a greater distance requires using the [[srd/pf2e/compendium/rules-elements/skills/skills|Athletics]] skill for a [High Jump](https://2e.aonprd.com/Actions.aspx?ID=36) or [Long Jump](https://2e.aonprd.com/Actions.aspx?ID=37).
 
 - **Horizontal Jump** up to 10 feet horizontally if your Speed is at least 15 feet, or up to 15 feet horizontally if your Speed is at least 30 feet. You land in the space where your Leap ends (meaning you can typically clear a 5-foot gap, or a 10-foot gap if your Speed is 30 feet or more). You can't make a horizontal Leap if your Speed is less than 15 feet.
 - **Vertical Jump** up to 3 feet vertically and 5 feet horizontally onto an elevated surface.
 
 ### Ready [two-actions]
 
-Concentrate
-**Source** Player Core pg. 417
+[Concentrate](https://2e.aonprd.com/Traits.aspx?ID=32)
+**Source** [Player Core pg. 417](https://2e.aonprd.com/Sources.aspx?ID=216)
 
 ---
 
 You prepare to use an action that will occur outside your turn. Choose a single action or free action you can use, and designate a trigger. Your turn then ends. If the trigger you designated occurs before the start of your next turn, you can use the chosen action as a reaction (provided you still meet the requirements to use it). You can't Ready a free action that already has a trigger.
 
-If you have a multiple attack penalty and your readied action is an attack action, your readied attack takes the multiple attack penalty you had at the time you used Ready. This is one of the few times the multiple attack penalty applies when it's not your turn.
+If you have a multiple attack penalty and your readied action is an [attack](https://2e.aonprd.com/Traits.aspx?ID=15) action, your readied attack takes the multiple attack penalty you had at the time you used Ready. This is one of the few times the multiple attack penalty applies when it's not your turn.
 
 ### Release [free-action]
 
-Manipulate
-**Source** Player Core pg. 417
+[Manipulate](https://2e.aonprd.com/Traits.aspx?ID=104)
+**Source** [Player Core pg. 417](https://2e.aonprd.com/Sources.aspx?ID=216)
 
 ---
 
-You release something you're holding in your hand or hands. This might mean dropping an item, removing one hand from your weapon while continuing to hold it in another hand, releasing a rope suspending a chandelier, or performing a similar action. Unlike most manipulate actions, Release does not trigger reactions that can be triggered by actions with the manipulate trait (such as [[srd/pf2e/compendium/rules-elements/actions/player-core#Reactive Strike|Reactive Strike]]).
+You release something you're holding in your hand or hands. This might mean dropping an item, removing one hand from your weapon while continuing to hold it in another hand, releasing a rope suspending a chandelier, or performing a similar action. Unlike most [manipulate](https://2e.aonprd.com/Traits.aspx?ID=104) actions, Release does not trigger reactions that can be triggered by actions with the manipulate trait (such as [[srd/pf2e/compendium/rules-elements/actions/player-core#Reactive Strike|Reactive Strike]]).
 
 If you want to prepare to Release something outside of your turn, use the Ready activity.
 
 ### Seek [one-action]
 
-Concentrate Secret
-**Source** Player Core pg. 417
+[Concentrate](https://2e.aonprd.com/Traits.aspx?ID=32) [Secret](https://2e.aonprd.com/Traits.aspx?ID=142)
+**Source** [Player Core pg. 417](https://2e.aonprd.com/Sources.aspx?ID=216)
 
 ---
 
 You scan an area for signs of creatures or objects, possibly including secret doors or hazards. Choose an area to scan. The GM determines the area you can scan with one Seek action—almost always 30 feet or less in any dimension. The GM might impose a penalty if you search far away from you or adjust the number of actions it takes to Seek a particularly cluttered area.
 
-The GM attempts a single secret Perception check for you and compares the result to the Stealth DCs of any undetected or hidden creatures in the area, or the DC to detect each object in the area (as determined by the GM or by someone Concealing the Object). A creature you detect might remain hidden, rather than becoming observed, if you're using an imprecise sense or if an effect (such as invisibility) prevents the subject from being observed.
+The GM attempts a single [secret](https://2e.aonprd.com/Traits.aspx?ID=142) Perception check for you and compares the result to the [[srd/pf2e/compendium/rules-elements/skills/skills|Stealth]] DCs of any [[srd/pf2e/compendium/rules-elements/Conditions|undetected]] or [[srd/pf2e/compendium/rules-elements/Conditions|hidden]] creatures in the area, or the DC to detect each object in the area (as determined by the GM or by someone [Concealing the Object](https://2e.aonprd.com/Actions.aspx?ID=61)). A creature you detect might remain hidden, rather than becoming [[srd/pf2e/compendium/rules-elements/Conditions|observed]], if you're using an [imprecise](https://2e.aonprd.com/Rules.aspx?ID=412) sense or if an effect (such as [invisibility](https://2e.aonprd.com/Spells.aspx?ID=164)) prevents the subject from being observed.
 
 **Critical Success** Any undetected or hidden creature you critically succeeded against becomes observed by you. You learn the location of objects in the area you critically succeeded against.
 **Success** Any undetected creature you succeeded against becomes hidden from you instead of undetected, and any hidden creature you succeeded against becomes observed by you. You learn the location of any object or get a clue to its whereabouts, as determined by the GM.
 
 ### Sense Motive [one-action]
 
-Concentrate Secret
-**Source** Player Core pg. 417
+[Concentrate](https://2e.aonprd.com/Traits.aspx?ID=32) [Secret](https://2e.aonprd.com/Traits.aspx?ID=142)
+**Source** [Player Core pg. 417](https://2e.aonprd.com/Sources.aspx?ID=216)
 
 ---
 
-You try to tell whether a creature's behavior is abnormal. Choose one creature and assess it for odd body language, signs of nervousness, and other indicators that it might be trying to deceive someone. The GM attempts a single secret Perception check for you and compares the result to the Deception DC of the creature, the DC of a spell affecting the creature's mental state, or another appropriate DC determined by the GM. You typically can't try to Sense the Motive of the same creature again until the situation changes significantly.
+You try to tell whether a creature's behavior is abnormal. Choose one creature and assess it for odd body language, signs of nervousness, and other indicators that it might be trying to deceive someone. The GM attempts a single [secret](https://2e.aonprd.com/Traits.aspx?ID=142) Perception check for you and compares the result to the [[srd/pf2e/compendium/rules-elements/skills/skills|Deception]] DC of the creature, the DC of a spell affecting the creature's mental state, or another appropriate DC determined by the GM. You typically can't try to Sense the Motive of the same creature again until the situation changes significantly.
 
 **Critical Success** You determine the creature's true intentions and get a solid idea of any mental magic affecting it.
 **Success** You can tell whether the creature is behaving normally, but you don't know its exact intentions or what magic might be affecting it.
@@ -249,49 +249,49 @@ You try to tell whether a creature's behavior is abnormal. Choose one creature a
 
 ### Stand [one-action]
 
-Move
-**Source** Player Core pg. 418
+[Move](https://2e.aonprd.com/Traits.aspx?ID=114)
+**Source** [Player Core pg. 418](https://2e.aonprd.com/Sources.aspx?ID=216)
 
 ---
 
-You stand up from being prone.
+You stand up from being [[srd/pf2e/compendium/rules-elements/Conditions|prone]].
 
 ### Step [one-action]
 
-Move
-**Source** Player Core pg. 418
+[Move](https://2e.aonprd.com/Traits.aspx?ID=114)
+**Source** [Player Core pg. 418](https://2e.aonprd.com/Sources.aspx?ID=216)
 **Requirements** Your Speed is at least 10 feet.
 
 ---
 
 You carefully move 5 feet. Unlike most types of movement, Stepping doesn't trigger reactions, such as [[srd/pf2e/compendium/rules-elements/actions/player-core#Reactive Strike|Reactive Strike]], that can be triggered by move actions or upon leaving or entering a square.
 
-You can't Step into difficult terrain, and you can't Step using a Speed other than your land Speed.
+You can't Step into [difficult terrain](https://2e.aonprd.com/Rules.aspx?ID=453), and you can't Step using a Speed other than your land Speed.
 
 ### Strike [one-action]
 
-Attack
-**Source** Player Core pg. 418
+[Attack](https://2e.aonprd.com/Traits.aspx?ID=15)
+**Source** [Player Core pg. 418](https://2e.aonprd.com/Sources.aspx?ID=216)
 
 ---
 
 You attack with a weapon you're wielding or with an unarmed attack, targeting one creature within your reach (for a melee attack) or within range (for a ranged attack). Roll an attack roll using the attack modifier for the weapon or unarmed attack you're using, and compare the result to the target creature's AC to determine the effect.
 
-**Critical Success** You make a damage roll according to the weapon or unarmed attack and deal double damage (see [[srd/pf2e/books/player-core/chapter-8-playing-the-game/damage-rolls#Doubling and Halving Damage|Doubling and Halving Damage]] for rules on doubling damage).
+**Critical Success** You make a damage roll according to the weapon or unarmed attack and deal double damage (see [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Damage Rolls#Doubling and Halving Damage|Doubling and Halving Damage]] for rules on doubling damage).
 **Success** You make a damage roll according to the weapon or unarmed attack and deal damage.
 
 ### Strike Statistics
 
-See [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Attack Rolls|Attack Rolls]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/damage-rolls|Damage]] for details on calculating your attack and damage rolls. The damage roll for a Strike uses the damage die of the weapon or unarmed attack, plus any modifiers, bonuses, and penalties you have to damage. If you're using a type of attack other than a Strike, such as a spell attack or Grapple action, you calculate damage differently (or not at all).
+See [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Attack Rolls|Attack Rolls]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Damage Rolls|Damage]] for details on calculating your attack and damage rolls. The damage roll for a Strike uses the damage die of the weapon or unarmed attack, plus any modifiers, bonuses, and penalties you have to damage. If you're using a type of attack other than a Strike, such as a spell attack or [Grapple](https://2e.aonprd.com/Actions.aspx?ID=35) action, you calculate damage differently (or not at all).
 
 ### Take Cover [one-action]
 
-**Source** Player Core pg. 418
-**Requirements** You are benefiting from [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|standard cover]], are near a feature that allows you to take cover, or are [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
+**Source** [Player Core pg. 418](https://2e.aonprd.com/Sources.aspx?ID=216)
+**Requirements** You are benefiting from [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Cover|standard cover]], are near a feature that allows you to take cover, or are [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]].
 
 ---
 
-You press yourself against a wall or duck behind an obstacle to take better advantage of cover. If you would have standard cover, you instead gain greater cover, which provides a +4 circumstance bonus to AC; to Reflex saves against area effects; and to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]], or otherwise avoid detection. Otherwise, you gain standard cover (a +2 circumstance bonus instead). If you're prone, you gain greater cover against ranged attacks. Take Cover lasts until you move from your current space, use an [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] action, become [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], or end it as a free action.
+You press yourself against a wall or duck behind an obstacle to take better advantage of cover. If you would have standard cover, you instead gain greater cover, which provides a +4 circumstance bonus to AC; to Reflex saves against area effects; and to [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]], or otherwise avoid detection. Otherwise, you gain standard cover (a +2 circumstance bonus instead). If you're prone, you gain greater cover against ranged attacks. Take Cover lasts until you move from your current space, use an [[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]] action, become [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]], or end it as a free action.
 
 > [!pf2-sidebar] SPEAKING
 >
@@ -299,32 +299,32 @@ You press yourself against a wall or duck behind an obstacle to take better adva
 
 ## Specialty Basic Actions
 
-These actions are useful under specific circumstances. The [[srd/pf2e/compendium/rules-elements/actions/player-core#Arrest a Fall|Arrest a Fall]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]], and [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] actions require you to have a special [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Movement Types|movement type]]. The climb and swim Speeds use the corresponding actions from the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill.
+These actions are useful under specific circumstances. The [[srd/pf2e/compendium/rules-elements/actions/player-core#Arrest a Fall|Arrest a Fall]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]], and [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] actions require you to have a special [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Movement Types|movement type]]. The climb and swim Speeds use the corresponding actions from the [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] skill.
 
 ### Arrest a Fall [reaction]
 
-**Source** Player Core pg. 418
+**Source** [Player Core pg. 418](https://2e.aonprd.com/Sources.aspx?ID=216)
 **Trigger** You fall.
 **Requirements** You have a fly Speed.
 
 ---
 
-You attempt your choice of an Acrobatics check or Reflex save to slow your fall. The DC is typically 15, but it might be higher due to air turbulence or other circumstances.
+You attempt your choice of an [[srd/pf2e/compendium/rules-elements/skills/skills|Acrobatics]] check or Reflex save to slow your fall. The DC is typically 15, but it might be higher due to air turbulence or other circumstances.
 
 **Success** You take no damage from the fall.
 
 ### Avert Gaze [one-action]
 
-**Source** Player Core pg. 419
+**Source** [Player Core pg. 419](https://2e.aonprd.com/Sources.aspx?ID=216)
 
 ---
 
-You avert your gaze from danger, such as a medusa's gaze. You gain a +2 circumstance bonus to saves against visual abilities that require you to look at a creature or object, such as a medusa's petrifying gaze. Your gaze remains averted until the start of your next turn.
+You avert your gaze from danger, such as a [medusa's](https://2e.aonprd.com/Monsters.aspx?ID=297) gaze. You gain a +2 circumstance bonus to saves against [visual](https://2e.aonprd.com/Traits.aspx?ID=163) abilities that require you to look at a creature or object, such as a medusa's petrifying gaze. Your gaze remains averted until the start of your next turn.
 
 ### Burrow [one-action]
 
-Move
-**Source** Player Core pg. 419
+[Move](https://2e.aonprd.com/Traits.aspx?ID=114)
+**Source** [Player Core pg. 419](https://2e.aonprd.com/Sources.aspx?ID=216)
 **Requirements** You have a burrow Speed.
 
 ---
@@ -333,8 +333,8 @@ You dig your way through dirt, sand, or a similar loose material at a rate up to
 
 ### Dismiss [one-action]
 
-Concentrate
-**Source** Player Core pg. 419
+[Concentrate](https://2e.aonprd.com/Traits.aspx?ID=32)
+**Source** [Player Core pg. 419](https://2e.aonprd.com/Sources.aspx?ID=216)
 
 ---
 
@@ -342,33 +342,33 @@ You end an effect that states you can Dismiss it. Dismissing ends the entire eff
 
 ### Fly [one-action]
 
-Move
-**Source** Player Core pg. 419
+[Move](https://2e.aonprd.com/Traits.aspx?ID=114)
+**Source** [Player Core pg. 419](https://2e.aonprd.com/Sources.aspx?ID=216)
 **Requirements** You have a fly Speed.
 
 ---
 
-You move through the air up to your fly Speed. Moving upward (straight up or diagonally) uses the rules for moving through difficult terrain. You can move straight down 10 feet for every 5 feet of movement you spend. If you Fly to the ground, you don't take falling damage. You can use an action to Fly 0 feet to hover in place. If you're airborne at the end of your turn and didn't use a Fly action this round, you fall.
+You move through the air up to your fly Speed. Moving upward (straight up or diagonally) uses the rules for moving through [difficult terrain](https://2e.aonprd.com/Rules.aspx?ID=453). You can move straight down 10 feet for every 5 feet of movement you spend. If you Fly to the ground, you don't take [falling damage](https://2e.aonprd.com/Rules.aspx?ID=402). You can use an action to Fly 0 feet to hover in place. If you're airborne at the end of your turn and didn't use a Fly action this round, you fall.
 
 ### Grab an Edge [reaction]
 
-Manipulate
-**Source** Player Core pg. 419
+[Manipulate](https://2e.aonprd.com/Traits.aspx?ID=104)
+**Source** [Player Core pg. 419](https://2e.aonprd.com/Sources.aspx?ID=216)
 **Trigger** You fall from or past an edge or handhold.
 **Requirements** Your hands are not tied behind your back or otherwise restrained
 
 ---
 
-When you fall off or past an edge or other handhold, you can try to grab it, potentially stopping your fall. You must succeed at your choice of an Acrobatics check or a Reflex save, usually at the Climb DC. If you grab the edge or handhold, you can then Climb up using Athletics.
+When you fall off or past an edge or other handhold, you can try to grab it, potentially stopping your fall. You must succeed at your choice of an [[srd/pf2e/compendium/rules-elements/skills/skills|Acrobatics]] check or a Reflex save, usually at the Climb DC. If you grab the edge or handhold, you can then [Climb](https://2e.aonprd.com/Actions.aspx?ID=33) up using Athletics.
 
-**Critical Success** You grab the edge or handhold, whether or not you have a hand free, typically by using a suitable held item to catch yourself (catching a battle axe on a ledge, for example). You still take damage from the distance fallen so far, but you treat the fall as though it were 30 feet shorter.
+**Critical Success** You grab the edge or handhold, whether or not you have a hand free, typically by using a suitable held item to catch yourself (catching a battle axe on a ledge, for example). You still take [damage from the distance fallen](https://2e.aonprd.com/Rules.aspx?ID=402) so far, but you treat the fall as though it were 30 feet shorter.
 **Success** If you have at least one hand free, you grab the edge or handhold, stopping your fall. You still take damage from the distance fallen so far, but you treat the fall as though it were 20 feet shorter. If you have no hands free, you continue to fall as if you had failed the check.
 **Critical Failure** You continue to fall, and if you've fallen 20 feet or more before you use this reaction, you take 10 bludgeoning damage from the impact for every 20 feet fallen.
 
 ### Mount [one-action]
 
-Move
-**Source** Player Core pg. 419
+[Move](https://2e.aonprd.com/Traits.aspx?ID=114)
+**Source** [Player Core pg. 419](https://2e.aonprd.com/Sources.aspx?ID=216)
 **Requirements** You are adjacent to a creature that is at least one size larger than you and is willing to be your mount.
 
 ---
@@ -377,17 +377,17 @@ You move onto the creature and ride it. If you're already mounted, you can inste
 
 ### Point Out [one-action]
 
-Auditory Manipulate Visual
-**Source** Player Core pg. 419
-**Requirements** A creature is undetected by one or more of your allies but isn't undetected by you.
+[Auditory](https://2e.aonprd.com/Traits.aspx?ID=16) [Manipulate](https://2e.aonprd.com/Traits.aspx?ID=104) [Visual](https://2e.aonprd.com/Traits.aspx?ID=163)
+**Source** [Player Core pg. 419](https://2e.aonprd.com/Sources.aspx?ID=216)
+**Requirements** A creature is [[srd/pf2e/compendium/rules-elements/Conditions|undetected]] by one or more of your allies but isn't undetected by you.
 
 ---
 
-You indicate a creature that you can see to one or more allies, gesturing in a direction and describing the distance verbally. That creature is hidden to your allies, rather than undetected. This works only for allies who can see you and are in a position where they could potentially detect the target. If your allies can't hear or understand you, they must succeed at a Perception check against the creature's Stealth DC or they misunderstand and believe the target is in a different location.
+You indicate a creature that you can see to one or more allies, gesturing in a direction and describing the distance verbally. That creature is [[srd/pf2e/compendium/rules-elements/Conditions|hidden]] to your allies, rather than undetected. This works only for allies who can see you and are in a position where they could potentially detect the target. If your allies can't hear or understand you, they must succeed at a Perception check against the creature's [[srd/pf2e/compendium/rules-elements/skills/skills|Stealth]] DC or they misunderstand and believe the target is in a different location.
 
 ### Raise a Shield [one-action]
 
-**Source** Player Core pg. 419
+**Source** [Player Core pg. 419](https://2e.aonprd.com/Sources.aspx?ID=216)
 **Requirements** You are wielding a shield.
 
 ---
@@ -396,8 +396,8 @@ You position your shield to protect yourself. When you have Raised a Shield, you
 
 ### Sustain [one-action]
 
-Concentrate
-**Source** Player Core pg. 419
+[Concentrate](https://2e.aonprd.com/Traits.aspx?ID=32)
+**Source** [Player Core pg. 419](https://2e.aonprd.com/Sources.aspx?ID=216)
 
 ---
 

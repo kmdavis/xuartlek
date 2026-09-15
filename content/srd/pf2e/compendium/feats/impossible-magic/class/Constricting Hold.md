@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Eidolon`  `Evolution`  `Summoner`
 
-- **Requirements**: Your eidolon has a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]].
+- **Requirements**: Your eidolon has a creature [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]].
 
-Your eidolon constricts the creature, dealing bludgeoning damage equal to your eidolon’s level plus their Strength modifier, with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude save against your spell DC.
+Your eidolon constricts the creature, dealing bludgeoning damage equal to your eidolon’s level plus their Strength modifier, with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Fortitude save against your spell DC.
 
 *Source: Impossible Magic p. 82*

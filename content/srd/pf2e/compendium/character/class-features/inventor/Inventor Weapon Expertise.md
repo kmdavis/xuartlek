@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Inventor
 
-You develop tricks for using your weapons more effectively. Your proficiency ranks for simple and martial weapons and unarmed attacks increase to expert. If you have a &lt;%CLASS>INNOVATIONS%3%%&gt; weapon innovation &lt;%END>, you gain access to the critical specialization effect with your innovation.
+You develop tricks for using your weapons more effectively. Your proficiency ranks for simple and martial weapons and unarmed attacks increase to expert. If you have a [[srd/pf2e/compendium/character/Innovations#Weapon|weapon innovation]], you gain access to the critical specialization effect with your innovation.
 
 *Source: Guns & Gears (Remastered) p. 15*

@@ -12,19 +12,19 @@ socialImage: og-image.png
 
 The celestial hosts of angels are messengers and warriors, divided into choirs based on their abilities and purviews. Angels were one of the first creations of the gods, and many still assist their righteous creators throughout the cosmos. Most angels in modern times are not direct creations of the divine, however, instead consisting of ascended mortal souls drawn from the celestial planes.
 
- The majority of unaffiliated angels live in [[srd/pf2e/compendium/gm/planes#Nirvana|Nirvana]], the plane of virtue and enlightenment. Angels who are affiliated with deities dwell in those deities' domains or other areas where that god holds influence. Regardless of residence or service, angels remain benevolent messengers possessed with magical auras to aid their allies.
+ The majority of unaffiliated angels live in [[srd/pf2e/compendium/gm/Planes#Nirvana|Nirvana]], the plane of virtue and enlightenment. Angels who are affiliated with deities dwell in those deities' domains or other areas where that god holds influence. Regardless of residence or service, angels remain benevolent messengers possessed with magical auras to aid their allies.
 
 ### Members
 
-[[srd/pf2e/bestiary/battlecry/celestial/angelic-chorus|Angelic Chorus]] (Creature 12), [[srd/pf2e/bestiary/monster-core/celestial/balisse|Balisse]] (Creature 8), [[srd/pf2e/bestiary/monster-core/celestial/cassisian|Cassisian]] (Creature 1), [[srd/pf2e/bestiary/monster-core/celestial/choral|Choral]] (Creature 6), [[srd/pf2e/bestiary/monster-core-2/celestial/kuribu|Kuribu]] (Creature 3), [[srd/pf2e/bestiary/monster-core-2/celestial/ninkonda|Ninkonda]] (Creature 17), Oceanius And Glory Arcely (Creature 18), [[srd/pf2e/bestiary/monster-core-2/celestial/sramana|Sramana]] (Creature 15), [[srd/pf2e/bestiary/monster-core/celestial/tabellia|Tabellia]] (Creature 14), [[srd/pf2e/bestiary/monster-core-2/celestial/tennin|Tennin]] (Creature 9)
+[[srd/pf2e/bestiary/battlecry/celestial/Angelic Chorus|Angelic Chorus]] (Creature 12), [[srd/pf2e/bestiary/monster-core/celestial/Balisse|Balisse]] (Creature 8), [[srd/pf2e/bestiary/monster-core/celestial/Cassisian|Cassisian]] (Creature 1), [[srd/pf2e/bestiary/monster-core/celestial/Choral|Choral]] (Creature 6), [[srd/pf2e/bestiary/monster-core-2/celestial/Kuribu|Kuribu]] (Creature 3), [[srd/pf2e/bestiary/monster-core-2/celestial/Ninkonda|Ninkonda]] (Creature 17), Oceanius And Glory Arcely (Creature 18), [[srd/pf2e/bestiary/monster-core-2/celestial/Sramana|Sramana]] (Creature 15), [[srd/pf2e/bestiary/monster-core/celestial/Tabellia|Tabellia]] (Creature 14), [[srd/pf2e/bestiary/monster-core-2/celestial/Tennin|Tennin]] (Creature 9)
 
 ### Angelic Divinities
 
-The most powerful angels belong to a category of demigods known as the empyreal lords—a title shared with other powerful holy demigods among the host of [[srd/pf2e/compendium/gm/creature-families/archon|archons]], [[srd/pf2e/compendium/gm/creature-families/azata|azatas]], and other inhabitants of the celestial planes. The most famous and powerful empyreal lord, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], ascended to godhood and now reigns above the other empyreal lords
+The most powerful angels belong to a category of demigods known as the empyreal lords—a title shared with other powerful holy demigods among the host of [[srd/pf2e/compendium/gm/creature-families/Archon|archons]], [[srd/pf2e/compendium/gm/creature-families/Azata|azatas]], and other inhabitants of the celestial planes. The most famous and powerful empyreal lord, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Sarenrae|Sarenrae]], ascended to godhood and now reigns above the other empyreal lords
 
 ### Angelic Locations
 
-Angels normally live on [[srd/pf2e/compendium/gm/planes#Nirvana|Nirvana]] or other celestial planes, but their missions can bring them to [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]]. Spellcasters can conjure them for aid or advice in times of need, and they can even be found, if rarely, crusading against fiends in [[srd/pf2e/compendium/gm/planes#Hell|Hell]], the [[srd/pf2e/compendium/gm/planes#Outer Rifts|Outer Rifts]], or anywhere in between.
+Angels normally live on [[srd/pf2e/compendium/gm/Planes#Nirvana|Nirvana]] or other celestial planes, but their missions can bring them to [[srd/pf2e/compendium/gm/Planes#The Universe|the Universe]]. Spellcasters can conjure them for aid or advice in times of need, and they can even be found, if rarely, crusading against fiends in [[srd/pf2e/compendium/gm/Planes#Hell|Hell]], the [[srd/pf2e/compendium/gm/Planes#Outer Rifts|Outer Rifts]], or anywhere in between.
 
 ### Angelic Treasure
 

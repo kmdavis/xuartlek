@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Monk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/clinging-shadows-initiate|Clinging Shadows Initiate]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Clinging Shadows Initiate|Clinging Shadows Initiate]]
 
-You can launch a wave of shadowy qi outward from your body, damaging your opponents and potentially binding them in place. You gain the [[srd/pf2e/compendium/spells/focus/shadows-web|_shadow's web_]] qi spell.
+You can launch a wave of shadowy qi outward from your body, damaging your opponents and potentially binding them in place. You gain the [[srd/pf2e/compendium/spells/focus/Shadow's Web|_shadow's web_]] qi spell.
 
 *Source: Player Core 2 p. 126*

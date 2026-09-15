@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Runesmith`
 
 - **Trigger**: You are targeted by a spell.
-- **Requirements**: You are trained in the skill associated with the tradition of the triggering spell ([[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] for arcane, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] for primal, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] for occult, and [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] for [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]).
+- **Requirements**: You are trained in the skill associated with the tradition of the triggering spell ([[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] for [arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] for [primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4), [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] for [occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), and [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] for [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]]).
 
 You quickly sketch a rune in the air to gain a modicum of protection against the triggering magic. You gain a +1 circumstance bonus to your saving throw and AC against the spell.
 

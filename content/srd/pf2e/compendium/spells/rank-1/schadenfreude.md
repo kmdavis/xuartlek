@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Emotion`  `Mental`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Trigger**: You critically fail a saving throw against a foe’s effect.
 - **Range**: 30 feet
 - **Target**: the triggering foe
@@ -28,7 +28,7 @@ You distract your enemy with their feeling of smug pleasure when you fail catast
 
 **Success** The creature is distracted by its amusement and takes a –1 status penalty on Perception checks and Will saves for 1 round.
 
-**Failure** The creature is overcome by its amusement and is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]] for 1 round.
+**Failure** The creature is overcome by its amusement and is [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied 1]] for 1 round.
 
 **Critical Failure** The creature is lost in its amusement and is stupefied 2 for 1 round and stunned 1.
 

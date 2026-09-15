@@ -20,12 +20,12 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Emotion`  `Focus`  `Manipulate`  `Mental`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Repose|Repose]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Repose|Repose]]
 - **Range**: 30 feet
-- **Area**: 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
+- **Area**: 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
 - **Duration**: 1 minute
 
-A divine beacon radiates serenity, soothing nearby allies. Allies within the area gain a +1 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effects. An ally can touch the font at the center of the burst as an [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] action; if they do so, the spell attempts to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] one emotion effect affecting the ally of the ally’s choice, after which that emotion effect is temporarily immune for 1 day. If the spell succeeds at the counteract check, it removes the emotion effect from your ally, though not from any other creatures the effect might be affecting.
+A divine beacon radiates serenity, soothing nearby allies. Allies within the area gain a +1 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]] effects. An ally can touch the font at the center of the burst as an [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] action; if they do so, the spell attempts to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions#Counteracting|counteract]] one emotion effect affecting the ally of the ally’s choice, after which that emotion effect is temporarily immune for 1 day. If the spell succeeds at the counteract check, it removes the emotion effect from your ally, though not from any other creatures the effect might be affecting.
 
 ---
 **Heightened (+4)** The bonus increases by 1.

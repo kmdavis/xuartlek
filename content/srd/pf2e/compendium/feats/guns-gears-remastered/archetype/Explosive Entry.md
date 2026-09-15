@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/demolitionist|Demolitionist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/demolitionist-dedication|Demolitionist Dedication]]; Master in Engineering Lore
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Demolitionist|Demolitionist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Demolitionist Dedication|Demolitionist Dedication]]; Master in Engineering Lore
 
-You know exactly how to make a memorable entrance... by detonating a bomb to produce a devastating explosion, of course! You [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/demolitionist-dedication|Set Explosives]] on a door, window, container, or heavy gate. When the explosives detonate, you can attempt an Engineering Lore check to Force Open the target. If a bomb would add an item bonus to attack rolls, add that item bonus to your Engineering Lore check. Since you're blasting your way in, you can't avoid breaking the object or structure. If you roll a critical success, you get a success instead.
+You know exactly how to make a memorable entrance... by detonating a [bomb](https://2e.aonprd.com/Equipment.aspx?Category=6&Subcategory=7) to produce a devastating explosion, of course! You [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Demolitionist Dedication|Set Explosives]] on a door, window, container, or heavy gate. When the explosives detonate, you can attempt an Engineering Lore check to Force Open the target. If a bomb would add an item bonus to attack rolls, add that item bonus to your Engineering Lore check. Since you're blasting your way in, you can't avoid breaking the object or structure. If you roll a critical success, you get a success instead.
 
 *Source: Guns & Gears (Remastered) p. 133*

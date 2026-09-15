@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/guardian|Guardian]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/guardian-dedication|Guardian Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Guardian|Guardian]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Guardian Dedication|Guardian Dedication]]
 
 You can use the [[srd/pf2e/compendium/rules-elements/actions/battlecry#Intercept Attack|Intercept Attack]] reaction once per 10 minutes.
 
 ### Guardian's Intercept leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/archetype/armored-resistance|Armored Resistance]]
+[[srd/pf2e/compendium/feats/battlecry/archetype/Armored Resistance|Armored Resistance]]
 
 *Source: Battlecry! p. 53*

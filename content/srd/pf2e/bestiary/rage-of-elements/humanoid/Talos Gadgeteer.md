@@ -30,14 +30,14 @@ modifier: 3
 perception:
   - name: "Perception"
     desc: "+3"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Talican|Talican]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Talican|Talican]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +6, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +6, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +6, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +6, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] +6"
 abilityMods: [1, 3, 1, 3, 0, 1]
 abilities_top:
   - name: "Gadgets"
-    desc: "A talos gadgeteer carries the following temporary gadgets, which have no value if sold and last for 24 hours or until the next time the gadgeteer makes their daily preparations: [[srd/pf2e/compendium/equipment/consumables/ablative-armor-plating|lesser ablative armor plating]] (1), [[srd/pf2e/compendium/equipment/consumables/blast-boots|lesser blast boots]] (1), [[srd/pf2e/compendium/equipment/consumables/explosive-mine|lesser explosive mine]] (3)."
+    desc: "A talos gadgeteer carries the following temporary gadgets, which have no value if sold and last for 24 hours or until the next time the gadgeteer makes their daily preparations: [[srd/pf2e/compendium/equipment/consumables/Ablative Armor Plating|lesser ablative armor plating]] (1), [[srd/pf2e/compendium/equipment/consumables/Blast Boots|lesser blast boots]] (1), [[srd/pf2e/compendium/equipment/consumables/Explosive Mine|lesser explosive mine]] (3)."
   - name: "Items"
     desc: "artisan's toolkit, formula book, Leather Armor, light hammer (3)"
 ac: 17
@@ -47,10 +47,10 @@ armorclass:
 hp: 17
 health:
   - name: "HP"
-    desc: "17 (plus 5 temporary HP (from ablative armor plating)); __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 1"
+    desc: "17 (plus 5 temporary HP (from ablative armor plating)); __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|electricity]] 1"
 abilities_mid:
   - name: "Reflective Defense"
-    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]])"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Light|light]])"
   - name: "Frequency"
     desc: "once per round"
   - name: "Trigger"
@@ -58,18 +58,18 @@ abilities_mid:
   - name: "Requirements"
     desc: "The talos is in dim or bright light"
   - name: "Effect"
-    desc: "The talos gadgeteer reflects light off their metallic skin and into the enemy's eyes; it must succeed at a DC 14 Reflex save or be [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] until the end of the talos's next turn."
+    desc: "The talos gadgeteer reflects light off their metallic skin and into the enemy's eyes; it must succeed at a DC 14 Reflex save or be [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] until the end of the talos's next turn."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d6+1 bludgeoning"
+    desc: "⬻ fist +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d6+1 bludgeoning"
   - name: "Melee"
-    desc: "⬻ light hammer +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+1 bludgeoning"
+    desc: "⬻ light hammer +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d6+1 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ light hammer +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d6+1 bludgeoning"
+    desc: "⬻ light hammer +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 20 feet]]) __Damage__ 1d6+1 bludgeoning"
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 14 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/detect-metal|Detect Metal]] Traveling Tinkerers While there are no known permanent talos settlements in the Universe, there is a small nomadic community known as the Tinkerers' Caravan. Originally founded in Vudra and inspired by similar clans of janns and sulis, the caravan now travels throughout most of the eastern world, offering all taloses who wish to travel with them a sense of community and belonging that they might not find anywhere else."
+    desc: "DC 14 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/Detect Metal|Detect Metal]] Traveling Tinkerers While there are no known permanent talos settlements in the Universe, there is a small nomadic community known as the Tinkerers' Caravan. Originally founded in Vudra and inspired by similar clans of janns and sulis, the caravan now travels throughout most of the eastern world, offering all taloses who wish to travel with them a sense of community and belonging that they might not find anywhere else."
 sourcebook: "_Rage of Elements_, page 163."
 ```
 

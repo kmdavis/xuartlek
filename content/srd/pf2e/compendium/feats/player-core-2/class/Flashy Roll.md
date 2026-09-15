@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Swashbuckler`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/flashy-dodge|Flashy Dodge]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Flashy Dodge|Flashy Dodge]]
 
 You can use Flashy Dodge before attempting a Reflex save, in addition to its original trigger. If you do, the circumstance bonus applies to your Reflex save against the triggering effect. 
 

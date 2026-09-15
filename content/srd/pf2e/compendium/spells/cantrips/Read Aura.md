@@ -17,9 +17,9 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Detection`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
-- **Spell Lists**: Elemental
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Lore|Lore]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Lore|Lore]]
 - **Cast**: 1 minute
 - **Range**: 30 feet
 - **Target**: 1 object

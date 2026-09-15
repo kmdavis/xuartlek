@@ -21,9 +21,9 @@ socialImage: og-image.png
 
 **Perception** +12; precise vision 30 feet, imprecise hearing 30 feet
 
-**Communication** telepathy ([[srd/pf2e/compendium/rules-elements/languages#Common|Common]] and two other common languages)
+**Communication** telepathy ([[srd/pf2e/compendium/rules-elements/Languages#Common|Common]] and two other common languages)
 
-**Skills** Clockwork Lore +15, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +13, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +11
+**Skills** Clockwork Lore +15, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +13, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +11
 
 **Int** +4, **Wis** +3, **Cha** +0
 
@@ -31,6 +31,6 @@ socialImage: og-image.png
 
 --- 
 
-Sacred to the faith of [[srd/pf2e/compendium/deities/other-gods/brigh|Brigh]], a _toolkit of bronze whispers_ has been used with such devotion it has developed a consciousness and personality that can be a blessing to a partnered crafter. A _toolkit of bronze whispers_ functions as a set of sterling artisan's tools. Such toolkits focus on new creations and enthusiastically suggest crafting techniques to wielders. A _toolkit of bronze whispers_ knows common item formulas of its level or lower and any other formulas the GM chooses. It can teach these formulas. You must still spend the time to copy a formula before you can use it.
+Sacred to the faith of [[srd/pf2e/compendium/deities/other-gods/Brigh|Brigh]], a _toolkit of bronze whispers_ has been used with such devotion it has developed a consciousness and personality that can be a blessing to a partnered crafter. A _toolkit of bronze whispers_ functions as a set of sterling artisan's tools. Such toolkits focus on new creations and enthusiastically suggest crafting techniques to wielders. A _toolkit of bronze whispers_ knows common item formulas of its level or lower and any other formulas the GM chooses. It can teach these formulas. You must still spend the time to copy a formula before you can use it.
 
 *Source: Treasure Vault (Remastered) p. 197*

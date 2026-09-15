@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Fire`  `Impulse`  `Kineticist`  `Overflow`  `Primal`  `Teleportation`
 
-You fall through your own kinetic gate, leaving behind an effigy of flame and reappearing majestically near another fire. You instantly transport yourself, and any items you're wearing and holding, from your current space to a clear space within 120 feet you can observe that's adjacent to an open flame or a creature taking persistent fire damage. If this would bring another creature with you—even if you're carrying it in an [[srd/pf2e/compendium/rules-elements/traits/player-core/extradimensional|extradimensional]] container—the action fails.
+You fall through your own kinetic gate, leaving behind an effigy of flame and reappearing majestically near another fire. You instantly transport yourself, and any items you're wearing and holding, from your current space to a clear space within 120 feet you can observe that's adjacent to an open flame or a creature taking persistent fire damage. If this would bring another creature with you—even if you're carrying it in an [[srd/pf2e/compendium/rules-elements/traits/player-core/Extradimensional|extradimensional]] container—the action fails.
 
  A whorl of fire surrounds you in a 5-foot emanation either before you depart or after you arrive. Each creature in the area takes 4d6 fire damage with a basic Reflex save against your class DC.
 

@@ -28,10 +28,10 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "+5"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/lore|Livestock Lore]] +6, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +5, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Lore|Livestock Lore]] +6, [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] +5, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +5"
 abilityMods: [3, 2, 2, 0, 1, 0]
 abilities_top:
   - name: "Whistling"
@@ -49,20 +49,20 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ whip +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|Reach]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d4+3 slashing"
+    desc: "⬻ whip +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|Reach]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip|Trip]]) __Damage__ 1d4+3 slashing"
   - name: "Melee"
-    desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+3 bludgeoning"
+    desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+3 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ sling +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 50 feet, reload 1) __Damage__ 1d6+1 piercing"
+    desc: "⬻ sling +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Propulsive|Propulsive]], range increment 50 feet, reload 1) __Damage__ 1d6+1 piercing"
 abilities_bot:
   - name: "Hogtie"
     desc: "⬺"
   - name: "Requirements"
-    desc: "A creature is grappled or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] by the drover's lasso"
+    desc: "A creature is grappled or [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] by the drover's lasso"
   - name: "Effect"
     desc: "The drover can pull the grappled creature up to 20 feet. Then, if the creature is within reach, the drover hogties it, attempting to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] it again. On a success, the creature is restrained with the lasso, and the drover doesn't need to maintain the grapple. The hogtie lasts until the creature [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] or the lasso is [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Forced Open]]. The drover can Interact to free a hogtied creature within reach."
   - name: "Lasso"
-    desc: "⬺ The drover uses their lasso to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] a Large or smaller creature up to 20 feet away. They can continue to Grapple to keep their hold on the target so long as the target remains within 20 feet and they continue to hold the end of the lasso. In addition to the [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] creature being able to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]], a successful DC 16 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]] can remove the lasso entirely."
+    desc: "⬺ The drover uses their lasso to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] a Large or smaller creature up to 20 feet away. They can continue to Grapple to keep their hold on the target so long as the target remains within 20 feet and they continue to hold the end of the lasso. In addition to the [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] creature being able to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]], a successful DC 16 [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]] can remove the lasso entirely."
 sourcebook: "_NPC Core_, page 67."
 ```
 

@@ -10,7 +10,7 @@ socialImage: og-image.png
 
 # Saloc  *Deity*
 
-- **PFS Note**: This deity grants [[srd/pf2e/compendium/spells/rank-5/illusory-scene|_illusory scene_]] instead of dreaming potential_ Ruler of the planar metropolis of Spire’s Edge in the [[srd/pf2e/compendium/gm/planes#Boneyard|Boneyard]], the [[srd/pf2e/compendium/gm/creature-families/psychopomp|psychopomp]] usher Saloc is [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoid]], but their face is devoid of features save stag horns, and two golden rings lined with eyes constantly rotate about their body. As a defense counsel in [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma’s]] court, the Minder of Immortals argues that a person’s intentions should be considered in equal part to the consequences of their actions when deciding their soul’s afterlife. Saloc has even been known to resurrect condemned souls to give them a second chance to prove themselves. Mortals revere Saloc as the patron of agency, bronze, and education. These followers are people who seek to improve themselves or others, including both students and teachers. Some seek to earn their freedom from earthly prisons, while others wish to change their ways to avoid punishment in the hereafter.
+- **PFS Note**: This deity grants [[srd/pf2e/compendium/spells/rank-5/Illusory Scene|_illusory scene_]] instead of dreaming potential_ Ruler of the planar metropolis of Spire’s Edge in the [[srd/pf2e/compendium/gm/Planes#Boneyard|Boneyard]], the [[srd/pf2e/compendium/gm/creature-families/Psychopomp|psychopomp]] usher Saloc is [[srd/pf2e/compendium/rules-elements/traits/player-core/Humanoid|humanoid]], but their face is devoid of features save stag horns, and two golden rings lined with eyes constantly rotate about their body. As a defense counsel in [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Pharasma|Pharasma’s]] court, the Minder of Immortals argues that a person’s intentions should be considered in equal part to the consequences of their actions when deciding their soul’s afterlife. Saloc has even been known to resurrect condemned souls to give them a second chance to prove themselves. Mortals revere Saloc as the patron of agency, bronze, and education. These followers are people who seek to improve themselves or others, including both students and teachers. Some seek to earn their freedom from earthly prisons, while others wish to change their ways to avoid punishment in the hereafter.
 - **Category**: Monitor Demigods
 - **Edicts**: Help creatures grow and find purpose, offer second chances to failures, study different perspectives on ethics
 - **Anathema**: Manipulate or remove a creature’s emotions with magic, spread nihilism or hopelessness
@@ -25,23 +25,23 @@ Wisdom or Charisma
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/guisarme|Guisarme]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/polearm/Guisarme|Guisarme]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Introspection|Introspection]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Introspection|Introspection]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/share-lore|Share Lore]]
+[[srd/pf2e/compendium/spells/rank-1/Share Lore|Share Lore]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/hypercognition|Hypercognition]]
+[[srd/pf2e/compendium/spells/rank-3/Hypercognition|Hypercognition]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/dreaming-potential|Dreaming Potential]]
+[[srd/pf2e/compendium/spells/rank-5/Dreaming Potential|Dreaming Potential]]
 
 *Source: Divine Mysteries p. 316*

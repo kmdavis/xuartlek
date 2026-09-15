@@ -1,6 +1,7 @@
 ---
 title: "Relics"
 aliases: ["Relics"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3248"
 citation: "GM Core pg. 308"
-socialImage: og-image.png
 ---
 
 # Relics
@@ -42,13 +42,13 @@ A campaign relic is drawn from the ongoing story of the campaign. You decide the
 
 #### Relic Aspects
 
-Each relic is associated with aspects—typically two—that speak to its overall concept and purpose. The individual gifts each have an associated aspect. You should almost always select gifts that have an aspect matching one of those found on the relic. For example, a brass dagger recovered from the [[srd/pf2e/compendium/gm/planes#Plane of Fire|Medina Mudii'a]] might have the fire and mind aspects, which means that it could have the [[srd/pf2e/compendium/equipment/relics#Flare Bolt|flare bolt]] gift (which has the fire aspect), but not the [[srd/pf2e/compendium/equipment/relics#Rolling Geode|rolling geode]] gift (which has the earth aspect).
+Each relic is associated with aspects—typically two—that speak to its overall concept and purpose. The individual gifts each have an associated aspect. You should almost always select gifts that have an aspect matching one of those found on the relic. For example, a brass dagger recovered from the [[srd/pf2e/compendium/gm/Planes#Plane of Fire|Medina Mudii'a]] might have the [[srd/pf2e/compendium/equipment/Relics|fire]] and [[srd/pf2e/compendium/equipment/Relics|mind]] aspects, which means that it could have the [[srd/pf2e/compendium/equipment/Relics#Flare Bolt|flare bolt]] gift (which has the fire aspect), but not the [[srd/pf2e/compendium/equipment/Relics#Rolling Geode|rolling geode]] gift (which has the [[srd/pf2e/compendium/equipment/Relics|earth]] aspect).
 
-Usually, you can determine at least one aspect of a relic easily by looking at the history of the item or personality of the character. For example, if a player decides that their background relic is a rusty mace wielded by the character's great grandmother in battle against rising undead hordes, the mace might have the life aspect, as it was used to slay countless undead creatures. There's no harm in letting the player choose an aspect for a background relic; through play, the item will reveal another aspect associated with it. In the previous example, the mace might reveal itself to have powers against demons as well, in which case its aspects might be celestial and life.
+Usually, you can determine at least one aspect of a relic easily by looking at the history of the item or personality of the character. For example, if a player decides that their background relic is a rusty mace wielded by the character's great grandmother in battle against rising undead hordes, the mace might have the [[srd/pf2e/compendium/equipment/Relics|life]] aspect, as it was used to slay countless undead creatures. There's no harm in letting the player choose an aspect for a background relic; through play, the item will reveal another aspect associated with it. In the previous example, the mace might reveal itself to have powers against demons as well, in which case its aspects might be [[srd/pf2e/compendium/equipment/Relics|celestial]] and life.
 
 ##### Advancing a Relic
 
-As a relic's bearer performs mighty deeds and advances their story, the relic gets stronger. The most basic advancement for a relic is its level, which always matches that of its owner. Weapons, armor, and shields can gain [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Fundamental Runes|fundamental runes]] normally. You decide what, if any, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Property Runes|property runes]] can be added to a given relic; by default, they can't have property runes, like any other specific item.
+As a relic's bearer performs mighty deeds and advances their story, the relic gets stronger. The most basic advancement for a relic is its level, which always matches that of its owner. Weapons, armor, and shields can gain [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/Armor & Armaments#Fundamental Runes|fundamental runes]] normally. You decide what, if any, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/Armor & Armaments#Property Runes|property runes]] can be added to a given relic; by default, they can't have property runes, like any other specific item.
 
 The more complex advancement comes from gifts. The Relic Gifts table shows the typical number of gifts a relic should have at a given level, but relics don't follow this strictly. Rather, gifts arise according to the pace of the story, the needs of the campaign, and the relationship between the character and the relic. Generally speaking, this results in a relic gaining one gift for every 4 levels its bearer has, but this might fluctuate as the campaign progresses. For example, a relic might gain its first gift at 4th level after the bearer defeats a powerful foe. It might then gain its second at 7th, after they perform a special ritual. That same relic might not gain another gift until 13th level and then again at 16th as the player reaches other major milestones.
 
@@ -68,7 +68,7 @@ You decide what gifts a relic gains, generally by either selecting a single gift
 
 ##### Adjusting Treasure
 
-When you incorporate relics into your game, you can adjust the treasure gained by the party down to account for the relics increasing in power. Essentially, some of the treasure from the [[srd/pf2e/books/gm-core/chapter-1-running-the-game/rewards#Treasure by Level|Party Treasure by Level]] table should be replaced with relic seeds and gifts instead. You can use the relic's minimum level, replacing a permanent item of that level, or you can use the gp equivalent. Keep in mind that relic gifts are often a little more powerful than other items with the same Price even when they start out, and they often scale without any additional costs, so PCs with relics will usually be a bit more powerful.
+When you incorporate relics into your game, you can adjust the treasure gained by the party down to account for the relics increasing in power. Essentially, some of the treasure from the [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Rewards#Treasure by Level|Party Treasure by Level]] table should be replaced with relic seeds and gifts instead. You can use the relic's minimum level, replacing a permanent item of that level, or you can use the gp equivalent. Keep in mind that relic gifts are often a little more powerful than other items with the same Price even when they start out, and they often scale without any additional costs, so PCs with relics will usually be a bit more powerful.
 
 If you prefer, you can grant relics in addition to other rewards. This means PCs will be much more powerful, but you're rewarding their investment in the story.
 
@@ -96,43 +96,43 @@ The more gifts there are of one aspect, the more the relic reflects that aspect,
 >
 > ### Air
 >
-> **Armor** (Major) [[srd/pf2e/compendium/equipment/runes/energy-resistant|energy-resistant]] or greater energy resistant (cold or electricity), [[srd/pf2e/compendium/equipment/runes/invisibility|invisibility]]; **Armor** (Grand) [[srd/pf2e/compendium/equipment/runes/winged|winged]]
-> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/returning|returning]]; **Weapon** (Major) [[srd/pf2e/compendium/equipment/runes/animated|animated]], [[srd/pf2e/compendium/equipment/runes/shock|shock]], [[srd/pf2e/compendium/equipment/runes/thundering|thundering]]; **Weapon** (Grand) greater shock, greater thundering
+> **Armor** (Major) [[srd/pf2e/compendium/equipment/runes/Energy-Resistant|energy-resistant]] or greater energy resistant (cold or electricity), [[srd/pf2e/compendium/equipment/runes/Invisibility|invisibility]]; **Armor** (Grand) [[srd/pf2e/compendium/equipment/runes/Winged|winged]]
+> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/Returning|returning]]; **Weapon** (Major) [[srd/pf2e/compendium/equipment/runes/Animated|animated]], [[srd/pf2e/compendium/equipment/runes/Shock|shock]], [[srd/pf2e/compendium/equipment/runes/Thundering|thundering]]; **Weapon** (Grand) greater shock, greater thundering
 >
 > ### Beast
 >
-> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/fearsome|fearsome]], [[srd/pf2e/compendium/equipment/runes/wounding|wounding]]; **Weapon** (Major) greater fearsome, [[srd/pf2e/compendium/equipment/runes/quickstrike|quickstrike]]
+> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/Fearsome|fearsome]], [[srd/pf2e/compendium/equipment/runes/Wounding|wounding]]; **Weapon** (Major) greater fearsome, [[srd/pf2e/compendium/equipment/runes/Quickstrike|quickstrike]]
 >
 > ### Celestial
 >
-> **Weapon** (Major) [[srd/pf2e/compendium/equipment/runes/holy|holy]]
+> **Weapon** (Major) [[srd/pf2e/compendium/equipment/runes/Holy|holy]]
 >
 > ### Death
 >
-> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/ghost-touch|ghost touch]], [[srd/pf2e/compendium/equipment/runes/wounding|wounding]]
+> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/Ghost Touch|ghost touch]], [[srd/pf2e/compendium/equipment/runes/Wounding|wounding]]
 >
 > ### Earth
 >
-> **Armor** (Minor) energy-resistant or greater energy resistant (acid); **Armor** (Major) [[srd/pf2e/compendium/equipment/runes/fortification|fortification]]; **Armor** (Grand) greater fortification
-> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/shifting|shifting]]
+> **Armor** (Minor) energy-resistant or greater energy resistant (acid); **Armor** (Major) [[srd/pf2e/compendium/equipment/runes/Fortification|fortification]]; **Armor** (Grand) greater fortification
+> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/Shifting|shifting]]
 >
 > ### Fiend
 >
 > **Armor** (Minor) energy-resistant or greater energy resistant (acid, cold, or fire)
-> **Weapon** (Major) [[srd/pf2e/compendium/equipment/runes/unholy|unholy]]
+> **Weapon** (Major) [[srd/pf2e/compendium/equipment/runes/Unholy|unholy]]
 >
 > ### Fire
 >
 > **Armor** (Minor) energy-resistant or greater energy resistant (fire)
-> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/flaming|flaming]]; **Weapon** (Major) greater flaming
+> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/Flaming|flaming]]; **Weapon** (Major) greater flaming
 >
 > ### Life
 >
-> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/vitalizing|vitalizing]]; **Weapon** (Major) greater vitalizing
+> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/Vitalizing|vitalizing]]; **Weapon** (Major) greater vitalizing
 >
 > ### Mind
 >
-> **Armor** (Minor) [[srd/pf2e/compendium/equipment/runes/raiment|raiment]]; **Armor** (Major) invisibility
+> **Armor** (Minor) [[srd/pf2e/compendium/equipment/runes/Raiment|raiment]]; **Armor** (Major) invisibility
 >
 > ### Plant
 >
@@ -140,12 +140,12 @@ The more gifts there are of one aspect, the more the relic reflects that aspect,
 >
 > ### Shadow
 >
-> **Armor** (Minor) [[srd/pf2e/compendium/equipment/runes/shadow|shadow]]; **Armor** (Major) greater shadow;
+> **Armor** (Minor) [[srd/pf2e/compendium/equipment/runes/Shadow|shadow]]; **Armor** (Major) greater shadow;
 > **Armor** (Grand) major shadow
 >
 > ### Water
 >
-> **Armor** (Minor) energy-resistant or greater energy resistant (cold or fire), [[srd/pf2e/compendium/equipment/runes/slick|slick]]; **Armor** (Major) greater or major slick
+> **Armor** (Minor) energy-resistant or greater energy resistant (cold or fire), [[srd/pf2e/compendium/equipment/runes/Slick|slick]]; **Armor** (Major) greater or major slick
 > **Weapon** (Minor) shifting
 
 ###### Gift Saves and Spell Attack Modifiers

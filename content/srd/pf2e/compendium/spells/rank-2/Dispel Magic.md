@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
-- **Spell Lists**: Elemental
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Imperial|Imperial]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Imperial|Imperial]]
 - **Range**: 120 feet
 - **Target**: 1 spell effect or unattended magic item
 
-You unravel the magic behind a spell or effect. Attempt a counteract check against the target. If you successfully counteract a magic item, it becomes a mundane item of its type for 10 minutes. This doesn't change the item's non-magical properties. If the target is an [[srd/pf2e/compendium/rules-elements/traits/gm-core/artifact|artifact]] or similar item, you automatically fail.
+You unravel the magic behind a spell or effect. Attempt a counteract check against the target. If you successfully counteract a magic item, it becomes a mundane item of its type for 10 minutes. This doesn't change the item's non-magical properties. If the target is an [[srd/pf2e/compendium/rules-elements/traits/gm-core/Artifact|artifact]] or similar item, you automatically fail.
 
 *Source: Player Core p. 325*

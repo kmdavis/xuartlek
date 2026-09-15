@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Runesmith`
 
-It is impossible for those bearing runes to hide from you. You can sense the presence of all rune-bearers within 60 feet as a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Precise Senses|precise sense]].
+It is impossible for those bearing runes to hide from you. You can sense the presence of all rune-bearers within 60 feet as a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Precise Senses|precise sense]].
 
 *Source: Impossible Magic p. 53*

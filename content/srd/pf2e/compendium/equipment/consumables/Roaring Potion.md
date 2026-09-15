@@ -19,13 +19,13 @@ socialImage: og-image.png
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 Ripples move constantly through a _roaring potion_, a cloudy liquid that growls when you open its container. Drinking it gives you access to two other activations for 1 hour.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Effect** You gain the effects of a _bullhorn_ spell. You can Dismiss the activation.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) **Effect** You gain the effects of a _bullhorn_ spell. You can Dismiss the activation.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once every 1d4 rounds; **Effect** You emit a scream in a 15-foot cone that deals 4d4 sonic damage. Each creature in the area can attempt a DC 24 Fortitude saving throw.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]]) **Frequency** once every 1d4 rounds; **Effect** You emit a scream in a 15-foot cone that deals 4d4 sonic damage. Each creature in the area can attempt a DC 24 Fortitude saving throw.
 
 **Critical Success** The creature is unaffected.
 

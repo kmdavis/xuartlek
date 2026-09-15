@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/winged-warrior|Winged Warrior]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/pluck-from-the-sky|Pluck From the Sky]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Winged Warrior|Winged Warrior]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Pluck From the Sky|Pluck From the Sky]]
 - **Requirements**: Your previous action was Pluck from the Sky using a melee Strike, and the target failed or critically failed its saving throw.
 
 You follow up your enemy's fall, driving you both to the earth in a meteoric descent. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] straight down, increasing the amount the enemy falls by your Fly speed. If you reach the ground, you drive the enemy into the ground, dealing double the normal falling damage.

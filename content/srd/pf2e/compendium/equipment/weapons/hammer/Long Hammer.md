@@ -24,7 +24,7 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Hammer
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Hammer|Hammer]]
 
 The long hammer features a pronged hammer head designed for damaging knees and ankles, counterbalanced by a stout spike and affixed to a reinforced shaft between 5 and 7 feet long.
 

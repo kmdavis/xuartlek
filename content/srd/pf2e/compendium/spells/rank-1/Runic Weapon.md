@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
-- **Spell Lists**: Elemental
-- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#The Inscribed One|The Inscribed One]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
+- **Patron Theme**: [[srd/pf2e/compendium/character/Patrons#The Inscribed One|The Inscribed One]]
 - **Range**: touch
 - **Target**: 1 weapon that is unattended or wielded by a willing creature
 - **Duration**: 1 minute

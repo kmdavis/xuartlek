@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Cleric`  `Fortune`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/seneschal|Seneschal]] (Level 16), [[srd/pf2e/compendium/character/archetypes/mortal-herald|Mortal Herald]] (Level 16)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Seneschal|Seneschal]] (Level 16), [[srd/pf2e/compendium/character/archetypes/Mortal Herald|Mortal Herald]] (Level 16)
 - **Frequency**: once per hour
 - **Trigger**: You fail a saving throw against a mental effect
 
@@ -23,6 +23,6 @@ Your deity sends you a vision of faith to steel you against mental attacks. Rero
 
 ### Premonition of Clarity leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/shared-clarity|Shared Clarity]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Shared Clarity|Shared Clarity]]
 
 *Source: Player Core p. 120*

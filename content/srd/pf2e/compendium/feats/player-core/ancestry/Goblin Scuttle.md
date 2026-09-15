@@ -20,6 +20,6 @@ You take advantage of your ally's movement to adjust your position. You Step.
 
 ### Goblin Scuttle leads to...
 
-[[srd/pf2e/compendium/feats/player-core/ancestry/skittering-scuttle|Skittering Scuttle]]
+[[srd/pf2e/compendium/feats/player-core/ancestry/Skittering Scuttle|Skittering Scuttle]]
 
 *Source: Player Core p. 56*

@@ -15,9 +15,9 @@ socialImage: og-image.png
 `Uncommon`
 
 - **Cast**: 1 day
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (expert; you must be an [[srd/pf2e/compendium/rules-elements/traits/player-core/angel|angel]])
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] (expert; you must be an [[srd/pf2e/compendium/rules-elements/traits/player-core/Angel|angel]])
 
-You transport yourself to either a celestial plane or a world in [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] where worshippers of your patron can be found. You must be of no higher level than double _angelic messenger's_ spell rank.
+You transport yourself to either a celestial plane or a world in [[srd/pf2e/compendium/gm/Planes#The Universe|the Universe]] where worshippers of your patron can be found. You must be of no higher level than double _angelic messenger's_ spell rank.
 
 **Critical Success** As success, but if you've never visited that plane or world before, you appear right in front of the message's intended recipient.
 

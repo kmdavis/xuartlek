@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Champion`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/causes#Redemption|redemption cause]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Causes#Redemption|redemption cause]]
 
-Guilt clouds the minds of those who ignore your [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Glimpse of Redemption|Glimpse of Redemption]]. Instead of making an enemy who refuses redemption [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 2]], you can make it stupefied 2 for the same duration.
+Guilt clouds the minds of those who ignore your [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Glimpse of Redemption|Glimpse of Redemption]]. Instead of making an enemy who refuses redemption [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled 2]], you can make it stupefied 2 for the same duration.
 
 *Source: Player Core 2 p. 94*

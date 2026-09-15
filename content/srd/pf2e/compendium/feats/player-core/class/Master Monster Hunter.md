@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Ranger`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]; [[srd/pf2e/compendium/feats/player-core/archetype/monster-hunter|Monster Hunter]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]; [[srd/pf2e/compendium/feats/player-core/archetype/Monster Hunter|Monster Hunter]]
 
 You have a nearly encyclopedic knowledge of all creatures of the world. You can use Nature to Recall Knowledge to identify any creature. In addition, you gain the benefits of Monster Hunter (and Monster Warden, if you have it) on a success as well as a critical success.
 
 ### Master Monster Hunter leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/legendary-monster-hunter|Legendary Monster Hunter]]
+[[srd/pf2e/compendium/feats/player-core/class/Legendary Monster Hunter|Legendary Monster Hunter]]
 
 *Source: Player Core p. 161*

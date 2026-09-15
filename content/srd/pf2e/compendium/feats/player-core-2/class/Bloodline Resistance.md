@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Sorcerer`
 
-Your magical blood makes you more resistant to magic. You gain a +1 status bonus to saving throws against spells and [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] effects.
+Your magical blood makes you more resistant to magic. You gain a +1 status bonus to saving throws against spells and [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]] effects.
 
 *Source: Player Core 2 p. 154*

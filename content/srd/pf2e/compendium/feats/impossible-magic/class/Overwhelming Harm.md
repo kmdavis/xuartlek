@@ -14,6 +14,8 @@ socialImage: og-image.png
 
 `Necromancer`
 
-Your ability to manipulate void energy has led you to the conclusion that more is always better. Whenever you cast the 3-action version of [[srd/pf2e/compendium/spells/rank-1/harm|_harm_]], you can extend the area to a 60-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]].
+- **Prerequisites**: mastery of life and death
+
+Your ability to manipulate void energy has led you to the conclusion that more is always better. Whenever you cast the 3-action version of [[srd/pf2e/compendium/spells/rank-1/Harm|_harm_]], you can extend the area to a 60-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]].
 
 *Source: Impossible Magic p. 35*

@@ -17,10 +17,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Metal`  `Sonic`
 
-- **Traditions**: Arcane, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Target**: 1 metal object
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Fortitude
 - **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] for up to 1 minute
 
 You conjure a metal tuning fork and strike it, the vibration creating a soft ping that rattles the foundations of the target. Whenever you Cast this Spell and the first time you sustain it on subsequent turns, the target object produces the same note in an ear-piercing frequency that deals 1d12 sonic damage to all creatures in its space and all adjacent spaces (basic Fortitude save).

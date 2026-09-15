@@ -21,6 +21,6 @@ When danger calls, you have a strange knack for coming out on top. You gain a +2
 
 ### Charmed Life leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/incredible-luck|Incredible Luck]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Incredible Luck|Incredible Luck]]
 
 *Source: Player Core 2 p. 165*

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ranger|Ranger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/ranger-dedication|Ranger Dedication]]; class granting no more Hit Points per level than 8 + your Constitution modifier
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ranger|Ranger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Ranger Dedication|Ranger Dedication]]; class granting no more Hit Points per level than 8 + your Constitution modifier
 
 You gain 3 additional Hit Points for each ranger archetype class feat you have. As you continue selecting ranger archetype class feats, you continue to gain additional Hit Points in this way.
 

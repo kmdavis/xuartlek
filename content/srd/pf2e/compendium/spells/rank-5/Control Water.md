@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Water`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: Aminara, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/bokrug|Bokrug]], [[srd/pf2e/compendium/deities/other-gods/embaral|Embaral]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]], [[srd/pf2e/compendium/deities/other-gods/hanspur|Hanspur]], [[srd/pf2e/compendium/deities/sakhil-tormentors/hataam|Hataam]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/isis|Isis]], Lady Nanbyo, [[srd/pf2e/compendium/deities/elemental-lords/lysianassa|Lysianassa]], Neith, [[srd/pf2e/compendium/deities/qlippoth-lords/oaur-ooung|Oaur-Ooung]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/orgesh|Orgesh]], Pharimia, Seafarer's Hope, Srikalis, Sritaming, and Sribaril, [[srd/pf2e/compendium/deities/covenants/waves-of-the-boundless-sea|Waves of the Boundless Sea]], [[srd/pf2e/compendium/deities/goblin-gods/zogmugot|Zogmugot]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Aminara, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Bokrug|Bokrug]], [[srd/pf2e/compendium/deities/other-gods/Embaral|Embaral]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Gozreh|Gozreh]], [[srd/pf2e/compendium/deities/other-gods/Hanspur|Hanspur]], [[srd/pf2e/compendium/deities/sakhil-tormentors/Hataam|Hataam]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/Isis|Isis]], Lady Nanbyo, [[srd/pf2e/compendium/deities/elemental-lords/Lysianassa|Lysianassa]], Neith, [[srd/pf2e/compendium/deities/qlippoth-lords/Oaur-Ooung|Oaur-Ooung]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Orgesh|Orgesh]], Pharimia, Seafarer's Hope, Srikalis, Sritaming, and Sribaril, [[srd/pf2e/compendium/deities/covenants/Waves of the Boundless Sea|Waves of the Boundless Sea]], [[srd/pf2e/compendium/deities/goblin-gods/Zogmugot|Zogmugot]]
 - **Range**: 500 feet
 - **Area**: 50 feet long by 50 feet wide
 - **Defense**: Fortitude (see text)

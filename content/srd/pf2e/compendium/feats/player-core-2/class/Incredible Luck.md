@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Fortune`  `Swashbuckler`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/charmed-life|Charmed Life]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Charmed Life|Charmed Life]]
 
 You always seem to bounce back from the worst. When you use Charmed Life, roll the save twice (including the +2 circumstance bonus from Charmed Life) and use the better result.
 

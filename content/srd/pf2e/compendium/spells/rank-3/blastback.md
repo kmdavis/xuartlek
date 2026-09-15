@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Air`  `Concentrate`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Trigger**: You fall more than 10 feet.
 - **Area**: 20-foot emanation
 - **Defense**: basic Reflex

@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Teleportation`
 
-- **Traditions**: Arcane, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Requirements**: You haven’t [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Commanded]] your companion this turn.
 - **Range**: 30 feet
 - **Target**: your companion

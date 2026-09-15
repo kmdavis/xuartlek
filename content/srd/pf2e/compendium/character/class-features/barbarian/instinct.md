@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 Your rage wells up from a dominant instinct—one you learned from a tradition or that comes naturally to you. Your instinct gives you an ability, requires you to avoid certain behaviors, grants you increased damage and resistances at higher levels, and allows you to select feats tied to your instinct. 
 
-Instincts can be found in [[srd/pf2e/compendium/character/instincts/instincts|Instincts]].
+Instincts can be found [[srd/pf2e/compendium/character/instincts/instincts|here]].
 
 *Source: Player Core 2 p. 70*

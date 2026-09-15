@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/other-gods/brigh|Brigh]], [[srd/pf2e/compendium/deities/eldest/imbrex|Imbrex]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/Brigh|Brigh]], [[srd/pf2e/compendium/deities/eldest/Imbrex|Imbrex]]
 - **Range**: 30 feet
 - **Target**: 1 enemy of level 15 or lower
 - **Defense**: Fortitude
@@ -24,7 +24,7 @@ socialImage: og-image.png
 
 You create a temporary duplicate of an enemy to fight on your behalf. The target can attempt a Fortitude save to disrupt the spell. The duplicate appears in an unoccupied space adjacent to the target and has the target's attack modifier, AC, saving throw modifiers, Perception, and skill modifiers, but it has only 70 Hit Points and lacks the target's special abilities, including immunities, resistances, and weaknesses. It has no magic items except _weapon potency_ runes.
 
- The duplicate gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]] trait, and it can only Stride and Strike. Its Strikes deal the target's normal damage but don't apply added effects, since it doesn't have special abilities. The spell automatically ends if the duplicate's Hit Points drop to 0.
+ The duplicate gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Minion|minion]] trait, and it can only Stride and Strike. Its Strikes deal the target's normal damage but don't apply added effects, since it doesn't have special abilities. The spell automatically ends if the duplicate's Hit Points drop to 0.
 
  The duplicate attacks your enemies to the best of its abilities. You can also try to give it additional instructions; when you Sustain the spell, you can also Command a Minion as part of your action, but the GM determines whether the duplicate follows your command.
 

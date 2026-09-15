@@ -24,24 +24,24 @@ Intelligence or Wisdom
 
 **Divine Sanctification** can choose holy or unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/fist|jaw]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/brawling/Fist|jaw]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Fate|Fate]], [[srd/pf2e/compendium/character/domains#Naga|Naga]], [[srd/pf2e/compendium/character/domains#Sorrow|Sorrow]], [[srd/pf2e/compendium/character/domains#Truth|Truth]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Fate|Fate]], [[srd/pf2e/compendium/character/Domains#Naga|Naga]], [[srd/pf2e/compendium/character/Domains#Sorrow|Sorrow]], [[srd/pf2e/compendium/character/Domains#Truth|Truth]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Soul|Soul]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Soul|Soul]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/charm|Charm]]
+[[srd/pf2e/compendium/spells/rank-1/Charm|Charm]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/animal-form|Animal Form]]
+[[srd/pf2e/compendium/spells/rank-2/Animal Form|Animal Form]]
 (snake only)
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/clairvoyance|Clairvoyance]]
+[[srd/pf2e/compendium/spells/rank-4/Clairvoyance|Clairvoyance]]
 
 *Source: Divine Mysteries p. 322*

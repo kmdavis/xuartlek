@@ -15,9 +15,9 @@ socialImage: og-image.png
 `Tripkee`
 
 - **Frequency**: once per hour
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
-- **Trigger**: A creature with the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beast]], [[srd/pf2e/compendium/rules-elements/traits/player-core/elemental|elemental]], [[srd/pf2e/compendium/rules-elements/languages#Fey|fey]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fungus|fungus]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] trait attacks you, and you can see the attacker.
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
+- **Trigger**: A creature with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Beast|beast]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Elemental|elemental]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|fey]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fungus|fungus]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]] trait attacks you, and you can see the attacker.
 
-Your canny understanding of natural and primal creatures helps you predict and dodge their attacks. The triggering attack roll targets your Nature DC instead of your AC. Though this allows you to avoid taking penalties to your AC, it doesn't remove any conditions or other effects causing such penalties. For example, an enemy with sneak attack would still deal extra damage to you for being [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]], even though you wouldn't take the –2 circumstance penalty against the attack.
+Your canny understanding of natural and primal creatures helps you predict and dodge their attacks. The triggering attack roll targets your Nature DC instead of your AC. Though this allows you to avoid taking penalties to your AC, it doesn't remove any conditions or other effects causing such penalties. For example, an enemy with sneak attack would still deal extra damage to you for being [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]], even though you wouldn't take the –2 circumstance penalty against the attack.
 
 *Source: Player Core 2 p. 38*

@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Gunslinger`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/ways#Way of the Sniper|way of the sniper]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/Ways#Way of the Sniper|way of the sniper]]
 - **Requirements**: You're wielding a loaded firearm or crossbow.
 
-You attempt to finish your target with a final, well-placed shot. Make a crossbow or firearm Strike. If you've damaged the target within the last minute with the same weapon and you get a critical success on your attack roll, the target must succeed at a Fortitude save against your class DC or die; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]] effect. A creature that survives is temporarily immune for 1 day. Creatures with no head (such as dullahans or oozes) are immune to this ability, and creatures with redundant heads (such as ettins) might survive the destruction of a head.
+You attempt to finish your target with a final, well-placed shot. Make a crossbow or firearm Strike. If you've damaged the target within the last minute with the same weapon and you get a critical success on your attack roll, the target must succeed at a Fortitude save against your class DC or die; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|incapacitation]] effect. A creature that survives is temporarily immune for 1 day. Creatures with no head (such as dullahans or oozes) are immune to this ability, and creatures with redundant heads (such as ettins) might survive the destruction of a head.
 
 *Source: Guns & Gears (Remastered) p. 118*

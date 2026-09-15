@@ -22,6 +22,6 @@ They told you there was no way that explosions could heal people, but they were 
 
  At 3rd level, and every 2 levels thereafter, increase the healing by 1d10.
 
-**Special** If your innovation is a [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]], it can take this action rather than you, though because it's not a living creature, it can't use the ability on itself.
+**Special** If your innovation is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Minion|minion]], it can take this action rather than you, though because it's not a living creature, it can't use the ability on itself.
 
 *Source: Guns & Gears (Remastered) p. 26*

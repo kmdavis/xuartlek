@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Summon`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: Alocer, [[srd/pf2e/compendium/deities/daemon-harbingers/anogetz|Anogetz]], [[srd/pf2e/compendium/deities/other-gods/atrogine|Atrogine]], [[srd/pf2e/compendium/deities/demon-lords/baphomet|Baphomet]], [[srd/pf2e/compendium/deities/vudrani-gods/chamidu|Chamidu]], Etaris, [[srd/pf2e/compendium/deities/faiths-philosophies/green-faith|Green Faith]], Lao Shu Po, Rowdrosh, [[srd/pf2e/compendium/deities/azlanti-pantheon/sicva|Sicva]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: Alocer, [[srd/pf2e/compendium/deities/daemon-harbingers/Anogetz|Anogetz]], [[srd/pf2e/compendium/deities/other-gods/Atrogine|Atrogine]], [[srd/pf2e/compendium/deities/demon-lords/Baphomet|Baphomet]], [[srd/pf2e/compendium/deities/vudrani-gods/Chamidu|Chamidu]], Etaris, [[srd/pf2e/compendium/deities/faiths-philosophies/Green Faith|Green Faith]], Lao Shu Po, Rowdrosh, [[srd/pf2e/compendium/deities/azlanti-pantheon/Sicva|Sicva]]
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 
-You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] trait and whose level is –1 to fight for you.
+You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animal]] trait and whose level is –1 to fight for you.
 
 ---
 **Heightened (2nd)** Level 1.

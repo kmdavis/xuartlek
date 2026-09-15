@@ -1,6 +1,7 @@
 ---
 title: "War on the Horizon"
 aliases: ["War on the Horizon"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3430"
 citation: "Battlecry! pg. 197"
-socialImage: og-image.png
 ---
 
 # War on the Horizon

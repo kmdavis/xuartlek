@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Focus`  `Manipulate`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Undead|Undead]]
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Undead|Undead]]
 - **Range**: 60 feet
 - **Area**: 20-foot radius on the ground
 - **Defense**: Reflex
@@ -31,7 +31,7 @@ Hundreds of skeletal arms erupt from the ground in the area, clawing at creature
 
 **Failure** The creature takes full damage and a –10-foot circumstance penalty to its Speeds for 1 round.
 
-**Critical Failure** The creature takes double damage and is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] for 1 round or until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]].
+**Critical Failure** The creature takes double damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] for 1 round or until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]].
 
 ---
 **Heightened (+1)** The damage increases by 2d6.

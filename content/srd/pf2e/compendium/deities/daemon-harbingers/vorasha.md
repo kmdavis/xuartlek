@@ -24,23 +24,23 @@ Constitution or Wisdom
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/spiked-chain|Spiked Chain]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/Spiked Chain|Spiked Chain]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Decay|Decay]], [[srd/pf2e/compendium/character/domains#Dragon|Dragon]], [[srd/pf2e/compendium/character/domains#Magic|Magic]], [[srd/pf2e/compendium/character/domains#Water|Water]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Decay|Decay]], [[srd/pf2e/compendium/character/Domains#Dragon|Dragon]], [[srd/pf2e/compendium/character/Domains#Magic|Magic]], [[srd/pf2e/compendium/character/Domains#Water|Water]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Naga|Naga]], [[srd/pf2e/compendium/character/domains#Pain|Pain]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Naga|Naga]], [[srd/pf2e/compendium/character/Domains#Pain|Pain]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/spider-sting|Spider Sting]]
+[[srd/pf2e/compendium/spells/rank-1/Spider Sting|Spider Sting]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/toxic-cloud|Toxic Cloud]]
+[[srd/pf2e/compendium/spells/rank-5/Toxic Cloud|Toxic Cloud]]
 
 - **8th**
-[[srd/pf2e/compendium/spells/rank-8/monstrosity-form|Monstrosity Form]]
+[[srd/pf2e/compendium/spells/rank-8/Monstrosity Form|Monstrosity Form]]
 
 *Source: Divine Mysteries p. 302*

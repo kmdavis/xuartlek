@@ -15,15 +15,15 @@ socialImage: og-image.png
 
 `Monk`  `Stance`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]] (Level 4), [[srd/pf2e/compendium/character/archetypes/wild-mimic|Wild Mimic]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Martial Artist|Martial Artist]] (Level 4), [[srd/pf2e/compendium/character/archetypes/Wild Mimic|Wild Mimic]] (Level 4)
 - **Requirements**: You are unarmored.
 
-Your arms flutter like a crane's wings. You gain a +1 circumstance bonus to AC, but the only Strikes you can make are crane wing attacks. These deal 1d6 bludgeoning damage; are in the brawling group; and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] traits.
+Your arms flutter like a crane's wings. You gain a +1 circumstance bonus to AC, but the only Strikes you can make are crane wing attacks. These deal 1d6 bludgeoning damage; are in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group; and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] traits.
 
  While in Crane Stance, reduce the DC for [[srd/pf2e/compendium/rules-elements/actions/player-core#High Jump|High Jump]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Long Jump|Long Jump]] by 5, and when you [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]], you can move an additional 5 feet horizontally or 2 feet vertically.
 
 ### Crane Stance leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/crane-flutter|Crane Flutter]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Crane Flutter|Crane Flutter]]
 
 *Source: Player Core 2 p. 118*

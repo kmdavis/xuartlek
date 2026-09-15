@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/fighter|Fighter]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/basic-maneuver|Basic Maneuver]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Fighter|Fighter]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Basic Maneuver|Basic Maneuver]]
 
 You gain a fighter feat. For the purpose of meeting its prerequisites, your fighter level is equal to half your character level.
 

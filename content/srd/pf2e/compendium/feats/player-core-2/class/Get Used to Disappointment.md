@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Bravado`  `Swashbuckler`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 - **Requirements**: Your turn begins, and one target within 30 feet failed an attack roll or skill check against you on its last turn.
 
 You capitalize on an opponent's failure with smug attitude and swagger, reminding them of the gap in skill between you and your opponent. You attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] the opponent. Regardless of the result, the target becomes temporarily immune for 1 minute.

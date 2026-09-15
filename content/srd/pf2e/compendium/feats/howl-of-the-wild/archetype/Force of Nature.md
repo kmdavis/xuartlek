@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Archetype`  `Healing`  `Primal`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/werecreature|Werecreature]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/werecreature-dedication|Werecreature Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Werecreature|Werecreature]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Werecreature Dedication|Werecreature Dedication]]
 
-You're a nigh-unstoppable killing machine, with only [[srd/pf2e/compendium/equipment/materials/silver|silver]] able to quell your rampage. When in hybrid or animal shape, you gain fast healing 5. If you take damage from a silver weapon, your fast healing deactivates until the end of your next turn.
+You're a nigh-unstoppable killing machine, with only [[srd/pf2e/compendium/equipment/materials/Silver|silver]] able to quell your rampage. When in hybrid or animal shape, you gain fast healing 5. If you take damage from a silver weapon, your fast healing deactivates until the end of your next turn.
 
 *Source: Howl of the Wild p. 79*

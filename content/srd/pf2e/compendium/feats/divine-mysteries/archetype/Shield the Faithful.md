@@ -17,16 +17,16 @@ socialImage: og-image.png
 
 `Archetype`  `Aura`  `Divine`  `Sanctified`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/mortal-herald|Mortal Herald]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Mortal Herald|Mortal Herald]]
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/mortal-herald-dedication|Mortal Herald Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Mortal Herald Dedication|Mortal Herald Dedication]]
 
-You and those closest to you are protected by your deity’s power. For 1 minute, you and all allies within 10 feet of you gain a +1 item bonus to AC and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance|resistance]] 10 to spirit damage. In addition, when a creature adjacent to you hits you with a melee attack, or when a creature touches you or hits you with an unarmed attack, that creature takes 5 [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]] damage.
+You and those closest to you are protected by your deity’s power. For 1 minute, you and all allies within 10 feet of you gain a +1 item bonus to AC and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance|resistance]] 10 to spirit damage. In addition, when a creature adjacent to you hits you with a melee attack, or when a creature touches you or hits you with an unarmed attack, that creature takes 5 [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]] damage.
 
 At 20th level, the spirit resistance increases to 15 and the spirit damage increases to 10.
 
 ### Shield the Faithful leads to...
 
-[[srd/pf2e/compendium/feats/divine-mysteries/archetype/healing-sanctuary|Healing Sanctuary]]
+[[srd/pf2e/compendium/feats/divine-mysteries/archetype/Healing Sanctuary|Healing Sanctuary]]
 
 *Source: Divine Mysteries p. 280*

@@ -28,14 +28,14 @@ modifier: 29
 perception:
   - name: "Perception"
     desc: "+29; darkvision, manifold vision, tremorsense (imprecise) 30 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Petran|Petran]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +28, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +27, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +25"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +28, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +27, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +25"
 abilityMods: [8, 4, 5, 2, 5, 5]
 abilities_top:
   - name: "Implant Core"
-    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) The grikkitog implants its core into an adjacent section of earth or stone, melding seamlessly and changing its visual appearance to match the surrounding rock. It's [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] but automatically succeeds at its [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]] the stone around it; creatures actively searching for it can still attempt Perception checks against its Deception DC as normal. A grikkitog can release its implantation as a free action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] trait. A grikkitog's infestation aura and manifold vision are only active while implanted."
+    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]]) The grikkitog implants its core into an adjacent section of earth or stone, melding seamlessly and changing its visual appearance to match the surrounding rock. It's [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] but automatically succeeds at its [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]] the stone around it; creatures actively searching for it can still attempt Perception checks against its Deception DC as normal. A grikkitog can release its implantation as a free action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]] trait. A grikkitog's infestation aura and manifold vision are only active while implanted."
   - name: "Manifold Vision"
     desc: "While its core is implanted, the grikkitog can see through the eyes it creates throughout the area of its infestation aura, gaining the benefits of all-around vision."
 ac: 36
@@ -48,20 +48,20 @@ health:
     desc: "200; __Resistances__ 10 (except adamantine)"
 abilities_mid:
   - name: "Infestation Aura"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) 120 feet. While its core is implanted, a grikkitog infests all earth and stone within 120 feet, as long as there is a contiguous physical connection between the earth, including stone objects touching the ground. This effect spreads even if the grikkitog does not have line of effect, though it can affect earth or stone on the surface and exposed to the air only if at least part of its core is exposed as well. Within the aura, it can grow maws and eyes everywhere. It can make jaws attacks against any creature, originating from any earth or stone in the aura adjacent to that creature. Determine cover from the origin point of the attack, not from the grikkitog's core."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Earth|earth]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]]) 120 feet. While its core is implanted, a grikkitog infests all earth and stone within 120 feet, as long as there is a contiguous physical connection between the earth, including stone objects touching the ground. This effect spreads even if the grikkitog does not have line of effect, though it can affect earth or stone on the surface and exposed to the air only if at least part of its core is exposed as well. Within the aura, it can grow maws and eyes everywhere. It can make jaws attacks against any creature, originating from any earth or stone in the aura adjacent to that creature. Determine cover from the origin point of the attack, not from the grikkitog's core."
 speed: "20 feet; burrow 20 feet, earth glide"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +29 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 3d12+14 piercing plus barbed maw"
+    desc: "⬻ jaws +29 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]]) __Damage__ 3d12+14 piercing plus barbed maw"
 abilities_bot:
   - name: "Barbed Maw"
     desc: "⭓"
   - name: "Trigger"
     desc: "The grikkitog hits a creature with a jaws Strike"
   - name: "Effect"
-    desc: "The grikkitog sinks its barbed teeth into the target, which must succeed at a DC 34 Reflex save or be [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]]. While immobilized, the victim takes 3d8 persistent bleed damage and the grikkitog feeds upon its flesh. The creature is immobilized until the grikkitog ends the effect as a free action or the target succeeds at a DC 38 check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]]. The grikkitog can immobilize any number of creatures with these maws."
+    desc: "The grikkitog sinks its barbed teeth into the target, which must succeed at a DC 34 Reflex save or be [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]]. While immobilized, the victim takes 3d8 persistent bleed damage and the grikkitog feeds upon its flesh. The creature is immobilized until the grikkitog ends the effect as a free action or the target succeeds at a DC 38 check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]]. The grikkitog can immobilize any number of creatures with these maws."
   - name: "Earth Glide"
-    desc: "The grikkitog can [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]] through dirt and stone at its full burrow Speed, leaving no tunnels or signs of its passing. Grikkitog Origins Grikkitogs often feature as bogeymen in scary stories told by denizens of the [[srd/pf2e/compendium/gm/planes#Plane of Earth|Plane of Earth]]. Those who recall the wars between the elemental lords believe the first grikkitog was created as an experimental weapon by [[srd/pf2e/compendium/deities/elemental-lords/ayrzul|Ayrzul]], the Fossilized King of the Elemental Plane of Earth. Yet the evil elemental lord did not realize the raw power of his creation. The grikkitog's hunger grew so ravenous that it escaped containment, infested an earth elemental warden, and began to spread across the planes. Now grikkitogs burrow throughout [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]], devouring the unwary."
+    desc: "The grikkitog can [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]] through dirt and stone at its full burrow Speed, leaving no tunnels or signs of its passing. Grikkitog Origins Grikkitogs often feature as bogeymen in scary stories told by denizens of the [[srd/pf2e/compendium/gm/Planes#Plane of Earth|Plane of Earth]]. Those who recall the wars between the elemental lords believe the first grikkitog was created as an experimental weapon by [[srd/pf2e/compendium/deities/elemental-lords/Ayrzul|Ayrzul]], the Fossilized King of the Elemental Plane of Earth. Yet the evil elemental lord did not realize the raw power of his creation. The grikkitog's hunger grew so ravenous that it escaped containment, infested an earth elemental warden, and began to spread across the planes. Now grikkitogs burrow throughout [[srd/pf2e/compendium/gm/Planes#The Universe|the Universe]], devouring the unwary."
 sourcebook: "_Monster Core_, page 183."
 ```
 

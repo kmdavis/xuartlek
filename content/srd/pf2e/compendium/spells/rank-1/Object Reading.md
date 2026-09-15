@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Tradition**: Occult
+- **Tradition**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Deities**: Aerekostes, Gaasham
 - **Range**: touch
 - **Target**: 1 object

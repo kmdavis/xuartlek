@@ -14,11 +14,11 @@ socialImage: og-image.png
 
 `Concentrate`
 
-- **Traditions**: Arcane, Occult
-- **Deity**: [[srd/pf2e/compendium/deities/sakhil-tormentors/dachzerul|Dachzerul]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deity**: [[srd/pf2e/compendium/deities/sakhil-tormentors/Dachzerul|Dachzerul]]
 
 You leap through time, appearing across the battlefield in the blink of an eye. You gain 2 actions, each of which must be used to [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]], Stand, Step, or Stride. If you have an appropriate Speed, you can add Burrow, Climb, Fly, or Swim to this list.
 
-While you take these actions, time pauses. All other creatures are completely unaware of your actions, can’t speak, and can’t use any actions that would be triggered by your movement. While you’re taking these actions, you can’t take any other actions, including any that would be triggered by the move actions. Once the actions are complete, time starts again, and to onlookers, you seem to have suddenly teleported across the distance you traveled. Leaping forward through time is disorienting, so if you use _time jump_ again within 1 minute of using the spell, you become [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 4 for 1 minute.
+While you take these actions, time pauses. All other creatures are completely unaware of your actions, can’t speak, and can’t use any actions that would be triggered by your movement. While you’re taking these actions, you can’t take any other actions, including any that would be triggered by the move actions. Once the actions are complete, time starts again, and to onlookers, you seem to have suddenly teleported across the distance you traveled. Leaping forward through time is disorienting, so if you use _time jump_ again within 1 minute of using the spell, you become [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] 4 for 1 minute.
 
 *Source: Impossible Magic p. 167*

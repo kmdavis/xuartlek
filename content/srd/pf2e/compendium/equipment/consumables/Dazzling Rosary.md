@@ -20,7 +20,7 @@ socialImage: og-image.png
 - **Bulk**: L
 - **Activate**: Cast a Spell
 
-When energy courses through these lustrous beads, they glow brightly in the sacred colors of the spellcaster’s faith. A _[[srd/pf2e/compendium/spells/rank-2/spiritual-armament|_spiritual armament_]]_ spell empowered with this catalyst flashes with bright light when it critically [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strikes]] a target, causing the target to be [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] until the beginning of your next turn. The type of rosary determines the maximum spell rank of _spiritual armament_ that can use the rosary as a catalyst.
+When energy courses through these lustrous beads, they glow brightly in the sacred colors of the spellcaster’s faith. A _[[srd/pf2e/compendium/spells/rank-2/Spiritual Armament|_spiritual armament_]]_ spell empowered with this catalyst flashes with bright light when it critically [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strikes]] a target, causing the target to be [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] until the beginning of your next turn. The type of rosary determines the maximum spell rank of _spiritual armament_ that can use the rosary as a catalyst.
 
 ### Dazzling Rosary
 

@@ -21,6 +21,6 @@ You break a trinket, such as a lodestone or jade pendant, in two, creating a sym
 
 ### Paired Link leads to...
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/class/seven-part-link|Seven-Part Link]]
+[[srd/pf2e/compendium/feats/dark-archives-remastered/class/Seven-Part Link|Seven-Part Link]]
 
 *Source: Dark Archives (Remastered) p. 44*

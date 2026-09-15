@@ -24,11 +24,11 @@ Charisma or Dexterity
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/dart/blowgun|Blowgun]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/dart/Blowgun|Blowgun]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Air|Air]], [[srd/pf2e/compendium/character/domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Passion|Passion]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Air|Air]], [[srd/pf2e/compendium/character/Domains#Confidence|Confidence]], [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Passion|Passion]]
 
 **Alternate Domains** 
 
@@ -41,6 +41,6 @@ Seashell of Stolen Sound
 Infectious Melody
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/hallucination|Hallucination]]
+[[srd/pf2e/compendium/spells/rank-5/Hallucination|Hallucination]]
 
 *Source: Divine Mysteries p. 310*

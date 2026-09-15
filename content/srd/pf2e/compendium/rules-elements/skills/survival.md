@@ -25,7 +25,7 @@ Category
 Consumable
 Note
 
-[[srd/pf2e/compendium/equipment/staves/staff-of-providence|Staff of Providence]]
+[[srd/pf2e/compendium/equipment/staves/Staff of Providence|Staff of Providence]]
 +1
 0
 Staves
@@ -60,7 +60,7 @@ Other Worn Items
 No
 Item bonus to Survival checks to Subsist. +3 if in mountainous terrain
 
-[[srd/pf2e/compendium/equipment/worn-items/trackers-goggles|Tracker's Goggles]]
+[[srd/pf2e/compendium/equipment/worn-items/Tracker's Goggles|Tracker's Goggles]]
 +1
 3
 Worn Items
@@ -81,12 +81,19 @@ Held Items
 No
 Temporary item bonus to Survival
 
-[[srd/pf2e/compendium/equipment/adventuring-gear/hoax-hunters-kit|Hoax-Hunter's Kit]]
+[[srd/pf2e/compendium/equipment/adventuring-gear/Hoax-Hunter's Kit|Hoax-Hunter's Kit]]
 +1
 3
 Adventuring Gear
 No
 Track a creature you are studying
+
+Mantle of Far Horizons
++1
+3
+Held Items
+No
+Item bonus to Survival checks made to Sense Direction.
 
 Essence Charm
 +1
@@ -95,7 +102,7 @@ Other Worn Items
 No
 Item bonus to a check of the crafter's choice
 
-[[srd/pf2e/compendium/equipment/held-items/atlas-arcane|Atlas Arcane]]
+[[srd/pf2e/compendium/equipment/held-items/Atlas Arcane|Atlas Arcane]]
 +1
 7
 Held Items
@@ -116,7 +123,7 @@ Other Worn Items
 No
 item bonus to Survival checks
 
-[[srd/pf2e/compendium/equipment/worn-items/trackers-goggles|Tracker's Goggles (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/Tracker's Goggles|Tracker's Goggles (Greater)]]
 +2
 9
 Worn Items
@@ -130,7 +137,7 @@ Held Items
 No
 item bonus to sense direction when using the stars to orient themself
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -151,7 +158,7 @@ Worn Items
 No
 Item bonus to Survival checks.
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items

@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Electricity`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30-feet
 - **Target**: 1 creature
 - **Defense**: Reflex
@@ -28,9 +28,9 @@ You conjure a crackling lasso of pure electricity, hurling it at a creature to b
 
 **Success** The target takes 2d12 electricity damage.
 
-**Failure** The target takes 2d12 electricity damage and is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] until the end of your next turn, but it can [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]]. On subsequent turns, if the target is still immobilized by the lasso, you can Sustain the spell to deal 2 electricity damage and keep the target immobilized until the end of your next turn.
+**Failure** The target takes 2d12 electricity damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] until the end of your next turn, but it can [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]]. On subsequent turns, if the target is still immobilized by the lasso, you can Sustain the spell to deal 2 electricity damage and keep the target immobilized until the end of your next turn.
 
-**Critical Failure** As failure, but the target is also [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]].
+**Critical Failure** As failure, but the target is also [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]].
 
 ---
 **Heightened (+1)** The initial electricity damage increases by 1d12, and the electricity damage dealt when you Sustain the spell increases by 2.

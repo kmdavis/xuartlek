@@ -17,9 +17,9 @@ socialImage: og-image.png
 `Consumable`  `Expandable`  `Magical`
 
 - **Usage**: held in 1 hand
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-Every _marvelous miniature_ is an exceptionally small replica of a real creature or object. The miniature is made from wood, pewter, or other simple materials, and features a rune etched into the underside of the replica's base. _Marvelous miniatures_ sometimes come packaged together; for example, the camping set features the boat, campfire, and horse miniatures. Activating a _marvelous miniatur_e causes it to transform into another creature or object, which then can be used as normal for that object. Each miniature can be activated only once, with most of them permanently becoming the item in their description.
+Every _marvelous miniature_ is an exceptionally small replica of a real creature or object. The miniature is made from wood, pewter, or other simple materials, and features a rune etched into the underside of the replica's base. _Marvelous miniatures_ sometimes come packaged together; for example, the camping set features the boat, campfire, and horse miniatures. Activating a _marvelous miniature_ causes it to transform into another creature or object, which then can be used as normal for that object. Each miniature can be activated only once, with most of them permanently becoming the item in their description.
 
 ### Marvelous Miniature (Boat)
 

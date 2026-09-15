@@ -20,6 +20,6 @@ socialImage: og-image.png
 - **Usage**: implanted
 - **Bulk**: 1
 
-A pair of feathered wings are anchored to your shoulder bones. You gain a 25-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Fly Speed|fly Speed]].
+A pair of feathered wings are anchored to your shoulder bones. You gain a 25-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Fly Speed|fly Speed]].
 
 *Source: Howl of the Wild p. 99*

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Inventor`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/class/gadget-specialist|Gadget Specialist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/class/Gadget Specialist|Gadget Specialist]]
 
-They thought you had used up all your devices, but they thought wrong! You have a few more gadgets up your sleeve than others expect. Increase the number of temporary gadgets you can create each day by 2.
+They thought you had used up all your devices, but they thought wrong! You have a few more [gadgets](https://2e.aonprd.com/Equipment.aspx?Category=15&Subcategory=71) up your sleeve than others expect. Increase the number of temporary gadgets you can create each day by 2.
 
 **Special** You can select this feat a second time if you are 14th level or higher.
 

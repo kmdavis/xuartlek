@@ -17,7 +17,7 @@ socialImage: og-image.png
 `Concentrate`  `Manipulate`  `Metal`
 
 - **PFS Note**: Any spells which require metal to function require the PC to be holding at least one chunk of that metal or an item made of that metal.
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 60 feet
 - **Area**: 20-foot burst
 - **Defense**: basic Reflex

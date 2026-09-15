@@ -17,13 +17,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Morph`  `Wood`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Duration**: 1 minute
 
-Your arms and hands swell with new growth, transforming into tree trunks twice as big as their current size. Your fists deal 1d6 bludgeoning damage, lose the [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] trait, and have [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]].
+Your arms and hands swell with new growth, transforming into tree trunks twice as big as their current size. Your fists deal 1d6 bludgeoning damage, lose the [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]] trait, and have [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach]].
 
 ---
-**Heightened (3rd)** Your fists gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] trait and become a _striking_ weapon, increasing the damage your fists deal to 2d6 bludgeoning.
+**Heightened (3rd)** Your fists gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]] trait and become a _striking_ weapon, increasing the damage your fists deal to 2d6 bludgeoning.
 
 **Heightened (7th)** Your fists gain the magical trait and become a _greater striking_ weapon, increasing the damage your fists deal to 3d6 bludgeoning. The duration is 10 minutes.
 

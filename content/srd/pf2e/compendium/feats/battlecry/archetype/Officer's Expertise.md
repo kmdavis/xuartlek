@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/commander|Commander]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/commander-dedication|Commander Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Commander|Commander]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Commander Dedication|Commander Dedication]]
 
-Your proficiency in commander class DC increases to expert, and you become an expert in Warfare [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]]. If you're already an expert in Warfare Lore, you instead become an expert in another Lore skill you're trained in or trained in another Lore skill of your choice.
+Your proficiency in commander class DC increases to expert, and you become an expert in Warfare [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]]. If you're already an expert in Warfare Lore, you instead become an expert in another Lore skill you're trained in or trained in another Lore skill of your choice.
 
 *Source: Battlecry! p. 52*

@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/guardian|Guardian]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/guardian-dedication|Guardian Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Guardian|Guardian]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Guardian Dedication|Guardian Dedication]]
 
 You gain a 1st- or 2nd-level guardian feat.
 
 ### Basic Defender leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/archetype/advanced-defender|Advanced Defender]]
+[[srd/pf2e/compendium/feats/battlecry/archetype/Advanced Defender|Advanced Defender]]
 
 *Source: Battlecry! p. 53*

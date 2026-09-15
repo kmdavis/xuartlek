@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Deity**: Iapholi
 - **Trigger**: A creature within range is hit with a Strike that deals physical damage.
 - **Range**: 60 feet
 - **Target**: 1 creature
 - **Duration**: 1 round
 
-The target's skin erupts in thick hide or dense scales. It gains resistance 5 to physical damage, except [[srd/pf2e/compendium/equipment/materials/adamantine|adamantine]], until the beginning of its next turn.
+The target's skin erupts in thick hide or dense scales. It gains resistance 5 to physical damage, except [[srd/pf2e/compendium/equipment/materials/Adamantine|adamantine]], until the beginning of its next turn.
 
 ---
 **Heightened (+2)** The resistance increases by 3.

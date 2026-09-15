@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Necromancer`
 
-You create a massive line of grave dirt that thralls can easily traverse. You learn the [[srd/pf2e/compendium/spells/focus/bridge-of-graves|_bridge of graves_]] grave spell.
+You create a massive line of grave dirt that thralls can easily traverse. You learn the [[srd/pf2e/compendium/spells/focus/Bridge of Graves|_bridge of graves_]] grave spell.
 
 *Source: Impossible Magic p. 38*

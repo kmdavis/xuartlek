@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Cold`  `Focus`  `Manipulate`  `Oracle`  `Uncommon`  `Water`
 
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Tempest|Tempest]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Tempest|Tempest]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Defense**: Fortitude

@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 As a necromancer, you select one grim fascination at 1st level. This fascination is a focus of necrotic study that you have developed a greater mastery over. However, grim fascinations don’t prevent you from studying and using other forms of necromancy. Your choice of grim fascination grants you a grave spell and a thrall enhancement that applies to any thrall you create.
 
-Grim Fascinations can be found in [[srd/pf2e/compendium/character/Grim Fascinations|Grim Fascinations]]
+Grim Fascinations can be found [[srd/pf2e/compendium/character/Grim Fascinations|here]]
 
 *Source: Impossible Magic p. 27*

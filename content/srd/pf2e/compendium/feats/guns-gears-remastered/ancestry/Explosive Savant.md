@@ -17,10 +17,10 @@ socialImage: og-image.png
 
 - **Access**: You are from Dongun Hold or Alkenstar.
 
-”You've spent a lifetime wielding guns and explosive ordinance. You have familiarity with bombs and firearms; for the purposes of proficiency you treat bombs and martial firearms as simple weapons, and advanced firearms as martial weapons.
+”You've spent a lifetime wielding guns and explosive ordinance. You have familiarity with [[srd/pf2e/compendium/rules-elements/Weapon Groups#Bomb|bombs]] and [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|firearms]]; for the purposes of proficiency you treat bombs and martial firearms as simple weapons, and advanced firearms as martial weapons.
 
 ### Explosive Savant leads to...
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/ancestry/explosive-expert|Explosive Expert]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/ancestry/Explosive Expert|Explosive Expert]]
 
 *Source: Guns & Gears (Remastered) p. 200*

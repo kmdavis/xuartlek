@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 - **Requirements**: You used your previous action to make a melee [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|strike]] that missed.
 
-Even in the face of failure you press the attack, determined to succeed. Make a Strike with the same weapon, adding the [[srd/pf2e/compendium/rules-elements/traits/player-core/backswing|backswing]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|forceful]] weapon traits to that Strike.
+Even in the face of failure you press the attack, determined to succeed. Make a Strike with the same weapon, adding the [[srd/pf2e/compendium/rules-elements/traits/player-core/Backswing|backswing]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Forceful|forceful]] weapon traits to that Strike.
 
 *Source: Player Core 2 p. 81*

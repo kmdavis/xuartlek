@@ -20,9 +20,9 @@ socialImage: og-image.png
 
 - **Range**: 30 feet
 - **Target**: 1 of your thralls
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex
 
-You shape a thrall into a spear of jagged bone. Destroy the target thrall, and each creature in a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]] originating from the thrall’s former space takes 2d6 piercing damage with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save.
+You shape a thrall into a spear of jagged bone. Destroy the target thrall, and each creature in a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Line|line]] originating from the thrall’s former space takes 2d6 piercing damage with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save.
 
 ---
 **Heightened (+1)** The damage increases by 2d6.

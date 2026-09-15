@@ -18,14 +18,14 @@ socialImage: og-image.png
 
 `Disarm`  `Finesse`  `Nonlethal`  `Reach`  `Trip`
 
-- **Favored Weapon**: Aakriti, [[srd/pf2e/compendium/deities/demon-lords/abraxas|Abraxas]], [[srd/pf2e/compendium/deities/other-gods/ahriman|Ahriman]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/calistria|Calistria]], Dahak, Gendowyn, [[srd/pf2e/compendium/deities/demon-lords/gogunta|Gogunta]], [[srd/pf2e/compendium/deities/azlanti-pantheon/lissala|Lissala]], [[srd/pf2e/compendium/deities/azlanti-pantheon/lissala-deity-565|Lissala]], [[srd/pf2e/compendium/deities/vudrani-gods/matravash|Matravash]], Moloch, [[srd/pf2e/compendium/deities/sakhil-tormentors/ozranvial|Ozranvial]], [[srd/pf2e/compendium/deities/eldest/ragadahn|Ragadahn]], [[srd/pf2e/compendium/deities/elemental-lords/ranginori|Ranginori]], Selket
+- **Favored Weapon**: Aakriti, [[srd/pf2e/compendium/deities/demon-lords/Abraxas|Abraxas]], [[srd/pf2e/compendium/deities/other-gods/Ahriman|Ahriman]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Calistria|Calistria]], Dahak, Gendowyn, [[srd/pf2e/compendium/deities/demon-lords/Gogunta|Gogunta]], [[srd/pf2e/compendium/deities/azlanti-pantheon/Lissala|Lissala]], [[srd/pf2e/compendium/deities/azlanti-pantheon/Lissala-deity-565|Lissala]], [[srd/pf2e/compendium/deities/vudrani-gods/Matravash|Matravash]], Moloch, [[srd/pf2e/compendium/deities/sakhil-tormentors/Ozranvial|Ozranvial]], [[srd/pf2e/compendium/deities/eldest/Ragadahn|Ragadahn]], [[srd/pf2e/compendium/deities/elemental-lords/Ranginori|Ranginori]], Selket
 - **Price**: 1 sp
 - **Damage**: 1d4 S
 - **Bulk**: 1
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Flail
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Flail|Flail]]
 
 This long strand of thick leather, often braided, delivers a painful but nonlethal slash at a distance, usually accompanied by a distinctive cracking sound.
 
@@ -35,6 +35,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Alghollthu Lash, Branch of the Great Sugi, [[srd/pf2e/compendium/equipment/weapons/giant-squid-lash|Giant Squid Lash]], [[srd/pf2e/compendium/equipment/weapons/serpents-lash|Serpent's Lash]], Vine Whip
+Alghollthu Lash, Branch of the Great Sugi, [[srd/pf2e/compendium/equipment/weapons/Giant Squid Lash|Giant Squid Lash]], [[srd/pf2e/compendium/equipment/weapons/Serpent's Lash|Serpent's Lash]], Vine Whip
 
 *Source: Player Core p. 278*

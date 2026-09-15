@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/hedge-mage|Hedge Mage]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/basic-hedge-mage-spellcasting|Basic Hedge Mage Spellcasting]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Hedge Mage|Hedge Mage]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Basic Hedge Mage Spellcasting|Basic Hedge Mage Spellcasting]]
 
 You know more than most how useful even the simplest of spells can be during the course of a day. Add 10 additional cantrips to your keepsake. You can also prepare 10 additional cantrips from your keepsake each day.
 

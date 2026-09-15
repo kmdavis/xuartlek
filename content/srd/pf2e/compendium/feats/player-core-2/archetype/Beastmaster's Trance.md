@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/beastmaster|Beastmaster]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/beastmaster-dedication|Beastmaster Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Beastmaster|Beastmaster]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Beastmaster Dedication|Beastmaster Dedication]]
 
-You can enter a trance that allows you to briefly inhabit the body of one of your animal companions and share its senses. You gain the focus spell [[srd/pf2e/compendium/spells/focus/beastmaster-trance|_beastmaster trance_]].
+You can enter a trance that allows you to briefly inhabit the body of one of your animal companions and share its senses. You gain the focus spell [[srd/pf2e/compendium/spells/focus/Beastmaster Trance|_beastmaster trance_]].
 
 *Source: Player Core 2 p. 188*

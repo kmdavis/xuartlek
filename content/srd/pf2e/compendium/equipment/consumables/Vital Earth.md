@@ -19,8 +19,8 @@ socialImage: og-image.png
 - **Price**: 30 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-Life-infused soil from the [[srd/pf2e/compendium/gm/planes#Plane of Earth|Plane of Earth]], _vital earth_ is glittering dust you inhale that causes you to not need air or water for 24 hours. Also, for this time, your wounds close easily, like molding clay, meaning someone attempting to Administer First Aid or Treat Wounds on you doesn't need a healer's toolkit and gains a +1 item bonus to the [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] check.
+Life-infused soil from the [[srd/pf2e/compendium/gm/Planes#Plane of Earth|Plane of Earth]], _vital earth_ is glittering dust you inhale that causes you to not need air or water for 24 hours. Also, for this time, your wounds close easily, like molding clay, meaning someone attempting to Administer First Aid or Treat Wounds on you doesn't need a healer's toolkit and gains a +1 item bonus to the [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] check.
 
 *Source: Rage of Elements p. 100*

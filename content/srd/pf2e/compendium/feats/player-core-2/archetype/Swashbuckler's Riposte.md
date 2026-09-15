@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/swashbuckler|Swashbuckler]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/swashbuckler-dedication|Swashbuckler Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Swashbuckler|Swashbuckler]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Swashbuckler Dedication|Swashbuckler Dedication]]
 
 You’ve learned to riposte against ill-conceived attacks. You gain the [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Opportune Riposte|Opportune Riposte]] reaction.
 

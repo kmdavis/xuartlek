@@ -22,8 +22,8 @@ socialImage: og-image.png
 
 `Aura`  `Cleric`  `Concentrate`  `Emotion`  `Focus`  `Incapacitation`  `Manipulate`  `Mental`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Sorrow|Sorrow]]
-- **Area**: 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Sorrow|Sorrow]]
+- **Area**: 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]]
 - **Defense**: Will
 - **Duration**: sustained up to 1 minute
 
@@ -31,7 +31,7 @@ Sadness flows out of you into nearby creatures, blotting out any other thoughts 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes a –1 status penalty to skill checks and [[srd/pf2e/books/player-core/chapter-1-introduction/playing-the-game#Perception|Perception]] checks as long as it remains in the area.
+**Success** The creature takes a –1 status penalty to skill checks and [[srd/pf2e/books/player-core/chapter-1-introduction/Playing the Game#Perception|Perception]] checks as long as it remains in the area.
 
 **Failure** While the creature is in the area, any emotion effects of lower counteract rank than overflowing sorrow are suppressed, and whenever the creature attempts to use an emotion action or cast an emotion spell, it must succeed at a DC 11 flat check or the action or spell is disrupted.
 

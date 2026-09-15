@@ -1,6 +1,7 @@
 ---
 title: "Terms of the Duel"
 aliases: ["Terms of the Duel"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Dark Archives (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3515"
 citation: "Dark Archives (Remastered) pg. 200"
-socialImage: og-image.png
 ---
 
 # Terms of the Duel

@@ -1,6 +1,7 @@
 ---
 title: "Introduction"
 aliases: ["Introduction"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3258"
 citation: "Monster Core pg. 5"
-socialImage: og-image.png
 ---
 
 # Introduction
@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 Welcome to *Pathfinder Monster Core*! Inside this tome of creatures, you’ll find haughty celestials and ravenous fiends, fierce animals and strange moving plants, new peoples to interact with and horrid monsters to hunt down. And while this book details hundreds of monsters, it’s only a portion of the myriad interesting creatures that populate the world of Pathfinder.
 
-To use this book, you’ll need Pathfinder Player Core and Pathfinder GM Core, which contain the rules of the game and give you further understanding of each creature’s rules and its place in the world. Using these books allows you as the Game Master (or GM) to create stories of grand adventure and populate them with fearsome foes, possible allies, and friendly guides.
+To use this book, you’ll need [Pathfinder Player Core](https://2e.aonprd.com/Sources.aspx?ID=216) and [Pathfinder GM Core](https://2e.aonprd.com/Sources.aspx?ID=218), which contain the rules of the game and give you further understanding of each creature’s rules and its place in the world. Using these books allows you as the Game Master (or GM) to create stories of grand adventure and populate them with fearsome foes, possible allies, and friendly guides.
 
 Most of the sections of this book describe a creature or a group of related creatures, present their game statistics, illustrate their place within the game world, and provide details about their behavior or society.
 
@@ -28,5 +28,5 @@ Lastly, the appendix in the back of the book contains sections that provide info
 
 ## Contents
 
-- [[srd/pf2e/books/monster-core/introduction/playing-creatures|Playing Creatures]]
-- [[srd/pf2e/books/monster-core/introduction/adjusting-creatures|Adjusting Creatures]]
+- [[srd/pf2e/books/monster-core/introduction/Playing Creatures|Playing Creatures]]
+- [[srd/pf2e/books/monster-core/introduction/Adjusting Creatures|Adjusting Creatures]]

@@ -17,13 +17,13 @@ socialImage: og-image.png
 `Concentrate`  `Manipulate`  `Metal`
 
 - **PFS Note**: Movement caused by the magnetic dominion spell is forced movement.
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Area**: 100-foot emanation
 - **Target**: any number of creatures wearing metal armor, creatures made of metal, creatures that have the metal trait, and unattended metal objects
 - **Defense**: Reflex
 - **Duration**: sustained up to 1 minute
 
-The roiling magnetic fields of the [[srd/pf2e/compendium/gm/planes#Plane of Metal|Plane of Metal]] radiate from you as you channel and reshape them at your merest thought. When you Cast this Spell, you can relocate each affected target to any other unoccupied space within the emanation. You can't move yourself in this way. An unwilling target can resist being moved with a successful Reflex save.
+The roiling magnetic fields of the [[srd/pf2e/compendium/gm/Planes#Plane of Metal|Plane of Metal]] radiate from you as you channel and reshape them at your merest thought. When you Cast this Spell, you can relocate each affected target to any other unoccupied space within the emanation. You can't move yourself in this way. An unwilling target can resist being moved with a successful Reflex save.
 
  The creatures move all at once—after you know the results of all the saves, you determine which target occupies each space in whatever order you choose. You can move a creature into a space that was previously occupied by another creature so long as you also relocate the first creature elsewhere as part of the movement. If you move a target into the air, it descends to the ground harmlessly after being moved unless it chooses not to.
 

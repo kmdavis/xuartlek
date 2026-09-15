@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]]
 
-You're an incredible acrobat, evoking wonder and enrapturing audiences with your prowess. You can roll an Acrobatics check instead of a [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check when using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Perform|Perform]] action. If you are trained in both Acrobatics and Performance, you gain a +1 circumstances bonus on Acrobatics checks made to Perform.
+You're an incredible acrobat, evoking wonder and enrapturing audiences with your prowess. You can roll an Acrobatics check instead of a [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] check when using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Perform|Perform]] action. If you are trained in both Acrobatics and Performance, you gain a +1 circumstances bonus on Acrobatics checks made to Perform.
 
 *Source: Player Core 2 p. 226*

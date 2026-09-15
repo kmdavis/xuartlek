@@ -24,23 +24,23 @@ Strength or Constitution
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/axe/greataxe|Greataxe]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/axe/Greataxe|Greataxe]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Pain|Pain]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Pain|Pain]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/grim-tendrils|Grim Tendrils]]
+[[srd/pf2e/compendium/spells/rank-1/Grim Tendrils|Grim Tendrils]]
 
 - **3rd**
 Moth's Supper
 
 - **9th**
-[[srd/pf2e/compendium/spells/rank-9/implosion|Implosion]]
+[[srd/pf2e/compendium/spells/rank-9/Implosion|Implosion]]
 
 *Source: Divine Mysteries p. 316*

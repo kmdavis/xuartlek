@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult
-- **Patron Themes**: [[srd/pf2e/compendium/character/patrons#Devourer of Decay|Devourer of Decay]], [[srd/pf2e/compendium/character/patrons#The Resentment|The Resentment]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Patron Themes**: [[srd/pf2e/compendium/character/Patrons#Devourer of Decay|Devourer of Decay]], [[srd/pf2e/compendium/character/Patrons#The Resentment|The Resentment]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude

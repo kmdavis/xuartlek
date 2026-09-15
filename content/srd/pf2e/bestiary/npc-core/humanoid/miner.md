@@ -28,14 +28,14 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+6"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +3, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/lore|Mining Lore]] +4, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +3, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/Lore|Mining Lore]] +4, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +4"
 abilityMods: [2, 1, 3, 0, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "Hammer, Lantern, miner's harness (functions as [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]), Pick, Piton (5), Rope (100 feet)"
+    desc: "Hammer, Lantern, miner's harness (functions as [[srd/pf2e/compendium/equipment/Armor#Leather Armor|leather armor]]), Pick, Piton (5), Rope (100 feet)"
 ac: 14
 armorclass:
   - name: "AC"
@@ -47,16 +47,16 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ pick +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d10]]) __Damage__ 1d6+2 piercing"
+    desc: "⬻ pick +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fatal|fatal d10]]) __Damage__ 1d6+2 piercing"
   - name: "Melee"
-    desc: "⬻ fist +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ fist +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
 abilities_bot:
   - name: "Piton Pin"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]])"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|Attack]])"
   - name: "Requirements"
     desc: "The miner has their hammer in hand"
   - name: "Effect"
-    desc: "The miner Interacts to draw a piton, then hammers it into a creature to pin them in place, attempting an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check against the target's Reflex DC. On a hit, the target is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] until it removes the piton with a successful DC 10 Athletics check made as an Interact action."
+    desc: "The miner Interacts to draw a piton, then hammers it into a creature to pin them in place, attempting an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check against the target's Reflex DC. On a hit, the target is [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] until it removes the piton with a successful DC 10 Athletics check made as an Interact action."
 sourcebook: "_NPC Core_, page 68."
 ```
 

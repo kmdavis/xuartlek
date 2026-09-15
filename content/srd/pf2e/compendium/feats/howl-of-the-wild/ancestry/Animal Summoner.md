@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Awakened Animal`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/awakened-magic|Awakened Magic]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Awakened Magic|Awakened Magic]]
 
-The connection between you and primal magic deepens. You can cast [[srd/pf2e/compendium/spells/rank-1/summon-animal|_summon animal_]] as a primal innate spell once per day, heightened to half your level rounded up.
+The connection between you and primal magic deepens. You can cast [[srd/pf2e/compendium/spells/rank-1/Summon Animal|_summon animal_]] as a primal innate spell once per day, heightened to half your level rounded up.
 
 *Source: Howl of the Wild p. 27*

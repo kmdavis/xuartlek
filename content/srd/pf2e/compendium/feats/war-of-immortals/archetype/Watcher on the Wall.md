@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/seneschal|Seneschal]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/seneschal-witch-dedication|Seneschal Witch Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Seneschal|Seneschal]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Seneschal Witch Dedication|Seneschal Witch Dedication]]
 
 You claim a patron’s symbol that you can etch onto any surface. Etch a symbol onto an adjacent surface; you can see and hear what you could from the symbol’s location as long as you are on the same plane. This effect lasts until you place another symbol or the surface is destroyed.
 

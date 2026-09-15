@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Tripkee`
 
-You gain access to all [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] weapons with the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/tripkee|tripkee]] trait. You have familiarity with weapons with the tripkee trait plus the [[srd/pf2e/compendium/equipment/weapons/dart/blowgun|blowgun]], [[srd/pf2e/compendium/equipment/weapons/dart/dart|dart]], [[srd/pf2e/compendium/equipment/weapons/axe/hatchet|hatchet]], [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|scythe]], and [[srd/pf2e/compendium/equipment/weapons/bow/shortbow|shortbow]]—for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
+You gain access to all [[srd/pf2e/compendium/rules-elements/traits/player-core/Uncommon|uncommon]] weapons with the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Tripkee|tripkee]] trait. You have familiarity with weapons with the tripkee trait plus the [[srd/pf2e/compendium/equipment/weapons/dart/Blowgun|blowgun]], [[srd/pf2e/compendium/equipment/weapons/dart/Dart|dart]], [[srd/pf2e/compendium/equipment/weapons/axe/Hatchet|hatchet]], [[srd/pf2e/compendium/equipment/weapons/polearm/Scythe|scythe]], and [[srd/pf2e/compendium/equipment/weapons/bow/Shortbow|shortbow]]—for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 
  At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 

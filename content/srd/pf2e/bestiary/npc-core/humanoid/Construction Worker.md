@@ -28,16 +28,16 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "+5"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/lore|Architecture Lore]] +15, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +13, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Lore|Architecture Lore]] +15, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +13, [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] +6"
 abilityMods: [4, 0, 3, 2, 1, 0]
 abilities_top:
   - name: "Specialty Contractor"
     desc: "For encounters involving architecture or construction, the construction worker is a 6th-level challenge."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit]], bricks (4), Chalk, safety gear (functions as [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]), sledgehammer (functions as a [[srd/pf2e/compendium/equipment/weapons/hammer/maul|maul]])"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/Artisan's Toolkit|Artisan's Toolkit]], bricks (4), Chalk, safety gear (functions as [[srd/pf2e/compendium/equipment/Armor#Leather Armor|leather armor]]), sledgehammer (functions as a [[srd/pf2e/compendium/equipment/weapons/hammer/Maul|maul]])"
 ac: 17
 armorclass:
   - name: "AC"
@@ -49,14 +49,14 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ maul +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/shove|Shove]]) __Damage__ 1d12+4 bludgeoning"
+    desc: "⬻ maul +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Shove|Shove]]) __Damage__ 1d12+4 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+4 bludgeoning"
+    desc: "⬻ fist +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+4 bludgeoning"
   - name: "Melee"
-    desc: "⬻ brick +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d6+4 bludgeoning"
+    desc: "⬻ brick +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 10 feet]]) __Damage__ 1d6+4 bludgeoning"
 abilities_bot:
   - name: "By Design"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/exploration|Exploration]]) The construction worker spends 1 minute inspecting the layout of a room and attempts a DC 22 [[srd/pf2e/compendium/rules-elements/skills/lore|Architecture Lore]] check. On a success, they learn the size and layout of all adjacent rooms on the same floor (or all rooms on the floor on a critical success). They can inspect each room only once per day."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Exploration|Exploration]]) The construction worker spends 1 minute inspecting the layout of a room and attempts a DC 22 [[srd/pf2e/compendium/rules-elements/skills/Lore|Architecture Lore]] check. On a success, they learn the size and layout of all adjacent rooms on the same floor (or all rooms on the floor on a critical success). They can inspect each room only once per day."
   - name: "Demolishing Swing"
     desc: "⬺ The construction worker makes a maul Strike against a creature. If it hits, the creature is pushed 10 feet. If the target is wearing metal armor, its armor also takes the damage, which bypasses 5 of the armor's Hardness."
 sourcebook: "_NPC Core_, page 70."

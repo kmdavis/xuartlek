@@ -17,12 +17,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Illusion`  `Manipulate`  `Visual`
 
-- **Traditions**: Arcane, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 60 feet
-- **Area**: 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
+- **Area**: 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
 - **Duration**: 1 minute
 
 You warp the perception of distance in an area, causing creatures to misjudge their surroundings as the horizon seems to expand and contract wildly. The affected area has the following effects. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] this spell. 
-Ranged attacks that pass through the area take a –2 circumstance penalty to attack rolls.The area is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]].Creatures who end their turn in the area must succeed at a Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] for 1 round.
+Ranged attacks that pass through the area take a –2 circumstance penalty to attack rolls.The area is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Difficult Terrain|difficult terrain]].Creatures who end their turn in the area must succeed at a Will save or become [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed 1]] for 1 round.
 
 *Source: Impossible Magic p. 144*

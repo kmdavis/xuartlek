@@ -20,6 +20,6 @@ Every oracle's mystery touches on a divine domain of the deities that fuel it; y
 
 ### Domain Acumen leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/domain-fluency|Domain Fluency]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Domain Fluency|Domain Fluency]]
 
 *Source: Player Core 2 p. 138*

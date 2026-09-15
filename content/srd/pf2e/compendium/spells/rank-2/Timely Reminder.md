@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Linguistic`  `Manipulate`  `Subtle`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Duration**: 1 year
 
 You send a message to yourself that’s delivered at a delayed time of your choosing. Whisper a message no longer than 8 words and concentrate on a date and time within the next year. At the chosen moment, a gentle chime will sound in your head, followed by the message repeated twice in an average, steady tone. This spell can be Dismissed at any time. If a new casting of _timely reminder_ is used, the first message is erased as soon as the new message is created.

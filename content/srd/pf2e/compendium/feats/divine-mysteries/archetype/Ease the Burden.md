@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Archetype`  `Healing`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/mortal-herald|Mortal Herald]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Mortal Herald|Mortal Herald]]
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/mortal-herald-dedication|Mortal Herald Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Mortal Herald Dedication|Mortal Herald Dedication]]
 
-You wash away a creature’s pain with a touch. An adjacent creature regains 100 Hit Points and reduces their [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]], and [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] conditions by 1 (to a minimum of 0).
+You wash away a creature’s pain with a touch. An adjacent creature regains 100 Hit Points and reduces their [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]], and [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] conditions by 1 (to a minimum of 0).
 
 *Source: Divine Mysteries p. 283*

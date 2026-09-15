@@ -28,11 +28,11 @@ perception:
     desc: "+12; no vision, sensitive echolocation (precise) 90 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +12"
 abilityMods: [5, 2, 4, -3, 2, 1]
 abilities_top:
   - name: "Sensitive Echolocation"
-    desc: "The morthak can use its hearing as a precise sense with the listed range. If the morthak takes sonic damage beyond its resistance, its senses are overloaded and all creatures are [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] from it for 1 round."
+    desc: "The morthak can use its hearing as a precise sense with the listed range. If the morthak takes sonic damage beyond its resistance, its senses are overloaded and all creatures are [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] from it for 1 round."
 ac: 20
 armorclass:
   - name: "AC"
@@ -40,12 +40,12 @@ armorclass:
 hp: 70
 health:
   - name: "HP"
-    desc: "70; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]; __Resistances__ sonic 5"
+    desc: "70; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]]; __Resistances__ sonic 5"
 abilities_mid:
   - name: "Auditory Swipe"
     desc: "⬲"
   - name: "Trigger"
-    desc: "A creature within the morthak's reach uses an [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] __action__"
+    desc: "A creature within the morthak's reach uses an [[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]] __action__"
   - name: "Effect"
     desc: "The morthak makes a claw Strike against the triggering creature."
 speed: "20 feet, burrow 30 feet"
@@ -53,12 +53,12 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +13 __Damage__ 2d8+5 piercing"
   - name: "Melee"
-    desc: "⬻ claw +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+5 slashing plus 1d6 sonic"
+    desc: "⬻ claw +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d6+5 slashing plus 1d6 sonic"
   - name: "Ranged"
-    desc: "⬻ screech +10 (range 60 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|Sonic]]) __Damage__ 4d6 sonic"
+    desc: "⬻ screech +10 (range 60 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/Sonic|Sonic]]) __Damage__ 4d6 sonic"
 abilities_bot:
   - name: "Shattering Scrape"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|Sonic]]) The morthak makes a claw Strike against a creature wearing stone or metal armor. If the Strike hits and the armor's Hardness is 12 or lower, that armor is [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]]."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Sonic|Sonic]]) The morthak makes a claw Strike against a creature wearing stone or metal armor. If the Strike hits and the armor's Hardness is 12 or lower, that armor is [[srd/pf2e/compendium/rules-elements/Conditions#Broken|broken]]."
 sourcebook: "_Howl of the Wild_, page 140."
 ```
 

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Fighter`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]] (Level 16)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/dueling-riposte|Dueling Riposte]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Duelist|Duelist]] (Level 16)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Dueling Riposte|Dueling Riposte]]
 
 By shifting your weight and angling your weapon, you guide your opponent to a more favorable position. When you use Dueling Riposte to Strike and you hit, you can Reposition up to 10 feet.
 

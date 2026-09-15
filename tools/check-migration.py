@@ -125,7 +125,21 @@ def main():
     else:
         print(f"ok   all {total} wikilinks resolve")
 
-    # 7. no em dashes
+    # 7. every SRD note pins the shared OG image.
+    # Quartz otherwise renders a bespoke social card per page: 12,614 images
+    # and ~20 extra minutes of CI, for pages nobody shares. The importers emit
+    # this, so a re-run that drops it is a 4x build regression that no other
+    # check would catch.
+    srd = list((ROOT / "srd").rglob("*.md"))
+    nosocial = [str(p) for p in srd if "socialImage:" not in p.read_text()]
+    if nosocial:
+        fail = 1
+        print(f"FAIL {len(nosocial)} SRD notes missing socialImage, "
+              f"e.g. {nosocial[:3]}")
+    else:
+        print(f"ok   all {len(srd)} SRD notes pin socialImage")
+
+    # 8. no em dashes
     dashes = [str(p) for p in mine if "\u2014" in p.read_text()]
     if dashes:
         fail = 1

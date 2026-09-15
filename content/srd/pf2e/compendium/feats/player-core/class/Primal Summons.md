@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Druid`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/call-of-the-wild|Call of the Wild]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Call of the Wild|Call of the Wild]]
 
-Whenever you summon an ally, you can empower it with the elemental power of air, earth, fire, or water. You gain the [[srd/pf2e/compendium/spells/focus/primal-summons|_primal summons_]] order spell.
+Whenever you summon an ally, you can empower it with the elemental power of air, earth, fire, or water. You gain the [[srd/pf2e/compendium/spells/focus/Primal Summons|_primal summons_]] order spell.
 
 *Source: Player Core p. 134*

@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Monk`
 
-You focus your strength into a blow powerful enough to push an enemy away from you. Make an unarmed Strike. If you hit, attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] the target. This attack uses the same multiple attack penalty as your Strike, and doesn't count toward your multiple attack penalty.
+You focus your strength into a blow powerful enough to push an enemy away from you. Make an unarmed Strike. If you hit, attempt an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] the target. This attack uses the same multiple attack penalty as your Strike, and doesn't count toward your multiple attack penalty.
 
 ### Knockback Strike leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/improved-knockback|Improved Knockback]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Improved Knockback|Improved Knockback]]
 
 *Source: Player Core 2 p. 124*

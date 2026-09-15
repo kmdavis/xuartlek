@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: 1 minute ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: 1 minute ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
 These chemicals convey myriad signals. Many varieties of these alchemical cocktails exist, each tailored for the unique chemistry of a specific type of animal. You can, for example, make wolf pheromones, but not pheromones that affect all animals. The pheromones don’t work on creatures that are similar to the specific kind of animal, but aren’t actually animals—for example, wolf pheromones don’t work on werewolves. When you learn the formula for animal pheromones, you learn the formulas for all common animals. If no animals of a kind are common, you must learn the formula for it separately, and the formula has the same rarity as the least-rare creature of that kind.
 
@@ -26,11 +26,11 @@ You Activate animal pheromones by rubbing them on yourself or a creature within 
 
 **Critical Success** The animal is unaffected. It doesn’t necessarily become aware of the pheromones, although intelligent animals might become suspicious if they observe others of their kind being affected.
 
-**Success** The animal’s [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|attitude]] toward the affected creature improves by one step. If this improves its attitude to at least [[srd/pf2e/compendium/rules-elements/conditions#Indifferent|indifferent]], it can’t take [[srd/pf2e/books/player-core/chapter-7-spells/hostile-actions|hostile actions]] against the affected creature, though the change in attitude ends as soon as the affected creature takes a hostile action against the animal or its allies.
+**Success** The animal’s [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|attitude]] toward the affected creature improves by one step. If this improves its attitude to at least [[srd/pf2e/compendium/rules-elements/Conditions#Indifferent|indifferent]], it can’t take [[srd/pf2e/books/player-core/chapter-7-spells/Hostile Actions|hostile actions]] against the affected creature, though the change in attitude ends as soon as the affected creature takes a hostile action against the animal or its allies.
 
 **Failure** As success, but the attitude increases by two steps.
 
-**Critical Failure** As success, but the attitude increases to [[srd/pf2e/compendium/rules-elements/conditions#Helpful|helpful]].
+**Critical Failure** As success, but the attitude increases to [[srd/pf2e/compendium/rules-elements/Conditions#Helpful|helpful]].
 
 **Craft Requirements** Provide fur or a similar tissue sample from the designated kind of animal.
 

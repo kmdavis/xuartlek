@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Barbarian`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/giants-stature|Giant's Stature]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Giant's Stature|Giant's Stature]]
 
-You grow to even greater size. When using Giant's Stature, you can instead become Huge (increasing your [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] by 10 feet if you were Medium or smaller).
+You grow to even greater size. When using Giant's Stature, you can instead become Huge (increasing your [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach]] by 10 feet if you were Medium or smaller).
 
 *Source: Player Core 2 p. 83*

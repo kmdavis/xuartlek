@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Awakened Animal`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/wild-stride|Wild Stride]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Wild Stride|Wild Stride]]
 
-You blend your instinct and intellect to move so fast you seem to be a blur. When you use Wild Stride, you can Stride three times, and you're [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] during the movement.
+You blend your instinct and intellect to move so fast you seem to be a blur. When you use Wild Stride, you can Stride three times, and you're [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] during the movement.
 
 *Source: Howl of the Wild p. 27*

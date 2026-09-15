@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Surki`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/vestigial-magicsense|Vestigial Magicsense]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Vestigial Magicsense|Vestigial Magicsense]]
 - **Trigger**: A creature you could reach with a Stride action Casts a Spell from the tradition matching your magiphage ability.
 
 You move reflexively toward the source of magic you most consumed as a larva. You Stride, and you must end your movement adjacent to the triggering creature. You then can't use Magitaxis against the triggering creature for 24 hours as your reflexes reacclimate, though you can use it against other creatures.

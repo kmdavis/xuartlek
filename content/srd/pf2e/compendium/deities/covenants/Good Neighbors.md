@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: participate in the betterment of your community, provide aid after disasters damage settlements, volunteer your time and resources for good causes
 - **Anathema**: allow a community space to fall into disrepair, dictate where and how people should live
 - **Area of Concern**: community service, compassion, liberty, solidarity
-- **Pantheon Members**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/cayden-cailean|Cayden Cailean]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/erastil|Erastil]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/torag|Torag]]
+- **Pantheon Members**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Cayden Cailean|Cayden Cailean]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Erastil|Erastil]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Sarenrae|Sarenrae]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Torag|Torag]]
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Strength or Charisma
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/longsword|Longsword]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Longsword|Longsword]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/Domains#Healing|Healing]], [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Cities|Cities]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Cities|Cities]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/phantasmal-minion|Phantasmal Minion]]
+[[srd/pf2e/compendium/spells/rank-1/Phantasmal Minion|Phantasmal Minion]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/cozy-cabin|Cozy Cabin]]
+[[srd/pf2e/compendium/spells/rank-3/Cozy Cabin|Cozy Cabin]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/telekinetic-haul|Telekinetic Haul]]
+[[srd/pf2e/compendium/spells/rank-5/Telekinetic Haul|Telekinetic Haul]]
 
 *Source: Divine Mysteries p. 239*

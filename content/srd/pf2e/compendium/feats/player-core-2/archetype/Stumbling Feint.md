@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Monk`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]] (Level 8)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/stumbling-stance|Stumbling Stance]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Martial Artist|Martial Artist]] (Level 8)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Stumbling Stance|Stumbling Stance]]; Expert in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 - **Requirements**: You are in Stumbling Stance.
 
-You lash out confusingly, with what seems to be a weak move, but instead allows you to unleash a dangerous flurry of blows upon your unsuspecting foe. When you use [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Flurry of Blows|Flurry of Blows]], you can attempt a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|Feint]] as a free action just before the first Strike. On a success, instead of making the target [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against your next attack, they become off-guard against both attacks from the Flurry of Blows.
+You lash out confusingly, with what seems to be a weak move, but instead allows you to unleash a dangerous flurry of blows upon your unsuspecting foe. When you use [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Flurry of Blows|Flurry of Blows]], you can attempt a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|Feint]] as a free action just before the first Strike. On a success, instead of making the target [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] against your next attack, they become off-guard against both attacks from the Flurry of Blows.
 
 *Source: Player Core 2 p. 122*

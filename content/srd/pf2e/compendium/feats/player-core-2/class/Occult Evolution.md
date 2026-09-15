@@ -17,10 +17,10 @@ socialImage: og-image.png
 
 - **Prerequisites**: bloodline that grants occult spells
 
-You draw power from the obscure secrets of the universe. You become trained in one skill of your choice. Additionally, once per day, you can spend 1 minute to choose one [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] occult spell you don't know and add it to your spell repertoire. You lose this temporary spell the next time you make your daily preparations (though you can use this ability to add it again later).
+You draw power from the obscure secrets of the universe. You become trained in one skill of your choice. Additionally, once per day, you can spend 1 minute to choose one [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] occult spell you don't know and add it to your spell repertoire. You lose this temporary spell the next time you make your daily preparations (though you can use this ability to add it again later).
 
 ### Occult Evolution leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/greater-mental-evolution|Greater Mental Evolution]], [[srd/pf2e/compendium/feats/player-core-2/class/greater-spiritual-evolution|Greater Spiritual Evolution]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Greater Mental Evolution|Greater Mental Evolution]], [[srd/pf2e/compendium/feats/player-core-2/class/Greater Spiritual Evolution|Greater Spiritual Evolution]]
 
 *Source: Player Core 2 p. 153*

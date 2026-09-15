@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Tradition**: Primal
-- **Deities**: [[srd/pf2e/compendium/deities/sakhil-tormentors/dachzerul|Dachzerul]], Kalekot, [[srd/pf2e/compendium/deities/empyreal-lords/kelinahat|Kelinahat]], [[srd/pf2e/compendium/deities/elven-gods/ketephys|Ketephys]], [[srd/pf2e/compendium/deities/eldest/ng|Ng]], [[srd/pf2e/compendium/deities/giant-gods/skode|Skode]], Tanagaar, [[srd/pf2e/compendium/deities/azlanti-pantheon/ulon|Ulon]], [[srd/pf2e/compendium/deities/goblin-gods/zarongel|Zarongel]]
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/sakhil-tormentors/Dachzerul|Dachzerul]], Kalekot, [[srd/pf2e/compendium/deities/empyreal-lords/Kelinahat|Kelinahat]], [[srd/pf2e/compendium/deities/elven-gods/Ketephys|Ketephys]], [[srd/pf2e/compendium/deities/eldest/Ng|Ng]], [[srd/pf2e/compendium/deities/giant-gods/Skode|Skode]], Tanagaar, [[srd/pf2e/compendium/deities/azlanti-pantheon/Ulon|Ulon]], [[srd/pf2e/compendium/deities/goblin-gods/Zarongel|Zarongel]]
 - **Duration**: 1 hour
 
 You obscure the tracks you leave behind. The DC of checks to Track you gains a +4 status bonus or is equal to your spell DC, whichever results in a higher DC.

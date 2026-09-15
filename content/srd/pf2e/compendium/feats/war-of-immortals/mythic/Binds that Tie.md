@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Mythic`  `Uncommon`
 
-You excel at assisting in capturing your foes. When you attempt a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] an opponent who’s already [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by an ally, you can spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] to attempt the check at mythic proficiency. On a success, you deal additional bludgeoning damage to the target equal to twice your Strength modifier.
+You excel at assisting in capturing your foes. When you attempt a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] an opponent who’s already [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] by an ally, you can spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] to attempt the check at mythic proficiency. On a success, you deal additional bludgeoning damage to the target equal to twice your Strength modifier.
 
 *Source: War of Immortals p. 81*

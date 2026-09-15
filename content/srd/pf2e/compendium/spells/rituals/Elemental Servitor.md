@@ -17,7 +17,7 @@ socialImage: og-image.png
 - **Cast**: 1 day
 - **Cost**: rare items and offerings worth a total value of 2 gp × the spell rank × the target's level, see text for more details
 - **Secondary Casters**: 2
-- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] or [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] or [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] (expert)
 - **Secondary Checks**: Diplomacy
 - **Duration**: see text
 

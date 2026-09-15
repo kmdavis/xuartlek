@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Kobold`
 
-You gain access to all [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] weapons with the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/kobold|kobold]] trait. You have familiarity with weapons with the kobold trait plus the [[srd/pf2e/compendium/equipment/weapons/pick/greatpick|greatpick]], [[srd/pf2e/compendium/equipment/weapons/pick/light-pick|light pick]], and [[srd/pf2e/compendium/equipment/weapons/pick/pick|pick]]—for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
+You gain access to all [[srd/pf2e/compendium/rules-elements/traits/player-core/Uncommon|uncommon]] weapons with the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Kobold|kobold]] trait. You have familiarity with weapons with the kobold trait plus the [[srd/pf2e/compendium/equipment/weapons/pick/Greatpick|greatpick]], [[srd/pf2e/compendium/equipment/weapons/pick/Light Pick|light pick]], and [[srd/pf2e/compendium/equipment/weapons/pick/Pick|pick]]—for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 
  At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 

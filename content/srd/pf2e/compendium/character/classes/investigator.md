@@ -51,7 +51,7 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 #### Skills
 
-Trained in [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+Trained in [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
  Trained in one or more skills determined by your methodology
  Trained in a number of additional skills equal to 4 plus your Intelligence modifier
 
@@ -115,11 +115,11 @@ You can play out a battle in your head, using brains rather than brawn to execut
 
 Your studies have made you savvy in a broad spectrum of areas, but one particular investigative process drew your intense—even obsessive—interest. Choose a methodology. 
 
-Methodologies can be found in [[srd/pf2e/compendium/character/Methodologies|Methodologies]].
+Methodologies can be found [[srd/pf2e/compendium/character/Methodologies|here]].
 
 | | |
 | --- | --- |
-| **Investigator Feats** | At 1st level and every even-numbered level, you gain an investigator class feat. |
+| **Investigator Feats** | At 1st level and every even-numbered level, you gain an [investigator class feat](https://2e.aonprd.com/Feats.aspx?Traits=818). |
 
 #### Strategic Strike
 

@@ -14,10 +14,10 @@ Chitinous scourges of deserts, forests, savannas, and badlands, scorpions are de
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core/animal/giant-scorpion|Giant Scorpion]] (Creature 3), [[srd/pf2e/bestiary/monster-core/animal/scorpion-swarm|Scorpion Swarm]] (Creature 4)
+[[srd/pf2e/bestiary/monster-core/animal/Giant Scorpion|Giant Scorpion]] (Creature 3), [[srd/pf2e/bestiary/monster-core/animal/Scorpion Swarm|Scorpion Swarm]] (Creature 4)
 
 ### Scorpion Venom
 
-Though scorpions are often symbols of death or evil, their venom can be extracted and used for a wide variety of medical applications. A character can milk an incapacitated giant scorpion to extract raw scorpion venom, which can be used as raw materials to craft giant scorpion venom or lesser antiplague. To determine the value of ingredients you gain each day and the DC of the appropriate [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] or [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] check, use the 3rd-level task entry in on the [[srd/pf2e/compendium/rules-elements/actions/player-core#Earn Income|Income Earned]] table.
+Though scorpions are often symbols of death or evil, their venom can be extracted and used for a wide variety of medical applications. A character can milk an incapacitated giant scorpion to extract raw scorpion venom, which can be used as raw materials to craft giant scorpion venom or lesser antiplague. To determine the value of ingredients you gain each day and the DC of the appropriate [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] or [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] check, use the 3rd-level task entry in on the [[srd/pf2e/compendium/rules-elements/actions/player-core#Earn Income|Income Earned]] table.
 
 *Source: Monster Core p. 298*

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Rogue`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]; Debilitating Strike
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]]; Debilitating Strike
 
 Your attacks slice arteries and veins. Add the following debilitation to the list you can choose from when you use Debilitating Strike. 
 

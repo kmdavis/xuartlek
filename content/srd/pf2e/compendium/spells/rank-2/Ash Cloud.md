@@ -17,10 +17,10 @@ socialImage: og-image.png
 
 `Air`  `Concentrate`  `Fire`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deity**: [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/mhar|Mhar]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deity**: [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Mhar|Mhar]]
 - **Range**: 120 feet
-- **Area**: 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
+- **Area**: 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
 - **Defense**: Fortitude
 - **Duration**: 1 minute
 
@@ -30,9 +30,9 @@ You summon a tumultuous cloud of ash and smoke. The cloud is difficult terrain f
 
 **Success** The target takes half damage.
 
-**Failure** The target takes full damage and is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round.
+**Failure** The target takes full damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] for 1 round.
 
-**Critical Failure** The target takes double damage and is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round.
+**Critical Failure** The target takes double damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] for 1 round.
 
 ---
 **Heightened (+1)** The damage increases by 1d4.

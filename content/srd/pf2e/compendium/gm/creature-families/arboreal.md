@@ -14,7 +14,7 @@ Arboreals are guardians of the forest and representatives of the trees. As long-
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core-2/plant/arboreal-archive|Arboreal Archive]] (Creature 12), [[srd/pf2e/bestiary/monster-core-2/plant/arboreal-reaper|Arboreal Reaper]] (Creature 7), [[srd/pf2e/bestiary/monster-core/plant/arboreal-regent|Arboreal Regent]] (Creature 8), Arboreal Sapling (Creature 2), Arboreal Sapstriker (Creature 6), Arboreal Shepherd (Creature 5), [[srd/pf2e/bestiary/monster-core/plant/arboreal-warden|Arboreal Warden]] (Creature 4), [[srd/pf2e/bestiary/monster-core/plant/awakened-tree|Awakened Tree]] (Creature 6)
+[[srd/pf2e/bestiary/monster-core-2/plant/Arboreal Archive|Arboreal Archive]] (Creature 12), [[srd/pf2e/bestiary/monster-core-2/plant/Arboreal Reaper|Arboreal Reaper]] (Creature 7), [[srd/pf2e/bestiary/monster-core/plant/Arboreal Regent|Arboreal Regent]] (Creature 8), Arboreal Sapling (Creature 2), Arboreal Sapstriker (Creature 6), Arboreal Shepherd (Creature 5), [[srd/pf2e/bestiary/monster-core/plant/Arboreal Warden|Arboreal Warden]] (Creature 4), [[srd/pf2e/bestiary/monster-core/plant/Awakened Tree|Awakened Tree]] (Creature 6)
 
 ### Felled Arboreals
 

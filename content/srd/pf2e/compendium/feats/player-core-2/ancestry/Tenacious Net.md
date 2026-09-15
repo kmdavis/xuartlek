@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Tripkee`
 
-Escaping your nets is no simple task. The [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] DC to [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] your nets increases from 16 to 18. After a creature you [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] with a net Escapes or Forces Open the net, stray strands of the net cling to the creature, causing them to remain [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the beginning of their next turn.
+Escaping your nets is no simple task. The [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] DC to [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] your nets increases from 16 to 18. After a creature you [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] with a net Escapes or Forces Open the net, stray strands of the net cling to the creature, causing them to remain [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] until the beginning of their next turn.
 
 *Source: Player Core 2 p. 38*

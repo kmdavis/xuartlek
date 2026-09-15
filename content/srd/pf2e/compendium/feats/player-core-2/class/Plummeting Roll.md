@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Swashbuckler`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]]
 
-Through nimble movements, a graceful landing, and a bit of luck, you can manage to fall from spectacular heights without a scratch. You gain the [[srd/pf2e/compendium/feats/player-core/skill/cat-fall|Cat Fall]] skill feat and the following reaction.
+Through nimble movements, a graceful landing, and a bit of luck, you can manage to fall from spectacular heights without a scratch. You gain the [[srd/pf2e/compendium/feats/player-core/skill/Cat Fall|Cat Fall]] skill feat and the following reaction.
 
  **Plummeting Roll** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** You fall at least 10 feet and take no damage from the fall; **Effect** You tuck and roll with the motion. You land on your feet and Stride up to half your Speed.
 

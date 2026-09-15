@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Magus
 
-At 2nd level and every 2 levels thereafter, you gain a magus class feat.
+At 2nd level and every 2 levels thereafter, you gain a [magus class feat](https://2e.aonprd.com/Feats.aspx?Traits=953).
 
 *Source: Impossible Magic p. 9*

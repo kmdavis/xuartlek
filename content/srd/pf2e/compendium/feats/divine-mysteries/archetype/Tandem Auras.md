@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/battle-harbinger|Battle Harbinger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/battle-harbinger-dedication|Battle Harbinger Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Battle Harbinger|Battle Harbinger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Battle Harbinger Dedication|Battle Harbinger Dedication]]
 
 You’ve learned how to maintain multiple auras at once, reinforcing them simultaneously. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] a battle aura, you can also Sustain a different battle aura you have active.
 

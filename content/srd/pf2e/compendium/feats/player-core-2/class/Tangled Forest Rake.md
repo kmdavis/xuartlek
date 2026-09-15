@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Monk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/tangled-forest-stance|Tangled Forest Stance]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Tangled Forest Stance|Tangled Forest Stance]]
 - **Requirements**: You are in Tangled Forest Stance.
 
 You reposition foes with raking attacks. Make a lashing branch Strike. If you hit and deal damage, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]] the target up to 10 feet. You can move the target through your space during this movement.

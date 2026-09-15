@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Champion`  `Fighter`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bastion|Bastion]] (Level 10), [[srd/pf2e/compendium/character/archetypes/viking|Viking]] (Level 10)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Bastion|Bastion]] (Level 10), [[srd/pf2e/compendium/character/archetypes/Viking|Viking]] (Level 10)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/general/Shield Block|Shield Block]]
 
 You can bring your shield into place with hardly a thought. At the start of each of your turns, you gain an additional reaction that you can use only to Shield Block.
 

@@ -28,14 +28,14 @@ modifier: 17
 perception:
   - name: "Perception"
     desc: "+17"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +22, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +21, [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] +20"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] +22, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +21, [[srd/pf2e/compendium/rules-elements/skills/Lore|Warfare Lore]] +20"
 abilityMods: [5, 1, 2, 4, 3, 0]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/club/mace|mace]]_, spellbook, Steel Shield (Hardness 5, HP 20, BT 10)"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/Armor#Full Plate|full plate]]_, _+1 [[srd/pf2e/compendium/equipment/runes/Striking|striking]] [[srd/pf2e/compendium/equipment/weapons/club/Mace|mace]]_, spellbook, Steel Shield (Hardness 5, HP 20, BT 10)"
 ac: 29
 armorclass:
   - name: "AC"
@@ -50,22 +50,22 @@ abilities_mid:
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _mace_ +22 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|Shove]]) __Damage__ 2d6+11 bludgeoning"
+    desc: "⬻ _mace_ +22 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Shove|Shove]]) __Damage__ 2d6+11 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+11 bludgeoning"
+    desc: "⬻ fist +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|Unarmed]]) __Damage__ 1d4+11 bludgeoning"
 abilities_bot:
   - name: "Wizard School Spells"
-    desc: "DC 28, 2 Focus Points - __5th__ [[srd/pf2e/compendium/spells/focus/energy-absorption|Energy Absorption]], [[srd/pf2e/compendium/spells/focus/force-bolt|Force Bolt]]"
+    desc: "DC 28, 2 Focus Points - __5th__ [[srd/pf2e/compendium/spells/focus/Energy Absorption|Energy Absorption]], [[srd/pf2e/compendium/spells/focus/Force Bolt|Force Bolt]]"
   - name: "Bespell Strikes"
     desc: "⭓"
   - name: "Frequency"
     desc: "once per turn"
   - name: "Requirements"
-    desc: "The mage knight's most recent action was to cast a non-[[srd/pf2e/compendium/rules-elements/traits/player-core/cantrip|cantrip]] spell"
+    desc: "The mage knight's most recent action was to cast a non-[[srd/pf2e/compendium/rules-elements/traits/player-core/Cantrip|cantrip]] spell"
   - name: "Effect"
-    desc: "The mage knight siphons spell energy into one weapon they're wielding, or into one of their [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attacks. Until the end of the turn, the weapon or unarmed attack deals an extra 2d6 force damage and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]] trait if it didn't have it already. If the spell dealt a different type of damage, the Strike deals this type of damage instead."
+    desc: "The mage knight siphons spell energy into one weapon they're wielding, or into one of their [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attacks. Until the end of the turn, the weapon or unarmed attack deals an extra 2d6 force damage and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]] trait if it didn't have it already. If the spell dealt a different type of damage, the Strike deals this type of damage instead."
   - name: "Drain Bonded Item"
-    desc: "⭓ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]])"
+    desc: "⭓ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|Arcane]])"
   - name: "Frequency"
     desc: "once per day"
   - name: "Requirements"
@@ -74,7 +74,7 @@ abilities_bot:
     desc: "The mage knight expends the power stored in their bonded item (typically their shield). This gives them the ability to cast one prepared spell they prepared today and already cast, without spending a slot."
 spellcasting:
   - name: "Arcane Prepared Spells"
-    desc: "DC 28, attack +20 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/electric-arc|Electric Arc]], [[srd/pf2e/compendium/spells/cantrips/frostbite|Frostbite]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/read-aura|Read Aura]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-projectile|Telekinetic Projectile]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/enfeeble|Enfeeble]], [[srd/pf2e/compendium/spells/rank-1/fleet-step|Fleet Step]], [[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (×2), [[srd/pf2e/compendium/spells/rank-2/mist|Mist]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/earthbind|Earthbind]], [[srd/pf2e/compendium/spells/rank-3/vampiric-feast|Vampiric Feast]], [[srd/pf2e/compendium/spells/rank-3/wall-of-thorns|Wall of Thorns]] - __4th__ [[srd/pf2e/compendium/spells/rank-3/fireball|Fireball]], [[srd/pf2e/compendium/spells/rank-4/fly|Fly]], [[srd/pf2e/compendium/spells/rank-4/weapon-storm|Weapon Storm]] - __5th__ [[srd/pf2e/compendium/spells/rank-1/force-barrage|Force Barrage]], [[srd/pf2e/compendium/spells/rank-5/impaling-spike|Impaling Spike]], [[srd/pf2e/compendium/spells/rank-5/toxic-cloud|Toxic Cloud]]"
+    desc: "DC 28, attack +20 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/Electric Arc|Electric Arc]], [[srd/pf2e/compendium/spells/cantrips/Frostbite|Frostbite]], [[srd/pf2e/compendium/spells/cantrips/Light|Light]], [[srd/pf2e/compendium/spells/cantrips/Read Aura|Read Aura]], [[srd/pf2e/compendium/spells/cantrips/Telekinetic Hand|Telekinetic Hand]], [[srd/pf2e/compendium/spells/cantrips/Telekinetic Projectile|Telekinetic Projectile]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Enfeeble|Enfeeble]], [[srd/pf2e/compendium/spells/rank-1/Fleet Step|Fleet Step]], [[srd/pf2e/compendium/spells/rank-1/Sure Strike|Sure Strike]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Invisibility|Invisibility]] (×2), [[srd/pf2e/compendium/spells/rank-2/Mist|Mist]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/Earthbind|Earthbind]], [[srd/pf2e/compendium/spells/rank-3/Vampiric Feast|Vampiric Feast]], [[srd/pf2e/compendium/spells/rank-3/Wall of Thorns|Wall of Thorns]] - __4th__ [[srd/pf2e/compendium/spells/rank-3/Fireball|Fireball]], [[srd/pf2e/compendium/spells/rank-4/Fly|Fly]], [[srd/pf2e/compendium/spells/rank-4/Weapon Storm|Weapon Storm]] - __5th__ [[srd/pf2e/compendium/spells/rank-1/Force Barrage|Force Barrage]], [[srd/pf2e/compendium/spells/rank-5/Impaling Spike|Impaling Spike]], [[srd/pf2e/compendium/spells/rank-5/Toxic Cloud|Toxic Cloud]]"
 sourcebook: "_NPC Core_, page 94."
 ```
 

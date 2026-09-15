@@ -17,11 +17,11 @@ socialImage: og-image.png
 
 `Concentrate`  `Holy`  `Manipulate`  `Summon`
 
-- **Tradition**: Divine
+- **Tradition**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2)
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 
-You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/celestial|celestial]] trait and whose level is 5 or lower to fight for you. The GM might determine your deity restricts the specific types of celestials you can summon in certain cases. For instance, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/calistria|Calistria]] doesn't typically allow her followers to summon aeons.
+You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Celestial|celestial]] trait and whose level is 5 or lower to fight for you. The GM might determine your deity restricts the specific types of celestials you can summon in certain cases. For instance, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Calistria|Calistria]] doesn't typically allow her followers to summon aeons.
 
 ---
 **Heightened (6th)** Level 7.

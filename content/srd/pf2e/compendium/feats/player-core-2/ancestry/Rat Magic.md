@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Ratfolk`
 
-There always seems to be a little rat around to carry messages for you. You can cast [[srd/pf2e/compendium/spells/rank-2/animal-messenger|_animal messenger_]] once per day as a primal innate spell. When you do, the animal that responds is always a rat. If there are no rats within range, the spell is lost.
+There always seems to be a little rat around to carry messages for you. You can cast [[srd/pf2e/compendium/spells/rank-2/Animal Messenger|_animal messenger_]] once per day as a primal innate spell. When you do, the animal that responds is always a rat. If there are no rats within range, the spell is lost.
 
 *Source: Player Core 2 p. 30*

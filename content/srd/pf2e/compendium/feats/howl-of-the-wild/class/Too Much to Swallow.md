@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Druid`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/untamed-form|Untamed Form]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Untamed Form|Untamed Form]]
 - **Trigger**: You’re subject to an effect you could attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]].
 
-While you might be small enough to grab normally, you can change that at a moment's notice. You cast [[srd/pf2e/compendium/spells/focus/untamed-form|_untamed form_]]. If you took on a new form that's too large for the effect, you automatically escape. Otherwise, you attempt to Escape. If this ends an effect where you entered the creature's space, such as Swallow Whole, exit that creature to an adjacent area where your new form could fit.
+While you might be small enough to grab normally, you can change that at a moment's notice. You cast [[srd/pf2e/compendium/spells/focus/Untamed Form|_untamed form_]]. If you took on a new form that's too large for the effect, you automatically escape. Otherwise, you attempt to Escape. If this ends an effect where you entered the creature's space, such as Swallow Whole, exit that creature to an adjacent area where your new form could fit.
 
 *Source: Howl of the Wild p. 57*

@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
 You can move your full Speed when you Sneak. You can use Swift Sneak while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.
 
 ### Swift Sneak leads to...
 
-[[srd/pf2e/compendium/feats/player-core/skill/legendary-sneak|Legendary Sneak]]
+[[srd/pf2e/compendium/feats/player-core/skill/Legendary Sneak|Legendary Sneak]]
 
 *Source: Player Core p. 263*

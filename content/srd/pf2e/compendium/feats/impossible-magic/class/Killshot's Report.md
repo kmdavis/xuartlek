@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Magus`
 
-- **Prerequisites**: [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Spellstrike|Spellstrike]]; volatile spark hybrid study
+- **Prerequisites**: [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Spellstrike|Spellstrike]]; [[srd/pf2e/compendium/character/Hybrid Studies#Volatile Spark|volatile spark hybrid study]]
 - **Requirements**: Your Spellstrike reduces an enemy to 0 HP.
 
 As you drop an enemy, a loud echo issues out as you chain the spell’s energy to a nearby creature. Choose a secondary target within 10 feet of the creature you reduced to 0 HP. This secondary target is affected by the spell you used for your Spellstrike. The creature gets any defense against the spell that Spellstrike normally allows, and you use your Strike result for a spell attack roll if needed. If the secondary target was already affected by the spell in some way (in the area of an Expansive Spellstrike, for example), it can’t be affected a second time.

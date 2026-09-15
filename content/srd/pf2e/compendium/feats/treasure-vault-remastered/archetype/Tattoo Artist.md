@@ -16,12 +16,12 @@ socialImage: og-image.png
 `General`  `Skill`
 
 - **Archetypes**: Runelord (Level 2)
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-You can craft tattoos, including magical tattoos. When you select this feat, you gain the formulas for four common magical tattoos of 2nd level or lower. You gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] checks to Craft tattoos. If you're a master in Crafting, this bonus increases to +2 and you gain the formulas for four common magical tattoos of 7th level or lower.
+You can craft tattoos, including [magical tattoos](https://2e.aonprd.com/Equipment.aspx?Category=46). When you select this feat, you gain the formulas for four common magical tattoos of 2nd level or lower. You gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] checks to Craft tattoos. If you're a master in Crafting, this bonus increases to +2 and you gain the formulas for four common magical tattoos of 7th level or lower.
 
 ### Tattoo Artist leads to...
 
-[[srd/pf2e/compendium/feats/treasure-vault-remastered/skill/legendary-tattoo-artist|Legendary Tattoo Artist]]
+[[srd/pf2e/compendium/feats/treasure-vault-remastered/skill/Legendary Tattoo Artist|Legendary Tattoo Artist]]
 
 *Source: Treasure Vault (Remastered) p. 118*

@@ -15,13 +15,13 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/scout|Scout]]
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Scout|Scout]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
 You are a highly skilled scout, capable of guiding your allies, detecting imminent threats, and avoiding the attention of dangerous enemies. You can perform the [[srd/pf2e/compendium/rules-elements/actions/player-core#Scout|Scout]] exploration activity at the same time as the [[srd/pf2e/compendium/rules-elements/actions/player-core#Avoid Notice|Avoid Notice]] exploration activity. The bonus to initiative you grant when you Scout is +2 instead of +1.
 
 ### Scout Dedication leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/fleeting-shadow|Fleeting Shadow]], [[srd/pf2e/compendium/feats/player-core-2/archetype/scouts-charge|Scout's Charge]], [[srd/pf2e/compendium/feats/player-core-2/archetype/scouts-pounce|Scout's Pounce]], [[srd/pf2e/compendium/feats/player-core-2/archetype/scouts-speed|Scout's Speed]], [[srd/pf2e/compendium/feats/player-core-2/archetype/terrain-scout|Terrain Scout]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Fleeting Shadow|Fleeting Shadow]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Scout's Charge|Scout's Charge]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Scout's Pounce|Scout's Pounce]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Scout's Speed|Scout's Speed]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Terrain Scout|Terrain Scout]]
 
 *Source: Player Core 2 p. 212*

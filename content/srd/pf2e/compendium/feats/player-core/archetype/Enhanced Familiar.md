@@ -20,8 +20,8 @@ socialImage: og-image.png
 
 `Animist`  `Druid`  `Magus`  `Sorcerer`  `Thaumaturge`  `Witch`  `Wizard`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/familiar-master|Familiar Master]] (Level 4), [[srd/pf2e/compendium/character/archetypes/elementalist|Elementalist]] (Level 6), Shadowcaster (Level 6), [[srd/pf2e/compendium/character/archetypes/rivethun-emissary|Rivethun Emissary]] (Level 6)
-- **Prerequisites**: a [[srd/pf2e/compendium/character/familiar-abilities|familiar]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Familiar Master|Familiar Master]] (Level 4), [[srd/pf2e/compendium/character/archetypes/Elementalist|Elementalist]] (Level 6), Shadowcaster (Level 6), [[srd/pf2e/compendium/character/archetypes/Rivethun Emissary|Rivethun Emissary]] (Level 6)
+- **Prerequisites**: a [[srd/pf2e/compendium/character/Familiar Abilities|familiar]]
 
 You infuse your familiar with additional primal energy, increasing its abilities. You can select four familiar or master abilities each day, instead of two.
 
@@ -29,6 +29,6 @@ You infuse your familiar with additional primal energy, increasing its abilities
 
 ### Enhanced Familiar leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/incredible-familiar|Incredible Familiar]], [[srd/pf2e/compendium/feats/player-core-2/archetype/incredible-familiar-familiar-master|Incredible Familiar (Familiar Master)]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Incredible Familiar|Incredible Familiar]], [[srd/pf2e/compendium/feats/war-of-immortals/class/Incredible Familiar (Animist)|Incredible Familiar (Animist)]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Incredible Familiar (Familiar Master)|Incredible Familiar (Familiar Master)]]
 
 *Source: Player Core p. 129*

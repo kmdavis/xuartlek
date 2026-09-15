@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Alchemist`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/far-lobber|Far Lobber]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Far Lobber|Far Lobber]]
 
-You lob bombs unerringly, despite obstructions or distance. When you throw an [[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|alchemical]] item with the [[srd/pf2e/compendium/rules-elements/traits/player-core/bomb|bomb]] trait, its [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Range|range increment]] increases to 60 feet, you reduce any circumstance bonus to the target's AC from [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|cover]] by 1, and you automatically succeed at the flat check when targeting a [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] creature.
+You lob bombs unerringly, despite obstructions or distance. When you throw an [[srd/pf2e/compendium/rules-elements/traits/player-core/Alchemical|alchemical]] item with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Bomb|bomb]] trait, its [[srd/pf2e/books/player-core/chapter-6-equipment/Weapons#Range|range increment]] increases to 60 feet, you reduce any circumstance bonus to the target's AC from [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Cover|cover]] by 1, and you automatically succeed at the flat check when targeting a [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] creature.
 
 *Source: Player Core 2 p. 68*

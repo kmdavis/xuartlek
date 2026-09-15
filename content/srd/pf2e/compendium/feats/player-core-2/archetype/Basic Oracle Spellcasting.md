@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/oracle|Oracle]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/oracle-dedication|Oracle Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Oracle|Oracle]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Oracle Dedication|Oracle Dedication]]
 
 You gain the basic spellcasting benefits. When you gain a spell slot of a new rank from the oracle archetype, add a common divine spell or another divine spell you have learned or discovered (including the granted spells associated with your mystery) to your repertoire, of that spell rank.
 
 ### Basic Oracle Spellcasting leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/expert-oracle-spellcasting|Expert Oracle Spellcasting]], [[srd/pf2e/compendium/feats/player-core-2/archetype/mysterious-breadth|Mysterious Breadth]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Expert Oracle Spellcasting|Expert Oracle Spellcasting]], [[srd/pf2e/compendium/feats/player-core-2/archetype/Mysterious Breadth|Mysterious Breadth]]
 
 *Source: Player Core 2 p. 180*

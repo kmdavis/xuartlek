@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Alchemist`
 
-Your research has paid off, culminating in the legendary philosopher's stone. You learn the formula for the [[srd/pf2e/compendium/equipment/alchemical-items/philosophers-stone|philosopher's stone]] and can add it to your [[srd/pf2e/compendium/equipment/adventuring-gear/formula-book-blank|formula book]].
+Your research has paid off, culminating in the legendary philosopher's stone. You learn the formula for the [[srd/pf2e/compendium/equipment/alchemical-items/Philosopher's Stone|philosopher's stone]] and can add it to your [[srd/pf2e/compendium/equipment/adventuring-gear/Formula Book (Blank)|formula book]].
 
 *Source: Player Core 2 p. 69*

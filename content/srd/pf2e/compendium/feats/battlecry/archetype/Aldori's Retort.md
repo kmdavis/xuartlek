@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/aldori-duelist|Aldori Duelist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/aldori-duelist-dedication|Aldori Duelist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Aldori Duelist|Aldori Duelist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Aldori Duelist Dedication|Aldori Duelist Dedication]]
 
-You can flow through combat reactions with graceful ease. At the start of each of your turns, you gain an additional reaction that you can use only for [[srd/pf2e/compendium/feats/battlecry/archetype/aldori-riposte|Aldori Riposte]], [[srd/pf2e/compendium/feats/battlecry/archetype/saving-slash|Saving Slash]], or any [[srd/pf2e/books/gm-core/chapter-4-subsystems/duels|dueling]] action.
+You can flow through combat reactions with graceful ease. At the start of each of your turns, you gain an additional reaction that you can use only for [[srd/pf2e/compendium/feats/battlecry/archetype/Aldori Riposte|Aldori Riposte]], [[srd/pf2e/compendium/feats/battlecry/archetype/Saving Slash|Saving Slash]], or any [[srd/pf2e/books/gm-core/chapter-4-subsystems/Duels|dueling]] action.
 
 *Source: Battlecry! p. 55*

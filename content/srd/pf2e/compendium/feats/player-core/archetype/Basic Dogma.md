@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/cleric|Cleric]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/cleric-dedication|Cleric Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Cleric|Cleric]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Cleric Dedication|Cleric Dedication]]
 
-You gain a 1st- or 2nd-level cleric feat.
+You gain a 1st- or 2nd-level [cleric feat](https://2e.aonprd.com/Feats.aspx?Traits=26).
 
 ### Basic Dogma leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/advanced-dogma|Advanced Dogma]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Advanced Dogma|Advanced Dogma]]
 
 *Source: Player Core p. 217*

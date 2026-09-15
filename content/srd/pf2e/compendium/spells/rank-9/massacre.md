@@ -18,8 +18,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Death`  `Manipulate`  `Void`  `Negative`
 
-- **Traditions**: Arcane, Divine, Primal
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Aesir|Aesir]]
 - **Area**: 60-foot line
 - **Defense**: Fortitude
 

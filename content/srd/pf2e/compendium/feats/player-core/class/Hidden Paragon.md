@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Rogue`
 
 - **Frequency**: once per hour
-- **Prerequisites**: Legendary in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+- **Prerequisites**: Legendary in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 - **Trigger**: You successfully use Stealth to Hide and become hidden from all of your current foes, or use Stealth to Sneak and become undetected to all your current foes
 
 When you slip out of sight, you disappear. You become invisible for 1 minute, even if you use a hostile action. Not even revealing light, see the unseen, or similar effects can reveal you, though creatures can still use the Seek action to locate you as normal.

@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/cavalier|Cavalier]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/cavalier-dedication|Cavalier Dedication]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Cavalier|Cavalier]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Cavalier Dedication|Cavalier Dedication]]; Trained in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 - **Trigger**: You fall from a height of 15 feet or higher.
 - **Requirements**: Your mount can reach your landing location with a single Stride.
 

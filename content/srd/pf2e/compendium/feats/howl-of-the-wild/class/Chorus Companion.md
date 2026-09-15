@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Bard`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/muses#Zoophonia|zoophonia muse]], mature animal companion
+- **Prerequisites**: [[srd/pf2e/compendium/character/Muses#Zoophonia|zoophonia muse]], mature animal companion
 
-Animals can be musical partners as much as the subjects or audience. Your animal companion becomes trained in [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] (or expert if it was already trained). When you cast a [[srd/pf2e/compendium/rules-elements/traits/player-core/composition|composition]] spell, you can have it originate either from you or from your animal companion, if your animal companion is within 30 feet of you.
+Animals can be musical partners as much as the subjects or audience. Your animal companion becomes trained in [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] (or expert if it was already trained). When you cast a [[srd/pf2e/compendium/rules-elements/traits/player-core/Composition|composition]] spell, you can have it originate either from you or from your animal companion, if your animal companion is within 30 feet of you.
 
 *Source: Howl of the Wild p. 65*

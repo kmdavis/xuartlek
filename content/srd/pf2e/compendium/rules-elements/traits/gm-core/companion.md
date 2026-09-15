@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Companion`
 
-An item with this trait can be worn by an [[srd/pf2e/compendium/character/animal-companions|animal companion]] or similar creature. A companion can have up to two items invested.
+An item with this trait can be worn by an [[srd/pf2e/compendium/character/Animal Companions|animal companion]] or similar creature. A companion can have up to two items invested.
 
 *Source: GM Core p. 272*

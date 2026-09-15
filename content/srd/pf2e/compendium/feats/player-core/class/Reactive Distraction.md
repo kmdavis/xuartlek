@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Rogue`
 
-- **Prerequisites**: Legendary in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]; [[srd/pf2e/compendium/feats/player-core/class/perfect-distraction|Perfect Distraction]]
+- **Prerequisites**: Legendary in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]; [[srd/pf2e/compendium/feats/player-core/class/Perfect Distraction|Perfect Distraction]]
 - **Trigger**: You would be hit by an attack or targeted by an effect, or you are within an effect’s area
 - **Requirements**: You have Perfect Distraction ready to use
 

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/runesmith|Runesmith]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Runesmith|Runesmith]]
 
 You become an expert in runesmith class DC.
 

@@ -30,7 +30,7 @@ This staff is carved of golden birchwood, and its roughly patterned surface rese
 
 ---
 
-**Cantrip** [[srd/pf2e/compendium/spells/cantrips/timber|_ timber_]]**1st** [[srd/pf2e/compendium/spells/rank-1/protector-tree|_protector tree_]], [[srd/pf2e/compendium/spells/rank-1/wooden-fists|_wooden fists_]]
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/Timber|_ timber_]]**1st** [[srd/pf2e/compendium/spells/rank-1/Protector Tree|_protector tree_]], [[srd/pf2e/compendium/spells/rank-1/Wooden Fists|_wooden fists_]]
 
 ### Greater Birchstaff
 
@@ -38,7 +38,7 @@ This staff is carved of golden birchwood, and its roughly patterned surface rese
 
 ---
 
-**2nd** [[srd/pf2e/compendium/spells/rank-2/helpful-wood-spirits|_helpful wood spirits_]], [[srd/pf2e/compendium/spells/rank-2/splinter-volley|_splinter volley_]]**3rd** _soothing blossoms_, [[srd/pf2e/compendium/spells/rank-3/wooden-double|_wooden double_]] ,[[srd/pf2e/compendium/spells/rank-1/wooden-fists|_wooden fists_]] 
+**2nd** [[srd/pf2e/compendium/spells/rank-2/Helpful Wood Spirits|_helpful wood spirits_]], [[srd/pf2e/compendium/spells/rank-2/Splinter Volley|_splinter volley_]]**3rd** _soothing blossoms_, [[srd/pf2e/compendium/spells/rank-3/Wooden Double|_wooden double_]] ,[[srd/pf2e/compendium/spells/rank-1/Wooden Fists|_wooden fists_]] 
 
 ### Major Birchstaff
 
@@ -46,6 +46,6 @@ This staff is carved of golden birchwood, and its roughly patterned surface rese
 
 ---
 
-**4th** [[srd/pf2e/compendium/spells/rank-4/blood-chestnuts|_blood chestnuts_]], [[srd/pf2e/compendium/spells/rank-4/life-draining-roots|_life-draining roots_]]**5th** [[srd/pf2e/compendium/spells/rank-5/entwined-roots|_entwined roots_]], [[srd/pf2e/compendium/spells/rank-5/tree-of-life-and-death|_tree of life and death_]]
+**4th** [[srd/pf2e/compendium/spells/rank-4/Blood Chestnuts|_blood chestnuts_]], [[srd/pf2e/compendium/spells/rank-4/Life-Draining Roots|_life-draining roots_]]**5th** [[srd/pf2e/compendium/spells/rank-5/Entwined Roots|_entwined roots_]], [[srd/pf2e/compendium/spells/rank-5/Tree of Life and Death|_tree of life and death_]]
 
 *Source: Impossible Magic p. 238*

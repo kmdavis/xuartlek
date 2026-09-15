@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Commander`
 
-- **PFS Note**: This feat can be used by [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] PCs, but not PCs who are [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|grappled]], [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]], or otherwise unable to move of their own volition.
+- **PFS Note**: This feat can be used by [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] PCs, but not PCs who are [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|grappled]], [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]], or otherwise unable to move of their own volition.
 - **Trigger**: You or an adjacent willing ally are the target of an attack.
 
 You and your allies work together selflessly to protect each other from harm. You and the required ally immediately swap positions with each other, and whichever of you was not the target of the triggering attack becomes the target instead.

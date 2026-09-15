@@ -46,8 +46,8 @@ Seismic amplifiers are devastating underground, where they tap into the energy o
 
 **Aim** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") 200 feet, minimum distance 50 feet 
 
-**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 3 times, requires a successful DC 25 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check 
+**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]]) 3 times, requires a successful DC 25 [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check 
 
-**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Range|range increment 200 feet]]) 9d12 bludgeoning, 5-foot burst, DC 33 Reflex
+**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]], [[srd/pf2e/books/player-core/chapter-6-equipment/Weapons#Range|range increment 200 feet]]) 9d12 bludgeoning, 5-foot burst, DC 33 Reflex
 
 *Source: Howl of the Wild p. 117*

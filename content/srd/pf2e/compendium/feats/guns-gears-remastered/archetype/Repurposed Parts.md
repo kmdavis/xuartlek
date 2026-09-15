@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/trapsmith|Trapsmith]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/trapsmith-dedication|Trapsmith Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Trapsmith|Trapsmith]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Trapsmith Dedication|Trapsmith Dedication]]
 
-You are familiar with the fittings and cogwheels of your snares and can repurpose parts from prepared quick-deploy snares to assemble a new creation on the fly. Using two of the snares you prepared for quick deployment during daily preparations, you can quickly deploy a different snare that you know how to Craft, even if you didn't prepare that snare during your daily preparations.
+You are familiar with the fittings and cogwheels of your [snares](https://2e.aonprd.com/Equipment.aspx?Category=31) and can repurpose parts from prepared quick-deploy snares to assemble a new creation on the fly. Using two of the snares you prepared for quick deployment during daily preparations, you can quickly deploy a different snare that you know how to Craft, even if you didn't prepare that snare during your daily preparations.
 
 *Source: Guns & Gears (Remastered) p. 54*

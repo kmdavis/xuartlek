@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 60 feet
-- **Area**: 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
+- **Area**: 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]]
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex
 
 You conjure a horrific cloud of tiny dancing bone shards that collapses like a torrent of rain upon those unfortunate enough to be nearby. Creatures in the area take 10d4 piercing damage and 5 persistent bleed damage (basic Reflex save).
 

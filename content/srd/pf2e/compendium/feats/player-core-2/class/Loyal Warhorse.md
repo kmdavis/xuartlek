@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Champion`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/faithful-steed|Faithful Steed]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Faithful Steed|Faithful Steed]]
 
-The loyalty you and your mount share is unbreakable. The mount you gained with Faithful Steed is now a [[srd/pf2e/books/player-core/chapter-3-classes/companions#Mature Animal Companions|mature animal companion]]. In addition, your mount never attacks you, even if it is magically compelled to do so.
+The loyalty you and your mount share is unbreakable. The mount you gained with Faithful Steed is now a [[srd/pf2e/books/player-core/chapter-3-classes/Companions#Mature Animal Companions|mature animal companion]]. In addition, your mount never attacks you, even if it is magically compelled to do so.
 
 ### Loyal Warhorse leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/imposing-destrier|Imposing Destrier]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Imposing Destrier|Imposing Destrier]]
 
 *Source: Player Core 2 p. 95*

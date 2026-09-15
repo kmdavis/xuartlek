@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Attack`  `Concentrate`  `Manipulate`  `Spirit`
 
-- **Traditions**: Divine, Occult
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Defense**: AC
 - **Duration**: 1 minute
 

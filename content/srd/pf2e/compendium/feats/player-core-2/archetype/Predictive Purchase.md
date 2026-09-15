@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 - **Archetype**: Twilight Talon (Level 10)
 
-You have just the thing for the situation. You gain the [[srd/pf2e/compendium/feats/player-core/general/prescient-planner|Prescient Planner]] and [[srd/pf2e/compendium/feats/player-core/general/prescient-consumable|Prescient Consumable]] feats. When using Prescient Planner, you can pull out the item as a 2-action activity to remove your backpack (or a similar container) and draw the item, rather than taking 1 minute.
+You have just the thing for the situation. You gain the [[srd/pf2e/compendium/feats/player-core/general/Prescient Planner|Prescient Planner]] and [[srd/pf2e/compendium/feats/player-core/general/Prescient Consumable|Prescient Consumable]] feats. When using Prescient Planner, you can pull out the item as a 2-action activity to remove your backpack (or a similar container) and draw the item, rather than taking 1 minute.
 
 ### Predictive Purchase leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/implausible-purchase|Implausible Purchase]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Implausible Purchase|Implausible Purchase]]
 
 *Source: Player Core 2 p. 109*

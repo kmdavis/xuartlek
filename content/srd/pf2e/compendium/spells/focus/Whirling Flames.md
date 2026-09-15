@@ -18,10 +18,10 @@ socialImage: og-image.png
 
 `Fire`  `Focus`  `Manipulate`  `Oracle`  `Uncommon`
 
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Flames|Flames]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Flames|Flames]]
 - **Range**: 30 feet
 - **Area**: up to two 5-foot bursts that don’t overlap
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex
 
 You call forth a storm of whirling flames, engulfing all creatures in that area and dealing 5d6 fire damage with a basic Reflex save.
 

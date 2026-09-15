@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Teleportation`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/black-butterfly|Black Butterfly]], [[srd/pf2e/compendium/deities/pantheons/guardians-of-the-sacred-self|Guardians of the Sacred Self]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]], [[srd/pf2e/compendium/deities/eldest/ng|Ng]], Phi Deva
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/Black Butterfly|Black Butterfly]], [[srd/pf2e/compendium/deities/pantheons/Guardians of the Sacred Self|Guardians of the Sacred Self]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Nethys|Nethys]], [[srd/pf2e/compendium/deities/eldest/Ng|Ng]], Phi Deva
 - **Duration**: 1 minute
 
 You flicker quickly between your current plane and another. You gain resistance 5 to all damage, except force. At the end of each of your turns, you automatically teleport 10 feet in a random direction, as determined by the GM. You can Sustain the spell to teleport in this way.

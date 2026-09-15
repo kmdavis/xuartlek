@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Archetype`  `Concentrate`  `Polymorph`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/living-vessel|Living Vessel]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Living Vessel|Living Vessel]]
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/living-vessel-dedication|Living Vessel Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Living Vessel Dedication|Living Vessel Dedication]]
 
 You symbiotically combine your form with that of the entity within you, taking a powerful hybrid form to temporarily boost your abilities in combat while maintaining control. For 1 minute, you gain the following effects. 
 If you were Medium or smaller, you become Large, and your reach increases to 10 feet.You gain a +2 status bonus to attack and damage rolls and a +1 status bonus on saving throws against spells. If you use Entity's Resurgence, the status bonuses to attack and damage rolls increase to +3 during the time that the two effects overlap.If you have the Entity's Strike feat, the unarmed attack you gained from that feat increases its damage die from 1d6 to 1d8.You gain 40 temporary Hit Points.You gain a fly Speed equal to your Speed.

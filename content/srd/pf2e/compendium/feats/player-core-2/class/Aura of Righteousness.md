@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: champion's aura, holy
 
-Your righteous aura dampens evil's might and prevents the unholy from escaping you. You and all allies in your champion's aura gain resistance 5 to [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] spells, unholy Strikes, and other unholy effects. If a [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]] spell or effect would teleport an unholy creature out of your champion's aura, your aura attempts to counteract it, using the spell rank and DC of your devotion spells.
+Your righteous aura dampens evil's might and prevents the unholy from escaping you. You and all allies in your champion's aura gain resistance 5 to [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]] spells, unholy Strikes, and other unholy effects. If a [[srd/pf2e/compendium/rules-elements/traits/player-core/Teleportation|teleportation]] spell or effect would teleport an unholy creature out of your champion's aura, your aura attempts to counteract it, using the spell rank and DC of your devotion spells.
 
 *Source: Player Core 2 p. 98*

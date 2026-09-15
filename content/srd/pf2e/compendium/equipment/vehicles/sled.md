@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 **Crew** 1 pilot
 
-**Piloting Check** Driving [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] (DC 14) or [[srd/pf2e/compendium/character/domains#Nature|Nature]] (DC 16 to DC 24, depending on pulling creature)
+**Piloting Check** Driving [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]] (DC 14) or [[srd/pf2e/compendium/character/Domains#Nature|Nature]] (DC 16 to DC 24, depending on pulling creature)
 
 ---
 

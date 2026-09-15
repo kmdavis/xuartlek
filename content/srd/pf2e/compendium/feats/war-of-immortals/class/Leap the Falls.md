@@ -15,8 +15,10 @@ socialImage: og-image.png
 
 `Exemplar`  `Ikon`
 
+- **Usage**: imbued into a body ikon
+
 Reinforcing your legs with divine energy, you can leap the battlefield as powerfully as a salmon clearing a waterfall. The imbued ikon gains the following ability.
 
-**Immanence** You gain the [[srd/pf2e/compendium/feats/player-core/skill/powerful-leap|Powerful Leap]] and [[srd/pf2e/compendium/feats/player-core/skill/quick-jump|Quick Jump]] skill feats, allowing you to jump further and faster, even if you do not meet the prerequisites for them.
+**Immanence** You gain the [[srd/pf2e/compendium/feats/player-core/skill/Powerful Leap|Powerful Leap]] and [[srd/pf2e/compendium/feats/player-core/skill/Quick Jump|Quick Jump]] skill feats, allowing you to jump further and faster, even if you do not meet the prerequisites for them.
 
 *Source: War of Immortals p. 35*

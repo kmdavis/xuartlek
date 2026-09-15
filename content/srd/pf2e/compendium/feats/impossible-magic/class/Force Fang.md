@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Magus`
 
-You can turn your attack into an unerring blur of force. You learn the [[srd/pf2e/compendium/spells/focus/force-fang|_force fang_]] conflux spell.
+You can turn your attack into an unerring blur of force. You learn the [[srd/pf2e/compendium/spells/focus/Force Fang|_force fang_]] conflux spell.
 
 *Source: Impossible Magic p. 18*

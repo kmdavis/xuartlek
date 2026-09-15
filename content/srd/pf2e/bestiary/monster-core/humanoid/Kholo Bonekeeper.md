@@ -30,14 +30,14 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; low-light vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Kholo|Kholo]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Kholo|Kholo]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +7, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +7, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +7, [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] +7, [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] +10, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +8"
 abilityMods: [2, 2, 0, 0, 3, 0]
 abilities_top:
   - name: "Items"
-    desc: "Falchion, Hide Armor, [[srd/pf2e/compendium/equipment/armor#Gi|wooden religious symbol]]"
+    desc: "Falchion, Hide Armor, [[srd/pf2e/compendium/equipment/Armor#Gi|wooden religious symbol]]"
 ac: 19
 armorclass:
   - name: "AC"
@@ -49,9 +49,9 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ falchion +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d10+3 slashing"
+    desc: "⬻ falchion +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|Sweep]]) __Damage__ 1d10+3 slashing"
   - name: "Melee"
-    desc: "⬻ jaws +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+3 piercing"
+    desc: "⬻ jaws +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d6+3 piercing"
 abilities_bot:
   - name: "Pack Attack"
     desc: "A kholo bonekeeper deals 1d4 extra damage to any creature that's within reach of at least two of the kholo bonekeeper's allies."
@@ -59,7 +59,7 @@ abilities_bot:
     desc: "A kholo ignores the first square of difficult terrain they move into each time they Step or Stride."
 spellcasting:
   - name: "Divine Prepared Spells"
-    desc: "DC 20, attack +12 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/read-aura|Read Aura]], [[srd/pf2e/compendium/spells/cantrips/sigil|Sigil]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/command|Command]], [[srd/pf2e/compendium/spells/rank-1/fear|Fear]], [[srd/pf2e/compendium/spells/rank-1/runic-weapon|Runic Weapon]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/darkness|Darkness]], [[srd/pf2e/compendium/spells/rank-1/harm|Harm]] (×4), [[srd/pf2e/compendium/spells/rank-2/spiritual-armament|Spiritual Armament]]"
+    desc: "DC 20, attack +12 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/Daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/Detect Magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/Light|Light]], [[srd/pf2e/compendium/spells/cantrips/Read Aura|Read Aura]], [[srd/pf2e/compendium/spells/cantrips/Sigil|Sigil]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/Command|Command]], [[srd/pf2e/compendium/spells/rank-1/Fear|Fear]], [[srd/pf2e/compendium/spells/rank-1/Runic Weapon|Runic Weapon]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Darkness|Darkness]], [[srd/pf2e/compendium/spells/rank-1/Harm|Harm]] (×4), [[srd/pf2e/compendium/spells/rank-2/Spiritual Armament|Spiritual Armament]]"
 sourcebook: "_Monster Core_, page 209."
 ```
 

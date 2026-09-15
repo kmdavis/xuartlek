@@ -18,8 +18,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Detection`  `Manipulate`  `Mental`  `Uncommon`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: Enkaar, Eyes That Watch, Grasping Iovett, Husk, [[srd/pf2e/compendium/deities/other-gods/razmir|Razmir]], Reshmit of the Heavy Voice
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: Enkaar, Eyes That Watch, Grasping Iovett, Husk, [[srd/pf2e/compendium/deities/other-gods/Razmir|Razmir]], Reshmit of the Heavy Voice
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/cavalier|Cavalier]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/cavalier-dedication|Cavalier Dedication]]
-- **Requirements**: You are riding your mount and wielding a [[srd/pf2e/compendium/rules-elements/traits/player-core/jousting|Jousting]] weapon.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Cavalier|Cavalier]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Cavalier Dedication|Cavalier Dedication]]
+- **Requirements**: You are riding your mount and wielding a [[srd/pf2e/compendium/rules-elements/traits/player-core/Jousting|Jousting]] weapon.
 
-With a mighty blow from atop your companion, you attempt to knock an opponent off their mount. Make a melee [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against a mounted creature. If your attack hits, attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check against the target’s Fortitude DC. If you succeed, the target is knocked off its mount into a space of its choice adjacent to its mount. If you critically succeed, the target also lands prone.
+With a mighty blow from atop your companion, you attempt to knock an opponent off their mount. Make a melee [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against a mounted creature. If your attack hits, attempt an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check against the target’s Fortitude DC. If you succeed, the target is knocked off its mount into a space of its choice adjacent to its mount. If you critically succeed, the target also lands prone.
 
 *Source: Player Core 2 p. 193*

@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Ranger`
 
 - **Archetype**: Horizon Walker (Level 12)
-- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+- **Prerequisites**: Master in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
 You can guide your allies to move quietly through the wilderness. When you Avoid Notice during exploration in natural terrain, you can designate any number of your allies to gain the benefits as if they were using that activity during that exploration. This requires no action on their part
 

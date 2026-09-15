@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Agile`  `Thrown`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/empyreal-lords/irez|Irez]], [[srd/pf2e/compendium/deities/daemon-harbingers/xsistaid|Xsistaid]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/empyreal-lords/Irez|Irez]], [[srd/pf2e/compendium/deities/daemon-harbingers/Xsistaid|Xsistaid]]
 - **Price**: 1 cp
 - **Damage**: 1d4 P
 - **Bulk**: L
@@ -23,7 +23,7 @@ socialImage: og-image.png
 - **Range**: 20 ft.
 - **Type**: Ranged
 - **Category**: Simple
-- **Group**: Dart
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Dart|Dart]]
 
 This thrown weapon is larger than an arrow but shorter than a javelin. It typically has a short shaft of wood ending in a metal tip and is sometimes stabilized by feathers or fur.
 
@@ -33,6 +33,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/debilitating-dart|Debilitating Dart]]
+[[srd/pf2e/compendium/equipment/weapons/Debilitating Dart|Debilitating Dart]]
 
 *Source: Player Core p. 280*

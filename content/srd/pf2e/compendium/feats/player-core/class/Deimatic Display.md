@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Druid`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-Imitating animal threat displays, you make yourself appear larger and more imposing. Attempt an Intimidation check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] each enemy within 30 feet. This attempt has the [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] trait, loses the auditory trait, and you don't take a penalty if the creature doesn't understand your language. Roll your check only once and compare it to the Will DC of each target. You gain a +2 circumstance bonus to the check against animal, fungus, and plant creatures and take a –2 circumstance penalty against other creatures. Each target is then temporarily immune for 1 minute.
+Imitating animal threat displays, you make yourself appear larger and more imposing. Attempt an Intimidation check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] each enemy within 30 feet. This attempt has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]] trait, loses the auditory trait, and you don't take a penalty if the creature doesn't understand your language. Roll your check only once and compare it to the Will DC of each target. You gain a +2 circumstance bonus to the check against animal, fungus, and plant creatures and take a –2 circumstance penalty against other creatures. Each target is then temporarily immune for 1 minute.
 
 *Source: Player Core p. 131*

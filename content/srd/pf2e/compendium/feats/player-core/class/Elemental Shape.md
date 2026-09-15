@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Druid`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/untamed-form|Untamed Form]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Untamed Form|Untamed Form]]
 
-You understand the fundamental elements of nature such that you can imbue them into your body and manifest as a living embodiment of those elements. Add the shapes in [[srd/pf2e/compendium/spells/rank-5/elemental-form|_elemental form_]] to your untamed form list. Whenever you're polymorphed into another shape using untamed form, you gain resistance 5 to fire.
+You understand the fundamental elements of nature such that you can imbue them into your body and manifest as a living embodiment of those elements. Add the shapes in [[srd/pf2e/compendium/spells/rank-5/Elemental Form|_elemental form_]] to your untamed form list. Whenever you're polymorphed into another shape using untamed form, you gain resistance 5 to fire.
 
 ### Elemental Shape leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/reactive-transformation|Reactive Transformation]]
+[[srd/pf2e/compendium/feats/player-core/class/Reactive Transformation|Reactive Transformation]]
 
 *Source: Player Core p. 133*

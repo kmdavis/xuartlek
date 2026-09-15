@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Archetype`  `Magical`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/eldritch-archer|Eldritch Archer]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Eldritch Archer|Eldritch Archer]]
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/eldritch-archer-dedication|Eldritch Archer Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Eldritch Archer Dedication|Eldritch Archer Dedication]]
 
-You modify an arrow or bolt to bring death to your target in a single potent hit. Make a bow or crossbow Strike. On a hit, you deal an additional 10d10 precision damage. On a critical hit, the target must also succeed at a Fortitude saving throw against the higher of your class DC or spell DC or be immediately slain; this save has the [[srd/pf2e/compendium/character/domains#Death|death]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]] traits.
+You modify an arrow or bolt to bring death to your target in a single potent hit. Make a bow or crossbow Strike. On a hit, you deal an additional 10d10 precision damage. On a critical hit, the target must also succeed at a Fortitude saving throw against the higher of your class DC or spell DC or be immediately slain; this save has the [[srd/pf2e/compendium/character/Domains#Death|death]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|incapacitation]] traits.
 
 *Source: Player Core 2 p. 199*

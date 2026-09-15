@@ -18,6 +18,6 @@ socialImage: og-image.png
 
 `Animist`  `Apparition`  `Divine`  `Stance`  `Wandering`
 
-You feed excess magical power into your apparition, allowing it to grow ethereal limbs it can use to help shape and focus your spells. Once per turn while in this stance, you can use a [[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|spellshape]] feat that normally requires one action as a free action instead, but only to affect spells that deal [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] damage. This doesn’t allow you to avoid or bypass any other restrictions or limitations normally associated with the spellshape feat.
+You feed excess magical power into your apparition, allowing it to grow ethereal limbs it can use to help shape and focus your spells. Once per turn while in this stance, you can use a [[srd/pf2e/compendium/rules-elements/traits/player-core/Spellshape|spellshape]] feat that normally requires one action as a free action instead, but only to affect spells that deal [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Vitality|vitality]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]] damage. This doesn’t allow you to avoid or bypass any other restrictions or limitations normally associated with the spellshape feat.
 
 *Source: War of Immortals p. 26*

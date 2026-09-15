@@ -25,24 +25,24 @@ Constitution or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|Dagger]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Dagger|Dagger]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Fate|Fate]], [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Death|Death]], [[srd/pf2e/compendium/character/Domains#Fate|Fate]], [[srd/pf2e/compendium/character/Domains#Healing|Healing]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Soul|Soul]], [[srd/pf2e/compendium/character/domains#Time|Time]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Soul|Soul]], [[srd/pf2e/compendium/character/Domains#Time|Time]], [[srd/pf2e/compendium/character/Domains#Vigil|Vigil]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/mindlink|Mindlink]]
+[[srd/pf2e/compendium/spells/rank-1/Mindlink|Mindlink]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/ghostly-weapon|Ghostly Weapon]]
+[[srd/pf2e/compendium/spells/rank-3/Ghostly Weapon|Ghostly Weapon]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/vision-of-death|Vision of Death]]
+[[srd/pf2e/compendium/spells/rank-4/Vision of Death|Vision of Death]]
 
 ### Divine Intercession
 

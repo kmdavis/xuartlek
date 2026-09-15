@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Lizardfolk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/bone-magic|Bone Magic]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/ancestry/Bone Magic|Bone Magic]]
 
-You encase yourself in spiritual dinosaur bones to become a Huge dinosaur. You can cast [[srd/pf2e/compendium/spells/rank-4/dinosaur-form|_dinosaur form_]] on yourself as a 5th-rank innate spell once per day.
+You encase yourself in spiritual dinosaur bones to become a Huge dinosaur. You can cast [[srd/pf2e/compendium/spells/rank-4/Dinosaur Form|_dinosaur form_]] on yourself as a 5th-rank innate spell once per day.
 
 *Source: Player Core 2 p. 27*

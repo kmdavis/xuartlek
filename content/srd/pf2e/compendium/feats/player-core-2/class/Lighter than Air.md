@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Divine`  `Oracle`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/water-walker|Water Walker]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Water Walker|Water Walker]]
 
-Your mysterious steps become even lighter, transcending the mortal world altogether. When you have the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/cursebound|cursebound]] condition, you gain the effects of [[srd/pf2e/compendium/spells/rank-4/fly|_fly_]]. If you are cursebound 3 or greater, you gain a +10-foot status bonus to your fly Speed.
+Your mysterious steps become even lighter, transcending the mortal world altogether. When you have the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Cursebound|cursebound]] condition, you gain the effects of [[srd/pf2e/compendium/spells/rank-4/Fly|_fly_]]. If you are cursebound 3 or greater, you gain a +10-foot status bonus to your fly Speed.
 
 *Source: Player Core 2 p. 142*

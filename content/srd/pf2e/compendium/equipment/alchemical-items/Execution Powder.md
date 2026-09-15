@@ -20,9 +20,9 @@ socialImage: og-image.png
 - **Price**: 625 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-The spores of a certain mushrooms, if carefully collected and suspended in a properly mixed alchemical fluid, can kill those near death. If a creature is reduced to 0 Hit Points while under the effect of execution powder, it must succeed at a DC 34 Will save or die (this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effect). If a creature dies from execution powder, the spores from their last breath alight on a random creature adjacent to the victim, granting that creature 20 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] and a +1 status bonus to attack and damage rolls for 10 minutes.
+The spores of a certain mushrooms, if carefully collected and suspended in a properly mixed alchemical fluid, can kill those near death. If a creature is reduced to 0 Hit Points while under the effect of execution powder, it must succeed at a DC 34 Will save or die (this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]] effect). If a creature dies from execution powder, the spores from their last breath alight on a random creature adjacent to the victim, granting that creature 20 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Temporary Hit Points|temporary Hit Points]] and a +1 status bonus to attack and damage rolls for 10 minutes.
 
 **Saving Throw** DC 34 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 7d6 poison damage (1 round); **Stage 2** 9d6 poison damage (1 round); **Stage 3** 12d6 poison damage (1 round)
 

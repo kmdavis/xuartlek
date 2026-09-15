@@ -19,6 +19,6 @@ socialImage: og-image.png
 
 The power of your bond can protect you and your eidolon from harm. If you and your eidolon would take different amounts of damage from the area effect, you take the lower amount of damage instead of the greater amount of damage.
 
-**Special** This feat has the trait matching your eidolon’s tradition ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]).
+**Special** This feat has the trait matching your eidolon’s tradition ([[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]]).
 
 *Source: Impossible Magic p. 83*

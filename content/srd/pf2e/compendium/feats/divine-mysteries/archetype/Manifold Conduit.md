@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/rivethun-emissary|Rivethun Emissary]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/rivethun-emissary-dedication|Rivethun Emissary Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Rivethun Emissary|Rivethun Emissary]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Rivethun Emissary Dedication|Rivethun Emissary Dedication]]
 
-You can manifest multiple spirits at once in a cyclone around you. You gain the [[srd/pf2e/compendium/spells/focus/entreat-the-many|_entreat the many_]] focus spell.
+You can manifest multiple spirits at once in a cyclone around you. You gain the [[srd/pf2e/compendium/spells/focus/Entreat the Many|_entreat the many_]] focus spell.
 
 *Source: Divine Mysteries p. 293*

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Minotaur`
 
-Your elders taught you to wield weapons that can split skulls and smash through shields. You have familiarity with the [[srd/pf2e/compendium/equipment/weapons/axe/battle-axe|battle axe]], [[srd/pf2e/compendium/equipment/weapons/sword/falchion|falchion]], [[srd/pf2e/compendium/equipment/weapons/polearm/glaive|glaive]], and [[srd/pf2e/compendium/equipment/weapons/axe/greataxe|greataxe]]—for the purposes of proficiency, you treat these martial weapons as simple weapons.
+Your elders taught you to wield weapons that can split skulls and smash through shields. You have familiarity with the [[srd/pf2e/compendium/equipment/weapons/axe/Battle Axe|battle axe]], [[srd/pf2e/compendium/equipment/weapons/sword/Falchion|falchion]], [[srd/pf2e/compendium/equipment/weapons/polearm/Glaive|glaive]], and [[srd/pf2e/compendium/equipment/weapons/axe/Greataxe|greataxe]]—for the purposes of proficiency, you treat these martial weapons as simple weapons.
 
  At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 

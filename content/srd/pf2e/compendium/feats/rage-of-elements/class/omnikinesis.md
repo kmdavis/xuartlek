@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: reflow elements
 
-You can realign your kinetic gate with a thought. Replace one of your [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/impulse|impulse]] feats using the same process as reflow elements. You can replace only one, even if you have double reflow.
+You can realign your kinetic gate with a thought. Replace one of your [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/Impulse|impulse]] feats using the same process as reflow elements. You can replace only one, even if you have double reflow.
 
 *Source: Rage of Elements p. 23*

@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 - **Frequency**: once per hour
 
-You can harness the power of death to craft wings from bones and a thin membrane of flesh. You destroy a thrall within 30 feet, fusing it with your body and shaping it into gruesome, bony wings. You gain a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Fly Speed|fly Speed]] of 30 feet for 1 minute. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] these wings.
+You can harness the power of death to craft wings from bones and a thin membrane of flesh. You destroy a thrall within 30 feet, fusing it with your body and shaping it into gruesome, bony wings. You gain a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Fly Speed|fly Speed]] of 30 feet for 1 minute. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] these wings.
 
-At 16th level, this action loses its frequency and gains an unli mited duration.
+At 16th level, this action loses its frequency and gains an unlimited duration.
 
 *Source: Impossible Magic p. 37*

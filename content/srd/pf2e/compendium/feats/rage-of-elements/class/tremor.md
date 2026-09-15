@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Earth`  `Impulse`  `Kineticist`  `Overflow`  `Primal`
 
-You unleash a small, localized tremor in a 10-foot burst within 30 feet. Each creature in the area takes 1d8 bludgeoning damage with a basic Fortitude save against your class DC. A creature that critically fails is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. Earth and stone in the area is difficult terrain until the start of your next turn.
+You unleash a small, localized tremor in a 10-foot burst within 30 feet. Each creature in the area takes 1d8 bludgeoning damage with a basic Fortitude save against your class DC. A creature that critically fails is knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]. Earth and stone in the area is difficult terrain until the start of your next turn.
 
 ---
 **Level (+2)** The damage increases by 1d8.

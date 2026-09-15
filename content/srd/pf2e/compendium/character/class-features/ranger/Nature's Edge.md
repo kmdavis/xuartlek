@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Ranger
 
-You always find the weak points in your foes' defenses when they're on unfavorable terrain. Enemies are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to you if they're in difficult terrain.
+You always find the weak points in your foes' defenses when they're on unfavorable terrain. Enemies are [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to you if they're in difficult terrain.
 
 *Source: Player Core p. 152*

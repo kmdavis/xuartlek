@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Monk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/one-inch-punch|One-inch Punch]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/One-inch Punch|One-inch Punch]]
 
 Your punches have incredible force and control. When you damage a target using One-Inch Punch, you can focus your qi to send the foe flying. If you do, the target must attempt a Fortitude save against your class DC.
 

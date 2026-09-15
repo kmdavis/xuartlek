@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Air`  `Attack`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: AC

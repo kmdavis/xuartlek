@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/iridian-choirmaster|Iridian Choirmaster]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/iridian-choirmaster-dedication|Iridian Choirmaster Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Iridian Choirmaster|Iridian Choirmaster]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Iridian Choirmaster Dedication|Iridian Choirmaster Dedication]]
 
 Moving in unison, you and your student unleash an attack against a foe. Strike a creature, and your student can use their reaction to make a Strike against the same creature. If both attacks are successful, total the damage for the two attacks for the purpose of resistances and weaknesses.
 

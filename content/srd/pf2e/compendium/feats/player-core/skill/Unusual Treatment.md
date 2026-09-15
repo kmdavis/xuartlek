@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]]
 
 Your medical training extends to less obvious conditions. When you succeed against a DC 20 check to Treat Wounds, you can also reduce the value of one clumsy, enfeebled, or stupefied condition on the patient by 1. If you’re able to treat more than one creature at once, choose only one to gain this benefit. A creature can benefit from Unusual Treatment only once per day.
 

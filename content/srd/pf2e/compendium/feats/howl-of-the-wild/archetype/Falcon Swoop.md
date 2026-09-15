@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/winged-warrior|Winged Warrior]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/winged-warrior-dedication|Winged Warrior Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Winged Warrior|Winged Warrior]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Winged Warrior Dedication|Winged Warrior Dedication]]
 - **Requirements**: You currently have a fly Speed.
 
-Like the fastest of predatory birds, you soar toward your prey at great speeds. [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] twice. At any point during this movement, you can make a Strike against one enemy within reach or within the first range increment of a ranged weapon. That enemy is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against the Strike if you're attacking them from above.
+Like the fastest of predatory birds, you soar toward your prey at great speeds. [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] twice. At any point during this movement, you can make a Strike against one enemy within reach or within the first range increment of a ranged weapon. That enemy is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] against the Strike if you're attacking them from above.
 
 *Source: Howl of the Wild p. 83*

@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Additive`  `Alchemist`
 
-You can mix in a sticky additive to an [[srd/pf2e/compendium/equipment/weapons/bomb/alchemical-bomb|alchemical bomb]] to make its contents adhere and continue to deal damage. A creature hit by a sticky bomb also takes [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] equal to and of the same type as the bomb's splash damage. If the bomb already deals persistent damage, combine the two amounts. Use the splash damage amount listed in the bomb's stat block, even if you used an ability to change the splash damage dealt.
+You can mix in a sticky additive to an [[srd/pf2e/compendium/equipment/weapons/bomb/Alchemical Bomb|alchemical bomb]] to make its contents adhere and continue to deal damage. A creature hit by a sticky bomb also takes [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent damage]] equal to and of the same type as the bomb's splash damage. If the bomb already deals persistent damage, combine the two amounts. Use the splash damage amount listed in the bomb's stat block, even if you used an ability to change the splash damage dealt.
 
 *Source: Player Core 2 p. 67*

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Leshy`
 
-You deeply understand your people’s cultural traditions and innate strengths. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] and [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
+You deeply understand your people’s cultural traditions and innate strengths. You gain the trained proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] and [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
 
-You also gain the Additional Lore general feat for Leshy [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]].
+You also gain the Additional Lore general feat for Leshy [[srd/pf2e/compendium/rules-elements/skills/Lore|Lore]].
 
 *Source: Player Core p. 68*

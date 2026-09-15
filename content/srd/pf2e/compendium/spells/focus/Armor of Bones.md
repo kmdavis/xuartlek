@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Focus`  `Manipulate`  `Oracle`  `Uncommon`
 
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Bones|Bones]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Bones|Bones]]
 - **Duration**: 1 minute
 
 You ossify your physical form, mimicking the durability of bone. You gain resistance 3 to cold, electricity, fire, piercing, and slashing damage.

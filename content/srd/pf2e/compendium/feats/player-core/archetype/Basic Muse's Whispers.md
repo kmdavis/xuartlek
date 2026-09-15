@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/bard|Bard]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/bard-dedication|Bard Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Bard|Bard]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Bard Dedication|Bard Dedication]]
 
-You gain a 1st- or 2nd-level bard feat.
+You gain a 1st- or 2nd-level [bard feat](https://2e.aonprd.com/Feats.aspx?Traits=19).
 
 ### Basic Muse's Whispers leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/advanced-muses-whispers|Advanced Muse's Whispers]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Advanced Muse's Whispers|Advanced Muse's Whispers]]
 
 *Source: Player Core p. 216*

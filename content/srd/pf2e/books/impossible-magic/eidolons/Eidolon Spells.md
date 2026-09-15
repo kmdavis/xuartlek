@@ -1,6 +1,7 @@
 ---
 title: "Eidolon Spells"
 aliases: ["Eidolon Spells"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Impossible Magic"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3686"
 citation: "Impossible Magic pg. 70"
-socialImage: og-image.png
 ---
 
 # Eidolon Spells

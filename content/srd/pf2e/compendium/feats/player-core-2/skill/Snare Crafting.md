@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
-You can use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] activity to create snares. When you select this feat, you immediately add the formulas for four common 1st-level snares to your formula book.
+You can use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] activity to create [snares](https://2e.aonprd.com/Equipment.aspx?Category=31). When you select this feat, you immediately add the formulas for four common 1st-level snares to your formula book.
 
 ### Snare Crafting leads to...
 

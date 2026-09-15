@@ -20,8 +20,8 @@ socialImage: og-image.png
 - **Price**: 20 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-This luminescent white gem glows from within, and a weapon it’s applied to gains its inner radiance, shedding dim light in a 10-foot radius. Successful Strikes with a weapon affected by a _limning gem_ outline the target in a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Bright Light|bright white light]]; if the target was [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]], it becomes [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] instead. This light lasts until the end of your next turn or for the remainder of the limning gem’s duration on a critical hit.
+This luminescent white gem glows from within, and a weapon it’s applied to gains its inner radiance, shedding dim light in a 10-foot radius. Successful Strikes with a weapon affected by a _limning gem_ outline the target in a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Bright Light|bright white light]]; if the target was [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]], it becomes [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] instead. This light lasts until the end of your next turn or for the remainder of the limning gem’s duration on a critical hit.
 
 *Source: Battlecry! p. 136*

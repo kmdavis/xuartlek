@@ -17,6 +17,6 @@ socialImage: og-image.png
 
 - **Requirements**: Your most recent action was to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|cast]] a non-cantrip spell that granted you a blood magic effect.
 
-You channel the residual energy from the last spell you cast into a ranged bloodletting. Make a ranged spell [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] roll against the AC of a target within 60 feet. This attack deals persistent bleed damage equal to the rank of the spell you just cast.
+You channel the residual energy from the last spell you cast into a ranged bloodletting. Make a ranged spell [[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]] roll against the AC of a target within 60 feet. This attack deals persistent bleed damage equal to the rank of the spell you just cast.
 
 *Source: Player Core 2 p. 153*

@@ -1,6 +1,7 @@
 ---
 title: "Ancestry Entries"
 aliases: ["Ancestry Entries"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2075"
 citation: "Player Core pg. 41"
-socialImage: og-image.png
 ---
 
 # Ancestry Entries
@@ -38,7 +38,7 @@ When creating a character of this ancestry, you apply attribute boosts to increa
 
 ## Languages
 
-This tells you the languages that members of the ancestry speak at 1st level. If your Intelligence modifier is +1 or higher, you can select more languages from a list given here. More about languages can be found [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/languages|here]].
+This tells you the languages that members of the ancestry speak at 1st level. If your Intelligence modifier is +1 or higher, you can select more languages from a list given here. More about languages can be found [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/Languages|here]].
 
 ## Traits
 

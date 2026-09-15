@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Barbarian`  `Morph`  `Rage`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/dragon|dragon instinct]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/Dragon|dragon instinct]]
 
 You sprout dragon wings from your back of the same color as your chosen dragon. While you are raging, you gain a fly Speed equal to your land Speed. If you are flying when your rage ends, you start to fall, but your transformation doesn't revert until the last moment, so you take no damage from the fall and land standing up. This action gains the trait of your dragon instinct's tradition.
 
 ### Dragon's Rage Wings leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/dragon-transformation|Dragon Transformation]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Dragon Transformation|Dragon Transformation]]
 
 *Source: Player Core 2 p. 82*

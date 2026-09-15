@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/cavalier|Cavalier]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/cavalier-dedication|Cavalier Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Cavalier|Cavalier]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Cavalier Dedication|Cavalier Dedication]]
 - **Trigger**: An enemy makes a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] or spell attack against your mount while you’re riding it.
 
 You interpose yourself between an attacker and your mount, defending your mount from harm. Use your own defense against the triggering attack instead your mount’s defense. If the triggering attack hits, you take the effects of the attack instead of your mount.

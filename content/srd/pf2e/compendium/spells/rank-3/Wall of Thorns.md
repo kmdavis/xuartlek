@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/erastil|Erastil]], [[srd/pf2e/compendium/deities/giant-gods/fandarra|Fandarra]], [[srd/pf2e/compendium/deities/faiths-philosophies/green-faith|Green Faith]], [[srd/pf2e/compendium/deities/azlanti-pantheon/jaidi|Jaidi]], Kzininn, [[srd/pf2e/compendium/deities/demon-lords/treerazer|Treerazer]], Vermilion Mother, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/xhamen-dor|Xhamen-Dor]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/zon-kuthon|Zon-Kuthon]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Erastil|Erastil]], [[srd/pf2e/compendium/deities/giant-gods/Fandarra|Fandarra]], [[srd/pf2e/compendium/deities/faiths-philosophies/Green Faith|Green Faith]], [[srd/pf2e/compendium/deities/azlanti-pantheon/Jaidi|Jaidi]], Kzininn, [[srd/pf2e/compendium/deities/demon-lords/Treerazer|Treerazer]], Vermilion Mother, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Xhamen-Dor|Xhamen-Dor]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Zon-Kuthon|Zon-Kuthon]]
 - **Range**: 60 feet
 - **Duration**: 1 minute
 

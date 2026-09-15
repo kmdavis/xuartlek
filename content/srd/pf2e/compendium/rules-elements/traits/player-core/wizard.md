@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Wizard`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/wizard|wizard]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Wizard|wizard]] class.
 
 *Source: Player Core p. 463*

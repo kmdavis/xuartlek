@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Fighter`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/vicious-swing|Vicious Swing]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Vicious Swing|Vicious Swing]]
 
 You’ve learned to maintain your balance even when swinging furiously. When you make a Vicious Swing with a melee weapon you’re wielding in two hands, it counts as one attack toward your multiple attack penalty instead of two.
 

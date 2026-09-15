@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Illusion`  `Manipulate`  `Subtle`
 
-- **Traditions**: Arcane, Occult
-- **Deity**: [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-veiled-voice|Nyarlathotep (The Veiled Voice)]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deity**: [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (The Veiled Voice)|Nyarlathotep (The Veiled Voice)]]
 - **Range**: touch
 - **Target**: 1 target
 - **Duration**: 10 minutes
 
-You shroud a creature from others' senses. The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]], but not merely to vision. The invisibility granted by _disappearance_ applies to all precise senses an observer might have. It's still possible for a creature to find the target by [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seeking]] using various senses, looking for disturbed dust, hearing gaps in the sound spectrum, or finding some other way to discover the presence of a creature that is otherwise undetectable.
+You shroud a creature from others' senses. The target becomes [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]], but not merely to vision. The invisibility granted by _disappearance_ applies to all precise senses an observer might have. It's still possible for a creature to find the target by [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seeking]] using various senses, looking for disturbed dust, hearing gaps in the sound spectrum, or finding some other way to discover the presence of a creature that is otherwise undetectable.
 
 *Source: Player Core p. 324*

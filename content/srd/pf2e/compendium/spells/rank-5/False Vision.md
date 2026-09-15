@@ -17,13 +17,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Illusion`  `Manipulate`  `Uncommon`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/infernal-dukes/bifrons|Bifrons]], [[srd/pf2e/compendium/deities/daemon-harbingers/pavnuri|Pavnuri]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/infernal-dukes/Bifrons|Bifrons]], [[srd/pf2e/compendium/deities/daemon-harbingers/Pavnuri|Pavnuri]]
 - **Cast**: 10 minutes
 - **Range**: touch
 - **Area**: 100-foot burst
 - **Duration**: until your next daily preparations
 
-You create a false image that fools any attempts to scry on an area. Any [[srd/pf2e/compendium/rules-elements/traits/player-core/scrying|scrying]] spell sees, hears, smells, and otherwise detects whatever you wish within the area, rather than what is actually in the area. You can Sustain the spell each round to change the illusion as you desire, including playing out a complex scene. If the scrying spell is of a higher rank than _false vision_, the scryer can attempt a Perception check to disbelieve the illusion, though even if they're successful, they can't learn what's truly going on in the area.
+You create a false image that fools any attempts to scry on an area. Any [[srd/pf2e/compendium/rules-elements/traits/player-core/Scrying|scrying]] spell sees, hears, smells, and otherwise detects whatever you wish within the area, rather than what is actually in the area. You can Sustain the spell each round to change the illusion as you desire, including playing out a complex scene. If the scrying spell is of a higher rank than _false vision_, the scryer can attempt a Perception check to disbelieve the illusion, though even if they're successful, they can't learn what's truly going on in the area.
 
 *Source: Player Core p. 330*

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Guardian`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/class/hampering-stance|Hampering Stance]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/class/Hampering Stance|Hampering Stance]]
 - **Trigger**: A creature within your reach leaves a square during a move action it’s using.
 - **Requirements**: You are in Hampering Stance.
 

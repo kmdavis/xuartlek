@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Earth`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/faiths-philosophies/rivethun|Rivethun]], [[srd/pf2e/compendium/deities/other-gods/the-devourer|The Devourer]], [[srd/pf2e/compendium/deities/covenants/treasures-of-the-eternal-delve|Treasures of the Eternal Delve]], [[srd/pf2e/compendium/deities/demon-lords/xoveron|Xoveron]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/faiths-philosophies/Rivethun|Rivethun]], [[srd/pf2e/compendium/deities/other-gods/The Devourer|The Devourer]], [[srd/pf2e/compendium/deities/covenants/Treasures of the Eternal Delve|Treasures of the Eternal Delve]], [[srd/pf2e/compendium/deities/demon-lords/Xoveron|Xoveron]]
 - **Area**: 15-foot cone
 - **Defense**: Reflex
 

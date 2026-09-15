@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `General`  `Skill`  `Uncommon`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/skill/magical-crafting|Magical Crafting]]; Master in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/skill/Magical Crafting|Magical Crafting]]; Master in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
 Magic items you create bear a stamp specific to your handiwork. When you successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] a permanent magic item, roll a DC 9 flat check when the item is fully complete. Any benefit a creature gains from an item quirk applies only while the creature wears the item (for a worn item) or holds it (for a held item). The GM might allow custom quirks similar to those listed.
 

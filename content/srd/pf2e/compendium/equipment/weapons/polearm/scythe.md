@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Deadly`  `Trip`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/qlippoth-lords/aonaurious|Aonaurious]], [[srd/pf2e/compendium/deities/apocalypse-riders/apollyon|Apollyon]], [[srd/pf2e/compendium/deities/sarkorian-covenants/immaculate-growth|Immaculate Growth]], [[srd/pf2e/compendium/deities/azlanti-pantheon/jaidi|Jaidi]], [[srd/pf2e/compendium/deities/eldest/magdh|Magdh]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa]], Vermilion Mother, [[srd/pf2e/compendium/deities/monitor-demigods/vonymos|Vonymos]], Zibik
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/qlippoth-lords/Aonaurious|Aonaurious]], [[srd/pf2e/compendium/deities/apocalypse-riders/Apollyon|Apollyon]], [[srd/pf2e/compendium/deities/sarkorian-covenants/Immaculate Growth|Immaculate Growth]], [[srd/pf2e/compendium/deities/azlanti-pantheon/Jaidi|Jaidi]], [[srd/pf2e/compendium/deities/eldest/Magdh|Magdh]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Urgathoa|Urgathoa]], Vermilion Mother, [[srd/pf2e/compendium/deities/monitor-demigods/Vonymos|Vonymos]], Zibik
 - **Price**: 2 gp
 - **Damage**: 1d10 S
 - **Bulk**: 2
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Polearm
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Polearm|Polearm]]
 
 Derived from a farming tool used to mow down long grains and cereals, this weapon has a long wooden shaft with protruding handles, capped with a curved blade set at a right angle.
 
@@ -32,6 +32,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/bloodgorger-scythe|Bloodgorger Scythe]], [[srd/pf2e/compendium/equipment/weapons/hundred-moth-caress|Hundred-moth Caress]], [[srd/pf2e/compendium/equipment/weapons/reapers-toll|Reaper's Toll]]
+[[srd/pf2e/compendium/equipment/weapons/Bloodgorger Scythe|Bloodgorger Scythe]], [[srd/pf2e/compendium/equipment/weapons/Hundred-Moth Caress|Hundred-Moth Caress]], [[srd/pf2e/compendium/equipment/weapons/Reaper's Toll|Reaper's Toll]]
 
 *Source: Player Core p. 278*

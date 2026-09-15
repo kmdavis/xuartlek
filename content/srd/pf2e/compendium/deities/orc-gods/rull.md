@@ -24,23 +24,23 @@ Dexterity or Wisdom
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/falchion|Falchion]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Falchion|Falchion]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Air|Air]], [[srd/pf2e/compendium/character/domains#Cold|Cold]], [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Lightning|Lightning]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Air|Air]], [[srd/pf2e/compendium/character/Domains#Cold|Cold]], [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Lightning|Lightning]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/thunderstrike|Thunderstrike]]
+[[srd/pf2e/compendium/spells/rank-1/Thunderstrike|Thunderstrike]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/lightning-bolt|Lightning Bolt]]
+[[srd/pf2e/compendium/spells/rank-3/Lightning Bolt|Lightning Bolt]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/chain-lightning|Chain Lightning]]
+[[srd/pf2e/compendium/spells/rank-6/Chain Lightning|Chain Lightning]]
 
 *Source: Divine Mysteries p. 316*

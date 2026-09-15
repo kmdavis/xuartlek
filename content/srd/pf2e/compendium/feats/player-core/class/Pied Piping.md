@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Bard`
 
-You learn the [[srd/pf2e/compendium/spells/focus/pied-piping|_pied piping_]] composition spell, which enables you to control the actions of weak-minded individuals.
+You learn the [[srd/pf2e/compendium/spells/focus/Pied Piping|_pied piping_]] composition spell, which enables you to control the actions of weak-minded individuals.
 
 *Source: Player Core p. 107*

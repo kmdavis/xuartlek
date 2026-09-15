@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/pistol-phenom|Pistol Phenom]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/pistol-phenom-dedication|Pistol Phenom Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Pistol Phenom|Pistol Phenom]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Pistol Phenom Dedication|Pistol Phenom Dedication]]
 
-You're possessed with an incredibly vivacious spark that separates you not only from ordinary gun users and gunslingers, but even from other phenoms. Using that distinctive verve, when you perform impeccably and control the scene with your abilities, you also manage to set up your foes for disaster and ensure they remain in your sights for any follow-up attacks you want to make against them. If you critically succeed at a [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check for Pistol Twirl or a pistol phenom archetype feat, you gain a +1 status bonus to your attack rolls with one-handed firearms and one-handed melee weapons until the end of your turn.
+You're possessed with an incredibly vivacious spark that separates you not only from ordinary gun users and gunslingers, but even from other phenoms. Using that distinctive verve, when you perform impeccably and control the scene with your abilities, you also manage to set up your foes for disaster and ensure they remain in your sights for any follow-up attacks you want to make against them. If you critically succeed at a [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] check for Pistol Twirl or a pistol phenom archetype feat, you gain a +1 status bonus to your attack rolls with one-handed firearms and one-handed melee weapons until the end of your turn.
 
 *Source: Guns & Gears (Remastered) p. 136*

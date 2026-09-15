@@ -17,15 +17,15 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`  `Multiclass`  `Uncommon`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/gunslinger|Gunslinger]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Gunslinger|Gunslinger]]
 - **Prerequisites**: Dexterity +2
 
 You excel in using specific types of ranged weapons. You have familiarity with martial crossbows and firearms, treating them as simple weapons for the purposes of proficiency. You gain access to uncommon martial and simple crossbows and firearms that do not have an ancestry trait. You become trained in gunslinger class DC.
 
- Choose a gunslinger [[srd/pf2e/compendium/character/ways|way]]. You become trained in your way's associated skill; if you were already trained in this skill, you become trained in a skill of your choice. You don't gain any other abilities from your choice of way.
+ Choose a gunslinger [[srd/pf2e/compendium/character/Ways|way]]. You become trained in your way's associated skill; if you were already trained in this skill, you become trained in a skill of your choice. You don't gain any other abilities from your choice of way.
 
 ### Gunslinger Dedication leads to...
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/advanced-firearm-familiarity|Advanced Firearm Familiarity]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/basic-shooting|Basic Shooting]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/eagle-eye|Eagle Eye]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/practiced-reloads|Practiced Reloads]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/slingers-readiness|Slinger's Readiness]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Advanced Firearm Familiarity|Advanced Firearm Familiarity]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Basic Shooting|Basic Shooting]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Eagle Eye|Eagle Eye]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Practiced Reloads|Practiced Reloads]], [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Slinger's Readiness|Slinger's Readiness]]
 
 *Source: Guns & Gears (Remastered) p. 127*

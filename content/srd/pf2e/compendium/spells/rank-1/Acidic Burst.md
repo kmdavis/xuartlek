@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Acid`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/archdevils/geryon|Geryon]], [[srd/pf2e/compendium/deities/qlippoth-lords/oaur-ooung|Oaur-Ooung]]
-- **Area**: 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]
-- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] reflex
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/archdevils/Geryon|Geryon]], [[srd/pf2e/compendium/deities/qlippoth-lords/Oaur-Ooung|Oaur-Ooung]]
+- **Area**: 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]]
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] reflex
 
-You create a shell of [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] around yourself that immediately bursts outward, dealing 2d6 acid damage to each creature in the area with a basic Reflex save.
+You create a shell of [[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|acid]] around yourself that immediately bursts outward, dealing 2d6 acid damage to each creature in the area with a basic Reflex save.
 
 ---
 **Heightened (+1)** The damage increases by 2d6.

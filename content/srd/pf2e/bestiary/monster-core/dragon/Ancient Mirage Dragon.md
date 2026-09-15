@@ -30,59 +30,59 @@ modifier: 33
 perception:
   - name: "Perception"
     desc: "+33; darkvision, illusion sense, scent (imprecise) 60 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Shadowtongue|Shadowtongue]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/Languages#Shadowtongue|Shadowtongue]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +33, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +32, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +34, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +32, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +37, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +35, Illusion Lore +34, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +35, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +35, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +33"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +33, [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]] +32, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +34, [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] +32, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +37, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +35, Illusion Lore +34, [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] +35, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +35, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] +33"
 abilityMods: [7, 7, 6, 6, 7, 9]
 abilities_top:
   - name: "Camouflage"
     desc: "The dragon can [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] in natural environments even if they don't have cover."
   - name: "Illusion Sense"
-    desc: "When the dragon moves within 30 feet of an [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]] that can be disbelieved, they automatically attempt a [[srd/pf2e/compendium/rules-elements/traits/player-core/secret|secret]] check to disbelieve, even if they didn't spend an action to Interact."
+    desc: "When the dragon moves within 30 feet of an [[srd/pf2e/compendium/rules-elements/traits/player-core/Illusion|illusion]] that can be disbelieved, they automatically attempt a [[srd/pf2e/compendium/rules-elements/traits/player-core/Secret|secret]] check to disbelieve, even if they didn't spend an action to Interact."
 ac: 41
 armorclass:
   - name: "AC"
-    desc: "41; __Fort__: +28; __Ref__: +29; __Will__: +33 +2 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]]"
+    desc: "41; __Fort__: +28; __Ref__: +29; __Will__: +33 +2 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]]"
 hp: 345
 health:
   - name: "HP"
-    desc: "345; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
+    desc: "345; __Immunities__ [[srd/pf2e/compendium/rules-elements/Conditions#Fascinated|fascinated]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]"
 abilities_mid:
   - name: "Scintillating Defense"
-    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]])"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]])"
   - name: "Trigger"
     desc: "The dragon is targeted with an attack"
   - name: "Effect"
-    desc: "The dragon flashes their iridescent scales at the triggering creature to throw off the attack. The dragon gains [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealment]]against the triggering attack."
+    desc: "The dragon flashes their iridescent scales at the triggering creature to throw off the attack. The dragon gains [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealment]]against the triggering attack."
 speed: "60 feet, climb 40 feet, fly 180 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +33 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 3d10+15 piercing"
+    desc: "⬻ jaws +33 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 3d10+15 piercing"
   - name: "Melee"
-    desc: "⬻ claws +33 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 3d6+15 slashing"
+    desc: "⬻ claws +33 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 3d6+15 slashing"
   - name: "Melee"
-    desc: "⬻ tail +31 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 3d8+15 bludgeoning"
+    desc: "⬻ tail +31 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 20 feet]]) __Damage__ 3d8+15 bludgeoning"
 abilities_bot:
   - name: "Captivating Display"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|Visual]])"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|Visual]])"
   - name: "Frequency"
     desc: "once per 10 minutes"
   - name: "Effect"
-    desc: "The dragon opens the fins on their head, creating a radiant display of enthralling colors. Each creature in a 30-foot emanation must succeed at a DC 41 Will save or be [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] and [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] (or slowed 2 on a critical failure) for 1 round. Regardless of the result, a creature is then temporarily immune to Captivating Display for 1 minute."
+    desc: "The dragon opens the fins on their head, creating a radiant display of enthralling colors. Each creature in a 30-foot emanation must succeed at a DC 41 Will save or be [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] and [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed 1]] (or slowed 2 on a critical failure) for 1 round. Regardless of the result, a creature is then temporarily immune to Captivating Display for 1 minute."
   - name: "Draconic Frenzy"
     desc: "⬺ The dragon makes two claw Strikes and one tail Strike in any order."
   - name: "Draconic Momentum"
     desc: "The dragon recharges their Hallucinatory Breath whenever they score a critical hit with a Strike."
   - name: "Hallucinatory Breath"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The dragon breathes a cloud that assaults the senses and deals 17d6 mental damage in a 50-foot cone (DC 41 Will save). A creature that fails its save is also [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 round (1 minute on a critical failure) and is then temporarily immune to being confused by Hallucinatory Breath for 1 hour. The dragon can't use Hallucinatory Breath again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]]) The dragon breathes a cloud that assaults the senses and deals 17d6 mental damage in a 50-foot cone (DC 41 Will save). A creature that fails its save is also [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]] for 1 round (1 minute on a critical failure) and is then temporarily immune to being confused by Hallucinatory Breath for 1 hour. The dragon can't use Hallucinatory Breath again for 1d4 rounds."
   - name: "Lunging Bite"
     desc: "⬺ The dragon lunges their head forward, making a jaws Strike with an extended reach of 25 feet."
   - name: "Sneak Attack"
-    desc: "The dragon's Strikes deal an additional 3d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] targets."
+    desc: "The dragon's Strikes deal an additional 3d6 precision damage to [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] targets."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 43 - __Cantrips (9th)__ [[srd/pf2e/compendium/spells/cantrips/figment|Figment]], [[srd/pf2e/compendium/spells/cantrips/message|Message]] - __4th__ [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (at will) - __8th__ [[srd/pf2e/compendium/spells/rank-2/illusory-creature|Illusory Creature]], [[srd/pf2e/compendium/spells/rank-1/illusory-object|Illusory Object]] (at will), [[srd/pf2e/compendium/spells/rank-5/illusory-scene|Illusory Scene]] (at will), [[srd/pf2e/compendium/spells/rank-4/mirage|Mirage]], [[srd/pf2e/compendium/spells/rank-6/vibrant-pattern|Vibrant Pattern]]"
+    desc: "DC 43 - __Cantrips (9th)__ [[srd/pf2e/compendium/spells/cantrips/Figment|Figment]], [[srd/pf2e/compendium/spells/cantrips/Message|Message]] - __4th__ [[srd/pf2e/compendium/spells/rank-2/Invisibility|Invisibility]] (at will) - __8th__ [[srd/pf2e/compendium/spells/rank-2/Illusory Creature|Illusory Creature]], [[srd/pf2e/compendium/spells/rank-1/Illusory Object|Illusory Object]] (at will), [[srd/pf2e/compendium/spells/rank-5/Illusory Scene|Illusory Scene]] (at will), [[srd/pf2e/compendium/spells/rank-4/Mirage|Mirage]], [[srd/pf2e/compendium/spells/rank-6/Vibrant Pattern|Vibrant Pattern]]"
 sourcebook: "_Monster Core_, page 123."
 ```
 

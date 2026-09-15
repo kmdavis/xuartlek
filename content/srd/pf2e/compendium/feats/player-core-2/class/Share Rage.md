@@ -19,10 +19,10 @@ socialImage: og-image.png
 
 - **Requirements**: You haven’t used this ability since you last Raged.
 
-You stoke an ally's fury. While you are raging, one willing creature within 30 feet gains the effects of the [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|Rage]] action, except it can still use [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] actions. It doesn't get any added benefits from your instinct, feats, or the like.
+You stoke an ally's fury. While you are raging, one willing creature within 30 feet gains the effects of the [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|Rage]] action, except it can still use [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] actions. It doesn't get any added benefits from your instinct, feats, or the like.
 
 ### Share Rage leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/class/contagious-rage|Contagious Rage]]
+[[srd/pf2e/compendium/feats/player-core-2/class/Contagious Rage|Contagious Rage]]
 
 *Source: Player Core 2 p. 81*

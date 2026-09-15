@@ -33,7 +33,7 @@ Tripkees lead a sophisticated hunter-gatherer lifestyle within which they reshap
 
 ### Alignment and Religion
 
-Taught to wait, observe, and respect natural processes of life and death, many tripkees adopt patient attitudes. Those who take a more active role suppressing cruelty may join organizations that blend religion and philosophy, such as the tripkee fiend-keepers who absorb an unholy being into their soul to contain and eventually transform its villainy through their own virtuous acts. Nature deities like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]] or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/erastil|Erastil]] often earn tripkees' respect, yet communities usually prefer less prominent, more intimate divinities such as empyreal lords, psychopomp ushers, or the fey Eldest.
+Taught to wait, observe, and respect natural processes of life and death, many tripkees adopt patient attitudes. Those who take a more active role suppressing cruelty may join organizations that blend religion and philosophy, such as the tripkee fiend-keepers who absorb an unholy being into their soul to contain and eventually transform its villainy through their own virtuous acts. Nature deities like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Gozreh|Gozreh]] or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Erastil|Erastil]] often earn tripkees' respect, yet communities usually prefer less prominent, more intimate divinities such as empyreal lords, psychopomp ushers, or the fey Eldest.
 
  **Popular Edicts** improve your part of the world without causing harm to others, practice patience whenever possible
 **Popular Anathema** create architecture that supplants the natural world, take rash action that brings risk to your community
@@ -58,18 +58,18 @@ Tripkee names often include resonant vowels and chirped consonants that remain d
 
 #### Languages
 
-[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
-[[srd/pf2e/compendium/rules-elements/languages#Tripkee|Tripkee]]
+[[srd/pf2e/compendium/rules-elements/Languages#Tripkee|Tripkee]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from Boggard, [[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], Iruxi, [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]], and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from Boggard, [[srd/pf2e/compendium/rules-elements/Languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]], Iruxi, [[srd/pf2e/compendium/rules-elements/Languages#Thalassic|Thalassic]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 #### Low-Light Vision
 
-You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition due to dim light.
 
 #### Natural Climber
 
-You gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]].
+You gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]].
 
 *Source: Player Core 2 p. 36*

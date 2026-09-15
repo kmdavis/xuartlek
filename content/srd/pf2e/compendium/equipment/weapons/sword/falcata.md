@@ -21,7 +21,7 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Advanced
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 The falcata is a heavy, one-handed sword with a single cutting edge, usually flaring to be wider towards the point of the weapon and narrower towards the hilt.
 

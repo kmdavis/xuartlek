@@ -24,23 +24,23 @@ Dexterity or Intelligence
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/longbow|Longbow]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/bow/Longbow|Longbow]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/domains#Moon|Moon]], [[srd/pf2e/compendium/character/domains#Nature|Nature]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Family|Family]], [[srd/pf2e/compendium/character/Domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/Domains#Moon|Moon]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/ant-haul|Ant Haul]]
+[[srd/pf2e/compendium/spells/rank-1/Ant Haul|Ant Haul]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/earthbind|Earthbind]]
+[[srd/pf2e/compendium/spells/rank-3/Earthbind|Earthbind]]
 
 - **7th**
-[[srd/pf2e/compendium/spells/rank-7/unfettered-pack|Unfettered Pack]]
+[[srd/pf2e/compendium/spells/rank-7/Unfettered Pack|Unfettered Pack]]
 
 *Source: Divine Mysteries p. 316*

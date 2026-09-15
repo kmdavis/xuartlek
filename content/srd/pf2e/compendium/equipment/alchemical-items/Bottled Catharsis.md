@@ -19,9 +19,9 @@ socialImage: og-image.png
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]])
 
-This drink unlocks a flood of emotions that helps reset your mental state. When you drink this elixir, the elixir attempts to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] each effect on you that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] trait or is inflicting the [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] condition on you, using the listed counteract rank and modifier.
+This drink unlocks a flood of emotions that helps reset your mental state. When you drink this elixir, the elixir attempts to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions#Counteracting|counteract]] each effect on you that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]] trait or is inflicting the [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] condition on you, using the listed counteract rank and modifier.
 
 ### Bottled Catharsis (Minor)
 

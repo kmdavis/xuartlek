@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/alchemist|Alchemist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/alchemist-dedication|Alchemist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Alchemist|Alchemist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Alchemist Dedication|Alchemist Dedication]]
 
-You gain a 1st- or 2nd-level alchemist feat.
+You gain a 1st- or 2nd-level [alchemist feat](https://2e.aonprd.com/Feats.aspx?Traits=7).
 
 ### Basic Concoction leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/advanced-concoction|Advanced Concoction]]
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Advanced Concoction|Advanced Concoction]]
 
 *Source: Player Core 2 p. 175*

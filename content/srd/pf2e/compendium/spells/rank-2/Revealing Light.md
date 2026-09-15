@@ -16,14 +16,14 @@ socialImage: og-image.png
 
 `Concentrate`  `Light`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
-- **Spell Lists**: Elemental
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
 - **Range**: 120 feet
 - **Area**: 10-foot burst
 - **Defense**: Reflex
 - **Duration**: varies
 
-A wave of magical light washes over the area. You choose the appearance of the light, such as colorful, heatless flames or sparkling motes. A creature affected by revealing light is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]]. If the creature was [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]], it becomes [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] instead. If the creature was already concealed for any other reason, it is no longer concealed.
+A wave of magical light washes over the area. You choose the appearance of the light, such as colorful, heatless flames or sparkling motes. A creature affected by revealing light is [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]]. If the creature was [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]], it becomes [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] instead. If the creature was already concealed for any other reason, it is no longer concealed.
 
 **Critical Success** The target is unaffected.
 

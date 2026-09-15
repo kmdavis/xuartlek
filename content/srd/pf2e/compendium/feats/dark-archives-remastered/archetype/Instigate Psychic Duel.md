@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Archetype`  `Illusion`  `Incapacitation`  `Mental`  `Occult`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/psychic-duelist|Psychic Duelist]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Psychic Duelist|Psychic Duelist]]
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/psychic-duelist-dedication|Psychic Duelist Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Psychic Duelist Dedication|Psychic Duelist Dedication]]
 
 You attempt to enter a psychic duel with a creature within 100 feet. The target can attempt a Will save against the higher of your spell DC or class DC. If it enters the duel willingly, use the result for a critical failure.
 

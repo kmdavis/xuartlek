@@ -1,6 +1,7 @@
 ---
 title: "Leveling Up"
 aliases: ["Leveling Up"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2065"
 citation: "Player Core pg. 29"
-socialImage: og-image.png
 ---
 
 # Leveling Up

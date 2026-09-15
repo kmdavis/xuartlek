@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
 You easily pick up new languages. You learn two new languages, chosen from common languages, uncommon languages, and any others you have access to. You learn an additional language if you are or become a master in Society and again if you are or become legendary.
 
@@ -24,6 +24,6 @@ learn additional languages.
 
 ### Multilingual leads to...
 
-[[srd/pf2e/compendium/feats/player-core/skill/legendary-linguist|Legendary Linguist]]
+[[srd/pf2e/compendium/feats/player-core/skill/Legendary Linguist|Legendary Linguist]]
 
 *Source: Player Core p. 258*

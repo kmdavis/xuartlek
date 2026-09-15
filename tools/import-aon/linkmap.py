@@ -83,11 +83,29 @@ DB_CATEGORY = {
     "ArcaneSchools": "arcane-school",
     "DraconicExemplars": "draconic-exemplar",
     "Curricula": "curriculum",
+    # Class-feature databases AoN only ever links to as a bare category page,
+    # e.g. "The hybrid studies can be found [here](/HybridStudies.aspx)".
+    # Without these the label survives and the link is dropped, leaving a
+    # sentence ending in a dead "here" that reads like a broken cross-reference.
+    "HybridStudies": "hybrid-study",
+    "GrimFascinations": "grim-fascination",
+    "Styles": "style",
+    "FatalMethods": "fatal-method",
+    "Practices": "practice",
+    "WeaponGroups": "weapon-group",
+    # Present in AoN, absent from our 19 books, so these resolve to nothing and
+    # correctly degrade to plain text: Followers and SkirmishBonds are Kingmaker
+    # warfare, DraconicBenefactors and MythicDestinies are unimported, and PFS
+    # is organised play rather than a rules database.
 }
 
 # "[here](Elements.aspx)" -- a link to a whole AoN category listing rather than
 # to one entry. These have no ?ID=, so the main pattern never sees them.
-BARE_LINK = re.compile(r"\[([^\[\]]+)\]\(/?(\w+)\.aspx\)")
+# Also matches query-string category pages such as
+# "[found here](SpellLists.aspx?Focus=false&Tradition=5)", which have no ?ID=
+# and so never reach LINK_RE. Those cannot resolve to a vault note, but they
+# can at least keep their link by pointing back at AoN.
+BARE_LINK = re.compile(r"\[([^\[\]]+)\]\(/?(\w+)\.aspx(\?[^)\s]*)?\)")
 
 LINK_RE = re.compile(r"\[([^\[\]]*(?:\[[^\[\]]*\][^\[\]]*)*)\]\(/(\w+)\.aspx\?ID=(\d+)[^)]*\)")
 
@@ -132,6 +150,10 @@ class LinkMap:
 
     def add_creature(self, aon_id: str | int, path: Path) -> None:
         self.add("__creature__", aon_id, path)
+
+    def category_page(self, db: str) -> str | None:
+        """Vault target for an AoN database name, e.g. "Languages"."""
+        return self._by_category.get(DB_CATEGORY.get(db, ""))
 
     def add_category_page(self, category: str, path: Path) -> None:
         """The single page listing every entry of a category.
@@ -180,10 +202,16 @@ class LinkMap:
 
         def bare(m: re.Match) -> str:
             label, db = m.group(1).strip(), m.group(2)
+            query = m.group(3) or ""
             target = self._by_category.get(DB_CATEGORY.get(db, ""))
             if not target:
+                # No vault page for this database. Dropping the link leaves a
+                # sentence ending in a bare "here", which reads as a broken
+                # cross-reference. Point at AoN instead: the reader still gets
+                # somewhere useful, and the prose still scans.
                 stats[1] += 1
-                return label
+                href = f"https://2e.aonprd.com/{db}.aspx{query}".replace("&amp;", "&")
+                return f"[{label}]({href})"
             stats[0] += 1
             return f"[[{target}|{label}]]"
 

@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Occult, Primal
+- **Traditions**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 
-You shape a magical swarm of ephemeral mayflies, which direct your shot as it soars through the sky. Make a ranged Strike. For this Strike, double your weapon’s range increment. If the target is under the effect of a spell, is wielding a magic item, or is wearing a magic item, it’s [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against this Strike, as the mayflies become increasingly unpredictable when hunting a source of magic. If the target was [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]], the target becomes [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] to this Strike instead. If the target was already concealed for any other reason, it’s no longer concealed to this Strike. If the Strike is successful, the target is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round as the mayflies swarm around the target’s face.
+You shape a magical swarm of ephemeral mayflies, which direct your shot as it soars through the sky. Make a ranged Strike. For this Strike, double your weapon’s range increment. If the target is under the effect of a spell, is wielding a magic item, or is wearing a magic item, it’s [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] against this Strike, as the mayflies become increasingly unpredictable when hunting a source of magic. If the target was [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]], the target becomes [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] to this Strike instead. If the target was already concealed for any other reason, it’s no longer concealed to this Strike. If the Strike is successful, the target is [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] for 1 round as the mayflies swarm around the target’s face.
 
 *Source: Impossible Magic p. 168*

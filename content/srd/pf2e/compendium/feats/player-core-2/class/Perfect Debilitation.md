@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Alchemist`
 
-You have perfected the formulas for bombs that impede your enemies. When you use [[srd/pf2e/compendium/feats/player-core-2/class/debilitating-bomb|Debilitating Bomb]], your target avoids the condition the bomb imposes only if it critically succeeds at its saving throw.
+You have perfected the formulas for bombs that impede your enemies. When you use [[srd/pf2e/compendium/feats/player-core-2/class/Debilitating Bomb|Debilitating Bomb]], your target avoids the condition the bomb imposes only if it critically succeeds at its saving throw.
 
 *Source: Player Core 2 p. 69*

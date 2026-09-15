@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `Archetype`  `Dedication`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/celebrity|Celebrity]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Celebrity|Celebrity]]
 
-The more people you have looking at you, the more content you are, and you take every opportunity to show up others when their performances are less than perfect. You gain the Upstage reaction. In addition, when you Earn Income, if the level of the task is higher than your level, you gain a +1 circumstance bonus to your check to Earn Income. 
+The more people you have looking at you, the more content you are, and you take every opportunity to show up others when their performances are less than perfect. You gain the Upstage reaction. In addition, when you [[srd/pf2e/compendium/rules-elements/skills/skills|Earn Income]], if the level of the task is higher than your level, you gain a +1 circumstance bonus to your check to Earn Income. 
 
 ### Celebrity Dedication leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/command-attention|Command Attention]], Costume Change, It's Not Over, [[srd/pf2e/compendium/feats/player-core-2/archetype/mesmerizing-gaze|Mesmerizing Gaze]], More Real than Real, [[srd/pf2e/compendium/feats/player-core-2/archetype/never-tire|Never Tire]], Operatic Adventurer, Perfect Pitch, Primadonna, Tempo Shift, Tragic Lament
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Command Attention|Command Attention]], Costume Change, It's Not Over, [[srd/pf2e/compendium/feats/player-core-2/archetype/Mesmerizing Gaze|Mesmerizing Gaze]], More Real than Real, [[srd/pf2e/compendium/feats/player-core-2/archetype/Never Tire|Never Tire]], Operatic Adventurer, Perfect Pitch, Primadonna, Tempo Shift, Tragic Lament
 
 *Source: Player Core 2 p. 194*

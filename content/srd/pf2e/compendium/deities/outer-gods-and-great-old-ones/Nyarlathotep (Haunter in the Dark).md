@@ -25,23 +25,23 @@ Dexterity or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/kukri|Kukri]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/Kukri|Kukri]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/Domains#Trickery|Trickery]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/grim-tendrils|Grim Tendrils]]
+[[srd/pf2e/compendium/spells/rank-1/Grim Tendrils|Grim Tendrils]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/nightmare|Nightmare]]
+[[srd/pf2e/compendium/spells/rank-4/Nightmare|Nightmare]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/summon-entity|Summon Entity]]
+[[srd/pf2e/compendium/spells/rank-5/Summon Entity|Summon Entity]]
 
 *Source: Monster Core 2 p. 178*

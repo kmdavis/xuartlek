@@ -22,7 +22,7 @@ socialImage: og-image.png
 DC 23 (trained; or 0 if the illusory floor is dispelled)
 
 **Disable**
-Succeeding on a Perception check against the [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] DC of 21 (including the check to find the trap) disbelieves the illusory floor, or [[srd/pf2e/compendium/spells/rank-2/dispel-magic|_dispel magic_]] (2nd level; [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] DC 18) to dispel the illusory floor; _dispel magic_ (2nd level; counteract DC 20) to dispel the magical silence
+Succeeding on a Perception check against the [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] DC of 21 (including the check to find the trap) disbelieves the illusory floor, or [[srd/pf2e/compendium/spells/rank-2/Dispel Magic|_dispel magic_]] (2nd level; [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions#Counteracting|counteract]] DC 18) to dispel the illusory floor; _dispel magic_ (2nd level; counteract DC 20) to dispel the magical silence
 
 **Drop** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A creature walks onto the illusory **floor**; Effect The triggering creature falls through the illusory floor and takes falling damage (typically 20 bludgeoning damage). That creature can use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Grab an Edge|Grab an Edge]] reaction to avoid falling. The DC to Climb the walls or Grab an Edge is 20.
 

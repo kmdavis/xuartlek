@@ -17,12 +17,12 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Healing|Healing]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Healing|Healing]]
 - **Range**: 30 feet
 - **Target**: 1 willing living creature
 - **Duration**: 1 minute
 
-Your words bless a creature with an enhanced connection to vital energy. When the target regains Hit Points from a [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] spell, it regains 2 additional Hit Points.
+Your words bless a creature with an enhanced connection to vital energy. When the target regains Hit Points from a [[srd/pf2e/compendium/rules-elements/traits/player-core/Healing|healing]] [[srd/pf2e/compendium/rules-elements/traits/player-core/Vitality|vitality]] spell, it regains 2 additional Hit Points.
 
  The target regains additional Hit Points from _healer's blessing_ only the first time it regains HP from a given healing spell, so a spell that heals the creature repeatedly over a duration would restore additional Hit Points only once, when they are first healed.
 

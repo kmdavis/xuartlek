@@ -24,9 +24,9 @@ socialImage: og-image.png
 - **Range**: 40 ft.
 - **Type**: Ranged
 - **Category**: Martial
-- **Group**: Dart
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Dart|Dart]]
 
-Similar to a chakram, chakri are too light to be wielded in melee but allow the user significantly more control over their throws. A chakri is small and light enough that up to two can be worn on each wrist; a chakri worn on the wrist is reload 0 instead of reload —.
+Similar to a [[srd/pf2e/compendium/equipment/weapons/knife/Chakram|chakram]], chakri are too light to be wielded in melee but allow the user significantly more control over their throws. A chakri is small and light enough that up to two can be worn on each wrist; a chakri worn on the wrist is reload 0 instead of reload —.
 
 ### Critical Specialization Effects
 

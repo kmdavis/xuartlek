@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/battle-harbinger|Battle Harbinger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/battle-harbinger-dedication|Battle Harbinger Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Battle Harbinger|Battle Harbinger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Battle Harbinger Dedication|Battle Harbinger Dedication]]
 - **Trigger**: Your turn begins
 
 You’ve become so accustomed to maintaining your battle auras that it’s become second nature to you. You immediately gain the effects of the [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] action for one of your battle auras.

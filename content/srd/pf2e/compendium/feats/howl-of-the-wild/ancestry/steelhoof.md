@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Centaur`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/heritages#Ironhoof Centaur|Ironhoof Centaur]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Ironhoof Centaur|Ironhoof Centaur]] heritage
 
 You've girded your hooves in steel or other reinforcements aimed to inflict maximum damage. Your hoof attack deals 1d8 bludgeoning damage instead of 1d6.
 

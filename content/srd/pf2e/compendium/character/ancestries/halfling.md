@@ -34,7 +34,7 @@ Despite their jovial and friendly nature, halflings don't usually tend to congre
 
 ### Alignment and Religion
 
-Halflings are loyal to their friends and their family, but they aren't afraid to do what needs to be done in order to survive. Wherever halflings go, they seamlessly blend into the society they find themselves in, adapting to the culture and beliefs of the predominant ancestry around them and adding their uniquely halfling twists, creating a blend of cultural diffusion that enriches both cultures. Halflings favor gods that either grant luck, like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]], or encourage guile, like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/norgorber|Norgorber]], and many appreciate Cayden Cailean's role as a liberator, as well as any religions common among other ancestries around them.
+Halflings are loyal to their friends and their family, but they aren't afraid to do what needs to be done in order to survive. Wherever halflings go, they seamlessly blend into the society they find themselves in, adapting to the culture and beliefs of the predominant ancestry around them and adding their uniquely halfling twists, creating a blend of cultural diffusion that enriches both cultures. Halflings favor gods that either grant luck, like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Desna|Desna]], or encourage guile, like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Norgorber|Norgorber]], and many appreciate Cayden Cailean's role as a liberator, as well as any religions common among other ancestries around them.
 
  **Popular Edicts** share good meals with friends and strangers alike, stand up to bullies and oppressors, stay beneath the taller folk's notice
  **Popular Anathema** take your luck for granted
@@ -55,14 +55,14 @@ Anafa, Antal, Bellis, Boram, Etune, Filiu, Jamir, Kaleb, Linna, Marra, Miro, Ril
 
 #### Languages
 
-[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
-[[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]]
+[[srd/pf2e/compendium/rules-elements/Languages#Halfling|Halfling]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]], and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/Languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/Languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/Languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 #### Keen Eyes
 
-Your eyes are sharp, allowing you to make out small details about [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] or even [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] creatures that others might miss. You gain a +2 circumstance bonus when using the Seek action to find [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] creatures within 30 feet of you. When you target an opponent that is concealed from you or hidden from you, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one.
+Your eyes are sharp, allowing you to make out small details about [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] or even [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]] creatures that others might miss. You gain a +2 circumstance bonus when using the Seek action to find [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]] creatures within 30 feet of you. When you target an opponent that is concealed from you or hidden from you, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one.
 
 *Source: Player Core p. 58*

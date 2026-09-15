@@ -14,7 +14,7 @@ Boggards are aggressive humanoid amphibians who thrive in swamps, marshes, and e
 
 ### Members
 
-[[srd/pf2e/bestiary/battlecry/animal/boggard-dreadknot|Boggard Dreadknot]] (Creature 10), Boggard Guard (Creature -1), [[srd/pf2e/bestiary/monster-core/humanoid/boggard-scout|Boggard Scout]] (Creature 1), Boggard Scout (Creature 1), [[srd/pf2e/bestiary/battlecry/humanoid/boggard-scouting-party|Boggard Scouting Party]] (Creature 6), [[srd/pf2e/bestiary/monster-core/humanoid/boggard-swampseer|Boggard Swampseer]] (Creature 3), [[srd/pf2e/bestiary/monster-core/humanoid/boggard-warrior|Boggard Warrior]] (Creature 2)
+[[srd/pf2e/bestiary/battlecry/animal/Boggard Dreadknot|Boggard Dreadknot]] (Creature 10), Boggard Guard (Creature -1), [[srd/pf2e/bestiary/monster-core/humanoid/Boggard Scout|Boggard Scout]] (Creature 1), Boggard Scout (Creature 1), [[srd/pf2e/bestiary/battlecry/humanoid/Boggard Scouting Party|Boggard Scouting Party]] (Creature 6), [[srd/pf2e/bestiary/monster-core/humanoid/Boggard Swampseer|Boggard Swampseer]] (Creature 3), [[srd/pf2e/bestiary/monster-core/humanoid/Boggard Warrior|Boggard Warrior]] (Creature 2)
 
 ### Boggard Villages
 
@@ -22,6 +22,6 @@ Boggards prefer to dwell in swamplands and mires. Though they are at home in the
 
 ### Gogunta
 
-[[srd/pf2e/compendium/deities/demon-lords/gogunta|Gogunta]] is the patron of the boggard people, many of whom worship her as their goddess.
+[[srd/pf2e/compendium/deities/demon-lords/Gogunta|Gogunta]] is the patron of the boggard people, many of whom worship her as their goddess.
 
 *Source: Monster Core p. 44*

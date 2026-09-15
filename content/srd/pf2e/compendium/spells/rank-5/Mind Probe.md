@@ -18,8 +18,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Linguistic`  `Manipulate`  `Mental`  `Uncommon`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: Conqueror Worm, [[srd/pf2e/compendium/deities/dead-or-missing-deities/maat|Ma’at]], Nin
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: Conqueror Worm, [[srd/pf2e/compendium/deities/dead-or-missing-deities/Ma’at|Ma’at]], Nin
 - **Cast**: 1 minute
 - **Range**: 30 feet
 - **Target**: 1 creature
@@ -30,7 +30,7 @@ You cast your thoughts through a creature's mind, sifting for information. You a
 
 **Success** The target is unaffected.
 
-**Failure** Each round of the spell's duration, you can Sustain the spell to ask a different question and attempt to uncover the answer. For each question, the target can attempt a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] check against your spell DC; if the target succeeds, you don't learn the answer, and on a critical success, the target gives you a false answer that you believe is truthful. Once you've asked the target a given question, asking it again, even with a separate casting of _mind probe_, produces the same result.
+**Failure** Each round of the spell's duration, you can Sustain the spell to ask a different question and attempt to uncover the answer. For each question, the target can attempt a [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] check against your spell DC; if the target succeeds, you don't learn the answer, and on a critical success, the target gives you a false answer that you believe is truthful. Once you've asked the target a given question, asking it again, even with a separate casting of _mind probe_, produces the same result.
 
 **Critical Failure** As failure, and the target takes a –4 circumstance penalty to Deception checks against your questions
 

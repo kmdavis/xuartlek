@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]]
 
-You can create and implant [[srd/pf2e/books/howl-of-the-wild/grafting-rules/grafting-rules|grafts]]. When you select this feat, you gain the formulas for four common grafts of 3rd level or lower. You gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] checks to implant grafts. If you’re a master in Medicine, this bonus increases to +2.
+You can create and implant [[srd/pf2e/books/howl-of-the-wild/grafting-rules/grafting-rules|grafts]]. When you select this feat, you gain the formulas for four common grafts of 3rd level or lower. You gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] checks to implant grafts. If you’re a master in Medicine, this bonus increases to +2.
 
 *Source: Howl of the Wild p. 97*

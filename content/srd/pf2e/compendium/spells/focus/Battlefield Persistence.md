@@ -17,9 +17,9 @@ socialImage: og-image.png
 
 `Concentrate`  `Focus`  `Oracle`  `Uncommon`
 
-- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Battle|Battle]]
+- **Mystery**: [[srd/pf2e/compendium/character/Mysteries#Battle|Battle]]
 - **Trigger**: You are about to attempt a saving throw, but you haven’t rolled yet.
 
-You're difficult to deter in battle. You gain a +2 status bonus to the triggering save, and if the triggering save is against an [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]] effect, it treats you as if you were 2 levels higher.
+You're difficult to deter in battle. You gain a +2 status bonus to the triggering save, and if the triggering save is against an [[srd/pf2e/compendium/rules-elements/traits/player-core/Incapacitation|incapacitation]] effect, it treats you as if you were 2 levels higher.
 
 *Source: Player Core 2 p. 258*

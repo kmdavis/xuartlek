@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Archetype`  `Fortune`  `Occult`  `Prediction`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/sleepwalker|Sleepwalker]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/sleepwalker-dedication|Sleepwalker Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Sleepwalker|Sleepwalker]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Sleepwalker Dedication|Sleepwalker Dedication]]
 - **Requirements**: You’re in a Daydream Trance.
 
 You use your daydreams to predict the success of actions, rapidly envisioning the possibilities. Once before the end of your next turn, you can call upon these predictions before you roll a saving throw or skill check. You can roll the saving throw or skill check twice and take the better result.

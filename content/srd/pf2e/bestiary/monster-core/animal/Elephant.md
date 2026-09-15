@@ -28,7 +28,7 @@ perception:
     desc: "+13; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +15"
 abilityMods: [7, 0, 4, -4, 2, -2]
 ac: 23
 armorclass:
@@ -41,14 +41,14 @@ health:
 speed: "40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tusk +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 3d8+9 piercing"
+    desc: "⬻ tusk +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 3d8+9 piercing"
   - name: "Melee"
-    desc: "⬻ trunk +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ grabbing trunk"
+    desc: "⬻ trunk +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ grabbing trunk"
   - name: "Melee"
-    desc: "⬻ foot +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d10+9 bludgeoning"
+    desc: "⬻ foot +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 2d10+9 bludgeoning"
 abilities_bot:
   - name: "Grabbing Trunk"
-    desc: "A Medium or smaller creature hit by the elephant's trunk is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]. If the elephant moves, it can bring the grabbed creature along with it."
+    desc: "A Medium or smaller creature hit by the elephant's trunk is [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]]. If the elephant moves, it can bring the grabbed creature along with it."
   - name: "Trample"
     desc: "⬽ Large or smaller, foot, DC 24"
 sourcebook: "_Monster Core_, page 150."

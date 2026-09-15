@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Arcane Cascade|Arcane Cascade]]
 
-Energy flares out around you when you drop into your signature stance. When you use Arcane Cascade, each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] takes damage equal to the extra damage from Arcane Cascade. This damage is the same type as that of Arcane Cascade. A creature that takes this damage is temporarily immune to further uses of Burning Cascade for 1 minute.
+Energy flares out around you when you drop into your signature stance. When you use Arcane Cascade, each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] takes damage equal to the extra damage from Arcane Cascade. This damage is the same type as that of Arcane Cascade. A creature that takes this damage is temporarily immune to further uses of Burning Cascade for 1 minute.
 
 *Source: Impossible Magic p. 18*

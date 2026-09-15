@@ -20,7 +20,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Focus`  `Hex`  `Manipulate`  `Shadow`  `Uncommon`  `Witch`
 
-- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Shadow|Lesson of Shadow]]
+- **Lesson**: [[srd/pf2e/compendium/character/Lessons#Lesson of Shadow|Lesson of Shadow]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: AC

@@ -48,7 +48,7 @@ socialImage: og-image.png
 
 Resembling a massive crossbow mounted on a tripod, but with a pair of arms for torsion instead of a single prod, a ballista flings massive bolts. Also referred to as a scorpion, this weapon requires fewer crew members than the larger heavy ballista and can be Aimed and Loaded much more quickly.
  **Aim** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") 35 feet, minimum distance 25 feet
- **Load**[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 2 times
- **Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], range increment 120 feet) 4d12 piercing, single target, DC 19 Reflex
+ **Load**[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]]) 2 times
+ **Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]], range increment 120 feet) 4d12 piercing, single target, DC 19 Reflex
 
 *Source: Guns & Gears (Remastered) p. 74*

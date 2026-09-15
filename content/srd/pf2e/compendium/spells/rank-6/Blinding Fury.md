@@ -18,8 +18,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Curse`  `Emotion`  `Incapacitation`  `Mental`
 
-- **Traditions**: Divine, Occult, Primal
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
+- **Traditions**: [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Aesir|Aesir]]
 - **Trigger**: A creature damages you.
 - **Range**: 60 feet
 - **Target**: the triggering creature
@@ -30,7 +30,7 @@ You curse the target with your outrage at being attacked. The effect is determin
 
 **Critical Success** The target is unaffected.
 
-**Success** The target can't [[srd/pf2e/compendium/rules-elements/conditions#Observed|observe]] you until the end of its turn, and if you're currently observed by it, you become [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] to it.
+**Success** The target can't [[srd/pf2e/compendium/rules-elements/Conditions#Observed|observe]] you until the end of its turn, and if you're currently observed by it, you become [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] to it.
 
 **Failure** As success, and for 1 minute, every time the target damages you, it can't observe you until the end of its turn.
 

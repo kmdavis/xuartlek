@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Air`  `Manipulate`  `Move`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Trigger**: A creature enters a space within 5 feet of you.
 
 An arresting breeze sweeps you up in an instant and moves you to safety. You Fly 15 feet directly away from the triggering creature.

@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Druid`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/druid|druid]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Druid|druid]] class.
 
 *Source: Player Core p. 455*

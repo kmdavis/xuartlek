@@ -21,7 +21,7 @@ socialImage: og-image.png
 
 `Fire`  `Impulse`  `Incapacitation`  `Kineticist`  `Overflow`  `Primal`  `Vitality`  `Positive`
 
-Blinding flames explode in a swirling sphere! The detonation fills a 20-foot burst within 60 feet of you. Each creature in the area takes 6d6 fire damage, plus 2d6 vitality damage if it has void healing, and can become [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] or [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] depending on the result of its Reflex save. The light from Solar Detonation is sunlight for creatures with a particular vulnerability to sunlight. Each creature that attempts a save becomes temporarily immune to being dazzled or blinded by Solar Detonation for 10 minutes, but not the impulse's other effects.
+Blinding flames explode in a swirling sphere! The detonation fills a 20-foot burst within 60 feet of you. Each creature in the area takes 6d6 fire damage, plus 2d6 vitality damage if it has void healing, and can become [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] or [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] depending on the result of its Reflex save. The light from Solar Detonation is sunlight for creatures with a particular vulnerability to sunlight. Each creature that attempts a save becomes temporarily immune to being dazzled or blinded by Solar Detonation for 10 minutes, but not the impulse's other effects.
 
 **Critical Success** The creature is unaffected.
 

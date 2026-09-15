@@ -16,9 +16,9 @@ socialImage: og-image.png
 
 `Archetype`  `Magical`  `Manipulate`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/necrologist|Necrologist]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Necrologist|Necrologist]]
 - **Frequency**: once per round
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/necrologist-dedication|Necrologist Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Necrologist Dedication|Necrologist Dedication]]
 - **Requirements**: Your horde is raised.
 
 With a wave of your hand, your risen undead horde collapses and another one rises to take its place. You Sustain your horde, dispersing the current group of undead and replacing them with a different type of undead to which you have access.

@@ -24,23 +24,23 @@ Strength or Intelligence
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/flail|Flail]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/Flail|Flail]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Pain|Pain]], [[srd/pf2e/compendium/character/domains#Tyranny|Tyranny]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Might|Might]], [[srd/pf2e/compendium/character/Domains#Pain|Pain]], [[srd/pf2e/compendium/character/Domains#Tyranny|Tyranny]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/fleet-step|Fleet Step]]
+[[srd/pf2e/compendium/spells/rank-1/Fleet Step|Fleet Step]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/shatter|Shatter]]
+[[srd/pf2e/compendium/spells/rank-2/Shatter|Shatter]]
 
 - **8th**
-[[srd/pf2e/compendium/spells/rank-8/monstrosity-form|Monstrosity Form]]
+[[srd/pf2e/compendium/spells/rank-8/Monstrosity Form|Monstrosity Form]]
 
 *Source: Divine Mysteries p. 312*

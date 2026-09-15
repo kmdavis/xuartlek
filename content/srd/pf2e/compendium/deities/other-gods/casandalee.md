@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: advance the development of artificial intelligence, encourage understanding between artificial and organic life
 - **Anathema**: treat artificial life as lesser than organic life, foment distrust between artificial and organic life
 - **Area of Concern**: artificial life, free thinking, intellectual apotheosis
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/wheels-of-innovation|Wheels of Innovation]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Wheels of Innovation|Wheels of Innovation]]
 
 ### Devotee Benefits
 
@@ -25,24 +25,24 @@ Constitution or Intelligence
 
 **Divine Sanctification** can choose holy or unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/polytool|Polytool]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sword/Polytool|Polytool]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Creation|Creation]], [[srd/pf2e/compendium/character/domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Metal|Metal]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Creation|Creation]], [[srd/pf2e/compendium/character/Domains#Freedom|Freedom]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Metal|Metal]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/domains#Lightning|Lightning]], [[srd/pf2e/compendium/character/domains#Perfection|Perfection]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Ambition|Ambition]], [[srd/pf2e/compendium/character/Domains#Lightning|Lightning]], [[srd/pf2e/compendium/character/Domains#Perfection|Perfection]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/carryall|Carryall]]
+[[srd/pf2e/compendium/spells/rank-1/Carryall|Carryall]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/hypercognition|Hypercognition]]
+[[srd/pf2e/compendium/spells/rank-3/Hypercognition|Hypercognition]]
 
 - **6th**
-[[srd/pf2e/compendium/spells/rank-6/wall-of-force|Wall of Force]]
+[[srd/pf2e/compendium/spells/rank-6/Wall of Force|Wall of Force]]
 
 ### Divine Intercession
 
@@ -56,7 +56,7 @@ Seeing her android devotees and other followers of a constructed nature as her c
 
 **Minor Curse** Your joints stiffen, and your mind becomes clouded. You take a –2 status penalty to all rolls for initiative.
 
-**Moderate Curse** Casandalee attempts to bring you unwanted intellectual advancement to help you become something better. Each day, at some point during the day, Casandalee bestows a strange insight upon you that you find uncomfortable. If you embrace it, you aren’t otherwise affected, but if you don’t, you become [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 10 minutes.
+**Moderate Curse** Casandalee attempts to bring you unwanted intellectual advancement to help you become something better. Each day, at some point during the day, Casandalee bestows a strange insight upon you that you find uncomfortable. If you embrace it, you aren’t otherwise affected, but if you don’t, you become [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]] for 10 minutes.
 
 **Major Curse** The code of your soul is constantly being rewritten, and not for the better. You are never temporarily immune against a harmful effect.
 

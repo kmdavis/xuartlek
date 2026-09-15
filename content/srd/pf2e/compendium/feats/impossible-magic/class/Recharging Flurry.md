@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Magus`
 
-- **Prerequisites**: twofold tine hybrid study
+- **Prerequisites**: [[srd/pf2e/compendium/character/Hybrid Studies#Twofold Tine|twofold tine hybrid study]]
 - **Requirements**: You’re wielding two melee weapons, each in a different hand.
 
-The clash of steel fuels your magic, preparing you to unleash another magic-infused assault. Make one Strike with each of your weapons, then recharge your Spellstrike (regardless of whether the Strikes hit). Your multiple attack penalty increases after each Strike as normal. If the second Strike targets a creature you haven’t attacked yet this turn, its multiple attack penalty is –4 if it’s your second attack this turn (–3 if you’re using an [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] weapon) or –8 if it’s your third or further Strike (–6 with an agile weapon).
+The clash of steel fuels your magic, preparing you to unleash another magic-infused assault. Make one Strike with each of your weapons, then recharge your Spellstrike (regardless of whether the Strikes hit). Your multiple attack penalty increases after each Strike as normal. If the second Strike targets a creature you haven’t attacked yet this turn, its multiple attack penalty is –4 if it’s your second attack this turn (–3 if you’re using an [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]] weapon) or –8 if it’s your third or further Strike (–6 with an agile weapon).
 
 *Source: Impossible Magic p. 19*

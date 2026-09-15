@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Tripkee`
 
-You can communicate with the simplest of frogs and other similar creatures using longwinded croaks. You can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill with animals that are amphibians (most amphibians have the [[srd/pf2e/compendium/rules-elements/traits/player-core/amphibious|amphibious]] trait).
+You can communicate with the simplest of frogs and other similar creatures using longwinded croaks. You can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] skill with animals that are amphibians (most amphibians have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Amphibious|amphibious]] trait).
 
 *Source: Player Core 2 p. 37*

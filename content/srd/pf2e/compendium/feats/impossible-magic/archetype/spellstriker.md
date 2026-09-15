@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/magus|Magus]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/magus-dedication|Magus Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Magus|Magus]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Magus Dedication|Magus Dedication]]
 
 You gain the magus’s Spellstrike activity. You can recharge it only as an activity that takes 1 minute. This restriction applies even if you gain another ability that normally recharges Spellstrike.
 

@@ -18,15 +18,15 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Mythic`  `Void`  `Negative`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/apocalypse-rider|Apocalypse Rider]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Apocalypse Rider|Apocalypse Rider]]
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/apocalypse-rider-dedication|Apocalypse Rider Dedication]]; [[srd/pf2e/compendium/feats/divine-mysteries/archetype/battle-harbinger-dedication|Battle Harbinger Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Apocalypse Rider Dedication|Apocalypse Rider Dedication]]; [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Battle Harbinger Dedication|Battle Harbinger Dedication]]
 
-You hasten the passage of time for a living creature, prematurely aging them into decrepitude. A living creature within 60 feet takes 14d6 [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] damage and a part of its body you chose withers, taking the following penalties depending on the result of their a Fortitude saving throw against your class DC or spell DC, whichever is higher. 
-**Arms** The target’s arms grow weak. The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1. 
-**Head** The target has trouble thinking straight. The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1. 
+You hasten the passage of time for a living creature, prematurely aging them into decrepitude. A living creature within 60 feet takes 14d6 [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]] damage and a part of its body you chose withers, taking the following penalties depending on the result of their a Fortitude saving throw against your class DC or spell DC, whichever is higher. 
+**Arms** The target’s arms grow weak. The target becomes [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]] 1. 
+**Head** The target has trouble thinking straight. The target becomes [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] 1. 
 **Legs** The target’s legs buckle with every movement. The target takes a –10-foot status penalty to its Speeds. 
-**Torso** The target’s skin becomes thin and papery. The target gains [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Weakness|weakness]] 10 to slashing damage.
+**Torso** The target’s skin becomes thin and papery. The target gains [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Weakness|weakness]] 10 to slashing damage.
 
 **Critical Success** The target is unaffected.
 

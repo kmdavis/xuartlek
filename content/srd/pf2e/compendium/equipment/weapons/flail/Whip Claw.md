@@ -24,7 +24,7 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Advanced
-- **Group**: Flail
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Flail|Flail]]
 
 The whip claw is a long tether affixed to claw-like daggers, allowing the wielder to fling and retract them with deadly precision. Catfolk first developed this weapon to provide extended reach when hunting dangerous animals, and they wield them with unmatched expertise.
 

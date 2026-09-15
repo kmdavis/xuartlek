@@ -17,14 +17,14 @@ socialImage: og-image.png
 
 `Agile`  `Backstabber`  `Deadly`  `Finesse`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/demon-lords/sifkesh|Sifkesh]], The Perplexing Jest
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/demon-lords/Sifkesh|Sifkesh]], The Perplexing Jest
 - **Price**: 3 sp
 - **Damage**: 1d4 S
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Knife
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Knife|Knife]]
 
 A war razor is an exaggerated version of the barbers' tool. It's a brittle but extremely sharp weapon that is very easy to slip into a pocket or sleeve.
 

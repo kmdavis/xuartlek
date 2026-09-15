@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/beastmaster|Beastmaster]], Undead Master (Level 4)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/beastmaster-dedication|Beastmaster Dedication]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Beastmaster|Beastmaster]], Undead Master (Level 4)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Beastmaster Dedication|Beastmaster Dedication]]
 
-Another animal joins you in your travels. It is a young animal companion that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]] trait. See Beastmaster Animal Companions for rules on how having multiple animal companions works.
+Another animal joins you in your travels. It is a young animal companion that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Minion|minion]] trait. See Beastmaster Animal Companions for rules on how having multiple animal companions works.
 
 **Special** You can select this feat more than once, gaining an additional animal companion each time, to a maximum of four total companions from all sources.
 

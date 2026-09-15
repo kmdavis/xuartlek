@@ -30,7 +30,7 @@ Over millennia, these mysterious, intricately cut gemstones have been hoarded by
 
 An _amplifying aeon stone_ must be activated to provide a benefit. The resonant power grants you a +2 item bonus to Arcana, Nature, Occultism, or Religion checks—whichever corresponds to the tradition of the last spell you enhanced with this aeon stone.
 
-**Activate—Amplify** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|spellshape]]) **Effect** If your next action is to Cast a Spell, that spell's rank is 1 higher (maximum 10th rank) for the purposes of counteracting and being counteracted.
+**Activate—Amplify** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Spellshape|spellshape]]) **Effect** If your next action is to Cast a Spell, that spell's rank is 1 higher (maximum 10th rank) for the purposes of counteracting and being counteracted.
 
 ### Aeon Stone (Consumed)
 
@@ -56,7 +56,7 @@ When you would die from the dying condition (typically at dying 4), this smooth 
 ---
 
 This clear cube allows you to communicate with a limited form of telepathy to a range of 100 feet. The messages are transmitted as a simple image each round. These images are the quality of a hasty or childish sketch but can be roughly understood by creatures regardless of language. This provides no special ability to respond to your images.
- The resonant power allows you to cast [[srd/pf2e/compendium/spells/rank-2/translate|_translate_]] as an occult innate spell once per day.
+ The resonant power allows you to cast [[srd/pf2e/compendium/spells/rank-2/Translate|_translate_]] as an occult innate spell once per day.
 
 ### Aeon Stone (Peering)
 
@@ -82,7 +82,7 @@ After you've invested and worn this transparent stone for a week continuously, y
 
 ---
 
-This red crystalline star covers you in a faint aura when you are subject to lingering wounds. You gain resistance 3 to [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]]. At the end of any turn where the persistent damage can't overcome this resistance, end that condition.
+This red crystalline star covers you in a faint aura when you are subject to lingering wounds. You gain resistance 3 to [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent damage]]. At the end of any turn where the persistent damage can't overcome this resistance, end that condition.
  The resonant power allows you to cast _stabilize_ as a primal innate cantrip. 
 
 ### Aeon Stone (Smoothing)
@@ -91,7 +91,7 @@ This red crystalline star covers you in a faint aura when you are subject to lin
 
 ---
 
-This spherical piece of silvery stone helps you ignore minor issues. You can ignore status penalties to skill checks from [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], and [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] conditions as long as the value of that condition is 1. Its resonant power allows you to cast _guidance_ as an occult innate cantrip.
+This spherical piece of silvery stone helps you ignore minor issues. You can ignore status penalties to skill checks from [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]], [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]], and [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] conditions as long as the value of that condition is 1. Its resonant power allows you to cast _guidance_ as an occult innate cantrip.
 
 ### Aeon Stone (Sprouting)
 
@@ -99,9 +99,9 @@ This spherical piece of silvery stone helps you ignore minor issues. You can ign
 
 ---
 
-Encouraging the natural growth of life, this green ovoid can often be found surrounded by new seedlings. Its resonant power allows you to cast [[srd/pf2e/compendium/spells/cantrips/tangle-vine|_tangle vine_]] as a primal innate cantrip. 
+Encouraging the natural growth of life, this green ovoid can often be found surrounded by new seedlings. Its resonant power allows you to cast [[srd/pf2e/compendium/spells/cantrips/Tangle Vine|_tangle vine_]] as a primal innate cantrip. 
 
-**Activate—Flow of Life** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]]) **Frequency** once per day; **Effect** The crescent aeon stone fires a blast of silvery moonlight in a 100-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]], dealing 4d12 spirit damage to all creatures in the area (DC 22 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). This is [[srd/pf2e/compendium/equipment/materials/silver|silver]] damage for the purposes of weaknesses, resistances, and the like.
+**Activate—Flow of Life** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Light|light]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]]) **Frequency** once per day; **Effect** The crescent aeon stone fires a blast of silvery moonlight in a 100-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Line|line]], dealing 4d12 spirit damage to all creatures in the area (DC 22 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save). This is [[srd/pf2e/compendium/equipment/materials/Silver|silver]] damage for the purposes of weaknesses, resistances, and the like.
 
 ### Aeon Stone (Vital amplification)
 
@@ -109,7 +109,7 @@ Encouraging the natural growth of life, this green ovoid can often be found surr
 
 ---
 
-A _vital amplification aeon stone_ improves the flow of vital energy through your body, speeding the healing process and safeguarding your body from life-draining effects. Whenever you regain Hit Points, you regain an additional 1 Hit Point for each 10 Hit Points regained (minimum 1 additional Hit Point). The resonant power grants you [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] 5 to void damage.
+A _vital amplification aeon stone_ improves the flow of vital energy through your body, speeding the healing process and safeguarding your body from life-draining effects. Whenever you regain Hit Points, you regain an additional 1 Hit Point for each 10 Hit Points regained (minimum 1 additional Hit Point). The resonant power grants you [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistance]] 5 to void damage.
 
 ### Aeon Stone (Flickering)
 
@@ -119,10 +119,30 @@ A _vital amplification aeon stone_ improves the flow of vital energy through you
 
 A _flickering aeon stone_ contains a drop of orichalcum at its center. It remains slightly out of phase with reality, giving it a translucent appearance. 
 
-**Activate—Flicker** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ; **Frequency** once per day; **Effect** The _flickering aeon stone_ draws you slightly out of sync with the flow of time, causing you to flicker in and out of existence. You become [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] for 1 minute, but you can’t use this concealment to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]].
+**Activate—Flicker** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ; **Frequency** once per day; **Effect** The _flickering aeon stone_ draws you slightly out of sync with the flow of time, causing you to flicker in and out of existence. You become [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] for 1 minute, but you can’t use this concealment to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]].
 
-**Activate—Enter Stasis** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ; **Frequency** once per day; **Effect** The _flickering aeon stone_ pulls you from the flow of time completely, placing you in temporary stasis while you heal, then returning you to reality at the moment you left. You regain 2d10+8 Hit Points. If you have the [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]], or [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] condition, the value of each of these conditions is reduced by 1.
+**Activate—Enter Stasis** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ; **Frequency** once per day; **Effect** The _flickering aeon stone_ pulls you from the flow of time completely, placing you in temporary stasis while you heal, then returning you to reality at the moment you left. You regain 2d10+8 Hit Points. If you have the [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled]], or [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] condition, the value of each of these conditions is reduced by 1.
 
-The resonant power grants you a +1 circumstance bonus to initiative rolls.
+The resonant power grants you a +1 circumstance bonus to initiative rolls. 
+
+### Aeon Stone (Eastern Star)
+
+**Price** 350 gp
+
+---
+
+This red crystal is cut in the shape of a five-pointed star. An _eastern star aeon stone_ must be activated to provide a benefit. The resonant power grants you a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] checks.
+
+**Activate—Absorb Language** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]]) **Frequency** once per day; **Effect** You touch a creature who spoke a common language in your presence within the previous minute. The _eastern star aeon stone_ becomes infused with this language, granting you the ability to understand, speak, and write that language. This activation persists until you activate it again.
+
+### Aeon Stone (Western Star)
+
+**Price** 150 gp
+
+---
+
+This blue crystal is cut in the shape of a five-pointed star. A _western star aeon stone_ must be activated to provide a benefit. The resonant power grants you a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] checks.
+
+**Activate—Illusory Disguise** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Illusion|illusion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]]) **Frequency** once per day; **Effect** The _western star aeon stone_ casts a 1st-rank [[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|illusory disguise]] to your specifications. If you so choose, the disguise obscures any _aeon stones_ orbiting your head, rendering them [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]] until the activation ends.
 
 *Source: GM Core p. 284*

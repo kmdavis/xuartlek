@@ -15,13 +15,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Cast**: 10 minutes
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: 8 hours
 
-You conjure a Large fantastical creature to serve as a mount for the target. The mount is the target's [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]], has a Speed of 40 feet, and can bear the target with any carried possessions. It can't carry any other creature. The mount uses the target's AC and saves, but it's destroyed if it takes more than 10 damage at one time, ending the spell.
+You conjure a Large fantastical creature to serve as a mount for the target. The mount is the target's [[srd/pf2e/compendium/rules-elements/traits/player-core/Minion|minion]], has a Speed of 40 feet, and can bear the target with any carried possessions. It can't carry any other creature. The mount uses the target's AC and saves, but it's destroyed if it takes more than 10 damage at one time, ending the spell.
 
 ---
 **Heightened (3rd)** The mount can walk on water, but it must end its turn on solid ground or sink.

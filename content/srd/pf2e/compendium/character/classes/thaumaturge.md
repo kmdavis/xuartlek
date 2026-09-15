@@ -26,7 +26,7 @@ You'll see the following key terms in many thaumaturge class features.
 
 **Esoterica:** The esoterica trait is present in many thaumaturge feats and class features that incorporate the various talismans, supernatural trinkets, and other objects you carry with you. Abilities that have the esoterica trait require you to be in possession of your esoterica to use them. Normally, you're assumed to always have your esoterica with you, but in some rare circumstances, you might either not have them on hand or have your gear stripped from you.
 
- **Temporary Items:** Several feats allow you to prepare temporary items. Much like the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/infused|infused]] items created by [[srd/pf2e/compendium/character/classes/alchemist|alchemists]], these temporary items last only a short time before becoming useless. Temporary items are clearly not up to the same quality as other items, so they typically can't be sold. If an ability doesn't list how long a temporary item lasts, the item lasts until the next time you make your daily preparations. Any effect created by a temporary item also ends at that time if it hasn't already (unless it's a permanent effect).
+ **Temporary Items:** Several feats allow you to prepare temporary items. Much like the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Infused|infused]] items created by [[srd/pf2e/compendium/character/classes/Alchemist|alchemists]], these temporary items last only a short time before becoming useless. Temporary items are clearly not up to the same quality as other items, so they typically can't be sold. If an ability doesn't list how long a temporary item lasts, the item lasts until the next time you make your daily preparations. Any effect created by a temporary item also ends at that time if it hasn't already (unless it's a permanent effect).
 
 ### Roleplaying the Thaumaturge
 
@@ -65,7 +65,7 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 #### Skills
 
-Trained in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], and [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+Trained in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], and [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
  Trained in a number of additional skills equal to 3 plus your Intelligence modifier.
 
 | | |
@@ -118,7 +118,7 @@ In addition to what you get from your class at 1st level, you have four free boo
 
 #### Esoteric Lore
 
-Your experience with the unknown has taught you about strange phenomena of every kind. You become trained in [[srd/pf2e/compendium/rules-elements/skills/lore|Esoteric Lore]], a special lore skill that can be used to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] regarding haunts, curses, and creatures of any type, but that can't be used to Recall Knowledge of other topics. Unlike a normal Lore skill, you use Charisma as your modifier on Esoteric Lore checks. You also gain the [[srd/pf2e/compendium/feats/player-core/skill/dubious-knowledge|Dubious Knowledge]] skill feat.
+Your experience with the unknown has taught you about strange phenomena of every kind. You become trained in [[srd/pf2e/compendium/rules-elements/skills/Lore|Esoteric Lore]], a special lore skill that can be used to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] regarding haunts, curses, and creatures of any type, but that can't be used to Recall Knowledge of other topics. Unlike a normal Lore skill, you use Charisma as your modifier on Esoteric Lore checks. You also gain the [[srd/pf2e/compendium/feats/player-core/skill/Dubious Knowledge|Dubious Knowledge]] skill feat.
 
  At 3rd level, you become an expert in Esoteric Lore; at 7th level, you become a master in Esoteric Lore; and at 15th level, you become legendary in Esoteric Lore.
 
@@ -128,7 +128,7 @@ Your implement is a special object of symbolic importance: your badge as you tre
 
  While your implements are your primary tools in your dealings with the supernatural, you know the value of always being prepared. You constantly collect and carry various smaller mystic objects, bits of materials with paranormal affinities, and items used in folk practices: your esoterica. These might include cold-iron nails, scraps of scrolls and scriptures, fragments of bones purportedly from a saint, and other similar objects. You keep your esoterica in easy-to-access places on your person and are well practiced in brandishing your implement and esoterica together, so you can draw and use esoterica with the same hand you're using to wield an implement.
 
- Implements can be found in [[srd/pf2e/compendium/character/implements/implements|Implements]] 
+ Implements can be found [[srd/pf2e/compendium/character/implements/implements|here]] 
 
 ### Exploit Vulnerability
 
@@ -138,7 +138,7 @@ You know that every creature, no matter how obscure, has a weakness. By identify
 
  You can attempt to Exploit Vulnerabilities in one of two ways: either by invoking properties that repel that type of creature, or by attempting a more improvisational, ad-hoc method with your esoterica that can impose a custom weakness on any creature, albeit one that usually isn't as dire as a creature's existing weakness.
 
-**Mortal Weakness** After identifying a creature's weakness, you use a thematically resonant bit of esoterica to attune your attacks to your discovery. Your unarmed and weapon Strikes activate the highest weakness you discovered with Exploit Vulnerability, even though the damage type your weapon deals doesn't change. This damage affects the target of your Exploit Vulnerability, as well as any other creatures of the exact same type, but not other creatures with the same weakness. For example, when fighting a pack of [[srd/pf2e/bestiary/monster-core/beast/werewolf|werewolves]], you might use silver shavings or crushed moonstone to deal damage that applies their weakness to silver to your attacks against any of the werewolves, but you wouldn't apply this damage to any other monsters with a weakness to silver.
+**Mortal Weakness** After identifying a creature's weakness, you use a thematically resonant bit of esoterica to attune your attacks to your discovery. Your unarmed and weapon Strikes activate the highest weakness you discovered with Exploit Vulnerability, even though the damage type your weapon deals doesn't change. This damage affects the target of your Exploit Vulnerability, as well as any other creatures of the exact same type, but not other creatures with the same weakness. For example, when fighting a pack of [[srd/pf2e/bestiary/monster-core/beast/Werewolf|werewolves]], you might use silver shavings or crushed moonstone to deal damage that applies their weakness to silver to your attacks against any of the werewolves, but you wouldn't apply this damage to any other monsters with a weakness to silver.
 
  **Personal Antithesis** You improvise a custom weakness on a creature by forcefully presenting and empowering a piece of esoterica that repels it on an individual level; for instance, against a tyrant, you might procure a broken chain that once held a captive. This causes the target creature, and only the target creature, to gain a weakness against your unarmed and weapon Strikes equal to 2 + half your level.
 
@@ -148,9 +148,15 @@ The power of your implement can also be turned to the more common task of combat
 
 | | |
 | --- | --- |
-| **Thaumaturge Feats** | At 1st level and every even-numbered level, you gain a thaumaturge class feat. |
-| **Skill Feats** | At 2nd level and every 2 levels thereafter, you gain a skill feat. You must be trained or better in the corresponding skill to select a skill feat. |
-| **General Feats** | At 3rd level and every 4 levels thereafter, you gain a general feat . |
+| **Thaumaturge Feats** | At 1st level and every even-numbered level, you gain a [thaumaturge class feat](https://2e.aonprd.com/Feats.aspx?Traits=895). |
+
+#### Skill Feats
+
+At 2nd level and every 2 levels thereafter, you gain a [skill feat](https://2e.aonprd.com/Feats.aspx?Traits=144). You must be trained or better in the corresponding skill to select a skill feat.
+
+| | |
+| --- | --- |
+| **General Feats** | At 3rd level and every 4 levels thereafter, you gain a [general feat](https://2e.aonprd.com/Feats.aspx?Traits=78) . |
 | **Lightning Reflexes** | Your reflexes are lightning fast. Your proficiency rank for Reflex saves increases to expert. |
 
 #### Skill Increases
@@ -197,7 +203,7 @@ You've learned to use your implement to further assault your quarry. You gain th
 
 You've learned deeper secrets of the supernatural, and your abilities are harder to resist. Your proficiency rank for your thaumaturge class DC increases to expert.
 
-You also gain an additional skill increase, which you can apply only to [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]].
+You also gain an additional skill increase, which you can apply only to [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], or [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]].
 
 | | |
 | --- | --- |
@@ -232,7 +238,7 @@ You have unlocked the last secrets of an implement. Choose one of your implement
 
 You've learned deeper secrets of the supernatural, and your abilities are harder to resist. Your proficiency rank for your thaumaturge class DC increases to master.
 
-You also gain an additional skill increase, which you can apply only to [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]].
+You also gain an additional skill increase, which you can apply only to [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], or [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]].
 
 #### Medium Armor Mastery
 

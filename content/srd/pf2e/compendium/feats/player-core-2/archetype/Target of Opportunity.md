@@ -15,11 +15,11 @@ socialImage: og-image.png
 
 `Archetype`  `Manipulate`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/marshal|Marshal]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/marshal-dedication|Marshal Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Marshal|Marshal]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Marshal Dedication|Marshal Dedication]]
 - **Trigger**: An ally succeeds at a ranged [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against an opponent in your weapon’s first range increment.
 - **Requirements**: You have a ranged or thrown weapon in hand.
 
-You capitalize on your ally’s attack and use the opportunity to secure a blow of your own, adding to the oncoming barrage. Make a ranged [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with a –2 penalty against the opponent targeted by the triggering attack. This Strike doesn’t count toward your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Multiple Attack Penalty|multiple attack penalty]], and your multiple attack penalty doesn’t apply to this Strike. If this Strike is successful, combine the damage from the attack with the damage from your ally’s attack for the purpose of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistances]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Weakness|weaknesses]].
+You capitalize on your ally’s attack and use the opportunity to secure a blow of your own, adding to the oncoming barrage. Make a ranged [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with a –2 penalty against the opponent targeted by the triggering attack. This Strike doesn’t count toward your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Multiple Attack Penalty|multiple attack penalty]], and your multiple attack penalty doesn’t apply to this Strike. If this Strike is successful, combine the damage from the attack with the damage from your ally’s attack for the purpose of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistances]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Weakness|weaknesses]].
 
 *Source: Player Core 2 p. 205*

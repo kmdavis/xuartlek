@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Additive`  `Alchemist`
 
-You can add a foamy catalyst to an [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|elixir of life]] to turn it into a topical projectile. You can throw the elixir at a creature within 20 feet as an Interact action to heal that creature and those near it. The target is affected as though it drank the elixir, and each living creature adjacent to it regains HP from the bomb equal to the elixir's number of damage dice (3 HP for a lesser elixir of life, for example).
+You can add a foamy catalyst to an [[srd/pf2e/compendium/equipment/alchemical-items/Elixir of Life|elixir of life]] to turn it into a topical projectile. You can throw the elixir at a creature within 20 feet as an Interact action to heal that creature and those near it. The target is affected as though it drank the elixir, and each living creature adjacent to it regains HP from the bomb equal to the elixir's number of damage dice (3 HP for a lesser elixir of life, for example).
 
 *Source: Player Core 2 p. 64*

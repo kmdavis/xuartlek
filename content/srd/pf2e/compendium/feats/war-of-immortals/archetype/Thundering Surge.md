@@ -17,13 +17,13 @@ socialImage: og-image.png
 
 `Mythic`  `Sonic`  `Spellshape`  `Metamagic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wildspell|Wildspell]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/wildspell-dedication|Wildspell Dedication]]
-- **Requirements**: Your [[srd/pf2e/compendium/spells/focus/spellsurge|_spellsurge_]] aura is active.
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wildspell|Wildspell]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Wildspell Dedication|Wildspell Dedication]]
+- **Requirements**: Your [[srd/pf2e/compendium/spells/focus/Spellsurge|_spellsurge_]] aura is active.
 
 Your magic explodes in bursts of excess energy, creating thunderous waves. If your next action is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]], attempt a DC 5 flat check.
 
-**Critical Success** Enemies within a 10-foot radius [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] centered on the target of the spell or within the spell’s area of effect take [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]] damage equal to twice your level ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude saving throw against your class DC or spell DC, whichever is higher). Those who fail the save are also knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
+**Critical Success** Enemies within a 10-foot radius [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Burst|burst]] centered on the target of the spell or within the spell’s area of effect take [[srd/pf2e/compendium/rules-elements/traits/player-core/Sonic|sonic]] damage equal to twice your level ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Fortitude saving throw against your class DC or spell DC, whichever is higher). Those who fail the save are also knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]].
 
 **Success** Enemies within a 10-foot radius burst centered on the target of the spell or within the spell’s area of effect take sonic damage equal to your level (basic Fortitude saving throw against your class DC or spell DC, whichever is higher). Those who critically fail the save are also knocked prone.
 

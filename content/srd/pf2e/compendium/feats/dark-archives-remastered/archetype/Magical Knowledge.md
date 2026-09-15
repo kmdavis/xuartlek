@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/thaumaturge|Thaumaturge]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/thaumaturge-dedication|Thaumaturge Dedication]]; trained in at least one of [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] and expert in at least one other
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Thaumaturge|Thaumaturge]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Thaumaturge Dedication|Thaumaturge Dedication]]; trained in at least one of [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], or [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] and expert in at least one other
 
 Increase your proficiency rank in one of Arcana, Nature, Occultism, or Religion from expert to master and in another from trained to expert. You gain a skill feat associated with each of the skills you chose.
 

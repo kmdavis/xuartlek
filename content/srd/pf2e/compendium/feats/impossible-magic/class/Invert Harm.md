@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: mastery of life and death
 
-Your mastery of life and death grows. When you cast [[srd/pf2e/compendium/spells/rank-1/harm|_harm_]], it can heal living creatures as though they were undead.
+Your mastery of life and death grows. When you cast [[srd/pf2e/compendium/spells/rank-1/Harm|_harm_]], it can heal living creatures as though they were undead.
 
 *Source: Impossible Magic p. 34*

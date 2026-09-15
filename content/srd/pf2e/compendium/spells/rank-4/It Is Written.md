@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Mythic`  `Prediction`  `Rare`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Duration**: until the end of your next turn
 
 You envision a future for yourself, confident in the certainty that this vision is your destiny. Before the duration ends, if you would attempt an attack roll, Perception check, saving throw, or skill check that would aid in the fulfillment of this destiny, you can attempt this roll at mythic proficiency You choose which roll to use this benefit on before rolling. If you use this benefit, the spell ends. Either way, you're then temporarily immune to it is written for 1 hour.

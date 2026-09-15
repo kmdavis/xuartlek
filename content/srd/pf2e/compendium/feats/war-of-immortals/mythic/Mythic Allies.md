@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Mythic`  `Uncommon`
 
-- **Prerequisites**: ability to cast spells from slots, at least one [[srd/pf2e/compendium/rules-elements/traits/player-core/summon|summon]] spell in your spellbook or repertoire
+- **Prerequisites**: ability to cast spells from slots, at least one [[srd/pf2e/compendium/rules-elements/traits/player-core/Summon|summon]] spell in your spellbook or repertoire
 
-You channel mythic power through your body and into a summoned ally, temporarily reinforcing them with a shared fraction of your mythic potential. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]; the [[srd/pf2e/compendium/rules-elements/traits/player-core/summoned|summoned]] creature gains a +2 status bonus to its attack rolls, a +2 status bonus to all of its defenses, and a number of additional Hit Points equal to your level that last for the duration of its summoning. The next [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] made by the summoned creature after you use this ability gains a +4 circumstance bonus to the attack roll.
+You channel mythic power through your body and into a summoned ally, temporarily reinforcing them with a shared fraction of your mythic potential. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]; the [[srd/pf2e/compendium/rules-elements/traits/player-core/Summoned|summoned]] creature gains a +2 status bonus to its attack rolls, a +2 status bonus to all of its defenses, and a number of additional Hit Points equal to your level that last for the duration of its summoning. The next [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] made by the summoned creature after you use this ability gains a +4 circumstance bonus to the attack roll.
 
 *Source: War of Immortals p. 83*

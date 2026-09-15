@@ -33,7 +33,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/bastion-of-the-inheritor|Bastion of the Inheritor]], Bastion of the Inheritor, Highhelm Stronghold Plate, [[srd/pf2e/compendium/equipment/armor/immortal-bastion|Immortal Bastion]], Immortal Bastion
+[[srd/pf2e/compendium/equipment/armor/Bastion of the Inheritor|Bastion of the Inheritor]], Bastion of the Inheritor, Highhelm Stronghold Plate, [[srd/pf2e/compendium/equipment/armor/Immortal Bastion|Immortal Bastion]], Immortal Bastion
 
 *Source: Treasure Vault (Remastered) p. 9*
 
@@ -57,7 +57,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-Breastplate of the Mountain, [[srd/pf2e/compendium/equipment/armor/rebounding-breastplate|Rebounding Breastplate]], [[srd/pf2e/compendium/equipment/armor/warleaders-bulwark|Warleader's Bulwark]]
+Breastplate of the Mountain, [[srd/pf2e/compendium/equipment/armor/Rebounding Breastplate|Rebounding Breastplate]], [[srd/pf2e/compendium/equipment/armor/Warleader's Bulwark|Warleader's Bulwark]]
 
 *Source: Player Core p. 273*
 
@@ -75,7 +75,7 @@ Breastplate of the Mountain, [[srd/pf2e/compendium/equipment/armor/rebounding-br
 - **Category**: Light
 - **Group**: Leather
 
-Absalom style once led famous adventurers to wear clothing with an unusual number of buckles, pouches, and straps. This fashion birthed a trend that led to “buckle armor,” a colloquial name for chic armor with spacious tool storage. Buckle armor comes with the [[srd/pf2e/compendium/equipment/adjustments/storage|storage]] armor adjustment.
+Absalom style once led famous adventurers to wear clothing with an unusual number of buckles, pouches, and straps. This fashion birthed a trend that led to “buckle armor,” a colloquial name for chic armor with spacious tool storage. Buckle armor comes with the [[srd/pf2e/compendium/equipment/adjustments/Storage|storage]] armor adjustment.
 
 ### Armor Specialization Effects
 
@@ -83,7 +83,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/ouroboros-buckles|Ouroboros Buckles]], Ouroboros Buckles
+[[srd/pf2e/compendium/equipment/armor/Ouroboros Buckles|Ouroboros Buckles]], Ouroboros Buckles
 
 *Source: Treasure Vault (Remastered) p. 10*
 
@@ -101,11 +101,15 @@ Certain class features can grant you additional benefits with certain armors. Th
 - **Category**: Medium
 - **Group**: Plate
 
-Traditional armor from Senghor, ceramic plate alleviates the need for metallurgy and smithing, instead relying on ceramic firing, glazing, and strong cord work with a backing of leather and thick canvas. Ceramic plate that follows Senghor's style is colorful and artistic, and is built with the [[srd/pf2e/compendium/equipment/adjustments/armor-latches|armor latches]] armor adjustment.
+Traditional armor from Senghor, ceramic plate alleviates the need for metallurgy and smithing, instead relying on ceramic firing, glazing, and strong cord work with a backing of leather and thick canvas. Ceramic plate that follows Senghor's style is colorful and artistic, and is built with the [[srd/pf2e/compendium/equipment/adjustments/Armor Latches|armor latches]] armor adjustment.
 
 ### Armor Specialization Effects
 
 Certain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends on which armor group your armor belongs to, as listed below. Only medium and heavy armors have armor specialization effects.
+
+### Specific Magic Armor
+
+Aeon Armor
 
 *Source: Treasure Vault (Remastered) p. 10*
 
@@ -131,7 +135,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/holy-chain|Holy Chain]], [[srd/pf2e/compendium/equipment/armor/message-mail|Message Mail]], [[srd/pf2e/compendium/equipment/armor/mitigation-mail|Mitigation Mail]], [[srd/pf2e/compendium/equipment/armor/parachute-mail|Parachute Mail]], [[srd/pf2e/compendium/equipment/armor/reactive-mail|Reactive Mail]], [[srd/pf2e/compendium/equipment/armor/thunder-mail|Thunder Mail]]
+[[srd/pf2e/compendium/equipment/armor/Holy Chain|Holy Chain]], [[srd/pf2e/compendium/equipment/armor/Message Mail|Message Mail]], [[srd/pf2e/compendium/equipment/armor/Mitigation Mail|Mitigation Mail]], [[srd/pf2e/compendium/equipment/armor/Parachute Mail|Parachute Mail]], [[srd/pf2e/compendium/equipment/armor/Reactive Mail|Reactive Mail]], [[srd/pf2e/compendium/equipment/armor/Thunder Mail|Thunder Mail]]
 
 *Source: Player Core p. 273*
 
@@ -157,7 +161,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-Blade Byrnie, [[srd/pf2e/compendium/equipment/armor/chained-mist|Chained Mist]], [[srd/pf2e/compendium/equipment/armor/invisible-chain-shirt|Invisible Chain Shirt]], Lion's Pelt, [[srd/pf2e/compendium/equipment/armor/moonlit-chain|Moonlit Chain]]
+Blade Byrnie, [[srd/pf2e/compendium/equipment/armor/Chained Mist|Chained Mist]], [[srd/pf2e/compendium/equipment/armor/Invisible Chain Shirt|Invisible Chain Shirt]], Lion's Pelt, [[srd/pf2e/compendium/equipment/armor/Moonlit Chain|Moonlit Chain]]
 
 *Source: Player Core p. 273*
 
@@ -183,7 +187,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/reef-heart|Reef Heart]], Reef Heart
+[[srd/pf2e/compendium/equipment/armor/Reef Heart|Reef Heart]], Reef Heart
 
 *Source: Treasure Vault (Remastered) p. 10*
 
@@ -209,7 +213,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/accoutrements-of-bone|Accoutrements Of Bone]], [[srd/pf2e/compendium/equipment/armor/crystal-lattice|Crystal Lattice]], [[srd/pf2e/compendium/equipment/armor/energy-shield-tunic|Energy Shield Tunic]], [[srd/pf2e/compendium/equipment/armor/laboratory-coat|Laboratory Coat]], [[srd/pf2e/compendium/equipment/armor/robe-of-beneficence|Robe Of Beneficence]], [[srd/pf2e/compendium/equipment/armor/suit-of-false-impression|Suit Of False Impression]]
+[[srd/pf2e/compendium/equipment/armor/Accoutrements of Bone|Accoutrements of Bone]], [[srd/pf2e/compendium/equipment/armor/Crystal Lattice|Crystal Lattice]], [[srd/pf2e/compendium/equipment/armor/Energy Shield Tunic|Energy Shield Tunic]], [[srd/pf2e/compendium/equipment/armor/Laboratory Coat|Laboratory Coat]], [[srd/pf2e/compendium/equipment/armor/Robe of Beneficence|Robe of Beneficence]], Robes Of Xin-edasseril, Sorshen's Scintillating Garment, [[srd/pf2e/compendium/equipment/armor/Suit of False Impression|Suit of False Impression]]
 
 *Source: Player Core p. 273*
 
@@ -235,7 +239,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/black-hole-armor|Black Hole Armor]], Black Hole Armor, [[srd/pf2e/compendium/equipment/alchemical-items/bone-dreadnought-plate|Bone Dreadnought Plate]], Bone Dreadnought Plate
+[[srd/pf2e/compendium/equipment/armor/Black Hole Armor|Black Hole Armor]], Black Hole Armor, [[srd/pf2e/compendium/equipment/alchemical-items/Bone Dreadnought Plate|Bone Dreadnought Plate]], Bone Dreadnought Plate
 
 *Source: Treasure Vault (Remastered) p. 10*
 
@@ -261,7 +265,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/alkenstar-phalanx|Alkenstar Phalanx]], [[srd/pf2e/compendium/equipment/armor/bismuth-armor|Bismuth Armor]], [[srd/pf2e/compendium/equipment/armor/deep-sea-plate|Deep Sea Plate]], Dragon Turtle Armor, [[srd/pf2e/compendium/equipment/armor/dragonplate|Dragonplate]], Hero's Plate, [[srd/pf2e/compendium/equipment/armor/incendiary-plate|Incendiary Plate]], [[srd/pf2e/compendium/equipment/armor/juggernaut-plate|Juggernaut Plate]], [[srd/pf2e/compendium/equipment/armor/mantis-plate|Mantis Plate]], Plate of Yled, Powered Full Plate, [[srd/pf2e/compendium/equipment/alchemical-items/powered-full-plate|Powered Full Plate]], [[srd/pf2e/compendium/equipment/armor/tideplate|Tideplate]], [[srd/pf2e/compendium/equipment/armor/unholy-plate|Unholy Plate]]
+[[srd/pf2e/compendium/equipment/armor/Alkenstar Phalanx|Alkenstar Phalanx]], [[srd/pf2e/compendium/equipment/armor/Bismuth Armor|Bismuth Armor]], [[srd/pf2e/compendium/equipment/armor/Deep Sea Plate|Deep Sea Plate]], Dragon Turtle Armor, [[srd/pf2e/compendium/equipment/armor/Dragonplate|Dragonplate]], Hero's Plate, [[srd/pf2e/compendium/equipment/armor/Incendiary Plate|Incendiary Plate]], [[srd/pf2e/compendium/equipment/armor/Juggernaut Plate|Juggernaut Plate]], [[srd/pf2e/compendium/equipment/armor/Mantis Plate|Mantis Plate]], Plate of Yled, Powered Full Plate, [[srd/pf2e/compendium/equipment/alchemical-items/Powered Full Plate|Powered Full Plate]], [[srd/pf2e/compendium/equipment/armor/Tideplate|Tideplate]], [[srd/pf2e/compendium/equipment/armor/Unholy Plate|Unholy Plate]]
 
 *Source: Player Core p. 273*
 
@@ -307,7 +311,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/command-cuirass|Command Cuirass]], Dragon Turtle Plate, [[srd/pf2e/compendium/equipment/armor/lions-armor|Lion's Armor]]
+[[srd/pf2e/compendium/equipment/armor/Command Cuirass|Command Cuirass]], Dragon Turtle Plate, [[srd/pf2e/compendium/equipment/armor/Lion's Armor|Lion's Armor]]
 
 *Source: Player Core p. 273*
 
@@ -397,7 +401,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-Aurochs Hide Armor, [[srd/pf2e/compendium/equipment/armor/frost-furs|Frost Furs]], [[srd/pf2e/compendium/equipment/armor/ghoul-hide|Ghoul Hide]], [[srd/pf2e/compendium/equipment/armor/onslaught-hide|Onslaught Hide]], Troll Hide, [[srd/pf2e/compendium/equipment/alchemical-items/troll-hide|Troll Hide]], Trollhound Vest, Wolfjaw Armor, Zeto Geki Hide Armor
+Aurochs Hide Armor, [[srd/pf2e/compendium/equipment/armor/Frost Furs|Frost Furs]], [[srd/pf2e/compendium/equipment/armor/Ghoul Hide|Ghoul Hide]], [[srd/pf2e/compendium/equipment/armor/Onslaught Hide|Onslaught Hide]], Troll Hide, [[srd/pf2e/compendium/equipment/alchemical-items/Troll Hide|Troll Hide]], Trollhound Vest, Wolfjaw Armor, Zeto Geki Hide Armor
 
 *Source: Player Core p. 273*
 
@@ -465,7 +469,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/energizing-lattice|Energizing Lattice]]
+[[srd/pf2e/compendium/equipment/armor/Energizing Lattice|Energizing Lattice]]
 
 *Source: Treasure Vault (Remastered) p. 10*
 
@@ -491,7 +495,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/autumns-embrace|Autumn's Embrace]], Autumn's Embrace, Canopy Bulwark, [[srd/pf2e/compendium/equipment/intelligent-items/faerie-queens-bower|Faerie Queen's Bower]], Living Leaf Weave, [[srd/pf2e/compendium/equipment/alchemical-items/living-leaf-weave|Living Leaf Weave]]
+[[srd/pf2e/compendium/equipment/armor/Autumn's Embrace|Autumn's Embrace]], Autumn's Embrace, Canopy Bulwark, [[srd/pf2e/compendium/equipment/intelligent-items/Faerie Queen's Bower|Faerie Queen's Bower]], Living Leaf Weave, [[srd/pf2e/compendium/equipment/alchemical-items/Living Leaf Weave|Living Leaf Weave]]
 
 *Source: Treasure Vault (Remastered) p. 10*
 
@@ -515,7 +519,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/ankhrav-carapace|Ankhrav Carapace]], Arachnid Harness, Assassin's Skin, [[srd/pf2e/compendium/equipment/armor/buoyant-buckle|Buoyant Buckle]], [[srd/pf2e/compendium/equipment/armor/crafting-leathers|Crafting Leathers]], Crushing Coils, [[srd/pf2e/compendium/equipment/armor/deep-pockets|Deep Pockets]], Dragonaut's Wingsuit, [[srd/pf2e/compendium/equipment/armor/eagle-wing|Eagle Wing]], [[srd/pf2e/compendium/equipment/armor/electric-eelskin|Electric Eelskin]], [[srd/pf2e/compendium/equipment/armor/lifting-leather|Lifting Leather]], Lion's Pelt, Ooze Skin, [[srd/pf2e/compendium/equipment/alchemical-items/ooze-skin|Ooze Skin]], [[srd/pf2e/compendium/equipment/armor/shadow-shroud|Shadow Shroud]]
+[[srd/pf2e/compendium/equipment/armor/Ankhrav Carapace|Ankhrav Carapace]], Arachnid Harness, Assassin's Skin, [[srd/pf2e/compendium/equipment/armor/Buoyant Buckle|Buoyant Buckle]], [[srd/pf2e/compendium/equipment/armor/Crafting Leathers|Crafting Leathers]], Crushing Coils, [[srd/pf2e/compendium/equipment/armor/Deep Pockets|Deep Pockets]], Dragonaut's Wingsuit, [[srd/pf2e/compendium/equipment/armor/Eagle Wing|Eagle Wing]], [[srd/pf2e/compendium/equipment/armor/Electric Eelskin|Electric Eelskin]], [[srd/pf2e/compendium/equipment/armor/Lifting Leather|Lifting Leather]], Lion's Pelt, Ooze Skin, [[srd/pf2e/compendium/equipment/alchemical-items/Ooze Skin|Ooze Skin]], [[srd/pf2e/compendium/equipment/armor/Shadow Shroud|Shadow Shroud]]
 
 *Source: Player Core p. 273*
 
@@ -541,7 +545,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/rusting-carapace|Rusting Carapace]], Rusting Carapace
+[[srd/pf2e/compendium/equipment/armor/Rusting Carapace|Rusting Carapace]], Rusting Carapace
 
 *Source: Treasure Vault (Remastered) p. 11*
 
@@ -559,7 +563,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 - **Category**: Light
 - **Group**: Skeletal
 
-Construction of mantis shell armor originates with the Red Mantis assassins. Authentic mantis shell can be found in some dark markets, but wearing such armor can attract deadly attention from the armor's originators. Mantis shell comes with the [[srd/pf2e/compendium/equipment/adjustments/weapon-harness|weapon harness]] adjustment, though these special vambraces are meant to hold sawtooth sabers, and attaching anything else is an insult to the Red Mantis.
+Construction of mantis shell armor originates with the Red Mantis assassins. Authentic mantis shell can be found in some dark markets, but wearing such armor can attract deadly attention from the armor's originators. Mantis shell comes with the [[srd/pf2e/compendium/equipment/adjustments/Weapon Harness|weapon harness]] adjustment, though these special vambraces are meant to hold sawtooth sabers, and attaching anything else is an insult to the Red Mantis.
 
 ### Armor Specialization Effects
 
@@ -629,7 +633,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 - **Category**: Light
 - **Group**: Cloth
 
-This armor is simply a layer of heavy, quilted cloth, but it is sometimes used because it's so inexpensive. Padded armor is easier to damage and destroy than other types of armor. Heavy armor comes with a padded armor undercoat included in its Price, though it loses the [[srd/pf2e/compendium/rules-elements/traits/player-core/comfort|comfort]] trait when worn under heavy armor. You can wear just that padded armor undercoat to sleep in, if your heavy armor is destroyed, or when otherwise not wearing the full heavy armor. This allows you to keep magic armor invested and benefit from the power of any runes on the associated heavy armor, but no one else can wear your heavy armor without the padded undercoat.
+This armor is simply a layer of heavy, quilted cloth, but it is sometimes used because it's so inexpensive. Padded armor is easier to damage and destroy than other types of armor. Heavy armor comes with a padded armor undercoat included in its Price, though it loses the [[srd/pf2e/compendium/rules-elements/traits/player-core/Comfort|comfort]] trait when worn under heavy armor. You can wear just that padded armor undercoat to sleep in, if your heavy armor is destroyed, or when otherwise not wearing the full heavy armor. This allows you to keep magic armor invested and benefit from the power of any runes on the associated heavy armor, but no one else can wear your heavy armor without the padded undercoat.
 
 ### Armor Specialization Effects
 
@@ -637,7 +641,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/balloon-padding|Balloon Padding]], Scene Stealer's Tunic, [[srd/pf2e/compendium/equipment/armor/wilderness-weave|Wilderness Weave]]
+[[srd/pf2e/compendium/equipment/armor/Balloon Padding|Balloon Padding]], Scene Stealer's Tunic, [[srd/pf2e/compendium/equipment/armor/Wilderness Weave|Wilderness Weave]]
 
 *Source: Player Core p. 273*
 
@@ -707,7 +711,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/linnorms-sankeit|Linnorm's Sankeit]], [[srd/pf2e/compendium/equipment/cursed-items/shared-pain-sankeit|Shared-Pain Sankeit]]
+[[srd/pf2e/compendium/equipment/armor/Linnorm's Sankeit|Linnorm's Sankeit]], [[srd/pf2e/compendium/equipment/cursed-items/Shared-Pain Sankeit|Shared-Pain Sankeit]]
 
 *Source: Treasure Vault (Remastered) p. 11*
 
@@ -731,7 +735,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/impenetrable-scale|Impenetrable Scale]], [[srd/pf2e/compendium/equipment/armor/mamlambo-scale|Mamlambo Scale]]
+[[srd/pf2e/compendium/equipment/armor/Impenetrable Scale|Impenetrable Scale]], [[srd/pf2e/compendium/equipment/armor/Mamlambo Scale|Mamlambo Scale]]
 
 *Source: Player Core p. 273*
 
@@ -749,7 +753,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 - **Category**: Unarmored
 - **Group**: Cloth
 
-Scroll robes are composed of paper alchemically treated for strength and flexibility. A layered structure prevents cutting and tearing, and for the purpose of calculating damage, the robes are considered to be cloth. The paper accepts all sorts of decoration, including magical writing, as detailed in the [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/inscribed|inscribed]] trait.
+Scroll robes are composed of paper alchemically treated for strength and flexibility. A layered structure prevents cutting and tearing, and for the purpose of calculating damage, the robes are considered to be cloth. The paper accepts all sorts of decoration, including magical writing, as detailed in the [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/Inscribed|inscribed]] trait.
 
 ### Armor Specialization Effects
 
@@ -757,7 +761,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/library-robes|Library Robes]], Library Robes
+[[srd/pf2e/compendium/equipment/armor/Library Robes|Library Robes]], Library Robes
 
 *Source: Treasure Vault (Remastered) p. 11*
 
@@ -781,7 +785,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/life-saver-mail|Life-Saver Mail]], [[srd/pf2e/compendium/equipment/armor/mariners-splint|Mariner's Splint]]
+[[srd/pf2e/compendium/equipment/armor/Life-Saver Mail|Life-Saver Mail]], [[srd/pf2e/compendium/equipment/armor/Mariner's Splint|Mariner's Splint]]
 
 *Source: Player Core p. 273*
 
@@ -805,7 +809,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/autoload-leathers|Autoload Leathers]], Devil's Bargain, [[srd/pf2e/compendium/equipment/armor/grisly-brigandine|Grisly Brigandine]], [[srd/pf2e/compendium/equipment/armor/hodag-leather|Hodag Leather]], [[srd/pf2e/compendium/equipment/armor/locust-leather|Locust Leather]], [[srd/pf2e/compendium/equipment/armor/umbral-armor|Umbral Armor]], Wasp Guard, Winged Terror
+[[srd/pf2e/compendium/equipment/armor/Autoload Leathers|Autoload Leathers]], Devil's Bargain, [[srd/pf2e/compendium/equipment/armor/Grisly Brigandine|Grisly Brigandine]], [[srd/pf2e/compendium/equipment/armor/Hodag Leather|Hodag Leather]], [[srd/pf2e/compendium/equipment/armor/Locust Leather|Locust Leather]], [[srd/pf2e/compendium/equipment/armor/Umbral Armor|Umbral Armor]], Wasp Guard, Winged Terror
 
 *Source: Player Core p. 273*
 
@@ -837,7 +841,7 @@ _Nethys Note: no description was provided for this item_
 - **Category**: Medium
 - **Group**: Wood
 
-A suit of carved and tempered wood, a wooden breastplate resembles a metal breastplate in shape and function. Such suits can be carved from large pieces of wood, but they most often come from wood coaxed magically from special trees, whether by druids, elves, [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] creatures such as arboreals or leshys.
+A suit of carved and tempered wood, a wooden breastplate resembles a metal breastplate in shape and function. Such suits can be carved from large pieces of wood, but they most often come from wood coaxed magically from special trees, whether by druids, elves, [[srd/pf2e/compendium/rules-elements/traits/player-core/Fey|fey]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]] creatures such as arboreals or leshys.
 
 ### Armor Specialization Effects
 
@@ -845,6 +849,6 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/tales-in-timber|Tales in Timber]]
+[[srd/pf2e/compendium/equipment/armor/Tales in Timber|Tales in Timber]]
 
 *Source: Treasure Vault (Remastered) p. 11*

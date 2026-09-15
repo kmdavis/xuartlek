@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Mental`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]]
 
-You inject a sliver of the void into your mind, momentarily remaking it into a bleak and empty place. Attempt a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] check against one [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effect affecting you.
+You inject a sliver of the void into your mind, momentarily remaking it into a bleak and empty place. Attempt a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions#Counteracting|counteract]] check against one [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]] effect affecting you.
 
 ---
 **Heightened (5th)** You can attempt counteract checks against any number of emotion effects affecting you.

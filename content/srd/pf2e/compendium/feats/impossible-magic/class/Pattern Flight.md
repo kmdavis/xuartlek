@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Flourish`  `Runesmith`
 
-You place a bit of magic in a physical projectile, causing it to fly in a runic pattern through the air once you loose it. Make a ranged Strike against a target within your weapon’s first [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Range|range increment]]. Because of the erratic nature of its flight, this Strike ignores any circumstance bonus to AC from [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|cover]]. After your Strike, you can [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Trace Rune|Trace a Rune]] on one target in a straight line between you and the target of your Strike (including the original target).
+You place a bit of magic in a physical projectile, causing it to fly in a runic pattern through the air once you loose it. Make a ranged Strike against a target within your weapon’s first [[srd/pf2e/books/player-core/chapter-6-equipment/Weapons#Range|range increment]]. Because of the erratic nature of its flight, this Strike ignores any circumstance bonus to AC from [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Cover|cover]]. After your Strike, you can [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Trace Rune|Trace a Rune]] on one target in a straight line between you and the target of your Strike (including the original target).
 
 *Source: Impossible Magic p. 48*

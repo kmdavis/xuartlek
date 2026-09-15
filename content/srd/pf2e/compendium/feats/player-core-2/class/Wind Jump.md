@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 - **Prerequisites**: Qi Spells
 
-You gather the wind beneath you, allowing you to soar as you jump. You gain the [[srd/pf2e/compendium/spells/focus/wind-jump|_wind jump_]] qi spell.
+You gather the wind beneath you, allowing you to soar as you jump. You gain the [[srd/pf2e/compendium/spells/focus/Wind Jump|_wind jump_]] qi spell.
 
 *Source: Player Core 2 p. 124*

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Centaur`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/skilled-herbalist|Skilled Herbalist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Skilled Herbalist|Skilled Herbalist]]
 
-Your skill with herbs has improved. Each day as part of your daily preparations, you can harvest ingredients from your surroundings to craft one temporary alchemical item you know the formula for. This alchemical item must have the [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] trait. If not consumed by your next daily preparations, the item is rendered inert.
+Your skill with herbs has improved. Each day as part of your daily preparations, you can harvest ingredients from your surroundings to craft one temporary alchemical item you know the formula for. This alchemical item must have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Healing|healing]] trait. If not consumed by your next daily preparations, the item is rendered inert.
 
 *Source: Howl of the Wild p. 32*

@@ -28,14 +28,14 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; darkvision, smoke vision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Pyric|Pyric]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +13"
 abilityMods: [3, 4, 2, -2, 3, 0]
 abilities_top:
   - name: "Smoke Vision"
-    desc: "The living wildfire ignores the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition from smoke."
+    desc: "The living wildfire ignores the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition from smoke."
 ac: 22
 armorclass:
   - name: "AC"
@@ -43,19 +43,19 @@ armorclass:
 hp: 80
 health:
   - name: "HP"
-    desc: "80 (explosion); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] 5"
+    desc: "80 (explosion); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]], [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/Water|water]] 5"
 abilities_mid:
   - name: "Explosion"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]) When the living wildfire dies, it explodes, dealing 3d6 fire damage to each creature in a 10-foot emanation (DC 19 basic Reflex save)."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]]) When the living wildfire dies, it explodes, dealing 3d6 fire damage to each creature in a 10-foot emanation (DC 19 basic Reflex save)."
 speed: "50 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tendril +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d6+6 fire plus 2d4 persistent fire"
+    desc: "⬻ tendril +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 2d6+6 fire plus 2d4 persistent fire"
   - name: "Ranged"
     desc: "⬻ fire mote +15 (range increment 60 feet) __Damage__ 2d6+3 fire"
 abilities_bot:
   - name: "Spreading Flames"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]])"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|Primal]])"
   - name: "Requirements"
     desc: "The living wildfire's last action was a Strike that dealt fire damage"
   - name: "Effect"

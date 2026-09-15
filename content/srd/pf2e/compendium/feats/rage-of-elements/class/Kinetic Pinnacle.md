@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Kineticist`
 
-No one can match the pace at which elements flow from you. You're permanently [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]]. You can use your extra action only to [[srd/pf2e/compendium/rules-elements/actions/rage-of-elements#Channel Elements|Channel Elements]], use a 1-action [[srd/pf2e/compendium/rules-elements/actions/rage-of-elements#Elemental Blast|Elemental Blast]], or use a 1-action [[srd/pf2e/compendium/rules-elements/traits/player-core/stance|stance]] [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/impulse|impulse]].
+No one can match the pace at which elements flow from you. You're permanently [[srd/pf2e/compendium/rules-elements/Conditions#Quickened|quickened]]. You can use your extra action only to [[srd/pf2e/compendium/rules-elements/actions/rage-of-elements#Channel Elements|Channel Elements]], use a 1-action [[srd/pf2e/compendium/rules-elements/actions/rage-of-elements#Elemental Blast|Elemental Blast]], or use a 1-action [[srd/pf2e/compendium/rules-elements/traits/player-core/Stance|stance]] [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/Impulse|impulse]].
 
 *Source: Rage of Elements p. 23*

@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/thaumaturge|Thaumaturge]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/thaumaturge-dedication|Thaumaturge Dedication]]; expert in Will
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Thaumaturge|Thaumaturge]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Thaumaturge Dedication|Thaumaturge Dedication]]; expert in Will
 
 You've tempered your mind and become resolute against effects that strain your willpower. Your proficiency rank for Will saves increases to master.
 

@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/snarecrafter|Snarecrafter]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/snarecrafter-dedication|Snarecrafter Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Snarecrafter|Snarecrafter]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Snarecrafter Dedication|Snarecrafter Dedication]]
 
-You can create bigger [[srd/pf2e/compendium/rules-elements/traits/player-core-2/snare|snares]] for quick deployment, making it more likely for a creature to walk into your snares. When you prepare snares for quick deployment, you can prepare some of them as giant snares. A giant snare takes up a 10-foot-by-10-foot area but costs two of your quick deployment snares. A giant snare can trigger from a creature entering any portion of its area, and all its effects apply over the full area.
+You can create bigger [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Snare|snares]] for quick deployment, making it more likely for a creature to walk into your snares. When you prepare snares for quick deployment, you can prepare some of them as giant snares. A giant snare takes up a 10-foot-by-10-foot area but costs two of your quick deployment snares. A giant snare can trigger from a creature entering any portion of its area, and all its effects apply over the full area.
 
 *Source: Player Core 2 p. 216*

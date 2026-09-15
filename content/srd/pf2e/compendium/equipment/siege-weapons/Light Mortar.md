@@ -32,12 +32,12 @@ socialImage: og-image.png
 
 ---
 
-_Nethys Note: The AC, Fortitude, Reflex, HP and BT statistics for this item are located in the [[srd/pf2e/compendium/character/innovations#Light Mortar|Light Mortar Innovation]]. This item does not have a price as it is an Inventor Innovation._ 
+_Nethys Note: The AC, Fortitude, Reflex, HP and BT statistics for this item are located in the [[srd/pf2e/compendium/character/Innovations#Light Mortar|Light Mortar Innovation]]. This item does not have a price as it is an Inventor Innovation._ 
 
 Aim [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") unlimited, minimum distance 10 feet
 
-Load [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 1 time
+Load [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]]) 1 time
 
-Launch [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], range increment 120 feet) 2d6 bludgeoning, 10-foot burst, DC 15 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
+Launch [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]], range increment 120 feet) 2d6 bludgeoning, 10-foot burst, DC 15 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex
 
 *Source: Battlecry! p. 64*

@@ -20,7 +20,7 @@ Tanuki are an ancestry of humanoids resembling raccoons or canids who live prima
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core-2/humanoid/tanuki-village-hero|Tanuki Village Hero]] (Creature 1)
+[[srd/pf2e/bestiary/monster-core-2/humanoid/Tanuki Village Hero|Tanuki Village Hero]] (Creature 1)
 
 ### Transformation Duels
 

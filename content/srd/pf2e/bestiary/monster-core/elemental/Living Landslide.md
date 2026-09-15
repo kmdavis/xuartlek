@@ -28,14 +28,14 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; darkvision, tremorsense (imprecise) 60 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Petran|Petran]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +8"
 abilityMods: [5, -1, 4, -2, 1, -1]
 abilities_top:
   - name: "Earthbound"
-    desc: "When not touching solid ground, the living landslide is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] and can't use reactions."
+    desc: "When not touching solid ground, the living landslide is [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed 1]] and can't use reactions."
 ac: 21
 armorclass:
   - name: "AC"
@@ -43,7 +43,7 @@ armorclass:
 hp: 90
 health:
   - name: "HP"
-    desc: "90; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]] **Crumble ⬲"
+    desc: "90; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]] **Crumble ⬲"
 abilities_mid:
   - name: "Trigger"
     desc: "The living landslide takes damage from a hostile source while atop rock or earth**"
@@ -52,7 +52,7 @@ abilities_mid:
 speed: "25 feet, burrow 25 feet; earth glide"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d8+8 bludgeoning"
+    desc: "⬻ fist +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 10 feet]]) __Damage__ 2d8+8 bludgeoning"
 abilities_bot:
   - name: "Earth Glide"
     desc: "The elemental can [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]] through any earthen matter, including rock. When it does so, the elemental moves at its full burrow Speed, leaving no tunnels or signs of its passing."

@@ -15,10 +15,10 @@ socialImage: og-image.png
 
 `Commander`  `Flourish`
 
-Your attack makes it difficult for your enemy to defend themselves against your allies' attacks. Attempt a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against an enemy. If the Strike is successful, the target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off guard]] against the next attack that one of your allies attempts against it before the start of your next turn.
+Your attack makes it difficult for your enemy to defend themselves against your allies' attacks. Attempt a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against an enemy. If the Strike is successful, the target is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off guard]] against the next attack that one of your allies attempts against it before the start of your next turn.
 
 ### Set-up Strike leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/class/fortunate-blow|Fortunate Blow]], [[srd/pf2e/compendium/feats/battlecry/class/targeting-strike|Targeting Strike]]
+[[srd/pf2e/compendium/feats/battlecry/class/Fortunate Blow|Fortunate Blow]], [[srd/pf2e/compendium/feats/battlecry/class/Targeting Strike|Targeting Strike]]
 
 *Source: Battlecry! p. 31*

@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/scout|Scout]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/scout-dedication|Scout Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Scout|Scout]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Scout Dedication|Scout Dedication]]
 
-You meander around unpredictably, and then ambush your opponents without warning. Choose one enemy. [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|Feint]] against that opponent, and then make a Strike against it. For your Feint, you can attempt a [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] check instead of the [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] check that's usually required, using the terrain around you to surprise your foe.
+You meander around unpredictably, and then ambush your opponents without warning. Choose one enemy. [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|Feint]] against that opponent, and then make a Strike against it. For your Feint, you can attempt a [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] check instead of the [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] check that's usually required, using the terrain around you to surprise your foe.
 
 *Source: Player Core 2 p. 212*

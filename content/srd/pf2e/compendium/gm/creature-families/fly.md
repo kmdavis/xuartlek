@@ -14,7 +14,7 @@ Giant flies are pony-sized insects that have massive compound eyes and bodies br
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core-2/animal/giant-fly|Giant Fly]] (Creature 1), [[srd/pf2e/bestiary/monster-core-2/animal/giant-maggot|Giant Maggot]] (Creature 0)
+[[srd/pf2e/bestiary/monster-core-2/animal/Giant Fly|Giant Fly]] (Creature 1), [[srd/pf2e/bestiary/monster-core-2/animal/Giant Maggot|Giant Maggot]] (Creature 0)
 
 ### Fly Species
 

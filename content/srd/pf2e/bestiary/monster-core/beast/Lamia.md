@@ -28,14 +28,14 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +16, Cult Lore +11, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +15, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +11, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +15, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +16, Cult Lore +11, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +15, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] +11, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +13, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +15, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +11"
 abilityMods: [6, 3, 2, 1, 3, 3]
 abilities_top:
   - name: "Items"
-    desc: "Javelin (2), _+1 [[srd/pf2e/compendium/equipment/weapons/spear/spear|spear]]_"
+    desc: "Javelin (2), _+1 [[srd/pf2e/compendium/equipment/weapons/spear/Spear|spear]]_"
 ac: 24
 armorclass:
   - name: "AC"
@@ -49,17 +49,17 @@ attacks:
   - name: "Melee"
     desc: "⬻ _spear_ +17 __Damage__ 1d6+10 piercing"
   - name: "Melee"
-    desc: "⬻ tail +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+10 bludgeoning plus Grab"
+    desc: "⬻ tail +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d6+10 bludgeoning plus Grab"
   - name: "Ranged"
-    desc: "⬻ _spear_ +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d6+10 piercing"
+    desc: "⬻ _spear_ +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 10 feet]]) __Damage__ 1d6+10 piercing"
   - name: "Ranged"
-    desc: "⬻ javelin +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 30 feet]]) __Damage__ 1d6+10 piercing"
+    desc: "⬻ javelin +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 30 feet]]) __Damage__ 1d6+10 piercing"
 abilities_bot:
   - name: "Lamia's Caress"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) The lamia touches a creature, who must succeed at a DC 23 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]]. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of stupefied 4). This condition value decreases by 1 every 24 hours."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|Occult]]) The lamia touches a creature, who must succeed at a DC 23 Will save or become [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied 1]]. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of stupefied 4). This condition value decreases by 1 every 24 hours."
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 25 - __1st__ [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|Illusory Disguise]] (at will), [[srd/pf2e/compendium/spells/rank-1/illusory-object|Illusory Object]] (at will), [[srd/pf2e/compendium/spells/rank-1/ventriloquism|Ventriloquism]] (at will) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/blur|Blur]], [[srd/pf2e/compendium/spells/rank-2/humanoid-form|Humanoid Form]] (at will) - __3rd__ [[srd/pf2e/compendium/spells/rank-1/sleep|Sleep]] - __4th__ [[srd/pf2e/compendium/spells/rank-1/charm|Charm]] (×3), [[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]]"
+    desc: "DC 25 - __1st__ [[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|Illusory Disguise]] (at will), [[srd/pf2e/compendium/spells/rank-1/Illusory Object|Illusory Object]] (at will), [[srd/pf2e/compendium/spells/rank-1/Ventriloquism|Ventriloquism]] (at will) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/Blur|Blur]], [[srd/pf2e/compendium/spells/rank-2/Humanoid Form|Humanoid Form]] (at will) - __3rd__ [[srd/pf2e/compendium/spells/rank-1/Sleep|Sleep]] - __4th__ [[srd/pf2e/compendium/spells/rank-1/Charm|Charm]] (×3), [[srd/pf2e/compendium/spells/rank-4/Suggestion|Suggestion]]"
 sourcebook: "_Monster Core_, page 214."
 ```
 

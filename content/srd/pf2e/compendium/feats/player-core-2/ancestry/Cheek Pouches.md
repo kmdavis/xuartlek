@@ -18,6 +18,6 @@ Your cheeks are stretchy, and you can store up to four items of light Bulk or le
 
 ### Cheek Pouches leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/ancestry/big-mouth|Big Mouth]], [[srd/pf2e/compendium/feats/player-core-2/ancestry/quick-stow|Quick Stow]]
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Big Mouth|Big Mouth]], [[srd/pf2e/compendium/feats/player-core-2/ancestry/Quick Stow|Quick Stow]]
 
 *Source: Player Core 2 p. 30*

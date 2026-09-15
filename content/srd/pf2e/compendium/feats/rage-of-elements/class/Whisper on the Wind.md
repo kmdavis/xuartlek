@@ -25,6 +25,6 @@ You speak in a whisper, a soft wind carrying your words far away. This has the e
 ---
 **Level (4th)** The range is 1 mile.
 
-**Level (14th)** The range is planetary plus the [[srd/pf2e/compendium/gm/planes#Plane of Air|Plane of Air]].
+**Level (14th)** The range is planetary plus the [[srd/pf2e/compendium/gm/Planes#Plane of Air|Plane of Air]].
 
 *Source: Rage of Elements p. 24*

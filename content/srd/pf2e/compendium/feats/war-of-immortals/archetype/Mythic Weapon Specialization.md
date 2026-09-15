@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/eternal-legend|Eternal Legend]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/eternal-legend-dedication|Eternal Legend Dedication]]; greater weapon specialization
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Eternal Legend|Eternal Legend]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Eternal Legend Dedication|Eternal Legend Dedication]]; greater weapon specialization
 
 When you fully embrace your Calling, your blows hit with incredible force that can fell even the mightiest of creatures. When you make a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with mythic proficiency, your additional damage from weapon specialization increases to 12.
 

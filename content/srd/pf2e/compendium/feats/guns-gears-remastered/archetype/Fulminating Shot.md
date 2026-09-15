@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Magical`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/spellshot|Spellshot]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Spellshot|Spellshot]]
 - **Frequency**: once per round.
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/spellshot-dedication|Spellshot Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Spellshot Dedication|Spellshot Dedication]]
 
 You channel potent magic into your next shot, empowering it with a blast of crackling energy. Choose acid, cold, electricity, or fire. If you hit with your next attack roll using a firearm or crossbow before the end of your turn, you deal 1d6 additional damage of this type. At 12th level, this increases to 2d6 additional damage, and at 18th level, it increases to 3d6 additional damage.
 

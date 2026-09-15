@@ -13,7 +13,7 @@ socialImage: og-image.png
 
 - **Class**: Sorcerer
 
-Your bloodline provides you with incredible magical power. You are a spellcaster and can cast spells using the [[srd/pf2e/books/player-core/chapter-7-spells/casting-spells|Cast a Spell]] activity. The tradition from which your spells come is determined by your bloodline. As a sorcerer, you draw your power from within, and the gestures and incantations you use to shape your power might evoke the nature of your bloodline. For instance, a sorcerer with a demonic bloodline might chant guttural fiendish phrases or make brief curt gestures to cast a spell.
+Your bloodline provides you with incredible magical power. You are a spellcaster and can cast spells using the [[srd/pf2e/books/player-core/chapter-7-spells/Casting Spells|Cast a Spell]] activity. The tradition from which your spells come is determined by your bloodline. As a sorcerer, you draw your power from within, and the gestures and incantations you use to shape your power might evoke the nature of your bloodline. For instance, a sorcerer with a demonic bloodline might chant guttural fiendish phrases or make brief curt gestures to cast a spell.
 
  Each day, you can cast up to three 1st-rank spells. You must know spells to cast them, and you learn them via the spell repertoire class feature. The number of spells you can cast each day is called your spell slots.
 

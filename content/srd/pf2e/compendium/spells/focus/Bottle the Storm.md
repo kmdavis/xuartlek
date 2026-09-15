@@ -18,10 +18,10 @@ socialImage: og-image.png
 
 `Cleric`  `Electricity`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Lightning|Lightning]]
-- **Trigger**: You would take [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] damage.
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Lightning|Lightning]]
+- **Trigger**: You would take [[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|electricity]] damage.
 
-When lightning is turned against you, you store the charge safely within yourself, unleashing it when the time is right. You gain [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance|resistance]] 10 against the triggering effect. If you successfully prevent damage in this way, at any time during the spell’s duration, you can spend a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] trait, to expend the charge and make a spell attack against the AC of a target within 60 feet. This attack deals electricity damage equal to the damage prevented by bottle the storm. If you Cast _bottle the storm_ a second time before the original duration elapses, or if you do not make this attack within 1 minute, the stored charge dissipates harmlessly.
+When lightning is turned against you, you store the charge safely within yourself, unleashing it when the time is right. You gain [[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|electricity]] [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance|resistance]] 10 against the triggering effect. If you successfully prevent damage in this way, at any time during the spell’s duration, you can spend a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]] trait, to expend the charge and make a spell attack against the AC of a target within 60 feet. This attack deals electricity damage equal to the damage prevented by bottle the storm. If you Cast _bottle the storm_ a second time before the original duration elapses, or if you do not make this attack within 1 minute, the stored charge dissipates harmlessly.
 
 ---
 **Heightened (7th)** The resistance increases to 15, and you can immediately make the spell attack granted by _bottle the storm_ as part of the reaction used to Cast the Spell.

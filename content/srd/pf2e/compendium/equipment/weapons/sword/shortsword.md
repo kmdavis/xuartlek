@@ -16,14 +16,14 @@ socialImage: og-image.png
 
 `Agile`  `Finesse`  `Versatile`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/chaldira|Chaldira]], [[srd/pf2e/compendium/deities/monitor-demigods/dammar|Dammar]], Grasping Iovett, Hathor, Husk, Jaidz, [[srd/pf2e/compendium/deities/empyreal-lords/kelinahat|Kelinahat]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/norgorber|Norgorber]], [[srd/pf2e/compendium/deities/pantheons/radiant-prism|Radiant Prism]], Thisamet
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/Chaldira|Chaldira]], [[srd/pf2e/compendium/deities/monitor-demigods/Dammar|Dammar]], Grasping Iovett, Hathor, Husk, Jaidz, [[srd/pf2e/compendium/deities/empyreal-lords/Kelinahat|Kelinahat]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Norgorber|Norgorber]], [[srd/pf2e/compendium/deities/pantheons/Radiant Prism|Radiant Prism]], Thisamet
 - **Price**: 9 sp
 - **Damage**: 1d6 P
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 These blades come in a variety of shapes and styles, but they are typically 2 feet long.
 
@@ -33,6 +33,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/blade-of-four-energies|Blade Of Four Energies]], Celestial Peachwood Sword, [[srd/pf2e/compendium/equipment/weapons/gloom-blade|Gloom Blade]], [[srd/pf2e/compendium/equipment/weapons/radiant-victory|Radiant Victory]]
+[[srd/pf2e/compendium/equipment/weapons/Blade of Four Energies|Blade of Four Energies]], [[srd/pf2e/compendium/equipment/weapons/Celestial Peachwood Sword|Celestial Peachwood Sword]], [[srd/pf2e/compendium/equipment/weapons/Gloom Blade|Gloom Blade]], [[srd/pf2e/compendium/equipment/weapons/Radiant Victory|Radiant Victory]]
 
 *Source: Player Core p. 278*

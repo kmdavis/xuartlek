@@ -21,6 +21,6 @@ socialImage: og-image.png
 - **Bulk**: L
 - **Activate**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]]
 
-Tawny-colored [[srd/pf2e/bestiary/monster-core/animal/hippogriff|hippogriff]] feathers can be up to 2 feet long. Used as a catalyst with a [[srd/pf2e/compendium/spells/rank-2/ghostly-carrier|_ghostly carrier_]] spell, a single _hippogriff feather_ grants the hand semicorporeal wings that increase the hand's maneuverability. The hand has a range of only 60 feet, but its increased agility grants it a +1 status bonus to its AC and Reflex saves.
+Tawny-colored [[srd/pf2e/bestiary/monster-core/animal/Hippogriff|hippogriff]] feathers can be up to 2 feet long. Used as a catalyst with a [[srd/pf2e/compendium/spells/rank-2/Ghostly Carrier|_ghostly carrier_]] spell, a single _hippogriff feather_ grants the hand semicorporeal wings that increase the hand's maneuverability. The hand has a range of only 60 feet, but its increased agility grants it a +1 status bonus to its AC and Reflex saves.
 
 *Source: Howl of the Wild p. 118*

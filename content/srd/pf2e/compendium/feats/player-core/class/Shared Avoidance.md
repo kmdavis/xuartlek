@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Cleric`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/premonition-of-avoidance|Premonition of Avoidance]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Premonition of Avoidance|Premonition of Avoidance]]
 
 You can project your premonitions of danger to your allies. When you use Premonition of Avoidance, allies within 20 feet of you who are rolling the same saving throw against the same hazard also gain a +2 circumstance bonus to their saving throws.
 

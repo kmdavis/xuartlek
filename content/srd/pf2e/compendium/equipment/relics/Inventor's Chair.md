@@ -22,8 +22,8 @@ Initially crafted by a gifted inventor who no longer had the use of their legs, 
 
 ---
 
-**Minor Gifts**: [[srd/pf2e/compendium/equipment/relics#Emotion Surge|emotion surge]], [[srd/pf2e/compendium/equipment/relics#Muse|muse]] ([[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]])
- **Major Gifts**: [[srd/pf2e/compendium/equipment/relics#Emotion Conduit|emotion conduit]], [[srd/pf2e/compendium/equipment/relics#Enthralling|enthralling]]
- **Grand Gift**: [[srd/pf2e/compendium/equipment/relics#Artistic Perfection|artistic perfection]] (Crafting)
+**Minor Gifts**: [[srd/pf2e/compendium/equipment/Relics#Emotion Surge|emotion surge]], [[srd/pf2e/compendium/equipment/Relics#Muse|muse]] ([[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]])
+ **Major Gifts**: [[srd/pf2e/compendium/equipment/Relics#Emotion Conduit|emotion conduit]], [[srd/pf2e/compendium/equipment/Relics#Enthralling|enthralling]]
+ **Grand Gift**: [[srd/pf2e/compendium/equipment/Relics#Artistic Perfection|artistic perfection]] (Crafting)
 
 *Source: Treasure Vault (Remastered) p. 205*

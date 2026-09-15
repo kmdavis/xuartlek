@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Fungus`  `Manipulate`  `Poison`
 
-- **Tradition**: Primal
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: touch
 - **Area**: 15-foot cone
 - **Defense**: Fortitude

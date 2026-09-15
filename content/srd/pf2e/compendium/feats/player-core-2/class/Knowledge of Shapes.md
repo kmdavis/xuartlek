@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Cursebound`  `Oracle`  `Spellshape`  `Metamagic`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/reach-spell|Reach Spell]] or [[srd/pf2e/compendium/feats/player-core/class/widen-spell|Widen Spell]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Reach Spell|Reach Spell]] or [[srd/pf2e/compendium/feats/player-core/class/Widen Spell|Widen Spell]]
 
-Inspiration lets you surpass your preconceptions of your spells' limits. You use [[srd/pf2e/compendium/feats/player-core/class/reach-spell|Reach Spell]] or [[srd/pf2e/compendium/feats/player-core/class/widen-spell|Widen Spell]] as a free action.
+Inspiration lets you surpass your preconceptions of your spells' limits. You use [[srd/pf2e/compendium/feats/player-core/class/Reach Spell|Reach Spell]] or [[srd/pf2e/compendium/feats/player-core/class/Widen Spell|Widen Spell]] as a free action.
 
 *Source: Player Core 2 p. 139*

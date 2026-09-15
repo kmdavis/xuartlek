@@ -14,14 +14,14 @@ socialImage: og-image.png
 
 `Versatile`
 
-- **Favored Weapon**: Abrogail, [[srd/pf2e/compendium/deities/dead-or-missing-deities/aroden|Aroden]], Falayna, [[srd/pf2e/compendium/deities/covenants/good-neighbors|Good Neighbors]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]], Lymnieris, [[srd/pf2e/compendium/deities/azlanti-pantheon/myr|Myr]], [[srd/pf2e/compendium/deities/sakhil-tormentors/nameless|Nameless]], [[srd/pf2e/compendium/deities/demon-lords/pazuzu|Pazuzu]], [[srd/pf2e/compendium/deities/demon-lords/sithhud|Sithhud]], [[srd/pf2e/compendium/deities/goblin-gods/teki-stronggut|Teki Stronggut]], [[srd/pf2e/compendium/deities/infernal-dukes/titivilus|Titivilus]], [[srd/pf2e/compendium/deities/vudrani-gods/vineshvakhi|Vineshvakhi]], [[srd/pf2e/compendium/deities/elemental-lords/ymeri|Ymeri]]
+- **Favored Weapon**: Abrogail, [[srd/pf2e/compendium/deities/dead-or-missing-deities/Aroden|Aroden]], Falayna, [[srd/pf2e/compendium/deities/covenants/Good Neighbors|Good Neighbors]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Iomedae|Iomedae]], Lymnieris, [[srd/pf2e/compendium/deities/azlanti-pantheon/Myr|Myr]], [[srd/pf2e/compendium/deities/sakhil-tormentors/Nameless|Nameless]], [[srd/pf2e/compendium/deities/demon-lords/Pazuzu|Pazuzu]], [[srd/pf2e/compendium/deities/demon-lords/Sithhud|Sithhud]], [[srd/pf2e/compendium/deities/goblin-gods/Teki Stronggut|Teki Stronggut]], [[srd/pf2e/compendium/deities/infernal-dukes/Titivilus|Titivilus]], [[srd/pf2e/compendium/deities/vudrani-gods/Vineshvakhi|Vineshvakhi]], [[srd/pf2e/compendium/deities/elemental-lords/Ymeri|Ymeri]]
 - **Price**: 1 gp
 - **Damage**: 1d8 S
 - **Bulk**: 1
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 Longswords can be one-edged or two-edged swords. Their blades are heavy and they're between 3 and 4 feet in length.
 
@@ -31,6 +31,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/chalice-of-justice|Chalice of Justice]], Fearcutter, Four-Tiger Blade, Jian of Life's Duality, [[srd/pf2e/compendium/equipment/weapons/last-hope|Last Hope]], [[srd/pf2e/compendium/equipment/weapons/righteous-fury|Righteous Fury]], [[srd/pf2e/compendium/equipment/weapons/searing-blade|Searing Blade]], [[srd/pf2e/compendium/equipment/intelligent-items/singing-sword|Singing Sword]], [[srd/pf2e/compendium/equipment/weapons/smoking-sword|Smoking Sword]]
+Azlanti Diamond, [[srd/pf2e/compendium/equipment/weapons/Chalice of Justice|Chalice of Justice]], Destiny Blade, Fearcutter, Four-Tiger Blade, [[srd/pf2e/compendium/equipment/weapons/Jian of Life's Duality|Jian of Life's Duality]], [[srd/pf2e/compendium/equipment/weapons/Last Hope|Last Hope]], Meloth's Lifedrinker, [[srd/pf2e/compendium/equipment/weapons/Righteous Fury|Righteous Fury]], [[srd/pf2e/compendium/equipment/weapons/Searing Blade|Searing Blade]], [[srd/pf2e/compendium/equipment/intelligent-items/Singing Sword|Singing Sword]], [[srd/pf2e/compendium/equipment/weapons/Smoking Sword|Smoking Sword]]
 
 *Source: Player Core p. 278*

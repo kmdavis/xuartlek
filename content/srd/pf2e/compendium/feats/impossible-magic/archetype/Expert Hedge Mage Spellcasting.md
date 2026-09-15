@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/hedge-mage|Hedge Mage]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/basic-hedge-mage-spellcasting|Basic Hedge Mage Spellcasting]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Hedge Mage|Hedge Mage]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/archetype/Basic Hedge Mage Spellcasting|Basic Hedge Mage Spellcasting]]
 
-You gain the [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|expert spellcasting benefits]]. When you add spells to your keepsake from gaining a spell slot of a new rank from the hedge mage archetype, you can choose 2nd-rank spells. Your keepsake can also hold 2nd-rank spells.
+You gain the [[srd/pf2e/books/player-core/chapter-3-classes/Archetypes#Spellcasting Archetypes|expert spellcasting benefits]]. When you add spells to your keepsake from gaining a spell slot of a new rank from the hedge mage archetype, you can choose 2nd-rank spells. Your keepsake can also hold 2nd-rank spells.
 
 ### Expert Hedge Mage Spellcasting leads to...
 
-[[srd/pf2e/compendium/feats/impossible-magic/archetype/master-hedge-mage-spellcasting|Master Hedge Mage Spellcasting]]
+[[srd/pf2e/compendium/feats/impossible-magic/archetype/Master Hedge Mage Spellcasting|Master Hedge Mage Spellcasting]]
 
 *Source: Impossible Magic p. 95*

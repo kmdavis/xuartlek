@@ -28,10 +28,10 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/Languages#Goblin|Goblin]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +10"
 abilityMods: [2, 4, 2, 0, 2, -1]
 abilities_top:
   - name: "Items"
@@ -50,14 +50,14 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ shortsword +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d6+4 piercing"
+    desc: "⬻ shortsword +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d6+4 piercing"
   - name: "Ranged"
     desc: "⬻ crossbow +14 (range increment 120 feet, reload 1) __Damage__ 1d8+2 piercing plus crossbow precision"
 abilities_bot:
   - name: "Crossbow Precision"
     desc: "The first time the archer hits with a crossbow attack in a round, it deals 1d8 extra precision damage."
   - name: "Perfect Aim"
-    desc: "The hobgoblin archer ignores the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition. Their targets don't benefit from lesser cover, and they reduce the AC bonus from standard cover by 2 against the hobgoblin archer's attack."
+    desc: "The hobgoblin archer ignores the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition. Their targets don't benefit from lesser cover, and they reduce the AC bonus from standard cover by 2 against the hobgoblin archer's attack."
   - name: "Running Reload"
     desc: "⬻ The archer Strides, Steps, or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneaks]], then Interacts to reload."
 sourcebook: "_Monster Core_, page 199."

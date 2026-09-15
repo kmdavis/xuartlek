@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/battle-harbinger|Battle Harbinger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/battle-harbinger-dedication|Battle Harbinger Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Battle Harbinger|Battle Harbinger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/divine-mysteries/archetype/Battle Harbinger Dedication|Battle Harbinger Dedication]]
 
-You’ve enhanced your training with your battle magic, allowing you access to a more potent divine font. Add [[srd/pf2e/compendium/spells/rank-1/benediction|_benediction_]] and [[srd/pf2e/compendium/spells/rank-1/malediction|_malediction_]] to the spells you can prepare with your additional slots from your divine font. These spells are also battle auras.
+You’ve enhanced your training with your battle magic, allowing you access to a more potent divine font. Add [[srd/pf2e/compendium/spells/rank-1/Benediction|_benediction_]] and [[srd/pf2e/compendium/spells/rank-1/Malediction|_malediction_]] to the spells you can prepare with your additional slots from your divine font. These spells are also battle auras.
 
 *Source: Divine Mysteries p. 274*

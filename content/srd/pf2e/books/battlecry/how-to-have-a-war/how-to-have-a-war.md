@@ -1,6 +1,7 @@
 ---
 title: "How to Have a War"
 aliases: ["How to Have a War"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3433"
 citation: "Battlecry! pg. 199"
-socialImage: og-image.png
 ---
 
 # How to Have a War
@@ -20,9 +20,9 @@ Having decided what kind of story you want to tell, the next step is to figure o
 
 ## Contents
 
-- [[srd/pf2e/books/battlecry/how-to-have-a-war/what-kind-of-war|What Kind of War?]]
-- [[srd/pf2e/books/battlecry/how-to-have-a-war/where-are-the-heroes|Where Are the Heroes?]]
-- [[srd/pf2e/books/battlecry/how-to-have-a-war/what-do-the-heroes-do|What Do the Heroes Do?]]
-- [[srd/pf2e/books/battlecry/how-to-have-a-war/onward-to-victory-points|Onward to Victory (Points)!]]
-- [[srd/pf2e/books/battlecry/how-to-have-a-war/being-in-command|Being in Command]]
-- [[srd/pf2e/books/battlecry/how-to-have-a-war/downtime|Downtime]]
+- [[srd/pf2e/books/battlecry/how-to-have-a-war/What Kind of War|What Kind of War?]]
+- [[srd/pf2e/books/battlecry/how-to-have-a-war/Where Are the Heroes|Where Are the Heroes?]]
+- [[srd/pf2e/books/battlecry/how-to-have-a-war/What Do the Heroes Do|What Do the Heroes Do?]]
+- [[srd/pf2e/books/battlecry/how-to-have-a-war/Onward to Victory (Points)!|Onward to Victory (Points)!]]
+- [[srd/pf2e/books/battlecry/how-to-have-a-war/Being in Command|Being in Command]]
+- [[srd/pf2e/books/battlecry/how-to-have-a-war/Downtime|Downtime]]

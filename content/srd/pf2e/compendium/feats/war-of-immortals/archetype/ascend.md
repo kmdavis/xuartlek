@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Mythic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ascended-celestial|Ascended Celestial]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/ascended-celestial-dedication|Ascended Celestial Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ascended Celestial|Ascended Celestial]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Ascended Celestial Dedication|Ascended Celestial Dedication]]
 
-As you strive to ascend to the ranks of celestials, the pull of gravity loosens on your body. You gain a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Fly Speed|fly Speed]] equal to your land Speed and the Flyby Attack action. When you gain this feat, you can choose to sprout wings, if desired; these wings are permanent. 
+As you strive to ascend to the ranks of celestials, the pull of gravity loosens on your body. You gain a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Fly Speed|fly Speed]] equal to your land Speed and the Flyby Attack action. When you gain this feat, you can choose to sprout wings, if desired; these wings are permanent. 
 
 Once per day as a single action, you can fly at incredible speeds. When you do, your fly Speed becomes equal to double your Speed for 5 rounds.
 

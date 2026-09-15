@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Duration**: 1 hour
 
 Using simple magical gestures, you alter a minor detail of your appearance (add or remove highlights to your hair color, apply or remove cosmetics, add polish or accessories to your nails, etc.) or create a small environmental effect that’s confined to your person (adjust surrounding lighting to favor your good side, cause a brief wind to make your hair blow dramatically, make a small chime occur as you smile, etc.). While the spell is active, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] it to make further adjustments. The changes persist until the spell’s duration ends.

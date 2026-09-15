@@ -16,11 +16,11 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Scrying`
 
-- **Traditions**: Arcane, Divine, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 1 mile
 - **Target**: 1 willing creature that’s your animal companion or familiar
 - **Duration**: sustained
 
-The target becomes a scrying sensor, allowing you to see through its eyes, smell what it smells, and similarly use its other senses. If you Cast a Spell with the [[srd/pf2e/compendium/rules-elements/traits/player-core/revelation|revelation]] trait that affects your senses, such as [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]], while this spell is active, you gain the benefit of the spell through the target's senses instead of your own. You can also speak through the target with a voice much like yours, though it takes on some of the timbre and character of the target's growls or squawks. You can use [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] on the target as part of Sustaining this spell. You don't need line of sight or line of effect to your target when you Cast this Spell.
+The target becomes a scrying sensor, allowing you to see through its eyes, smell what it smells, and similarly use its other senses. If you Cast a Spell with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Revelation|revelation]] trait that affects your senses, such as [[srd/pf2e/compendium/spells/rank-2/See the Unseen|_see the unseen_]], while this spell is active, you gain the benefit of the spell through the target's senses instead of your own. You can also speak through the target with a voice much like yours, though it takes on some of the timbre and character of the target's growls or squawks. You can use [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] on the target as part of Sustaining this spell. You don't need line of sight or line of effect to your target when you Cast this Spell.
 
 *Source: Player Core 2 p. 245*

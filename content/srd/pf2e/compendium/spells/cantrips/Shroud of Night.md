@@ -19,7 +19,7 @@ socialImage: og-image.png
 
 `Cantrip`  `Darkness`  `Hex`  `Manipulate`  `Uncommon`  `Witch`
 
-- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Starless Shadow|Starless Shadow]]
+- **Patron Theme**: [[srd/pf2e/compendium/character/Patrons#Starless Shadow|Starless Shadow]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will
@@ -29,6 +29,6 @@ Your patron blankets the target's eyes in darkness. If you cast this hex on a wi
 
 **Success** The target is unaffected.
 
-**Failure** The target is shrouded in murky darkness. It treats bright light as dim light, and unless it has greater darkvision, all creatures are [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] to it.
+**Failure** The target is shrouded in murky darkness. It treats bright light as dim light, and unless it has greater darkvision, all creatures are [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] to it.
 
 *Source: Player Core p. 387*

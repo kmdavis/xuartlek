@@ -20,6 +20,6 @@ socialImage: og-image.png
 - **Usage**: held in 1 hand
 - **Activate**: Cast a Spell
 
-Runes of scrying mark the iris of this exquisitely carved glass eye. When used as a catalyst to cast a _[[srd/pf2e/compendium/spells/rank-2/status|_status_]]_ spell, the target is also aware of your direction and distance from them (though not any conditions affecting you).
+Runes of scrying mark the iris of this exquisitely carved glass eye. When used as a catalyst to cast a _[[srd/pf2e/compendium/spells/rank-2/Status|_status_]]_ spell, the target is also aware of your direction and distance from them (though not any conditions affecting you).
 
 *Source: Impossible Magic p. 217*

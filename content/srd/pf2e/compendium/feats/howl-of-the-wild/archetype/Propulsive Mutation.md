@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/ostilli-host|Ostilli Host]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/ostilli-host-dedication|Ostilli Host Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Ostilli Host|Ostilli Host]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Ostilli Host Dedication|Ostilli Host Dedication]]
 
 Your ostilli can fire its dart farther. When you Spit Ambient Magic, the range increases to 60 feet.
 

@@ -20,6 +20,6 @@ socialImage: og-image.png
 - **Usage**: affixed or held in 1 hand
 - **Bulk**: L
 
-This magical banner lightens your feet and allows you to move adroitly. This banner is sometimes referred to as the marching flag. You and your allies [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Ignore Difficult Terrain|ignore difficult terrain]] within the banner’s aura.
+This magical banner lightens your feet and allows you to move adroitly. This banner is sometimes referred to as the marching flag. You and your allies [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Ignore Difficult Terrain|ignore difficult terrain]] within the banner’s aura.
 
 *Source: Battlecry! p. 139*

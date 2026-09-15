@@ -16,13 +16,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Mental`
 
-- **Traditions**: Occult, Primal
+- **Traditions**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Target**: your companion or eidolon
 - **Duration**: 1 minute
 
-You shroud the target in a powerful predatory aura and amplify its vocalizations. It gains a +1 status bonus to [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] checks. Once during this spell’s duration, it can take the Thundering Roar action.
-**Thundering Roar** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]]) The target unleashes a powerful vocalization. Each enemy in a 10-foot emanation takes 4d8 sonic damage with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Will save against your spell DC. A creature that fails its Will save is also [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1.
+You shroud the target in a powerful predatory aura and amplify its vocalizations. It gains a +1 status bonus to [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] checks. Once during this spell’s duration, it can take the Thundering Roar action.
+**Thundering Roar** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sonic|sonic]]) The target unleashes a powerful vocalization. Each enemy in a 10-foot emanation takes 4d8 sonic damage with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Will save against your spell DC. A creature that fails its Will save is also [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] 1.
 
 ---
 **Heightened (+2)** The status bonus to Intimidation checks increases by 1 (to a maximum of a +4 status bonus for an 8th-rank spell), and the damage from Thundering Roar increases by 2d8.

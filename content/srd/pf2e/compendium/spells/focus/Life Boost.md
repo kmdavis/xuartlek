@@ -21,7 +21,7 @@ socialImage: og-image.png
 
 `Focus`  `Healing`  `Hex`  `Manipulate`  `Uncommon`  `Vitality`  `Witch`  `Positive`
 
-- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Life|Lesson of Life]]
+- **Lesson**: [[srd/pf2e/compendium/character/Lessons#Lesson of Life|Lesson of Life]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: 4 rounds

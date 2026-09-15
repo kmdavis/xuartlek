@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/scrounger|Scrounger]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/skill/magical-crafting|Magical Crafting]]; [[srd/pf2e/compendium/feats/player-core-2/archetype/scrounger-dedication|Scrounger Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Scrounger|Scrounger]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/skill/Magical Crafting|Magical Crafting]]; [[srd/pf2e/compendium/feats/player-core-2/archetype/Scrounger Dedication|Scrounger Dedication]]
 
 You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|craft]] a temporary wondrous item using the magic scrounged from all around. Once per day, you can Cobble Together a temporary magic item. The temporary item must be common, magical, half your level or lower, and be able to be held, wielded, or worn. Any Craft requirements must be provided as normal. 
 

@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] with a mere glare. When you do, Demoralize loses the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] trait and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] trait, and you don’t take a penalty if the creature doesn’t understand your language.
+You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] with a mere glare. When you do, Demoralize loses the [[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]] trait and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Visual|visual]] trait, and you don’t take a penalty if the creature doesn’t understand your language.
 
 *Source: Player Core p. 257*

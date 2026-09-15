@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Merfolk`
 
-You've studied the waves, and they obey your will as extensions of your own fin. You can cast [[srd/pf2e/compendium/spells/rank-3/aqueous-orb|_aqueous orb_]] and [[srd/pf2e/compendium/spells/rank-5/control-water|_control water_]] as 5th-rank primal innate spells, each once per day.
+You've studied the waves, and they obey your will as extensions of your own fin. You can cast [[srd/pf2e/compendium/spells/rank-3/Aqueous Orb|_aqueous orb_]] and [[srd/pf2e/compendium/spells/rank-5/Control Water|_control water_]] as 5th-rank primal innate spells, each once per day.
 
 *Source: Howl of the Wild p. 39*

@@ -18,12 +18,12 @@ socialImage: og-image.png
 
 `Archetype`  `Emotion`  `Fear`  `Incapacitation`  `Mental`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/guerrilla|Guerrilla]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/guerrilla-dedication|Guerrilla Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Guerrilla|Guerrilla]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/Guerrilla Dedication|Guerrilla Dedication]]
 
 Your diminishment of your foes' ranks damages their morale. Whenever you reduce a creature to 0 HP with a Strike or spell, all enemies within 30 feet of the downed creature who witnessed the attack must attempt a Will saving throw against your class DC. A creature that didn't see you directly (such as if you're invisible or remained hidden after the attack) takes a –2 circumstance penalty to this save. Regardless of the result, each creature is temporarily immune to your Frightful Attrition for 10 minutes. 
 **Critical Success** The creature is unaffected. 
-**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1. 
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] 1. 
 **Failure** The creature is frightened 2. 
 **Critical Failure** The creature is frightened 3 and fleeing for 1 round.
 

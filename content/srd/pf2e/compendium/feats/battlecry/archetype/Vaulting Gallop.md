@@ -14,8 +14,8 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/cavalier|Cavalier]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/cavalier-dedication|Cavalier Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Cavalier|Cavalier]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Cavalier Dedication|Cavalier Dedication]]
 
 You've trained your mount to vault over obstacles at high speeds. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] to order your mount to Stride twice. During this movement, your mount can [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]] over obstacles of its size and smaller as well as creatures up to its size, though it must end this movement on solid ground. Leaps taken as part of this activity do not provoke reactions.
 

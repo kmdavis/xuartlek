@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Awakened Animal`
 
-Just as some humanoids find themselves driven to study nature, you are obsessed with the artificial constructs of society and can't get enough. You are trained in [[srd/pf2e/compendium/rules-elements/skills/society|Society]]. If you would automatically become trained in Society, you instead become trained in a skill of your choice.
+Just as some humanoids find themselves driven to study nature, you are obsessed with the artificial constructs of society and can't get enough. You are trained in [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]. If you would automatically become trained in Society, you instead become trained in a skill of your choice.
 
  As a newcomer, sometimes your understanding is a bit off target. When you fail, but don't critically fail, a Society check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Decipher Writing|Decipher Writing]], you learn the correct information (as you would on a success) and erroneous information (as you would on a critical failure). You don't have any way to differentiate which is which.
 
 ### Fascinated by Society leads to...
 
-[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/urban-jungle|Urban Jungle]]
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Urban Jungle|Urban Jungle]]
 
 *Source: Howl of the Wild p. 25*

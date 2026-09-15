@@ -25,13 +25,13 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Category**: Martial
 
-This pair of [[srd/pf2e/compendium/equipment/weapons/brawling/knuckle-duster|knuckle dusters]] is fitted with an explosive charge of black powder within the hollowed spikes of the weapon and a firing mechanism you hold in your hand while in use.
+This pair of [[srd/pf2e/compendium/equipment/weapons/brawling/Knuckle Duster|knuckle dusters]] is fitted with an explosive charge of black powder within the hollowed spikes of the weapon and a firing mechanism you hold in your hand while in use.
 
 ### Melee
 
 **Damage** 1d4 B
 
-**Group** Brawling
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|Brawling]]
 
 ### Ranged
 
@@ -41,9 +41,9 @@ This pair of [[srd/pf2e/compendium/equipment/weapons/brawling/knuckle-duster|knu
 
 **Reload** 1
 
-**Group** Firearm
+**Group** [[srd/pf2e/compendium/rules-elements/Weapon Groups#Firearm|Firearm]]
 
-**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
+**Ammunition** [[srd/pf2e/compendium/equipment/weapons/firearm/Firearm Ammunition (10 rounds)|Firearm Ammunition (10 rounds)]]
 
 ### Critical Specialization Effects
 

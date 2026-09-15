@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Archetype`  `Curse`  `Disease`  `Primal`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/werecreature|Werecreature]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/werecreature-dedication|Werecreature Dedication]]; wererat
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Werecreature|Werecreature]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Werecreature Dedication|Werecreature Dedication]]; wererat
 
 Your bites carry a cursed infection. When you hit and deal damage to a creature with a jaws Strike while in hybrid or rat shape, the creature is cursed until the start of your next turn. Whenever they regain Hit Points during that time, they must attempt a Fortitude save against your class DC or spell DC, whichever is higher.
 

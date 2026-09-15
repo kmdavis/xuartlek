@@ -17,16 +17,16 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Mental`  `Prediction`
 
-- **Traditions**: Arcane, Divine, Occult
-- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodline**: [[srd/pf2e/compendium/character/Bloodlines#Angelic|Angelic]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Duration**: 1 hour
 
-You gain a sixth sense that warns you of danger that might befall the target of the spell. If you choose a creature other than yourself as the target, you create a psychic link through which you can inform the target of danger. This link is a [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effect. Due to the amount of information this spell requires you to process, you can't have more than one _foresight_ spell in effect at a time. Casting _foresight_ again ends the previous _foresight_.
+You gain a sixth sense that warns you of danger that might befall the target of the spell. If you choose a creature other than yourself as the target, you create a psychic link through which you can inform the target of danger. This link is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effect. Due to the amount of information this spell requires you to process, you can't have more than one _foresight_ spell in effect at a time. Casting _foresight_ again ends the previous _foresight_.
 
- While _foresight_ is in effect, the target gains a +2 status bonus to initiative rolls and isn't [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] creatures or when flanked. In addition, you gain the following reaction.
+ While _foresight_ is in effect, the target gains a +2 status bonus to initiative rolls and isn't [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] against [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]] creatures or when flanked. In addition, you gain the following reaction.
 
- **Foresight** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** The target of _foresight_ defends against a hostile creature or other danger; **Effect** If the hostile creature or danger forces the target to roll dice (a saving throw, for example), the target rolls twice and uses the higher result, and this spell gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] trait. But if the hostile creature or danger is rolling against the target (an attack roll or skill check, for example), that hostile creature or danger rolls twice and uses the lower result, and this spell gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] trait.
+ **Foresight** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** The target of _foresight_ defends against a hostile creature or other danger; **Effect** If the hostile creature or danger forces the target to roll dice (a saving throw, for example), the target rolls twice and uses the higher result, and this spell gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]] trait. But if the hostile creature or danger is rolling against the target (an attack roll or skill check, for example), that hostile creature or danger rolls twice and uses the lower result, and this spell gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|misfortune]] trait.
 
 *Source: Player Core p. 332*

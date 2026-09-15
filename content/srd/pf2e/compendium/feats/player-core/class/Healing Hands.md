@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 - **Prerequisites**: healing font
 
-Your vitality is even more vibrant and restorative. When you cast [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]], you roll d10s instead of d8s.
+Your vitality is even more vibrant and restorative. When you cast [[srd/pf2e/compendium/spells/rank-1/Heal|_heal_]], you roll d10s instead of d8s.
 
 ### Healing Hands leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/magic-hands|Magic Hands]]
+[[srd/pf2e/compendium/feats/player-core/class/Magic Hands|Magic Hands]]
 
 *Source: Player Core p. 114*

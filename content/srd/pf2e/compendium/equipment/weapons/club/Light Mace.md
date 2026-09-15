@@ -16,14 +16,14 @@ socialImage: og-image.png
 
 `Agile`  `Finesse`  `Shove`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/empyreal-lords/dalenydra|Dalenydra]], [[srd/pf2e/compendium/deities/other-gods/erecura|Erecura]], Nephthys, [[srd/pf2e/compendium/deities/eldest/shyka|Shyka]], Wadjet
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/empyreal-lords/Dalenydra|Dalenydra]], [[srd/pf2e/compendium/deities/other-gods/Erecura|Erecura]], Nephthys, [[srd/pf2e/compendium/deities/eldest/Shyka|Shyka]], Wadjet
 - **Price**: 4 sp
 - **Damage**: 1d4 B
 - **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Simple
-- **Group**: Club
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|Club]]
 
 A light mace has a short wooden or metal shaft ending with a dense metal head. Used much like a club, it delivers heavy bludgeoning blows, but with extra power derived from the head's metal ridges or spikes.
 
@@ -33,6 +33,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Polarizing Mace, [[srd/pf2e/compendium/equipment/weapons/sonic-tuning-mace|Sonic Tuning Mace]]
+Polarizing Mace, [[srd/pf2e/compendium/equipment/weapons/Sonic Tuning Mace|Sonic Tuning Mace]]
 
 *Source: Player Core p. 277*

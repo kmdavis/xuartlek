@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Fighter`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/aggressive-block|Aggressive Block]] or [[srd/pf2e/compendium/feats/player-core/class/brutish-shove|Brutish Shove]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/Aggressive Block|Aggressive Block]] or [[srd/pf2e/compendium/feats/player-core/class/Brutish Shove|Brutish Shove]]
 
 You can push larger foes around with your attack. You can use Aggressive Block or Brutish Shove against a creature up to two sizes larger than you.
 

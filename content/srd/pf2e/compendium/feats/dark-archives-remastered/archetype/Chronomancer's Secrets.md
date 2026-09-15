@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/time-mage|Time Mage]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/time-mage-dedication|Time Mage Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Time Mage|Time Mage]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Time Mage Dedication|Time Mage Dedication]]
 
-The secrets of time peel back, revealing deeper truths. You gain either the [[srd/pf2e/compendium/spells/focus/stasis|_stasis_]] domain spell or the [[srd/pf2e/compendium/spells/focus/path-of-least-resistance|_path of least resistance_]] focus spell.
+The secrets of time peel back, revealing deeper truths. You gain either the [[srd/pf2e/compendium/spells/focus/Stasis|_stasis_]] domain spell or the [[srd/pf2e/compendium/spells/focus/Path of Least Resistance|_path of least resistance_]] focus spell.
 
 **Special** You can take this feat a second time, gaining the focus spell that you didn't gain the first time.
 

@@ -15,14 +15,14 @@ socialImage: og-image.png
 
 `Forceful`  `Sweep`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/demon-lords/cyth-vsug|Cyth-V’sug]], Deshto, [[srd/pf2e/compendium/deities/vudrani-gods/diomazul|Diomazul]], [[srd/pf2e/compendium/deities/demon-lords/jezelda|Jezelda]], [[srd/pf2e/compendium/deities/covenants/light-of-the-everlasting-flame|Light of the Everlasting Flame]], [[srd/pf2e/compendium/deities/orc-gods/mahja-firehair|Mahja Firehair]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], [[srd/pf2e/compendium/deities/empyreal-lords/uskyeria|Uskyeria]]
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/demon-lords/Cyth-V’sug|Cyth-V’sug]], Deshto, [[srd/pf2e/compendium/deities/vudrani-gods/Diomazul|Diomazul]], [[srd/pf2e/compendium/deities/demon-lords/Jezelda|Jezelda]], [[srd/pf2e/compendium/deities/covenants/Light of the Everlasting Flame|Light of the Everlasting Flame]], [[srd/pf2e/compendium/deities/orc-gods/Mahja Firehair|Mahja Firehair]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Sarenrae|Sarenrae]], [[srd/pf2e/compendium/deities/empyreal-lords/Uskyeria|Uskyeria]]
 - **Price**: 1 gp
 - **Damage**: 1d6 S
 - **Bulk**: 1
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
 This one-handed curved blade is sharp on one side.
 
@@ -32,6 +32,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/mageslayer|Mageslayer]], [[srd/pf2e/compendium/equipment/weapons/south-winds-scorch-song|South Wind's Scorch Song]]
+[[srd/pf2e/compendium/equipment/weapons/Mageslayer|Mageslayer]], [[srd/pf2e/compendium/equipment/weapons/South Wind's Scorch Song|South Wind's Scorch Song]]
 
 *Source: Player Core p. 278*

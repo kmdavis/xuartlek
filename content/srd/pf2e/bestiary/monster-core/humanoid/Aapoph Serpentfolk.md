@@ -30,10 +30,10 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; darkvision, scent (imprecise) 30 feet"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]; telepathy 100 feet"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]]; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] +6"
 abilityMods: [4, 2, 3, -1, 1, -1]
 abilities_top:
   - name: "Items"
@@ -41,31 +41,31 @@ abilities_top:
 ac: 18
 armorclass:
   - name: "AC"
-    desc: "18; __Fort__: +10; __Ref__: +7; __Will__: +6 (+2 status vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]])"
+    desc: "18; __Fort__: +10; __Ref__: +7; __Will__: +6 (+2 status vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]])"
 hp: 60
 health:
   - name: "HP"
-    desc: "60; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] 5"
+    desc: "60; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] 5"
 abilities_mid:
   - name: "Reactive Strike"
     desc: "⬲"
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ scimitar +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d6+6 slashing"
+    desc: "⬻ scimitar +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|Sweep]]) __Damage__ 1d6+6 slashing"
   - name: "Melee"
     desc: "⬻ fangs +11 __Damage__ 1d8+6 piercing plus serpentfolk venom"
   - name: "Melee"
-    desc: "⬻ tail +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+6 bludgeoning plus Knockdown"
+    desc: "⬻ tail +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]]) __Damage__ 1d6+6 bludgeoning plus Knockdown"
 abilities_bot:
   - name: "Serpentfolk Venom"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 20 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "1d4 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] (1 round)"
+    desc: "1d4 poison damage and [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled 1]] (1 round)"
   - name: "Stage 2"
     desc: "2d4 poison damage and enfeebled 1 (1 round)"
   - name: "Slithering Attack"

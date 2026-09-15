@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Nephilim`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/ancestry/proteankin|Proteankin]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/ancestry/Proteankin|Proteankin]]
 
 Your body is supremely flexible. You gain a +1 circumstance bonus on checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Squeeze|Squeeze]], and when you critically fail while Squeezing, you get a failure instead.
 

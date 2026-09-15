@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Fire`  `Manipulate`  `Sonic`
 
-- **Traditions**: Arcane, Occult, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 1, 000 feet
 - **Area**: 30-foot burst
 
@@ -31,9 +31,9 @@ With a pinch of metallic powder and gunpowder, you call forth blistering red ene
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round.
+**Failure** The creature takes full damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] for 1 round.
 
-**Critical Failure** The creature takes double damage and is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round.
+**Critical Failure** The creature takes double damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] for 1 round.
 
 ---
 **Heightened (+1)** The sonic damage increases by 1d10.

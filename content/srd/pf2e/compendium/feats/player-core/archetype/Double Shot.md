@@ -15,13 +15,13 @@ socialImage: og-image.png
 
 `Fighter`  `Flourish`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/archer|Archer]] (Level 6)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Archer|Archer]] (Level 6)
 - **Requirements**: You are wielding a ranged weapon with reload 0
 
 You shoot twice in blindingly fast succession. Make two Strikes, each against a separate target and with a –2 penalty. Both attacks count toward your multiple attack penalty, but the penalty doesn’t increase until after you’ve made both of them.
 
 ### Double Shot leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/triple-shot|Triple Shot]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Triple Shot|Triple Shot]]
 
 *Source: Player Core p. 143*

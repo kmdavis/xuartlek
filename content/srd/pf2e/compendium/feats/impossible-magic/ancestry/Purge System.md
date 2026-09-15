@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Automaton`
 
-You can sense the influence of harmful toxins in your body, and you heat and cool various parts of your body to expel them. Choose one [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions|poison]] that is affecting you. Reduce the stage of that poison by one.
+You can sense the influence of harmful toxins in your body, and you heat and cool various parts of your body to expel them. Choose one [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions|poison]] that is affecting you. Reduce the stage of that poison by one.
 
 **Enhancement** When you use Purge System, you instead reduce the stage of the poison by two.
 

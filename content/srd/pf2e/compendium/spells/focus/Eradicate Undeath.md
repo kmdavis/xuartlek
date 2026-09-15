@@ -20,11 +20,11 @@ socialImage: og-image.png
 
 `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Uncommon`  `Vitality`  `Positive`
 
-- **Domain**: [[srd/pf2e/compendium/character/domains#Death|Death]]
+- **Domain**: [[srd/pf2e/compendium/character/Domains#Death|Death]]
 - **Area**: 30-foot cone
 - **Defense**: basic Fortitude
 
-A massive deluge of life energy causes the undead to fall apart. Each [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] creature in the area takes 4d12 vitality damage.
+A massive deluge of life energy causes the undead to fall apart. Each [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]] creature in the area takes 4d12 vitality damage.
 
 ---
 **Heightened (+1)** The damage increases by 1d12.

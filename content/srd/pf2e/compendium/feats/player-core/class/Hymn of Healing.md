@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Bard`
 
-You learn the [[srd/pf2e/compendium/spells/focus/hymn-of-healing|_hymn of healing_]] composition spell, which imbues your music with rich melodies that help your allies recover from harm.
+You learn the [[srd/pf2e/compendium/spells/focus/Hymn of Healing|_hymn of healing_]] composition spell, which imbues your music with rich melodies that help your allies recover from harm.
 
 *Source: Player Core p. 101*

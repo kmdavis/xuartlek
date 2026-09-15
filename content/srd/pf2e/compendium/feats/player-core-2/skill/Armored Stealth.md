@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
-You have learned techniques to adjust and modify your armor and movements to reduce the noise you make. When you wear non-[[srd/pf2e/compendium/rules-elements/traits/player-core/noisy|noisy]] armor with which you are trained, your penalty to Stealth checks is reduced by 1 (to a minimum penalty of 0). If you're a master in Stealth, reduce the penalty by 2, and if you're legendary, reduce the penalty by 3. If your armor has the noisy trait, instead of reducing the penalty to Stealth checks, you ignore the effects of the noisy trait, enabling you to remove the penalty with a sufficient Strength score as normal.
+You have learned techniques to adjust and modify your armor and movements to reduce the noise you make. When you wear non-[[srd/pf2e/compendium/rules-elements/traits/player-core/Noisy|noisy]] armor with which you are trained, your penalty to Stealth checks is reduced by 1 (to a minimum penalty of 0). If you're a master in Stealth, reduce the penalty by 2, and if you're legendary, reduce the penalty by 3. If your armor has the noisy trait, instead of reducing the penalty to Stealth checks, you ignore the effects of the noisy trait, enabling you to remove the penalty with a sufficient Strength score as normal.
 
 *Source: Player Core 2 p. 227*

@@ -1,6 +1,7 @@
 ---
 title: "Disabling Snares"
 aliases: ["Disabling Snares"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core 2"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3319"
 citation: "Player Core 2 pg. 297"
-socialImage: og-image.png
 ---
 
 # Disabling Snares
@@ -18,4 +18,4 @@ socialImage: og-image.png
 
 Once a creature discovers a snare, it can disable it much like it can other physical traps, using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Disable a Device|Disable a Device]] action of the Thievery skill and using the Crafting DC of the snare's creator as the DC. You can automatically disarm a snare that you personally Crafted without triggering it by taking an Interact action while adjacent to the snare.
 
-Snares can't be targeted by Strikes or other attacks unless otherwise noted. At the GM's discretion, a snare might be triggered or destroyed by a particularly large effect, such as a boulder rolling through the snare's square, or an area effect that specifically mentions unattended objects, such as [[srd/pf2e/compendium/spells/rank-4/hydraulic-torrent|hydraulic torrent]].
+Snares can't be targeted by Strikes or other attacks unless otherwise noted. At the GM's discretion, a snare might be triggered or destroyed by a particularly large effect, such as a boulder rolling through the snare's square, or an area effect that specifically mentions unattended objects, such as [[srd/pf2e/compendium/spells/rank-4/Hydraulic Torrent|hydraulic torrent]].

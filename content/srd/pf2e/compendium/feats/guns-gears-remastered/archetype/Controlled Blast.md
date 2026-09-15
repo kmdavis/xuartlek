@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/demolitionist|Demolitionist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/demolitionist-dedication|Demolitionist Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Demolitionist|Demolitionist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Demolitionist Dedication|Demolitionist Dedication]]
 
-You maximize the effectiveness of your explosives by controlling every possible parameter of the blast meticulously. If you have the Directional Bombs feats, you can use it with [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/demolitionist-dedication|Set Explosives]] or Demolition Charge, even though you didn't throw the bombs. If you have the [[srd/pf2e/compendium/character/research-fields#Bomber|bomber research field field discovery]], you can apply the additional splash damage to one of the bombs when you Set Explosives or use Demolition Charge, and you can apply the increased splash area from Expanded Splash to all the bombs.
+You maximize the effectiveness of your explosives by controlling every possible parameter of the blast meticulously. If you have the Directional Bombs feats, you can use it with [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Demolitionist Dedication|Set Explosives]] or Demolition Charge, even though you didn't throw the bombs. If you have the [[srd/pf2e/compendium/character/Research Fields#Bomber|bomber research field field discovery]], you can apply the additional splash damage to one of the bombs when you Set Explosives or use Demolition Charge, and you can apply the increased splash area from Expanded Splash to all the bombs.
 
 *Source: Guns & Gears (Remastered) p. 133*

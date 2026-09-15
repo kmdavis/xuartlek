@@ -29,7 +29,7 @@ perception:
 languages: "all (see uncanny mimicry)"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +35, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +36, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +35"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +35, [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] +36, [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] +35"
 abilityMods: [9, 4, 6, -2, 2, 4]
 abilities_top:
   - name: "Uncanny Mimicry"
@@ -46,7 +46,7 @@ abilities_mid:
   - name: "Weakness"
     desc: "slashing 10"
   - name: "Head Regrowth"
-    desc: "A mocking chorus ordinarily has 10 heads. A creature can attempt to sever one of the hydra's heads by specifically targeting it and dealing damage equal to the head's Hit Points. A head that is not completely severed returns to full Hit Points at the end of any creature's turn. A hydra can regrow a severed head using hydra regeneration. A creature can prevent this regrowth by dealing acid or fire damage to the stump, cauterizing it. Single-target [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] effects need to be targeted at a specific stump, but effects that deal [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage or affect areas covering the hydra's whole space cauterize all stumps if they deal acid or fire damage. If the attack that severs a head deals any acid or fire damage, the stump is cauterized instantly. If all five heads are cauterized, the hydra dies."
+    desc: "A mocking chorus ordinarily has 10 heads. A creature can attempt to sever one of the hydra's heads by specifically targeting it and dealing damage equal to the head's Hit Points. A head that is not completely severed returns to full Hit Points at the end of any creature's turn. A hydra can regrow a severed head using hydra regeneration. A creature can prevent this regrowth by dealing acid or fire damage to the stump, cauterizing it. Single-target [[srd/pf2e/compendium/rules-elements/traits/player-core/Acid|acid]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] effects need to be targeted at a specific stump, but effects that deal [[srd/pf2e/compendium/rules-elements/traits/gm-core/Splash|splash]] damage or affect areas covering the hydra's whole space cauterize all stumps if they deal acid or fire damage. If the attack that severs a head deals any acid or fire damage, the stump is cauterized instantly. If all five heads are cauterized, the hydra dies."
   - name: "Hydra Regeneration"
     desc: "The mocking chorus has regeneration equal to 3 × the number of heads it has. If a hydra's body is missing any heads and the remaining stumps have not been cauterized, the hydra attempts a DC 43 Fortitude save after it regains Hit Points from regeneration. On a success, one uncauterized stump regrows two heads; on a critical success, two uncauterized stumps regrow into two heads each. The hydra can never grow more than double the number of heads it ordinarily has. The hydra's regeneration only fully deactivates if all its heads are severed and all stumps are cauterized, at which point it dies."
   - name: "Reactive Heads"
@@ -56,16 +56,16 @@ abilities_mid:
 speed: "35 feet, swim 35 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +37 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 4d12+14 piercing"
+    desc: "⬻ jaws +37 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach 15 feet]]) __Damage__ 4d12+14 piercing"
   - name: "Ranged"
-    desc: "⬻ harsh laugh +35 ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], range increment 90 feet) __Damage__ 4d10+14 sonic"
+    desc: "⬻ harsh laugh +35 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|Auditory]], range increment 90 feet) __Damage__ 4d10+14 sonic"
 abilities_bot:
   - name: "Petty Whispers"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The mocking chorus adopts the voices of its enemies, spreading lies and jeers among would-be allies and tearing apart trusted friends. Creatures in a 60-foot emanation of the mocking chorus must attempt a DC 37 Will save. The mocking chorus can't use petty whispers again for 1 minute."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|Mental]]) The mocking chorus adopts the voices of its enemies, spreading lies and jeers among would-be allies and tearing apart trusted friends. Creatures in a 60-foot emanation of the mocking chorus must attempt a DC 37 Will save. The mocking chorus can't use petty whispers again for 1 minute."
   - name: "Critical Success"
     desc: "The creature is unaffected and is temporarily immune for 1 day."
   - name: "Success"
-    desc: "As failure, but the creature takes half damage and is not [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]]."
+    desc: "As failure, but the creature takes half damage and is not [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]]."
   - name: "Failure"
     desc: "The creature takes 12d10 mental damage and is confused for 1 minute. It can attempt a new save at the end of each of its turns to end the confusion."
   - name: "Critical Failure"

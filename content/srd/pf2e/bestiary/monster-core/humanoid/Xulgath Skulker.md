@@ -28,10 +28,10 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; darkvision"
-languages: "[[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
+languages: "[[srd/pf2e/compendium/rules-elements/Languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/Languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] +8"
 abilityMods: [3, 4, 2, -1, 1, 0]
 abilities_top:
   - name: "Items"
@@ -46,24 +46,24 @@ health:
     desc: "28"
 abilities_mid:
   - name: "Stench"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/olfactory|olfactory]]) 30 feet, DC 16"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/Aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Olfactory|olfactory]]) 30 feet, DC 16"
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+3 piercing"
+    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+3 piercing"
   - name: "Melee"
     desc: "⬻ jaws +9 __Damage__ 1d6+3 piercing"
   - name: "Melee"
-    desc: "⬻ claw +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d4+3 slashing"
+    desc: "⬻ claw +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|Finesse]]) __Damage__ 1d4+3 slashing"
   - name: "Ranged"
-    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+3 piercing"
+    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile S]]) __Damage__ 1d4+3 piercing"
 abilities_bot:
   - name: "Hidden Movement"
-    desc: "If a xulgath skulker starts their turn [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] by a creature or merely [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] from it, that creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against the skulker's attacks until the end of the skulker's turn."
+    desc: "If a xulgath skulker starts their turn [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]] by a creature or merely [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] from it, that creature is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] against the skulker's attacks until the end of the skulker's turn."
   - name: "Mask Stench"
     desc: "⭓ The stalker masks their stench with curated herbs, suppressing their stench aura. The skulker can resume their stench aura as a free action."
   - name: "Sneak Attack"
-    desc: "A xulgath skulker deals an additional 1d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
+    desc: "A xulgath skulker deals an additional 1d6 precision damage to [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] creatures."
 sourcebook: "_Monster Core_, page 353."
 ```
 

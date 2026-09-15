@@ -1,6 +1,7 @@
 ---
 title: "Effects"
 aliases: ["Effects"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2377"
 citation: "Player Core pg. 426"
-socialImage: og-image.png
 ---
 
 # Effects
@@ -20,58 +20,58 @@ Anything you do in the game has an effect. Many of these outcomes are easy to ad
 
 Many spells, magic items, and feats create specific effects, and your character will be subject to effects caused by monsters, hazards, the environment, and other characters.
 
-Effects sometimes require checks, but not always. Casting a [[srd/pf2e/compendium/spells/rank-4/fly|fly]] spell on yourself creates an effect that allows you to soar through the air, but casting the spell does not require a check. Conversely, using the [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidate]] skill to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] a foe does require a check, and your result on that check determines the effect's outcome.
+Effects sometimes require checks, but not always. Casting a [[srd/pf2e/compendium/spells/rank-4/Fly|fly]] spell on yourself creates an effect that allows you to soar through the air, but casting the spell does not require a check. Conversely, using the [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidate]] skill to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] a foe does require a check, and your result on that check determines the effect's outcome.
 
 > [!pf2-sidebar] CONDITIONS
 >
 > Some effects apply conditions to a creature or item. These change your state of being in some way. Conditions are persistent, lasting until the stated duration ends, the condition is removed, or terms dictated in the condition cause it to end. Full rules appear in the [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|Conditions Appendix]].
 >
-> **[[srd/pf2e/compendium/rules-elements/conditions#Blinded|Blinded]]:** You're unable to see.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Broken|Broken]]:** This item can't be used for its normal function until repaired.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Clumsy|Clumsy]]:** You can't move as easily or gracefully as usual.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Concealed|Concealed]]:** Fog or similar obscuration makes you difficult to see and target.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Confused|Confused]]:** You attack indiscriminately.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Controlled|Controlled]]:** Another creature determines your actions.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Dazzled|Dazzled]]:** Everything is concealed to you.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Deafened|Deafened]]:** You're unable to hear.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Doomed|Doomed]]:** With your soul in peril, you are now closer to death.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Drained|Drained]]:** Blood loss or something similar has leached your vitality.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Dying|Dying]]:** You're slipping closer to death.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Encumbered|Encumbered]]:** You're carrying more weight than you can manage.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|Enfeebled]]:** Your strength has been sapped away.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Fascinated|Fascinated]]:** You are compelled to focus your attention on something.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Fatigued|Fatigued]]:** Your defenses are lower and you can't use exploration activities while traveling.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Fleeing|Fleeing]]:** You must run away.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Friendly|Friendly]]:** An NPC with this condition has a good attitude toward you.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Frightened|Frightened]]:** Fear makes you less capable of attacking and defending.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Grabbed|Grabbed]]:** A creature, object, or magic holds you in place.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Helpful|Helpful]]:** An NPC with this condition wants to assist you.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Hidden|Hidden]]:** A creature you're hidden from knows your location but can't see you.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Hostile|Hostile]]:** An NPC with this condition wants to harm you.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Immobilized|Immobilized]]:** You can't move.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Indifferent|Indifferent]]:** An NPC with this condition doesn't have a strong opinion about you.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Invisible|Invisible]]:** Creatures can't see you.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Observed|Observed]]:** You're in plain view.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|Off-Guard]]:** You're unable to defend yourself to your full capability.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|Paralyzed]]:** Your body is frozen in place.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|Persistent Damage]]:** You keep taking damage every round.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Petrified|Petrified]]:** You've been turned to stone.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Prone|Prone]]:** You're lying on the ground and easier to attack.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Quickened|Quickened]]:** You get an extra action each turn.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Restrained|Restrained]]:** You're tied up and can't move, or a grappling creature has you pinned.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Sickened|Sickened]]:** You're sick to your stomach.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Slowed|Slowed]]:** You lose actions each turn.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Stunned|Stunned]]:** You can't use actions.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Stupefied|Stupefied]]:** You can't access your full mental faculties, and you have trouble casting spells.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Unconscious|Unconscious]]:** You're asleep or knocked out.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Undetected|Undetected]]:** A creature you're undetected by doesn't know where you are.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Unfriendly|Unfriendly]]:** An NPC with this condition doesn't like you.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Unnoticed|Unnoticed]]:** A creature is entirely unaware you're present.
-> **[[srd/pf2e/compendium/rules-elements/conditions#Wounded|Wounded]]:** You've been brought back from the brink of death but haven't fully recovered
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Blinded|Blinded]]:** You're unable to see.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Broken|Broken]]:** This item can't be used for its normal function until repaired.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|Clumsy]]:** You can't move as easily or gracefully as usual.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Concealed|Concealed]]:** Fog or similar obscuration makes you difficult to see and target.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Confused|Confused]]:** You attack indiscriminately.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Controlled|Controlled]]:** Another creature determines your actions.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|Dazzled]]:** Everything is concealed to you.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Deafened|Deafened]]:** You're unable to hear.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Doomed|Doomed]]:** With your soul in peril, you are now closer to death.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Drained|Drained]]:** Blood loss or something similar has leached your vitality.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Dying|Dying]]:** You're slipping closer to death.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Encumbered|Encumbered]]:** You're carrying more weight than you can manage.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|Enfeebled]]:** Your strength has been sapped away.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Fascinated|Fascinated]]:** You are compelled to focus your attention on something.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|Fatigued]]:** Your defenses are lower and you can't use exploration activities while traveling.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Fleeing|Fleeing]]:** You must run away.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Friendly|Friendly]]:** An NPC with this condition has a good attitude toward you.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Frightened|Frightened]]:** Fear makes you less capable of attacking and defending.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|Grabbed]]:** A creature, object, or magic holds you in place.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Helpful|Helpful]]:** An NPC with this condition wants to assist you.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Hidden|Hidden]]:** A creature you're hidden from knows your location but can't see you.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Hostile|Hostile]]:** An NPC with this condition wants to harm you.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|Immobilized]]:** You can't move.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Indifferent|Indifferent]]:** An NPC with this condition doesn't have a strong opinion about you.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Invisible|Invisible]]:** Creatures can't see you.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Observed|Observed]]:** You're in plain view.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|Off-Guard]]:** You're unable to defend yourself to your full capability.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|Paralyzed]]:** Your body is frozen in place.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|Persistent Damage]]:** You keep taking damage every round.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Petrified|Petrified]]:** You've been turned to stone.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Prone|Prone]]:** You're lying on the ground and easier to attack.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Quickened|Quickened]]:** You get an extra action each turn.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Restrained|Restrained]]:** You're tied up and can't move, or a grappling creature has you [[srd/pf2e/compendium/rules-elements/Conditions|pinned]].
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Sickened|Sickened]]:** You're sick to your stomach.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Slowed|Slowed]]:** You lose actions each turn.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Stunned|Stunned]]:** You can't use actions.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|Stupefied]]:** You can't access your full mental faculties, and you have trouble casting spells.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|Unconscious]]:** You're asleep or knocked out.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Undetected|Undetected]]:** A creature you're undetected by doesn't know where you are.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Unfriendly|Unfriendly]]:** An NPC with this condition doesn't like you.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Unnoticed|Unnoticed]]:** A creature is entirely unaware you're present.
+> **[[srd/pf2e/compendium/rules-elements/Conditions#Wounded|Wounded]]:** You've been brought back from the brink of death but haven't fully recovered
 
 ## Duration
 
-Most effects are discrete, creating an instantaneous effect when you let the GM know what actions you are going to use. Firing a bow, moving to a new space, or taking something out of your pack all resolve instantly. Other effects instead last for a certain duration. Once the duration has elapsed, the effect ends. The rules generally use the following conventions for durations, though spells have some special [[srd/pf2e/books/player-core/chapter-7-spells/durations|durations]].
+Most effects are discrete, creating an instantaneous effect when you let the GM know what actions you are going to use. Firing a bow, moving to a new space, or taking something out of your pack all resolve instantly. Other effects instead last for a certain duration. Once the duration has elapsed, the effect ends. The rules generally use the following conventions for durations, though spells have some special [[srd/pf2e/books/player-core/chapter-7-spells/Durations|durations]].
 
 For an effect that lasts a number of rounds, the remaining duration decreases by 1 at the start of each turn of the creature that created the effect. Detrimental effects often last “until the end of the target's next turn” or “through” a number of their turns (such as “through the target's next 3 turns”), which means that the effect's duration decreases at the end of the creature's turn, rather than the start.
 
@@ -83,28 +83,28 @@ Some effects can be ended early with the [[srd/pf2e/compendium/rules-elements/ac
 
 Abilities that generate an effect typically work within a specified range or a reach. Most spells and abilities list a **range**—the maximum distance from the creature or object creating the effect in which the effect can occur.
 
-Ranged and [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown]] weapons have a **range increment**. Attacks with such weapons work normally up to that range. Attacks against targets beyond that range take a –2 penalty, which worsens by 2 for every additional multiple of that range, to a maximum of a –10 penalty after five additional range increments. Attacks beyond this range are not possible. For example, using a [[srd/pf2e/compendium/equipment/weapons/bow/shortbow|shortbow]], your attacks take no penalty against a target up to 60 feet away, a –2 penalty if a target is over 60 and up to 120 feet away, a –4 if they're over 120 and up to 180 feet away, and so on, up to a maximum of 360 feet.
+Ranged and [[srd/pf2e/compendium/rules-elements/traits/player-core/Thrown|thrown]] weapons have a **range increment**. Attacks with such weapons work normally up to that range. Attacks against targets beyond that range take a –2 penalty, which worsens by 2 for every additional multiple of that range, to a maximum of a –10 penalty after five additional range increments. Attacks beyond this range are not possible. For example, using a [[srd/pf2e/compendium/equipment/weapons/bow/Shortbow|shortbow]], your attacks take no penalty against a target up to 60 feet away, a –2 penalty if a target is over 60 and up to 120 feet away, a –4 if they're over 120 and up to 180 feet away, and so on, up to a maximum of 360 feet.
 
-**Reach** is how far you can physically reach with your body or a weapon. Melee Strikes rely on reach. Your reach is typically 5 feet, but weapons with the [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] trait can extend this. Larger creatures can have greater reach; for instance, an [[srd/pf2e/compendium/gm/creature-families/ogre|ogre]] has a 10-foot reach. Unlike with measuring most distances, 10-foot reach can reach 2 squares diagonally. Reach greater than 10 feet is measured normally: 20-foot reach can reach 3 squares diagonally, 30-foot reach can reach 4, and so on.
+**Reach** is how far you can physically reach with your body or a weapon. Melee Strikes rely on reach. Your reach is typically 5 feet, but weapons with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach|reach]] trait can extend this. Larger creatures can have greater reach; for instance, an [[srd/pf2e/compendium/gm/creature-families/Ogre|ogre]] has a 10-foot reach. Unlike with measuring most distances, 10-foot reach can reach 2 squares diagonally. Reach greater than 10 feet is measured normally: 20-foot reach can reach 3 squares diagonally, 30-foot reach can reach 4, and so on.
 
 ## Targets
 
 Some effects require you to choose specific targets. Targeting can be difficult or impossible if your chosen creature is undetected by you, if the creature doesn't match restrictions on who you can target, or if some other ability prevents it from being targeted.
 
-Some effects require a target to be willing. Only you can decide whether your PC is willing, and the GM decides whether an NPC is willing. Even if you or your character don't know what the effect is, such as if your character is [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], you still decide if you're willing.
+Some effects require a target to be willing. Only you can decide whether your PC is willing, and the GM decides whether an NPC is willing. Even if you or your character don't know what the effect is, such as if your character is [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]], you still decide if you're willing.
 
 Some effects target or require an ally, or otherwise refer to an ally. This must be someone on your side, often another PC, but it might be a bystander you are trying to protect. You don't count as your own ally. If it isn't clear, the GM decides who counts as an ally or an enemy.
 
 ## Areas
 
-Some effects occupy an area of a specified shape and size. An area effect always has a point of origin and extends out from that point. There are four types of areas: emanations, bursts, cones, and lines. See [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area|Area]] for details.
+Some effects occupy an area of a specified shape and size. An area effect always has a point of origin and extends out from that point. There are four types of areas: emanations, bursts, cones, and lines. See [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area|Area]] for details.
 
 ## Line of Effect
 
 When creating an effect, you usually need an unblocked path to the target of a spell, the origin point of an effect's area, or the place where you create something with a spell or other ability. This is called a line of effect. You have line of effect unless a creature is entirely behind a solid physical barrier. Visibility doesn't matter for line of effect, nor do portcullises and other barriers that aren't totally solid. Usually a 1-foot-square gap is enough to maintain a line of effect, though the GM makes the final call.
 
-In an area effect, creatures or targets must have line of effect to the point of origin to be affected. If there's no line of effect between the origin of the area and the target, the effect doesn't apply to that target. For example, if there's a solid wall between the origin of a [[srd/pf2e/compendium/spells/rank-3/fireball|fireball]] and a creature that's within the burst radius, the wall blocks the effect—that creature is unaffected by the fireball and doesn't need to attempt a save against it. Likewise, any ongoing effects created by an ability with an area cease to affect anyone who moves outside of the line of effect.
+In an area effect, creatures or targets must have line of effect to the point of origin to be affected. If there's no line of effect between the origin of the area and the target, the effect doesn't apply to that target. For example, if there's a solid wall between the origin of a [[srd/pf2e/compendium/spells/rank-3/Fireball|fireball]] and a creature that's within the burst radius, the wall blocks the effect—that creature is unaffected by the fireball and doesn't need to attempt a save against it. Likewise, any ongoing effects created by an ability with an area cease to affect anyone who moves outside of the line of effect.
 
 ## Line of Sight
 
-Some effects require you to have line of sight to your target. As long as you can precisely sense the area (as described in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Precise Senses|Precise Senses]]) and it is not blocked by a solid barrier (as described in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|Cover]]), you have line of sight. An area of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Darkness|darkness]] prevents line of sight if you don’t have [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Darkvision and Greater Darkvision|darkvision]], but portcullises and other obstacles that aren’t totally solid do not. Usually a 1-foot-square gap is enough to maintain line of sight, though the GM makes the final call.
+Some effects require you to have line of sight to your target. As long as you can precisely sense the area (as described in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Precise Senses|Precise Senses]]) and it is not blocked by a solid barrier (as described in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Cover|Cover]]), you have line of sight. An area of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Darkness|darkness]] prevents line of sight if you don’t have [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Darkvision and Greater Darkvision|darkvision]], but portcullises and other obstacles that aren’t totally solid do not. Usually a 1-foot-square gap is enough to maintain line of sight, though the GM makes the final call.

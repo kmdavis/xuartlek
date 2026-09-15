@@ -24,23 +24,23 @@ Strength or Constitution
 
 **Divine Sanctification** can choose unholy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/greatclub|Greatclub]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Greatclub|Greatclub]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/Domains#Indulgence|Indulgence]], [[srd/pf2e/compendium/character/Domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/Domains#Nothingness|Nothingness]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Dust|Dust]], [[srd/pf2e/compendium/character/domains#Travel|Travel]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Dust|Dust]], [[srd/pf2e/compendium/character/Domains#Travel|Travel]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/endure|Endure]]
+[[srd/pf2e/compendium/spells/rank-1/Endure|Endure]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/feast-of-ashes|Feast of Ashes]]
+[[srd/pf2e/compendium/spells/rank-2/Feast of Ashes|Feast of Ashes]]
 
 - **5th**
-[[srd/pf2e/compendium/spells/rank-5/acid-storm|Acid Storm]]
+[[srd/pf2e/compendium/spells/rank-5/Acid Storm|Acid Storm]]
 
 *Source: Divine Mysteries p. 320*

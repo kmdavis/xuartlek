@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Mythic`  `Stance`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/wildspell|Wildspell]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/wildspell-dedication|Wildspell Dedication]]
-- **Trigger**: You cast [[srd/pf2e/compendium/spells/focus/spellsurge|_spellsurge_]].
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Wildspell|Wildspell]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Wildspell Dedication|Wildspell Dedication]]
+- **Trigger**: You cast [[srd/pf2e/compendium/spells/focus/Spellsurge|_spellsurge_]].
 
 Your aura links your friends together with mystic strands. While you’re in this stance, an ally within your spellsurge aura can treat any other ally within the aura as the point of origin for a spell they cast, calculating range and cover from the other creature’s space instead of their own. This allows all allied creatures within your spellsurge aura to act as though they’re in touch range of each other since each creature is in touch range of itself. Additionally, while you’re in this stance, an ally casting a spell that targets only the caster can have that spell affect any other ally within your _spellsurge_ aura instead.
 

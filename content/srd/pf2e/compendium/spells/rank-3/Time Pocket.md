@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Traditions**: Arcane, Occult
-- **Deity**: [[srd/pf2e/compendium/deities/faiths-philosophies/esoteric-order-of-the-palatine-eye|Esoteric Order Of The Palatine Eye]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deity**: [[srd/pf2e/compendium/deities/faiths-philosophies/Esoteric Order Of The Palatine Eye|Esoteric Order Of The Palatine Eye]]
 - **Cast**: 1 minute
 - **Range**: touch
 - **Target**: one item of 1 Bulk or less that a willing creature is holding

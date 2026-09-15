@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Fighter`  `Stance`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/dual-weapon-warrior|Dual-Weapon Warrior]] (Level 18)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/twin-parry|Twin Parry]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Dual-Weapon Warrior|Dual-Weapon Warrior]] (Level 18)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Twin Parry|Twin Parry]]
 - **Requirements**: You are wielding two melee weapons, one in each hand
 
 You’re always ready to use your off-hand weapon to interfere with attacks against you. While you are in this stance, you constantly gain the benefits of the Twin Parry action.

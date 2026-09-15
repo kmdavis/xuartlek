@@ -16,15 +16,15 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Polymorph`
 
-- **Tradition**: Primal
-- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/isis|Isis]], [[srd/pf2e/compendium/deities/demon-lords/pazuzu|Pazuzu]], Zeaki
+- **Tradition**: [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/Isis|Isis]], [[srd/pf2e/compendium/deities/demon-lords/Pazuzu|Pazuzu]], Zeaki
 - **Cast**: 10 minutes
 - **Range**: 20 feet
 - **Target**: you and up to 5 willing creatures
 - **Duration**: 8 hours
 
-The targets naturally take on animal forms most fitting their movement and environment. Each target gains a land, burrow, climb, fly, and swim Speed of 40 feet, and can transform into a Tiny or Small [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] most appropriate for a given movement and environment. It also gains immunity to mild, severe, and extreme cold and heat, along with any other immunities common to the local wildlife, at the GM's discretion. In exploration mode, a target can move much faster, at a travel Speed of 20 miles per hour.
+The targets naturally take on animal forms most fitting their movement and environment. Each target gains a land, burrow, climb, fly, and swim Speed of 40 feet, and can transform into a Tiny or Small [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animal]] most appropriate for a given movement and environment. It also gains immunity to mild, severe, and extreme cold and heat, along with any other immunities common to the local wildlife, at the GM's discretion. In exploration mode, a target can move much faster, at a travel Speed of 20 miles per hour.
 
- A target can't Strike, cast spells, or use most [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] actions in animal form, but it can resume its normal shape by Sustaining the spell. It can Sustain the spell again to resume animal form.
+ A target can't Strike, cast spells, or use most [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]] actions in animal form, but it can resume its normal shape by Sustaining the spell. It can Sustain the spell again to resume animal form.
 
 *Source: Player Core p. 343*

@@ -14,14 +14,14 @@ socialImage: og-image.png
 
 `Sweep`
 
-- **Favored Weapon**: [[srd/pf2e/compendium/deities/demon-lords/haagenti|Haagenti]], Sekhmet
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/demon-lords/Haagenti|Haagenti]], Sekhmet
 - **Price**: 1 gp
 - **Damage**: 1d8 S
 - **Bulk**: 1
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Axe
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Axe|Axe]]
 
 These axes are designed explicitly as weapons, rather than tools. They typically weigh less, with a shaft reinforced with metal bands or bolts, and have a sharper blade, making them ideal for chopping limbs rather than wood.
 
@@ -31,6 +31,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Lumber Lord's Axe, [[srd/pf2e/compendium/equipment/weapons/ulfen-shieldbreaker|Ulfen Shieldbreaker]]
+Lumber Lord's Axe, [[srd/pf2e/compendium/equipment/weapons/Ulfen Shieldbreaker|Ulfen Shieldbreaker]]
 
 *Source: Player Core p. 278*

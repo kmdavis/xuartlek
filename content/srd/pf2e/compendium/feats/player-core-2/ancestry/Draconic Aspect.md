@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Dragonblood`
 
-You have an obvious draconic feature, such as sharp claws, a snout full of sharp teeth, or strong reptilian tail, that you can use offensively. You gain your choice of one of the following unarmed attacks. The attack is in the brawling group and has the listed damage die and traits. 
-**Claw** 1d4 slashing ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]])**Jaws** 1d6 piercing ([[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]])**Tail** 1d6 bludgeoning ([[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|sweep]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|trip]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]])
+You have an obvious draconic feature, such as sharp claws, a snout full of sharp teeth, or strong reptilian tail, that you can use offensively. You gain your choice of one of the following unarmed attacks. The attack is in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group and has the listed damage die and traits. 
+**Claw** 1d4 slashing ([[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]])**Jaws** 1d6 piercing ([[srd/pf2e/compendium/rules-elements/traits/player-core/Forceful|forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]])**Tail** 1d6 bludgeoning ([[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep|sweep]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|trip]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]])
 
 **Special** You can select this feat only at 1st level, and you can't retrain into or out of this feat, nor can you change the type of attack you gained.
 
 ### Draconic Aspect leads to...
 
-[[srd/pf2e/compendium/feats/player-core-2/ancestry/deadly-aspect|Deadly Aspect]], Tenacious Jaws
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Deadly Aspect|Deadly Aspect]], Tenacious Jaws
 
 *Source: Player Core 2 p. 46*

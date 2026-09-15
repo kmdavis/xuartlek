@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Archetype`  `Skill`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/trick-driver|Trick Driver]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/trick-driver-dedication|Trick Driver Dedication]]; Master in Driving Lore
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Trick Driver|Trick Driver]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Trick Driver Dedication|Trick Driver Dedication]]; Master in Driving Lore
 
-You can push your vehicle's performance beyond the limits envisioned by its makers. Whenever you succeed at a piloting check, the vehicle you are piloting gains a +5-foot circumstance bonus to all its Speeds until the end of your turn. If you critically succeed, this bonus increases to +10 feet.
+You can push your [[srd/pf2e/compendium/equipment/vehicles/vehicles|vehicle's]] performance beyond the limits envisioned by its makers. Whenever you succeed at a piloting check, the vehicle you are piloting gains a +5-foot circumstance bonus to all its Speeds until the end of your turn. If you critically succeed, this bonus increases to +10 feet.
 
 *Source: Guns & Gears (Remastered) p. 55*

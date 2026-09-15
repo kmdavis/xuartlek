@@ -14,9 +14,9 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/scout|Scout]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/scout-dedication|Scout Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Scout|Scout]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Scout Dedication|Scout Dedication]]
 
-You have mastered movement in many different environments. You gain the [[srd/pf2e/compendium/feats/player-core/skill/terrain-stalker|Terrain Stalker]] skill feat twice, choosing a different terrain each time. If you [[srd/pf2e/compendium/rules-elements/actions/player-core#Avoid Notice|Avoid Notice]] while exploring and any allies use [[srd/pf2e/compendium/rules-elements/actions/player-core#Follow the Expert|Follow the Expert]] to follow you as you do so, you can choose one of those allies to gain the benefit of any one Terrain Stalker feat you have.
+You have mastered movement in many different environments. You gain the [[srd/pf2e/compendium/feats/player-core/skill/Terrain Stalker|Terrain Stalker]] skill feat twice, choosing a different terrain each time. If you [[srd/pf2e/compendium/rules-elements/actions/player-core#Avoid Notice|Avoid Notice]] while exploring and any allies use [[srd/pf2e/compendium/rules-elements/actions/player-core#Follow the Expert|Follow the Expert]] to follow you as you do so, you can choose one of those allies to gain the benefit of any one Terrain Stalker feat you have.
 
 *Source: Player Core 2 p. 212*

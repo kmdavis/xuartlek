@@ -15,6 +15,8 @@ socialImage: og-image.png
 
 `Exemplar`  `Ikon`
 
+- **Usage**: imbued into a body ikon or worn ikon
+
 Small wings, flaming wheels, or another signifier of flight sprout from your ikon as it gains the power to lift you from the ground. Your ikon gains the following effects. 
 
 **Immanence** Your ikon keeps you hovering even without conscious effort. You can remain in the air at the end of this turn, even if you didn’t use a Fly action. 

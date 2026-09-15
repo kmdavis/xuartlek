@@ -14,6 +14,6 @@ These magnificent creatures hide beneath the surface of the calm lakes, flowing 
 
 ### Members
 
-[[srd/pf2e/bestiary/howl-of-the-wild/animal/fangtooth-school|Fangtooth School]] (Creature 3), [[srd/pf2e/bestiary/howl-of-the-wild/animal/giant-fangtooth|Giant Fangtooth]] (Creature 4), [[srd/pf2e/bestiary/howl-of-the-wild/animal/stonefish|Stonefish]] (Creature 0), [[srd/pf2e/bestiary/howl-of-the-wild/animal/stonefish-swarm|Stonefish Swarm]] (Creature 2), [[srd/pf2e/bestiary/howl-of-the-wild/animal/swordfish|Swordfish]] (Creature 3)
+[[srd/pf2e/bestiary/howl-of-the-wild/animal/Fangtooth School|Fangtooth School]] (Creature 3), [[srd/pf2e/bestiary/howl-of-the-wild/animal/Giant Fangtooth|Giant Fangtooth]] (Creature 4), [[srd/pf2e/bestiary/howl-of-the-wild/animal/Stonefish|Stonefish]] (Creature 0), [[srd/pf2e/bestiary/howl-of-the-wild/animal/Stonefish Swarm|Stonefish Swarm]] (Creature 2), [[srd/pf2e/bestiary/howl-of-the-wild/animal/Swordfish|Swordfish]] (Creature 3)
 
 *Source: Howl of the Wild p. 148*

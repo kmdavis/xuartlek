@@ -1,7 +1,7 @@
 ---
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/monster-core
+- compendium/src/pf2e/tian-xia-character-guide
 - trait/razing
 - trait/shove
 - trait/sweep
@@ -9,7 +9,7 @@ tags:
 - weapon/level/0
 aliases: ["Tetsubo"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=493"
-source: "Monster Core"
+source: "Tian Xia Character Guide"
 socialImage: og-image.png
 ---
 
@@ -25,7 +25,7 @@ socialImage: og-image.png
 - **Hands**: 2
 - **Type**: Melee
 - **Category**: Martial
-- **Group**: Club
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club|Club]]
 
 The tetsubo is a war club constructed out of heavy wood shod with iron studs, designed for smashing through armor and defenses. A tetsubo made entirely out of metal might also be referred to as a kanabo.
 
@@ -33,4 +33,4 @@ The tetsubo is a war club constructed out of heavy wood shod with iron studs, de
 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
 
-*Source: Monster Core p. 252*
+*Source: Tian Xia Character Guide p. 127*

@@ -20,6 +20,6 @@ As you explore your deity’s aspects, you move beyond restrictions on healing o
 
 ### Versatile Font leads to...
 
-[[srd/pf2e/compendium/feats/player-core/class/ebb-and-flow|Ebb and Flow]]
+[[srd/pf2e/compendium/feats/player-core/class/Ebb and Flow|Ebb and Flow]]
 
 *Source: Player Core p. 115*

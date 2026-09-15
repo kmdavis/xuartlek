@@ -14,6 +14,6 @@ socialImage: og-image.png
 
 `Inventor`
 
-You have created a construct companion, and while it might not be an innovation, it serves as a trustworthy [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]]. You gain a [[srd/pf2e/books/guns-gears-remastered/gears-characters/construct-companions#Prototype Construct Companions|prototype construct companion]].
+You have created a construct companion, and while it might not be an innovation, it serves as a trustworthy [[srd/pf2e/compendium/rules-elements/traits/player-core/Minion|minion]]. You gain a [[srd/pf2e/books/guns-gears-remastered/gears-characters/Construct Companions#Prototype Construct Companions|prototype construct companion]].
 
 *Source: Guns & Gears (Remastered) p. 25*

@@ -1,6 +1,7 @@
 ---
 title: "Themed Spell Lists"
 aliases: ["Themed Spell Lists"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3383"
 citation: "NPC Core pg. 220"
-socialImage: og-image.png
 ---
 
 # Themed Spell Lists
@@ -22,16 +22,16 @@ You can typically switch the spell list to a different tradition if it makes sen
 
 ## Contents
 
-- [[srd/pf2e/books/npc-core/themed-spell-lists/animalist|Animalist]]
-- [[srd/pf2e/books/npc-core/themed-spell-lists/conjurer|Conjurer]]
-- [[srd/pf2e/books/npc-core/themed-spell-lists/earthkeeper|Earthkeeper]]
-- [[srd/pf2e/books/npc-core/themed-spell-lists/eldritch-occultist|Eldritch Occultist]]
-- [[srd/pf2e/books/npc-core/themed-spell-lists/hierophant|Hierophant]]
-- [[srd/pf2e/books/npc-core/themed-spell-lists/magus|Magus]]
-- [[srd/pf2e/books/npc-core/themed-spell-lists/mentalist|Mentalist]]
-- [[srd/pf2e/books/npc-core/themed-spell-lists/necromancer|Necromancer]]
-- [[srd/pf2e/books/npc-core/themed-spell-lists/pyromancer|Pyromancer]]
-- [[srd/pf2e/books/npc-core/themed-spell-lists/stormcaller|Stormcaller]]
-- [[srd/pf2e/books/npc-core/themed-spell-lists/warder|Warder]]
-- [[srd/pf2e/books/npc-core/themed-spell-lists/warrior-of-faith|Warrior of Faith]]
-- [[srd/pf2e/books/npc-core/themed-spell-lists/war-mage|War Mage]]
+- [[srd/pf2e/books/npc-core/themed-spell-lists/Animalist|Animalist]]
+- [[srd/pf2e/books/npc-core/themed-spell-lists/Conjurer|Conjurer]]
+- [[srd/pf2e/books/npc-core/themed-spell-lists/Earthkeeper|Earthkeeper]]
+- [[srd/pf2e/books/npc-core/themed-spell-lists/Eldritch Occultist|Eldritch Occultist]]
+- [[srd/pf2e/books/npc-core/themed-spell-lists/Hierophant|Hierophant]]
+- [[srd/pf2e/books/npc-core/themed-spell-lists/Magus|Magus]]
+- [[srd/pf2e/books/npc-core/themed-spell-lists/Mentalist|Mentalist]]
+- [[srd/pf2e/books/npc-core/themed-spell-lists/Necromancer|Necromancer]]
+- [[srd/pf2e/books/npc-core/themed-spell-lists/Pyromancer|Pyromancer]]
+- [[srd/pf2e/books/npc-core/themed-spell-lists/Stormcaller|Stormcaller]]
+- [[srd/pf2e/books/npc-core/themed-spell-lists/Warder|Warder]]
+- [[srd/pf2e/books/npc-core/themed-spell-lists/Warrior of Faith|Warrior of Faith]]
+- [[srd/pf2e/books/npc-core/themed-spell-lists/War Mage|War Mage]]

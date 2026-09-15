@@ -45,14 +45,14 @@ The largest population of athamarus lives in the underwater nation of Xidao in T
 
 ### Alignment and Religion
 
-Due to their community-minded nature, athamarus tend to favor beliefs and philosophies that focus on connection and aiding others. They are also aware that they sometimes require protection from the dangers of the sea, so some athamarus take on the roles of staunch guardians or religious figures who plead for intercession from sympathetic gods. Worship within a single community tends to favor one deity, with multiple temples being rare. In the Inner Sea, athamaru settlements typically revere the nature god [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]] to strengthen their bonds with their surroundings or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/erastil|Erastil]] for guidance on forming healthy communities. In Tian Xia, the Duke of Thunder [[srd/pf2e/compendium/deities/tian-gods/hei-feng|Hei Feng's]] favor is sought as athamarus navigate fickle seasons and politics, while those athamarus who guard the seas against horrors from the deep pray to the triad war gods Srikalis, Sritaming, and Sribaril for unwavering strength.
+Due to their community-minded nature, athamarus tend to favor beliefs and philosophies that focus on connection and aiding others. They are also aware that they sometimes require protection from the dangers of the sea, so some athamarus take on the roles of staunch guardians or religious figures who plead for intercession from sympathetic gods. Worship within a single community tends to favor one deity, with multiple temples being rare. In the Inner Sea, athamaru settlements typically revere the nature god [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Gozreh|Gozreh]] to strengthen their bonds with their surroundings or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Erastil|Erastil]] for guidance on forming healthy communities. In Tian Xia, the Duke of Thunder [[srd/pf2e/compendium/deities/tian-gods/Hei Feng|Hei Feng's]] favor is sought as athamarus navigate fickle seasons and politics, while those athamarus who guard the seas against horrors from the deep pray to the triad war gods Srikalis, Sritaming, and Sribaril for unwavering strength.
 
  **Popular Edicts** seek out new experiences away from your place of birth, lead your community to a better future 
 **Popular Anathema** betray your community or otherwise knowingly do it harm
 
 ### Adventurers
 
-Athamarus are strongly motivated by community, and most who choose to leave their community to adventure have a good reason why. Many begin adventuring to protect their community or solve a particular problem, while others are thrust out into the wider world after a tragedy. The [[srd/pf2e/compendium/character/backgrounds#Animal Whisperer|animal whisperer]], [[srd/pf2e/compendium/character/backgrounds#Emissary|emissary]], and [[srd/pf2e/compendium/character/backgrounds#Sailor|sailor]] backgrounds complement athamarus well. Eel-mounted champions or rangers often serve as athamaru community protectors, and those who want to connect with others train as bards. Though athamaru spellcasters are typically rare, some use their strong relationship to the natural world to become druids.
+Athamarus are strongly motivated by community, and most who choose to leave their community to adventure have a good reason why. Many begin adventuring to protect their community or solve a particular problem, while others are thrust out into the wider world after a tragedy. The [[srd/pf2e/compendium/character/Backgrounds#Animal Whisperer|animal whisperer]], [[srd/pf2e/compendium/character/Backgrounds#Emissary|emissary]], and [[srd/pf2e/compendium/character/Backgrounds#Sailor|sailor]] backgrounds complement athamarus well. Eel-mounted champions or rangers often serve as athamaru community protectors, and those who want to connect with others train as bards. Though athamaru spellcasters are typically rare, some use their strong relationship to the natural world to become druids.
 
 ### Names
 
@@ -80,14 +80,14 @@ Athamaru names typically consist of three syllables. The first syllable is share
 
 #### Languages
 
-[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+[[srd/pf2e/compendium/rules-elements/Languages#Common|Common]]
 
-[[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]
+[[srd/pf2e/compendium/rules-elements/Languages#Thalassic|Thalassic]]
 
-Additional languages equal to your Intelligence modifier (if positive). Choose from Alghollthu, Azlanti, [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Tien|Tien]], and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if positive). Choose from Alghollthu, Azlanti, [[srd/pf2e/compendium/rules-elements/Languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/Languages#Tien|Tien]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 #### Low-Light Vision
 
-You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition due to dim light.
 
 *Source: Howl of the Wild p. 16*

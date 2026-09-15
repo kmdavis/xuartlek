@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 - **Class**: Rogue
 
-You gain expert proficiency in simple weapons, martial weapons, and unarmed attacks. When you critically succeed at an attack roll against an [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creature while using an [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]] weapon or an agile or finesse unarmed attack, you apply the critical specialization effect for that weapon or unarmed attack.
+You gain expert proficiency in simple weapons, martial weapons, and unarmed attacks. When you critically succeed at an attack roll against an [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] creature while using an [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]] weapon or an agile or finesse unarmed attack, you apply the critical specialization effect for that weapon or unarmed attack.
 
 *Source: Player Core p. 164*

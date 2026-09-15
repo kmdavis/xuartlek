@@ -17,14 +17,14 @@ socialImage: og-image.png
 
 `Concentrate`  `Extradimensional`  `Manipulate`  `Teleportation`
 
-- **Traditions**: Arcane, Occult
-- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]], [[srd/pf2e/compendium/character/bloodlines#Imperial|Imperial]]
-- **Deities**: Abrogail, [[srd/pf2e/compendium/deities/demon-lords/baphomet|Baphomet]], Brixori, Essence Dancers, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]], [[srd/pf2e/compendium/deities/coatl-tribunal/tolte-coatl|Tolte Coatl]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodlines**: [[srd/pf2e/compendium/character/Bloodlines#Hag|Hag]], [[srd/pf2e/compendium/character/Bloodlines#Imperial|Imperial]]
+- **Deities**: Abrogail, [[srd/pf2e/compendium/deities/demon-lords/Baphomet|Baphomet]], Brixori, Essence Dancers, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/Nethys|Nethys]], [[srd/pf2e/compendium/deities/coatl-tribunal/Tolte Coatl|Tolte Coatl]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: sustained
 
-You transport the target into an extraplanar puzzle room of mysterious origin, locking them there. Once each turn as a single action, the target can attempt an [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] check, Perception check, or [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] check against your spell DC to solve the puzzle. [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|Teleportation]] effects can't carry the target outside the puzzle room unless they can also traverse the planes, such as [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|_interplanar teleport_]]. When the spell ends, the target returns to the space it occupied when it was banished, or to the nearest space if the original is now filled.
+You transport the target into an extraplanar puzzle room of mysterious origin, locking them there. Once each turn as a single action, the target can attempt an [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]] check, Perception check, or [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] check against your spell DC to solve the puzzle. [[srd/pf2e/compendium/rules-elements/traits/player-core/Teleportation|Teleportation]] effects can't carry the target outside the puzzle room unless they can also traverse the planes, such as [[srd/pf2e/compendium/spells/rank-7/Interplanar Teleport|_interplanar teleport_]]. When the spell ends, the target returns to the space it occupied when it was banished, or to the nearest space if the original is now filled.
 
 **Critical Success** The target solves the puzzle and escapes.
 

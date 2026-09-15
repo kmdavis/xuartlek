@@ -20,6 +20,6 @@ When you apply antithetical material against a creature successfully, you also w
 
 ### Esoteric Warden leads to...
 
-[[srd/pf2e/compendium/feats/dark-archives-remastered/class/shared-warding|Shared Warding]]
+[[srd/pf2e/compendium/feats/dark-archives-remastered/class/Shared Warding|Shared Warding]]
 
 *Source: Dark Archives (Remastered) p. 42*

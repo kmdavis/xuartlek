@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 `Ranger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/wild-mimic|Wild Mimic]] (Level 4), [[srd/pf2e/compendium/character/archetypes/beastmaster|Beastmaster]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Wild Mimic|Wild Mimic]] (Level 4), [[srd/pf2e/compendium/character/archetypes/Beastmaster|Beastmaster]] (Level 4)
 
 You have a connection to the creatures of the natural world that allows you to communicate with them on a rudimentary level. You can use Diplomacy to Make an Impression on animals and to make very simple Requests of them. In most cases, wild animals will give you time to make your case.
 
 ### Animal Empathy (Ranger) leads to...
 
-[[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/wild-speech|Wild Speech]]
+[[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/Wild Speech|Wild Speech]]
 
 *Source: Player Core p. 158*

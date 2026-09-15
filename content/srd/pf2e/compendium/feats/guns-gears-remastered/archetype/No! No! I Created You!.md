@@ -18,9 +18,9 @@ socialImage: og-image.png
 
 - **Archetype**: Lepidstadt Surgeon (Level 6)
 - **Frequency**: once per minute
-- **Prerequisites**: construct companion
-- **Trigger**: Your construct companion would become [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] or [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]].
+- **Prerequisites**: [[srd/pf2e/books/guns-gears-remastered/gears-characters/Construct Companions|construct companion]]
+- **Trigger**: Your construct companion would become [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]] or [[srd/pf2e/compendium/rules-elements/Conditions#Controlled|controlled]].
 
-You appeal to your construct companion's bond with its creator to have it break free of a controlling effect. Attempt to counteract the effect that confused or controlled your construct companion, using your [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] modifier for the counteract check and half your level rounded up for the counteract level.
+You appeal to your construct companion's bond with its creator to have it break free of a controlling effect. Attempt to counteract the effect that confused or controlled your construct companion, using your [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] modifier for the counteract check and half your level rounded up for the counteract level.
 
 *Source: Guns & Gears (Remastered) p. 25*

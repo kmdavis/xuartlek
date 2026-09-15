@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `General`  `Skill`
 
-- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]]
 
 You can strong-arm people effectively, even when you don’t have them isolated. When you Coerce, you can compare your Intimidation check result to the Will DCs of up to five targets instead of one.
 

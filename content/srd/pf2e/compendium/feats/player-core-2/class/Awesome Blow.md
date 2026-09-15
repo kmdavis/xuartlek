@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Barbarian`  `Concentrate`  `Rage`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/knockback|Knockback]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/class/Knockback|Knockback]]
 
 Your attacks are so powerful, they can flatten your opponents. When you use Knockback, you can attempt an Athletics check against your target's Fortitude DC.
 

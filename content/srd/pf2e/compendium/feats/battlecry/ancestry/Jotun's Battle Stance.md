@@ -19,6 +19,6 @@ You emulate the battle stance of your forebears, allowing you to use mighty weap
 
 ### Jotun's Battle Stance leads to...
 
-[[srd/pf2e/compendium/feats/battlecry/ancestry/jotuns-heart|Jotun's Heart]]
+[[srd/pf2e/compendium/feats/battlecry/ancestry/Jotun's Heart|Jotun's Heart]]
 
 *Source: Battlecry! p. 13*

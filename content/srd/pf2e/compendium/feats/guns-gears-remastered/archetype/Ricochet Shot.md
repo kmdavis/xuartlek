@@ -15,12 +15,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Gunslinger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bullet-dancer|Bullet Dancer]] (Level 14)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Bullet Dancer|Bullet Dancer]] (Level 14)
 
 You bounce your shot off a nearby surface to strike your opponent from an unexpected angle. Attempt a Strike with a firearm or crossbow. When determining whether a target has cover from this Strike, you can choose one solid surface within your weapon’s first range increment to ricochet your shot off of. If you do, you determine the target’s cover from the point where you ricochet your shot instead of from you.
 
 ### Ricochet Shot leads to...
 
-[[srd/pf2e/compendium/feats/guns-gears-remastered/class/ricochet-master|Ricochet Master]]
+[[srd/pf2e/compendium/feats/guns-gears-remastered/class/Ricochet Master|Ricochet Master]]
 
 *Source: Guns & Gears (Remastered) p. 117*

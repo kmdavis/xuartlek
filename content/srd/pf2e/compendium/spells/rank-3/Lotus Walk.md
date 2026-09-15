@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
-- **Traditions**: Arcane, Divine, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Duration**: 1 minute
 
 Lotuses, water lilies, and other watery plants bloom at your feet, allowing you to walk on the surface of water and other liquids. You can go underwater if you wish, but in that case, you must Swim normally. As you Stride or Step on water, you leave a trail of oversized lily pads, lotus leaves, or spatterdock that fill the squares' surfaces in your wake. Each square of this trail can withstand the weight of 1 Medium creature and lasts until the end of your next turn. You can Dismiss this spell early.

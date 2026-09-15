@@ -17,11 +17,11 @@ socialImage: og-image.png
 
 `General`  `Secret`  `Skill`  `Uncommon`
 
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]
 
 You spread rumors, which may or may not be true, about a specific subject. If the subject of your rumor is not currently the subject of any contradictory rumors, this takes as long as it would normally take you to [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]] (typically 2 hours), at the end of which the GM rolls a secret Deception check against a DC they set to see how well you spread the rumor. If your rumor matches any current rumors about the subject, it takes less time to spread, and if you are attempting to overtake a particularly popular and contradictory rumor, it takes much longer or may be impossible. The DC similarly increases or decreases depending on how plausible your rumor is. For example, it might be harder to sow a rumor that the beloved, generous mayor is the head of a cult of murderous demon worshippers.
 
-**Critical Success** Your rumor spreads like wildfire. Anyone who succeeds at a check to Gather Information on the specific subject learns your rumor in preference to other rumors about the subject. Your rumor persists for 1 month. You gain a +2 circumstance bonus to Deception, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], and [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] checks in an appropriate situation when you invoke your rumor.
+**Critical Success** Your rumor spreads like wildfire. Anyone who succeeds at a check to Gather Information on the specific subject learns your rumor in preference to other rumors about the subject. Your rumor persists for 1 month. You gain a +2 circumstance bonus to Deception, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]], and [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] checks in an appropriate situation when you invoke your rumor.
 
 **Success** You successfully spread the rumor. Anyone who succeeds at a check to Gather Information on the specific subject adds your rumor to the list of rumors they could learn about the subject. Your rumor persists for 1 week. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks in an appropriate situation when you invoke your rumor.
 

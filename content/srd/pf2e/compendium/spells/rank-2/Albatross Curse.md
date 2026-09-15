@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Misfortune`
 
-- **Traditions**: Occult, Primal
+- **Traditions**: [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will
@@ -26,7 +26,7 @@ You create a spectral albatross, a guiding bird for sailors, to hover around the
 
 **Critical Success** The target is unaffected.
 
-**Success** The guilt of slaughtering a bird of good fortune weighs on the target’s mind. The target is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 for 1 round.
+**Success** The guilt of slaughtering a bird of good fortune weighs on the target’s mind. The target is [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] 1 for 1 round.
 
 **Failure** The albatross hangs around a cord from the target’s neck (or closest equivalent) for 1 minute, cursing them for their transgression. During this time, the target must roll twice and take the worse result on their next Will save, after which the albatross disappears.
 

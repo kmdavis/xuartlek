@@ -17,7 +17,7 @@ socialImage: og-image.png
 
 `Cantrip`  `Concentrate`  `Manipulate`  `Poison`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: 10 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude

@@ -1,6 +1,7 @@
 ---
 title: "Introduction"
 aliases: ["Introduction"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "Guns & Gears (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1587"
 citation: "Guns & Gears (Remastered) pg. 5"
-socialImage: og-image.png
 ---
 
 # Introduction
@@ -20,6 +20,6 @@ The Pathfinder Roleplaying Game features a high-fantasy setting where almost any
 
 ## Contents
 
-- [[srd/pf2e/books/guns-gears-remastered/introduction/gears-guns-or-both|Gears, Guns, or Both]]
-- [[srd/pf2e/books/guns-gears-remastered/introduction/how-to-use-this-book|How to Use this Book]]
-- [[srd/pf2e/books/guns-gears-remastered/introduction/world-building-and-tone|World-Building and Tone]]
+- [[srd/pf2e/books/guns-gears-remastered/introduction/Gears, Guns, or Both|Gears, Guns, or Both]]
+- [[srd/pf2e/books/guns-gears-remastered/introduction/How to Use this Book|How to Use this Book]]
+- [[srd/pf2e/books/guns-gears-remastered/introduction/World-Building and Tone|World-Building and Tone]]

@@ -18,7 +18,7 @@ socialImage: og-image.png
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 
-Vines twine around this wooden staff, carved with silhouettes of [[srd/pf2e/bestiary/monster-core/fey/pixie|pixies]] and [[srd/pf2e/compendium/gm/creature-families/nymph|nymphs]]. Some _fey staves_ have the symbol of an Eldest inlaid in silver on their surfaces. While wielding the staff, you gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] and [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks against creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]] trait. 
+Vines twine around this wooden staff, carved with silhouettes of [[srd/pf2e/bestiary/monster-core/fey/Pixie|pixies]] and [[srd/pf2e/compendium/gm/creature-families/Nymph|nymphs]]. Some _fey staves_ have the symbol of an Eldest inlaid in silver on their surfaces. While wielding the staff, you gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] and [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] checks against creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Fey|fey]] trait. 
 
 **Activate** Cast a Spell **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
@@ -30,7 +30,7 @@ Vines twine around this wooden staff, carved with silhouettes of [[srd/pf2e/best
 
 ---
 
-**Cantrip** [[srd/pf2e/compendium/spells/cantrips/detect-magic|_detect magic_]]**1st** [[srd/pf2e/compendium/spells/rank-1/charm|_charm_]], [[srd/pf2e/compendium/spells/rank-1/summon-fey|_summon fey_]]**2nd** [[srd/pf2e/compendium/spells/rank-2/entangling-flora|_entangling flora_]], [[srd/pf2e/compendium/spells/rank-2/mist|_mist_]], _summon fey_
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/Detect Magic|_detect magic_]]**1st** [[srd/pf2e/compendium/spells/rank-1/Charm|_charm_]], [[srd/pf2e/compendium/spells/rank-1/Summon Fey|_summon fey_]]**2nd** [[srd/pf2e/compendium/spells/rank-2/Entangling Flora|_entangling flora_]], [[srd/pf2e/compendium/spells/rank-2/Mist|_mist_]], _summon fey_
 
 ### Greater Fey Staff
 
@@ -38,7 +38,7 @@ Vines twine around this wooden staff, carved with silhouettes of [[srd/pf2e/best
 
 ---
 
-**3rd** [[srd/pf2e/compendium/spells/rank-3/speak-with-plants|_speak with plants_]], _summon fey_, [[srd/pf2e/compendium/spells/rank-3/threefold-aspect|_threefold aspect_]]**4th** [[srd/pf2e/compendium/spells/rank-4/bestial-curse|_bestial curse_]], [[srd/pf2e/compendium/spells/rank-4/fey-form|_fey form_]], _summon fey_
+**3rd** [[srd/pf2e/compendium/spells/rank-3/Speak with Plants|_speak with plants_]], _summon fey_, [[srd/pf2e/compendium/spells/rank-3/Threefold Aspect|_threefold aspect_]]**4th** [[srd/pf2e/compendium/spells/rank-4/Bestial Curse|_bestial curse_]], [[srd/pf2e/compendium/spells/rank-4/Fey Form|_fey form_]], _summon fey_
 
 ### Major Fey Staff
 
@@ -46,6 +46,6 @@ Vines twine around this wooden staff, carved with silhouettes of [[srd/pf2e/best
 
 ---
 
-**5th** [[srd/pf2e/compendium/spells/rank-5/incarnate-faerie-revelers|_incarnate faerie revelers_]], _summon fey_, [[srd/pf2e/compendium/spells/rank-5/tree-of-life-and-death|_tree of life and death_]]**6th** _summon fey_, [[srd/pf2e/compendium/spells/rank-6/tree-of-seasons|_tree of seasons_]]
+**5th** [[srd/pf2e/compendium/spells/rank-5/Incarnate Faerie Revelers|_incarnate faerie revelers_]], _summon fey_, [[srd/pf2e/compendium/spells/rank-5/Tree of Life and Death|_tree of life and death_]]**6th** _summon fey_, [[srd/pf2e/compendium/spells/rank-6/Tree of Seasons|_tree of seasons_]]
 
 *Source: Impossible Magic p. 238*

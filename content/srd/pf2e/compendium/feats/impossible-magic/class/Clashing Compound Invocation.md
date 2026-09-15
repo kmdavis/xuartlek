@@ -15,9 +15,9 @@ socialImage: og-image.png
 
 `Invocation`  `Runesmith`
 
-As you invoke runes from disparate traditions of magic, their diametrically opposed effects repel each other in a destructive backlash. You [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Invoke Rune|Invoke two Runes]], which must be from opposed traditions of magic; either 1 [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]] and 1 [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] rune, or 1 [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]] and 1 [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]] rune. In addition to the runes’ normal effects, one creature within 30 feet of both invoked runes must also attempt a Fortitude saving throw as destructive magical harmonics clash.
+As you invoke runes from disparate traditions of magic, their diametrically opposed effects repel each other in a destructive backlash. You [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Invoke Rune|Invoke two Runes]], which must be from opposed traditions of magic; either 1 [[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]] and 1 [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]] rune, or 1 [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]] and 1 [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]] rune. In addition to the runes’ normal effects, one creature within 30 feet of both invoked runes must also attempt a Fortitude saving throw as destructive magical harmonics clash.
 
-**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1, but if it spends a single action attempting to recover, it automatically succeeds.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] 1, but if it spends a single action attempting to recover, it automatically succeeds.
 
 **Failure** The target is sickened 1.
 

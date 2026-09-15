@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Barbarian`  `Rage`
 
-You rush forward. Stride up to five times, or up to eight times if you used 3 actions. All this movement must be in a straight line (though the GM might allow reasonable variance). You can replace any of these Strides with a [[srd/pf2e/compendium/rules-elements/actions/player-core#Balance|Balance]] action if you need to, which you attempt using an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check instead of an [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] check, using the same DC.
+You rush forward. Stride up to five times, or up to eight times if you used 3 actions. All this movement must be in a straight line (though the GM might allow reasonable variance). You can replace any of these Strides with a [[srd/pf2e/compendium/rules-elements/actions/player-core#Balance|Balance]] action if you need to, which you attempt using an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check instead of an [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] check, using the same DC.
 
 *Source: Player Core 2 p. 81*

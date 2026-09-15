@@ -14,6 +14,6 @@ Few avian creatures can match the beauty and grace of the eagle.
 
 ### Members
 
-[[srd/pf2e/bestiary/monster-core/animal/eagle|Eagle]] (Creature -1), [[srd/pf2e/bestiary/monster-core/beast/giant-eagle|Giant Eagle]] (Creature 3)
+[[srd/pf2e/bestiary/monster-core/animal/Eagle|Eagle]] (Creature -1), [[srd/pf2e/bestiary/monster-core/beast/Giant Eagle|Giant Eagle]] (Creature 3)
 
 *Source: Monster Core p. 137*

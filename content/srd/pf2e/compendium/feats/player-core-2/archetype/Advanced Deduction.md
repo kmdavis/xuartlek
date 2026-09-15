@@ -14,10 +14,10 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/investigator|Investigator]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/basic-deduction|Basic Deduction]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Investigator|Investigator]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Basic Deduction|Basic Deduction]]
 
-You gain one investigator feat. For the purpose of meeting its prerequisites, your investigator level is equal to half your character level.
+You gain one [investigator feat](https://2e.aonprd.com/Feats.aspx?Traits=318). For the purpose of meeting its prerequisites, your investigator level is equal to half your character level.
 
 **Special** You can select this feat more than once. Each time you select it, you gain another investigator feat.
 

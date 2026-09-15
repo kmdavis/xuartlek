@@ -1,0 +1,33 @@
+---
+cssclasses: pf2e,pf2e-hazard
+tags:
+- compendium/src/pf2e/gm-core
+- trait/complex
+- trait/magical
+- trait/trap
+- hazard/level/1
+aliases: ["Summoning Rune"]
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=495"
+source: "GM Core"
+socialImage: og-image.png
+---
+
+# Summoning Rune  *Hazard 1*
+
+`Complex`  `Magical`  `Trap`
+
+- **Complexity**: Complex A cloud of invisible magical sensors in a 10-foot radius surrounds an invisible wall or floor rune the size of the creature to be summoned.
+
+**Stealth**
++7 (trained)
+
+**Disable**
+DC 15 [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] to approach without triggering the trap followed by DC 17 [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] (trained) to erase the rune, or [[srd/pf2e/compendium/spells/rank-2/Dispel Magic|_dispel magic_]] (1st rank; [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions#Counteracting|counteract]] DC 15) to counteract the rune
+
+**Summon Monster** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]]) **Trigger** A creature enters the cloud of magical sensors; **Effect** This trap summons a specific 1st-level creature, determined when the trap is created. The creature rolls initiative and remains for 2d6 rounds, after which the spell ends and the creature disappears. The creature also disappears if someone disables the trap before the duration expires. The summoned creature can use 3 actions each round and can use reactions, unlike most summoned creatures.
+
+---
+**Reset**
+The trap resets each day at dawn.
+
+*Source: GM Core p. 108*

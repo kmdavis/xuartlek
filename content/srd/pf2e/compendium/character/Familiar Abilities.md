@@ -4,9 +4,10 @@ tags:
 - compendium/src/pf2e/player-core
 - compendium/src/pf2e/player-core-2
 - compendium/src/pf2e/rage-of-elements
+- compendium/src/pf2e/tian-xia-character-guide
 - compendium/src/pf2e/treasure-vault-remastered
 aliases: ["Familiar Abilities"]
-entries: 73
+entries: 85
 socialImage: og-image.png
 ---
 
@@ -16,7 +17,7 @@ socialImage: og-image.png
 
 - **Ability Type**: Master
 
-Your familiar can transform into a mark you carry on your flesh, typically seeming like a birthmark, tattoo, or gem that vaguely resembles its normal form. When transformed, the familiar can't act except to turn back into a familiar. It isn't affected by area effects and must be targeted separately to affect it, which requires knowledge that it's a creature. This means you and your allies can heal or assist the familiar while most enemies stay unaware of its true nature. Creatures must attempt a DC 20 Perception check to Seek to realize a it is actually a familiar. Your familiar can still communicate its feelings empathically. Transforming the familiar between forms is a 1-minute activity that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait.
+Your familiar can transform into a mark you carry on your flesh, typically seeming like a birthmark, tattoo, or gem that vaguely resembles its normal form. When transformed, the familiar can't act except to turn back into a familiar. It isn't affected by area effects and must be targeted separately to affect it, which requires knowledge that it's a creature. This means you and your allies can heal or assist the familiar while most enemies stay unaware of its true nature. Creatures must attempt a DC 20 Perception check to Seek to realize a it is actually a familiar. Your familiar can still communicate its feelings empathically. Transforming the familiar between forms is a 1-minute activity that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] trait.
 
 *Source: Player Core p. 214*
 
@@ -24,7 +25,7 @@ Your familiar can transform into a mark you carry on your flesh, typically seemi
 
 - **Ability Type**: Familiar
 
-Your familiar helps you perform. Whenever you attempt a [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check, if your familiar is nearby and can act, it accompanies you with chirps, claps, or its own miniature instrument. This grants you a +1 circumstance bonus, or +2 if you're a master in Performance.
+Your familiar helps you perform. Whenever you attempt a [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] check, if your familiar is nearby and can act, it accompanies you with chirps, claps, or its own miniature instrument. This grants you a +1 circumstance bonus, or +2 if you're a master in Performance.
 
 *Source: Player Core p. 212*
 
@@ -40,7 +41,7 @@ Your aeon wyrd can house any aeon stone as a powerfully resonant nucleus that ho
 
 - **Ability Type**: Familiar
 
-Your familiar can act as a [[srd/pf2e/compendium/equipment/alchemical-items/bomb-coagulant-alembic|bomb coagulant alembic]] by swallowing the bomb to be affected, which takes two Interact actions from it and one from you. Your familiar regurgitates the concentrated item 1 minute later. If your familiar tries to distill a bomb that's level is higher than your own —1, it instead takes damage as though it were successfully struck with the bomb.
+Your familiar can act as a [[srd/pf2e/compendium/equipment/alchemical-items/Bomb Coagulant Alembic|bomb coagulant alembic]] by swallowing the bomb to be affected, which takes two Interact actions from it and one from you. Your familiar regurgitates the concentrated item 1 minute later. If your familiar tries to distill a bomb that's level is higher than your own —1, it instead takes damage as though it were successfully struck with the bomb.
 
 *Source: Treasure Vault (Remastered) p. 51*
 
@@ -48,7 +49,7 @@ Your familiar can act as a [[srd/pf2e/compendium/equipment/alchemical-items/bomb
 
 - **Ability Type**: Familiar
 
-Your familiar gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/amphibious|amphibious]] trait, allowing it to breathe in both air and water, and has both a land Speed and a swim Speed, each equal to its highest land Speed or swim Speed.
+Your familiar gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Amphibious|amphibious]] trait, allowing it to breathe in both air and water, and has both a land Speed and a swim Speed, each equal to its highest land Speed or swim Speed.
 
 *Source: Player Core p. 259*
 
@@ -56,7 +57,7 @@ Your familiar gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/
 
 - **Ability Type**: Specific Familiar - Homunculus
 
-([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) A homunculus is telepathically linked to its creator using their shared blood as a conduit, allowing it to share information back and forth at a range of 1,500 feet, including its master’s knowledge and everything the homunculus hears. If you become unconscious and dying, your homunculus senses the waning power in your blood, allowing it to automatically act on the next turn as if you Commanded it. If the homunculus is destroyed, the master takes 2d10 mental damage.
+([[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]]) A homunculus is telepathically linked to its creator using their shared blood as a conduit, allowing it to share information back and forth at a range of 1,500 feet, including its master’s knowledge and everything the homunculus hears. If you become unconscious and dying, your homunculus senses the waning power in your blood, allowing it to automatically act on the next turn as if you Commanded it. If the homunculus is destroyed, the master takes 2d10 mental damage.
 
 *Source: Player Core 2 p. 171*
 
@@ -80,7 +81,7 @@ Your aeon wyrd has no land Speed.
 
 - **Ability Type**: Master
 
-You can prepare an additional [[srd/pf2e/compendium/rules-elements/traits/player-core/cantrip|cantrip]] or, if you have a repertoire, designate a cantrip to add to your repertoire every time you select this ability; you can retrain it but can't otherwise change it. You must be able to prepare cantrips or add them to your repertoire to select this.
+You can prepare an additional [[srd/pf2e/compendium/rules-elements/traits/player-core/Cantrip|cantrip]] or, if you have a repertoire, designate a cantrip to add to your repertoire every time you select this ability; you can retrain it but can't otherwise change it. You must be able to prepare cantrips or add them to your repertoire to select this.
 
 *Source: Player Core p. 214*
 
@@ -96,7 +97,7 @@ Your familiar gains a climb Speed of 25 feet.
 
 - **Ability Type**: Familiar
 
-Your familiar has the [[srd/pf2e/compendium/rules-elements/traits/player-core/construct|construct]] trait instead of the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] trait. The familiar is immune to [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]. Your familiar must have the tough pet ability to select this.
+Your familiar has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Construct|construct]] trait instead of the [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animal]] trait. The familiar is immune to [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]], [[srd/pf2e/compendium/rules-elements/Conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/Conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal|nonlethal]] attacks, [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]], [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Vitality|vitality]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]]. Your familiar must have the tough pet ability to select this.
 
 *Source: Player Core p. 212*
 
@@ -132,11 +133,21 @@ Your familiar gains darkvision.
 
 *Source: Player Core p. 259*
 
+## Dazzling Show
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+
+- **Ability Type**: Specific Familiar - Kinnars
+
+Your kinnara flashes his brilliant feathers. Each creature within a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] must attempt a Will save against your class DC or spell DC, whichever is higher, or be [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] for 2 rounds.
+
+*Source: Tian Xia Character Guide p. 124*
+
 ## Dragon
 
 - **Ability Type**: Familiar
 
-Your familiar has the [[srd/pf2e/compendium/rules-elements/traits/player-core/dragon|dragon]] trait instead of the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] trait.
+Your familiar has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Dragon|dragon]] trait instead of the [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animal]] trait.
 
 *Source: Player Core p. 212*
 
@@ -152,7 +163,7 @@ Your familiar can use hearing as a precise sense within 20 feet.
 
 - **Ability Type**: Familiar
 
-Your familiar has the [[srd/pf2e/compendium/rules-elements/traits/player-core/elemental|elemental]] trait instead of the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] trait. Choose [[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]], [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/metal|metal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|wood]]. Your familiar gains that trait. The familiar is immune to bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]], and the element matching its trait. Your familiar must have the resistance familiar ability to select this.
+Your familiar has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Elemental|elemental]] trait instead of the [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animal]] trait. Choose [[srd/pf2e/compendium/rules-elements/traits/player-core/Air|air]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Earth|earth]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Metal|metal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Water|water]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Wood|wood]]. Your familiar gains that trait. The familiar is immune to bleed, [[srd/pf2e/compendium/rules-elements/Conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Sleep|sleep]], and the element matching its trait. Your familiar must have the resistance familiar ability to select this.
 
 *Source: Player Core p. 212*
 
@@ -170,7 +181,7 @@ The scamp breathes elemental matter in a 10-foot cone. Each creature in the area
 
 - **Ability Type**: Specific Familiar - Gennayn
 
-A gennayn's modifier for [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] is equal to your level plus your key spellcasting attribute modifier, rather than just your level. The gennayn gets a +1 circumstance bonus to Diplomacy checks against elementals and grants you the same bonus if you're in the same space.
+A gennayn's modifier for [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] is equal to your level plus your key spellcasting attribute modifier, rather than just your level. The gennayn gets a +1 circumstance bonus to Diplomacy checks against elementals and grants you the same bonus if you're in the same space.
 
 *Source: Rage of Elements p. 43*
 
@@ -178,7 +189,7 @@ A gennayn's modifier for [[srd/pf2e/compendium/rules-elements/skills/diplomacy|D
 
 - **Ability Type**: Specific Familiar - Elemental Wisp
 
-Your wisp gains a familiar ability depending on its element. Air wisps gain flier, earth wisps gain burrower, fire wisps gain [[srd/pf2e/compendium/character/familiar-abilities#Jet|jet]], metal wisps gain [[srd/pf2e/compendium/character/familiar-abilities#Levitator|levitator]], water wisps gain amphibious, and wood wisps gain climber.
+Your wisp gains a familiar ability depending on its element. Air wisps gain flier, earth wisps gain burrower, fire wisps gain [[srd/pf2e/compendium/character/Familiar Abilities#Jet|jet]], metal wisps gain [[srd/pf2e/compendium/character/Familiar Abilities#Levitator|levitator]], water wisps gain amphibious, and wood wisps gain climber.
 
 *Source: Rage of Elements p. 43*
 
@@ -186,7 +197,7 @@ Your wisp gains a familiar ability depending on its element. Air wisps gain flie
 
 - **Ability Type**: Specific Familiar - Gennayn
 
-Your gennayn gains a familiar ability depending on its element. Air gennayns gain flier, earth gennayns gain burrower, fire gennayns gain [[srd/pf2e/compendium/character/familiar-abilities#Jet|jet]], metal gennayns gain [[srd/pf2e/compendium/character/familiar-abilities#Levitator|levitator]], water gennayns gain amphibious, and wood gennayns gain climber.
+Your gennayn gains a familiar ability depending on its element. Air gennayns gain flier, earth gennayns gain burrower, fire gennayns gain [[srd/pf2e/compendium/character/Familiar Abilities#Jet|jet]], metal gennayns gain [[srd/pf2e/compendium/character/Familiar Abilities#Levitator|levitator]], water gennayns gain amphibious, and wood gennayns gain climber.
 
 *Source: Rage of Elements p. 43*
 
@@ -194,7 +205,7 @@ Your gennayn gains a familiar ability depending on its element. Air gennayns gai
 
 - **Ability Type**: Specific Familiar - Elemental Scamp
 
-Your scamp gains a familiar ability depending on its element. Air scamps gain flier, earth scamps gain burrower, fire scamps gain [[srd/pf2e/compendium/character/familiar-abilities#Jet|jet]], metal scamps gain [[srd/pf2e/compendium/character/familiar-abilities#Levitator|levitator]], water scamps gain amphibious, and wood scamps gain climber.
+Your scamp gains a familiar ability depending on its element. Air scamps gain flier, earth scamps gain burrower, fire scamps gain [[srd/pf2e/compendium/character/Familiar Abilities#Jet|jet]], metal scamps gain [[srd/pf2e/compendium/character/Familiar Abilities#Levitator|levitator]], water scamps gain amphibious, and wood scamps gain climber.
 
 *Source: Rage of Elements p. 43*
 
@@ -204,7 +215,7 @@ Your scamp gains a familiar ability depending on its element. Air scamps gain fl
 
 - **Ability Type**: Specific Familiar - Mood Cloud
 
-The cloud of sentiment changes the expression on its miniature face. It prepares to Aid you on a skill check for a skill matching its expression: [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] for an inscrutable expression, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] for a friendly expression, or [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] for an angry expression. It gains a reaction this round, which it can use only to Aid you in this way. It automatically succeeds at its check to Aid you with the skill or automatically critically succeeds if you're a master of the skill in question.
+The cloud of sentiment changes the expression on its miniature face. It prepares to Aid you on a skill check for a skill matching its expression: [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] for an inscrutable expression, [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] for a friendly expression, or [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] for an angry expression. It gains a reaction this round, which it can use only to Aid you in this way. It automatically succeeds at its check to Aid you with the skill or automatically critically succeeds if you're a master of the skill in question.
 
 *Source: Rage of Elements p. 42*
 
@@ -214,7 +225,7 @@ The cloud of sentiment changes the expression on its miniature face. It prepares
 
 - **Ability Type**: Specific Familiar - Fey Dragonet
 
-([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]) The fey dragonet breathes euphoric gas in a 10-foot cone. Each creature in the area must attempt a Fortitude save against your class DC or spell DC, whichever is higher. A creature that fails its save is stupefied 2 and slowed 1 for 1d4 rounds; on a critical failure, the duration is 1 minute.
+([[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]]) The fey dragonet breathes euphoric gas in a 10-foot cone. Each creature in the area must attempt a Fortitude save against your class DC or spell DC, whichever is higher. A creature that fails its save is stupefied 2 and slowed 1 for 1d4 rounds; on a critical failure, the duration is 1 minute.
 
 *Source: Player Core 2 p. 170*
 
@@ -238,7 +249,7 @@ Your familiar accretes alchemical liquids in its body. Once per day, you can Int
 
 - **Ability Type**: Master
 
-Once per day, your familiar can use 2 actions with the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait to restore 1 Focus Point to your focus pool, up to your usual maximum. You must have a focus pool to select this.
+Once per day, your familiar can use 2 actions with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] trait to restore 1 Focus Point to your focus pool, up to your usual maximum. You must have a focus pool to select this.
 
 *Source: Player Core p. 214*
 
@@ -256,7 +267,7 @@ Increase one of your familiar's Speeds from 25 feet to 40 feet.
 
 - **Ability Type**: Specific Familiar - Imp
 
-([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]) The imp offers a non-fiend within 15 feet a bargain, granting a boon of good luck if the creature accepts. The boon lasts for 1 hour once accepted. Once during the hour, the creature can roll an attack roll or saving throw twice and use the higher result. If the creature dies while the boon is in place, the imp decides where the creature’s soul travels. This typically makes the soul bound for eternity in the imp’s home plane, and the creature is unable to be raised or resurrected except by the wish ritual or similar magic.
+([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]]) The imp offers a non-fiend within 15 feet a bargain, granting a boon of good luck if the creature accepts. The boon lasts for 1 hour once accepted. Once during the hour, the creature can roll an attack roll or saving throw twice and use the higher result. If the creature dies while the boon is in place, the imp decides where the creature’s soul travels. This typically makes the soul bound for eternity in the imp’s home plane, and the creature is unable to be raised or resurrected except by the wish ritual or similar magic.
 
 *Source: Player Core 2 p. 171*
 
@@ -267,6 +278,14 @@ Increase one of your familiar's Speeds from 25 feet to 40 feet.
 Your poppet’s components make it particularly vulnerable to fire. It gains weakness to fire equal to your level. You can use one familiar ability to reinforce the poppet’s construction, removing this weakness for the day.
 
 *Source: Player Core 2 p. 171*
+
+## Flatten
+
+- **Ability Type**: Specific Familiar - Shikigami
+
+Your familiar can flatten itself to the width of a sheet of paper, easily fitting through the smallest of cracks and gaps. So long as a door or other obstacle has a gap that can fit a sheet of paper, your familiar can move through it without needing to [[srd/pf2e/compendium/rules-elements/actions/player-core#Squeeze|Squeeze]].
+
+*Source: Tian Xia Character Guide p. 125*
 
 ## Flier
 
@@ -288,7 +307,7 @@ When you Refocus, you generate magical energy that heals your familiar. Your fam
 
 - **Ability Type**: Familiar
 
-Your familiar has the [[srd/pf2e/compendium/rules-elements/traits/player-core/fungus|fungus]] trait instead of the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] trait.
+Your familiar has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Fungus|fungus]] trait instead of the [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animal]] trait.
 
 *Source: Player Core p. 212*
 
@@ -328,7 +347,7 @@ Once per day, you can draw upon your familiar's innate magic to replenish your o
 
 - **Ability Type**: Familiar
 
-If your familiar is adjacent to you, you can Command it to deliver an item. Instead of its normal 2 actions, your familiar Interacts to take an item you’re holding of light Bulk or less, then takes one move action, then finally Interacts to pass off the item to another willing creature. It can instead administer the item to the creature if it can do so with 1 action and has an appropriate type of item (such as alchemical elixir). If your familiar doesn’t reach the target this turn, it holds the item until commanded otherwise. Your familiar must have the [[srd/pf2e/compendium/character/familiar-abilities#Manual Dexterity|manual dexterity]] 
+If your familiar is adjacent to you, you can Command it to deliver an item. Instead of its normal 2 actions, your familiar Interacts to take an item you’re holding of light Bulk or less, then takes one move action, then finally Interacts to pass off the item to another willing creature. It can instead administer the item to the creature if it can do so with 1 action and has an appropriate type of item (such as alchemical elixir). If your familiar doesn’t reach the target this turn, it holds the item until commanded otherwise. Your familiar must have the [[srd/pf2e/compendium/character/Familiar Abilities#Manual Dexterity|manual dexterity]] 
 ability to select this.
 
 *Source: Player Core 2 p. 170*
@@ -340,6 +359,14 @@ ability to select this.
 Your familiar can use bursts of elemental energy or magic to Leap up to 30 feet in any direction, even if that would exceed its normal maximum distance for leaping. The Leap must begin and end on a solid surface capable of supporting the familiar.
 
 *Source: Rage of Elements p. 42*
+
+## Kindling
+
+- **Ability Type**: Master
+
+You can immolate your familiar’s body for a surge of power. Once per day as a free action, when you [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] trait, deals damage, and doesn’t have a duration, you can sacrifice your familiar to empower the spell. Your familiar is immediately slain, and you gain a status bonus to that spell’s damage equal to twice the spell level.
+
+*Source: Tian Xia Character Guide p. 124*
 
 ## Kinspeech
 
@@ -361,7 +388,7 @@ Using magnetism, magic, or other forces, your familiar can float up to 3 feet ab
 
 - **Ability Type**: Master
 
-If your familiar would be reduced to 0 HP by damage, as a reaction with the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait, you can take all the damage, and your familiar takes none. However, special effects that would occur due to that damage (such as snake venom) still apply.
+If your familiar would be reduced to 0 HP by damage, as a reaction with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] trait, you can take all the damage, and your familiar takes none. However, special effects that would occur due to that damage (such as snake venom) still apply.
 
 *Source: Player Core p. 214*
 
@@ -395,15 +422,23 @@ Your familiar increases the resistance it gains from its resistance familiar abi
 
 - **Ability Type**: Familiar
 
-Your familiar can use up to two of its limbs as if they were hands to perform [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] actions.
+Your familiar can use up to two of its limbs as if they were hands to perform [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]] actions.
 
 *Source: Player Core p. 259*
+
+## Mass-Produced
+
+- **Ability Type**: Specific Familiar - Shikigami
+
+If your shikigami dies, you can rebind its spirit to another paper doll during your next daily preparations.
+
+*Source: Tian Xia Character Guide p. 125*
 
 ## Master's Form
 
 - **Ability Type**: Familiar
 
-Your familiar can change shape as a single action, transforming into a [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoid]] of your ancestry with the same age, gender, and build of its true form, though it always maintains a clearly unnatural remnant of its nature, such as a cat's eyes or a serpent's tongue. This form is always the same each time it uses this ability. This otherwise uses the effects of _humanoid form_, except the change is purely cosmetic. It only appears humanoid and gains no new capabilities. Your familiar must have the manual dexterity and [[srd/pf2e/compendium/character/familiar-abilities#Speech|speech]] abilities to select this.
+Your familiar can change shape as a single action, transforming into a [[srd/pf2e/compendium/rules-elements/traits/player-core/Humanoid|humanoid]] of your ancestry with the same age, gender, and build of its true form, though it always maintains a clearly unnatural remnant of its nature, such as a cat's eyes or a serpent's tongue. This form is always the same each time it uses this ability. This otherwise uses the effects of _humanoid form_, except the change is purely cosmetic. It only appears humanoid and gains no new capabilities. Your familiar must have the manual dexterity and [[srd/pf2e/compendium/character/Familiar Abilities#Speech|speech]] abilities to select this.
 
 *Source: Player Core p. 213*
 
@@ -419,7 +454,7 @@ Your spellslime familiar is easy to hit, but it lacks weak points. It is immune 
 
 - **Ability Type**: Familiar
 
-Your familiar is your criminal associate. Despite being a minion, your familiar gains 1 reaction at the start of its turns, which it can use only to Aid you on a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] skill check (it still has to prepare to help you as normal for the Aid reaction). It automatically succeeds at its check to Aid you with those skills or automatically critically succeeds if you're a master of the skill in question.
+Your familiar is your criminal associate. Despite being a minion, your familiar gains 1 reaction at the start of its turns, which it can use only to Aid you on a [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] skill check (it still has to prepare to help you as normal for the Aid reaction). It automatically succeeds at its check to Aid you with those skills or automatically critically succeeds if you're a master of the skill in question.
 
 *Source: Player Core p. 213*
 
@@ -427,7 +462,7 @@ Your familiar is your criminal associate. Despite being a minion, your familiar 
 
 - **Ability Type**: Familiar
 
-Your familiar has the [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] trait instead of the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] trait.
+Your familiar has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]] trait instead of the [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animal]] trait.
 
 *Source: Player Core p. 213*
 
@@ -435,15 +470,23 @@ Your familiar has the [[srd/pf2e/compendium/rules-elements/traits/player-core/pl
 
 - **Ability Type**: Familiar
 
-Your plant familiar can change shape as a single action, transforming into a Tiny plant of a type roughly similar to the familiar's nature. This otherwise uses the effects of [[srd/pf2e/compendium/spells/rank-2/one-with-plants|_one with plants_]]. You must have a familiar with the [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] trait to select this ability.
+Your plant familiar can change shape as a single action, transforming into a Tiny plant of a type roughly similar to the familiar's nature. This otherwise uses the effects of [[srd/pf2e/compendium/spells/rank-2/One with Plants|_one with plants_]]. You must have a familiar with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]] trait to select this ability.
 
 *Source: Player Core p. 213*
+
+## Play Dead
+
+- **Ability Type**: Familiar
+
+Your familiar pretends to be inanimate, hiding its supernatural capabilities. It can [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] without any [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Cover|cover]] or concealment from creatures that don’t realize it’s alive, so long as it’s in a location where it wouldn’t seem out of place. If the familiar succeeds, onlookers still see it, but they mistake it for an inanimate object. After being fooled once, they realize your familiar is alive, and it can’t Hide from them in that way again.
+
+*Source: Tian Xia Character Guide p. 124*
 
 ## Poison Reservoir
 
 - **Ability Type**: Familiar
 
-Your familiar has a reservoir for poison, allowing it to apply an injury poison to an adjacent ally’s exposed weapon with a single Interact action. You must supply the poison and instill it into this reservoir using two consecutive Interact actions. You must have a homunculus familiar to select this ability.
+Your familiar has a reservoir for poison, allowing it to apply an injury poison to an adjacent ally’s exposed weapon with a single Interact action. You must supply the poison and instill it into this reservoir using two consecutive Interact actions. You must have a [[srd/pf2e/compendium/character/Familiar Abilities|homunculus]] familiar to select this ability.
 
 *Source: Player Core 2 p. 170*
 
@@ -451,15 +494,24 @@ Your familiar has a reservoir for poison, allowing it to apply an injury poison 
 
 - **Ability Type**: Specific Familiar - Homunculus
 
-You can choose for your homunculus to have either [[srd/pf2e/compendium/character/familiar-abilities#Item Delivery|item delivery]] or [[srd/pf2e/compendium/character/familiar-abilities#Valet|valet]].
+You can choose for your homunculus to have either [[srd/pf2e/compendium/character/Familiar Abilities#Item Delivery|item delivery]] or [[srd/pf2e/compendium/character/Familiar Abilities#Valet|valet]].
 
 *Source: Player Core 2 p. 171*
+
+## Pot of Tea
+
+- **Ability Type**: Specific Familiar - Tapir Sage
+
+Your tapir sage is trained in the art of herbal medication and can prepare a pot of healing tea. Once per day, your familiar can spend 10 minutes to brew fine tea leaves and herbs. The tapir sage must focus on the tea during this time—if it performs any other action, the tea is ruined, though the tapir sage can start over again. Once the pot of tea is brewed, the tapir sage can serve two cups of tea with each of the below actions; each time, it gives 1 cup to an adjacent ally, and it drinks 1 cup itself. The three infusions must be poured and offered in order (for example, the tapir sage can’t serve the second infusion until it has served the first). The tea remains good for 1 hour after brewing; if not drunk by this point, the pot goes cold, and any remaining tea loses its power.
+First Infusion [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") The infusion restores a number of Hit Points equal to 1d8 times half your level (minimum 1d8) and grants a +4 circumstance bonus to the next saving throw against [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|disease]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] attempted within 24 hours. Second Infusion [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") The infusion restores a number of Hit Points equal to 1d4 times half your level (minimum 1d4) and grants a +2 circumstance bonus to the next saving throw against disease or poison attempted within 24 hours. Third Infusion [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") The infusion grants temporary Hit Points equal to your level for 1 hour.
+
+*Source: Tian Xia Character Guide p. 125*
 
 ## Recall Familiar
 
 - **Ability Type**: Master
 
-Once per day, you can use a 3-action activity, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait, to teleport your familiar to your space. Your familiar must be within 1 mile or the attempt to summon it fails. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]] effect.
+Once per day, you can use a 3-action activity, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] trait, to teleport your familiar to your space. Your familiar must be within 1 mile or the attempt to summon it fails. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Teleportation|teleportation]] effect.
 
 *Source: Player Core p. 214*
 
@@ -475,7 +527,7 @@ Choose two of the following: acid, cold, electricity, fire, poison, or sonic. Yo
 
 - **Ability Type**: Specific Familiar - Elemental Wisp
 
-30 feet. Your wisp vibrates at a frequency attuned to their element, resonating with and empowering all effects sharing that trait. Creatures in the area gain a +1 status bonus to damage rolls for alchemical and magical effects with the same elemental trait as your wisp. If your wisp is a wood wisp, the status bonus also applies to damage rolls for effects with the [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] trait.
+30 feet. Your wisp vibrates at a frequency attuned to their element, resonating with and empowering all effects sharing that trait. Creatures in the area gain a +1 status bonus to damage rolls for alchemical and magical effects with the same elemental trait as your wisp. If your wisp is a wood wisp, the status bonus also applies to damage rolls for effects with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]] trait.
 
 *Source: Rage of Elements p. 43*
 
@@ -483,7 +535,7 @@ Choose two of the following: acid, cold, electricity, fire, poison, or sonic. Yo
 
 - **Ability Type**: Master
 
-Once per day, your familiar can use 2 actions with the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait to give up some of its energy and heal you. It must be in your space to do so. You restore a number of Hit Points equal to 1d8 times half your level (minimum 1d8).
+Once per day, your familiar can use 2 actions with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] trait to give up some of its energy and heal you. It must be in your space to do so. You restore a number of Hit Points equal to 1d8 times half your level (minimum 1d8).
 
 *Source: Player Core p. 214*
 
@@ -491,7 +543,7 @@ Once per day, your familiar can use 2 actions with the [[srd/pf2e/compendium/rul
 
 - **Ability Type**: Specific Familiar - Elemental Scamp
 
-An elemental scamp's element or elements are set. You choose a type of scamp and can't change the element each day. This determines the scamp's elemental traits and the damage type of their Elemental Breath. **Air** ([[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]]) slashing damage; **earth** ([[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]]) bludgeoning damage; **fire** ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]) fire damage; **metal** ([[srd/pf2e/compendium/rules-elements/traits/player-core/metal|metal]]) slashing damage; **water** ([[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]]) acid damage; **wood** ([[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]], [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|wood]]) poison damage.
+An elemental scamp's element or elements are set. You choose a type of scamp and can't change the element each day. This determines the scamp's elemental traits and the damage type of their Elemental Breath. **Air** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Air|air]]) slashing damage; **earth** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Earth|earth]]) bludgeoning damage; **fire** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]]) fire damage; **metal** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Metal|metal]]) slashing damage; **water** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Water|water]]) acid damage; **wood** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Wood|wood]]) poison damage.
 
 *Source: Rage of Elements p. 43*
 
@@ -511,6 +563,14 @@ Thanks to its innate erudition, your pipefox speaks and understands all language
 
 *Source: Player Core 2 p. 171*
 
+## Seal-Bearer
+
+- **Ability Type**: Specific Familiar - Shikigami
+
+During your daily preparations, you can inscribe a symbol or seal upon your shikigami that corresponds to the [[srd/pf2e/compendium/character/Elements#Air|air]], [[srd/pf2e/compendium/character/Elements#Earth|earth]], [[srd/pf2e/compendium/character/Elements#Fire|fire]], [[srd/pf2e/compendium/character/Elements#Metal|metal]], [[srd/pf2e/compendium/character/Elements#Water|water]], or [[srd/pf2e/compendium/character/Elements#Wood|wood]] element. If you use the shikigami’s kindling ability that day, it applies to a spell that deals damage with the relevant trait to the chosen element, instead of only the [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire|fire]] trait.
+
+*Source: Tian Xia Character Guide p. 125*
+
 ## Second Opinion
 
 - **Ability Type**: Familiar
@@ -519,11 +579,21 @@ Your familiar is your academic confidant. Despite being a minion, your familiar 
 
 *Source: Player Core 2 p. 170*
 
+## Shadow Projection
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+
+- **Ability Type**: Specific Familiar - Makhluk Wayang
+
+Your makhluk wayang projects its shadow into a larger silhouette of itself, allowing it to grasp things outside of its obvious reach. It increases its reach to 10 feet for the purposes of taking non-hostile [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] actions until the end of your turn.
+
+*Source: Tian Xia Character Guide p. 125*
+
 ## Share Senses
 
 - **Ability Type**: Master
 
-Once every 10 minutes, you can use a single action with the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait to project your senses into your familiar. When you do, you lose all sensory information from your own body, but can sense through your familiar's body for up to 1 minute. You can Dismiss this effect.
+Once every 10 minutes, you can use a single action with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]] trait to project your senses into your familiar. When you do, you lose all sensory information from your own body, but can sense through your familiar's body for up to 1 minute. You can Dismiss this effect.
 
 *Source: Player Core p. 214*
 
@@ -531,7 +601,7 @@ Once every 10 minutes, you can use a single action with the [[srd/pf2e/compendiu
 
 - **Ability Type**: Familiar
 
-Choose a skill other than [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]. Your familiar's modifier for that skill is equal to your level plus your spellcasting attribute modifier, rather than just your level. You can select this ability repeatedly, choosing a different skill each time.
+Choose a skill other than [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]. Your familiar's modifier for that skill is equal to your level plus your spellcasting attribute modifier, rather than just your level. You can select this ability repeatedly, choosing a different skill each time.
 
 *Source: Player Core p. 213*
 
@@ -542,6 +612,14 @@ Choose a skill other than [[srd/pf2e/compendium/rules-elements/skills/acrobatics
 Your spellslime familiar gains the focused rejuvenation ability, but it recovers 2 Hit Points per level when you Refocus instead of 1.
 
 *Source: Player Core 2 p. 171*
+
+## Soul Bond
+
+- **Ability Type**: Specific Familiar - Kinnars
+
+Your kinnars’ spirits are intrinsically linked. While they’re two beings, they’re still considered a single creature, act as a single creature, use normal familiar statistics, and are subject to all of the normal effects that come with being a single creature. Their linked spirits allow them to stave off attacks against their mind. If your kinnars are subjected to a [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effect that allows a saving throw, they roll twice and take the higher result; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]] effect.
+
+*Source: Tian Xia Character Guide p. 124*
 
 ## Speech
 
@@ -575,6 +653,16 @@ Choose a spell in your repertoire or that you prepared today at least 5 ranks lo
 
 *Source: Player Core p. 213*
 
+## Stunning Flare
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+
+- **Ability Type**: Specific Familiar - Lantern Wisp
+
+Your lantern wisp unleashes a large burst of flame, casting an unnaturally bright light. Each creature within a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] must attempt a Fortitude save against your class DC or spell DC, whichever is higher, or be [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] for 1 round and then [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] for 2 rounds after.
+
+*Source: Tian Xia Character Guide p. 125*
+
 ## Toolbearer
 
 - **Ability Type**: Familiar
@@ -606,3 +694,21 @@ Your familiar's max HP increase by 2 per level.
 You can command your familiar to deliver you items more efficiently. Your familiar doesn't use its 2 actions immediately upon your command. Instead, up to twice before the end of your turn, you can have your familiar Interact to retrieve an item of light or negligible Bulk you are wearing and place it into one of your free hands. The familiar can't use this ability to retrieve stowed items. If the familiar has a different number of actions, it can retrieve one item for each action it has when commanded this way.
 
 *Source: Player Core p. 213*
+
+## Versatile Form
+
+- **Ability Type**: Familiar
+
+The crafted body of your familiar allows you to make adjustments to it when required. Once per day, you can spend 10 minutes to change one [[srd/pf2e/books/player-core/chapter-3-classes/Companions#Familiar Abilities|familiar]] or [[srd/pf2e/books/player-core/chapter-3-classes/Companions#Selecting Familiar and Master Abilities|master ability]] your familiar possesses. To select this ability, your familiar must be a [[srd/pf2e/compendium/character/Familiar Abilities#Construct|construct]], and you must be at least trained in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]].
+
+*Source: Tian Xia Character Guide p. 124*
+
+## Vina Song
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+
+- **Ability Type**: Specific Familiar - Kinnars
+
+Your kinnari elegantly plays her instrument. Each creature within a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Area#Emanation|emanation]] must attempt a Will save against your class DC or spell DC, whichever is higher, or be [[srd/pf2e/compendium/rules-elements/Conditions#Fascinated|fascinated]] for 1 round. A kinnar can use this ability again on the next round to continue the song and force affected creatures to attempt another Will save; on a failure, a creature is fascinated for an additional round. Once the kinnar stops playing, they can’t use this ability again for 1 hour. A creature that succeeds at any save or has its fascination broken is temporarily immune to that kinnar’s Vina Song for 24 hours. Kinnars are immune to this ability.
+
+*Source: Tian Xia Character Guide p. 124*

@@ -14,7 +14,7 @@ socialImage: og-image.png
 - **Edicts**: Wear a rainbow every day, hang suncatchers in different places for everyone to see, take and provide opportunities to rest and relax
 - **Anathema**: Pretend to be someone that you’re not, prevent someone from taking time for themselves, refuse to listen to both sides of an argument
 - **Area of Concern**: Rainbows, relaxation, self-worth, shade
-- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/guardians-of-the-sacred-self|Guardians of the Sacred Self]]
+- **Pantheons**: [[srd/pf2e/compendium/deities/pantheons/Guardians of the Sacred Self|Guardians of the Sacred Self]]
 
 ### Devotee Benefits
 
@@ -25,23 +25,23 @@ Dexterity or Charisma
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sling/sling|Sling]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/sling/Sling|Sling]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/domains#Luck|Luck]], [[srd/pf2e/compendium/character/domains#Sun|Sun]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Change|Change]], [[srd/pf2e/compendium/character/Domains#Introspection|Introspection]], [[srd/pf2e/compendium/character/Domains#Luck|Luck]], [[srd/pf2e/compendium/character/Domains#Sun|Sun]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Darkness|Darkness]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Darkness|Darkness]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/dizzying-colors|Dizzying Colors]]
+[[srd/pf2e/compendium/spells/rank-1/Dizzying Colors|Dizzying Colors]]
 
 - **3rd**
-[[srd/pf2e/compendium/spells/rank-3/hypnotize|Hypnotize]]
+[[srd/pf2e/compendium/spells/rank-3/Hypnotize|Hypnotize]]
 
 - **4th**
-[[srd/pf2e/compendium/spells/rank-4/peaceful-bubble|Peaceful Bubble]]
+[[srd/pf2e/compendium/spells/rank-4/Peaceful Bubble|Peaceful Bubble]]
 
 *Source: Divine Mysteries p. 308*

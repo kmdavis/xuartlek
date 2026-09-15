@@ -13,6 +13,6 @@ socialImage: og-image.png
 
 `Ranger`
 
-This indicates abilities from the [[srd/pf2e/compendium/character/classes/ranger|ranger]] class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/Ranger|ranger]] class.
 
 *Source: Player Core p. 460*

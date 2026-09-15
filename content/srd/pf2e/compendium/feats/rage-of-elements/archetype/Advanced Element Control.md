@@ -14,15 +14,15 @@ socialImage: og-image.png
 
 `Archetype`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/kineticist|Kineticist]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/rage-of-elements/archetype/through-the-gate|Through the Gate]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Kineticist|Kineticist]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/rage-of-elements/archetype/Through the Gate|Through the Gate]]
 
-You gain one kineticist feat. For the purpose of meeting its prerequisites, your kineticist level is equal to half your level. Your options include [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/impulse|impulse]] feats for your kinetic element, as normal for a kineticist.
+You gain one [kineticist feat](https://2e.aonprd.com/Feats.aspx?Traits=504). For the purpose of meeting its prerequisites, your kineticist level is equal to half your level. Your options include [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/Impulse|impulse]] feats for your kinetic element, as normal for a kineticist.
 
 **Special** You can select this feat more than once. Each time you select it, you gain another kineticist feat.
 
 ### Advanced Element Control leads to...
 
-[[srd/pf2e/compendium/feats/rage-of-elements/archetype/add-element|Add Element]]
+[[srd/pf2e/compendium/feats/rage-of-elements/archetype/Add Element|Add Element]]
 
 *Source: Rage of Elements p. 57*

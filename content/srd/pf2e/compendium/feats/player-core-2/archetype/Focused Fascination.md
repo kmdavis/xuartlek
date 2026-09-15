@@ -15,8 +15,8 @@ socialImage: og-image.png
 `Swashbuckler`
 
 - **Archetype**: Lion Blade (Level 4)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/skill/fascinating-performance|Fascinating Performance]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/skill/Fascinating Performance|Fascinating Performance]]
 
-When you use Fascinating Performance in a combat encounter, you need only a success, rather than a critical success, to [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinate]] your target. This works only if you're attempting to fascinate one target. For example, if you were an expert in [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]], you could choose to target multiple creatures normally or target one creature and fascinate it on a success.
+When you use Fascinating Performance in a combat encounter, you need only a success, rather than a critical success, to [[srd/pf2e/compendium/rules-elements/Conditions#Fascinated|fascinate]] your target. This works only if you're attempting to fascinate one target. For example, if you were an expert in [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]], you could choose to target multiple creatures normally or target one creature and fascinate it on a success.
 
 *Source: Player Core 2 p. 163*

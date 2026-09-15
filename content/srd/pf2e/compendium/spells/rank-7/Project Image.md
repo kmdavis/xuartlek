@@ -17,8 +17,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Illusion`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Occult
-- **Deities**: [[srd/pf2e/compendium/deities/sakhil-tormentors/iggeret|Iggeret]], Lady Jingxi, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-crawling-chaos|Nyarlathotep (The Crawling Chaos)]], Phi Deva
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Deities**: [[srd/pf2e/compendium/deities/sakhil-tormentors/Iggeret|Iggeret]], Lady Jingxi, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (The Crawling Chaos)|Nyarlathotep (The Crawling Chaos)]], Phi Deva
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 

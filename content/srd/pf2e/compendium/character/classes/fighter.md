@@ -14,12 +14,12 @@ socialImage: og-image.png
 
 Below are some key terms in many fighter class features.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/flourish|Flourish]]:** Actions with the flourish trait are special techniques that require too much exertion for you to perform frequently. You can use only one action with the flourish trait per round.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Flourish|Flourish]]:** Actions with the flourish trait are special techniques that require too much exertion for you to perform frequently. You can use only one action with the flourish trait per round.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/press|Press]]:** Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. You can't use a press action when it's not your turn, even if you use the [[srd/pf2e/compendium/equipment/runes/ready|Ready]] activity.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Press|Press]]:** Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. You can't use a press action when it's not your turn, even if you use the [[srd/pf2e/compendium/equipment/runes/Ready|Ready]] activity.
 Some actions with the press trait also grant an effect on a failure. The effects that are added on a failure don't apply on a critical failure. If your press action succeeds, you can choose to apply the failure effect instead. (For example, you may wish to do this when an attack deals no damage due to resistance.)
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/stance|Stance]]:** A stance is a general combat strategy that you enter by using an action with the stance trait, and you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you use a stance action again, whichever comes first. After you take an action with the stance trait, you can't take another one for 1 round. You can enter or be in a stance only in encounter mode. You can Dismiss a stance.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/Stance|Stance]]:** A stance is a general combat strategy that you enter by using an action with the stance trait, and you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you use a stance action again, whichever comes first. After you take an action with the stance trait, you can't take another one for 1 round. You can enter or be in a stance only in encounter mode. You can Dismiss a stance.
 
 ### Roleplaying the Fighter
 
@@ -58,7 +58,7 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 #### Skills
 
-Trained in your choice of [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+Trained in your choice of [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]]
  Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 
 | | |
@@ -115,17 +115,20 @@ Ever watchful for weaknesses, you can quickly attack foes that leave an opening 
 
 | | |
 | --- | --- |
-| **Fighter Feats** | At 1st level and every even-numbered level, you gain a fighter class feat. |
+| **Fighter Feats** | At 1st level and every even-numbered level, you gain a [fighter class feat](https://2e.aonprd.com/Feats.aspx?Traits=71). |
 | **Shield Block** | You gain the Shield Block general feat, a reaction that lets you reduce damage with your shield. |
-| **Skill Feats** | At 2nd level and every 2 levels thereafter, you gain a skill feat. You must be trained or better in the corresponding skill to select a skill feat. |
+
+#### Skill Feats
+
+At 2nd level and every 2 levels thereafter, you gain a [skill feat](https://2e.aonprd.com/Feats.aspx?Traits=144). You must be trained or better in the corresponding skill to select a skill feat.
 
 #### Bravery
 
-Having faced countless foes and the chaos of battle, you have learned how to stand strong in the face of fear. Your proficiency rank for Will saves increases to expert. When you roll a success at a Will save against a [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] effect, you get a critical success instead. In addition, anytime you gain the frightened condition, reduce its value by 1.
+Having faced countless foes and the chaos of battle, you have learned how to stand strong in the face of fear. Your proficiency rank for Will saves increases to expert. When you roll a success at a Will save against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]] effect, you get a critical success instead. In addition, anytime you gain the frightened condition, reduce its value by 1.
 
 | | |
 | --- | --- |
-| **General Feats** | At 3rd level and every 4 levels thereafter, you gain a general feat. |
+| **General Feats** | At 3rd level and every 4 levels thereafter, you gain a [general](https://2e.aonprd.com/Feats.aspx?Traits=78) feat. |
 
 #### Skill Increases
 

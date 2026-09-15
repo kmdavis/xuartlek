@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `General`
 
-You have a pet-a Tiny animal of a type you choose, such as a cat, bird, or rodent. It has the minion trait, meaning it gains 2 actions during your turn if you use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] action to command it; this replaces the usual effects of Command an Animal, and you don't need to attempt a Nature check. A pet can't take [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] actions except to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]].
+You have a pet-a Tiny animal of a type you choose, such as a cat, bird, or rodent. It has the minion trait, meaning it gains 2 actions during your turn if you use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] action to command it; this replaces the usual effects of Command an Animal, and you don't need to attempt a Nature check. A pet can't take [[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|attack]] actions except to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]].
 
 **Level** Your pet's level is equal to yours. 
 
@@ -33,6 +33,6 @@ You have a pet-a Tiny animal of a type you choose, such as a cat, bird, or roden
 
 ### Pet leads to...
 
-[[srd/pf2e/compendium/feats/player-core/ancestry/ferocious-beasts|Ferocious Beasts]], GGGHhhjjjJJK
+[[srd/pf2e/compendium/feats/player-core/ancestry/Ferocious Beasts|Ferocious Beasts]], GGGHhhjjjJJK
 
 *Source: Player Core p. 259*

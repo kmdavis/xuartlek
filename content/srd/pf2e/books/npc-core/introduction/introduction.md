@@ -1,6 +1,7 @@
 ---
 title: "Introduction"
 aliases: ["Introduction"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3355"
 citation: "NPC Core pg. 5"
-socialImage: og-image.png
 ---
 
 # Introduction
@@ -22,4 +22,4 @@ Each section of this book includes a group of related creatures, presenting thei
 
 ## Contents
 
-- [[srd/pf2e/books/npc-core/introduction/adjusting-creatures|Adjusting Creatures]]
+- [[srd/pf2e/books/npc-core/introduction/Adjusting Creatures|Adjusting Creatures]]

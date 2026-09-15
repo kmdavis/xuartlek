@@ -24,21 +24,21 @@ Intelligence or Wisdom
 
 **Divine Sanctification** can choose holy
 
-**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
-**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/staff|Staff]]
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/Staff|Staff]]
 
-**Domains** [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Magic|Magic]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Protection|Protection]]
+**Domains** [[srd/pf2e/compendium/character/Domains#Healing|Healing]], [[srd/pf2e/compendium/character/Domains#Magic|Magic]], [[srd/pf2e/compendium/character/Domains#Nature|Nature]], [[srd/pf2e/compendium/character/Domains#Protection|Protection]]
 
-**Alternate Domains** [[srd/pf2e/compendium/character/domains#Passion|Passion]]
+**Alternate Domains** [[srd/pf2e/compendium/character/Domains#Passion|Passion]]
 
 **Cleric Spells**
 
 - **1st**
-[[srd/pf2e/compendium/spells/rank-1/summon-plant-or-fungus|Summon Plant or Fungus]]
+[[srd/pf2e/compendium/spells/rank-1/Summon Plant or Fungus|Summon Plant or Fungus]]
 
 - **2nd**
-[[srd/pf2e/compendium/spells/rank-2/one-with-plants|One with Plants]]
+[[srd/pf2e/compendium/spells/rank-2/One with Plants|One with Plants]]
 
 - **8th**
 Burning Blossoms

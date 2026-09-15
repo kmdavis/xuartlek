@@ -26,7 +26,7 @@ This heavily armored wagon is designed to transport black powder and other flamm
 
 **Passengers** 1
 
-**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/lore|Driving Lore]] (DC 19) or [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 21)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/Lore|Driving Lore]] (DC 19) or [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] (DC 21)
 
 ---
 
@@ -38,11 +38,11 @@ This heavily armored wagon is designed to transport black powder and other flamm
 
 **HP** 50 (BT 25)
 
-**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/Item Damage#Object Immunities|object immunities]], precision damage
 
 ---
 
-**Speed** 15 feet ([[srd/pf2e/compendium/rules-elements/traits/monster-core-2/clockwork|clockwork]])
+**Speed** 15 feet ([[srd/pf2e/compendium/rules-elements/traits/monster-core-2/Clockwork|clockwork]])
 
 **Collision** 3d8 (DC 19)
 

@@ -17,12 +17,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
-- **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/deities/green-man-faiths/green-man|Green Man]], [[srd/pf2e/compendium/deities/sarkorian-covenants/immaculate-growth|Immaculate Growth]], Kzininn, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nhimbaloth|Nhimbaloth]], [[srd/pf2e/compendium/deities/azlanti-pantheon/sicva|Sicva]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Deities**: [[srd/pf2e/compendium/deities/green-man-faiths/Green Man|Green Man]], [[srd/pf2e/compendium/deities/sarkorian-covenants/Immaculate Growth|Immaculate Growth]], Kzininn, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nhimbaloth|Nhimbaloth]], [[srd/pf2e/compendium/deities/azlanti-pantheon/Sicva|Sicva]]
 - **Range**: 120 feet
 - **Area**: all squares in a 20-foot burst
 - **Duration**: 1 minute
 
-Plants and fungi burst out or quickly grow, entangling creatures. All surfaces in the area are difficult terrain. Each round that a creature starts its turn in the area, it must attempt a Reflex save. On a failure, it takes a –10-foot circumstance penalty to its Speeds until it leaves the area, and on a critical failure, it's also [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] for 1 round. Creatures can attempt to Escape to remove these effects.
+Plants and fungi burst out or quickly grow, entangling creatures. All surfaces in the area are difficult terrain. Each round that a creature starts its turn in the area, it must attempt a Reflex save. On a failure, it takes a –10-foot circumstance penalty to its Speeds until it leaves the area, and on a critical failure, it's also [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] for 1 round. Creatures can attempt to Escape to remove these effects.
 
 *Source: Player Core p. 329*

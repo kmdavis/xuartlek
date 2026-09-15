@@ -16,10 +16,10 @@ socialImage: og-image.png
 
 `Archetype`  `Spellshape`  `Metamagic`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/seneschal|Seneschal]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Seneschal|Seneschal]]
 - **Frequency**: once per hour
-- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/seneschal-witch-dedication|Seneschal Witch Dedication]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Seneschal Witch Dedication|Seneschal Witch Dedication]]
 
-You can channel even complex spells through your connection to your charge. If your next action is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] and your charge is within 30 feet, you can have the spell originate from your charge instead. That creature can use their reaction to roughly complete the spell’s incantation, which gives the spell the [[srd/pf2e/compendium/rules-elements/traits/player-core/subtle|subtle]] trait for you (but not for them) as the manifestation appears solely around your charge.
+You can channel even complex spells through your connection to your charge. If your next action is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] and your charge is within 30 feet, you can have the spell originate from your charge instead. That creature can use their reaction to roughly complete the spell’s incantation, which gives the spell the [[srd/pf2e/compendium/rules-elements/traits/player-core/Subtle|subtle]] trait for you (but not for them) as the manifestation appears solely around your charge.
 
 *Source: War of Immortals p. 62*

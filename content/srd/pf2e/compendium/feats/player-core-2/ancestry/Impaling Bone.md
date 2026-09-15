@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 `Kholo`  `Gnoll`
 
-Once per day, you can cast [[srd/pf2e/compendium/spells/rank-5/impaling-spike|_impaling spike_]] as a 7th-rank innate occult spell, except the spike is made of bone instead of cold iron. The bone from the spell has the effects of the [[srd/pf2e/compendium/equipment/runes/ghost-touch|_ghost touch_]] property rune and can immobilize [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]] creatures as if they were corporeal.
+Once per day, you can cast [[srd/pf2e/compendium/spells/rank-5/Impaling Spike|_impaling spike_]] as a 7th-rank innate occult spell, except the spike is made of bone instead of cold iron. The bone from the spell has the effects of the [[srd/pf2e/compendium/equipment/runes/Ghost Touch|_ghost touch_]] property rune and can immobilize [[srd/pf2e/compendium/rules-elements/traits/gm-core/Incorporeal|incorporeal]] creatures as if they were corporeal.
 
 *Source: Player Core 2 p. 19*

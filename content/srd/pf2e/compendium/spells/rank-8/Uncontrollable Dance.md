@@ -17,15 +17,15 @@ socialImage: og-image.png
 
 `Concentrate`  `Incapacitation`  `Manipulate`  `Mental`
 
-- **Traditions**: Arcane, Occult
-- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]], [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
-- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/ashava|Ashava]], Hathor, Kofusachi, The Perplexing Jest
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
+- **Bloodlines**: [[srd/pf2e/compendium/character/Bloodlines#Aberrant|Aberrant]], [[srd/pf2e/compendium/character/Bloodlines#Fey|Fey]]
+- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/Ashava|Ashava]], Hathor, Kofusachi, The Perplexing Jest
 - **Range**: touch
 - **Target**: 1 creature
 - **Defense**: Will
 - **Duration**: varies
 
-The target is overcome with an all-consuming urge to dance. For the duration of the spell, the target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] and can't use reactions. It also can't use [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] actions except to dance, using the Stride action to move up to half its Speed.
+The target is overcome with an all-consuming urge to dance. For the duration of the spell, the target is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] and can't use reactions. It also can't use [[srd/pf2e/compendium/rules-elements/traits/player-core/Move|move]] actions except to dance, using the Stride action to move up to half its Speed.
 
 **Critical Success** The target is unaffected.
 

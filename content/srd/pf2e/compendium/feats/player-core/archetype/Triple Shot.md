@@ -14,13 +14,13 @@ socialImage: og-image.png
 
 `Fighter`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/archer|Archer]] (Level 8)
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/double-shot|Double Shot]]
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/Archer|Archer]] (Level 8)
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/Double Shot|Double Shot]]
 
 You can quickly fire multiple shots with greater control. When you use Double Shot, you can make the attacks against the same target. You can add an additional action to Double Shot to make three ranged Strikes instead of two. If you do, the penalty is –4. All attacks count toward your multiple attack penalty, but the penalty doesn’t increase until after you’ve made all of them.
 
 ### Triple Shot leads to...
 
-[[srd/pf2e/compendium/feats/player-core/archetype/multishot-stance|Multishot Stance]]
+[[srd/pf2e/compendium/feats/player-core/archetype/Multishot Stance|Multishot Stance]]
 
 *Source: Player Core p. 145*

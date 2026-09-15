@@ -28,7 +28,7 @@ perception:
     desc: "+11; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] +11, [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] +11"
 abilityMods: [6, 2, 6, -4, 4, -2]
 abilities_top:
   - name: "Deep Breath"
@@ -44,14 +44,14 @@ health:
 speed: "25 feet, swim 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]]) __Damage__ 2d8+8 piercing"
+    desc: "⬻ jaws +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d10]]) __Damage__ 2d8+8 piercing"
   - name: "Melee"
     desc: "⬻ foot +15 __Damage__ 1d10+8 bludgeoning"
 abilities_bot:
   - name: "Aquatic Ambush"
     desc: "⬻ 30 feet"
   - name: "Capsize"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]]) The hippopotamus tries to capsize an adjacent aquatic vessel of its size or smaller. The hippopotamus must succeed at an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check with a DC of 25 (reduced by 5 for each size smaller the vessel is than the hippo) or the pilot's [[srd/pf2e/compendium/rules-elements/skills/lore|Sailing Lore]] DC, whichever is higher."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/Attack|Attack]]) The hippopotamus tries to capsize an adjacent aquatic vessel of its size or smaller. The hippopotamus must succeed at an [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check with a DC of 25 (reduced by 5 for each size smaller the vessel is than the hippo) or the pilot's [[srd/pf2e/compendium/rules-elements/skills/Lore|Sailing Lore]] DC, whichever is higher."
   - name: "Trample"
     desc: "⬽ Medium or smaller, foot, DC 22"
 sourcebook: "_Monster Core 2_, page 191."

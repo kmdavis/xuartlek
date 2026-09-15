@@ -18,7 +18,7 @@ socialImage: og-image.png
 
 `Concentrate`  `Curse`  `Manipulate`  `Mental`  `Misfortune`
 
-- **Traditions**: Arcane, Divine, Occult
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2), [Occult](https://2e.aonprd.com/SpellLists.aspx?Tradition=3)
 - **Range**: 120 feet
 - **Target**: 1 creature
 - **Defense**: Will

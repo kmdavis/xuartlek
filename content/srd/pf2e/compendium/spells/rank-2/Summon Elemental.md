@@ -16,13 +16,13 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`  `Summon`
 
-- **Traditions**: Arcane, Primal
-- **Spell Lists**: Elemental
-- **Deities**: [[srd/pf2e/compendium/deities/elemental-lords/ayrzul|Ayrzul]], [[srd/pf2e/compendium/deities/elemental-lords/hshurha|Hshurha]], [[srd/pf2e/compendium/deities/elemental-lords/kelizandri|Kelizandri]], [[srd/pf2e/compendium/deities/elemental-lords/laudinmio|Laudinmio]], [[srd/pf2e/compendium/deities/faiths-philosophies/rivethun|Rivethun]], [[srd/pf2e/compendium/deities/elemental-lords/shumunue|Shumunue]], [[srd/pf2e/compendium/deities/elemental-lords/ymeri|Ymeri]]
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
+- **Spell Lists**: [Elemental](https://2e.aonprd.com/SpellLists.aspx?Tradition=5)
+- **Deities**: [[srd/pf2e/compendium/deities/elemental-lords/Ayrzul|Ayrzul]], [[srd/pf2e/compendium/deities/elemental-lords/Hshurha|Hshurha]], [[srd/pf2e/compendium/deities/elemental-lords/Kelizandri|Kelizandri]], [[srd/pf2e/compendium/deities/elemental-lords/Laudinmio|Laudinmio]], [[srd/pf2e/compendium/deities/faiths-philosophies/Rivethun|Rivethun]], [[srd/pf2e/compendium/deities/elemental-lords/Shumunue|Shumunue]], [[srd/pf2e/compendium/deities/elemental-lords/Ymeri|Ymeri]]
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 
-You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/elemental|elemental]] trait and whose level is 1 or lower to fight for you.
+You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Elemental|elemental]] trait and whose level is 1 or lower to fight for you.
 
 ---
 **Heightened (3rd)** Level 2.
@@ -40,7 +40,5 @@ You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/p
 **Heightened (9th)** Level 13.
 
 **Heightened (10th)** Level 15.
-
- &lt;%SUMMON#57%1%&gt;
 
 *Source: Player Core p. 360*

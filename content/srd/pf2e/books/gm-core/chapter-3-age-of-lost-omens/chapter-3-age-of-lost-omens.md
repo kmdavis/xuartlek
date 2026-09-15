@@ -1,6 +1,7 @@
 ---
 title: "Chapter 3: Age of Lost Omens"
 aliases: ["Chapter 3: Age of Lost Omens"]
+socialImage: og-image.png
 cssclasses:
   - pf2e
   - pf2e-book
@@ -9,7 +10,6 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2989"
 citation: "GM Core pg. 143"
-socialImage: og-image.png
 ---
 
 # Chapter 3: Age of Lost Omens
@@ -24,10 +24,10 @@ Ten thousand years ago, the world of Golarion came close to ending. Earthfall, a
 
 ## Contents
 
-- [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/history|History]]
-- [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-inner-sea-region|The Inner Sea Region]]
-- [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/beyond-the-inner-sea|Beyond the Inner Sea]]
-- [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-great-beyond|The Great Beyond]]
-- [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/nations|Nations]]
-- [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/settlements|Settlements]]
-- [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-planes|The Planes]]
+- [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/History|History]]
+- [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/The Inner Sea Region|The Inner Sea Region]]
+- [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/Beyond the Inner Sea|Beyond the Inner Sea]]
+- [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/The Great Beyond|The Great Beyond]]
+- [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/Nations|Nations]]
+- [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/Settlements|Settlements]]
+- [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/The Planes|The Planes]]

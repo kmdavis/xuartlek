@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Runesmith`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/glyph-familiar|Glyph Familiar]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/impossible-magic/class/Glyph Familiar|Glyph Familiar]]
 
 Your living rune is imbued with more magical power. You can select two familiar or master abilities each day instead of one. In addition, when you [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Trace Rune|Trace a Rune]] with a single action, your target can be adjacent to your familiar instead of adjacent to you. Your familiar must be within 30 feet of you for this benefit.
 

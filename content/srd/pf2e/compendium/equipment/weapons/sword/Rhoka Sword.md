@@ -22,9 +22,9 @@ socialImage: og-image.png
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Advanced
-- **Group**: Sword
+- **Group**: [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|Sword]]
 
-The rhoka sword is the preferred weapon among [[srd/pf2e/compendium/gm/creature-families/urdefhan|urdefhans]], and all of their kind know how to wield these instruments of war.
+The rhoka sword is the preferred weapon among [[srd/pf2e/compendium/gm/creature-families/Urdefhan|urdefhans]], and all of their kind know how to wield these instruments of war.
 
 ### Critical Specialization Effects
 

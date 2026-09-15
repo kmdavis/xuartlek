@@ -15,8 +15,8 @@ socialImage: og-image.png
 
 `Concentrate`  `Manipulate`
 
-- **Tradition**: Arcane
-- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/abraxas|Abraxas]], Aerekostes, [[srd/pf2e/compendium/deities/dead-or-missing-deities/aroden|Aroden]], [[srd/pf2e/compendium/deities/empyreal-lords/dalenydra|Dalenydra]], Nalinivati, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-veiled-voice|Nyarlathotep (The Veiled Voice)]], Valmallos
+- **Tradition**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1)
+- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/Abraxas|Abraxas]], Aerekostes, [[srd/pf2e/compendium/deities/dead-or-missing-deities/Aroden|Aroden]], [[srd/pf2e/compendium/deities/empyreal-lords/Dalenydra|Dalenydra]], Nalinivati, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/Nyarlathotep (The Veiled Voice)|Nyarlathotep (The Veiled Voice)]], Valmallos
 - **Cast**: 10 minutes
 - **Duration**: until your next daily preparations
 

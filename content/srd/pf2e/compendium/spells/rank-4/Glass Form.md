@@ -16,12 +16,12 @@ socialImage: og-image.png
 
 `Concentrate`  `Earth`  `Manipulate`
 
-- **Traditions**: Arcane, Primal
+- **Traditions**: [Arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1), [Primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4)
 - **Range**: touch
 - **Target**: 1 willing creature
 - **Duration**: 10 minutes
 
-You grant the target properties of dull, transparent glass. The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], has no scent, and can't bleed. They gain resistance 5 to acid, cold, electricity, and piercing damage and weakness 5 to sonic and bludgeoning damage. A creature in this form is affected by the _shatter_ spell as though the creature were an unattended object. Each time the target takes damage to which the spell grants resistance or weakness, reduce the duration by 1 minute.
+You grant the target properties of dull, transparent glass. The target becomes [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]], has no scent, and can't bleed. They gain resistance 5 to acid, cold, electricity, and piercing damage and weakness 5 to sonic and bludgeoning damage. A creature in this form is affected by the _shatter_ spell as though the creature were an unattended object. Each time the target takes damage to which the spell grants resistance or weakness, reduce the duration by 1 minute.
 
 ---
 **Heightened (+2)** The resistances and weaknesses increase by 5.

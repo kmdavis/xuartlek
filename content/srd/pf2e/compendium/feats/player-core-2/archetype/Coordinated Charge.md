@@ -16,8 +16,8 @@ socialImage: og-image.png
 
 `Archetype`  `Flourish`  `Visual`
 
-- **Archetype**: [[srd/pf2e/compendium/character/archetypes/marshal|Marshal]]
-- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/marshal-dedication|Marshal Dedication]]
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/Marshal|Marshal]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/Marshal Dedication|Marshal Dedication]]
 
 You heroically dash into the fray, inspiring your allies to follow. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] up to your Speed and make a melee [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]]. If your Strike hits and damages an enemy, each ally within 60 feet who saw you hit can use a reaction to Stride, but they each must end their Stride closer to the creature you hit than where they started.
 

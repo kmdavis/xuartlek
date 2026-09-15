@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Athamaru`  `Locathah`
 
-- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/emit-defensive-odor|Emit Defensive Odor]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Emit Defensive Odor|Emit Defensive Odor]]
 
 Your pheromones now linger on creatures. When a target fails its save against your Emit Defensive Odor ability, they also take 1d6 persistent poison damage. The damage increases to 2d6 at 13th level and 3d6 at 17th level.
 
