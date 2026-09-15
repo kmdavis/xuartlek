@@ -80,7 +80,7 @@ attacks:
 
 ### Class Features
 
-**Advanced Alchemy** *Level 1*
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Advanced Alchemy|**Advanced Alchemy**]] *Level 1*
 
 `alchemist`
 
@@ -92,7 +92,7 @@ You can Craft a number of alchemical items up to 4 + your Intelligence modifier.
 
 These items have the infused trait and remain potent for 24 hours or until your next daily preparations, whichever comes first.
 
-**Alchemy** *Level 1*
+[[srd/pf2e/compendium/character/class-features/alchemist/Alchemy|**Alchemy**]] *Level 1*
 
 `alchemist`
 
@@ -100,7 +100,7 @@ You understand the reactions between all manner of reagents and can concoct alch
 
 You gain the Alchemical Crafting feat, and you can automatically identify alchemical items that you have the formula for.
 
-**Chirurgeon** *Level 1*
+[[srd/pf2e/compendium/character/Class Samples#Chirurgeon|**Chirurgeon**]] *Level 1*
 
 `alchemist`
 
@@ -128,13 +128,13 @@ Each time you gain a level, you can add the formulas for two common alchemical i
 
 As normal, having the base formula is sufficient when Crafting upgraded types of the item--you don't need to learn higher-level formulas. For instance, if you have the 1st-level formula for a minor elixir of life, you can create a minor, lesser, moderate, greater, major, or true elixir of life as long as you meet the level and other prerequisites. Items with type entries that have widely varied functions require separate formulas, but most alchemical items have a structure similar to elixir of life.
 
-**Quick Alchemy** *Level 1*
+[[srd/pf2e/compendium/rules-elements/actions/player-core-2#Quick Alchemy|**Quick Alchemy**]] *Level 1*
 
 `alchemist`
 
 You gain the Quick Alchemy action to make the items you need on the fly.
 
-**Research Field** *Level 1*
+[[srd/pf2e/compendium/character/class-features/alchemist/Research Field|**Research Field**]] *Level 1*
 
 `alchemist`
 
@@ -152,13 +152,13 @@ You can store all your versatile vials within your Alchemist's Toolkit, with no 
 
 ### Class Feats
 
-**Quick Bomber** *Level 1*
+[[srd/pf2e/compendium/feats/player-core-2/class/Quick Bomber|**Quick Bomber**]] *Level 1*
 
 `alchemist`
 
 You keep your bombs and bomb-related reagents in easy-toreach pouches from which you draw without thinking. You Interact to draw a bomb, draw a versatile vial, or use Quick Alchemy to create a bomb, then Strike with the bomb. If you have the ability to create more than one bomb at a time with Quick Alchemy (such as from the double brew class feature), you can Strike with only one of the bombs you create with this action.
 
-**Smoke Bomb** *Level 2*
+[[srd/pf2e/compendium/feats/player-core-2/class/Smoke Bomb|**Smoke Bomb**]] *Level 2*
 
 `additive`  `alchemist`
 
@@ -166,7 +166,7 @@ You can add a tarry additive to an alchemical bomb to make it emit smoke. When t
 
 ### Ancestry Feats
 
-**Animal Accomplice** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/ancestry/Animal Accomplice|**Animal Accomplice**]] *Level 1*
 
 `gnome`
 
@@ -174,37 +174,37 @@ You build a rapport with an animal, which becomes magically bonded to you. You g
 
 ### Skill Feats
 
-**Alchemical Crafting** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/Alchemical Crafting|**Alchemical Crafting**]] *Level 1*
 
 `general`  `skill`
 
 You can use the Craft activity to create alchemical items. When you select this feat, you immediately add the formulas for four common 1st-level alchemical items to your formula book.
 
-**Alchemical Crafting** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/Alchemical Crafting|**Alchemical Crafting**]] *Level 1*
 
 `general`  `skill`
 
 You can use the Craft activity to create alchemical items. When you select this feat, you immediately add the formulas for four common 1st-level alchemical items to your formula book.
 
-**Alchemical Crafting** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/Alchemical Crafting|**Alchemical Crafting**]] *Level 1*
 
 `general`  `skill`
 
 You can use the Craft activity to create alchemical items. When you select this feat, you immediately add the formulas for four common 1st-level alchemical items to your formula book.
 
-**Hobnobber** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/Hobnobber|**Hobnobber**]] *Level 1*
 
 `general`  `skill`
 
 You are skilled at learning information through conversation. The Gather Information exploration activity takes you half as long as normal (typically reducing the time to 1 hour). If you're a master in Diplomacy and roll a critical failure to Gather Information, you get a failure instead. There is still no guarantee that a rumor you learn with Gather Information is accurate.
 
-**Read Lips** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/Read Lips|**Read Lips**]] *Level 1*
 
 `general`  `skill`
 
 You can read lips of others nearby who you can clearly see. The language read must be one that you know. When you're at your leisure, you can do this automatically. In encounter mode or when attempting a more difficult feat of lipreading, you're Fascinated and Off-Guard during each round in which you focus on lip movements, and you must succeed at a Society check (DC determined by the GM) to successfully read someone's lips.
 
-**Seasoned** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/Seasoned|**Seasoned**]] *Level 1*
 
 `general`  `skill`
 
@@ -212,7 +212,7 @@ You've mastered the preparation of many types of food and drink. You gain a +1 c
 
 ### General Feats
 
-**Pet** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/general/Pet|**Pet**]] *Level 1*
 
 `general`
 
@@ -267,30 +267,30 @@ You have a pet--a Tiny animal of a type you choose, such as a cat, bird, or rode
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| Buckler |  | 0.1 | 1 gp |
-| Dagger |  | 0.1 | 2 sp |
+| [[srd/pf2e/compendium/equipment/Shields#Buckler\|Buckler]] |  | 0.1 | 1 gp |
+| [[srd/pf2e/compendium/equipment/weapons/knife/Dagger\|Dagger]] |  | 0.1 | 2 sp |
 | Versatile Vial | 4 |  |  |
 
 ### Worn and Invested
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| Backpack |  |  | 1 sp |
-| Leather Armor |  | 1 | 2 gp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Backpack\|Backpack]] |  |  | 1 sp |
+| [[srd/pf2e/compendium/equipment/Armor#Leather Armor\|Leather Armor]] |  | 1 | 2 gp |
 
 ### Carried
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| Alchemist's Toolkit |  | 1 | 3 gp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Alchemist's Toolkit\|Alchemist's Toolkit]] |  | 1 | 3 gp |
 | Alcohol | 5 | 0.1 | 1 cp |
-| Bedroll |  | 0.1 | 2 cp |
-| Bravo's Brew (Lesser) |  | 0.1 | 7 gp |
-| Formula Book (Blank) |  | 0.1 | 1 gp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Bedroll\|Bedroll]] |  | 0.1 | 2 cp |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Bravo's Brew\|Bravo's Brew (Lesser)]] |  | 0.1 | 7 gp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Formula Book (Blank)\|Formula Book (Blank)]] |  | 0.1 | 1 gp |
 | Harrow Deck (Simple) |  | 0.1 | 1 gp |
 | Infiltrator's Elixir |  | 0.1 | 6 gp |
 | Nail Bomb (Lesser) |  | 0.1 | 8 gp |
-| Rope |  | 0.1 | 5 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Rope\|Rope]] |  | 0.1 | 5 sp |
 | Steelscour (Lesser) |  | 0.1 | 3 gp |
 
 ## Companion: Sir Pickles

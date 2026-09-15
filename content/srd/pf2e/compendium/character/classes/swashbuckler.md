@@ -133,7 +133,7 @@ You gain a +1 circumstance bonus to skill checks with the bravado trait while in
 
 Your own distinctive style lets you gracefully handle any situation. Choose a swashbuckler’s style. This style determines the additional actions you use to gain panache and makes you trained in the skill related to that action.
 
-A list of all swashbuckler's styles can be found here.
+A list of all swashbuckler's styles can be found in [[srd/pf2e/compendium/character/Styles|Styles]].
 
 #### Confident Finisher
 

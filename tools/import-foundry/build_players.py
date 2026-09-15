@@ -73,6 +73,54 @@ def _headings(path: Path) -> set[str]:
 
 
 TRAIT_INDEX = _index(VAULT, "traits")
+
+
+def _compendium_index(root: Path) -> dict[str, str]:
+    """Every compendium note, keyed by lowercased name, for linking sheet entries.
+
+    Feats, class features and equipment on a character sheet are the same things
+    that have SRD pages, so they should be links. Where two notes share a name
+    the shallower path wins: "Shortsword" as an equipment page beats a feat of
+    the same name buried under one class.
+    """
+    base = root / "content" / "srd" / "pf2e" / "compendium"
+    out: dict[str, str] = {}
+    for p in base.rglob("*.md"):
+        if p.stem == p.parent.name:            # folder note, not an entry
+            continue
+        rel = str(p.relative_to(root / "content").with_suffix(""))
+        key = p.stem.lower()
+        if key not in out or rel.count("/") < out[key].count("/"):
+            out[key] = rel
+        # Small categories are consolidated into one page of level-2 sections:
+        # base armour lives in equipment/Armor.md, actions in
+        # rules-elements/actions/<book>.md. Those headings are link targets too,
+        # and without them a sheet's "Leather Armor" silently stays plain text.
+        for m in re.finditer(r"^##\s+(.+?)\s*$", p.read_text(encoding="utf-8"), re.M):
+            h = m.group(1).strip()
+            out.setdefault(h.lower(), f"{rel}#{h}")
+    return out
+
+
+COMPENDIUM = _compendium_index(VAULT)
+
+
+def entry_link(name: str, bold: bool = True, in_table: bool = False) -> str:
+    """Link a feat, feature or item to its SRD page, or leave it as plain text.
+
+    in_table escapes the alias pipe. An unescaped "|" inside a table cell is read
+    as a column separator, which splits the row and shifts every later column.
+    """
+    target = COMPENDIUM.get(name.lower())
+    if target is None:
+        # "Clan Pistol (Greater)" and the like resolve to the base item
+        base = re.sub(r"\s*\((?:greater|lesser|major|true|moderate)\)$", "",
+                      name, flags=re.I)
+        target = COMPENDIUM.get(base.lower())
+    label = f"**{name}**" if bold else name
+    if not target:
+        return label
+    return f"[[{target}\\|{label}]]" if in_table else f"[[{target}|{label}]]"
 LANG_HEADINGS = _headings(VAULT / "content" / "srd" / "pf2e" / "compendium"
                           / "rules-elements" / "languages.md")
 
@@ -230,7 +278,7 @@ def feats_section(actor: dict) -> list[str]:
         for f in sorted(group, key=lambda x: (x["level"] or 0, x["name"])):
             seen.add(f["name"])
             lvl = f" *Level {f['level']}*" if f["level"] else ""
-            out.append(f"**{f['name']}**{lvl}")
+            out.append(f"{entry_link(f['name'])}{lvl}")
             if f["traits"]:
                 out.append("")
                 out.append("  ".join(f"`{t}`" for t in sorted(f["traits"])))
@@ -300,7 +348,8 @@ def inventory_section(actor: dict) -> list[str]:
         body = [f"### {title}", "", "| Item | Qty | Bulk | Price |", "|---|---|---|---|"]
         for i in sorted(group, key=lambda x: x["name"]):
             qty = i["qty"] if i["qty"] and i["qty"] != 1 else ""
-            body.append(f"| {i['name']} | {qty} | {i['bulk'] or ''} | {i['price']} |")
+            body.append(f"| {entry_link(i['name'], bold=False, in_table=True)} | {qty} "
+                        f"| {i['bulk'] or ''} | {i['price']} |")
         return body + [""]
 
     out += coin_rows
@@ -449,7 +498,8 @@ def party_note(path: Path) -> str:
         body += ["| Item | Qty | Bulk | Unit price |", "|---|---|---|---|"]
         for i in sorted(group, key=lambda x: x["name"]):
             qty = i["qty"] if i["qty"] and i["qty"] != 1 else ""
-            body.append(f"| {i['name']} | {qty} | {i['bulk'] or ''} | {i['price']} |")
+            body.append(f"| {entry_link(i['name'], bold=False, in_table=True)} | {qty} "
+                        f"| {i['bulk'] or ''} | {i['price']} |")
         return body + [""]
 
     total = 0.0

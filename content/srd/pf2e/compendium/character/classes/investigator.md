@@ -115,7 +115,7 @@ You can play out a battle in your head, using brains rather than brawn to execut
 
 Your studies have made you savvy in a broad spectrum of areas, but one particular investigative process drew your intense—even obsessive—interest. Choose a methodology. 
 
-Methodologies can be found here.
+Methodologies can be found in [[srd/pf2e/compendium/character/Methodologies|Methodologies]].
 
 | | |
 | --- | --- |

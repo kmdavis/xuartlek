@@ -28,7 +28,7 @@ Freight carried by the *Grim Zephyr*. Face value **980 gp**.
 
 | Item | Qty | Bulk | Unit price |
 |---|---|---|---|
-| Beverages | 2 | 10 | 20 gp |
+| [[srd/pf2e/compendium/equipment/services/Beverages\|Beverages]] | 2 | 10 | 20 gp |
 | Exotic Curiosities & Artifacts |  | 10 | 300 gp |
 | Luxury Apparel & Perfumes |  | 10 | 200 gp |
 | Medicines & Herbal Goods |  | 10 | 80 gp |
@@ -40,11 +40,11 @@ Freight carried by the *Grim Zephyr*. Face value **980 gp**.
 
 | Item | Qty | Bulk | Unit price |
 |---|---|---|---|
-| Antidote (Lesser) |  | 0.1 | 3 gp |
-| Club |  | 1 |  |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Antidote\|Antidote (Lesser)]] |  | 0.1 | 3 gp |
+| [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club\|Club]] |  | 1 |  |
 | Crewmen | 11 |  |  |
 | Elixir of Life (Minor) | 4 | 0.1 | 3 gp |
 | Korren's Red Sash |  | 0.1 |  |
-| Smoke Ball (Lesser) |  | 0.1 | 3 gp |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Smoke Ball\|Smoke Ball (Lesser)]] |  | 0.1 | 3 gp |
 | Stiletto Pen |  | 0.1 | 8 gp |
-| Walking Cauldron |  | 4 | 12 gp |
+| [[srd/pf2e/compendium/equipment/other/Walking Cauldron\|Walking Cauldron]] |  | 4 | 12 gp |

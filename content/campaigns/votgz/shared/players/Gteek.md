@@ -71,7 +71,7 @@ attacks:
 
 ### Class Features
 
-**Cleric Spellcasting** *Level 1*
+[[srd/pf2e/compendium/character/class-features/cleric/Cleric Spellcasting|**Cleric Spellcasting**]] *Level 1*
 
 `cleric`
 
@@ -89,7 +89,7 @@ When you get spell slots of 2nd rank and higher, you can fill those slots with s
 Cantrips
 Some of your spells are cantrips. A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up--this is usually equal to the highest rank of cleric spell slot you have. For example, as a 1st-level cleric, your cantrips are 1st-rank spells, and as a 5th-level cleric, your cantrips are 3rd-rank spells.
 
-**Cloistered Cleric** *Level 1*
+[[srd/pf2e/compendium/character/Doctrines#Cloistered Cleric|**Cloistered Cleric**]] *Level 1*
 
 `cleric`
 
@@ -135,7 +135,7 @@ Through your deity's blessing, you gain additional spells that channel either th
 
 **Harmful Font:** You gain 4 additional spell slots each day at your highest rank of cleric spell slots. You can prepare only *harm* spells in these slots. At 5th level, the number of additional slots increases to 5, and at 15th level, the total number of additional slots increases to 6.
 
-**Doctrine** *Level 1*
+[[srd/pf2e/compendium/character/class-features/cleric/Doctrine|**Doctrine**]] *Level 1*
 
 `cleric`
 
@@ -175,13 +175,13 @@ Focus spells are automatically heightened to half your level rounded up, much li
 
 **Special** You can select this feat multiple times, selecting a different domain each time and gaining its domain spell.
 
-**Communal Healing** *Level 2*
+[[srd/pf2e/compendium/feats/player-core/class/Communal Healing|**Communal Healing**]] *Level 2*
 
 `cleric`  `healing`  `vitality`
 
 You're an exceptional conduit for vitality and, as you channel it through you, you can divert some to heal yourself or another creature. When you cast the Heal spell to heal a single creature, choose another willing living creature within range of your *heal* to regain Hit Points equal to the *heal* spell's rank.
 
-**Sentinel Dedication** *Level 2*
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Sentinel Dedication|**Sentinel Dedication**]] *Level 2*
 
 `archetype`  `dedication`
 
@@ -197,7 +197,7 @@ You gain a +2 circumstance bonus to Athletics checks to Climb.
 
 ### Ancestry Feats
 
-**Tripkee Lore** *Level 1*
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Tripkee Lore|**Tripkee Lore**]] *Level 1*
 
 `grippli`
 
@@ -207,7 +207,7 @@ You also gain the Additional Lore general feat for Tripkee Lore.
 
 ### Skill Feats
 
-**Additional Lore** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/Additional Lore|**Additional Lore**]] *Level 1*
 
 `general`  `skill`
 
@@ -215,7 +215,7 @@ Your knowledge has expanded to encompass a new field. Choose a Lore skill subcat
 
 **Special** You can select this feat more than once. Each time you must select a new subcategory of Lore and you gain the additional skill increases to that subcategory for the listed levels.
 
-**Pilgrim's Token** *Level 1*
+[[srd/pf2e/compendium/feats/player-core-2/skill/Pilgrim's Token|**Pilgrim's Token**]] *Level 1*
 
 `general`  `skill`
 
@@ -254,27 +254,27 @@ Your experience in navigating a certain type of terrain makes you supremely conf
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| Club |  | 1 |  |
+| [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club\|Club]] |  | 1 |  |
 
 ### Worn and Invested
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| Leather Armor |  | 1 | 2 gp |
+| [[srd/pf2e/compendium/equipment/Armor#Leather Armor\|Leather Armor]] |  | 1 | 2 gp |
 
 ### Carried
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| Backpack |  |  | 1 sp |
-| Bedroll |  | 0.1 | 2 cp |
-| Chalk | 10 |  | 1 cp |
-| Explorer's Clothing |  | 0.1 | 1 sp |
-| Flint and Steel |  |  | 5 cp |
-| Healer's Toolkit |  | 1 | 5 gp |
-| Rations | 2 | 0.1 | 4 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Backpack\|Backpack]] |  |  | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Bedroll\|Bedroll]] |  | 0.1 | 2 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Chalk\|Chalk]] | 10 |  | 1 cp |
+| [[srd/pf2e/compendium/equipment/Armor#Explorer's Clothing\|Explorer's Clothing]] |  | 0.1 | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Flint and Steel\|Flint and Steel]] |  |  | 5 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit\|Healer's Toolkit]] |  | 1 | 5 gp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Rations\|Rations]] | 2 | 0.1 | 4 sp |
 | Religious Symbol (Wooden) |  | 0.1 | 1 sp |
-| Rope |  | 0.1 | 5 sp |
-| Soap |  |  | 2 cp |
-| Torch | 5 | 0.1 | 1 cp |
-| Waterskin |  | 0.1 | 5 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Rope\|Rope]] |  | 0.1 | 5 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Soap\|Soap]] |  |  | 2 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Torch\|Torch]] | 5 | 0.1 | 1 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Waterskin\|Waterskin]] |  | 0.1 | 5 cp |

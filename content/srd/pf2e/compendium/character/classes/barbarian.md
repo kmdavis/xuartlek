@@ -111,7 +111,7 @@ You gain the Quick-Tempered free action, which lets you Rage at the slightest pr
 
 Your rage wells up from a dominant instinct—one you learned from a tradition or that comes naturally to you. Your instinct gives you an ability, requires you to avoid certain behaviors, grants you increased damage and resistances at higher levels, and allows you to select feats tied to your instinct. 
 
-Instincts can be found here.
+Instincts can be found in [[srd/pf2e/compendium/character/instincts/instincts|Instincts]].
 
 | | |
 | --- | --- |

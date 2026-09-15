@@ -153,7 +153,7 @@ A psychic's power is born in the depths of their psyche, far from the surface. Y
 
 Whatever the subconscious source of a psychic's power, all find that a specific external manifestation of their magic comes most easily to them. This conscious outward expression adds several additional spells to your spell repertoire and grants you three psi cantrips. Two of these cantrips are common spells, though you gain an extra benefit with them that other spellcasters don't get, and the last is unique to your conscious mind. You also get two more unique psi cantrips at higher levels. Choose a conscious.
 
-Conscious mind options can be found here
+Conscious mind options can be found in [[srd/pf2e/compendium/character/conscious-minds/conscious-minds|Conscious Minds]]
 
 | | |
 | --- | --- |

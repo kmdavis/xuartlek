@@ -76,13 +76,13 @@ attacks:
 
 ### Class Features
 
-**Braggart** *Level 1*
+[[srd/pf2e/compendium/character/Styles#Braggart|**Braggart**]] *Level 1*
 
 `swashbuckler`
 
 You boast, taunt, and psychologically needle your foes. You are trained in Intimidation. When you Demoralize, the action gains the bravado trait.
 
-**Confident Finisher** *Level 1*
+[[srd/pf2e/compendium/rules-elements/actions/player-core-2#Confident Finisher|**Confident Finisher**]] *Level 1*
 
 `swashbuckler`
 
@@ -92,7 +92,7 @@ You gain an elegant finishing attack you can make when you have panache. The fin
 
 Some finisher actions also grant an effect on a failure. Effects added on a failure don't apply on a critical failure. If your finisher action succeeds, you can still choose to apply the failure effect instead. For example, you might do this when an attack deals no damage due to resistance.
 
-**Panache** *Level 1*
+[[srd/pf2e/compendium/character/class-features/swashbuckler/Panache|**Panache**]] *Level 1*
 
 `swashbuckler`
 
@@ -104,7 +104,7 @@ You gain panache by performing actions that have the bravado trait. Tumble Throu
 
 Powerful finisher actions, including Confident Finisher, can be used only while you have panache and cause you to lose your panache.
 
-**Precise Strike** *Level 1*
+[[srd/pf2e/compendium/character/class-features/swashbuckler/Precise Strike|**Precise Strike**]] *Level 1*
 
 `swashbuckler`
 
@@ -112,7 +112,7 @@ When you make a Strike with an agile or finesse melee weapon or agile or finesse
 
 As your swashbuckler level increases, so does your additional damage for precise strike. At 5th, 9th, 13th, and 17th level, increase the amount of additional damage on a Strike by 1 and the additional damage on a finisher by 1d6.
 
-**Stylish Combatant** *Level 1*
+[[srd/pf2e/compendium/character/class-features/swashbuckler/Stylish Combatant|**Stylish Combatant**]] *Level 1*
 
 You gain a +1 circumstance bonus to skill checks with the bravado trait while in a combat encounter. While you have panache, you gain a +5-foot status bonus to your Speeds.
 
@@ -124,7 +124,7 @@ Your own distinctive style lets you gracefully handle any situation. Choose a sw
 
 ### Class Feats
 
-**You're Next** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/archetype/You're Next|**You're Next**]] *Level 1*
 
 `emotion`  `fear`  `mental`  `rogue`  `swashbuckler`
 
@@ -134,13 +134,13 @@ Your own distinctive style lets you gracefully handle any situation. Choose a sw
 
 **Swashbuckler** After downing a foe, you promise another that you're coming after them next. Attempt an Intimidation check with a +2 circumstance bonus to Demoralize a single creature that you can see and that can see you. If you're legendary in Intimidation, you can use this as a free action with the same trigger.
 
-**Antagonize** *Level 2*
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Antagonize|**Antagonize**]] *Level 2*
 
 `swashbuckler`
 
 Your taunts and threats earn your foes' ire. When you successfully Demoralize a creature, its Frightened condition can't decrease to less than 1 at the end of its turn until it either uses a hostile action against you or can no longer observe or sense you for at least 1 round.
 
-**Pirate Dedication** *Level 2*
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Pirate Dedication|**Pirate Dedication**]] *Level 2*
 
 `archetype`  `dedication`
 
@@ -158,13 +158,13 @@ You have a particular elasticity that makes it easy for you to bounce and squish
 
 ### Skill Feats
 
-**Cat Fall** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/Cat Fall|**Cat Fall**]] *Level 1*
 
 `general`  `skill`
 
 Your catlike aerial acrobatics allow you to cushion your falls. Treat falls as 10 feet shorter. If you're an expert in Acrobatics, treat falls as 25 feet shorter and 50 feet if you're a master. If you're legendary in Acrobatics, you always land on your feet and don't take damage, regardless of the distance of the fall.
 
-**Terrifying Resistance** *Level 2*
+[[srd/pf2e/compendium/feats/player-core-2/skill/Terrifying Resistance|**Terrifying Resistance**]] *Level 2*
 
 `general`  `skill`
 
@@ -183,24 +183,24 @@ The spells of those you have Demoralize are less effective on you. If you succee
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| Dueling Cape |  | 0.1 | 5 sp |
-| Leather Armor |  | 1 | 2 gp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Dueling Cape\|Dueling Cape]] |  | 0.1 | 5 sp |
+| [[srd/pf2e/compendium/equipment/Armor#Leather Armor\|Leather Armor]] |  | 1 | 2 gp |
 
 ### Carried
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| Backpack |  |  | 1 sp |
-| Bedroll |  | 0.1 | 2 cp |
-| Bolts | 6 | 0.1 | 1 sp |
-| Chalk | 10 |  | 1 cp |
-| Dogslicer |  | 0.1 | 1 sp |
-| Flint and Steel |  |  | 5 cp |
-| Grappling Hook |  | 0.1 | 1 sp |
-| Hand Crossbow |  | 0.1 | 3 gp |
-| Rations | 2 | 0.1 | 4 sp |
-| Rope |  | 0.1 | 5 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Backpack\|Backpack]] |  |  | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Bedroll\|Bedroll]] |  | 0.1 | 2 cp |
+| [[srd/pf2e/compendium/equipment/weapons/crossbow/Bolts\|Bolts]] | 6 | 0.1 | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Chalk\|Chalk]] | 10 |  | 1 cp |
+| [[srd/pf2e/compendium/equipment/weapons/sword/Dogslicer\|Dogslicer]] |  | 0.1 | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Flint and Steel\|Flint and Steel]] |  |  | 5 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Grappling Hook\|Grappling Hook]] |  | 0.1 | 1 sp |
+| [[srd/pf2e/compendium/equipment/weapons/crossbow/Hand Crossbow\|Hand Crossbow]] |  | 0.1 | 3 gp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Rations\|Rations]] | 2 | 0.1 | 4 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Rope\|Rope]] |  | 0.1 | 5 sp |
 | Rounds (Explosive Dogslicer) | 8 | 0.1 | 1 sp |
-| Soap |  |  | 2 cp |
-| Torch | 5 | 0.1 | 1 cp |
-| Waterskin |  | 0.1 | 5 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Soap\|Soap]] |  |  | 2 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Torch\|Torch]] | 5 | 0.1 | 1 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Waterskin\|Waterskin]] |  | 0.1 | 5 cp |

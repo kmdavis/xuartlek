@@ -164,7 +164,7 @@ Through your deity's blessing, you gain additional spells that channel either th
 
 Even among followers of the same deity, approaches vary. At 1st level, you select cloistered cleric or warpriest and gain the benefits of its first doctrine. At 3rd level and every four levels thereafter, you gain another benefit from your doctrine.
 
-Doctrines can be found here.
+Doctrines can be found in [[srd/pf2e/compendium/character/Doctrines|Doctrines]].
 
 | | |
 | --- | --- |

@@ -72,13 +72,13 @@ attacks:
 
 ### Class Features
 
-**Arcane Bond** *Level 1*
+[[srd/pf2e/compendium/character/class-features/wizard/Arcane Bond|**Arcane Bond**]] *Level 1*
 
 `wizard`
 
 You place some of your magical power in a bonded item. Each day when you prepare your spells, you can designate a single item you own as your bonded item. This is typically an item associated with spellcasting, such as a wand, ring, or staff, but you are free to designate a weapon or other item. You gain the Drain Bonded Item free action.
 
-**Arcane School** *Level 1*
+[[srd/pf2e/compendium/character/class-features/wizard/Arcane School|**Arcane School**]] *Level 1*
 
 `wizard`
 
@@ -86,7 +86,7 @@ Most wizards acquire their knowledge of spells from a formal educational institu
 
 You gain additional spells and spell slots from the curriculum taught at the school you attended. Arcane schools are described in detail on page 198. Some wizards follow the school of unified magical theory, which attempts to forge a new school by studying independently and drawing information from a multitude of texts and tutors. Though a wizard with this approach lacks the focus of formal training, they have greater flexibility.
 
-**Arcane Thesis** *Level 1*
+[[srd/pf2e/compendium/character/class-features/wizard/Arcane Thesis|**Arcane Thesis**]] *Level 1*
 
 `wizard`
 
@@ -102,7 +102,7 @@ Spell Substitution
 
 Staff Nexus
 
-**School of Battle Magic** *Level 1*
+[[srd/pf2e/compendium/character/Arcane Schools#School of Battle Magic|**School of Battle Magic**]] *Level 1*
 
 `wizard`
 
@@ -132,7 +132,7 @@ Magic is power, and there are always those who will use power for the art of bat
 
 **School Spells** initial: Force Bolt; advanced: Energy Absorption
 
-**Spell Substitution** *Level 1*
+[[srd/pf2e/compendium/character/Arcane Theses#Spell Substitution|**Spell Substitution**]] *Level 1*
 
 `wizard`
 
@@ -140,7 +140,7 @@ You don't accept the fact that once spells are prepared, they can't be changed u
 
 You can spend 10 minutes to empty one of your prepared spell slots and prepare a different spell from your spellbook in its place. If you are interrupted during such a swap, the original spell remains prepared and can still be cast. You can try again to swap out the spell later, but you must start the process over again.
 
-**Wizard Spellcasting** *Level 1*
+[[srd/pf2e/compendium/character/class-features/wizard/Wizard Spellcasting|**Wizard Spellcasting**]] *Level 1*
 
 `wizard`
 
@@ -167,7 +167,7 @@ Each time you gain a level, you add two arcane spells to your spellbook, of any 
 
 ### Class Feats
 
-**Mind Smith Dedication** *Level 2*
+[[srd/pf2e/compendium/feats/dark-archives-remastered/archetype/Mind Smith Dedication|**Mind Smith Dedication**]] *Level 2*
 
 `archetype`  `dedication`
 
@@ -184,7 +184,7 @@ Upon creating your mind weapon, you also learn to use a mind smith's keepsake: a
 
 Mind Smith
 
-**Pirate Dedication** *Level 2*
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Pirate Dedication|**Pirate Dedication**]] *Level 2*
 
 `archetype`  `dedication`
 
@@ -194,7 +194,7 @@ Pirate
 
 ### Ancestry Feats
 
-**Elven Weapon Familiarity** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/ancestry/Elven Weapon Familiarity|**Elven Weapon Familiarity**]] *Level 1*
 
 `elf`
 
@@ -204,7 +204,7 @@ At 5th level, whenever you get a critical hit with one of these weapons, you get
 
 ### Skill Feats
 
-**Additional Lore** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/Additional Lore|**Additional Lore**]] *Level 1*
 
 `general`  `skill`
 
@@ -212,7 +212,7 @@ Your knowledge has expanded to encompass a new field. Choose a Lore skill subcat
 
 **Special** You can select this feat more than once. Each time you must select a new subcategory of Lore and you gain the additional skill increases to that subcategory for the listed levels.
 
-**Experienced Smuggler** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/Experienced Smuggler|**Experienced Smuggler**]] *Level 1*
 
 `general`  `skill`
 
@@ -236,11 +236,11 @@ You often smuggle things past the authorities. When the GM rolls your Stealth ch
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| Bedroll |  | 0.1 | 2 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Bedroll\|Bedroll]] |  | 0.1 | 2 cp |
 | Bloodeye Coffee |  | 0.1 | 5 sp |
-| Boomerang |  | 0.1 | 2 sp |
+| [[srd/pf2e/compendium/equipment/weapons/club/Boomerang\|Boomerang]] |  | 0.1 | 2 sp |
 | Elven Branched Spear |  | 1 | 3 gp |
-| Fishing Tackle |  | 1 | 8 sp |
-| Rattan Armor |  | 1 | 2 gp |
-| Soap |  |  | 2 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Fishing Tackle\|Fishing Tackle]] |  | 1 | 8 sp |
+| [[srd/pf2e/compendium/equipment/Armor#Rattan Armor\|Rattan Armor]] |  | 1 | 2 gp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Soap\|Soap]] |  |  | 2 cp |
 | Spirit Trap |  | 0.1 | 5 gp |

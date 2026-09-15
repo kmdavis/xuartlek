@@ -73,13 +73,13 @@ attacks:
 
 ### Class Features
 
-**Hunt Prey** *Level 1*
+[[srd/pf2e/compendium/rules-elements/actions/player-core#Hunt Prey|**Hunt Prey**]] *Level 1*
 
 `ranger`
 
 When you focus your attention on a single foe, you become unstoppable in your pursuit. You gain the Hunt Prey action.
 
-**Hunter's Edge** *Level 1*
+[[srd/pf2e/compendium/character/class-features/ranger/Hunter's Edge|**Hunter's Edge**]] *Level 1*
 
 `ranger`
 
@@ -91,7 +91,7 @@ You have trained to become a skilled hunter and tracker, gaining an extra benefi
 
 - Precision
 
-**Outwit** *Level 1*
+[[srd/pf2e/compendium/character/Hunters Edges#Outwit|**Outwit**]] *Level 1*
 
 `ranger`
 
@@ -111,7 +111,7 @@ You gain the service of a young animal companion that travels with you and obeys
 
 - Effect: Hunter's Edge, Precision
 
-**Crossbow Ace** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/archetype/Crossbow Ace|**Crossbow Ace**]] *Level 1*
 
 `ranger`
 
@@ -119,7 +119,7 @@ You gain the service of a young animal companion that travels with you and obeys
 
 Your deep understanding of the crossbow allows you to reload efficiently while moving yourself out of the line of return fire. Either Create a Diversion or Take Cover, then Interact to reload. As normal, you must meet the requirements to Take Cover; you must be Prone, benefiting from cover, or near a feature that allows you to Take Cover.
 
-**Pirate Dedication** *Level 2*
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Pirate Dedication|**Pirate Dedication**]] *Level 2*
 
 `archetype`  `dedication`
 
@@ -137,7 +137,7 @@ When you fall, you take only half the normal damage and don't land Prone.
 
 ### Ancestry Feats
 
-**Cat's Luck** *Level 1*
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Cat's Luck|**Cat's Luck**]] *Level 1*
 
 `catfolk`  `fortune`
 
@@ -149,7 +149,7 @@ You instinctively twist away from danger. You can reroll the triggering saving t
 
 ### Skill Feats
 
-**Experienced Smuggler** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/Experienced Smuggler|**Experienced Smuggler**]] *Level 1*
 
 `general`  `skill`
 
@@ -157,7 +157,7 @@ You often smuggle things past the authorities. When the GM rolls your Stealth ch
 
 **PFS Note** This feat allows you to Earn Income with Underworld Lore with tasks of your level -1 (instead of the normal level -2).
 
-**Experienced Tracker** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/Experienced Tracker|**Experienced Tracker**]] *Level 1*
 
 `general`  `skill`
 
@@ -177,25 +177,25 @@ Tracking is second nature to you, and when necessary you can follow a trail with
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| Crossbow |  | 1 | 3 gp |
-| Dagger |  | 0.1 | 2 sp |
+| [[srd/pf2e/compendium/rules-elements/Weapon Groups#Crossbow\|Crossbow]] |  | 1 | 3 gp |
+| [[srd/pf2e/compendium/equipment/weapons/knife/Dagger\|Dagger]] |  | 0.1 | 2 sp |
 
 ### Carried
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| Backpack |  |  | 1 sp |
-| Bedroll |  | 0.1 | 2 cp |
-| Bolts | 4 | 0.1 | 1 sp |
-| Chalk | 10 |  | 1 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Backpack\|Backpack]] |  |  | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Bedroll\|Bedroll]] |  | 0.1 | 2 cp |
+| [[srd/pf2e/compendium/equipment/weapons/crossbow/Bolts\|Bolts]] | 4 | 0.1 | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Chalk\|Chalk]] | 10 |  | 1 cp |
 | Fanged |  |  | 30 gp |
-| Flint and Steel |  |  | 5 cp |
-| Leather Armor |  | 1 | 2 gp |
-| Rations | 2 | 0.1 | 4 sp |
-| Rope |  | 0.1 | 5 sp |
-| Soap |  |  | 2 cp |
-| Torch | 5 | 0.1 | 1 cp |
-| Waterskin |  | 0.1 | 5 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Flint and Steel\|Flint and Steel]] |  |  | 5 cp |
+| [[srd/pf2e/compendium/equipment/Armor#Leather Armor\|Leather Armor]] |  | 1 | 2 gp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Rations\|Rations]] | 2 | 0.1 | 4 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Rope\|Rope]] |  | 0.1 | 5 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Soap\|Soap]] |  |  | 2 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Torch\|Torch]] | 5 | 0.1 | 1 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Waterskin\|Waterskin]] |  | 0.1 | 5 cp |
 
 ## Companion: Drak
 

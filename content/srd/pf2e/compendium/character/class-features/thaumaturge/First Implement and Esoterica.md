@@ -17,7 +17,7 @@ Your implement is a special object of symbolic importance: your badge as you tre
 
  While your implements are your primary tools in your dealings with the supernatural, you know the value of always being prepared. You constantly collect and carry various smaller mystic objects, bits of materials with paranormal affinities, and items used in folk practices: your esoterica. These might include cold-iron nails, scraps of scrolls and scriptures, fragments of bones purportedly from a saint, and other similar objects. You keep your esoterica in easy-to-access places on your person and are well practiced in brandishing your implement and esoterica together, so you can draw and use esoterica with the same hand you're using to wield an implement.
 
- Implements can be found here 
+ Implements can be found in [[srd/pf2e/compendium/character/implements/implements|Implements]] 
 
 ### Exploit Vulnerability
 

@@ -110,7 +110,9 @@ def main():
     total = 0
     for p in mine:
         for m in re.finditer(r"\[\[([^\]|#]+)", p.read_text()):
-            t = m.group(1).strip()
+            # inside a table the alias pipe is escaped as \|, so the capture
+            # picks up a trailing backslash that is not part of the target
+            t = m.group(1).strip().rstrip("\\").strip()
             if not t:
                 continue
             total += 1

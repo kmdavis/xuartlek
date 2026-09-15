@@ -152,13 +152,13 @@ Your necromantic prowess allows you to create unique effects called grave spells
 
 As a necromancer, you select one fatal method at 1st level. This choice determines your combat style: a puppeteer who creates more thralls to fuel spells, or a reaper who becomes more combat-focused with weapons and armor.
 
-Fatal Methods can be found here
+Fatal Methods can be found in [[srd/pf2e/compendium/character/Fatal Methods|Fatal Methods]]
 
 #### Grim Fascination
 
 As a necromancer, you select one grim fascination at 1st level. This fascination is a focus of necrotic study that you have developed a greater mastery over. However, grim fascinations don’t prevent you from studying and using other forms of necromancy. Your choice of grim fascination grants you a grave spell and a thrall enhancement that applies to any thrall you create.
 
-Grim Fascinations can be found here
+Grim Fascinations can be found in [[srd/pf2e/compendium/character/Grim Fascinations|Grim Fascinations]]
 
 #### Mastery of Life and Death
 

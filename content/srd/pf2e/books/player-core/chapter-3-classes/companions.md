@@ -24,7 +24,7 @@ Animal companions and familiars are special benefits for certain classes or clas
 
 An animal companion is a loyal comrade who follows your orders. Your animal companion has the animal and minion traits, and it gains 2 actions during your turn if you use the Command an Animal action to command it; this replaces the usual effects of Command an Animal, and you don’t need to attempt a Nature check. If your companion dies, you can spend a week of downtime to replace it at no cost. You can have only one animal companion at a time.
 
-A list of available animal companions can be found here.
+A list of available animal companions can be found in [[srd/pf2e/compendium/character/Animal Companions|Animal Companions]].
 
 ### Young Animal Companions
 

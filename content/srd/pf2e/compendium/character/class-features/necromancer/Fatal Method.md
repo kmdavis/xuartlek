@@ -15,6 +15,6 @@ socialImage: og-image.png
 
 As a necromancer, you select one fatal method at 1st level. This choice determines your combat style: a puppeteer who creates more thralls to fuel spells, or a reaper who becomes more combat-focused with weapons and armor.
 
-Fatal Methods can be found here
+Fatal Methods can be found in [[srd/pf2e/compendium/character/Fatal Methods|Fatal Methods]]
 
 *Source: Impossible Magic p. 27*

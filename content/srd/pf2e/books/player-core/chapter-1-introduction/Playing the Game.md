@@ -178,7 +178,7 @@ Spells have ranks ranging from 1st to 10th, which measure their power; character
 
 A trait is a keyword that conveys additional information about a rules element, such as which ancestry a feat belongs to or the rarity of an item. Often, a trait indicates how other rules interact with an ability, creature, item, or another rules element that has that trait.
 
-All the traits used in this book appear in the Glossary and Index beginning on page 452. The traits page on Archives of Nethys can be found here.
+All the traits used in this book appear in the Glossary and Index beginning on page 452. The traits used across the rules are collected in [[srd/pf2e/compendium/rules-elements/traits/traits|Traits]].
 
 ### Turn
 

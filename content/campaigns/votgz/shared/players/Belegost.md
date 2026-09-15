@@ -75,13 +75,13 @@ attacks:
 
 ### Class Features
 
-**Flurry of Blows** *Level 1*
+[[srd/pf2e/compendium/rules-elements/actions/player-core-2#Flurry of Blows|**Flurry of Blows**]] *Level 1*
 
 `flourish`  `monk`
 
 Make two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. Apply your multiple attack penalty to the Strikes normally. As a flourish ability, you can use Flurry of Blows only once per turn.
 
-**Powerful Fist** *Level 1*
+[[srd/pf2e/compendium/character/class-features/monk/Powerful Fist|**Powerful Fist**]] *Level 1*
 
 `monk`
 
@@ -89,7 +89,7 @@ Your fists are deadly weapons. The damage die for your fist increases to 1d6 ins
 
 ### Class Feats
 
-**Mountain Stance** *Level 1*
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Mountain Stance|**Mountain Stance**]] *Level 1*
 
 `monk`  `stance`
 
@@ -99,7 +99,7 @@ You enter the stance of an implacable mountain--a technique created by dwarven m
 
 While in Mountain Stance, you gain a +4 item bonus to AC and a +2 circumstance bonus to any defenses against Reposition, Shove, Trip, and other forced movement effects. You have a Dexterity modifier cap to your AC of +0, meaning you don't add your Dexterity to your AC, and your Speeds are all reduced by 5 feet. The item bonus to AC from Mountain Stance is cumulative with armor potency runes on your explorer's clothing, mystic armor, and bands of force.
 
-**Pirate Dedication** *Level 2*
+[[srd/pf2e/compendium/feats/player-core-2/archetype/Pirate Dedication|**Pirate Dedication**]] *Level 2*
 
 `archetype`  `dedication`
 
@@ -107,7 +107,7 @@ As a pirate, you sail the seas in search of enemy ships to plunder and great adv
 
 Pirate
 
-**Stunning Blows** *Level 2*
+[[srd/pf2e/compendium/feats/player-core-2/class/Stunning Blows|**Stunning Blows**]] *Level 2*
 
 `monk`
 
@@ -115,7 +115,7 @@ The focused power of your flurry threatens to overwhelm your opponent. When you 
 
 ### Ancestry Feats
 
-**Iron Fists** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/ancestry/Iron Fists|**Iron Fists**]] *Level 1*
 
 `orc`
 
@@ -131,7 +131,7 @@ Even in the worst circumstances, you can perform basic tasks. Choose a skill you
 
 **Special** You can select this feat multiple times. Each time, choose a different skill and gain the benefits for that skill.
 
-**Titan Wrestler** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/Titan Wrestler|**Titan Wrestler**]] *Level 1*
 
 `general`  `skill`
 
@@ -152,27 +152,27 @@ You can attempt to Disarm, Grapple, Reposition, Shove, or Trip creatures up to t
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| Gi |  | 0.1 | 2 sp |
+| [[srd/pf2e/compendium/equipment/Armor#Gi\|Gi]] |  | 0.1 | 2 sp |
 | Handwraps of Mighty Blows +1 |  |  | 35 gp |
 
 ### Carried
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| Backpack |  |  | 1 sp |
-| Bedroll |  | 0.1 | 2 cp |
-| Bo Staff |  | 2 | 2 sp |
-| Bolts | 10 | 0.1 | 1 sp |
-| Chalk | 50 |  | 1 cp |
-| Climbing Kit |  | 1 | 5 sp |
-| Dart | 10 | 0.1 | 1 cp |
-| Flint and Steel |  |  | 5 cp |
-| Grappling Hook |  | 0.1 | 1 sp |
-| Healer's Toolkit |  | 1 | 5 gp |
-| Heavy Crossbow |  | 2 | 4 gp |
-| Rations | 2 | 0.1 | 4 sp |
-| Rope |  | 0.1 | 5 sp |
-| Soap |  |  | 2 cp |
-| Ten-Foot Pole |  | 1 | 1 cp |
-| Torch | 5 | 0.1 | 1 cp |
-| Waterskin |  | 0.1 | 5 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Backpack\|Backpack]] |  |  | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Bedroll\|Bedroll]] |  | 0.1 | 2 cp |
+| [[srd/pf2e/compendium/equipment/weapons/club/Bo Staff\|Bo Staff]] |  | 2 | 2 sp |
+| [[srd/pf2e/compendium/equipment/weapons/crossbow/Bolts\|Bolts]] | 10 | 0.1 | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Chalk\|Chalk]] | 50 |  | 1 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Climbing Kit\|Climbing Kit]] |  | 1 | 5 sp |
+| [[srd/pf2e/compendium/rules-elements/Weapon Groups#Dart\|Dart]] | 10 | 0.1 | 1 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Flint and Steel\|Flint and Steel]] |  |  | 5 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Grappling Hook\|Grappling Hook]] |  | 0.1 | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit\|Healer's Toolkit]] |  | 1 | 5 gp |
+| [[srd/pf2e/compendium/equipment/weapons/crossbow/Heavy Crossbow\|Heavy Crossbow]] |  | 2 | 4 gp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Rations\|Rations]] | 2 | 0.1 | 4 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Rope\|Rope]] |  | 0.1 | 5 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Soap\|Soap]] |  |  | 2 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Ten-Foot Pole\|Ten-Foot Pole]] |  | 1 | 1 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Torch\|Torch]] | 5 | 0.1 | 1 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Waterskin\|Waterskin]] |  | 0.1 | 5 cp |

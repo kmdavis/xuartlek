@@ -66,7 +66,7 @@ Sometimes you'll want a creature that's weaker than normal so you can use a crea
 
 ## Languages
 
-You can freely add or remove languages from stat blocks! The main languages are listed can be found here.
+You can freely add or remove languages from stat blocks! The main languages are listed in [[srd/pf2e/compendium/rules-elements/Languages|Languages]].
 
 ## Gear
 

@@ -85,7 +85,7 @@ Each time you gain a level, you can add the formulas for two common alchemical i
 
 As normal, having the base formula is sufficient when Crafting upgraded types of the item--you don't need to learn higher-level formulas. For instance, if you have the 1st-level formula for a minor elixir of life, you can create a minor, lesser, moderate, greater, major, or true elixir of life as long as you meet the level and other prerequisites. Items with type entries that have widely varied functions require separate formulas, but most alchemical items have a structure similar to elixir of life.
 
-**Gunslinger's Way** *Level 1*
+[[srd/pf2e/compendium/character/class-features/gunslinger/Gunslinger's Way|**Gunslinger's Way**]] *Level 1*
 
 `gunslinger`
 
@@ -101,7 +101,7 @@ All gunslingers have a particular way they follow, a combination of philosophy a
 
 **Way of the Triggerbrand** You prefer firearms that work well as weapons in both melee and ranged combat
 
-**Slinger's Precision** *Level 1*
+[[srd/pf2e/compendium/character/class-features/gunslinger/Slinger's Precision|**Slinger's Precision**]] *Level 1*
 
 `gunslinger`
 
@@ -111,7 +111,7 @@ If you have gunslinging legend, you instead deal +3 additional precision damage 
 
 If you are using a combination weapon whose ranged form is a firearm or crossbow, you use your proficiency with firearms and crossbows for attacks made with the melee configuration of that weapon.
 
-**Way of the Spellshot** *Level 1*
+[[srd/pf2e/compendium/character/Ways#Way of the Spellshot|**Way of the Spellshot**]] *Level 1*
 
 `gunslinger`
 
@@ -129,7 +129,7 @@ You've learned the intricacies of magic and technology, blending the two togethe
 
 ### Class Feats
 
-**Munitions Crafter** *Level 1*
+[[srd/pf2e/compendium/feats/guns-gears-remastered/class/Munitions Crafter|**Munitions Crafter**]] *Level 1*
 
 `gunslinger`
 
@@ -139,7 +139,7 @@ You gain a formula book that includes the formula for black powder and four 1st-
 
 When crafting alchemical ammunition, including black powder in doses or rounds, using advanced alchemy, you create the ammunition in batches of 4 (meaning that if you were 4th level and used all of your advanced alchemy consumables to create alchemical ammunition, you could create a maximum of 24 rounds). You cannot use advanced alchemy to Craft horns or kegs of black powder.
 
-**Fake Out** *Level 2*
+[[srd/pf2e/compendium/feats/guns-gears-remastered/class/Fake Out|**Fake Out**]] *Level 2*
 
 `gunslinger`  `visual`
 
@@ -149,7 +149,7 @@ When crafting alchemical ammunition, including black powder in doses or rounds, 
 
 With a skilled flourish of your weapon, you force an enemy to acknowledge you as a threat. Make an attack roll to Aid the triggering attack. If you dealt damage to that enemy with the same weapon since the start of your last turn, you gain a +1 circumstance bonus to this roll.
 
-**Spellshot Dedication** *Level 2*
+[[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/Spellshot Dedication|**Spellshot Dedication**]] *Level 2*
 
 `archetype`  `class`  `dedication`
 
@@ -159,7 +159,7 @@ You cast arcane spells like a wizard, gaining a spellbook with four common arcan
 
 ### Ancestry Feats
 
-**Clan Pistol** *Level 1*
+[[srd/pf2e/compendium/equipment/weapons/firearm/Clan Pistol|**Clan Pistol**]] *Level 1*
 
 `dwarf`
 
@@ -169,13 +169,13 @@ Raised in the ancient halls of Dongun Hold or the surrounding region, you displa
 
 ### Skill Feats
 
-**Alchemical Crafting** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/Alchemical Crafting|**Alchemical Crafting**]] *Level 1*
 
 `general`  `skill`
 
 You can use the Craft activity to create alchemical items. When you select this feat, you immediately add the formulas for four common 1st-level alchemical items to your formula book.
 
-**Battle Medicine** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/Battle Medicine|**Battle Medicine**]] *Level 1*
 
 `general`  `healing`  `manipulate`  `skill`
 
@@ -183,7 +183,7 @@ You can use the Craft activity to create alchemical items. When you select this 
 
 You can patch up wounds, even in combat. Attempt a Medicine check with the same DC as for Treat Wounds and restore the corresponding amount of HP; this doesn't remove the wounded condition. As with Treat Wounds, you can attempt checks against higher DCs if you have the minimum proficiency rank. The target is then immune to your Battle Medicine for 1 day. This does not make them immune to, or otherwise count as, Treat Wounds.
 
-**Streetwise** *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/Streetwise|**Streetwise**]] *Level 1*
 
 `general`  `skill`
 
@@ -204,31 +204,31 @@ You know about life on the streets and feel the pulse of your local settlement. 
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| Clan Pistol |  | 0.1 | 5 gp |
+| [[srd/pf2e/compendium/equipment/weapons/firearm/Clan Pistol\|Clan Pistol]] |  | 0.1 | 5 gp |
 
 ### Worn and Invested
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| Ring of Discretion |  |  | 15 gp |
+| [[srd/pf2e/compendium/equipment/worn-items/Ring of Discretion\|Ring of Discretion]] |  |  | 15 gp |
 
 ### Carried
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| Alchemist's Toolkit |  | 1 | 3 gp |
-| Backpack |  |  | 1 sp |
-| Bedroll |  | 0.1 | 2 cp |
-| Caltrops | 3 | 0.1 | 3 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Alchemist's Toolkit\|Alchemist's Toolkit]] |  | 1 | 3 gp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Backpack\|Backpack]] |  |  | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Bedroll\|Bedroll]] |  | 0.1 | 2 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Caltrops\|Caltrops]] | 3 | 0.1 | 3 sp |
 | Elemental Ammunition (Lesser, Cold) | 4 |  | 3 gp |
 | Elemental Ammunition (Lesser, Electricity) | 4 |  | 3 gp |
-| Formula Book (Blank) |  | 0.1 | 1 gp |
-| Healer's Toolkit |  | 1 | 5 gp |
-| Leather Armor |  | 1 | 2 gp |
-| Ooze Ammunition (Lesser) | 4 |  | 7 gp |
-| Rations |  | 0.1 | 4 sp |
-| Rope |  | 0.1 | 5 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Formula Book (Blank)\|Formula Book (Blank)]] |  | 0.1 | 1 gp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit\|Healer's Toolkit]] |  | 1 | 5 gp |
+| [[srd/pf2e/compendium/equipment/Armor#Leather Armor\|Leather Armor]] |  | 1 | 2 gp |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Ooze Ammunition\|Ooze Ammunition (Lesser)]] | 4 |  | 7 gp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Rations\|Rations]] |  | 0.1 | 4 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Rope\|Rope]] |  | 0.1 | 5 sp |
 | Rounds (Clan Pistol) | 10 | 0.1 | 1 sp |
 | Rounds (Clan Pistol) | 7 | 0.1 | 1 sp |
-| Shortsword |  | 0.1 | 9 sp |
-| Thieves' Toolkit |  | 0.1 | 3 gp |
+| [[srd/pf2e/compendium/equipment/weapons/sword/Shortsword\|Shortsword]] |  | 0.1 | 9 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Thieves' Toolkit\|Thieves' Toolkit]] |  | 0.1 | 3 gp |
