@@ -224,6 +224,6 @@ panClamp: true
 
 [Full vector map](Mortuus%20Rex%20map.svg) if you would rather zoom in your own viewer.
 
-The world's orbit around its primary:
+An orbital view of the world:
 
 ![[Mortuus Rex orbit.webp]]

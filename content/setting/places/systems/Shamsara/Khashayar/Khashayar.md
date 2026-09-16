@@ -183,6 +183,6 @@ panClamp: true
 
 [Full vector map](Khashayar%20map.svg) if you would rather zoom in your own viewer.
 
-The world's orbit around its primary:
+An orbital view of the world:
 
 ![[Khashayar orbit.webp]]

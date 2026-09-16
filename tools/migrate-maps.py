@@ -24,6 +24,7 @@ its note name.
 Idempotent: skips any image already present, so a re-run after adding one world
 does not re-encode the other eleven. Run from the repo root.
 """
+import json
 import pathlib
 import shutil
 import subprocess
@@ -90,7 +91,7 @@ panClamp: true
 
 [Full vector map]({svg}) if you would rather zoom in your own viewer.
 
-The world's orbit around its primary:
+An orbital view of the world:
 
 ![[{world} orbit.webp]]
 """
@@ -184,6 +185,16 @@ def main() -> int:
                 saved_before += gif_src.stat().st_size
                 saved_after += webp_dst.stat().st_size
                 converted += 1
+
+        # The plugin treats the marker sidecar as mandatory, not optional: with
+        # no {image}.markers.json beside the base it renders "Map failed to
+        # load / Marker data not found" and never requests the image at all.
+        # An empty layer and marker set is valid and is what Obsidian writes
+        # into on the first pin, so this is a seed rather than a placeholder.
+        markers = dst_dir / f"{world} map.webp.markers.json"
+        if not markers.exists():
+            markers.write_text(json.dumps({"layers": [], "markers": []},
+                                          indent=1) + "\n", encoding="utf-8")
 
         rel_dir = str(dst_dir).replace("content/", "", 1)
         if embed(note, world, rel_dir):

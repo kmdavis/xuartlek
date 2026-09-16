@@ -254,6 +254,6 @@ panClamp: true
 
 [Full vector map](Arborisle%20map.svg) if you would rather zoom in your own viewer.
 
-The world's orbit around its primary:
+An orbital view of the world:
 
 ![[Arborisle orbit.webp]]
