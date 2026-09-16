@@ -282,6 +282,11 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  # Must run after the TTRPG map plugin: it rewrites the config that plugin
+  # emits. Upstream hardcodes root-absolute image URLs, which 404 on a site
+  # served from a subpath like /xuartlek.
+  - source: "./plugins/quartz-ttrpg-basepath"
+    enabled: true
   - source: github:quartz-community/obsidian-plugin-ttrpg-tools-maps
     enabled: true
     options:

@@ -1,0 +1,20 @@
+{
+  "name": "quartz-ttrpg-basepath",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./index.js",
+  "exports": { ".": "./index.js" },
+  "quartz": {
+    "name": "ttrpg-basepath",
+    "displayName": "TTRPG Map base path",
+    "description": "Prefixes TTRPG Tools: Maps image URLs with the baseUrl path, which upstream ignores. Remove once fixed upstream.",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 90,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  },
+  "peerDependencies": { "@jackyzha0/quartz": "^5.0.0" }
+}
