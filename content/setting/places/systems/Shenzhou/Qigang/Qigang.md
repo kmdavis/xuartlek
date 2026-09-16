@@ -214,3 +214,20 @@ First contact with worlds that don't share the six-element system raised theolog
 **Trade:**
 * **Exports**: Silk, porcelain, steel (pattern-welded blades), astronomical charts, honor-bound mercenaries, scholarly services
 * **Imports**: Raw materials, magical items (for study), exotic foods, knowledge of other cosmologies
+
+## Maps
+
+```zoommap
+image: setting/places/systems/Shenzhou/Qigang/Qigang map.webp
+minZoom: 0.05
+maxZoom: 6
+height: 560px
+width: 100%
+panClamp: true
+```
+
+[Full vector map](Qigang%20map.svg) if you would rather zoom in your own viewer.
+
+The world's orbit around its primary:
+
+![[Qigang orbit.webp]]

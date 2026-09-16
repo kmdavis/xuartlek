@@ -210,3 +210,20 @@ Why hasn't the darkness finished conquering Mortuus Rex? The undead armies are v
 * Something within the Bastion is valuable and must be taken intact
 * The siege itself serves some purpose
 * The darkness isn't unified--internal conflicts prevent coordinated assault
+
+## Maps
+
+```zoommap
+image: setting/places/systems/Umbra/Mortuus Rex/Mortuus Rex map.webp
+minZoom: 0.05
+maxZoom: 6
+height: 560px
+width: 100%
+panClamp: true
+```
+
+[Full vector map](Mortuus%20Rex%20map.svg) if you would rather zoom in your own viewer.
+
+The world's orbit around its primary:
+
+![[Mortuus Rex orbit.webp]]

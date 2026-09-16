@@ -314,3 +314,20 @@ Some conservative clans view this as cheating--survival should depend on proper 
 
 **Astronomical Validation:**
 Xuartlek scholars confirmed what Strafmackish sky-watchers long suspected--the eccentric orbit is stable on multi-million-year timescales, not a temporary aberration. This knowledge settled theological debates about whether the "Long Winter" (a prophesied eternal aphelion) would come. It won't. The cycle is permanent, and Strafmack's people are adapted to it perfectly.
+
+## Maps
+
+```zoommap
+image: setting/places/systems/Strathis/Strafmack/Strafmack map.webp
+minZoom: 0.05
+maxZoom: 6
+height: 560px
+width: 100%
+panClamp: true
+```
+
+[Full vector map](Strafmack%20map.svg) if you would rather zoom in your own viewer.
+
+The world's orbit around its primary:
+
+![[Strafmack orbit.webp]]

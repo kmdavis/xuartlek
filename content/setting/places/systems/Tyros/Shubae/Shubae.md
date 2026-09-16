@@ -338,3 +338,20 @@ Shubae's complex tidal patterns and Aquara portal concentration made it astronom
 
 **The Drowning Preparation:**
 Xuartlek districts participate in Drowning preparations alongside local populations. Portal connections provide evacuation routes during the worst events, and Xuartlek scholars have contributed to understanding (though not preventing) the phenomenon.
+
+## Maps
+
+```zoommap
+image: setting/places/systems/Tyros/Shubae/Shubae map.webp
+minZoom: 0.05
+maxZoom: 6
+height: 560px
+width: 100%
+panClamp: true
+```
+
+[Full vector map](Shubae%20map.svg) if you would rather zoom in your own viewer.
+
+The world's orbit around its primary:
+
+![[Shubae orbit.webp]]

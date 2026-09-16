@@ -215,3 +215,20 @@ Colony population reflects Xuartlek's diverse network:
 * Dragon behavior unchanged since founding
 * Interior exploration ongoing but slow
 * Rumors of artifacts in deep forest persist but remain unconfirmed
+
+## Maps
+
+```zoommap
+image: setting/places/systems/Tessara/Myrrhina/Myrrhina map.webp
+minZoom: 0.05
+maxZoom: 6
+height: 560px
+width: 100%
+panClamp: true
+```
+
+[Full vector map](Myrrhina%20map.svg) if you would rather zoom in your own viewer.
+
+The world's orbit around its primary:
+
+![[Myrrhina orbit.webp]]

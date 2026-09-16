@@ -176,3 +176,20 @@ The massive triple-layered asteroid belt between Ferraine and Langsevain is call
 * **Why Xuartlek Came**: Industrial capacity and optical technology. Langsevain's telescope industry provides surveillance and astronomical observation capabilities for entire network. Automaton rights movement intrigued Xuartlek's philosophers.
 * **Trade Exports**: Optical instruments, precision tools, clockwork mechanisms, industrial machinery, coal, steel, engineering expertise
 * **Trade Imports**: Rare minerals for optical glass, exotic woods for instrument cases, arcane components for arcane-industrial fusion, foodstuffs, cultural goods
+
+## Maps
+
+```zoommap
+image: setting/places/systems/Calderon/Langsevain/Langsevain map.webp
+minZoom: 0.05
+maxZoom: 6
+height: 560px
+width: 100%
+panClamp: true
+```
+
+[Full vector map](Langsevain%20map.svg) if you would rather zoom in your own viewer.
+
+The world's orbit around its primary:
+
+![[Langsevain orbit.webp]]

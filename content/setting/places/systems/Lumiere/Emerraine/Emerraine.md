@@ -225,3 +225,20 @@ How do the portals bypass the Lodestone Ring's effects? Emerraine's scientists h
 * **Why Xuartlek Came**: Scientific curiosity and trade. Emerraine's technology valuable where magic is unreliable. Radio equipment, mechanical computers, precision instruments, medicines all trade well.
 * **Trade Exports**: Radios, precision instruments, diesel engines, medicines (antibiotics, vaccines), psychological services, scientific consulting, mechanical calculators, optical equipment, industrial chemicals, technical documentation
 * **Trade Imports**: Raw materials (rare earths, exotic metals from other worlds), magical artifacts for study, biological specimens, astronomical data, pure intellectual exchange
+
+## Maps
+
+```zoommap
+image: setting/places/systems/Lumiere/Emerraine/Emerraine map.webp
+minZoom: 0.05
+maxZoom: 6
+height: 560px
+width: 100%
+panClamp: true
+```
+
+[Full vector map](Emerraine%20map.svg) if you would rather zoom in your own viewer.
+
+The world's orbit around its primary:
+
+![[Emerraine orbit.webp]]

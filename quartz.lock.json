@@ -1,6 +1,12 @@
 {
   "version": "1.0.0",
   "plugins": {
+    "obsidian-plugin-ttrpg-tools-maps": {
+      "source": "github:quartz-community/obsidian-plugin-ttrpg-tools-maps",
+      "resolved": "https://github.com/quartz-community/obsidian-plugin-ttrpg-tools-maps.git",
+      "commit": "bc33fffc305aa46938c816431a978497fcd38bcd",
+      "installedAt": "2026-09-15T21:57:24.757Z"
+    },
     "quartz-leaflet-bases-plugin": {
       "source": "github:Requiae/quartz-leaflet-bases-plugin",
       "resolved": "https://github.com/Requiae/quartz-leaflet-bases-plugin.git",

@@ -240,3 +240,20 @@ Xuartlek spent a full generation (approximately 25 years) on Arborisle while his
 
 **Cultural Impact:**
 Xuartlek's arrival expanded Arborian awareness of the multiverse but changed little about daily life. The wood elves continued their patient stewardship; the high elves gained new scholarly subjects; the halflings found new customers for their crafts. Arborisle's self-sufficiency and cultural confidence meant external contact enhanced rather than disrupted existing patterns.
+
+## Maps
+
+```zoommap
+image: setting/places/systems/Sylvoria/Arborisle/Arborisle map.webp
+minZoom: 0.05
+maxZoom: 6
+height: 560px
+width: 100%
+panClamp: true
+```
+
+[Full vector map](Arborisle%20map.svg) if you would rather zoom in your own viewer.
+
+The world's orbit around its primary:
+
+![[Arborisle orbit.webp]]

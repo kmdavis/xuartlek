@@ -267,9 +267,9 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source: "./plugins/quartz-spoiler"
+  - source: ./plugins/quartz-spoiler
     enabled: true
-  - source: "./plugins/quartz-statblocks"
+  - source: ./plugins/quartz-statblocks
     enabled: true
   - source: github:Requiae/quartz-leaflet-bases-plugin
     enabled: true
@@ -282,6 +282,14 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:quartz-community/obsidian-plugin-ttrpg-tools-maps
+    enabled: true
+    options:
+      blockLanguage: zoommap
+      inlineBlockHeaderId: ZOOMMAP-DATA
+      maxInlineDataBytes: 0
+      defaultIconKey: pin-red
+    order: 55
 layout:
   groups:
     toolbar:

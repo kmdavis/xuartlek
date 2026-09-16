@@ -1,0 +1,57 @@
+{
+  "size": {
+    "w": 4096,
+    "h": 2099
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_o2zzuf",
+      "x": 0.6108785337219431,
+      "y": 0.6293846849411702,
+      "layer": "default",
+      "link": "Sielmoro",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_m7mxni",
+      "x": 0.5938637194021129,
+      "y": 0.5728526186713533,
+      "layer": "default",
+      "link": "Thelonésë",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    }
+  ],
+  "bases": [
+    "setting/places/systems/Tyros/Shubae/Shubae map.webp"
+  ],
+  "overlays": [],
+  "activeBase": "setting/places/systems/Tyros/Shubae/Shubae map.webp",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}

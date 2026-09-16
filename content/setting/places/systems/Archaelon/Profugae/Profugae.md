@@ -137,3 +137,20 @@ When major orbital sections fall, surface-running teams race to salvage them bef
 
 **The Question:**
 What caused the war that triggered the Cascade? The warrens hold no records old enough to answer. Some say it was ideological, others resource-based, still others whisper about AI rebellion or alien intervention. The truth died with the civilization that reached for the stars.
+
+## Maps
+
+```zoommap
+image: setting/places/systems/Archaelon/Profugae/Profugae map.webp
+minZoom: 0.05
+maxZoom: 6
+height: 560px
+width: 100%
+panClamp: true
+```
+
+[Full vector map](Profugae%20map.svg) if you would rather zoom in your own viewer.
+
+The world's orbit around its primary:
+
+![[Profugae orbit.webp]]

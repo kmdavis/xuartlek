@@ -139,3 +139,20 @@ Cities dominate the landscape with:
 * Three Low City districts connect Tertara to the planar network: Ragnfast, Novorzhev, Peniculus
 * Major trade hub for magical goods, enchanted items, and spell components
 * Attracts scholars and mages from across the entire portal network
+
+## Maps
+
+```zoommap
+image: setting/places/systems/Belcanto/Tertara/Tertara map.webp
+minZoom: 0.05
+maxZoom: 6
+height: 560px
+width: 100%
+panClamp: true
+```
+
+[Full vector map](Tertara%20map.svg) if you would rather zoom in your own viewer.
+
+The world's orbit around its primary:
+
+![[Tertara orbit.webp]]

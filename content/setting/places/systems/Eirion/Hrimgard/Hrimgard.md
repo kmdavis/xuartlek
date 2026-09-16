@@ -198,3 +198,20 @@ The mystery of why Xuartlek--the High City, the ascended sky tortle whose shell 
 * **Exports**: Ice-mead, glacier-forged steel, gems, fish, wool, timber, runic crafts
 * **Imports**: Tropical fruits, warm-weather textiles, spices, wood varieties that don't grow in cold
 * **Most Precious Import**: The opportunity for Hrimgardian children to see warmer worlds--to know that water flows liquid somewhere, that green exists beyond black pine
+
+## Maps
+
+```zoommap
+image: setting/places/systems/Eirion/Hrimgard/Hrimgard map.webp
+minZoom: 0.05
+maxZoom: 6
+height: 560px
+width: 100%
+panClamp: true
+```
+
+[Full vector map](Hrimgard%20map.svg) if you would rather zoom in your own viewer.
+
+The world's orbit around its primary:
+
+![[Hrimgard orbit.webp]]

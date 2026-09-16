@@ -169,3 +169,20 @@ The myth shapes Khashayari culture profoundly:
 
 **First Contact:**
 When Xuartlek's portals opened, Khashayari citizens entering other worlds experienced water abundance as nearly divine. The psychological impact of seeing rain for the first time, or rivers not guarded by armed soldiers, fundamentally shifted some cultural assumptions. A small but growing philosophical movement questions whether the gods' judgment extends to other worlds--and if not, why?
+
+## Maps
+
+```zoommap
+image: setting/places/systems/Shamsara/Khashayar/Khashayar map.webp
+minZoom: 0.05
+maxZoom: 6
+height: 560px
+width: 100%
+panClamp: true
+```
+
+[Full vector map](Khashayar%20map.svg) if you would rather zoom in your own viewer.
+
+The world's orbit around its primary:
+
+![[Khashayar orbit.webp]]
