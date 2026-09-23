@@ -244,7 +244,7 @@ Xuartlek's arrival expanded Arborian awareness of the multiverse but changed lit
 ## Maps
 
 ```zoommap
-image: setting/places/systems/Sylvoria/Arborisle/Arborisle map.webp
+image: content/setting/places/systems/Sylvoria/Arborisle/Arborisle map.webp
 minZoom: 0.05
 maxZoom: 6
 height: 560px

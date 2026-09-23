@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Kobold`
 
 - **PFS Note**: The Imperial Dragon Potion feat grants the greater version of the energy breath potion.
-- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]; [[srd/pf2e/compendium/character/Heritages#Heavenscribe Kobold|Heavenscribe Kobold]] heritage
+- **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]; [[srd/pf2e/compendium/character/ancestries/Kobold#Heavenscribe Kobold|Heavenscribe Kobold]] heritage
 
 During your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Running Exploration#Daily Preparations|daily preparations]], you can spend 10 minutes to create a variant energy breath potion, which has the [[srd/pf2e/compendium/character/ancestries/Kobold|kobold]] trait in addition to its normal traits. The variant potion is influenced by imperial [[srd/pf2e/compendium/rules-elements/traits/player-core/Dragon|dragon]] magic, granting it the effect corresponding to your dragon benefactor; the DC for the breath is the higher of your [[srd/pf2e/books/player-core/chapter-1-introduction/Character Creation#Class DC|class DC]] or [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Spell DC|spell DC]]. The potion becomes inert if not used by your next daily preparations, so it has no value if sold.
 

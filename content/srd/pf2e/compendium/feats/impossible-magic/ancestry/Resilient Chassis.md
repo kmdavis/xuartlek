@@ -16,7 +16,7 @@ socialImage: og-image.png
 `Automaton`  `Concentrate`
 
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Defensive Automaton|Defensive Automaton]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Automaton#Defensive Automaton|Defensive Automaton]] heritage
 - **Trigger**: You would take damage.
 
 You are tough enough to draw on your own internal stores of energy when you get injured. You gain 4 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Hit Points, Healing, and Dying#Temporary Hit Points|temporary Hit Points]] that last for 1 round. 

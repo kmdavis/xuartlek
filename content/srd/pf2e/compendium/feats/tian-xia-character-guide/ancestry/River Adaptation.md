@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Lizardfolk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Makari Lizardfolk|Makari Lizardfolk]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Lizardfolk#Makari Lizardfolk|Makari Lizardfolk]] heritage
 
 Webbing sprouts on your legs and tail as you shift to a more aquatic form. You can cast [[srd/pf2e/compendium/spells/rank-3/Feet to Fins|_feet to fins_]] as an innate divine spell once per day. This innate magic relies on your makari heritage, limiting the effect to yourself but allowing you to cast it more easily than a common mage; you can target only yourself with the spell, but you can Cast the Spell as a free action if you’re within a body of water when you cast it.
 

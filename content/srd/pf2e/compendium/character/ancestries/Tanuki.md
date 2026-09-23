@@ -72,3 +72,37 @@ Additional languages equal to your Intelligence modifier (if it's positive). Cho
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]], [[srd/pf2e/compendium/rules-elements/traits/tian-xia-character-guide/Tanuki|tanuki]]) You can transform into a mundane raccoon dog, using the statistics of [[srd/pf2e/compendium/spells/rank-1/Pest Form|_pest form_]]. This is a specific raccoon dog form that's the same age and body type as your true form and has roughly analogous physical traits, such as hair color. Using Change Shape counts as creating a disguise for the [[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]] use of [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]. You lose any unarmed Strikes you gained from a tanuki heritage or ancestry feat in this form. You can remain in your raccoon dog form indefinitely, and you can shift back to your tanuki form by using this action again.
 
 *Source: Tian Xia Character Guide p. 64*
+
+## Heritages
+
+## Ascetic Tanuki
+
+It's said your round form is the result of calmness and restraint, not indulgence. You gain scent as an imprecise sense with a range of 30 feet. The GM will usually double the range if you're downwind from something you're trying to smell or halve the range if you're upwind. In addition, you gain a +2 circumstance bonus to Perception checks whenever you're trying to locate food, drink, or a [[srd/pf2e/compendium/rules-elements/traits/player-core/Consumable|consumable]] item that's ingested (such as a [[srd/pf2e/compendium/rules-elements/traits/player-core/Potion|potion]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Elixir|elixir]]) using your scent.
+
+*Source: Tian Xia Character Guide p. 65*
+
+## Courageous Tanuki
+
+Your heart beats with the courage of those who came before you, giving you the kind of bravery only a tanuki can demonstrate. Whenever you gain the [[srd/pf2e/compendium/rules-elements/Conditions#Fleeing|fleeing]] condition, you also gain a +10-foot circumstance bonus to your Speeds that lasts as long as you're fleeing. When you have the fleeing condition, instead of having to spend all your actions trying to escape, you can act normally for one action but must still spend the remainder of your actions fleeing. You also gain the Tactical Retreat ability.
+
+**Activate—Tactical Retreat** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]], tanuki) **Frequency** once per hour; **Trigger** You gain the [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened]] condition; **Effect** Realizing that discretion is the better part of valor, you opt to put some distance between you and a threat. You gain the fleeing condition until the beginning of your next turn, and you Stride.
+
+*Source: Tian Xia Character Guide p. 66*
+
+## Even-tempered Tanuki
+
+You're possessed of a serenity uncommon to other tanuki, who always seem to be flying off the handle. You gain a +1 circumstance bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]] effects. If you roll a success at a saving throw against an emotion effect, you get a critical success instead, but when you roll a failure at a saving throw against an emotion effect, you get a critical failure instead.
+
+*Source: Tian Xia Character Guide p. 66*
+
+## Steadfast Tanuki
+
+Your pride in your true tanuki form knows no bounds. You gain your choice of [[srd/pf2e/compendium/feats/tian-xia-character-guide/ancestry/Everyday Form|Everyday Form]] or [[srd/pf2e/compendium/feats/tian-xia-character-guide/ancestry/Teakettle Form|Teakettle Form]] as a bonus ancestry feat.
+
+*Source: Tian Xia Character Guide p. 66*
+
+## Virtuous Tanuki
+
+Many tanuki carry a gourd of alcohol to remind themselves to act with virtue, and by these standards, you're quite virtuous indeed. You gain [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Resistance|resistance]] equal to half your level (minimum 1). You can eat and drink things when you're [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]]. You can't become incapacitated by conventional alcohol if you don't wish to be.
+
+*Source: Tian Xia Character Guide p. 66*

@@ -75,3 +75,37 @@ Additional languages equal to your Intelligence modifier (if it's positive). Cho
 | **Darkvision** | You can see in darkness and dim light just as well as you can see in bright light. |
 
 *Source: Tian Xia Character Guide p. 70*
+
+## Heritages
+
+## Shadow of the Courtier
+
+Your shadow dances alongside you. You gain the [[srd/pf2e/compendium/feats/player-core/skill/Impressive Performance|Impressive Performance]] skill feat, allowing you to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] using [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] instead of [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]]. Once per day, if you fail, but not critically fail, a check to Make an Impression, you can play it off as part of a performance, allowing you to reroll the check; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]] effect.
+
+*Source: Tian Xia Character Guide p. 72*
+
+## Shadow of the Hermit
+
+Your shadow seems somehow full of secrets and mysteries— secrets that it shares with you. Choose one cantrip from the [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]] spell list. You can cast this spell as an occult innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
+
+*Source: Tian Xia Character Guide p. 72*
+
+## Shadow of the Sailor
+
+Your shadow flits across the surface of the water, and so do you. You can walk on the surface of still water and other non-damaging liquids, moving at half your normal Speed. You can attempt to walk along the surface of flowing water as well, still moving at half Speed, but to do so, you must succeed at an [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Balance|Balance]] using the DC of a [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]] check to move through the water; on a failure, you fall into the water. This Acrobatics check doesn't use an action.
+
+*Source: Tian Xia Character Guide p. 72*
+
+## Shadow of the Smith
+
+Your shadow is thick and liquid, like it could quench the finest ore. You gain the Inscribe Shadow Pamor action.
+
+**Activate—Inscribe Shadow Pamor** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Shadow|shadow]]) **Frequency** once per minute; **Effect** You plunge your fist or weapon into your shadow, enveloping it in a rippling, damask-like pattern of darkness. If your next action is to Strike, the shadows cling to your foe with your attack, obscuring its vision. On a hit, the target of your Strike becomes dazzled until the start of your next turn. The target can use an Interact action to tear away the clinging shadows and remove the dazzled condition. On a critical hit, the shadows are particularly stubborn and can’t be torn away.
+
+*Source: Tian Xia Character Guide p. 72*
+
+## Shadow of the Wanderer
+
+Your shadow blazes out ahead of you, clearing your path. Your Speed increases by 5 feet.
+
+*Source: Tian Xia Character Guide p. 72*

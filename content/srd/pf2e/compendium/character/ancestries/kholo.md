@@ -76,3 +76,59 @@ Your sharp teeth and powerful jaws are fearsome weapons. You have a jaws [[srd/p
 You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition due to dim light.
 
 *Source: Player Core 2 p. 16*
+
+## Heritages
+
+## Ant Kholo
+
+You're a sharp-featured, big-eared kholo about 3 feet tall. Many are skeptical that you are in fact a kholo. Your size is Small instead of Medium. You are trained in [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] (or another skill if you were already trained in Deception). You gain a +1 circumstance bonus to Deception checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]] when specifically claiming innocence, to Deception DCs against [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]] checks to uncover such lies, and to initiative checks when you roll Deception for initiative.
+
+*Source: Player Core 2 p. 17*
+
+## Cave Kholo
+
+Storytellers spin ancient tales claiming that kholo lived in caves and underground before most of your kind ventured into the light. You're a throwback to these ancients, with a broad chest and markings that resemble short black slashes instead of spots. Your eyes are developed to see perfectly in the dark, a valuable advantage to your clan. You gain darkvision.
+
+*Source: Player Core 2 p. 17*
+
+## Dog Kholo
+
+You're a nimble-bodied kholo with a prehistoric, almost dog-like build. Though you typically move like a quadruped, you can still stand and fight like a biped, allowing you to use all equipment normally. If you have both hands free, you can increase your Speed to 30 feet as you run on all fours.
+
+### Feats that require Dog Kholo...
+
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Rabid Sprint|Rabid Sprint]]
+
+*Source: Player Core 2 p. 17*
+
+## Great Kholo
+
+You're an imposing, powerful kholo, with tawny fur and brown spots on your hide. You gain 10 Hit Points from your ancestry instead of 8 and gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]].
+
+*Source: Player Core 2 p. 17*
+
+## Sweetbreath Kholo
+
+You're a striped, pale-furred kholo with oddly pleasant breath, which you can use to entrance your prey. You are trained in [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] (or another skill if you were already trained in Diplomacy). You also gain a +1 circumstance bonus to checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] if the target can smell your breath.
+
+### Feats that require Sweetbreath Kholo...
+
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Breath Like Honey|Breath Like Honey]]
+
+*Source: Player Core 2 p. 17*
+
+## Winter Kholo
+
+You're a hardy kholo covered in thick, tufted fur that makes you able to survive in the harsh winters of the colder territories. You gain cold resistance equal to half your level (minimum 1). You treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).
+
+*Source: Player Core 2 p. 17*
+
+## Witch Kholo
+
+You're a shaggy, dark-furred kholo capable of making some truly uncanny sounds. You can cast the [[srd/pf2e/compendium/spells/cantrips/Figment|_figment_]] cantrip as an occult innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up. In addition, you gain a +1 circumstance bonus to checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Create a Diversion|Create a Diversion]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]] when using only your voice.
+
+### Feats that require Witch Kholo...
+
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Distant Cackle|Distant Cackle]]
+
+*Source: Player Core 2 p. 17*

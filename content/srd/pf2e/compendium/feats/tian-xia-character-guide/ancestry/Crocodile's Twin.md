@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Lizardfolk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Bakuwa Lizardfolk|Bakuwa Lizardfolk]] heritage or [[srd/pf2e/compendium/character/Heritages#Makari Lizardfolk|Makari Lizardfolk]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Lizardfolk#Bakuwa Lizardfolk|Bakuwa Lizardfolk]] heritage or [[srd/pf2e/compendium/character/ancestries/Lizardfolk#Makari Lizardfolk|Makari Lizardfolk]] heritage
 
 Your egg contained your twin, a crocodile. Considered a rare and auspicious event, you share a magical bond with this sibling. You gain a tiny crocodile as a [[srd/pf2e/compendium/feats/player-core/archetype/Familiar|familiar]].
 

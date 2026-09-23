@@ -42,6 +42,7 @@ def main() -> int:
     parents = {d["id"]: (d.get("markdown") or "") for d in docs}
     live = [d for d in docs
             if not comp.superseded(d) and not comp.synthetic(d, parents)]
+    comp.set_ancestry_names(docs)
     class_index = comp.build_class_index(docs)
     counts = collections.Counter(d.get("category", "") for d in live)
     for d in live:

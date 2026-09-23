@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Flourish`  `Kholo`  `Gnoll`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Dog Kholo|Dog Kholo]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Kholo#Dog Kholo|Dog Kholo]] heritage
 - **Requirements**: You have both your hands free.
 
 You run on all fours as fast as you can. Stride three times.

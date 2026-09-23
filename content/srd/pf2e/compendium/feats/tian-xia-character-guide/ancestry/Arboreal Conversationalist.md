@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Gnome`  `Uncommon`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Kijimuna Gnome|Kijimuna Gnome]] heritage or at least one [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]] innate spell from a gnome heritage or feat
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Gnome#Kijimuna Gnome|Kijimuna Gnome]] heritage or at least one [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]] innate spell from a gnome heritage or feat
 - **Access**: kijimuna gnome heritage or Tian Xia origin
 
 With your close connection to primal energies and the First World, you can communicate with trees. You can cast [[srd/pf2e/compendium/spells/rank-3/Speak with Plants|_speak with plants_]] as a 4th-rank innate primal spell twice per day.

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Automaton`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Newly Minted Automaton|Newly Minted Automaton]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Automaton#Newly Minted Automaton|Newly Minted Automaton]] heritage
 
 You were created by a Nexian mage specifically for the purpose of fighting [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]], and you are infused with [[srd/pf2e/compendium/rules-elements/traits/player-core/Vitality|vitality]] magic. You gain [[srd/pf2e/compendium/spells/cantrips/Vitality Lash|_vitality lash_]] as an [[srd/pf2e/books/gm-core/chapter-2-building-games/Building Creatures#Innate Spells|innate]] [divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2) cantrip.
 

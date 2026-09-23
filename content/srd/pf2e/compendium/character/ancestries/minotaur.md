@@ -98,3 +98,51 @@ Additional languages equal to your Intelligence modifier (if positive). Choose f
 Your sharp horns are as deadly as spears. You have a horns unarmed attack that deals 1d8 piercing damage. Your horns are in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] trait.
 
 *Source: Howl of the Wild p. 40*
+
+## Heritages
+
+## Ghost Bull Minotaur
+
+Your fur is as pale as death, possibly from some connection you or your family has to the afterlife, which lets you supernaturally find your way. You can cast [[srd/pf2e/compendium/spells/cantrips/Know the Way|_know the way_]] as an occult innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up. In addition, you gain a +1 circumstance bonus against spells or effects that cause the [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]] condition.
+
+### Feats that require Ghost Bull Minotaur...
+
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Phantom Charm|Phantom Charm]]
+
+*Source: Howl of the Wild p. 42*
+
+## Glacier Cavern Minotaur
+
+Your fur grows thick and warm, well suited to the frozen mountains in which you reside. You gain cold resistance equal to half your level (minimum of 1). Environmental cold effects are one step less extreme for you.
+
+*Source: Howl of the Wild p. 42*
+
+## Littlehorn Minotaur
+
+Though no less powerful, your frame (and your horns) are smaller than those of most other minotaurs. Instead of Large, your size is Medium. Your horns unarmed attack deals 1d6 piercing damage instead of 1d8, but it has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]] trait.
+
+*Source: Howl of the Wild p. 42*
+
+## Roaming Minotaur
+
+Your hooves are broad and powerful, perfect for clearing away rubble as you step. You become trained in [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]] (or another skill if you were already trained in Survival) and gain the [[srd/pf2e/compendium/feats/player-core/skill/Terrain Expertise|Terrain Expertise]] skill feat. You ignore difficult terrain caused by natural uneven ground while in the terrain chosen for your Terrain Expertise feat.
+
+*Source: Howl of the Wild p. 42*
+
+## Slabsoul Minotaur
+
+Your deep connection with stone and walls allows you to conjure massive slabs of granite that collapse on your foes. You gain the Raise Slabs activity.
+
+ **Raise Slabs**[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Earth|earth]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]]) **Frequency** once per day; **Effect** Thick slabs of stone rise around you before tilting over. You deal 1d6 bludgeoning damage to all adjacent creatures (basic Reflex against your class DC or spell DC, whichever is higher). On a critical failure, the creature is also knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]. At 3rd level, and every 2 levels thereafter, this damage increases by 1d6.
+
+### Feats that require Slabsoul Minotaur...
+
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Stone Passage|Stone Passage]]
+
+*Source: Howl of the Wild p. 42*
+
+## Stalker Minotaur
+
+Despite your heavy frame, you walk on shaggy hooves that muffle your footfalls, allowing you to surprise your prey. You become trained in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] (or another skill if you were already trained in Stealth) and gain the [[srd/pf2e/compendium/feats/player-core/skill/Terrain Stalker|Terrain Stalker]] skill feat, except you must choose rubble and you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]] no more than 10 feet instead of 5 feet without attempting a Stealth check.
+
+*Source: Howl of the Wild p. 42*

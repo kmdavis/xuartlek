@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Awakened Animal`
 
 - **Frequency**: once per round
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Flying Animal|Flying Animal]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Awakened Animal#Flying Animal|Flying Animal]] heritage
 
 Though it's not fully effective, much of your ability to fly has stayed with you. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]]. If you don't normally have a fly Speed, you gain a fly Speed of 15 feet for this movement. If you aren't on solid ground at the end of this movement, you fall.
 

@@ -89,3 +89,37 @@ You can see in dim light as though it were bright light, so you ignore the [[srd
 Your soul is especially able to return to the cycle of reincarnation. When you're the subject of [[srd/pf2e/compendium/spells/rank-6/Raise Dead|_raise dead_]], [[srd/pf2e/compendium/spells/rituals/Reincarnate|_reincarnate_]], or a similar ritual that would return you to life, the primary caster uses the outcome one degree of success better than their roll. You always return to life as a samsaran, even if the ritual would reincarnate you into a body of a different ancestry.
 
 *Source: Tian Xia Character Guide p. 52*
+
+## Heritages
+
+## Healer Samsaran
+
+In seeking enlightenment, your past incarnations have wandered away from the ancestral homelands of Zi Ha, exploring the different nations of Tian Xia and elsewhere in Golarion. Your past incarnations had dangerous encounters while traveling, and you frequently have flashbacks to [[srd/pf2e/compendium/rules-elements/traits/player-core/Healing|healing]] wounds. You become trained in [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]]. If you would automatically become trained in Medicine (from your background or class, for example), you instead become trained in a skill of your choice. When you use Medicine to [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]] on yourself, you can use your special techniques to add your level to the Hit Points you regain from the treatment.
+
+*Source: Tian Xia Character Guide p. 54*
+
+## Mountaineer Samsaran
+
+Your past incarnations dwelled in the caves on the snowcapped mountains of Tian Xia, so your body has become adept at surviving frigid storms. You gain [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]] resistance equal to half your level (minimum 1). You treat [[srd/pf2e/books/gm-core/chapter-2-building-games/Environment#Temperature|environmental cold]] effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).
+
+*Source: Tian Xia Character Guide p. 54*
+
+## Oracular Samsaran
+
+Your past lives have provided heightened insight to the spiritual world and current and future events, as history repeats itself. Choose [[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]]. You gain one cantrip from that magical tradition's spell list. You can Cast this Spell as an innate spell at will, as a spell of your chosen tradition. A cantrip is heightened to a spell rank equal to half your level rounded up.
+
+*Source: Tian Xia Character Guide p. 55*
+
+## Sanctuary Samsaran
+
+Your past incarnations were reborn in sanctuaries in northern Zi Ha, and you have recollections of being trained to concentrate and focus for long periods of time. Your hazy flashbacks also reveal useful scripture in the books your past lives had eagerly consumed. You gain the Tap the Past action.
+
+**Activate—Tap the Past** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]]) **Frequency** once per day;; **Trigger** You’re about to attempt a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]]; **Effect** You concentrate on the glimpses of a previous life to find a memory of a tome or an applicable lesson from your past. You roll a second time and use the higher result. If you roll a critical failure, you get a failure instead. If you roll a success, you get a critical success instead.
+
+*Source: Tian Xia Character Guide p. 55*
+
+## Wilderness Samsaran
+
+Your preceding lives have been reborn in various remote environments away from major settlements in Tian Xia and beyond. Your past manifestations have had to learn how to survive on their own, and you recall this will to survive while possessing very little resources. You become trained in [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]]. If you would automatically become trained in Survival (from your background or class, for example), you instead become trained in a skill of your choice. You can ignore [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Movement#Difficult Terrain|difficult terrain]] from trees, foliage, and undergrowth.
+
+*Source: Tian Xia Character Guide p. 55*

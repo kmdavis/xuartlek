@@ -69,3 +69,60 @@ Additional languages equal to your Intelligence modifier (if it's positive). Cho
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Polymorph|polymorph]], [[srd/pf2e/compendium/rules-elements/traits/tian-xia-character-guide/Yaoguai|yaoguai]]) You transform to or from your true yaoguai form into a humanoid alternate form, which is a common Medium humanoid ancestry prevalent where you were born (typically human). This form is the same apparent age and body type as your yaoguai form and has roughly analogous physical traits, such as hair color. Using Change Shape counts as creating a disguise for the [[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]] use of [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]]. You can remain in your humanoid form indefinitely, but you revert to your yaoguai form after 1 hour of [[srd/pf2e/compendium/rules-elements/Conditions#Unconscious|unconsciousness]]or 1 minute after death.
 
 *Source: Tian Xia Character Guide p. 82*
+
+## Heritages
+
+## Born of Animal
+
+You were a simple animal until the sun enlightened you. 
+**Humanoid Form** [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|Animals]] can sense the power of your presence. You gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] checks against animals and [[srd/pf2e/compendium/rules-elements/traits/player-core/Beast|beasts]] and don't take a penalty for attempting to Intimidate animals or beasts you don't share a language with.**Yaoguai Form** You can dash like an animal. If you have both hands free, you can increase your Speed to 30 feet as you run on all fours.
+
+### Feats that require Born of Animal...
+
+[[srd/pf2e/compendium/feats/tian-xia-character-guide/ancestry/Crawling Form|Crawling Form]]
+
+*Source: Tian Xia Character Guide p. 84*
+
+## Born of Celestial
+
+You were once a powerful [[srd/pf2e/compendium/rules-elements/traits/player-core/Celestial|celestial]] before an escape or great punishment left you trapped in a mortal shell, with only vague memories and limited power. Due to your residual [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]] power, the tradition of any spells or magical abilities you gain from a yaoguai heritage or ancestry feat is divine instead of its normal tradition (usually [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]]). 
+**Humanoid Form** Fragments of divine memory still litter your mind. You gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] checks.**Yaoguai Form** Celestial power flows through you. Choose one cantrip from the [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]] spell list. You can cast this spell as an innate divine cantrip at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
+
+### Feats that require Born of Celestial...
+
+[[srd/pf2e/compendium/feats/tian-xia-character-guide/ancestry/Crawling Form|Crawling Form]]
+
+*Source: Tian Xia Character Guide p. 84*
+
+## Born of Elements
+
+You were an aspect of nature—the rain, the wind, a ray of light—until the wild essences gave you a soul. Due to your natural connection, the tradition of any spells or magical abilities you gain from a yaoguai heritage or ancestry feat is [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]] instead of its normal tradition (usually [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult|occult]]). 
+**Humanoid Form** You remain attuned to the natural world. You gain a +1 circumstance bonus to Survival checks to Sense Direction, and you don't take a penalty if you don't have a compass. **Yaoguai Form** The power of nature flows through you, ready to lash out. Choose [[srd/pf2e/compendium/spells/cantrips/Electric Arc|_electric arc_]], [[srd/pf2e/compendium/spells/cantrips/Frostbite|_frostbite_]], [[srd/pf2e/compendium/spells/cantrips/Ignition|_ignition_]], [[srd/pf2e/compendium/spells/cantrips/Needle Darts|_needle darts_]], [[srd/pf2e/compendium/spells/cantrips/Timber|_timber_]], [[srd/pf2e/compendium/spells/cantrips/Scatter Scree|_scatter scree_]] , [[srd/pf2e/compendium/spells/cantrips/Slashing Gust|_slashing gust_]], or [[srd/pf2e/compendium/spells/cantrips/Spout|_spout_]]. You can cast this spell as an innate primal cantrip at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
+
+### Feats that require Born of Elements...
+
+[[srd/pf2e/compendium/feats/tian-xia-character-guide/ancestry/Immobile Form|Immobile Form]]
+
+*Source: Tian Xia Character Guide p. 84*
+
+## Born of Item
+
+You were an object until the moon breathed life into you. Choose one Lore skill related to what kind of tool you were; for instance, Cooking Lore for a cleaver or Farming Lore for a rake. You become trained in this skill. 
+**Humanoid Form** You retain memories of the tasks you performed as an object. You gain a +1 circumstance bonus to the Lore skill you obtained through this heritage. **Yaoguai Form** Your time as a mindless object makes it harder to affect you mentally. If you roll a success on a [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effect, you gain a critical success instead.
+
+### Feats that require Born of Item...
+
+[[srd/pf2e/compendium/feats/tian-xia-character-guide/ancestry/Immobile Form|Immobile Form]]
+
+*Source: Tian Xia Character Guide p. 84*
+
+## Born of Vegetation
+
+You were a [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Fungus|fungi]] until the rain gifted you a mind. You gain your choice of the plant or fungus trait. 
+**Humanoid Form** With fresh vegetation, you can better aid those in need. You gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Administer First Aid|Administer First Aid]]. **Yaoguai Form** When anyone uses the Medicine skill to [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat your Wounds,]] add your level to the Hit Points you regain from that treatment. Additionally, the creature attempting the check gains a +1 circumstance bonus if you have the plant trait and are in bright light, or the fungus trait and are in darkness.
+
+### Feats that require Born of Vegetation...
+
+[[srd/pf2e/compendium/feats/tian-xia-character-guide/ancestry/Immobile Form|Immobile Form]]
+
+*Source: Tian Xia Character Guide p. 84*

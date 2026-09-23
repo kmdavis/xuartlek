@@ -74,3 +74,44 @@ Your powerful horns are formidable weapons. You have a horns unarmed attack that
 Upon your brow is a gem that houses your soul. When casting any spell or ritual to return you to life, your intact head gem can be substituted for your body. While you can freely remove your head gem, it's typically impossible for another creature to forcibly remove or destroy your head gem unless you're killed or permanently incapacitated first; at the GM's discretion, powerful magic or abilities can circumvent this restriction. If your head gem is removed or destroyed, it can be regrown using a day-long ritual. When this occurs, any remains of the previous gem immediately crumble to dust.
 
 *Source: Tian Xia Character Guide p. 58*
+
+## Heritages
+
+## Full Moon Sarangay
+
+You were raised in a shamanic tradition transcending a single sarangay community or heritage. You spent your youth under the guidance of a shaman elder, who taught you to commune with spirits in the hope that you'll one day use that knowledge to advise and guide your people. Those from your tradition are priests or shamans who channel the spirits and see things others can't. You gain an ancestry attribute boost to Wisdom instead of Strength, and you gain an attribute flaw in Constitution instead of Wisdom. You gain the [[srd/pf2e/compendium/feats/tian-xia-character-guide/ancestry/Folk Healer|Folk Healer]] ancestry feat.
+
+*Source: Tian Xia Character Guide p. 60*
+
+## Half Moon Sarangay
+
+You come from one of many traveling communities that migrate seasonally along Tian Xia's vast rivers and mountains, bringing news and tidings to villages along their path. Your people connect sarangay communities to one another across vast distances and are symbolized by the half moon, which conjoins the light and dark; so too do you conjoin the dark from the bright, the red from the blue, the wind from the sea. Your ancestors were tall and burly with shiny black fur, light spots or markings, and short, tightly curved horns. You become trained in two Lore skills of your choice, and you gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] checks using those skills.
+
+### Feats that require Half Moon Sarangay...
+
+[[srd/pf2e/compendium/feats/tian-xia-character-guide/ancestry/Traveler's Counsel|Traveler's Counsel]]
+
+*Source: Tian Xia Character Guide p. 60*
+
+## New Moon Sarangay
+
+Some people call you a dwarf sarangay and your kind “hiding ones.” Others whisper you go out with the moon when the moon “goes hunting”—a common folk saying for when the new moon vanishes from the sky. Your elusive ancestors built their lodgings in the shade of bamboo thickets, and your ancestral communities valued caution and independence, passing down the knowledge of walking lightly and moving like smoke through bamboo. Your ancestors had dark brown or gray fur with white markings and a V-shaped pair of flat, triangular horns. Your size is Small instead of Medium. You gain 10 Hit Points from your ancestry instead of 8 and gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]].
+
+### Feats that require New Moon Sarangay...
+
+[[srd/pf2e/compendium/feats/tian-xia-character-guide/ancestry/Smoke Through Bamboo|Smoke Through Bamboo]]
+
+*Source: Tian Xia Character Guide p. 60*
+
+## Waning Moon Sarangay
+
+Your ancestors were named for the moon in transition, ever-changing and ephemeral. They're the keepers of secret arts, just as the waning moon hides its face, and their communities were highly regarded for their storytellers, performers, and artists. You lived among your community on the outskirts of forests or rivers, where many answers came as riddles, and you learned to see the world from different perspectives. Your people are often red or fawn colored, with prominent eyes and flat, compact horns. You become trained in your choice of [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]], or [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]]. 
+Once per day, when you roll a critical failure with the chosen skill, you can reroll the check, taking the new result, even if it's worse. Rerolling in this way is a [[srd/pf2e/compendium/rules-elements/traits/player-core/Fortune|fortune]] effect.
+
+*Source: Tian Xia Character Guide p. 60*
+
+## Waxing Moon Sarangay
+
+Your ancestors dwelled in the swamps, fens, and flooded forests, where they contended with fierce predators and formed raiding parties to claim scarce resources. Blessed by the growing crescent, you're one of the eviscerators, and you can overcome threats that lurk in murky waters as well as those that hunt on land. You're a powerful swimmer with brown or gray fur and backward- or downward-curving horns. You gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Long Jump|Long Jump]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]].
+
+*Source: Tian Xia Character Guide p. 60*

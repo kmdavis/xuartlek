@@ -318,7 +318,7 @@ Xuartlek scholars confirmed what Strafmackish sky-watchers long suspected--the e
 ## Maps
 
 ```zoommap
-image: setting/places/systems/Strathis/Strafmack/Strafmack map.webp
+image: content/setting/places/systems/Strathis/Strafmack/Strafmack map.webp
 minZoom: 0.05
 maxZoom: 6
 height: 560px

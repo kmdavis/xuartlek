@@ -69,3 +69,35 @@ Additional languages equal to your Intelligence modifier (if it's positive). Cho
 | **Clan Dagger** | You get one clan dagger for free, as it was given to you at birth. Selling this clan dagger is a terrible taboo and earns you the disdain of other dwarves. |
 
 *Source: Player Core p. 42*
+
+## Heritages
+
+## Ancient-Blooded Dwarf
+
+Dwarven heroes of old could shrug off their enemies' magic, and some of that resistance manifests in you. You gain the Call on Ancient Blood reaction.
+
+*Source: Player Core p. 43*
+
+## Death Warden Dwarf
+
+Your ancestors were tomb guardians, and their power to ward off death passed on to you. If you roll a success on a saving throw against an effect that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]] trait or was created by an [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]] creature, you get a critical success instead.
+
+*Source: Player Core p. 43*
+
+## Forge Dwarf
+
+You have a remarkable adaptation to hot environments. This grants you fire resistance equal to half your level (minimum 1), and you treat environmental heat effects as if they were one step less extreme (incredible heat becomes extreme, extreme heat becomes severe, and so on).
+
+*Source: Player Core p. 43*
+
+## Rock Dwarf
+
+Your ancestors lived and worked among the ancient stones of the mountains or the depths of the earth. This makes you solid as a rock when you plant your feet. You gain a +2 circumstance bonus to your Fortitude or Reflex DC against attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]], Shove, or Trip you. This bonus also applies to saving throws against spells or effects that attempt to force you to move or knock you [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]]. In addition, if any effect would force you to move 10 feet or more, you are moved only half the distance.
+
+*Source: Player Core p. 43*
+
+## Strong-Blooded Dwarf
+
+Your blood runs hearty and strong, and you can shake off toxins. You gain poison resistance equal to half your level (minimum 1), and each of your successful saving throws against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] affliction reduces its stage by 2, or by 1 for a virulent poison. Each critical success against an ongoing poison reduces its stage by 3, or by 2 for a virulent poison.
+
+*Source: Player Core p. 43*

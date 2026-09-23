@@ -180,7 +180,7 @@ The massive triple-layered asteroid belt between Ferraine and Langsevain is call
 ## Maps
 
 ```zoommap
-image: setting/places/systems/Calderon/Langsevain/Langsevain map.webp
+image: content/setting/places/systems/Calderon/Langsevain/Langsevain map.webp
 minZoom: 0.05
 maxZoom: 6
 height: 560px

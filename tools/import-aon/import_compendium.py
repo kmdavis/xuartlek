@@ -47,6 +47,41 @@ BOOK_ABBR = {b.lower(): c for b, c in REMASTER_RULEBOOKS.items()}
 # Categories handled elsewhere or not worth a note of their own.
 SKIP_CATEGORIES = {"creature", "rules", "source", "category-page"}
 
+# Which heritage belongs to which ancestry. AoN's index does not say, so this
+# is scraped by build_heritage_map.py from the filtered listing pages and
+# cached. Heritages land as sections on their ancestry's note instead of in one
+# 185-entry Heritages.md, so an ancestry page is self-contained: you read
+# Automaton and you can see what an Automaton can be.
+def _load_heritage_owners() -> dict[str, str]:
+    path = Path(__file__).parent / ".snapshot" / "heritage-ancestry.json"
+    try:
+        return json.loads(path.read_text())
+    except FileNotFoundError:
+        print("  !! no heritage-ancestry.json -- run build_heritage_map.py; "
+              "heritages will stay in one consolidated page", file=sys.stderr)
+        return {}
+
+
+HERITAGE_OWNER = _load_heritage_owners()
+
+# Ancestries we actually emit a note for. Kitsune, Nagaji, Poppet and Sprite
+# have heritages in our books but their ancestry entries live in books we do
+# not import, so their heritages need a page of their own -- and the link map
+# has to agree with where that page lands, or every link to one 404s.
+ANCESTRY_NOTES: set[str] = set()
+
+
+def set_ancestry_names(docs: list[dict]) -> None:
+    """Record which ancestries have an entry, so heritages can be routed.
+
+    Called by both import_compendium and build_linkmap before any destination
+    is computed. They must see the same set or their paths diverge.
+    """
+    ANCESTRY_NOTES.clear()
+    ANCESTRY_NOTES.update(
+        d["name"].strip() for d in docs if d.get("category") == "ancestry" and d.get("name")
+    )
+
 # Category -> folder, mirroring content/srd/pf2e/compendium.
 FOLDERS: dict[str, str] = {
     **{c: "feats" for c in ["feat"]},
@@ -338,6 +373,17 @@ def destination(d: dict, root: Path, class_index: dict[str, str],
     # so they take Title Case like any other entry. Only categories and source
     # folders stay kebab-case. Emitting the raw kebab stem here silently
     # renamed 11 pages on every run and broke the links pointing at them.
+    # A heritage becomes a section of its ancestry's note. The page_stem marks
+    # it as a section so build_linkmap registers the anchor on the ancestry
+    # page, which keeps every [[...|heritage]] link pointing at the right file.
+    if cat == "heritage":
+        owner = HERITAGE_OWNER.get(detemplate(d.get("name", "")).strip())
+        if owner:
+            base = root / "character" / "ancestries"
+            if owner in ANCESTRY_NOTES:
+                return base / f"{note_filename(owner)}.md", "heritage"
+            return base / f"{note_filename(owner)} Heritages.md", "heritage-orphan"
+
     if cat in CONSOLIDATE:
         folder, stem = CONSOLIDATE[cat]
         return root / folder / f"{note_filename(titlecase_stem(stem))}.md", cat
@@ -973,6 +1019,7 @@ def main() -> int:
         selection = [by_cat[c] for c in SAMPLE_CATEGORIES if c in by_cat]
         print(f"QA sample: {len(selection)} entries, one per category\n")
 
+    set_ancestry_names(docs)
     class_index = build_class_index(docs)
     counts = collections.Counter(d.get("category", "") for d in selection)
     for d in selection:
@@ -1064,8 +1111,35 @@ def main() -> int:
         print(f"  {folder_notes} category folder notes")
 
     sharded = 0
+    attached = 0
     for path, (category, entries) in pages.items():
         path.parent.mkdir(parents=True, exist_ok=True)
+
+        # Heritages are sections of a note that already exists, so they are
+        # appended rather than written as a page of their own. Writing them
+        # through render_page would replace the ancestry with a list of its
+        # own heritages.
+        if category == "heritage-orphan":
+            path.write_text(
+                normalise_newlines(render_page("heritage", entries, path.stem)),
+                encoding="utf-8")
+            print(f"  .. {len(entries)} written to {path.name} "
+                  f"(ancestry not in our books)")
+            continue
+
+        if category == "heritage":
+            if not path.exists():
+                print(f"  !! heritages for {path.stem} but no ancestry note")
+                continue
+            body = ["", "## Heritages", ""]
+            for e in sorted(entries, key=lambda x: x["name"].lower()):
+                body.append(render_section(e))
+            existing = path.read_text(encoding="utf-8").rstrip()
+            path.write_text(normalise_newlines(existing + "\n" + "\n".join(body)),
+                            encoding="utf-8")
+            attached += len(entries)
+            continue
+
         for out_path, chunk in split_oversized(path, entries):
             out_path.write_text(
                 normalise_newlines(render_page(category, chunk, out_path.stem)),
@@ -1073,6 +1147,8 @@ def main() -> int:
             folder = out_path.parent.relative_to(args.out).parts[0]
             per_folder[folder] = per_folder.get(folder, 0) + 1
             sharded += 1
+    if attached:
+        print(f"  {attached} heritages attached to their ancestry notes")
     if sharded > len(pages):
         print(f"  ({sharded - len(pages)} oversized pages split into alphabetical parts)")
 

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Goblin`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Dokkaebi Goblin|Dokkaebi Goblin]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Goblin#Dokkaebi Goblin|Dokkaebi Goblin]] heritage
 - **Access**: dokkaebi goblin heritage
 
 You can create illusory wisps of ghostly blue flame. You can cast [[srd/pf2e/compendium/spells/cantrips/Ignition|_ignition_]] as an innate occult cantrip at will. A cantrip is heightened to a spell rank equal to half your level rounded up. Your Dokkaebi Fire is purely illusory; while it emits light, it deals mental damage instead of fire damage (so it can’t light objects on fire or affect mindless creatures), and it has the illusion and mental traits instead of the fire trait.

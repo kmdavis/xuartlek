@@ -143,7 +143,7 @@ Cities dominate the landscape with:
 ## Maps
 
 ```zoommap
-image: setting/places/systems/Belcanto/Tertara/Tertara map.webp
+image: content/setting/places/systems/Belcanto/Tertara/Tertara map.webp
 minZoom: 0.05
 maxZoom: 6
 height: 560px

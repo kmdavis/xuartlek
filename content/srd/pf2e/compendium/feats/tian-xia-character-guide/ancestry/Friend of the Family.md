@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Kobold`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Heavenscribe Kobold|Heavenscribe Kobold]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Kobold#Heavenscribe Kobold|Heavenscribe Kobold]] heritage
 
 You come from a long line of imperial kobolds—if you meet a stranger who has some political standing in Tian Xia, they might know someone from your family line. You gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Request|Request]] when speaking to politicians or other officials.
 

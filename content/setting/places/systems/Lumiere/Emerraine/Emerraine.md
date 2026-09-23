@@ -229,7 +229,7 @@ How do the portals bypass the Lodestone Ring's effects? Emerraine's scientists h
 ## Maps
 
 ```zoommap
-image: setting/places/systems/Lumiere/Emerraine/Emerraine map.webp
+image: content/setting/places/systems/Lumiere/Emerraine/Emerraine map.webp
 minZoom: 0.05
 maxZoom: 6
 height: 560px

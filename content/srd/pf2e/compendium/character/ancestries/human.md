@@ -57,3 +57,17 @@ A variety of human ethnic groups populates the continents within Golarion's Inne
 Additional languages equal to 1 + your Intelligence modifier (if it's positive). Choose from the list of common languages and any other languages to which you have access (such as the languages prevalent in your region).
 
 *Source: Player Core p. 62*
+
+## Heritages
+
+## Skilled Human
+
+Your ingenuity allows you to train in a wide variety of skills. You become trained in one skill of your choice. At 5th level, you become an expert in the chosen skill.
+
+*Source: Player Core p. 63*
+
+## Versatile Human
+
+Humanity's versatility and ambition have fueled its ascendance to be the most common ancestry in most nations throughout the world. Select a [general feat](https://2e.aonprd.com/Feats.aspx?Traits=78) of your choice for which you meet the prerequisites (as with your ancestry feat, you can select this general feat at any point during character creation).
+
+*Source: Player Core p. 63*

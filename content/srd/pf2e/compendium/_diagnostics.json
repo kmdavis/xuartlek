@@ -25943,7 +25943,7 @@
   "warnings": [],
   "traits": 1,
   "meta": 0,
-  "body_chars": 1074,
+  "body_chars": 1081,
   "path": "feats/player-core/ancestry/Anchoring Roots.md"
  },
  {
@@ -35906,7 +35906,7 @@
   "warnings": [],
   "traits": 1,
   "meta": 0,
-  "body_chars": 478,
+  "body_chars": 490,
   "path": "feats/player-core-2/ancestry/Gecko's Grip.md"
  },
  {
@@ -35924,7 +35924,7 @@
   "warnings": [],
   "traits": 1,
   "meta": 0,
-  "body_chars": 204,
+  "body_chars": 216,
   "path": "feats/player-core-2/ancestry/Swift Swimmer.md"
  },
  {
@@ -36464,7 +36464,7 @@
   "warnings": [],
   "traits": 1,
   "meta": 0,
-  "body_chars": 271,
+  "body_chars": 280,
   "path": "feats/player-core-2/ancestry/Prodigious Climber.md"
  },
  {
@@ -86829,7 +86829,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 533,
-  "path": "character/Heritages.md#Hunter Automaton"
+  "path": "character/ancestries/Automaton.md#Hunter Automaton"
  },
  {
   "name": "Mage Automaton",
@@ -86838,7 +86838,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 522,
-  "path": "character/Heritages.md#Mage Automaton"
+  "path": "character/ancestries/Automaton.md#Mage Automaton"
  },
  {
   "name": "Sharpshooter Automaton",
@@ -86847,7 +86847,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 264,
-  "path": "character/Heritages.md#Sharpshooter Automaton"
+  "path": "character/ancestries/Automaton.md#Sharpshooter Automaton"
  },
  {
   "name": "Warrior Automaton",
@@ -86856,7 +86856,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 466,
-  "path": "character/Heritages.md#Warrior Automaton"
+  "path": "character/ancestries/Automaton.md#Warrior Automaton"
  },
  {
   "name": "Ancient-Blooded Dwarf",
@@ -86865,7 +86865,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 150,
-  "path": "character/Heritages.md#Ancient-Blooded Dwarf"
+  "path": "character/ancestries/Dwarf.md#Ancient-Blooded Dwarf"
  },
  {
   "name": "Death Warden Dwarf",
@@ -86874,7 +86874,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 371,
-  "path": "character/Heritages.md#Death Warden Dwarf"
+  "path": "character/ancestries/Dwarf.md#Death Warden Dwarf"
  },
  {
   "name": "Forge Dwarf",
@@ -86883,7 +86883,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 277,
-  "path": "character/Heritages.md#Forge Dwarf"
+  "path": "character/ancestries/Dwarf.md#Forge Dwarf"
  },
  {
   "name": "Rock Dwarf",
@@ -86892,7 +86892,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 627,
-  "path": "character/Heritages.md#Rock Dwarf"
+  "path": "character/ancestries/Dwarf.md#Rock Dwarf"
  },
  {
   "name": "Strong-Blooded Dwarf",
@@ -86901,7 +86901,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 422,
-  "path": "character/Heritages.md#Strong-Blooded Dwarf"
+  "path": "character/ancestries/Dwarf.md#Strong-Blooded Dwarf"
  },
  {
   "name": "Ancient Elf",
@@ -86910,7 +86910,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 439,
-  "path": "character/Heritages.md#Ancient Elf"
+  "path": "character/ancestries/Elf.md#Ancient Elf"
  },
  {
   "name": "Arctic Elf",
@@ -86919,7 +86919,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 316,
-  "path": "character/Heritages.md#Arctic Elf"
+  "path": "character/ancestries/Elf.md#Arctic Elf"
  },
  {
   "name": "Cavern Elf",
@@ -86928,7 +86928,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 111,
-  "path": "character/Heritages.md#Cavern Elf"
+  "path": "character/ancestries/Elf.md#Cavern Elf"
  },
  {
   "name": "Seer Elf",
@@ -86937,7 +86937,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 642,
-  "path": "character/Heritages.md#Seer Elf"
+  "path": "character/ancestries/Elf.md#Seer Elf"
  },
  {
   "name": "Whisper Elf",
@@ -86946,7 +86946,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 685,
-  "path": "character/Heritages.md#Whisper Elf"
+  "path": "character/ancestries/Elf.md#Whisper Elf"
  },
  {
   "name": "Woodland Elf",
@@ -86955,7 +86955,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 556,
-  "path": "character/Heritages.md#Woodland Elf"
+  "path": "character/ancestries/Elf.md#Woodland Elf"
  },
  {
   "name": "Chameleon Gnome",
@@ -86964,7 +86964,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 941,
-  "path": "character/Heritages.md#Chameleon Gnome"
+  "path": "character/ancestries/Gnome.md#Chameleon Gnome"
  },
  {
   "name": "Fey-touched Gnome",
@@ -86973,7 +86973,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 922,
-  "path": "character/Heritages.md#Fey-touched Gnome"
+  "path": "character/ancestries/Gnome.md#Fey-touched Gnome"
  },
  {
   "name": "Sensate Gnome",
@@ -86982,7 +86982,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 547,
-  "path": "character/Heritages.md#Sensate Gnome"
+  "path": "character/ancestries/Gnome.md#Sensate Gnome"
  },
  {
   "name": "Umbral Gnome",
@@ -86991,7 +86991,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 177,
-  "path": "character/Heritages.md#Umbral Gnome"
+  "path": "character/ancestries/Gnome.md#Umbral Gnome"
  },
  {
   "name": "Wellspring Gnome",
@@ -87000,7 +87000,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 823,
-  "path": "character/Heritages.md#Wellspring Gnome"
+  "path": "character/ancestries/Gnome.md#Wellspring Gnome"
  },
  {
   "name": "Charhide Goblin",
@@ -87009,7 +87009,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 391,
-  "path": "character/Heritages.md#Charhide Goblin"
+  "path": "character/ancestries/Goblin.md#Charhide Goblin"
  },
  {
   "name": "Irongut Goblin",
@@ -87018,7 +87018,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 674,
-  "path": "character/Heritages.md#Irongut Goblin"
+  "path": "character/ancestries/Goblin.md#Irongut Goblin"
  },
  {
   "name": "Razortooth Goblin",
@@ -87027,7 +87027,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 377,
-  "path": "character/Heritages.md#Razortooth Goblin"
+  "path": "character/ancestries/Goblin.md#Razortooth Goblin"
  },
  {
   "name": "Snow Goblin",
@@ -87036,7 +87036,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 332,
-  "path": "character/Heritages.md#Snow Goblin"
+  "path": "character/ancestries/Goblin.md#Snow Goblin"
  },
  {
   "name": "Unbreakable Goblin",
@@ -87045,7 +87045,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 285,
-  "path": "character/Heritages.md#Unbreakable Goblin"
+  "path": "character/ancestries/Goblin.md#Unbreakable Goblin"
  },
  {
   "name": "Gutsy Halfling",
@@ -87054,7 +87054,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 268,
-  "path": "character/Heritages.md#Gutsy Halfling"
+  "path": "character/ancestries/Halfling.md#Gutsy Halfling"
  },
  {
   "name": "Hillock Halfling",
@@ -87063,7 +87063,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 434,
-  "path": "character/Heritages.md#Hillock Halfling"
+  "path": "character/ancestries/Halfling.md#Hillock Halfling"
  },
  {
   "name": "Jinxed Halfling",
@@ -87072,7 +87072,7 @@
   "traits": 1,
   "meta": 0,
   "body_chars": 199,
-  "path": "character/Heritages.md#Jinxed Halfling"
+  "path": "character/ancestries/Halfling.md#Jinxed Halfling"
  },
  {
   "name": "Nomadic Halfling",
@@ -87081,7 +87081,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 293,
-  "path": "character/Heritages.md#Nomadic Halfling"
+  "path": "character/ancestries/Halfling.md#Nomadic Halfling"
  },
  {
   "name": "Twilight Halfling",
@@ -87090,7 +87090,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 236,
-  "path": "character/Heritages.md#Twilight Halfling"
+  "path": "character/ancestries/Halfling.md#Twilight Halfling"
  },
  {
   "name": "Wildwood Halfling",
@@ -87099,7 +87099,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 244,
-  "path": "character/Heritages.md#Wildwood Halfling"
+  "path": "character/ancestries/Halfling.md#Wildwood Halfling"
  },
  {
   "name": "Skilled Human",
@@ -87108,7 +87108,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 167,
-  "path": "character/Heritages.md#Skilled Human"
+  "path": "character/ancestries/Human.md#Skilled Human"
  },
  {
   "name": "Versatile Human",
@@ -87117,7 +87117,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 354,
-  "path": "character/Heritages.md#Versatile Human"
+  "path": "character/ancestries/Human.md#Versatile Human"
  },
  {
   "name": "Cactus Leshy",
@@ -87126,7 +87126,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 360,
-  "path": "character/Heritages.md#Cactus Leshy"
+  "path": "character/ancestries/Leshy.md#Cactus Leshy"
  },
  {
   "name": "Fruit Leshy",
@@ -87135,7 +87135,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 565,
-  "path": "character/Heritages.md#Fruit Leshy"
+  "path": "character/ancestries/Leshy.md#Fruit Leshy"
  },
  {
   "name": "Fungus Leshy",
@@ -87144,7 +87144,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 324,
-  "path": "character/Heritages.md#Fungus Leshy"
+  "path": "character/ancestries/Leshy.md#Fungus Leshy"
  },
  {
   "name": "Gourd Leshy",
@@ -87153,7 +87153,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 545,
-  "path": "character/Heritages.md#Gourd Leshy"
+  "path": "character/ancestries/Leshy.md#Gourd Leshy"
  },
  {
   "name": "Leaf Leshy",
@@ -87162,7 +87162,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 311,
-  "path": "character/Heritages.md#Leaf Leshy"
+  "path": "character/ancestries/Leshy.md#Leaf Leshy"
  },
  {
   "name": "Lotus Leshy",
@@ -87171,7 +87171,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 443,
-  "path": "character/Heritages.md#Lotus Leshy"
+  "path": "character/ancestries/Leshy.md#Lotus Leshy"
  },
  {
   "name": "Root Leshy",
@@ -87180,7 +87180,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 480,
-  "path": "character/Heritages.md#Root Leshy"
+  "path": "character/ancestries/Leshy.md#Root Leshy"
  },
  {
   "name": "Seaweed Leshy",
@@ -87189,7 +87189,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 249,
-  "path": "character/Heritages.md#Seaweed Leshy"
+  "path": "character/ancestries/Leshy.md#Seaweed Leshy"
  },
  {
   "name": "Vine Leshy",
@@ -87198,7 +87198,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 269,
-  "path": "character/Heritages.md#Vine Leshy"
+  "path": "character/ancestries/Leshy.md#Vine Leshy"
  },
  {
   "name": "Badlands Orc",
@@ -87207,7 +87207,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 336,
-  "path": "character/Heritages.md#Badlands Orc"
+  "path": "character/ancestries/Orc.md#Badlands Orc"
  },
  {
   "name": "Battle-Ready Orc",
@@ -87216,7 +87216,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 204,
-  "path": "character/Heritages.md#Battle-Ready Orc"
+  "path": "character/ancestries/Orc.md#Battle-Ready Orc"
  },
  {
   "name": "Deep Orc",
@@ -87225,7 +87225,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 278,
-  "path": "character/Heritages.md#Deep Orc"
+  "path": "character/ancestries/Orc.md#Deep Orc"
  },
  {
   "name": "Grave Orc",
@@ -87234,7 +87234,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 433,
-  "path": "character/Heritages.md#Grave Orc"
+  "path": "character/ancestries/Orc.md#Grave Orc"
  },
  {
   "name": "Hold-Scarred Orc",
@@ -87243,7 +87243,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 246,
-  "path": "character/Heritages.md#Hold-Scarred Orc"
+  "path": "character/ancestries/Orc.md#Hold-Scarred Orc"
  },
  {
   "name": "Rainfall Orc",
@@ -87252,7 +87252,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 424,
-  "path": "character/Heritages.md#Rainfall Orc"
+  "path": "character/ancestries/Orc.md#Rainfall Orc"
  },
  {
   "name": "Winter Orc",
@@ -87261,7 +87261,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 282,
-  "path": "character/Heritages.md#Winter Orc"
+  "path": "character/ancestries/Orc.md#Winter Orc"
  },
  {
   "name": "Coral Athamaru",
@@ -87270,7 +87270,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 620,
-  "path": "character/Heritages.md#Coral Athamaru"
+  "path": "character/ancestries/Athamaru.md#Coral Athamaru"
  },
  {
   "name": "Hopeful Athamaru",
@@ -87279,7 +87279,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 806,
-  "path": "character/Heritages.md#Hopeful Athamaru"
+  "path": "character/ancestries/Athamaru.md#Hopeful Athamaru"
  },
  {
   "name": "Kaleidoscopic Athamaru",
@@ -87288,7 +87288,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 784,
-  "path": "character/Heritages.md#Kaleidoscopic Athamaru"
+  "path": "character/ancestries/Athamaru.md#Kaleidoscopic Athamaru"
  },
  {
   "name": "Quilled Athamaru",
@@ -87297,7 +87297,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 572,
-  "path": "character/Heritages.md#Quilled Athamaru"
+  "path": "character/ancestries/Athamaru.md#Quilled Athamaru"
  },
  {
   "name": "Climbing Animal",
@@ -87306,7 +87306,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 559,
-  "path": "character/Heritages.md#Climbing Animal"
+  "path": "character/ancestries/Awakened Animal.md#Climbing Animal"
  },
  {
   "name": "Flying Animal",
@@ -87315,7 +87315,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 868,
-  "path": "character/Heritages.md#Flying Animal"
+  "path": "character/ancestries/Awakened Animal.md#Flying Animal"
  },
  {
   "name": "Running Animal",
@@ -87324,7 +87324,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 432,
-  "path": "character/Heritages.md#Running Animal"
+  "path": "character/ancestries/Awakened Animal.md#Running Animal"
  },
  {
   "name": "Swimming Animal",
@@ -87333,7 +87333,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 973,
-  "path": "character/Heritages.md#Swimming Animal"
+  "path": "character/ancestries/Awakened Animal.md#Swimming Animal"
  },
  {
   "name": "Budding Speaker Centaur",
@@ -87342,7 +87342,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 951,
-  "path": "character/Heritages.md#Budding Speaker Centaur"
+  "path": "character/ancestries/Centaur.md#Budding Speaker Centaur"
  },
  {
   "name": "Fleetwind Centaur",
@@ -87351,7 +87351,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 112,
-  "path": "character/Heritages.md#Fleetwind Centaur"
+  "path": "character/ancestries/Centaur.md#Fleetwind Centaur"
  },
  {
   "name": "Ironhoof Centaur",
@@ -87360,7 +87360,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 526,
-  "path": "character/Heritages.md#Ironhoof Centaur"
+  "path": "character/ancestries/Centaur.md#Ironhoof Centaur"
  },
  {
   "name": "Mottle-Coat Centaur",
@@ -87369,7 +87369,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 745,
-  "path": "character/Heritages.md#Mottle-Coat Centaur"
+  "path": "character/ancestries/Centaur.md#Mottle-Coat Centaur"
  },
  {
   "name": "Ponygait Centaur",
@@ -87378,7 +87378,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 168,
-  "path": "character/Heritages.md#Ponygait Centaur"
+  "path": "character/ancestries/Centaur.md#Ponygait Centaur"
  },
  {
   "name": "Stoutheart Centaur",
@@ -87387,7 +87387,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 349,
-  "path": "character/Heritages.md#Stoutheart Centaur"
+  "path": "character/ancestries/Centaur.md#Stoutheart Centaur"
  },
  {
   "name": "Abyssal Merfolk",
@@ -87396,7 +87396,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 467,
-  "path": "character/Heritages.md#Abyssal Merfolk"
+  "path": "character/ancestries/Merfolk.md#Abyssal Merfolk"
  },
  {
   "name": "Carcharodon Merfolk",
@@ -87405,7 +87405,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 453,
-  "path": "character/Heritages.md#Carcharodon Merfolk"
+  "path": "character/ancestries/Merfolk.md#Carcharodon Merfolk"
  },
  {
   "name": "Pelagic Merfolk",
@@ -87414,7 +87414,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 907,
-  "path": "character/Heritages.md#Pelagic Merfolk"
+  "path": "character/ancestries/Merfolk.md#Pelagic Merfolk"
  },
  {
   "name": "Reef Merfolk",
@@ -87423,7 +87423,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 716,
-  "path": "character/Heritages.md#Reef Merfolk"
+  "path": "character/ancestries/Merfolk.md#Reef Merfolk"
  },
  {
   "name": "Sailfish Merfolk",
@@ -87432,7 +87432,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 625,
-  "path": "character/Heritages.md#Sailfish Merfolk"
+  "path": "character/ancestries/Merfolk.md#Sailfish Merfolk"
  },
  {
   "name": "Ghost Bull Minotaur",
@@ -87441,7 +87441,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 636,
-  "path": "character/Heritages.md#Ghost Bull Minotaur"
+  "path": "character/ancestries/Minotaur.md#Ghost Bull Minotaur"
  },
  {
   "name": "Glacier Cavern Minotaur",
@@ -87450,7 +87450,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 215,
-  "path": "character/Heritages.md#Glacier Cavern Minotaur"
+  "path": "character/ancestries/Minotaur.md#Glacier Cavern Minotaur"
  },
  {
   "name": "Littlehorn Minotaur",
@@ -87459,7 +87459,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 299,
-  "path": "character/Heritages.md#Littlehorn Minotaur"
+  "path": "character/ancestries/Minotaur.md#Littlehorn Minotaur"
  },
  {
   "name": "Roaming Minotaur",
@@ -87468,7 +87468,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 457,
-  "path": "character/Heritages.md#Roaming Minotaur"
+  "path": "character/ancestries/Minotaur.md#Roaming Minotaur"
  },
  {
   "name": "Slabsoul Minotaur",
@@ -87477,7 +87477,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 939,
-  "path": "character/Heritages.md#Slabsoul Minotaur"
+  "path": "character/ancestries/Minotaur.md#Slabsoul Minotaur"
  },
  {
   "name": "Stalker Minotaur",
@@ -87486,7 +87486,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 550,
-  "path": "character/Heritages.md#Stalker Minotaur"
+  "path": "character/ancestries/Minotaur.md#Stalker Minotaur"
  },
  {
   "name": "Breaker Surki",
@@ -87495,7 +87495,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 1646,
-  "path": "character/Heritages.md#Breaker Surki"
+  "path": "character/ancestries/Surki.md#Breaker Surki"
  },
  {
   "name": "Elytron Surki",
@@ -87504,7 +87504,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 1596,
-  "path": "character/Heritages.md#Elytron Surki"
+  "path": "character/ancestries/Surki.md#Elytron Surki"
  },
  {
   "name": "Hardshell Surki",
@@ -87513,7 +87513,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 1483,
-  "path": "character/Heritages.md#Hardshell Surki"
+  "path": "character/ancestries/Surki.md#Hardshell Surki"
  },
  {
   "name": "Lantern Surki",
@@ -87522,7 +87522,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 2349,
-  "path": "character/Heritages.md#Lantern Surki"
+  "path": "character/ancestries/Surki.md#Lantern Surki"
  },
  {
   "name": "Clawed Catfolk",
@@ -87531,7 +87531,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 512,
-  "path": "character/Heritages.md#Clawed Catfolk"
+  "path": "character/ancestries/Catfolk.md#Clawed Catfolk"
  },
  {
   "name": "Hunting Catfolk",
@@ -87540,7 +87540,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 514,
-  "path": "character/Heritages.md#Hunting Catfolk"
+  "path": "character/ancestries/Catfolk.md#Hunting Catfolk"
  },
  {
   "name": "Jungle Catfolk",
@@ -87549,7 +87549,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 217,
-  "path": "character/Heritages.md#Jungle Catfolk"
+  "path": "character/ancestries/Catfolk.md#Jungle Catfolk"
  },
  {
   "name": "Liminal Catfolk",
@@ -87558,7 +87558,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 619,
-  "path": "character/Heritages.md#Liminal Catfolk"
+  "path": "character/ancestries/Catfolk.md#Liminal Catfolk"
  },
  {
   "name": "Nine Lives Catfolk",
@@ -87567,7 +87567,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 464,
-  "path": "character/Heritages.md#Nine Lives Catfolk"
+  "path": "character/ancestries/Catfolk.md#Nine Lives Catfolk"
  },
  {
   "name": "Sharp-Eared Catfolk",
@@ -87576,7 +87576,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 558,
-  "path": "character/Heritages.md#Sharp-Eared Catfolk"
+  "path": "character/ancestries/Catfolk.md#Sharp-Eared Catfolk"
  },
  {
   "name": "Winter Catfolk",
@@ -87585,7 +87585,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 274,
-  "path": "character/Heritages.md#Winter Catfolk"
+  "path": "character/ancestries/Catfolk.md#Winter Catfolk"
  },
  {
   "name": "Elfbane Hobgoblin",
@@ -87594,7 +87594,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 838,
-  "path": "character/Heritages.md#Elfbane Hobgoblin"
+  "path": "character/ancestries/Hobgoblin.md#Elfbane Hobgoblin"
  },
  {
   "name": "Runtboss Hobgoblin",
@@ -87603,7 +87603,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 544,
-  "path": "character/Heritages.md#Runtboss Hobgoblin"
+  "path": "character/ancestries/Hobgoblin.md#Runtboss Hobgoblin"
  },
  {
   "name": "Shortshanks Hobgoblin",
@@ -87612,7 +87612,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 558,
-  "path": "character/Heritages.md#Shortshanks Hobgoblin"
+  "path": "character/ancestries/Hobgoblin.md#Shortshanks Hobgoblin"
  },
  {
   "name": "Smokeworker Hobgoblin",
@@ -87621,7 +87621,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 395,
-  "path": "character/Heritages.md#Smokeworker Hobgoblin"
+  "path": "character/ancestries/Hobgoblin.md#Smokeworker Hobgoblin"
  },
  {
   "name": "Warmarch Hobgoblin",
@@ -87630,7 +87630,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 425,
-  "path": "character/Heritages.md#Warmarch Hobgoblin"
+  "path": "character/ancestries/Hobgoblin.md#Warmarch Hobgoblin"
  },
  {
   "name": "Warrenbred Hobgoblin",
@@ -87639,7 +87639,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 641,
-  "path": "character/Heritages.md#Warrenbred Hobgoblin"
+  "path": "character/ancestries/Hobgoblin.md#Warrenbred Hobgoblin"
  },
  {
   "name": "Ant Kholo",
@@ -87648,7 +87648,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 657,
-  "path": "character/Heritages.md#Ant Kholo"
+  "path": "character/ancestries/Kholo.md#Ant Kholo"
  },
  {
   "name": "Cave Kholo",
@@ -87657,7 +87657,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 364,
-  "path": "character/Heritages.md#Cave Kholo"
+  "path": "character/ancestries/Kholo.md#Cave Kholo"
  },
  {
   "name": "Dog Kholo",
@@ -87666,7 +87666,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 413,
-  "path": "character/Heritages.md#Dog Kholo"
+  "path": "character/ancestries/Kholo.md#Dog Kholo"
  },
  {
   "name": "Great Kholo",
@@ -87675,7 +87675,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 474,
-  "path": "character/Heritages.md#Great Kholo"
+  "path": "character/ancestries/Kholo.md#Great Kholo"
  },
  {
   "name": "Sweetbreath Kholo",
@@ -87684,7 +87684,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 570,
-  "path": "character/Heritages.md#Sweetbreath Kholo"
+  "path": "character/ancestries/Kholo.md#Sweetbreath Kholo"
  },
  {
   "name": "Winter Kholo",
@@ -87693,7 +87693,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 341,
-  "path": "character/Heritages.md#Winter Kholo"
+  "path": "character/ancestries/Kholo.md#Winter Kholo"
  },
  {
   "name": "Witch Kholo",
@@ -87702,7 +87702,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 668,
-  "path": "character/Heritages.md#Witch Kholo"
+  "path": "character/ancestries/Kholo.md#Witch Kholo"
  },
  {
   "name": "Cavernstalker Kobold",
@@ -87711,7 +87711,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 755,
-  "path": "character/Heritages.md#Cavernstalker Kobold"
+  "path": "character/ancestries/Kobold.md#Cavernstalker Kobold"
  },
  {
   "name": "Dragonscaled Kobold",
@@ -87720,7 +87720,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 660,
-  "path": "character/Heritages.md#Dragonscaled Kobold"
+  "path": "character/ancestries/Kobold.md#Dragonscaled Kobold"
  },
  {
   "name": "Elementheart Kobold",
@@ -87729,7 +87729,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 551,
-  "path": "character/Heritages.md#Elementheart Kobold"
+  "path": "character/ancestries/Kobold.md#Elementheart Kobold"
  },
  {
   "name": "Spellhorn Kobold",
@@ -87738,7 +87738,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 657,
-  "path": "character/Heritages.md#Spellhorn Kobold"
+  "path": "character/ancestries/Kobold.md#Spellhorn Kobold"
  },
  {
   "name": "Strongjaw Kobold",
@@ -87747,7 +87747,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 483,
-  "path": "character/Heritages.md#Strongjaw Kobold"
+  "path": "character/ancestries/Kobold.md#Strongjaw Kobold"
  },
  {
   "name": "Tunnelflood Kobold",
@@ -87756,7 +87756,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 199,
-  "path": "character/Heritages.md#Tunnelflood Kobold"
+  "path": "character/ancestries/Kobold.md#Tunnelflood Kobold"
  },
  {
   "name": "Venomtail Kobold",
@@ -87765,7 +87765,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 680,
-  "path": "character/Heritages.md#Venomtail Kobold"
+  "path": "character/ancestries/Kobold.md#Venomtail Kobold"
  },
  {
   "name": "Cliffscale Lizardfolk",
@@ -87774,7 +87774,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 441,
-  "path": "character/Heritages.md#Cliffscale Lizardfolk"
+  "path": "character/ancestries/Lizardfolk.md#Cliffscale Lizardfolk"
  },
  {
   "name": "Cloudleaper Lizardfolk",
@@ -87783,7 +87783,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 287,
-  "path": "character/Heritages.md#Cloudleaper Lizardfolk"
+  "path": "character/ancestries/Lizardfolk.md#Cloudleaper Lizardfolk"
  },
  {
   "name": "Frilled Lizardfolk",
@@ -87792,7 +87792,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 822,
-  "path": "character/Heritages.md#Frilled Lizardfolk"
+  "path": "character/ancestries/Lizardfolk.md#Frilled Lizardfolk"
  },
  {
   "name": "Sandstrider Lizardfolk",
@@ -87801,7 +87801,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 499,
-  "path": "character/Heritages.md#Sandstrider Lizardfolk"
+  "path": "character/ancestries/Lizardfolk.md#Sandstrider Lizardfolk"
  },
  {
   "name": "Unseen Lizardfolk",
@@ -87810,7 +87810,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 577,
-  "path": "character/Heritages.md#Unseen Lizardfolk"
+  "path": "character/ancestries/Lizardfolk.md#Unseen Lizardfolk"
  },
  {
   "name": "Wetlander Lizardfolk",
@@ -87819,7 +87819,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 145,
-  "path": "character/Heritages.md#Wetlander Lizardfolk"
+  "path": "character/ancestries/Lizardfolk.md#Wetlander Lizardfolk"
  },
  {
   "name": "Woodstalker Lizardfolk",
@@ -87828,7 +87828,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 570,
-  "path": "character/Heritages.md#Woodstalker Lizardfolk"
+  "path": "character/ancestries/Lizardfolk.md#Woodstalker Lizardfolk"
  },
  {
   "name": "Deep Rat",
@@ -87837,7 +87837,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 125,
-  "path": "character/Heritages.md#Deep Rat"
+  "path": "character/ancestries/Ratfolk.md#Deep Rat"
  },
  {
   "name": "Desert Rat",
@@ -87846,7 +87846,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 545,
-  "path": "character/Heritages.md#Desert Rat"
+  "path": "character/ancestries/Ratfolk.md#Desert Rat"
  },
  {
   "name": "Longsnout Rat",
@@ -87855,7 +87855,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 502,
-  "path": "character/Heritages.md#Longsnout Rat"
+  "path": "character/ancestries/Ratfolk.md#Longsnout Rat"
  },
  {
   "name": "Sewer Rat",
@@ -87864,7 +87864,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 657,
-  "path": "character/Heritages.md#Sewer Rat"
+  "path": "character/ancestries/Ratfolk.md#Sewer Rat"
  },
  {
   "name": "Shadow Rat",
@@ -87873,7 +87873,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 1025,
-  "path": "character/Heritages.md#Shadow Rat"
+  "path": "character/ancestries/Ratfolk.md#Shadow Rat"
  },
  {
   "name": "Snow Rat",
@@ -87882,7 +87882,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 286,
-  "path": "character/Heritages.md#Snow Rat"
+  "path": "character/ancestries/Ratfolk.md#Snow Rat"
  },
  {
   "name": "Tunnel Rat",
@@ -87891,7 +87891,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 363,
-  "path": "character/Heritages.md#Tunnel Rat"
+  "path": "character/ancestries/Ratfolk.md#Tunnel Rat"
  },
  {
   "name": "Dogtooth Tengu",
@@ -87900,7 +87900,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 345,
-  "path": "character/Heritages.md#Dogtooth Tengu"
+  "path": "character/ancestries/Tengu.md#Dogtooth Tengu"
  },
  {
   "name": "Jinxed Tengu",
@@ -87909,7 +87909,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 542,
-  "path": "character/Heritages.md#Jinxed Tengu"
+  "path": "character/ancestries/Tengu.md#Jinxed Tengu"
  },
  {
   "name": "Mountainkeeper Tengu",
@@ -87918,7 +87918,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 440,
-  "path": "character/Heritages.md#Mountainkeeper Tengu"
+  "path": "character/ancestries/Tengu.md#Mountainkeeper Tengu"
  },
  {
   "name": "Skyborn Tengu",
@@ -87927,7 +87927,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 383,
-  "path": "character/Heritages.md#Skyborn Tengu"
+  "path": "character/ancestries/Tengu.md#Skyborn Tengu"
  },
  {
   "name": "Stormtossed Tengu",
@@ -87936,7 +87936,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 418,
-  "path": "character/Heritages.md#Stormtossed Tengu"
+  "path": "character/ancestries/Tengu.md#Stormtossed Tengu"
  },
  {
   "name": "Taloned Tengu",
@@ -87945,7 +87945,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 550,
-  "path": "character/Heritages.md#Taloned Tengu"
+  "path": "character/ancestries/Tengu.md#Taloned Tengu"
  },
  {
   "name": "Wavediver Tengu",
@@ -87954,7 +87954,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 174,
-  "path": "character/Heritages.md#Wavediver Tengu"
+  "path": "character/ancestries/Tengu.md#Wavediver Tengu"
  },
  {
   "name": "Poisonhide Tripkee",
@@ -87963,7 +87963,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 841,
-  "path": "character/Heritages.md#Poisonhide Tripkee"
+  "path": "character/ancestries/Tripkee.md#Poisonhide Tripkee"
  },
  {
   "name": "Riverside Tripkee",
@@ -87972,7 +87972,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 71,
-  "path": "character/Heritages.md#Riverside Tripkee"
+  "path": "character/ancestries/Tripkee.md#Riverside Tripkee"
  },
  {
   "name": "Snaptongue Tripkee",
@@ -87981,7 +87981,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 643,
-  "path": "character/Heritages.md#Snaptongue Tripkee"
+  "path": "character/ancestries/Tripkee.md#Snaptongue Tripkee"
  },
  {
   "name": "Stickytoe Tripkee",
@@ -87990,7 +87990,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 718,
-  "path": "character/Heritages.md#Stickytoe Tripkee"
+  "path": "character/ancestries/Tripkee.md#Stickytoe Tripkee"
  },
  {
   "name": "Thickskin Tripkee",
@@ -87999,7 +87999,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 308,
-  "path": "character/Heritages.md#Thickskin Tripkee"
+  "path": "character/ancestries/Tripkee.md#Thickskin Tripkee"
  },
  {
   "name": "Windweb Tripkee",
@@ -88008,7 +88008,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 283,
-  "path": "character/Heritages.md#Windweb Tripkee"
+  "path": "character/ancestries/Tripkee.md#Windweb Tripkee"
  },
  {
   "name": "Dokkaebi Goblin",
@@ -88017,7 +88017,7 @@
   "traits": 1,
   "meta": 0,
   "body_chars": 1078,
-  "path": "character/Heritages.md#Dokkaebi Goblin"
+  "path": "character/ancestries/Goblin.md#Dokkaebi Goblin"
  },
  {
   "name": "Kijimuna Gnome",
@@ -88026,7 +88026,7 @@
   "traits": 1,
   "meta": 0,
   "body_chars": 1236,
-  "path": "character/Heritages.md#Kijimuna Gnome"
+  "path": "character/ancestries/Gnome.md#Kijimuna Gnome"
  },
  {
   "name": "Heavenscribe Kobold",
@@ -88035,7 +88035,7 @@
   "traits": 1,
   "meta": 0,
   "body_chars": 825,
-  "path": "character/Heritages.md#Heavenscribe Kobold"
+  "path": "character/ancestries/Kobold.md#Heavenscribe Kobold"
  },
  {
   "name": "Mightyfall Kobold",
@@ -88044,7 +88044,7 @@
   "traits": 1,
   "meta": 0,
   "body_chars": 497,
-  "path": "character/Heritages.md#Mightyfall Kobold"
+  "path": "character/ancestries/Kobold.md#Mightyfall Kobold"
  },
  {
   "name": "Chrysanthemum Leshy",
@@ -88053,7 +88053,7 @@
   "traits": 1,
   "meta": 0,
   "body_chars": 978,
-  "path": "character/Heritages.md#Chrysanthemum Leshy"
+  "path": "character/ancestries/Leshy.md#Chrysanthemum Leshy"
  },
  {
   "name": "Peachchild Leshy",
@@ -88062,7 +88062,7 @@
   "traits": 1,
   "meta": 0,
   "body_chars": 1148,
-  "path": "character/Heritages.md#Peachchild Leshy"
+  "path": "character/ancestries/Leshy.md#Peachchild Leshy"
  },
  {
   "name": "Bakuwa Lizardfolk",
@@ -88071,7 +88071,7 @@
   "traits": 1,
   "meta": 0,
   "body_chars": 902,
-  "path": "character/Heritages.md#Bakuwa Lizardfolk"
+  "path": "character/ancestries/Lizardfolk.md#Bakuwa Lizardfolk"
  },
  {
   "name": "Makari Lizardfolk",
@@ -88080,7 +88080,7 @@
   "traits": 1,
   "meta": 0,
   "body_chars": 1265,
-  "path": "character/Heritages.md#Makari Lizardfolk"
+  "path": "character/ancestries/Lizardfolk.md#Makari Lizardfolk"
  },
  {
   "name": "Dijiang",
@@ -88089,7 +88089,7 @@
   "traits": 1,
   "meta": 0,
   "body_chars": 607,
-  "path": "character/Heritages.md#Dijiang"
+  "path": "character/ancestries/Sprite Heritages.md#Dijiang"
  },
  {
   "name": "Gandharva",
@@ -88098,7 +88098,7 @@
   "traits": 1,
   "meta": 0,
   "body_chars": 884,
-  "path": "character/Heritages.md#Gandharva"
+  "path": "character/ancestries/Sprite Heritages.md#Gandharva"
  },
  {
   "name": "Kanchil",
@@ -88107,7 +88107,7 @@
   "traits": 1,
   "meta": 0,
   "body_chars": 909,
-  "path": "character/Heritages.md#Kanchil"
+  "path": "character/ancestries/Sprite Heritages.md#Kanchil"
  },
  {
   "name": "Leungli",
@@ -88116,7 +88116,7 @@
   "traits": 1,
   "meta": 0,
   "body_chars": 558,
-  "path": "character/Heritages.md#Leungli"
+  "path": "character/ancestries/Sprite Heritages.md#Leungli"
  },
  {
   "name": "Tsukumogami Poppet",
@@ -88125,7 +88125,7 @@
   "traits": 1,
   "meta": 0,
   "body_chars": 1595,
-  "path": "character/Heritages.md#Tsukumogami Poppet"
+  "path": "character/ancestries/Poppet Heritages.md#Tsukumogami Poppet"
  },
  {
   "name": "Palace Echoes Kitsune",
@@ -88134,7 +88134,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 1459,
-  "path": "character/Heritages.md#Palace Echoes Kitsune"
+  "path": "character/ancestries/Kitsune Heritages.md#Palace Echoes Kitsune"
  },
  {
   "name": "Shimmertongue Nagaji",
@@ -88143,7 +88143,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 513,
-  "path": "character/Heritages.md#Shimmertongue Nagaji"
+  "path": "character/ancestries/Nagaji Heritages.md#Shimmertongue Nagaji"
  },
  {
   "name": "Healer Samsaran",
@@ -88152,7 +88152,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 829,
-  "path": "character/Heritages.md#Healer Samsaran"
+  "path": "character/ancestries/Samsaran.md#Healer Samsaran"
  },
  {
   "name": "Mountaineer Samsaran",
@@ -88161,7 +88161,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 494,
-  "path": "character/Heritages.md#Mountaineer Samsaran"
+  "path": "character/ancestries/Samsaran.md#Mountaineer Samsaran"
  },
  {
   "name": "Oracular Samsaran",
@@ -88170,7 +88170,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 587,
-  "path": "character/Heritages.md#Oracular Samsaran"
+  "path": "character/ancestries/Samsaran.md#Oracular Samsaran"
  },
  {
   "name": "Sanctuary Samsaran",
@@ -88179,7 +88179,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 945,
-  "path": "character/Heritages.md#Sanctuary Samsaran"
+  "path": "character/ancestries/Samsaran.md#Sanctuary Samsaran"
  },
  {
   "name": "Wilderness Samsaran",
@@ -88188,7 +88188,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 665,
-  "path": "character/Heritages.md#Wilderness Samsaran"
+  "path": "character/ancestries/Samsaran.md#Wilderness Samsaran"
  },
  {
   "name": "Full Moon Sarangay",
@@ -88197,7 +88197,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 627,
-  "path": "character/Heritages.md#Full Moon Sarangay"
+  "path": "character/ancestries/Sarangay.md#Full Moon Sarangay"
  },
  {
   "name": "Half Moon Sarangay",
@@ -88206,7 +88206,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 893,
-  "path": "character/Heritages.md#Half Moon Sarangay"
+  "path": "character/ancestries/Sarangay.md#Half Moon Sarangay"
  },
  {
   "name": "New Moon Sarangay",
@@ -88215,7 +88215,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 964,
-  "path": "character/Heritages.md#New Moon Sarangay"
+  "path": "character/ancestries/Sarangay.md#New Moon Sarangay"
  },
  {
   "name": "Waning Moon Sarangay",
@@ -88224,7 +88224,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 1000,
-  "path": "character/Heritages.md#Waning Moon Sarangay"
+  "path": "character/ancestries/Sarangay.md#Waning Moon Sarangay"
  },
  {
   "name": "Waxing Moon Sarangay",
@@ -88233,7 +88233,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 671,
-  "path": "character/Heritages.md#Waxing Moon Sarangay"
+  "path": "character/ancestries/Sarangay.md#Waxing Moon Sarangay"
  },
  {
   "name": "Ascetic Tanuki",
@@ -88242,7 +88242,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 671,
-  "path": "character/Heritages.md#Ascetic Tanuki"
+  "path": "character/ancestries/Tanuki.md#Ascetic Tanuki"
  },
  {
   "name": "Even-tempered Tanuki",
@@ -88251,7 +88251,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 454,
-  "path": "character/Heritages.md#Even-tempered Tanuki"
+  "path": "character/ancestries/Tanuki.md#Even-tempered Tanuki"
  },
  {
   "name": "Courageous Tanuki",
@@ -88260,7 +88260,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 1238,
-  "path": "character/Heritages.md#Courageous Tanuki"
+  "path": "character/ancestries/Tanuki.md#Courageous Tanuki"
  },
  {
   "name": "Steadfast Tanuki",
@@ -88269,7 +88269,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 291,
-  "path": "character/Heritages.md#Steadfast Tanuki"
+  "path": "character/ancestries/Tanuki.md#Steadfast Tanuki"
  },
  {
   "name": "Virtuous Tanuki",
@@ -88278,7 +88278,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 555,
-  "path": "character/Heritages.md#Virtuous Tanuki"
+  "path": "character/ancestries/Tanuki.md#Virtuous Tanuki"
  },
  {
   "name": "Shadow of the Courtier",
@@ -88287,7 +88287,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 674,
-  "path": "character/Heritages.md#Shadow of the Courtier"
+  "path": "character/ancestries/Wayang.md#Shadow of the Courtier"
  },
  {
   "name": "Shadow of the Hermit",
@@ -88296,7 +88296,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 337,
-  "path": "character/Heritages.md#Shadow of the Hermit"
+  "path": "character/ancestries/Wayang.md#Shadow of the Hermit"
  },
  {
   "name": "Shadow of the Sailor",
@@ -88305,7 +88305,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 663,
-  "path": "character/Heritages.md#Shadow of the Sailor"
+  "path": "character/ancestries/Wayang.md#Shadow of the Sailor"
  },
  {
   "name": "Shadow of the Smith",
@@ -88314,7 +88314,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 908,
-  "path": "character/Heritages.md#Shadow of the Smith"
+  "path": "character/ancestries/Wayang.md#Shadow of the Smith"
  },
  {
   "name": "Shadow of the Wanderer",
@@ -88323,7 +88323,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 88,
-  "path": "character/Heritages.md#Shadow of the Wanderer"
+  "path": "character/ancestries/Wayang.md#Shadow of the Wanderer"
  },
  {
   "name": "Deny the Firstborn Pursuit",
@@ -88332,7 +88332,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 619,
-  "path": "character/Heritages.md#Deny the Firstborn Pursuit"
+  "path": "character/ancestries/Yaksha.md#Deny the Firstborn Pursuit"
  },
  {
   "name": "Deny Lady Nanbyo's Charity",
@@ -88341,7 +88341,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 620,
-  "path": "character/Heritages.md#Deny Lady Nanbyo's Charity"
+  "path": "character/ancestries/Yaksha.md#Deny Lady Nanbyo's Charity"
  },
  {
   "name": "Deny the Traitor's Rebirth",
@@ -88350,7 +88350,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 688,
-  "path": "character/Heritages.md#Deny the Traitor's Rebirth"
+  "path": "character/ancestries/Yaksha.md#Deny the Traitor's Rebirth"
  },
  {
   "name": "Respite of Cloudless Paths",
@@ -88359,7 +88359,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 503,
-  "path": "character/Heritages.md#Respite of Cloudless Paths"
+  "path": "character/ancestries/Yaksha.md#Respite of Cloudless Paths"
  },
  {
   "name": "Respite of Loam and Leaf",
@@ -88368,7 +88368,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 615,
-  "path": "character/Heritages.md#Respite of Loam and Leaf"
+  "path": "character/ancestries/Yaksha.md#Respite of Loam and Leaf"
  },
  {
   "name": "Respite of a Thousand Roofs",
@@ -88377,7 +88377,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 454,
-  "path": "character/Heritages.md#Respite of a Thousand Roofs"
+  "path": "character/ancestries/Yaksha.md#Respite of a Thousand Roofs"
  },
  {
   "name": "Born of Animal",
@@ -88386,7 +88386,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 769,
-  "path": "character/Heritages.md#Born of Animal"
+  "path": "character/ancestries/Yaoguai.md#Born of Animal"
  },
  {
   "name": "Born of Celestial",
@@ -88395,7 +88395,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 1160,
-  "path": "character/Heritages.md#Born of Celestial"
+  "path": "character/ancestries/Yaoguai.md#Born of Celestial"
  },
  {
   "name": "Born of Elements",
@@ -88404,7 +88404,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 1492,
-  "path": "character/Heritages.md#Born of Elements"
+  "path": "character/ancestries/Yaoguai.md#Born of Elements"
  },
  {
   "name": "Born of Item",
@@ -88413,7 +88413,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 753,
-  "path": "character/Heritages.md#Born of Item"
+  "path": "character/ancestries/Yaoguai.md#Born of Item"
  },
  {
   "name": "Born of Vegetation",
@@ -88422,7 +88422,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 1050,
-  "path": "character/Heritages.md#Born of Vegetation"
+  "path": "character/ancestries/Yaoguai.md#Born of Vegetation"
  },
  {
   "name": "Keeper Jotunborn",
@@ -88431,7 +88431,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 596,
-  "path": "character/Heritages.md#Keeper Jotunborn"
+  "path": "character/ancestries/Jotunborn.md#Keeper Jotunborn"
  },
  {
   "name": "Plane-Hopper Jotunborn",
@@ -88440,7 +88440,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 567,
-  "path": "character/Heritages.md#Plane-Hopper Jotunborn"
+  "path": "character/ancestries/Jotunborn.md#Plane-Hopper Jotunborn"
  },
  {
   "name": "Sage Jotunborn",
@@ -88449,7 +88449,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 391,
-  "path": "character/Heritages.md#Sage Jotunborn"
+  "path": "character/ancestries/Jotunborn.md#Sage Jotunborn"
  },
  {
   "name": "Warrior Jotunborn",
@@ -88458,7 +88458,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 295,
-  "path": "character/Heritages.md#Warrior Jotunborn"
+  "path": "character/ancestries/Jotunborn.md#Warrior Jotunborn"
  },
  {
   "name": "Weaver Jotunborn",
@@ -88467,7 +88467,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 455,
-  "path": "character/Heritages.md#Weaver Jotunborn"
+  "path": "character/ancestries/Jotunborn.md#Weaver Jotunborn"
  },
  {
   "name": "Defensive Automaton",
@@ -88476,7 +88476,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 381,
-  "path": "character/Heritages.md#Defensive Automaton"
+  "path": "character/ancestries/Automaton.md#Defensive Automaton"
  },
  {
   "name": "Newly Minted Automaton",
@@ -88485,7 +88485,7 @@
   "traits": 0,
   "meta": 0,
   "body_chars": 554,
-  "path": "character/Heritages.md#Newly Minted Automaton"
+  "path": "character/ancestries/Automaton.md#Newly Minted Automaton"
  },
  {
   "name": "Anti-Tech Activist",

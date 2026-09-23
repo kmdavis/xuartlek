@@ -202,7 +202,7 @@ The mystery of why Xuartlek--the High City, the ascended sky tortle whose shell 
 ## Maps
 
 ```zoommap
-image: setting/places/systems/Eirion/Hrimgard/Hrimgard map.webp
+image: content/setting/places/systems/Eirion/Hrimgard/Hrimgard map.webp
 minZoom: 0.05
 maxZoom: 6
 height: 560px

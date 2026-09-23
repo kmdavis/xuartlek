@@ -119,3 +119,52 @@ Awakening altered your form, enabling you to speak verbally and stand on two leg
 Awakening altered your mind. You are no longer an animal, but you can still ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] skill with animals of your kind. By remembering your instincts, you can allow yourself to be affected by spells and other effects as though you were an [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal|animal]].
 
 *Source: Howl of the Wild p. 22*
+
+## Heritages
+
+## Climbing Animal
+
+You are an animal whose limbs are adapted to grab, climb, and brachiate. You might be dexterous and ready to use tools like a chimpanzee or otter, or you may simply be a quick climber like a bear, raccoon, or sloth. You have a land Speed of 20 feet, a climb Speed of 20 feet, and one animal attack of your choice (typically claw, fist, or jaws; see the sidebar).
+
+### Feats that require Climbing Animal...
+
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Digger|Digger]], [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Fierce Grasp|Fierce Grasp]]
+
+*Source: Howl of the Wild p. 24*
+
+## Flying Animal
+
+You are an animal that can take flight for long or sustained bursts, such as an eagle, bat, bee, or flying squirrel. The awakening process has disrupted your ability to fly as freely as you once did. What used to be an automatic process is now one that you must apply some thought to until it becomes automatic once again. You can still slow your descent, so you take no damage from falling, regardless of the distance you fall. Most flying awakened animals choose the [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Take Flight|Take Flight]] ancestry feat at 1st level to regain a limited ability to fly.
+
+ You have a land Speed of 20 feet and one animal attack of your choice (typically beak, claw, jaws, talon, or wing; see the sidebar).
+
+### Feats that require Flying Animal...
+
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Take Flight|Take Flight]]
+
+*Source: Howl of the Wild p. 24*
+
+## Running Animal
+
+You are an animal meant for running at great speeds across land. Typically, you run on all fours like a dog, cheetah, or an iguana, but you could also use two legs like a kangaroo, emu, or penguin.
+
+ You have a land Speed of 30 feet and one animal attack of your choice (typically claw, jaws, or tail; see the sidebar).
+
+### Feats that require Running Animal...
+
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Digger|Digger]]
+
+*Source: Howl of the Wild p. 24*
+
+## Swimming Animal
+
+You are an aquatic animal who is most comfortable in the water. You may spend much of your time in the water like an alligator, seal, whale, or dolphin, or you may require the water to breathe like a fish or some crustaceans.
+
+ You have one animal attack of your choice (typically claw, jaws, or tail; see the sidebar). Choose if you are aquatic or water-dwelling. 
+**Aquatic**: You gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/Aquatic|aquatic]] trait and you have a swim Speed of 30 feet. The aquatic trait means you breathe water but not air, and your bludgeoning and slashing unarmed Strikes don't take the usual –2 penalty for being underwater.**Water-dwelling**: You can hold your breath underwater for 10 minutes before needing air. You have a swim Speed of 20 feet, and if you can move on land, you have base Speed of 20 feet.
+
+### Feats that require Swimming Animal...
+
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Land Legs|Land Legs]]
+
+*Source: Howl of the Wild p. 24*

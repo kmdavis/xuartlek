@@ -100,3 +100,45 @@ You can see in dim light as though it were bright light, so you ignore the [[srd
 Your body requires you to return to aquatic environments at least once in a 24-hour period. After the first 24 hours outside of water, you take a –1 status penalty to Fortitude saves. After 48 hours, you struggle to breathe air and begin to suffocate until returned to water.
 
 *Source: Howl of the Wild p. 34*
+
+## Heritages
+
+## Abyssal Merfolk
+
+You live far, far below the surface of the ocean. Your fish tail might resemble a viperfish or anglerfish, and you might have luminous eyes or translucent skin. Abyssal merfolk have an uncanny reputation, but they can exist in even the most lightless realms. You gain darkvision and are immune to the crushing pressure of the oceanic depths.
+
+### Feats that require Abyssal Merfolk...
+
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Ocean's Bite|Ocean's Bite]]
+
+*Source: Howl of the Wild p. 35*
+
+## Carcharodon Merfolk
+
+As a fearsome shark merfolk, your lower body is similar to that of one of the apex predators of the ocean. Like a shark, you can smell blood from quite a distance. You gain scent as an imprecise sense with a range of 30 feet. However, you can smell spilled blood at a range of 120 feet in the air and 500 feet in the water.
+
+### Feats that require Carcharodon Merfolk...
+
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Ocean's Bite|Ocean's Bite]]
+
+*Source: Howl of the Wild p. 35*
+
+## Pelagic Merfolk
+
+You're a merfolk of the open seas. Your tail is patterned after the silvery tuna and herring that school by the million in your hunting grounds. Water obeys your will, and with a quick word, you can draw a sheathe of it around you. You gain the Shielding Wave action.
+
+ **Shielding Wave** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Water|water]]) You raise a magical barrier of twisting currents. Until the start of your next turn, the first time you take acid or fire damage, you gain resistance to that damage equal to half your level (minimum 1). The resistance is equal to your level instead if you're submerged in water, if you already Cast a Spell with the water trait, or if you used another ability with the water trait this turn.
+
+*Source: Howl of the Wild p. 36*
+
+## Reef Merfolk
+
+You were raised amid colorful corals and schools of tropical fish. Compared to most merfolk, your body is vividly hued with stripes, spots, and patterns like a clownfish or angelfish. You're used to the occasionally toxic denizens of your home and are bothered little by stings or petty poisons. You gain poison resistance equal to half your level (minimum 1), and each of your successful saving throws against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] affliction reduces its stage by 2, or by 1 for a [[srd/pf2e/compendium/rules-elements/traits/gm-core/Virulent|virulent]] poison. Each critical success against an ongoing poison reduces its stage by 3, or by 2 for a virulent poison.
+
+*Source: Howl of the Wild p. 36*
+
+## Sailfish Merfolk
+
+The lower half of your body resembles a powerful sailfish, complete with a large dorsal fin. Using this fin, you can move through the water faster and leap farther. Your swim Speed increases to 30 feet. When you attempt a [[srd/pf2e/compendium/rules-elements/actions/player-core#High Jump|High Jump]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Long Jump|Long Jump]], you gain a +1 circumstance bonus to the [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check, and you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]] instead of Striding before attempting the jump.
+
+*Source: Howl of the Wild p. 36*

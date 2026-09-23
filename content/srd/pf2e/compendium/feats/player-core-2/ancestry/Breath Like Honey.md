@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Kholo`  `Gnoll`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Sweetbreath Kholo|Sweetbreath Kholo]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Kholo#Sweetbreath Kholo|Sweetbreath Kholo]] heritage
 
 You smell of honey and savory things. Your circumstance bonus to checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] if the target can smell your breath increases to +2. In addition, you can cast [[srd/pf2e/compendium/spells/rank-3/Enthrall|_enthrall_]] as a 3rd-rank occult innate spell once per day, except the spell has a range of 30 feet and the [[srd/pf2e/compendium/rules-elements/traits/player-core/Olfactory|olfactory]] trait instead of the [[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]] trait. Targets don't gain any circumstance bonus for disagreeing with you.
 

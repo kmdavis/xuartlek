@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Awakened Animal`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Swimming Animal|Swimming Animal]] heritage; [[srd/pf2e/compendium/rules-elements/traits/player-core/Aquatic|aquatic]]
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Awakened Animal#Swimming Animal|Swimming Animal]] heritage; [[srd/pf2e/compendium/rules-elements/traits/player-core/Aquatic|aquatic]]
 
 You are comfortable on land for a short time. You gain a land Speed of 20 and can breathe air for 10 minutes.
 

@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Tengu`
 
 - **Frequency**: once per round
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Skyborn Tengu|Skyborn Tengu]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Tengu#Skyborn Tengu|Skyborn Tengu]] heritage
 
 You [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]]. If you don't normally have a fly Speed, you gain a fly Speed of 20 feet for this movement. If you aren't on solid ground at the end of this movement, you fall.
 

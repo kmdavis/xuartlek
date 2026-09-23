@@ -105,3 +105,65 @@ Your physiological needs are different than those of living creatures. You don't
 You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition due to dim light.
 
 *Source: Guns & Gears (Remastered) p. 36*
+
+## Heritages
+
+## Defensive Automaton
+
+You are built particularly tough. You can withstand more damage than most other automatons. You gain 10 hit points from your ancestry instead of 8. You also gain the [[srd/pf2e/compendium/feats/player-core/general/Toughness|Toughness]] feat.
+
+### Feats that require Defensive Automaton...
+
+[[srd/pf2e/compendium/feats/impossible-magic/ancestry/Resilient Chassis|Resilient Chassis]]
+
+*Source: Impossible Magic p. 110*
+
+## Hunter Automaton
+
+You were designed to serve as a scout or assassin and have a body resembling a pack hunter like a large cat or wolf. Though you typically move like a quadruped, you can still stand and fight like a biped, allowing you to use all equipment normally. Your quadruped design allows you to move quickly; if you have both hands free, you can increase your Speed to 30 feet as you run on all fours.
+
+### Feats that require Hunter Automaton...
+
+[[srd/pf2e/compendium/feats/guns-gears-remastered/ancestry/Arcane Camouflage|Arcane Camouflage]]
+
+*Source: Guns & Gears (Remastered) p. 36*
+
+## Mage Automaton
+
+The chamber housing your core has a more direct connection to the rest of your humanoid shape, allowing you to tap into your core's magical energy. You gain one cantrip from the [arcane](https://2e.aonprd.com/SpellLists.aspx?Tradition=1) spell list. You can cast this spell as an arcane innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.
+
+### Feats that require Mage Automaton...
+
+[[srd/pf2e/compendium/feats/guns-gears-remastered/ancestry/Core Attunement|Core Attunement]]
+
+*Source: Guns & Gears (Remastered) p. 36*
+
+## Newly Minted Automaton
+
+You are a brand-new automaton, likely constructed in the city of Quantium. While your body is largely the same as those created many years ago, your mind is fresh, and you learn new information at a rapid pace. You gain the [[srd/pf2e/compendium/feats/player-core/skill/Additional Lore|Additional Lore]] skill feat in one lore of your choice. You know one additional language from the languages that you have access to.
+
+### Feats that require Newly Minted Automaton...
+
+[[srd/pf2e/compendium/feats/impossible-magic/ancestry/Undead Hunter|Undead Hunter]]
+
+*Source: Impossible Magic p. 110*
+
+## Sharpshooter Automaton
+
+Your lithe, humanoid shape is designed for speed and accuracy suitable for ranged combat. You gain the Automaton Aim action.
+
+### Feats that require Sharpshooter Automaton...
+
+[[srd/pf2e/compendium/feats/guns-gears-remastered/ancestry/Rain of Bolts|Rain of Bolts]]
+
+*Source: Guns & Gears (Remastered) p. 36*
+
+## Warrior Automaton
+
+Sporting a bulkier, powerful design, your body has been designed for combat. You have a bulky, humanoid shape. The damage die for your fist increases to 1d6 instead of 1d4. You don't take a penalty when making a lethal attack with your fist or any other [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack.
+
+### Feats that require Warrior Automaton...
+
+[[srd/pf2e/compendium/feats/guns-gears-remastered/ancestry/Arcane Slam|Arcane Slam]]
+
+*Source: Guns & Gears (Remastered) p. 36*

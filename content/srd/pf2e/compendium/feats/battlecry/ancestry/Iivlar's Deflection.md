@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Jotunborn`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Keeper Jotunborn|Keeper Jotunborn]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Jotunborn#Keeper Jotunborn|Keeper Jotunborn]] heritage
 - **Trigger**: You are struck by a critical hit that deals physical damage.
 
 You’re able to use the silk woven into your skin to deflect attacks, reducing the deadliness of grievous blows. Attempt a DC 17 flat check. If you are successful, the attack becomes a normal hit.

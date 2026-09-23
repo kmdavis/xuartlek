@@ -72,3 +72,47 @@ Additional languages equal to your Intelligence modifier (if it's positive). Cho
 You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition due to dim light.
 
 *Source: Tian Xia Character Guide p. 76*
+
+## Heritages
+
+## Deny Lady Nanbyo's Charity
+
+You swore a vow to release others from natural calamities. Your vow grants you the strength to carry 1 more Bulk than normal before becoming [[srd/pf2e/compendium/rules-elements/Conditions#Encumbered|encumbered]] and up to a maximum of 2 more Bulk, as well as a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]].
+**Additional Edict** do your utmost to aid or rescue those trapped or affected by natural disasters
+
+*Source: Tian Xia Character Guide p. 78*
+
+## Deny the Firstborn Pursuit
+
+You swore a vow to shelter others from the First World's cruelties. Wise to [[srd/pf2e/compendium/rules-elements/traits/player-core/Fey|fey's]] mind-affecting abilities, your vow grants [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] resistance equal to half your level (minimum 1), and a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] about fey. 
+**Additional Edict** confront cruel fey you encounter (as long as you have a reasonable chance of success)
+
+*Source: Tian Xia Character Guide p. 78*
+
+## Deny the Traitor's Rebirth
+
+You swore a vow to deliver others from rakshasas and asuras, whom yaksha legends have condemned as corrupted kin. To counter their shadowy schemes, your vow grants you Darkvision and a +1 circumstance bonus to Perception checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense the Motives]] of [[srd/pf2e/compendium/gm/creature-families/Rakshasa|rakshasas]] and asuras. 
+**Additional Edict** confront rakshasas and asuras you come across (as long as you have a reasonable chance of success); in the unlikely event you find a benevolent rakshasa or asura, you don't have to confront them
+
+*Source: Tian Xia Character Guide p. 78*
+
+## Respite of a Thousand Roofs
+
+You swore a vow to shelter and feed the poor. Your vow grants you adroitness with carpentry, cook pot, and cloth; you become trained in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]] and Cooking Lore, and you gain the [[srd/pf2e/compendium/feats/player-core-2/skill/Improvise Tool|Improvise Tool]] skill feat. 
+**Additional Edict** help the impoverished to the extent you're able by repairing their abodes and clothing or by feeding them
+
+*Source: Tian Xia Character Guide p. 78*
+
+## Respite of Cloudless Paths
+
+You swore a vow to protect the waylaid and the lost. Both environmental heat effects and [[srd/pf2e/books/gm-core/chapter-2-building-games/Environment#Temperature|environmental cold]] effects are one step less extreme for you (incredible heat becomes extreme, extreme cold becomes severe, and so on), and you gain a + 1 circumstance bonus to saving throws against environmental features or hazards, such as floods, rockslides, and sandstorms. 
+**Additional Edict** assist lost or incapacitated travelers
+
+*Source: Tian Xia Character Guide p. 78*
+
+## Respite of Loam and Leaf
+
+You swore a vow to preserve the very foundation of sanctuary: the great earth and all that grows upon it. Your vow grants you the land's spiritual power; you gain one cantrip from the [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal|primal]] spell list. You can cast this spell as an innate primal spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up. Your roots in the world grant you the [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant|plant]] trait. 
+**Additional Edict** cure or remove blight and pollution from the plants and soil you encounter
+
+*Source: Tian Xia Character Guide p. 78*

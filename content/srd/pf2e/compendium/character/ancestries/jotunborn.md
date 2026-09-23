@@ -85,3 +85,43 @@ Planar thread produced by creatures called iivlars is woven into your skin. This
 You can see in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Dim Light|dim light]] as though it were [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Bright Light|bright light]], so you ignore the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition due to dim light.
 
 *Source: Battlecry! p. 10*
+
+## Heritages
+
+## Keeper Jotunborn
+
+Your work as an iivlar keeper has granted you a greater understanding of these sacred creatures and the ability to track them, as elusive as they may be. You are trained in [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]], and you gain the [[srd/pf2e/compendium/feats/player-core/skill/Survey Wildlife|Survey Wildlife]] skill feat. You gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]] animals.
+
+### Feats that require Keeper Jotunborn...
+
+[[srd/pf2e/compendium/feats/battlecry/ancestry/Iivlar's Deflection|Iivlar's Deflection]]
+
+*Source: Battlecry! p. 12*
+
+## Plane-Hopper Jotunborn
+
+You were chosen for your smaller size that allows you to move between planar thresholds with ease. You generally serve as a messenger or scout, and planar exposure has granted you a spark of magical power. Instead of Large, your size is Medium. You gain one cantrip from the [occult spell list](https://2e.aonprd.com/SpellLists.aspx?Tradition=3). You can cast this spell as an occult [[srd/pf2e/books/gm-core/chapter-2-building-games/Building Creatures#Innate Spells|innate spell]] at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
+
+*Source: Battlecry! p. 12*
+
+## Sage Jotunborn
+
+You were tasked with keeping oral and stitched histories for your family, your clan, or even an entire settlement. You are trained in [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]. You also gain the [[srd/pf2e/compendium/feats/player-core/skill/Additional Lore|Additional Lore]] general feat for a [[srd/pf2e/compendium/rules-elements/skills/Lore|lore]] skill of your choice.
+
+*Source: Battlecry! p. 12*
+
+## Warrior Jotunborn
+
+Your hardier body made you a perfect recruit for combat. The damage die for your fist increases to 1d6. You don’t take a penalty when making a lethal attack with your fist.
+
+### Feats that require Warrior Jotunborn...
+
+[[srd/pf2e/compendium/feats/battlecry/ancestry/Pounding Leap|Pounding Leap]]
+
+*Source: Battlecry! p. 12*
+
+## Weaver Jotunborn
+
+You’ve mastered the art of iivlar silk weaving, a technique that requires a fine attention to detail. You are trained in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]. You gain a +1 circumstance bonus to [[srd/pf2e/books/player-core/chapter-1-introduction/Playing the Game#Perception|Perception]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] when searching for hidden details like secret doors or traps.
+
+*Source: Battlecry! p. 12*

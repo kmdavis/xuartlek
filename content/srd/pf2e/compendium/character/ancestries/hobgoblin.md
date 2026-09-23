@@ -71,3 +71,43 @@ Additional languages equal to your Intelligence modifier (if it's positive). Cho
 You can see in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Darkness|darkness]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Dim Light|dim light]] just as well as you can see in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Bright Light|bright light]], though your vision in darkness is in black and white.
 
 *Source: Player Core 2 p. 12*
+
+## Heritages
+
+## Elfbane Hobgoblin
+
+Hobgoblins were engineered long ago from the unreliable and fecund goblins to be used as an army against the elves. Although the elves ultimately freed the hobgoblins from their bondage, some hobgoblins retain ancestral resistance to magic, which they refer to as “elf magic.” You gain the Resist Elf Magic reaction.
+
+ **Resist Elf Magic** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** You attempt a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Magical|magical]] effect but haven't rolled yet; **Effect** Your ancestral resistance to magic protects you. You gain a +1 circumstance bonus to the triggering saving throw. If the triggering effect is [[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane|arcane]], you gain a +2 circumstance bonus instead.
+
+*Source: Player Core 2 p. 13*
+
+## Runtboss Hobgoblin
+
+You come from a long line of hobgoblins who commanded goblins. You are smaller than other hobgoblins, but goblins still listen to any commands you bellow. You gain the [[srd/pf2e/compendium/feats/player-core/skill/Group Coercion|Group Coercion]] skill feat. If you roll a success on an [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]] a goblin, you get a critical success instead; if you roll a critical failure, you get a failure instead.
+
+*Source: Player Core 2 p. 13*
+
+## Shortshanks Hobgoblin
+
+You have a longer torso and broader shoulders than most hobgoblins, making your legs seem short by comparison. This gives you a strong, muscular core and lowers your center of gravity—features that assist you in riding and climbing—and you've trained at riding in a saddle from an extremely early age. You gain the [[srd/pf2e/compendium/feats/player-core/general/Ride|Ride]] feat. Additionally, you are not [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] while you [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]].
+
+*Source: Player Core 2 p. 13*
+
+## Smokeworker Hobgoblin
+
+Your family have been alchemists, engineers, and scientists for generations, laboring on projects that bring smoke and fire to the field of battle. You gain fire resistance equal to half your level (minimum 1). You automatically succeed at the DC 5 flat check to target a [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] creature if that creature is concealed only by smoke.
+
+*Source: Player Core 2 p. 13*
+
+## Warmarch Hobgoblin
+
+You come from a line of wandering mercenaries constantly on the march and scavenging food on the trail. If you fail, but don't critically fail, to [[srd/pf2e/compendium/rules-elements/actions/player-core#Subsist|Subsist]] in the wilderness, you can still keep yourself fed with poor meals. When exploring, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Hustle|Hustle]] twice as long before you have to stop.
+
+*Source: Player Core 2 p. 13*
+
+## Warrenbred Hobgoblin
+
+Your ancestors lived underground. Your ears are larger than those of other hobgoblins and sensitive to echoes. While you're underground, when you target an opponent that is [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] from you or [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] from you, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one. In addition, if you roll a success on an [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Squeeze|Squeeze]], you get a critical success instead.
+
+*Source: Player Core 2 p. 13*

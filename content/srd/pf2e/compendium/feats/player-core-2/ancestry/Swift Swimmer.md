@@ -16,6 +16,6 @@ socialImage: og-image.png
 
 You gain a swim Speed of 15 feet.
 
-**Special** If you have the [[srd/pf2e/compendium/character/Heritages#Wetlander Lizardfolk|wetlander lizardfolk heritage]], your swim Speed instead increases to 25 feat.
+**Special** If you have the [[srd/pf2e/compendium/character/ancestries/Lizardfolk#Wetlander Lizardfolk|wetlander lizardfolk heritage]], your swim Speed instead increases to 25 feat.
 
 *Source: Player Core 2 p. 27*

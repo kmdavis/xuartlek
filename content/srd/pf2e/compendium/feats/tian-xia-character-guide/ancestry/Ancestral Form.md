@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Lizardfolk`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Bakuwa Lizardfolk|Bakuwa Lizardfolk]] heritage or [[srd/pf2e/compendium/character/Heritages#Makari Lizardfolk|Makari Lizardfolk]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Lizardfolk#Bakuwa Lizardfolk|Bakuwa Lizardfolk]] heritage or [[srd/pf2e/compendium/character/ancestries/Lizardfolk#Makari Lizardfolk|Makari Lizardfolk]] heritage
 
 Casting your memory back deep into the past, you take the form of an ancestral guardian. You can cast [[srd/pf2e/compendium/spells/rank-2/Animal Form|_animal form_]] on yourself as a 3rd-rank primal innate spell once per day. You must choose the crocodile form.
 

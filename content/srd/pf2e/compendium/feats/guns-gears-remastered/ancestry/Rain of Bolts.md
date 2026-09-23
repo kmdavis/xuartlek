@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Automaton`
 
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Sharpshooter Automaton|Sharpshooter Automaton]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Automaton#Sharpshooter Automaton|Sharpshooter Automaton]] heritage
 
 Throughout the day, your body produces powerful projectiles within your chassis. You fire them all at once in either a 30-foot cone or a 10-foot emanation. Foes in the area take 6d6 piercing damage with a basic Reflex save against the higher of your class DC or spell DC. This increases to 7d6 at 12th level, 8d6 at 15th level, and 9d6 at 18th level.
 

@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Kobold`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Dragonscaled Kobold|Dragonscaled Kobold]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Kobold#Dragonscaled Kobold|Dragonscaled Kobold]] heritage
 
 As kin to dragonkind, you project unflappable confidence (that collapses catastrophically against the deadliest foes). When you roll a success on a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]] effect, you get a critical success instead. When you roll a failure against a fear effect, you get a critical failure instead.
 

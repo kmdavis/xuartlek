@@ -16,7 +16,7 @@ socialImage: og-image.png
 `Goblin`  `Occult`
 
 - **Frequency**: once per day
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Dokkaebi Goblin|Dokkaebi Goblin]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Goblin#Dokkaebi Goblin|Dokkaebi Goblin]] heritage
 - **Access**: dokkaebi goblin heritage
 
 You can access the mystical power that dokkaebi refer to as a hat. You conjure a magical gamtu hat, which is a magic item of light Bulk. The gamtu persists for 1 hour, and you can give the gamtu to another creature to wear. 

@@ -219,7 +219,7 @@ Colony population reflects Xuartlek's diverse network:
 ## Maps
 
 ```zoommap
-image: setting/places/systems/Tessara/Myrrhina/Myrrhina map.webp
+image: content/setting/places/systems/Tessara/Myrrhina/Myrrhina map.webp
 minZoom: 0.05
 maxZoom: 6
 height: 560px

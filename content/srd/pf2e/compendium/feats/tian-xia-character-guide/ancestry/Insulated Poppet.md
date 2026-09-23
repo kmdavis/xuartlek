@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Poppet`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Tsukumogami Poppet|Tsukumogami Poppet]] heritage; you have a metal or ceramic body
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Poppet Heritages#Tsukumogami Poppet|Tsukumogami Poppet]] heritage; you have a metal or ceramic body
 
 You’ve used insulating wraps or special glazes to reduce your weakness to current and temperature. You no longer have the [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Weakness|weakness]] to either [[srd/pf2e/compendium/rules-elements/traits/player-core/Electricity|electricity]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold|cold]] caused by your tsukumogami heritage.
 

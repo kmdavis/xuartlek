@@ -15,7 +15,7 @@ socialImage: og-image.png
 `Poppet`
 
 - **Frequency**: Once per 10 Minutes
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Tsukumogami Poppet|Tsukumogami Poppet]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Poppet Heritages#Tsukumogami Poppet|Tsukumogami Poppet]] heritage
 
 You bestow some of your own life energies to mend damage. You touch a non-magical object of 2 Bulk or less, or a magical object of 1 Bulk or less, and you restore Hit Points to the target equal to twice your level. You lose as many Hit Points as the target regained. This direct transfer of vitality means that no effects apply that would increase the Hit Points the target regains or decrease the Hit Points you lose. This transfer also ignores any temporary Hit Points you or the target have. You can’t reduce your Hit Points below 1 using Solidarity. You can’t replace lost pieces or repair an object that has been completely destroyed.
 

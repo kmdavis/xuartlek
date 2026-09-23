@@ -342,7 +342,7 @@ Xuartlek districts participate in Drowning preparations alongside local populati
 ## Maps
 
 ```zoommap
-image: setting/places/systems/Tyros/Shubae/Shubae map.webp
+image: content/setting/places/systems/Tyros/Shubae/Shubae map.webp
 minZoom: 0.05
 maxZoom: 6
 height: 560px

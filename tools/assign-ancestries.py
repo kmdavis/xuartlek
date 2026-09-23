@@ -27,6 +27,7 @@ one. Run from the repo root.
 import csv
 import json
 import pathlib
+import re
 import collections
 
 WORLDS = ["Arborisle", "Profugae", "Tertara", "Shubae", "Langsevain", "Hrimgard",
@@ -413,6 +414,84 @@ def main() -> int:
     return 0
 
 
+# Ancestries whose heritages live on a page of their own, because the ancestry
+# itself is in a book we do not import.
+ORPHAN_ANCESTRIES = {"Kitsune", "Nagaji", "Poppet", "Sprite"}
+
+SRD_ANCESTRIES = pathlib.Path("content/srd/pf2e/compendium/character/ancestries")
+VERSATILE = pathlib.Path("content/srd/pf2e/compendium/character/versatile-heritages")
+MAP_FILE = pathlib.Path("tools/import-aon/.snapshot/heritage-ancestry.json")
+
+
+def _norm(s: str, ancestry: str) -> str:
+    """Compare heritage names across the two naming styles.
+
+    The spreadsheet drops the ancestry ("Deep", "Ancient Blooded") where AoN
+    keeps it and sometimes shortens it ("Deep Rat", "Ancient-Blooded Dwarf"),
+    and hyphenation differs. Strip the ancestry word or its stem, then reduce
+    to letters and digits so the two forms meet in the middle.
+    """
+    s = s.lower()
+    for tail in (ancestry.lower(), ancestry.lower().rstrip("s"),
+                 "rat", "animal", "automaton", "jotunborn", "sarangay"):
+        if s.endswith(" " + tail):
+            s = s[: -len(tail) - 1]
+            break
+    return re.sub(r"[^a-z0-9]", "", s)
+
+
+def _heritage_index() -> dict[tuple[str, str], tuple[str, str]]:
+    """(ancestry, normalised short name) -> (note stem, exact anchor).
+
+    Built from the scraped ancestry mapping, so it knows the real heritage
+    names rather than reconstructing them from the spreadsheet's abbreviations.
+    """
+    try:
+        owners = json.loads(MAP_FILE.read_text())
+    except FileNotFoundError:
+        return {}
+    idx: dict[tuple[str, str], tuple[str, str]] = {}
+    for full, ancestry in owners.items():
+        stem = f"{ancestry} Heritages" if ancestry in ORPHAN_ANCESTRIES else ancestry
+        idx[(ancestry, _norm(full, ancestry))] = (stem, full)
+    return idx
+
+
+HERITAGE_INDEX = _heritage_index()
+
+
+def heritage_link(ancestry: str, short: str) -> str:
+    """Link a heritage to its section on the ancestry's SRD note.
+
+    Heritages are sections rather than notes, so the target is an anchor, and
+    the alias pipe is escaped because these land inside list items that may sit
+    in a table. Anything with no SRD entry -- the Tian Xia heritages whose
+    ancestry we do not import -- stays plain text rather than linking nowhere.
+    """
+    if ancestry == "Versatile":
+        note = VERSATILE / f"{short}.md"
+        if note.exists():
+            return f"[[srd/pf2e/compendium/character/versatile-heritages/{short}\\|{short}]]"
+        return short
+    key = _norm(short, ancestry)
+    hit = HERITAGE_INDEX.get((ancestry, key))
+    if not hit:
+        # Some heritages are named as a phrase the spreadsheet abbreviates to
+        # its last word: "Courtier" for "Shadow of the Courtier". Match on the
+        # tail, scoped to one ancestry so the risk of a wrong hit is small.
+        for (anc, full_key), value in HERITAGE_INDEX.items():
+            if anc == ancestry and full_key.endswith(key) and key:
+                hit = value
+                break
+    if not hit:
+        return short
+    stem, anchor = hit
+    if not (SRD_ANCESTRIES / f"{stem}.md").exists():
+        return short
+    return (f"[[srd/pf2e/compendium/character/ancestries/{stem}"
+            f"#{anchor}\\|{short}]]")
+
+
 def write_note(assign, world_her, world_anc) -> None:
     """Write the player-facing guide into the vault."""
     by_world = collections.defaultdict(lambda: collections.defaultdict(list))
@@ -447,7 +526,8 @@ def write_note(assign, world_her, world_anc) -> None:
     for w in WORLDS:
         out += ["", f"## {w}", ""]
         for a in sorted(by_world[w]):
-            out.append(f"- **{a}**: {', '.join(sorted(by_world[w][a]))}")
+            links = [heritage_link(a, h) for h in sorted(by_world[w][a])]
+            out.append(f"- **{a}**: {', '.join(links)}")
     dest = pathlib.Path("content/setting/concepts/Ancestries by World.md")
     dest.write_text("\n".join(out) + "\n", encoding="utf-8")
     print(f"\n  wrote {dest}")

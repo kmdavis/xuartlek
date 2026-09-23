@@ -15,7 +15,7 @@ socialImage: og-image.png
 
 `Kholo`  `Gnoll`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Witch Kholo|Witch Kholo]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Kholo#Witch Kholo|Witch Kholo]] heritage
 
 It takes a very brave person to enter the laughter-haunted forest where you dwell. You can cast [[srd/pf2e/compendium/spells/rank-1/Ventriloquism|_ventriloquism_]] once per day as a 1st-rank occult innate spell.
 

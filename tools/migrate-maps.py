@@ -100,8 +100,14 @@ An orbital view of the world:
 def embed(note: pathlib.Path, world: str, rel_dir: str) -> bool:
     """Replace or add the map block on a world note.
 
-    The zoommap fence needs a vault-relative path, not a wikilink, so the
-    image reference is spelled out rather than embedded with ![[...]].
+    The path is written from the vault root, which is the repository root, so
+    it starts with content/. That is what Obsidian resolves, and therefore
+    where Obsidian writes the marker sidecar when you place a pin.
+
+    Quartz needs the same file named from content/ instead. The local
+    quartz-ttrpg-basepath plugin strips the prefix before the upstream
+    transformer parses the fence, so one string serves both tools and the
+    sidecar Obsidian writes is the sidecar Quartz reads.
     """
     text = note.read_text(encoding="utf-8")
     marker = "\n## Maps\n"
@@ -196,8 +202,7 @@ def main() -> int:
             markers.write_text(json.dumps({"layers": [], "markers": []},
                                           indent=1) + "\n", encoding="utf-8")
 
-        rel_dir = str(dst_dir).replace("content/", "", 1)
-        if embed(note, world, rel_dir):
+        if embed(note, world, str(dst_dir)):
             linked += 1
         print(f"  {world:14} svg={'ok' if svg_dst.exists() else '--':3} "
               f"webp={'ok' if png_dst.exists() else '--':3} "

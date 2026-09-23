@@ -70,3 +70,43 @@ Additional languages equal to your Intelligence modifier (if it's positive). Cho
 You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition due to dim light.
 
 *Source: Player Core p. 46*
+
+## Heritages
+
+## Ancient Elf
+
+In your long life, you've dabbled in many paths and many styles. A typical ancient elf is at least 100 years old, though you might be younger at the GM's discretion. Choose a class other than your own. You gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/Multiclass|multiclass dedication]] feat for that class, even though you don't meet its level prerequisite. You must still meet its other prerequisites to gain the feat.
+
+*Source: Player Core p. 47*
+
+## Arctic Elf
+
+You dwell deep in the frozen north and have gained incredible resilience against cold environments, granting you cold resistance equal to half your level (minimum 1). You treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).
+
+*Source: Player Core p. 47*
+
+## Cavern Elf
+
+You were born or spent many years in underground tunnels or caverns where light is scarce. You gain darkvision.
+
+*Source: Player Core p. 47*
+
+## Seer Elf
+
+You have an inborn ability to detect and understand magical phenomena. You can cast the _detect magic_ cantrip as an arcane innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up. In addition, you gain a +1 circumstance bonus to checks to Identify Magic and to Decipher Writing of a magical nature. These skill actions typically use the [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]], or [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] skill.
+
+*Source: Player Core p. 47*
+
+## Whisper Elf
+
+Your ears are finely tuned, able to detect even the slightest whispers of sound. You gain a +2 circumstance bonus when using the Seek action to find [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]] creatures within 30 feet of you. When you target an opponent that is [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] from you or hidden from you, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one. This benefit doesn't apply if you can't hear or if the creature is incapable of making sound (for example, if it's affected by a _silence_ spell).
+
+*Source: Player Core p. 47*
+
+## Woodland Elf
+
+You're adapted to life in the forest, the deep jungle, or a similar environment, and you know how to climb trees and use foliage to your advantage. When Climbing trees, vines, and other foliage, you move at half your Speed on a success and at full Speed on a critical success (and you move at full Speed on a success if you have Quick Climb). This doesn't affect you if you're using a climb Speed.
+
+ You can always use the Take Cover action when you are within forest terrain to gain cover, even if you're not next to an obstacle you can Take Cover behind.
+
+*Source: Player Core p. 47*

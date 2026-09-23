@@ -66,3 +66,43 @@ Additional languages equal to your Intelligence modifier (if it's positive). Cho
 Your eyes are sharp, allowing you to make out small details about [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] or even [[srd/pf2e/compendium/rules-elements/Conditions#Invisible|invisible]] creatures that others might miss. You gain a +2 circumstance bonus when using the Seek action to find [[srd/pf2e/compendium/rules-elements/Conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]] creatures within 30 feet of you. When you target an opponent that is concealed from you or hidden from you, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one.
 
 *Source: Player Core p. 58*
+
+## Heritages
+
+## Gutsy Halfling
+
+Your family line is known for keeping a level head and staving off fear when the chips were down. When you roll a success on a saving throw against an [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]] effect, you get a critical success instead.
+
+*Source: Player Core p. 59*
+
+## Hillock Halfling
+
+Accustomed to a calm life in the hills, your people find rest and relaxation especially replenishing, particularly when indulging in creature comforts. When you regain Hit Points overnight, add your level to the Hit Points regained. When anyone uses the [[srd/pf2e/compendium/rules-elements/skills/Medicine|Medicine]] skill to Treat your Wounds, you can eat a snack to add your level to the Hit Points you regain from their treatment.
+
+*Source: Player Core p. 59*
+
+## Jinxed Halfling
+
+`Uncommon`
+
+You were born with a strange blessing: bereft of the typical halfling luck, you can instead manipulate the fortunes of others. You can never take the Halfling Luck feat, and you gain the Jinx action.
+
+*Source: Player Core p. 59*
+
+## Nomadic Halfling
+
+Your ancestors have traveled from place to place for generations, never content to settle down. You gain two additional languages of your choice, chosen from among the common and uncommon languages available to you, and every time you take the Multilingual feat, you gain another new language.
+
+*Source: Player Core p. 59*
+
+## Twilight Halfling
+
+Your ancestors performed many secret acts under the concealing cover of dusk, whether for good or ill, and over time they developed the ability to see in twilight beyond even the usual keen sight of halflings. You gain low-light vision.
+
+*Source: Player Core p. 59*
+
+## Wildwood Halfling
+
+You hail from deep within a jungle or forest, and you've learned how to use your small size to wriggle through undergrowth and other obstacles. You ignore any difficult terrain caused by plants and fungi, such as bushes, vines, and undergrowth.
+
+*Source: Player Core p. 59*

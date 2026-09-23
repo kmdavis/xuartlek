@@ -91,3 +91,31 @@ Additional languages equal to your Intelligence modifier (if positive). Choose f
 You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] condition due to dim light.
 
 *Source: Howl of the Wild p. 16*
+
+## Heritages
+
+## Coral Athamaru
+
+Coral covers patches of your body, which provides a natural layer of defense. Coral athamarus often choose Coral Symbiotes and other related ancestry feats. The coral plates are medium armor in the plate armor group that grant a +4 item bonus to AC, a Dex cap of +1, a check penalty of –2, a Speed penalty of –5 feet, a Strength value of +3, and have the [[srd/pf2e/compendium/rules-elements/traits/howl-of-the-wild/Aquadynamic|aquadynamic]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Comfort|comfort]] traits. You can never wear other armor or remove the coral. You can etch armor runes onto the coral.
+
+*Source: Howl of the Wild p. 18*
+
+## Hopeful Athamaru
+
+You have begun to prepare yourself to become an athamaru matriarch, and are likely stepping outside of your community to better prepare yourself as a leader. As part of the physical change, you are substantially taller than you once were. Instead of Medium, your size is Large (see [[srd/pf2e/books/howl-of-the-wild/special-ancestry-rules/Large PCs|Large PCs]] for rules for Large player characters). In addition, you instill your allies with a feeling of hopefulness. You have a 10-foot aura that grants any ally in it a +1 circumstance bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/Fear|fear]]; this is an [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] effect.
+
+*Source: Howl of the Wild p. 18*
+
+## Kaleidoscopic Athamaru
+
+Your scales are a spectrum of color that shimmers in the light. In areas of bright light or dim light, you gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Performance|Performance]] checks. You also gain the Dazzle Seeker reaction.
+
+ **Dazzle Seeker** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|misfortune]]) **Trigger** A creature attempts a flat check to target you due to you being [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] from it; **Effect** You flash your bright scales in the creature's eyes, making it hard for them to pinpoint your exact location. The creature must roll the flat check twice and take the worse result.
+
+*Source: Howl of the Wild p. 18*
+
+## Quilled Athamaru
+
+Sharp quills on your head can pierce your foes deeply. Most athamarus use such quills for defense, but a well-timed headbash can be devastatingly effective. You gain a quills melee unarmed attack that deals 1d6 piercing damage. Your quills are in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] traits.
+
+*Source: Howl of the Wild p. 18*

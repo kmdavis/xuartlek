@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Centaur`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Mottle-Coat Centaur|Mottle-Coat Centaur]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Centaur#Mottle-Coat Centaur|Mottle-Coat Centaur]] heritage
 
 You've learned to use your natural camouflage to your advantage, enhancing your ability to blend with your surroundings through careful movements and additional markings or attire. In your selected terrain, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]] without cover or being concealed.
 

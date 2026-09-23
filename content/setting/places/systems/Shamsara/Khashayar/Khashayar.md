@@ -173,7 +173,7 @@ When Xuartlek's portals opened, Khashayari citizens entering other worlds experi
 ## Maps
 
 ```zoommap
-image: setting/places/systems/Shamsara/Khashayar/Khashayar map.webp
+image: content/setting/places/systems/Shamsara/Khashayar/Khashayar map.webp
 minZoom: 0.05
 maxZoom: 6
 height: 560px

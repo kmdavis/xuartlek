@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Gnome`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Kijimuna Gnome|Kijimuna Gnome]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Gnome#Kijimuna Gnome|Kijimuna Gnome]] heritage
 
 The innate magic in your blood turns your signature crimson tresses into more than just a stylish coiffure. If you pluck three strands of your bright red hair and spend 1 minute braiding them together, they magically transform into a strong, 50-foot, crimson rope. This rope can hold 1,000 pounds—great for lashing down sails in a storm, rappelling down a cliff to a hidden treasure, or tying up a Minkaian criminal with a sizable bounty on her head. You can have only one hair rope in existence at a time; if you braid a second, your first rope unravels back into three hairs.
 

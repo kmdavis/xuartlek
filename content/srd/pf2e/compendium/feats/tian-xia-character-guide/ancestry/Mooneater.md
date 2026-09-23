@@ -16,7 +16,7 @@ socialImage: og-image.png
 
 `Lizardfolk`  `Primal`  `Uncommon`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Bakuwa Lizardfolk|Bakuwa Lizardfolk]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Lizardfolk#Bakuwa Lizardfolk|Bakuwa Lizardfolk]] heritage
 
 You call on the spirit of the dragon that devoured the moon to temporarily swallow a celestial body and blind onlookers with its visage. You can cast [[srd/pf2e/compendium/spells/rank-7/Eclipse Burst|_eclipse burst_]] as a primal innate spell once per day. When you Cast the Spell, the sun or moon appears to eclipse to all creatures within 500 feet of you. For 1 round after Casting the Spell, the area is reduced to dim light.
 

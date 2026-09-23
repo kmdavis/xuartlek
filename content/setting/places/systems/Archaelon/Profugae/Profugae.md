@@ -141,7 +141,7 @@ What caused the war that triggered the Cascade? The warrens hold no records old 
 ## Maps
 
 ```zoommap
-image: setting/places/systems/Archaelon/Profugae/Profugae map.webp
+image: content/setting/places/systems/Archaelon/Profugae/Profugae map.webp
 minZoom: 0.05
 maxZoom: 6
 height: 560px

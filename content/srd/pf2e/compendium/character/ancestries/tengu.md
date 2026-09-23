@@ -72,3 +72,51 @@ You can see in dim light as though it were bright light, so you ignore the [[srd
 With your sharp beak, you are never without a weapon. You have a beak [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack that deals 1d6 piercing damage. Your beak is in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] weapon group and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] traits.
 
 *Source: Player Core 2 p. 32*
+
+## Heritages
+
+## Dogtooth Tengu
+
+In addition to a beak, your mouth also features a number of vicious, pointed teeth. Some legends claim your powerful jaws can even bite through steel. While you aren't that strong yet, your fangs can still leave terrible wounds. Your beak unarmed attack gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly|deadly d8]] trait.
+
+*Source: Player Core 2 p. 33*
+
+## Jinxed Tengu
+
+Your lineage has been exposed to curse after curse, and now they slide off your feathers like rain. If you succeed at a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/Curse|curse]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Misfortune|misfortune]] effect, you get a critical success instead. When you would gain the [[srd/pf2e/compendium/rules-elements/Conditions#Doomed|doomed]] condition, attempt a DC 17 flat check. On a success, reduce the value of the doomed condition you would gain by 1.
+
+*Source: Player Core 2 p. 33*
+
+## Mountainkeeper Tengu
+
+You come from a line of tengu ascetics, leaving you with a link to the spirits of the world and the Great Beyond. You can cast the [[srd/pf2e/compendium/spells/cantrips/Vitality Lash|_vitality lash_]] cantrip as a primal innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up. Each time you cast a spell from a tengu heritage or ancestry feat, you can decide whether it's a divine or primal spell.
+
+*Source: Player Core 2 p. 33*
+
+## Skyborn Tengu
+
+Your bones may be especially light, you may be a rare tengu with wings, or your connection to the spirits of wind and sky might be stronger than most, slowing your descent through the air. You take no damage from falling, regardless of the distance you fall.
+
+### Feats that require Skyborn Tengu...
+
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Soaring Flight|Soaring Flight]]
+
+*Source: Player Core 2 p. 33*
+
+## Stormtossed Tengu
+
+Whether due to a blessing from [[srd/pf2e/compendium/deities/tian-gods/Hei Feng|Hei Feng]] or hatching from your egg during a squall, you are resistant to storms. You gain electricity resistance equal to half your level (minimum 1). You automatically succeed at the flat check to target a [[srd/pf2e/compendium/rules-elements/Conditions#Concealed|concealed]] creature if that creature is concealed only by rain or fog.
+
+*Source: Player Core 2 p. 33*
+
+## Taloned Tengu
+
+Your talons are every bit as sharp and strong as your beak. You gain a talons unarmed attack that deals 1d4 slashing damage. Your talons are in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile P]] traits.
+
+*Source: Player Core 2 p. 33*
+
+## Wavediver Tengu
+
+You're one of the rare tengu who can cut through water like a bird through air, and you often lurk in rivers or oceans where few expect you. You gain a swim Speed of 15 feet.
+
+*Source: Player Core 2 p. 33*

@@ -98,3 +98,53 @@ Your equine body is well suited for carrying trusted allies. A PC can ride you i
 | **Robust** | You increase your maximum and encumbered Bulk limits by 2. |
 
 *Source: Howl of the Wild p. 28*
+
+## Heritages
+
+## Budding Speaker Centaur
+
+You were born with a spark of magic that could set you on the path to becoming a Greenspeaker or Faithspeaker. Select [divine](https://2e.aonprd.com/SpellLists.aspx?Tradition=2) or [primal](https://2e.aonprd.com/SpellLists.aspx?Tradition=4). If you selected divine, you're a Faithspeaker. If you selected primal, you're a Greenspeaker. This choice can't be changed. You gain one [[srd/pf2e/compendium/rules-elements/traits/player-core/Cantrip|cantrip]] from the chosen spell list. You can cast this spell as an innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
+
+### Feats that require Budding Speaker Centaur...
+
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Merge with the Source|Merge with the Source]], [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Speaker in Training|Speaker in Training]], [[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Speaker's Defense|Speaker's Defense]]
+
+*Source: Howl of the Wild p. 30*
+
+## Fleetwind Centaur
+
+You're sleek of frame and capable of reaching incredible speeds on hooves alone. Your Speed increases by 5 feet.
+
+*Source: Howl of the Wild p. 30*
+
+## Ironhoof Centaur
+
+Your hooves are incredibly strong and serve as formidable weapons. You gain a hoof unarmed attack that deals 1d6 bludgeoning damage. Your hooves are in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] group and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse|finesse]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] traits.
+
+### Feats that require Ironhoof Centaur...
+
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Steelhoof|Steelhoof]]
+
+*Source: Howl of the Wild p. 30*
+
+## Mottle-Coat Centaur
+
+Your coat is mottled or striped, granting you natural camouflage in your home environment. Select a terrain from the following: arctic, desert, forest, mountain, plains, or swamp. In your selected terrain, you gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]] and to [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|Feint]].
+
+### Feats that require Mottle-Coat Centaur...
+
+[[srd/pf2e/compendium/feats/howl-of-the-wild/ancestry/Camoflage Coat|Camoflage Coat]]
+
+*Source: Howl of the Wild p. 31*
+
+## Ponygait Centaur
+
+You are smaller than most other centaurs, though no less fleet of foot. Instead of Large, your size is Medium. You gain a +1 circumstance bonus to Reflex saving throws.
+
+*Source: Howl of the Wild p. 31*
+
+## Stoutheart Centaur
+
+You're a hardy centaur, firm of stance and strong of heart. You gain 10 Hit Points from your ancestry instead of 8 and gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Balance|Balance]] and to your Reflex DC to avoid being tripped.
+
+*Source: Howl of the Wild p. 31*

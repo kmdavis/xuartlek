@@ -73,3 +73,51 @@ You can see in dim light as though it were bright light, so you ignore the [[srd
 You gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]].
 
 *Source: Player Core 2 p. 36*
+
+## Heritages
+
+## Poisonhide Tripkee
+
+You may be small, but the poison glands concealed across your body hide a deadly defense. You gain the Toxic Skin reaction.
+
+ **Toxic Skin** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]]) **Frequency** once per hour; **Trigger** A creature touches you, such as by [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grappling]] you, successfully hitting you with an [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack, or using a touch-range spell against you; **Effect** You exude a deadly toxin. The triggering creature takes 1d4 poison damage (basic Fortitude save using your class DC or spell DC, whichever is higher). At 3rd level and every 2 levels thereafter, the damage increases by 1d4.
+
+*Source: Player Core 2 p. 37*
+
+## Riverside Tripkee
+
+Your ancestors live in and on the water. You gain a 15-foot swim Speed.
+
+*Source: Player Core 2 p. 37*
+
+## Snaptongue Tripkee
+
+Your tongue is especially long, and you can launch it with extraordinary range and precision. You can use your tongue to deliver spells with a range of touch and perform extremely simple Interact actions, such as opening some types of unlocked doors. Your tongue can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items.
+
+### Feats that require Snaptongue Tripkee...
+
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Long Tongue|Long Tongue]], [[srd/pf2e/compendium/feats/player-core-2/ancestry/Tongue Tether|Tongue Tether]]
+
+*Source: Player Core 2 p. 37*
+
+## Stickytoe Tripkee
+
+Your hands and feet exude a film that helps them adhere to surfaces. You gain a +2 circumstance bonus to your Fortitude and Reflex DC against attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] you. When ascending trees, vines, and other foliage, if you roll a success on the [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]], you get a critical success instead.
+
+*Source: Player Core 2 p. 37*
+
+## Thickskin Tripkee
+
+Your thick leathery skin resembles that of a toad. You gain 8 Hit Points from your ancestry instead of 6. You gain a +1 circumstance bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/Disease|diseases]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poisons]].
+
+*Source: Player Core 2 p. 37*
+
+## Windweb Tripkee
+
+Tough webbing along your hands and toes can slow any fall. As long as you have one hand free, you take no falling damage, regardless of the distance you fall.
+
+### Feats that require Windweb Tripkee...
+
+[[srd/pf2e/compendium/feats/player-core-2/ancestry/Tripkee Glide|Tripkee Glide]]
+
+*Source: Player Core 2 p. 37*

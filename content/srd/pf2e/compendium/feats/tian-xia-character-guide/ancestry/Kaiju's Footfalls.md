@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Kobold`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Mightyfall Kobold|Mightyfall Kobold]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Kobold#Mightyfall Kobold|Mightyfall Kobold]] heritage
 
 You channel the might and mass of a kaiju. You can cast [[srd/pf2e/compendium/spells/rank-2/Enlarge|_enlarge_]] as an innate primal spell twice per day, targeting yourself. The first time each turn you [[srd/pf2e/compendium/rules-elements/actions/player-core#High Jump|High Jump]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Long Jump|Long Jump]] while affected by this spell, creatures of your size or smaller adjacent to where you land must attempt a Reflex save against your class DC or spell DC, whichever is higher.
 

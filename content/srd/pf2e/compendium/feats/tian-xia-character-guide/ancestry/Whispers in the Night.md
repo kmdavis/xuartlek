@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Goblin`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Dokkaebi Goblin|Dokkaebi Goblin]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Goblin#Dokkaebi Goblin|Dokkaebi Goblin]] heritage
 - **Access**: dokkaebi goblin heritage
 
 You weave your illusions with greater ability, allowing you to play tricks and slip through the night. You can cast [[srd/pf2e/compendium/spells/rank-2/Darkness|_darkness_]] and [[srd/pf2e/compendium/spells/rank-1/Ventriloquism|_ventriloquism_]] as 2nd-rank innate occult spells, each once per day.

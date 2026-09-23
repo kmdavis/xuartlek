@@ -67,3 +67,47 @@ Additional languages equal to your Intelligence modifier (if it's positive). Cho
 | **Darkvision** | You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white. |
 
 *Source: Player Core p. 70*
+
+## Heritages
+
+## Badlands Orc
+
+You come from sun-scorched badlands, where long legs and an ability to withstand the elements helped you thrive. You can Hustle twice as long while exploring before you have to stop, and you treat environmental heat effects as if they were one step less extreme (incredible heat becomes extreme, extreme heat becomes severe, and so on).
+
+*Source: Player Core p. 71*
+
+## Battle-Ready Orc
+
+You descend from a line of terrifying battlefield commanders. You become trained in [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]], and you gain the Intimidating Glare skill feat.
+
+*Source: Player Core p. 71*
+
+## Deep Orc
+
+Your calloused hands and red eyes speak to a life spent in the deep darkness of mountain caverns, where you learned to battle on rocky cliffs and survive with minimal resources. You gain the Terrain Expertise skill feat for underground terrain and the Combat Climber skill feat.
+
+*Source: Player Core p. 71*
+
+## Grave Orc
+
+You were exposed to powerful necromantic energies that should have killed you—but you survived. Your skin is cold, clammy, and gray. You gain resistance to void damage equal to half your level (minimum 1). You also gain a +1 circumstance bonus to saving throws against effects with the [[srd/pf2e/compendium/rules-elements/traits/player-core/Death|death]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/Void|void]] trait.
+
+*Source: Player Core p. 71*
+
+## Hold-Scarred Orc
+
+You are part of an orc community that participates in ritual scarification or tattooing. The marks on your skin show your exceptional hardiness and vitality. You gain 12 Hit Points from your ancestry instead of 10. You also gain the Diehard feat.
+
+*Source: Player Core p. 71*
+
+## Rainfall Orc
+
+You were born in a rain forest with only tangles of trees providing protection from torrential rainstorms and flash floods. You've learned to move adeptly through jungle terrain and resist the various ailments common in humid environs. You gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/Athletics|Athletics]] checks to Climb or Swim and a +1 circumstance bonus to saving throws against diseases.
+
+*Source: Player Core p. 71*
+
+## Winter Orc
+
+Your ancestors survived in cold climates. You become trained in [[srd/pf2e/compendium/rules-elements/skills/Survival|Survival]], and you treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).
+
+*Source: Player Core p. 71*

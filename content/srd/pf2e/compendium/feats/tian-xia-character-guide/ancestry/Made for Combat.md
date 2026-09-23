@@ -14,7 +14,7 @@ socialImage: og-image.png
 
 `Poppet`
 
-- **Prerequisites**: [[srd/pf2e/compendium/character/Heritages#Tsukumogami Poppet|Tsukumogami Poppet]] heritage
+- **Prerequisites**: [[srd/pf2e/compendium/character/ancestries/Poppet Heritages#Tsukumogami Poppet|Tsukumogami Poppet]] heritage
 
 You can use your body as a deadly weapon. You gain one of the following melee unarmed attacks, which must be one that matches your body (for instance, tsukumogami wrap for a tsukumogami that’s a bolt of cotton). 
 • A blade unarmed attack that deals 1d6 slashing, has the [[srd/pf2e/compendium/rules-elements/traits/player-core/Versatile|versatile]] P trait, and is in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Sword|sword]] weapon group. 

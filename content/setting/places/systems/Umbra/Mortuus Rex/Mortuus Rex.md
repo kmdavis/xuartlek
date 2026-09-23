@@ -214,7 +214,7 @@ Why hasn't the darkness finished conquering Mortuus Rex? The undead armies are v
 ## Maps
 
 ```zoommap
-image: setting/places/systems/Umbra/Mortuus Rex/Mortuus Rex map.webp
+image: content/setting/places/systems/Umbra/Mortuus Rex/Mortuus Rex map.webp
 minZoom: 0.05
 maxZoom: 6
 height: 560px

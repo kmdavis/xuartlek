@@ -218,7 +218,7 @@ First contact with worlds that don't share the six-element system raised theolog
 ## Maps
 
 ```zoommap
-image: setting/places/systems/Shenzhou/Qigang/Qigang map.webp
+image: content/setting/places/systems/Shenzhou/Qigang/Qigang map.webp
 minZoom: 0.05
 maxZoom: 6
 height: 560px
