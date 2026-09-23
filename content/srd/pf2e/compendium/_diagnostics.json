@@ -176,7 +176,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 2,
-  "body_chars": 1602,
+  "body_chars": 1645,
   "path": "equipment/held-items/Jabali's Dice.md"
  },
  {
@@ -527,7 +527,7 @@
   "warnings": [],
   "traits": 5,
   "meta": 3,
-  "body_chars": 1698,
+  "body_chars": 1748,
   "path": "equipment/consumables/Octopus Potion.md"
  },
  {
@@ -2228,7 +2228,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 4,
-  "body_chars": 5415,
+  "body_chars": 5801,
   "path": "equipment/weapons/Pistol of Wonder.md"
  },
  {
@@ -2444,7 +2444,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 3,
-  "body_chars": 1993,
+  "body_chars": 1975,
   "path": "equipment/customizations/Lucky Draw Bandolier.md"
  },
  {
@@ -3416,7 +3416,7 @@
   "warnings": [],
   "traits": 6,
   "meta": 3,
-  "body_chars": 2105,
+  "body_chars": 2046,
   "path": "equipment/alchemical-items/Skunk Bomb.md"
  },
  {
@@ -7259,7 +7259,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 3,
-  "body_chars": 1358,
+  "body_chars": 1369,
   "path": "equipment/worn-items/Druid's Crown.md"
  },
  {
@@ -7457,7 +7457,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 688,
+  "body_chars": 754,
   "path": "equipment/materials/Bone.md"
  },
  {
@@ -7466,7 +7466,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 972,
+  "body_chars": 1039,
   "path": "equipment/materials/Stone.md"
  },
  {
@@ -7538,7 +7538,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 3,
-  "body_chars": 3513,
+  "body_chars": 3493,
   "path": "equipment/artifacts/Whisperer of Souls.md"
  },
  {
@@ -7646,7 +7646,7 @@
   "warnings": [],
   "traits": 4,
   "meta": 0,
-  "body_chars": 2300,
+  "body_chars": 2281,
   "path": "equipment/cursed-items/Dullahan Codex.md"
  },
  {
@@ -7988,7 +7988,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 1,
-  "body_chars": 1030,
+  "body_chars": 1223,
   "path": "equipment/adventuring-gear/Barding.md"
  },
  {
@@ -8807,7 +8807,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 0,
-  "body_chars": 935,
+  "body_chars": 1080,
   "path": "equipment/materials/Adamantine.md"
  },
  {
@@ -8816,7 +8816,7 @@
   "warnings": [],
   "traits": 1,
   "meta": 0,
-  "body_chars": 1054,
+  "body_chars": 1238,
   "path": "equipment/materials/Cold Iron.md"
  },
  {
@@ -8825,7 +8825,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 0,
-  "body_chars": 1451,
+  "body_chars": 1596,
   "path": "equipment/materials/Dawnsilver.md"
  },
  {
@@ -8834,7 +8834,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 0,
-  "body_chars": 1163,
+  "body_chars": 1308,
   "path": "equipment/materials/Duskwood.md"
  },
  {
@@ -8843,7 +8843,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 0,
-  "body_chars": 955,
+  "body_chars": 1061,
   "path": "equipment/materials/Orichalcum.md"
  },
  {
@@ -8852,7 +8852,7 @@
   "warnings": [],
   "traits": 1,
   "meta": 0,
-  "body_chars": 938,
+  "body_chars": 1122,
   "path": "equipment/materials/Silver.md"
  },
  {
@@ -9041,7 +9041,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 3,
-  "body_chars": 1252,
+  "body_chars": 1284,
   "path": "equipment/consumables/Energy Breath Potion.md"
  },
  {
@@ -9788,7 +9788,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 3,
-  "body_chars": 2760,
+  "body_chars": 2839,
   "path": "equipment/held-items/Madcap Top.md"
  },
  {
@@ -11579,7 +11579,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 2,
-  "body_chars": 1188,
+  "body_chars": 1287,
   "path": "equipment/materials/Dragonhide.md"
  },
  {
@@ -11588,7 +11588,7 @@
   "warnings": [],
   "traits": 1,
   "meta": 3,
-  "body_chars": 746,
+  "body_chars": 791,
   "path": "equipment/armor/Dragonhide Armor.md"
  },
  {
@@ -11597,7 +11597,7 @@
   "warnings": [],
   "traits": 1,
   "meta": 3,
-  "body_chars": 723,
+  "body_chars": 768,
   "path": "equipment/shields/Dragonhide Shield.md"
  },
  {
@@ -11606,7 +11606,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 4,
-  "body_chars": 1108,
+  "body_chars": 1153,
   "path": "equipment/armor/Dragonplate.md"
  },
  {
@@ -13262,7 +13262,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 0,
-  "body_chars": 723,
+  "body_chars": 876,
   "path": "equipment/materials/Peachwood.md"
  },
  {
@@ -13487,7 +13487,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 0,
-  "body_chars": 727,
+  "body_chars": 836,
   "path": "equipment/materials/Sloughstone.md"
  },
  {
@@ -13505,7 +13505,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 0,
-  "body_chars": 967,
+  "body_chars": 1078,
   "path": "equipment/materials/Dreamweb.md"
  },
  {
@@ -21272,7 +21272,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 0,
-  "body_chars": 1347,
+  "body_chars": 1327,
   "path": "feats/guns-gears-remastered/class/Deep Freeze.md"
  },
  {
@@ -21506,7 +21506,7 @@
   "warnings": [],
   "traits": 1,
   "meta": 2,
-  "body_chars": 1417,
+  "body_chars": 1378,
   "path": "feats/guns-gears-remastered/ancestry/Arcane Slam.md"
  },
  {
@@ -26096,7 +26096,7 @@
   "warnings": [],
   "traits": 1,
   "meta": 0,
-  "body_chars": 639,
+  "body_chars": 713,
   "path": "feats/player-core/ancestry/Hold Mark.md"
  },
  {
@@ -32387,7 +32387,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 1,
-  "body_chars": 1221,
+  "body_chars": 1378,
   "path": "feats/player-core/skill/Specialty Crafting.md"
  },
  {
@@ -32558,7 +32558,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 1,
-  "body_chars": 888,
+  "body_chars": 972,
   "path": "feats/player-core/skill/Virtuosic Performer.md"
  },
  {
@@ -33863,7 +33863,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 1,
-  "body_chars": 638,
+  "body_chars": 706,
   "path": "feats/howl-of-the-wild/class/Portents of the Haruspex.md"
  },
  {
@@ -34520,7 +34520,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 2,
-  "body_chars": 5479,
+  "body_chars": 6269,
   "path": "feats/howl-of-the-wild/archetype/Werecreature Dedication.md"
  },
  {
@@ -43673,7 +43673,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 1,
-  "body_chars": 1243,
+  "body_chars": 1342,
   "path": "feats/player-core-2/skill/Signature Crafting.md"
  },
  {
@@ -44060,7 +44060,7 @@
   "warnings": [],
   "traits": 1,
   "meta": 2,
-  "body_chars": 1166,
+  "body_chars": 1221,
   "path": "feats/tian-xia-character-guide/ancestry/Imperial Dragon Potion.md"
  },
  {
@@ -45950,7 +45950,7 @@
   "warnings": [],
   "traits": 6,
   "meta": 2,
-  "body_chars": 3534,
+  "body_chars": 3770,
   "path": "feats/tian-xia-character-guide/skill/Prepare Elemental Medicine.md"
  },
  {
@@ -47543,7 +47543,7 @@
   "warnings": [],
   "traits": 1,
   "meta": 3,
-  "body_chars": 1765,
+  "body_chars": 2727,
   "path": "feats/war-of-immortals/archetype/Spelldrinker.md"
  },
  {
@@ -49028,7 +49028,7 @@
   "warnings": [],
   "traits": 5,
   "meta": 2,
-  "body_chars": 957,
+  "body_chars": 1090,
   "path": "feats/war-of-immortals/archetype/Kneel Before the Rightful Heir.md"
  },
  {
@@ -49064,7 +49064,7 @@
   "warnings": [],
   "traits": 5,
   "meta": 3,
-  "body_chars": 1194,
+  "body_chars": 1317,
   "path": "feats/war-of-immortals/archetype/Decree of Execution.md"
  },
  {
@@ -52511,7 +52511,7 @@
   "warnings": [],
   "traits": 5,
   "meta": 1,
-  "body_chars": 1175,
+  "body_chars": 1216,
   "path": "feats/dark-archives-remastered/class/Dark Persona's Presence.md"
  },
  {
@@ -53366,7 +53366,7 @@
   "warnings": [],
   "traits": 9,
   "meta": 3,
-  "body_chars": 1323,
+  "body_chars": 1590,
   "path": "feats/dark-archives-remastered/class/Eerie Proclamation.md"
  },
  {
@@ -53411,7 +53411,7 @@
   "warnings": [],
   "traits": 5,
   "meta": 1,
-  "body_chars": 1743,
+  "body_chars": 1807,
   "path": "feats/dark-archives-remastered/skill/Chromotherapy.md"
  },
  {
@@ -55175,7 +55175,7 @@
   "warnings": [],
   "traits": 1,
   "meta": 0,
-  "body_chars": 2872,
+  "body_chars": 3442,
   "path": "rules-elements/actions/player-core.md#Earn Income"
  },
  {
@@ -55193,7 +55193,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 1,
-  "body_chars": 2034,
+  "body_chars": 2163,
   "path": "rules-elements/actions/player-core.md#Learn a Spell"
  },
  {
@@ -55364,7 +55364,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 0,
-  "body_chars": 3507,
+  "body_chars": 4078,
   "path": "rules-elements/actions/player-core.md#Craft"
  },
  {
@@ -55490,7 +55490,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 1,
-  "body_chars": 1691,
+  "body_chars": 1783,
   "path": "rules-elements/actions/player-core.md#Treat Wounds"
  },
  {
@@ -56093,7 +56093,7 @@
   "warnings": [],
   "traits": 5,
   "meta": 0,
-  "body_chars": 980,
+  "body_chars": 1064,
   "path": "rules-elements/actions/player-core-2.md#Pointed Question"
  },
  {
@@ -57020,7 +57020,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 5,
-  "body_chars": 1108,
+  "body_chars": 1070,
   "path": "spells/rank-5/Pressure Zone.md"
  },
  {
@@ -57290,7 +57290,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 5,
-  "body_chars": 1505,
+  "body_chars": 1467,
   "path": "spells/rank-4/Cinder Swarm.md"
  },
  {
@@ -57389,7 +57389,7 @@
   "warnings": [],
   "traits": 5,
   "meta": 5,
-  "body_chars": 1172,
+  "body_chars": 1174,
   "path": "spells/rank-8/Rainbow Fumarole.md"
  },
  {
@@ -58298,7 +58298,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 4,
-  "body_chars": 833,
+  "body_chars": 813,
   "path": "spells/rank-3/Crisis of Faith.md"
  },
  {
@@ -58514,7 +58514,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 3,
-  "body_chars": 5145,
+  "body_chars": 5795,
   "path": "spells/rank-6/Dragon Form.md"
  },
  {
@@ -58901,7 +58901,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 5,
-  "body_chars": 768,
+  "body_chars": 748,
   "path": "spells/rank-1/Goblin Pox.md"
  },
  {
@@ -59306,7 +59306,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 6,
-  "body_chars": 2295,
+  "body_chars": 2259,
   "path": "spells/rank-3/Mad Monkeys.md"
  },
  {
@@ -60359,7 +60359,7 @@
   "warnings": [],
   "traits": 6,
   "meta": 4,
-  "body_chars": 836,
+  "body_chars": 817,
   "path": "spells/rank-7/Sunburst.md"
  },
  {
@@ -60575,7 +60575,7 @@
   "warnings": [],
   "traits": 7,
   "meta": 7,
-  "body_chars": 1028,
+  "body_chars": 985,
   "path": "spells/rank-9/Unfathomable Song.md"
  },
  {
@@ -61088,7 +61088,7 @@
   "warnings": [],
   "traits": 7,
   "meta": 5,
-  "body_chars": 572,
+  "body_chars": 589,
   "path": "spells/focus/Creative Splash.md"
  },
  {
@@ -62231,7 +62231,7 @@
   "warnings": [],
   "traits": 6,
   "meta": 3,
-  "body_chars": 1169,
+  "body_chars": 1216,
   "path": "spells/focus/Gluttonous Growth.md"
  },
  {
@@ -62681,7 +62681,7 @@
   "warnings": [],
   "traits": 5,
   "meta": 6,
-  "body_chars": 1880,
+  "body_chars": 1957,
   "path": "spells/rank-3/Curse of Lost Time.md"
  },
  {
@@ -63194,7 +63194,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 3,
-  "body_chars": 2255,
+  "body_chars": 2381,
   "path": "spells/rank-5/Wall of Flesh.md"
  },
  {
@@ -63338,7 +63338,7 @@
   "warnings": [],
   "traits": 6,
   "meta": 2,
-  "body_chars": 1084,
+  "body_chars": 1122,
   "path": "spells/focus/Touch of Death.md"
  },
  {
@@ -63698,7 +63698,7 @@
   "warnings": [],
   "traits": 5,
   "meta": 3,
-  "body_chars": 630,
+  "body_chars": 709,
   "path": "spells/focus/Chthonian Wrath.md"
  },
  {
@@ -63905,7 +63905,7 @@
   "warnings": [],
   "traits": 4,
   "meta": 1,
-  "body_chars": 1371,
+  "body_chars": 1757,
   "path": "spells/focus/Shining Starlight Attack.md"
  },
  {
@@ -64094,7 +64094,7 @@
   "warnings": [],
   "traits": 5,
   "meta": 3,
-  "body_chars": 1617,
+  "body_chars": 1734,
   "path": "spells/rank-7/Final Fate of The Locust Host.md"
  },
  {
@@ -64148,7 +64148,7 @@
   "warnings": [],
   "traits": 7,
   "meta": 5,
-  "body_chars": 1278,
+  "body_chars": 1392,
   "path": "spells/rank-6/Seize Identity.md"
  },
  {
@@ -64400,7 +64400,7 @@
   "warnings": [],
   "traits": 6,
   "meta": 4,
-  "body_chars": 1507,
+  "body_chars": 1545,
   "path": "spells/rank-7/Moonburst.md"
  },
  {
@@ -65129,7 +65129,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 5,
-  "body_chars": 1072,
+  "body_chars": 1120,
   "path": "spells/rank-5/Blinding Bottle.md"
  },
  {
@@ -65138,7 +65138,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 5,
-  "body_chars": 1075,
+  "body_chars": 1114,
   "path": "spells/rank-3/Blister Bomb.md"
  },
  {
@@ -66155,7 +66155,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 4,
-  "body_chars": 1162,
+  "body_chars": 1201,
   "path": "spells/rank-3/Bone Moth's Kiss.md"
  },
  {
@@ -66974,7 +66974,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 3,
-  "body_chars": 1707,
+  "body_chars": 1827,
   "path": "spells/rank-7/Incarnate Ancient Specter.md"
  },
  {
@@ -67010,7 +67010,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 3,
-  "body_chars": 1609,
+  "body_chars": 1686,
   "path": "spells/rank-5/Incarnate Faerie Revelers.md"
  },
  {
@@ -67028,7 +67028,7 @@
   "warnings": [],
   "traits": 4,
   "meta": 3,
-  "body_chars": 1867,
+  "body_chars": 1907,
   "path": "spells/rank-4/Incarnate Shadow Minuet.md"
  },
  {
@@ -67037,7 +67037,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 3,
-  "body_chars": 1103,
+  "body_chars": 1176,
   "path": "spells/rank-5/Incarnate Skeletal Giant.md"
  },
  {
@@ -67046,7 +67046,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 3,
-  "body_chars": 1374,
+  "body_chars": 1491,
   "path": "spells/rank-7/Incarnate Tempest of Shades.md"
  },
  {
@@ -67055,7 +67055,7 @@
   "warnings": [],
   "traits": 4,
   "meta": 3,
-  "body_chars": 1686,
+  "body_chars": 1852,
   "path": "spells/rank-6/Incarnate Wild Rose.md"
  },
  {
@@ -68432,7 +68432,7 @@
   "warnings": [],
   "traits": 8,
   "meta": 4,
-  "body_chars": 1244,
+  "body_chars": 1283,
   "path": "spells/focus/Dread Mosquito Storm.md"
  },
  {
@@ -75182,7 +75182,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 1,
-  "body_chars": 657,
+  "body_chars": 907,
   "path": "character/class-features/runesmith/Runic Repertoire.md"
  },
  {
@@ -76280,7 +76280,7 @@
   "warnings": [],
   "traits": 1,
   "meta": 0,
-  "body_chars": 862,
+  "body_chars": 947,
   "path": "rules-elements/traits/player-core/Summon.md"
  },
  {
@@ -80276,7 +80276,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 1,
-  "body_chars": 409,
+  "body_chars": 508,
   "path": "rules-elements/sidebars/player-core.md#Damaging Armor"
  },
  {
@@ -80744,7 +80744,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 1,
-  "body_chars": 1332,
+  "body_chars": 1372,
   "path": "rules-elements/sidebars/gm-core.md#Advancement Speeds"
  },
  {
@@ -80825,7 +80825,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 1,
-  "body_chars": 1279,
+  "body_chars": 1438,
   "path": "rules-elements/sidebars/gm-core.md#Doors, Gates, and Walls"
  },
  {
@@ -80834,7 +80834,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 1,
-  "body_chars": 577,
+  "body_chars": 632,
   "path": "rules-elements/sidebars/gm-core.md#Forcing Open"
  },
  {
@@ -81248,7 +81248,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 1,
-  "body_chars": 1646,
+  "body_chars": 2296,
   "path": "rules-elements/sidebars/player-core.md#Monster Core Dragons"
  },
  {
@@ -81284,7 +81284,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 1,
-  "body_chars": 506,
+  "body_chars": 555,
   "path": "rules-elements/sidebars/player-core.md#Magical Traditions and Skills"
  },
  {
@@ -81545,7 +81545,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 1,
-  "body_chars": 1443,
+  "body_chars": 2969,
   "path": "rules-elements/sidebars/howl-of-the-wild.md#Animal Attacks"
  },
  {
@@ -81698,7 +81698,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 1,
-  "body_chars": 1094,
+  "body_chars": 1240,
   "path": "rules-elements/sidebars/player-core-2.md#Draconic Exemplars"
  },
  {
@@ -81770,7 +81770,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 1,
-  "body_chars": 1076,
+  "body_chars": 1132,
   "path": "rules-elements/sidebars/treasure-vault-remastered.md#Dragon Damage Types"
  },
  {
@@ -81779,7 +81779,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 1,
-  "body_chars": 1078,
+  "body_chars": 1134,
   "path": "rules-elements/sidebars/treasure-vault-remastered.md#Dragon Damage Types"
  },
  {
@@ -85559,7 +85559,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 1294,
+  "body_chars": 1288,
   "path": "gm/creature-families/Planar Scion.md"
  },
  {
@@ -85568,7 +85568,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 5519,
+  "body_chars": 5912,
   "path": "gm/creature-families/Protean.md"
  },
  {
@@ -85775,7 +85775,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 15417,
+  "body_chars": 15490,
   "path": "gm/creature-families/Vampire.md"
  },
  {
@@ -85811,7 +85811,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 5894,
+  "body_chars": 5957,
   "path": "gm/creature-families/Werecreature.md"
  },
  {
@@ -86054,7 +86054,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 7030,
+  "body_chars": 7099,
   "path": "gm/creature-families/Engineer.md"
  },
  {
@@ -86090,7 +86090,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 8402,
+  "body_chars": 8474,
   "path": "gm/creature-families/Martial Artist.md"
  },
  {
@@ -86315,7 +86315,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 6446,
+  "body_chars": 6494,
   "path": "gm/creature-families/Divine Warden.md"
  },
  {
@@ -86639,7 +86639,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 10421,
+  "body_chars": 10474,
   "path": "gm/creature-families/Ravener.md"
  },
  {
@@ -86756,7 +86756,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 17962,
+  "body_chars": 18009,
   "path": "gm/creature-families/Vampire, Nosferatu.md"
  },
  {
@@ -90761,7 +90761,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 4910,
+  "body_chars": 5693,
   "path": "character/archetypes/Battle Harbinger.md"
  },
  {
@@ -92066,7 +92066,7 @@
   "warnings": [],
   "traits": 1,
   "meta": 7,
-  "body_chars": 1583,
+  "body_chars": 1793,
   "path": "spells/rituals/Animate Object.md"
  },
  {
@@ -92084,7 +92084,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 7,
-  "body_chars": 1221,
+  "body_chars": 1431,
   "path": "spells/rituals/Awaken Animal.md"
  },
  {
@@ -92156,7 +92156,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 7,
-  "body_chars": 2301,
+  "body_chars": 2511,
   "path": "spells/rituals/Create Undead.md"
  },
  {
@@ -95180,7 +95180,7 @@
   "warnings": [],
   "traits": 4,
   "meta": 1,
-  "body_chars": 1755,
+  "body_chars": 1813,
   "path": "gm/hazards/Wind Surge.md"
  },
  {
@@ -95405,7 +95405,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 1,
-  "body_chars": 2273,
+  "body_chars": 2312,
   "path": "gm/hazards/Confounding Betrayal.md"
  },
  {
@@ -95441,7 +95441,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 1,
-  "body_chars": 1975,
+  "body_chars": 2061,
   "path": "gm/hazards/Flensing Blades.md"
  },
  {
@@ -96224,7 +96224,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 1476,
+  "body_chars": 1540,
   "path": "gm/creature-adjustments/Metal.md"
  },
  {
@@ -96233,7 +96233,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 1199,
+  "body_chars": 1264,
   "path": "gm/creature-adjustments/Water.md"
  },
  {
@@ -96242,7 +96242,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 1248,
+  "body_chars": 1312,
   "path": "gm/creature-adjustments/Wood.md"
  },
  {
@@ -96251,7 +96251,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 902,
+  "body_chars": 950,
   "path": "gm/creature-adjustments/Elite.md"
  },
  {
@@ -96260,7 +96260,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 839,
+  "body_chars": 887,
   "path": "gm/creature-adjustments/Weak.md"
  },
  {
@@ -96278,7 +96278,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 1353,
+  "body_chars": 1393,
   "path": "gm/creature-adjustments/Frostbound.md"
  },
  {
@@ -96296,7 +96296,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 1630,
+  "body_chars": 1670,
   "path": "gm/creature-adjustments/Sandbound.md"
  },
  {
@@ -96323,7 +96323,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 3427,
+  "body_chars": 3472,
   "path": "gm/creature-adjustments/Broodpiercer.md"
  },
  {
@@ -96503,7 +96503,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 1241,
+  "body_chars": 1328,
   "path": "gm/creature-adjustments/Leshy.md"
  },
  {
@@ -96557,7 +96557,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 4263,
+  "body_chars": 4309,
   "path": "gm/creature-adjustments/Experimental Cryptids.md"
  },
  {
@@ -96566,7 +96566,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 4017,
+  "body_chars": 4063,
   "path": "gm/creature-adjustments/Mutant Cryptids.md"
  },
  {
@@ -96575,7 +96575,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 3945,
+  "body_chars": 3991,
   "path": "gm/creature-adjustments/Primeval Cryptid.md"
  },
  {
@@ -96584,7 +96584,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 4592,
+  "body_chars": 4638,
   "path": "gm/creature-adjustments/Rumored Cryptid.md"
  },
  {
@@ -96593,7 +96593,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 8834,
+  "body_chars": 8880,
   "path": "gm/creature-adjustments/Secret Society Member.md"
  },
  {
@@ -96980,7 +96980,7 @@
   "warnings": [],
   "traits": 4,
   "meta": 1,
-  "body_chars": 1873,
+  "body_chars": 2056,
   "path": "character/Runesmith Runes.md#Rovan, Seal of the Dead Vault"
  },
  {
@@ -99628,7 +99628,7 @@
   "warnings": [],
   "traits": 3,
   "meta": 0,
-  "body_chars": 9070,
+  "body_chars": 10596,
   "path": "character/ancestries/Awakened Animal.md"
  },
  {
@@ -100420,7 +100420,7 @@
   "warnings": [],
   "traits": 1,
   "meta": 1,
-  "body_chars": 17626,
+  "body_chars": 17785,
   "path": "character/classes/Inventor.md"
  },
  {
@@ -100429,7 +100429,7 @@
   "warnings": [],
   "traits": 1,
   "meta": 1,
-  "body_chars": 13162,
+  "body_chars": 13321,
   "path": "character/classes/Gunslinger.md"
  },
  {
@@ -100438,7 +100438,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 23272,
+  "body_chars": 23431,
   "path": "character/classes/Kineticist.md"
  },
  {
@@ -100447,7 +100447,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 17311,
+  "body_chars": 18367,
   "path": "character/classes/Bard.md"
  },
  {
@@ -100456,7 +100456,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 15543,
+  "body_chars": 16598,
   "path": "character/classes/Cleric.md"
  },
  {
@@ -100465,7 +100465,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 14439,
+  "body_chars": 15495,
   "path": "character/classes/Druid.md"
  },
  {
@@ -100474,7 +100474,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 11960,
+  "body_chars": 12119,
   "path": "character/classes/Fighter.md"
  },
  {
@@ -100483,7 +100483,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 12253,
+  "body_chars": 12412,
   "path": "character/classes/Ranger.md"
  },
  {
@@ -100492,7 +100492,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 12329,
+  "body_chars": 12488,
   "path": "character/classes/Rogue.md"
  },
  {
@@ -100501,7 +100501,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 17537,
+  "body_chars": 18593,
   "path": "character/classes/Witch.md"
  },
  {
@@ -100510,7 +100510,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 14812,
+  "body_chars": 15868,
   "path": "character/classes/Wizard.md"
  },
  {
@@ -100519,7 +100519,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 15578,
+  "body_chars": 15737,
   "path": "character/classes/Alchemist.md"
  },
  {
@@ -100528,7 +100528,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 11218,
+  "body_chars": 11377,
   "path": "character/classes/Barbarian.md"
  },
  {
@@ -100537,7 +100537,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 18465,
+  "body_chars": 18624,
   "path": "character/classes/Champion.md"
  },
  {
@@ -100546,7 +100546,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 12844,
+  "body_chars": 13003,
   "path": "character/classes/Investigator.md"
  },
  {
@@ -100555,7 +100555,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 12192,
+  "body_chars": 12351,
   "path": "character/classes/Monk.md"
  },
  {
@@ -100564,7 +100564,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 21407,
+  "body_chars": 22463,
   "path": "character/classes/Oracle.md"
  },
  {
@@ -100573,7 +100573,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 15250,
+  "body_chars": 16306,
   "path": "character/classes/Sorcerer.md"
  },
  {
@@ -100582,7 +100582,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 16012,
+  "body_chars": 16171,
   "path": "character/classes/Swashbuckler.md"
  },
  {
@@ -100591,7 +100591,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 20641,
+  "body_chars": 21623,
   "path": "character/classes/Animist.md"
  },
  {
@@ -100600,7 +100600,7 @@
   "warnings": [],
   "traits": 1,
   "meta": 1,
-  "body_chars": 14747,
+  "body_chars": 14906,
   "path": "character/classes/Exemplar.md"
  },
  {
@@ -100609,7 +100609,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 17910,
+  "body_chars": 18069,
   "path": "character/classes/Commander.md"
  },
  {
@@ -100618,7 +100618,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 11131,
+  "body_chars": 11290,
   "path": "character/classes/Guardian.md"
  },
  {
@@ -100627,7 +100627,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 21047,
+  "body_chars": 22102,
   "path": "character/classes/Psychic.md"
  },
  {
@@ -100636,7 +100636,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 18799,
+  "body_chars": 18958,
   "path": "character/classes/Thaumaturge.md"
  },
  {
@@ -100645,7 +100645,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 20108,
+  "body_chars": 21069,
   "path": "character/classes/Magus.md"
  },
  {
@@ -100654,7 +100654,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 20557,
+  "body_chars": 21613,
   "path": "character/classes/Necromancer.md"
  },
  {
@@ -100663,7 +100663,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 16780,
+  "body_chars": 17189,
   "path": "character/classes/Runesmith.md"
  },
  {
@@ -100672,7 +100672,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 25613,
+  "body_chars": 26574,
   "path": "character/classes/Summoner.md"
  },
  {
@@ -101086,7 +101086,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 2865,
+  "body_chars": 3178,
   "path": "rules-elements/skills/Acrobatics.md"
  },
  {
@@ -101095,7 +101095,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 2838,
+  "body_chars": 3133,
   "path": "rules-elements/skills/Arcana.md"
  },
  {
@@ -101104,7 +101104,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 6334,
+  "body_chars": 6950,
   "path": "rules-elements/skills/Athletics.md"
  },
  {
@@ -101113,7 +101113,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 4120,
+  "body_chars": 4461,
   "path": "rules-elements/skills/Crafting.md"
  },
  {
@@ -101122,7 +101122,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 3255,
+  "body_chars": 3646,
   "path": "rules-elements/skills/Deception.md"
  },
  {
@@ -101131,7 +101131,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 5144,
+  "body_chars": 5772,
   "path": "rules-elements/skills/Diplomacy.md"
  },
  {
@@ -101140,7 +101140,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 4039,
+  "body_chars": 4535,
   "path": "rules-elements/skills/Intimidation.md"
  },
  {
@@ -101149,7 +101149,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 4903,
+  "body_chars": 5118,
   "path": "rules-elements/skills/Lore.md"
  },
  {
@@ -101158,7 +101158,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 2243,
+  "body_chars": 2434,
   "path": "rules-elements/skills/Medicine.md"
  },
  {
@@ -101167,7 +101167,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 2196,
+  "body_chars": 2398,
   "path": "rules-elements/skills/Nature.md"
  },
  {
@@ -101176,7 +101176,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 3045,
+  "body_chars": 3302,
   "path": "rules-elements/skills/Occultism.md"
  },
  {
@@ -101185,7 +101185,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 5865,
+  "body_chars": 6247,
   "path": "rules-elements/skills/Performance.md"
  },
  {
@@ -101194,7 +101194,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 3043,
+  "body_chars": 3342,
   "path": "rules-elements/skills/Religion.md"
  },
  {
@@ -101203,7 +101203,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 2518,
+  "body_chars": 2749,
   "path": "rules-elements/skills/Society.md"
  },
  {
@@ -101212,7 +101212,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 5000,
+  "body_chars": 5325,
   "path": "rules-elements/skills/Stealth.md"
  },
  {
@@ -101221,7 +101221,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 2981,
+  "body_chars": 3304,
   "path": "rules-elements/skills/Survival.md"
  },
  {
@@ -101230,7 +101230,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 2302,
+  "body_chars": 2600,
   "path": "rules-elements/skills/Thievery.md"
  },
  {
@@ -102022,7 +102022,7 @@
   "warnings": [],
   "traits": 4,
   "meta": 2,
-  "body_chars": 2562,
+  "body_chars": 2638,
   "path": "character/eidolons/Demon.md"
  },
  {
@@ -102067,7 +102067,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 2,
-  "body_chars": 2677,
+  "body_chars": 2719,
   "path": "character/eidolons/Plant.md"
  },
  {
@@ -102085,7 +102085,7 @@
   "warnings": [],
   "traits": 2,
   "meta": 2,
-  "body_chars": 3306,
+  "body_chars": 3344,
   "path": "character/eidolons/Undead.md"
  },
  {
@@ -105730,7 +105730,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 3349,
+  "body_chars": 3436,
   "path": "character/Bloodlines.md#Draconic"
  },
  {
@@ -105739,7 +105739,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 4023,
+  "body_chars": 4123,
   "path": "character/Bloodlines.md#Elemental"
  },
  {
@@ -106090,7 +106090,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 2346,
+  "body_chars": 2436,
   "path": "character/instincts/Elemental.md"
  },
  {
@@ -106099,7 +106099,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 4223,
+  "body_chars": 7420,
   "path": "character/instincts/Animal.md"
  },
  {
@@ -106108,7 +106108,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 2078,
+  "body_chars": 2594,
   "path": "character/instincts/Dragon.md"
  },
  {
@@ -106531,7 +106531,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 1159,
+  "body_chars": 1224,
   "path": "rules-elements/skill-general-actions/Decipher Writing.md"
  },
  {
@@ -106567,7 +106567,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 5115,
+  "body_chars": 5246,
   "path": "rules-elements/skill-general-actions/Recall Knowledge.md"
  },
  {
@@ -106576,7 +106576,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 766,
+  "body_chars": 831,
   "path": "rules-elements/skill-general-actions/Subsist.md"
  },
  {
@@ -106999,7 +106999,7 @@
   "warnings": [],
   "traits": 0,
   "meta": 0,
-  "body_chars": 11072,
+  "body_chars": 11214,
   "path": "character/Innovations.md#Armor"
  },
  {

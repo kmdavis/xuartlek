@@ -77,32 +77,52 @@ Trained in simple weapons
 
 You gain these features as Cleric. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, deity, cleric spellcasting, divine font, doctrine |
+| 2 | Cleric feat, skill feat |
+| 3 | 2nd-rank spells, general feat, second doctrine, skill increase |
+| 4 | Cleric feat, skill feat |
+| 5 | 3rd-rank spells, attribute boosts, ancestry feat, perception expertise, skill increase |
+| 6 | Cleric feat, skill feat |
+| 7 | 4th-rank spells, general feat, skill increase, third doctrine |
+| 8 | Cleric feat, skill feat |
+| 9 | 5th-rank spells, ancestry feat, resolute faith, skill increase |
+| 10 | Attribute boosts, cleric feat, skill feat |
+| 11 | 6th-rank spells, fourth doctrine, general feat, reflex expertise, skill increase |
+| 12 | Cleric feat, skill feat |
+| 13 | 7th-rank spells, ancestry feat, divine defense, skill increase, weapon specialization |
+| 14 | Cleric feat, skill feat |
+| 15 | 8th-rank spells, attribute boosts, fifth doctrine, general feat, skill increase |
+| 16 | Cleric feat, skill feat |
+| 17 | 9th-rank spells, ancestry feat, skill increase |
+| 18 | Cleric feat, skill feat |
+| 19 | Final doctrine, general feat, miraculous spell, skill increase |
+| 20 | Attribute boosts, cleric feat, skill feat |
 
-1Ancestry and background, attribute boosts, initial proficiencies, deity, cleric spellcasting, divine font, doctrine
-2Cleric feat, skill feat
-32nd-rank spells, general feat, second doctrine, skill increase
-4Cleric feat, skill feat
-53rd-rank spells, attribute boosts, ancestry feat, perception expertise, skill increase
-6Cleric feat, skill feat
-74th-rank spells, general feat, skill increase, third doctrine
-8Cleric feat, skill feat
-95th-rank spells, ancestry feat, resolute faith, skill increase
-10Attribute boosts, cleric feat, skill feat
-116th-rank spells, fourth doctrine, general feat, reflex expertise, skill increase
-12Cleric feat, skill feat
-137th-rank spells, ancestry feat, divine defense, skill increase, weapon specialization
-14Cleric feat, skill feat
-158th-rank spells, attribute boosts, fifth doctrine, general feat, skill increase
-16Cleric feat, skill feat
-179th-rank spells, ancestry feat, skill increase
-18Cleric feat, skill feat
-19Final doctrine, general feat, miraculous spell, skill increase
-20Attribute boosts, cleric feat, skill feat
-
-Your LevelCantrips1st2nd3rd4th5th6th7th8th9th10th152*—————————253*—————————3532*————————4533*————————55332*———————65333*———————753332*——————853333*——————9533332*—————10533333*—————115333332*————125333333*————1353333332*———1453333333*———15533333332*——16533333333*——175333333332*—185333333333*—1953333333331* †2053333333331* † * Your divine font gives you additional _heal_ or _harm_ spells of this rank. The number is 4 at 1st level, 5 at 5th level, and 6 at 15th level.
- † The miraculous spell class feature gives you a 10th-rank spell slot that works a bit differently from other spell slots.
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 5 | 2* | — | — | — | — | — | — | — | — | — |
+| 2 | 5 | 3* | — | — | — | — | — | — | — | — | — |
+| 3 | 5 | 3 | 2* | — | — | — | — | — | — | — | — |
+| 4 | 5 | 3 | 3* | — | — | — | — | — | — | — | — |
+| 5 | 5 | 3 | 3 | 2* | — | — | — | — | — | — | — |
+| 6 | 5 | 3 | 3 | 3* | — | — | — | — | — | — | — |
+| 7 | 5 | 3 | 3 | 3 | 2* | — | — | — | — | — | — |
+| 8 | 5 | 3 | 3 | 3 | 3* | — | — | — | — | — | — |
+| 9 | 5 | 3 | 3 | 3 | 3 | 2* | — | — | — | — | — |
+| 10 | 5 | 3 | 3 | 3 | 3 | 3* | — | — | — | — | — |
+| 11 | 5 | 3 | 3 | 3 | 3 | 3 | 2* | — | — | — | — |
+| 12 | 5 | 3 | 3 | 3 | 3 | 3 | 3* | — | — | — | — |
+| 13 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 2* | — | — | — |
+| 14 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3* | — | — | — |
+| 15 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2* | — | — |
+| 16 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3* | — | — |
+| 17 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2* | — |
+| 18 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3* | — |
+| 19 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1* † |
+| 20 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1* † |
+| * Your divine font gives you additional _heal_ or _harm_ spells of this rank. The number is 4 at 1st level, 5 at 5th level, and 6 at 15th level. † The miraculous spell class feature gives you a 10th-rank spell slot that works a bit differently from other spell slots. | | | | | | | | | | | |
 
 | | |
 | --- | --- |

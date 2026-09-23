@@ -18,81 +18,18 @@ You can patch up wounds and help people recover from diseases and poisons. Treat
 
 ### Item Bonuses for Medicine
 
-Item
-Bonus
-Level
-Category
-Consumable
-Note
-
-[[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit|Healer's Toolkit (Expanded)]]
-+1
-3
-Adventuring Gear
-No
-Medicine checks to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds
-
-[[srd/pf2e/compendium/equipment/worn-items/Mask of Mercy|Mask of Mercy]]
-+1
-4
-Other Worn Items
-No
-Item bonus to Medicine checks.
-
-Essence Charm
-+1
-4
-Other Worn Items
-No
-Item bonus to a check of the crafter's choice
-
-[[srd/pf2e/compendium/equipment/consumables/Crying Angel Pendant|Crying Angel Pendant]]
-+1
-2
-Talismans
-Yes
-Medicine to Administer First Aid
-
-[[srd/pf2e/compendium/equipment/worn-items/Medic's Armband|Greater Medic’s Armband]]
-+2
-10
-Worn Items
-No
-Item bonus to Diplomacy checks to change the attitudes of diseased, poisoned, and wounded creatures.
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
-+2
-11
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-[[srd/pf2e/compendium/equipment/held-items/Sun Herald's Stylus|Sun Herald's Stylus]]
-+2
-14
-Held Items
-No
-
-[[srd/pf2e/compendium/equipment/shields/Medic's Shield|Medic's Shield]]
-+2
-14
-Specific Shields
-No
-Item bonus to Medicine checks.
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Skinstitch Salve|Skinstitch Salve]]
-+2
-7
-Alchemical Tools
-Yes
-Medicine checks to Administer First Aid, Treat Wounds, or use Battle Medicine
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
-+3
-18
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
+| Item | Bonus | Level | Category | Consumable | Note |
+| --- | --- | --- | --- | --- | --- |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit\|Healer's Toolkit (Expanded)]] | +1 | 3 | Adventuring Gear | No | Medicine checks to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds |
+| [[srd/pf2e/compendium/equipment/worn-items/Mask of Mercy\|Mask of Mercy]] | +1 | 4 | Other Worn Items | No | Item bonus to Medicine checks. |
+| Essence Charm | +1 | 4 | Other Worn Items | No | Item bonus to a check of the crafter's choice |
+| [[srd/pf2e/compendium/equipment/consumables/Crying Angel Pendant\|Crying Angel Pendant]] | +1 | 2 | Talismans | Yes | Medicine to Administer First Aid |
+| [[srd/pf2e/compendium/equipment/worn-items/Medic's Armband\|Greater Medic’s Armband]] | +2 | 10 | Worn Items | No | Item bonus to Diplomacy checks to change the attitudes of diseased, poisoned, and wounded creatures. |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal]] | +2 | 11 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| [[srd/pf2e/compendium/equipment/held-items/Sun Herald's Stylus\|Sun Herald's Stylus]] | +2 | 14 | Held Items | No | |
+| [[srd/pf2e/compendium/equipment/shields/Medic's Shield\|Medic's Shield]] | +2 | 14 | Specific Shields | No | Item bonus to Medicine checks. |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Skinstitch Salve\|Skinstitch Salve]] | +2 | 7 | Alchemical Tools | Yes | Medicine checks to Administer First Aid, Treat Wounds, or use Battle Medicine |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal (Greater)]] | +3 | 18 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
 
 ### Related Feats
 

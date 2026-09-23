@@ -16,8 +16,6 @@ Many immortals dwell upon the other planes of the Great Beyond. Some are benevol
 
 [[srd/pf2e/bestiary/monster-core/humanoid/Duskwalker Ghost Hunter|Duskwalker Ghost Hunter]] (Creature 4)
 
-### 
-
 There are as many types of planar scions as there are planes of existence. Even then, there are significant differences between scions depending on the exact nature of their extraplanar forebears, even when they share the same planar roots.
 
 ### Immortal Influences

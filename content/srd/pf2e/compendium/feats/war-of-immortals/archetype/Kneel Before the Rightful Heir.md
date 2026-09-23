@@ -25,11 +25,11 @@ You command that your foes bow down before you or face your wrath. All enemies w
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes 3d6 {{conditions 86 "persistent mental damage"}}.
+**Success** The creature takes 3d6 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent mental damage]].
 
-**Failure** The creature takes 6d6 persistent {{traits 647 "mental"}} damage.
+**Failure** The creature takes 6d6 persistent [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] damage.
 
-**Critical Failure** The creature takes 6d6 persistent mental damage and is {{conditions 61 "clumsy"}} 2 for as long as it’s taking that persistent damage.
+**Critical Failure** The creature takes 6d6 persistent mental damage and is [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]] 2 for as long as it’s taking that persistent damage.
 
 The persistent mental damage can be ended only if the creature [[srd/pf2e/compendium/rules-elements/actions/player-core#Drop Prone|Drops Prone]] in a location that you can see and doesn't Stand until their next turn. An affected creature is aware of this restriction.
 

@@ -19,7 +19,17 @@ Dawnsilver is renowned for its lightness, durability, and effectiveness against 
 
 ## Dawnsilver
 
- **Dawnsilver Items****Hardness****HP****BT** **Thin Items** Standard-grade52010 High-grade83216 **Items** Standard-grade93618 High-grade124824 **Structure** Standard-grade187236 High-grade249648 
+| **Dawnsilver Items** | **Hardness** | **HP** | **BT** |
+| --- | --- | --- | --- |
+| **Thin Items** | | | |
+| Standard-grade | 5 | 20 | 10 |
+| High-grade | 8 | 32 | 16 |
+| **Items** | | | |
+| Standard-grade | 9 | 36 | 18 |
+| High-grade | 12 | 48 | 24 |
+| **Structure** | | | |
+| Standard-grade | 18 | 72 | 36 |
+| High-grade | 24 | 96 | 48 |
 
 #### Material Uses
 

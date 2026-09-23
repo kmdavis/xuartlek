@@ -18,7 +18,20 @@ Weapons made from cold iron are deadly to demons and fey alike. Cold iron looks 
 
 ## Cold Iron Items
 
- **Cold Iron Items****Hardness****HP****BT** **Thin Items** Low-grade52010 Standard-grade72814 High-grade104020 **Items** Low-grade93618 Standard-grade114422 High-grade145628 **Structure** Low-grade187236 Standard-grade228844 High-grade2811256 
+| **Cold Iron Items** | **Hardness** | **HP** | **BT** |
+| --- | --- | --- | --- |
+| **Thin Items** | | | |
+| Low-grade | 5 | 20 | 10 |
+| Standard-grade | 7 | 28 | 14 |
+| High-grade | 10 | 40 | 20 |
+| **Items** | | | |
+| Low-grade | 9 | 36 | 18 |
+| Standard-grade | 11 | 44 | 22 |
+| High-grade | 14 | 56 | 28 |
+| **Structure** | | | |
+| Low-grade | 18 | 72 | 36 |
+| Standard-grade | 22 | 88 | 44 |
+| High-grade | 28 | 112 | 56 |
 
 #### Material Uses
 

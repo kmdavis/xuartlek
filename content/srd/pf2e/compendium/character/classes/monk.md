@@ -67,29 +67,28 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 You gain these features as Monk. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
-
-1Ancestry and background, attribute boosts, initial proficiencies, flurry of blows, monk feat, powerful fist
-2Monk feat, skill feat
-3General feat, incredible movement +10 feet, mystic strikes, skill increase
-4Monk feat, skill feat
-5Attribute boosts, ancestry feat, expert strikes, perception expertise, skill increase
-6Monk feat, skill feat
-7General feat, incredible movement +15 feet, path to perfection, skill increase, weapon specialization
-8Monk feat, skill feat
-9Ancestry feat, metal strikes, monk expertise, skill increase
-10Attribute boosts, monk feat, skill feat
-11General feat, incredible movement +20 feet, second path to perfection, skill increase
-12Monk feat, skill feat
-13Ancestry feat, graceful mastery, master strikes, skill increase
-14Monk feat, skill feat
-15Attribute boosts, general feat, greater weapon specialization, incredible movement +25 feet, skill increase, third path to perfection
-16Monk feat, skill feat
-17Adamantine strikes, ancestry feat, graceful legend, skill increase
-18Monk feat, skill feat
-19General feat, incredible movement +30 feet, perfected form, skill increase
-20Attribute boosts, monk feat, skill feat
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, flurry of blows, monk feat, powerful fist |
+| 2 | Monk feat, skill feat |
+| 3 | General feat, incredible movement +10 feet, mystic strikes, skill increase |
+| 4 | Monk feat, skill feat |
+| 5 | Attribute boosts, ancestry feat, expert strikes, perception expertise, skill increase |
+| 6 | Monk feat, skill feat |
+| 7 | General feat, incredible movement +15 feet, path to perfection, skill increase, weapon specialization |
+| 8 | Monk feat, skill feat |
+| 9 | Ancestry feat, metal strikes, monk expertise, skill increase |
+| 10 | Attribute boosts, monk feat, skill feat |
+| 11 | General feat, incredible movement +20 feet, second path to perfection, skill increase |
+| 12 | Monk feat, skill feat |
+| 13 | Ancestry feat, graceful mastery, master strikes, skill increase |
+| 14 | Monk feat, skill feat |
+| 15 | Attribute boosts, general feat, greater weapon specialization, incredible movement +25 feet, skill increase, third path to perfection |
+| 16 | Monk feat, skill feat |
+| 17 | Adamantine strikes, ancestry feat, graceful legend, skill increase |
+| 18 | Monk feat, skill feat |
+| 19 | General feat, incredible movement +30 feet, perfected form, skill increase |
+| 20 | Attribute boosts, monk feat, skill feat |
 
 | | |
 | --- | --- |

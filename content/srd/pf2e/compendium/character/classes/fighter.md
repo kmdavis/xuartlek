@@ -71,29 +71,28 @@ Trained in your choice of [[srd/pf2e/compendium/rules-elements/skills/Acrobatics
 
 You gain these features as Fighter. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
-
-1Ancestry and background, attribute boosts, initial proficiencies, Reactive Strike, fighter feat, Shield Block
-2Fighter feat, skill feat
-3Bravery, general feat, skill increase
-4Fighter feat, skill feat
-5Ancestry feat, attribute boosts, fighter weapon mastery, skill increase
-6Fighter feat, skill feat
-7Battlefield surveyor, general feat, skill increase, weapon specialization
-8Fighter feat, skill feat
-9Ancestry feat, battle hardened, combat flexibility, skill increase
-10Attribute boosts, fighter feat, skill feat
-11Armor expertise, fighter expertise, general feat, skill increase
-12Fighter feat, skill feat
-13Ancestry feat, skill increase, weapon legend
-14Fighter feat, skill feat
-15Attribute boosts, general feat, greater weapon specialization, improved flexibility, skill increase, tempered reflexes
-16Fighter feat, skill feat
-17Ancestry feat, armor mastery, skill increase
-18Fighter feat, skill feat
-19General feat, skill increase, versatile legend
-20Attribute boosts, fighter feat, skill feat
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, Reactive Strike, fighter feat, Shield Block |
+| 2 | Fighter feat, skill feat |
+| 3 | Bravery, general feat, skill increase |
+| 4 | Fighter feat, skill feat |
+| 5 | Ancestry feat, attribute boosts, fighter weapon mastery, skill increase |
+| 6 | Fighter feat, skill feat |
+| 7 | Battlefield surveyor, general feat, skill increase, weapon specialization |
+| 8 | Fighter feat, skill feat |
+| 9 | Ancestry feat, battle hardened, combat flexibility, skill increase |
+| 10 | Attribute boosts, fighter feat, skill feat |
+| 11 | Armor expertise, fighter expertise, general feat, skill increase |
+| 12 | Fighter feat, skill feat |
+| 13 | Ancestry feat, skill increase, weapon legend |
+| 14 | Fighter feat, skill feat |
+| 15 | Attribute boosts, general feat, greater weapon specialization, improved flexibility, skill increase, tempered reflexes |
+| 16 | Fighter feat, skill feat |
+| 17 | Ancestry feat, armor mastery, skill increase |
+| 18 | Fighter feat, skill feat |
+| 19 | General feat, skill increase, versatile legend |
+| 20 | Attribute boosts, fighter feat, skill feat |
 
 | | |
 | --- | --- |

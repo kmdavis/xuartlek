@@ -27,7 +27,7 @@ Your shadow peels away from your body, dancing its way to the target location an
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature’s shadow is curious and stretches toward your shadow, but it stays attached. The creature is {{conditions 58 "off-guard"}} for 1 round.
+**Success** The creature’s shadow is curious and stretches toward your shadow, but it stays attached. The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] for 1 round.
 
 **Failure** The creature’s shadow detaches to join the dance. The creature takes 4d6 spirit damage and is off-guard for 1 round.
 

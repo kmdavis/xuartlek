@@ -26,113 +26,23 @@ You know a great deal about ancient philosophies, esoteric lore, obscure mystici
 
 ### Item Bonuses for Occultism
 
-Item
-Bonus
-Level
-Category
-Consumable
-Note
-
-Essence Charm
-+1
-4
-Other Worn Items
-No
-Item bonus to a check of the crafter's choice
-
-Essence Forge (Lesser)
-+1
-6
-Other
-No
-Item Bonus
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Lesser)]]
-+1
-1
-Alchemical Elixirs
-Yes
-
-[[srd/pf2e/compendium/equipment/armor/Accoutrements of Bone|Accoutrements of Bone]]
-+2
-9
-Specific Magic Armor
-No
-Item bonus to Occultism checks.
-
-[[srd/pf2e/compendium/equipment/held-items/Fulu Compendium|Fulu Compendium]]
-+2
-9
-Held Items
-No
-Item bonus to determine a fulu's function or authenticity.
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
-+2
-11
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-Essence Forge (Moderate)
-+2
-12
-Other
-No
-Item Bonus
-
-Stage Magician's Cloak
-+2
-13
-Held Items
-No
-When worn with the black velvet lining facing out, the _stage magician’s cloak_ grants a +2 item bonus to Occultism checks.
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Moderate)]]
-+2
-3
-Alchemical Elixirs
-Yes
-
-Essence Forge (Greater)
-+3
-18
-Other
-No
-Item Bonus
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
-+3
-18
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-[[srd/pf2e/compendium/equipment/apex-items/Archivist's Gaze|Archivist's Gaze]]
-+3
-18
-Apex Items
-No
-Item bonus to Occultism.
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Greater)]]
-+3
-11
-Alchemical Elixirs
-Yes
-
-[[srd/pf2e/compendium/equipment/apex-items/Archivist's Gaze|Archivist's Gaze]]
-+4
-18
-Apex Items
-No
-Item bonus to Occultism when Investigating.
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Major)]]
-+4
-17
-Alchemical Elixirs
-Yes
+| Item | Bonus | Level | Category | Consumable | Note |
+| --- | --- | --- | --- | --- | --- |
+| Essence Charm | +1 | 4 | Other Worn Items | No | Item bonus to a check of the crafter's choice |
+| Essence Forge (Lesser) | +1 | 6 | Other | No | Item Bonus |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Lesser)]] | +1 | 1 | Alchemical Elixirs | Yes | |
+| [[srd/pf2e/compendium/equipment/armor/Accoutrements of Bone\|Accoutrements of Bone]] | +2 | 9 | Specific Magic Armor | No | Item bonus to Occultism checks. |
+| [[srd/pf2e/compendium/equipment/held-items/Fulu Compendium\|Fulu Compendium]] | +2 | 9 | Held Items | No | Item bonus to determine a fulu's function or authenticity. |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal]] | +2 | 11 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| Essence Forge (Moderate) | +2 | 12 | Other | No | Item Bonus |
+| Stage Magician's Cloak | +2 | 13 | Held Items | No | When worn with the black velvet lining facing out, the _stage magician’s cloak_ grants a +2 item bonus to Occultism checks. |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Moderate)]] | +2 | 3 | Alchemical Elixirs | Yes | |
+| Essence Forge (Greater) | +3 | 18 | Other | No | Item Bonus |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal (Greater)]] | +3 | 18 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| [[srd/pf2e/compendium/equipment/apex-items/Archivist's Gaze\|Archivist's Gaze]] | +3 | 18 | Apex Items | No | Item bonus to Occultism. |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Greater)]] | +3 | 11 | Alchemical Elixirs | Yes | |
+| [[srd/pf2e/compendium/equipment/apex-items/Archivist's Gaze\|Archivist's Gaze]] | +4 | 18 | Apex Items | No | Item bonus to Occultism when Investigating. |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Major)]] | +4 | 17 | Alchemical Elixirs | Yes | |
 
 ### Related Feats
 

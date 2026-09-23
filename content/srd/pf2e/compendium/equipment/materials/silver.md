@@ -18,7 +18,20 @@ Silver weapons are a bane to creatures ranging from devils to werewolves. Silver
 
 ## Silver Items
 
- **Silver Items****Hardness****HP****BT** **Thin Items** Low-grade3126 Standard-grade52010 High-grade83216 **Items** Low-grade52010 Standard-grade72814 High-grade104020 **Structure** Low-grade104020 Standard-grade145628 High-grade208040 
+| **Silver Items** | **Hardness** | **HP** | **BT** |
+| --- | --- | --- | --- |
+| **Thin Items** | | | |
+| Low-grade | 3 | 12 | 6 |
+| Standard-grade | 5 | 20 | 10 |
+| High-grade | 8 | 32 | 16 |
+| **Items** | | | |
+| Low-grade | 5 | 20 | 10 |
+| Standard-grade | 7 | 28 | 14 |
+| High-grade | 10 | 40 | 20 |
+| **Structure** | | | |
+| Low-grade | 10 | 40 | 20 |
+| Standard-grade | 14 | 56 | 28 |
+| High-grade | 20 | 80 | 40 |
 
 #### Material Uses
 

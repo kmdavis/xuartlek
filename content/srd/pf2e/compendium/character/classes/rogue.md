@@ -65,29 +65,28 @@ Trained in [[srd/pf2e/compendium/rules-elements/skills/Stealth|Stealth]]
 
 You gain these features as Rogue. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
-
-1Ancestry and background, attribute boosts, initial proficiencies, rogue’s racket, sneak attack 1d6, surprise attack, rogue feat, skill feat
-2Rogue feat, skill feat, skill increase
-3Deny advantage, general feat, skill feat, skill increase
-4Rogue feat, skill feat, skill increase
-5Attribute boosts, ancestry feat, skill feat, skill increase, sneak attack 2d6, weapon tricks
-6Rogue feat, skill feat, skill increase
-7Evasive reflexes, general feat, skill feat, skill increase, perception mastery, weapon specialization
-8Rogue feat, skill feat, skill increase
-9Ancestry feat, debilitating strike, rogue resilience, skill feat, skill increase
-10Attribute boosts, rogue feat, skill feat, skill increase
-11General feat, rogue expertise, skill feat, skill increase, sneak attack 3d6
-12Rogue feat, skill feat, skill increase
-13Ancestry feat, greater rogue reflexes, light armor expertise, master tricks, perception legend, skill feat, skill increase
-14Rogue feat, skill feat, skill increase
-15Attribute boosts, double debilitation, general feat, greater weapon specialization, skill feat, skill increase
-16Rogue feat, skill feat, skill increase
-17Ancestry feat, skill feat, skill increase, agile mind, sneak attack 4d6
-18Rogue feat, skill feat, skill increase
-19General feat, light armor mastery, master strike, skill feat, skill increase
-20Attribute boosts, rogue feat, skill feat, skill increase
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, rogue’s racket, sneak attack 1d6, surprise attack, rogue feat, skill feat |
+| 2 | Rogue feat, skill feat, skill increase |
+| 3 | Deny advantage, general feat, skill feat, skill increase |
+| 4 | Rogue feat, skill feat, skill increase |
+| 5 | Attribute boosts, ancestry feat, skill feat, skill increase, sneak attack 2d6, weapon tricks |
+| 6 | Rogue feat, skill feat, skill increase |
+| 7 | Evasive reflexes, general feat, skill feat, skill increase, perception mastery, weapon specialization |
+| 8 | Rogue feat, skill feat, skill increase |
+| 9 | Ancestry feat, debilitating strike, rogue resilience, skill feat, skill increase |
+| 10 | Attribute boosts, rogue feat, skill feat, skill increase |
+| 11 | General feat, rogue expertise, skill feat, skill increase, sneak attack 3d6 |
+| 12 | Rogue feat, skill feat, skill increase |
+| 13 | Ancestry feat, greater rogue reflexes, light armor expertise, master tricks, perception legend, skill feat, skill increase |
+| 14 | Rogue feat, skill feat, skill increase |
+| 15 | Attribute boosts, double debilitation, general feat, greater weapon specialization, skill feat, skill increase |
+| 16 | Rogue feat, skill feat, skill increase |
+| 17 | Ancestry feat, skill feat, skill increase, agile mind, sneak attack 4d6 |
+| 18 | Rogue feat, skill feat, skill increase |
+| 19 | General feat, light armor mastery, master strike, skill feat, skill increase |
+| 20 | Attribute boosts, rogue feat, skill feat, skill increase |
 
 | | |
 | --- | --- |

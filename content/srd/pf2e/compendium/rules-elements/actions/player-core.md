@@ -312,7 +312,30 @@ The item is your level or lower. An item that doesn't list a level is level 0. I
 
 ## Income Earned
 
- **Task Level****DC****Failed****Trained****Expert****Master****Legendary**0141 cp5 cp5 cp5 cp5 cp1152 cp2 sp2 sp2 sp2 sp2164 cp3 sp3 sp3 sp3 sp3188 cp5 sp5 sp5 sp5 sp4191 sp7 sp8 sp8 sp8 sp5202 sp9 sp1 gp1 gp1 gp6223 sp1 gp, 5 sp2 gp2 gp2 gp7234 sp2 gp2 gp, 5 sp2 gp, 5 sp2 gp, 5 sp8245 sp2 gp, 5 sp3 gp3 gp3 gp9266 sp3 gp4 gp4 gp4 gp10277 sp4 gp5 gp6 gp6 gp11288 sp5 gp6 gp8 gp8 gp12309 sp6 gp8 gp10 gp10 gp13311 gp7 gp10 gp15 gp15 gp14321 gp, 5 sp8 gp15 gp20 gp20 gp15342 gp10 gp20 gp28 gp28 gp16352 gp, 5 sp13 gp25 gp36 gp40 gp17363 gp15 gp30 gp45 gp55 gp18384 gp20 gp45 gp70 gp90 gp19396 gp30 gp60 gp100 gp130 gp20408 gp40 gp75 gp150 gp200 gp20 (critical success)——50 gp90 gp175 gp300 gp
+| **Task Level** | **DC** | **Failed** | **Trained** | **Expert** | **Master** | **Legendary** |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0 | 14 | 1 cp | 5 cp | 5 cp | 5 cp | 5 cp |
+| 1 | 15 | 2 cp | 2 sp | 2 sp | 2 sp | 2 sp |
+| 2 | 16 | 4 cp | 3 sp | 3 sp | 3 sp | 3 sp |
+| 3 | 18 | 8 cp | 5 sp | 5 sp | 5 sp | 5 sp |
+| 4 | 19 | 1 sp | 7 sp | 8 sp | 8 sp | 8 sp |
+| 5 | 20 | 2 sp | 9 sp | 1 gp | 1 gp | 1 gp |
+| 6 | 22 | 3 sp | 1 gp, 5 sp | 2 gp | 2 gp | 2 gp |
+| 7 | 23 | 4 sp | 2 gp | 2 gp, 5 sp | 2 gp, 5 sp | 2 gp, 5 sp |
+| 8 | 24 | 5 sp | 2 gp, 5 sp | 3 gp | 3 gp | 3 gp |
+| 9 | 26 | 6 sp | 3 gp | 4 gp | 4 gp | 4 gp |
+| 10 | 27 | 7 sp | 4 gp | 5 gp | 6 gp | 6 gp |
+| 11 | 28 | 8 sp | 5 gp | 6 gp | 8 gp | 8 gp |
+| 12 | 30 | 9 sp | 6 gp | 8 gp | 10 gp | 10 gp |
+| 13 | 31 | 1 gp | 7 gp | 10 gp | 15 gp | 15 gp |
+| 14 | 32 | 1 gp, 5 sp | 8 gp | 15 gp | 20 gp | 20 gp |
+| 15 | 34 | 2 gp | 10 gp | 20 gp | 28 gp | 28 gp |
+| 16 | 35 | 2 gp, 5 sp | 13 gp | 25 gp | 36 gp | 40 gp |
+| 17 | 36 | 3 gp | 15 gp | 30 gp | 45 gp | 55 gp |
+| 18 | 38 | 4 gp | 20 gp | 45 gp | 70 gp | 90 gp |
+| 19 | 39 | 6 gp | 30 gp | 60 gp | 100 gp | 130 gp |
+| 20 | 40 | 8 gp | 40 gp | 75 gp | 150 gp | 200 gp |
+| 20 (critical success) | — | — | 50 gp | 90 gp | 175 gp | 300 gp |
 
 *Source: Player Core p. 237*
 
@@ -550,7 +573,30 @@ You use one of your skills to make money during downtime. The GM assigns a task 
 
 ## Table 4-2: Income Earned
 
- **Task Level****DC****Failed****Trained****Expert****Master****Legendary**0141 cp5 cp5 cp5 cp5 cp1152 cp2 sp2 sp2 sp2 sp2164 cp3 sp3 sp3 sp3 sp3188 cp5 sp5 sp5 sp5 sp4191 sp7 sp8 sp8 sp8 sp5202 sp9 sp1 gp1 gp1 gp6223 sp1 gp, 5 sp2 gp2 gp2 gp7234 sp2 gp2 gp, 5 sp2 gp, 5 sp2 gp, 5 sp8245 sp2 gp, 5 sp3 gp3 gp3 gp9266 sp3 gp4 gp4 gp4 gp10277 sp4 gp5 gp6 gp6 gp11288 sp5 gp6 gp8 gp8 gp12309 sp6 gp8 gp10 gp10 gp13311 gp7 gp10 gp15 gp15 gp14321 gp, 5 sp8 gp15 gp20 gp20 gp15342 gp10 gp20 gp28 gp28 gp16352 gp, 5 sp13 gp25 gp36 gp40 gp17363 gp15 gp30 gp45 gp55 gp18384 gp20 gp45 gp70 gp90 gp19396 gp30 gp60 gp100 gp130 gp20408 gp40 gp75 gp150 gp200 gp20 (critical success)——50 gp90 gp175 gp300 gp 
+| **Task Level** | **DC** | **Failed** | **Trained** | **Expert** | **Master** | **Legendary** |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0 | 14 | 1 cp | 5 cp | 5 cp | 5 cp | 5 cp |
+| 1 | 15 | 2 cp | 2 sp | 2 sp | 2 sp | 2 sp |
+| 2 | 16 | 4 cp | 3 sp | 3 sp | 3 sp | 3 sp |
+| 3 | 18 | 8 cp | 5 sp | 5 sp | 5 sp | 5 sp |
+| 4 | 19 | 1 sp | 7 sp | 8 sp | 8 sp | 8 sp |
+| 5 | 20 | 2 sp | 9 sp | 1 gp | 1 gp | 1 gp |
+| 6 | 22 | 3 sp | 1 gp, 5 sp | 2 gp | 2 gp | 2 gp |
+| 7 | 23 | 4 sp | 2 gp | 2 gp, 5 sp | 2 gp, 5 sp | 2 gp, 5 sp |
+| 8 | 24 | 5 sp | 2 gp, 5 sp | 3 gp | 3 gp | 3 gp |
+| 9 | 26 | 6 sp | 3 gp | 4 gp | 4 gp | 4 gp |
+| 10 | 27 | 7 sp | 4 gp | 5 gp | 6 gp | 6 gp |
+| 11 | 28 | 8 sp | 5 gp | 6 gp | 8 gp | 8 gp |
+| 12 | 30 | 9 sp | 6 gp | 8 gp | 10 gp | 10 gp |
+| 13 | 31 | 1 gp | 7 gp | 10 gp | 15 gp | 15 gp |
+| 14 | 32 | 1 gp, 5 sp | 8 gp | 15 gp | 20 gp | 20 gp |
+| 15 | 34 | 2 gp | 10 gp | 20 gp | 28 gp | 28 gp |
+| 16 | 35 | 2 gp, 5 sp | 13 gp | 25 gp | 36 gp | 40 gp |
+| 17 | 36 | 3 gp | 15 gp | 30 gp | 45 gp | 55 gp |
+| 18 | 38 | 4 gp | 20 gp | 45 gp | 70 gp | 90 gp |
+| 19 | 39 | 6 gp | 30 gp | 60 gp | 100 gp | 130 gp |
+| 20 | 40 | 8 gp | 40 gp | 75 gp | 150 gp | 200 gp |
+| 20 (critical success) | — | — | 50 gp | 90 gp | 175 gp | 300 gp |
 
 ### Sample Earn Income Tasks
 
@@ -927,7 +973,19 @@ Spend 1 hour per spell rank, during which you must remain in conversation with a
 
 ## Table 4-3: Learning a Spell
 
- **Spell Rank****Price****Typical DC** 1st or cantrip2 gp15 2nd6 gp18 3rd16 gp20 4th36 gp23 5th70 gp26 6th140 gp28 7th300 gp31 8th650 gp34 9th1,500 gp36 10th7,000 gp41 
+| **Spell Rank** | **Price** | **Typical DC** |
+| --- | --- | --- |
+| 1st or cantrip | 2 gp | 15 |
+| 2nd | 6 gp | 18 |
+| 3rd | 16 gp | 20 |
+| 4th | 36 gp | 23 |
+| 5th | 70 gp | 26 |
+| 6th | 140 gp | 28 |
+| 7th | 300 gp | 31 |
+| 8th | 650 gp | 34 |
+| 9th | 1,500 gp | 36 |
+| 10th | 7,000 gp | 41 |
+
  
 
 ### Learned Spells
@@ -1700,7 +1758,14 @@ You spend 10 minutes treating one injured living creature (targeting yourself, i
 
 ## Treat Wounds
 
- **Proficiency****DC****Success Healing****Critical Healing** Trained152d84d8 Expert*202d8+104d8+10 Master*302d8+304d8+30 Legendary*402d8+504d8+50 * Rolling against a higher DC is optional.
+| **Proficiency** | **DC** | **Success Healing** | **Critical Healing** |
+| --- | --- | --- | --- |
+| Trained | 15 | 2d8 | 4d8 |
+| Expert* | 20 | 2d8+10 | 4d8+10 |
+| Master* | 30 | 2d8+30 | 4d8+30 |
+| Legendary* | 40 | 2d8+50 | 4d8+50 |
+
+ * Rolling against a higher DC is optional.
 
 **Critical Success** The target regains 4d8 Hit Points and loses the [[srd/pf2e/compendium/rules-elements/Conditions#Wounded|wounded]] condition.
 

@@ -17,7 +17,12 @@ You can purchase special armor for animals, called barding (shown on Table 6–1
 
 ## Barding
 
- **Barding****Size****Price****AC Bonus****Dex Cap****Check Penalty****Speed Penalty****Bulk****Strength** LightSmall or Medium10 gp+1+5-1-5 ft.2+3 Large20 gp+1+5-1-5 ft.4+3HeavySmall or Medium (Level 2)25 gp+3+3-3-10 ft.4+5 Large (Level 3)50 gp+3+3-3-10 ft.8+5 
+| **Barding** | **Size** | **Price** | **AC Bonus** | **Dex Cap** | **Check Penalty** | **Speed Penalty** | **Bulk** | **Strength** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Light | Small or Medium | 10 gp | +1 | +5 | -1 | -5 ft. | 2 | +3 |
+| Large | 20 gp | +1 | +5 | -1 | -5 ft. | 4 | +3 | |
+| Heavy | Small or Medium (Level 2) | 25 gp | +3 | +3 | -3 | -10 ft. | 4 | +5 |
+| Large (Level 3) | 50 gp | +3 | +3 | -3 | -10 ft. | 8 | +5 | |
 
 ### Barding (Light; Small or Medium)
 

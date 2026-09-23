@@ -29,9 +29,9 @@ You craft a 20-foot-tall wall of living flesh in a straight line up to 30 feet l
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is {{conditions 77 "grabbed"}} by the wall for 1 round or until it {{actions 2296 "Escape"}} against your spell DC, whichever comes first.
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Grabbed|grabbed]] by the wall for 1 round or until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] against your spell DC, whichever comes first.
 
-**Critical Failure** The creature is {{conditions 90 "restrained"}} by the wall for 1 round or until it Escapes against your spell DC, whichever comes first.
+**Critical Failure** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] by the wall for 1 round or until it Escapes against your spell DC, whichever comes first.
 
 ---
 **Heightened (+2)** The Hit Points of each section of the wall increase by 10, and the piercing damage dealt by the wall's mouths increases by 1d6.

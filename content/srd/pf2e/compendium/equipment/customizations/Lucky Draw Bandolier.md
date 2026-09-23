@@ -28,7 +28,16 @@ When the card transforms into ammunition, it transforms into a firearm round or 
 
 ## Lucky Draw Bandolier
 
-**d6****Ability (Suit)****Ammunition**1Strength (Hammer){{treasure 1196 "_Meteor shot_"}}2Dexterity (Key){{treasure 169 "_Storm arrow_"}}3Constitution (Shield){{treasure 711 "_Corrosive ammunition_"}}4Intelligence (Book){{treasure 162 "_Explosive ammunition_"}}5Wisdom (Star){{treasure 725 "_Terrifying ammunition"}}6Charisma (Crown){{treasure 1194 "_Fairy bullet_"}}
+| **d6** | **Ability (Suit)** | **Ammunition** |
+| --- | --- | --- |
+| 1 | Strength (Hammer) | _Meteor shot_ |
+| 2 | Dexterity (Key) | _Storm arrow_ |
+| 3 | Constitution (Shield) | _Corrosive ammunition_ |
+| 4 | Intelligence (Book) | _Explosive ammunition_ |
+| 5 | Wisdom (Star) | _Terrifying ammunition |
+| 6 | Charisma (Crown) | _Fairy bullet_ |
+
+
 
 ### Lucky Draw Bandolier
 

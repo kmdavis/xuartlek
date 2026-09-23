@@ -20,15 +20,14 @@ socialImage: og-image.png
 
 The hide and scales of a dragon can be used to [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] any item normally made of ordinary leather or hide. Dragonhide varies in color and texture, depending on the dragon it came from. Due to dragonhide's resiliency, it can also be used to Craft armor usually made out of metal plates (such as a [[srd/pf2e/compendium/equipment/Armor#Breastplate|breastplate]], [[srd/pf2e/compendium/equipment/Armor#Half Plate|half plate]], and [[srd/pf2e/compendium/equipment/Armor#Full Plate|full plate]]), allowing such armor to be made without metal. Dragonhide objects are immune to one damage type, depending on the tradition associated with the dragon. 
 
-## 
-
- Dragonhide ItemsHardnessHPBT
- **Thin Items**
- Standard-grade4168
- High-grade83216
- **Standard Items**
- Standard-grade72814
- High-grade114422
+| Dragonhide Items | Hardness | HP | BT |
+| --- | --- | --- | --- |
+| **Thin Items** | | | |
+| Standard-grade | 4 | 16 | 8 |
+| High-grade | 8 | 32 | 16 |
+| **Standard Items** | | | |
+| Standard-grade | 7 | 28 | 14 |
+| High-grade | 11 | 44 | 22 |
 
 #### Material Uses
 

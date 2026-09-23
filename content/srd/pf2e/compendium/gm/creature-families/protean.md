@@ -18,9 +18,16 @@ Guardians of disorder and natives of the primal plane of chaos known as the [[sr
 
  Many proteans can subject their foes to warpwaves—disorienting alterations in perceived time and space—by creating ripples of unstable reality in the environment. When a creature fails its saving throw and is affected by a warpwave, roll 1d8 and consult the table below for the specific effect on that creature. Unless indicated otherwise, a warpwave effect lasts for 1d4 rounds, and a new warpwave effect negates any previous warpwave effect already affecting a creature.
 
-## 
-
-**d8****Warpwave Effect** 1{{conditions 61 "Clumsy 2"}} (3 on a critical failure) 2{{conditions 63 "Confused"}} and gains 4d6 temporary Hit Points 3{{conditions 65 "Dazzled"}} (permanent on a critical failure) 4{{conditions 71 "Enfeebled 2"}} (3 on a critical failure) 5{{conditions 81 "Immobilized"}} by filaments of energy 6{{conditions 89 "Quickened"}} (Stride, Strike, or Step only) 7{{conditions 92 "Slowed 1"}} 8{{conditions 94 "Stupefied 2"}} (3 on a critical failure)
+| **d8** | **Warpwave Effect** |
+| --- | --- |
+| 1 | [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy\|Clumsy 2]] (3 on a critical failure) |
+| 2 | [[srd/pf2e/compendium/rules-elements/Conditions#Confused\|Confused]] and gains 4d6 temporary Hit Points |
+| 3 | [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled\|Dazzled]] (permanent on a critical failure) |
+| 4 | [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled\|Enfeebled 2]] (3 on a critical failure) |
+| 5 | [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized\|Immobilized]] by filaments of energy |
+| 6 | [[srd/pf2e/compendium/rules-elements/Conditions#Quickened\|Quickened]] (Stride, Strike, or Step only) |
+| 7 | [[srd/pf2e/compendium/rules-elements/Conditions#Slowed\|Slowed 1]] |
+| 8 | [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied\|Stupefied 2]] (3 on a critical failure) |
 
 ### Members
 

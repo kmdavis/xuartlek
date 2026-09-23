@@ -47,7 +47,13 @@ You can turn an existing living creature into a nosferatu using the following st
 
  Increase the creature's level by 1 and change its statistics as follows. 
 It gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]], and [[srd/pf2e/compendium/rules-elements/traits/monster-core/Vampire|vampire]] traits.Increase AC, attack bonuses, DCs, saving throws, and skill modifiers by 1.Increase Speed by 5 feet or to 30 feet, whichever results in a higher Speed.Increase damage with Strikes and other offensive abilities by 1. If an ability can be used only a small number of times (such as a dragon's breath), increase the damage by 2 instead.Reduce HP by the amount listed on the table.The nosferatu gains fast healing and resistance to physical damage (except magical wood) as indicated in the table. These abilities are the reason the nosferatu has fewer HP. 
-**Starting Level** **HP Decrease** **Fast Healing/Resistance** 8–14 –40 10 15+ –60 15 
+
+| **Starting Level** | **HP Decrease** | **Fast Healing/Resistance** |
+| --- | --- | --- |
+| 8–14 | –40 | 10 |
+| 15+ | –60 | 15 |
+
+ 
 
 ### Basic Nosferatu Abilities
 

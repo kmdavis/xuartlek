@@ -26,9 +26,9 @@ You conjure a dark cloud above the battlefield from which leaps a massive giant 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is knocked {{conditions 88 "prone"}}.
+**Success** The creature is knocked [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]].
 
-**Failure** The creature is knocked prone and {{conditions 61 "clumsy"}} 1 for 1 round.
+**Failure** The creature is knocked prone and [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]] 1 for 1 round.
 
 **Critical Failure** The creature is knocked prone and clumsy 2 for 1 round.
 

@@ -17,9 +17,14 @@ An experimental cryptid has been purposefully altered through alchemy, engineeri
 You can turn an existing creature into an experimental cryptid by completing the following steps. Increase the creature's level by 1 and change its statistics as follows. 
 Increase the creature's AC, attack bonuses, DCs, Perception modifier, saving throws, and skill modifiers by 1.Increase the damage of Strikes and other offensive abilities by 1. If an ability can be used only a smallnumber of times (such as a dragon's breath), increase the damage by 2 instead.Increase the creature's HP by the amount listed on the table.
 
-## 
+| Starting Level | HP Increase |
+| --- | --- |
+| 1 or lower | 10 |
+| 2–4 | 15 |
+| 5–19 | 20 |
+| 20+ | 30 |
 
-Starting LevelHP Increase 1 or lower10 2–415 5–1920 20+30
+
 
  
 

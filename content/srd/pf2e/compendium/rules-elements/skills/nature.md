@@ -24,87 +24,19 @@ You know about the natural world, and you command and train animals and magical 
 
 ### Item Bonuses for Nature
 
-Item
-Bonus
-Level
-Category
-Consumable
-Note
-
-Essence Charm
-+1
-4
-Other Worn Items
-No
-Item bonus to a check of the crafter's choice
-
-Essence Forge (Lesser)
-+1
-6
-Other
-No
-Item Bonus
-
-[[srd/pf2e/compendium/equipment/staves/Staff of Nature's Cunning|Staff Of Nature's Cunning]]
-+2
-7
-Staves
-No
-Item bonus to Nature checks to Recall Knowledge.
-
-[[srd/pf2e/compendium/equipment/held-items/Fulu Compendium|Fulu Compendium]]
-+2
-9
-Held Items
-No
-Item bonus to determine a fulu's function or authenticity.
-
-[[srd/pf2e/compendium/equipment/worn-items/Living Mantle|Living Mantle]]
-+2
-10
-Worn Items
-No
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
-+2
-11
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-[[srd/pf2e/compendium/equipment/staves/Staff of Nature's Cunning|Greater Staff Of Nature's Cunning]]
-+2
-11
-Staves
-No
-Item bonus to Nature checks to Recall Knowledge.
-
-Essence Forge (Moderate)
-+2
-12
-Other
-No
-Item Bonus
-
-Essence Forge (Greater)
-+3
-18
-Other
-No
-Item Bonus
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
-+3
-18
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-[[srd/pf2e/compendium/equipment/worn-items/Living Mantle|Living Mantle (Greater)]]
-+3
-18
-Worn Items
-No
+| Item | Bonus | Level | Category | Consumable | Note |
+| --- | --- | --- | --- | --- | --- |
+| Essence Charm | +1 | 4 | Other Worn Items | No | Item bonus to a check of the crafter's choice |
+| Essence Forge (Lesser) | +1 | 6 | Other | No | Item Bonus |
+| [[srd/pf2e/compendium/equipment/staves/Staff of Nature's Cunning\|Staff Of Nature's Cunning]] | +2 | 7 | Staves | No | Item bonus to Nature checks to Recall Knowledge. |
+| [[srd/pf2e/compendium/equipment/held-items/Fulu Compendium\|Fulu Compendium]] | +2 | 9 | Held Items | No | Item bonus to determine a fulu's function or authenticity. |
+| [[srd/pf2e/compendium/equipment/worn-items/Living Mantle\|Living Mantle]] | +2 | 10 | Worn Items | No | |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal]] | +2 | 11 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| [[srd/pf2e/compendium/equipment/staves/Staff of Nature's Cunning\|Greater Staff Of Nature's Cunning]] | +2 | 11 | Staves | No | Item bonus to Nature checks to Recall Knowledge. |
+| Essence Forge (Moderate) | +2 | 12 | Other | No | Item Bonus |
+| Essence Forge (Greater) | +3 | 18 | Other | No | Item Bonus |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal (Greater)]] | +3 | 18 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| [[srd/pf2e/compendium/equipment/worn-items/Living Mantle\|Living Mantle (Greater)]] | +3 | 18 | Worn Items | No | |
 
 ### Related Feats
 

@@ -67,29 +67,28 @@ Trained in a number of additional skills equal to 2 plus your Intelligence modif
 
 You gain these features as Commander. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
-
-1Ancestry and background, attribute boosts, initial proficiencies, commander’s banner, tactics, drilled reactions, Shield Block, commander feat
-2Commander feat, skill feat
-3General feat, skill increase, warfare expertise
-4Commander feat, skill feat
-5Ancestry feat, attribute boosts, military expertise, skill increase
-6Commander feat, skill feat
-7Expert tactician, general feat, skill increase, weapon specialization
-8Commander feat, skill feat
-9Ancestry feat, fortitude expertise, skill increase
-10Attribute boosts, commander feat, skill feat
-11Armor expertise, commanding will, general feat, skill increase
-12Commander feat, skill feat
-13Ancestry feat, skill increase, perception mastery, weapon mastery
-14Commander feat, skill feat
-15Attribute boosts, battlefield intuition, general feat, greater weapon specialization, master tactician, skill increase
-16Commander feat, skill feat
-17Ancestry feat, armor mastery, skill increase
-18Commander feat, skill feat
-19General feat, legendary tactician, skill increase
-20Attribute boosts, commander feat, skill feat
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, commander’s banner, tactics, drilled reactions, Shield Block, commander feat |
+| 2 | Commander feat, skill feat |
+| 3 | General feat, skill increase, warfare expertise |
+| 4 | Commander feat, skill feat |
+| 5 | Ancestry feat, attribute boosts, military expertise, skill increase |
+| 6 | Commander feat, skill feat |
+| 7 | Expert tactician, general feat, skill increase, weapon specialization |
+| 8 | Commander feat, skill feat |
+| 9 | Ancestry feat, fortitude expertise, skill increase |
+| 10 | Attribute boosts, commander feat, skill feat |
+| 11 | Armor expertise, commanding will, general feat, skill increase |
+| 12 | Commander feat, skill feat |
+| 13 | Ancestry feat, skill increase, perception mastery, weapon mastery |
+| 14 | Commander feat, skill feat |
+| 15 | Attribute boosts, battlefield intuition, general feat, greater weapon specialization, master tactician, skill increase |
+| 16 | Commander feat, skill feat |
+| 17 | Ancestry feat, armor mastery, skill increase |
+| 18 | Commander feat, skill feat |
+| 19 | General feat, legendary tactician, skill increase |
+| 20 | Attribute boosts, commander feat, skill feat |
 
 | | |
 | --- | --- |

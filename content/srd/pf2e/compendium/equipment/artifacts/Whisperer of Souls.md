@@ -26,7 +26,7 @@ This _+4 major striking greater brilliant keen glaive_ binds the souls of powerf
 
 **Critical Success** No additional effect.
 
-**Success** The glaive siphons the creature's essence, rendering it {{conditions 10 "drained 1"}}. If the creature dies from the Strike or while drained in this way, the creature's soul is bound in the glaive.
+**Success** The glaive siphons the creature's essence, rendering it drained 1. If the creature dies from the Strike or while drained in this way, the creature's soul is bound in the glaive.
 
 **Failure** As success, but the creature is drained 2.
 

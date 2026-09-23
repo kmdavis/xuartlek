@@ -30,6 +30,11 @@ A deluge of paint or colorful illusions descend on the area, reflecting your per
 
 ## Creative Splash
 
-**1d4****Color****Failure****Critical Failure**1White{{conditions 7 "Dazzled"}} 1 roundDazzled 1 minute2Red{{conditions 13 "Enfeebled 1"}} for 1 roundEnfeebled 2 for 1 round3Yellow{{conditions 19 "Frightened 1"}}Frightened 24Blue{{conditions 3 "Clumsy 1"}} for 1 roundClumsy 2 for 1 round
+| **1d4** | **Color** | **Failure** | **Critical Failure** |
+| --- | --- | --- | --- |
+| 1 | White | Dazzled 1 round | Dazzled 1 minute |
+| 2 | Red | Enfeebled 1 for 1 round | Enfeebled 2 for 1 round |
+| 3 | Yellow | Frightened 1 | Frightened 2 |
+| 4 | Blue | Clumsy 1 for 1 round | Clumsy 2 for 1 round |
 
 *Source: Player Core p. 373*

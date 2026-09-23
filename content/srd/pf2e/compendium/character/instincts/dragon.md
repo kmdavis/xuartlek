@@ -14,51 +14,16 @@ You summon the fury of a mighty dragon and manifest incredible abilities. Perhap
 
 ## Dragon Instincts
 
- 
-
- Dragon
- Tradition
- Dragon Breath
-
-
- {{creatureFamilies 396 "Adamantine"}}
- {{traits 676 "Primal"}}
- Bludgeoning
-
-
- {{creatureFamilies 397 "Conspirator"}}
- {{traits 662 "Occult"}}
- {{traits 669 "Poison"}}
-
-
- {{creatureFamilies 398 "Diabolic"}}
- {{traits 579 "Divine"}}
- {{traits 604 "Fire"}}
-
-
- {{creatureFamilies 399 "Empyreal"}}
- {{traits 579 "Divine"}}
- {{traits 737 "Spirit"}}
-
-
- {{creatureFamilies 400 "Fortune"}}
- {{traits 534 "Arcane"}}
- {{traits 610 "Force"}}
-
-
- {{creatureFamilies 401 "Horned"}}
- {{traits 676 "Primal"}}
- {{traits 669 "Poison"}}
-
-
- {{creatureFamilies 402 "Mirage"}}
- {{traits 534 "Arcane"}}
- {{traits 647 "Mental"}}
-
-
- {{creatureFamilies 403 "Omen"}}
- {{traits 662 "Occult"}}
- {{traits 647 "Mental"}}
+| Dragon | Tradition | Dragon Breath |
+| --- | --- | --- |
+| Adamantine | [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal\|Primal]] | Bludgeoning |
+| Conspirator | [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult\|Occult]] | [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison\|Poison]] |
+| Diabolic | [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine\|Divine]] | [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire\|Fire]] |
+| Empyreal | [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine\|Divine]] | [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit\|Spirit]] |
+| Fortune | [[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane\|Arcane]] | [[srd/pf2e/compendium/rules-elements/traits/player-core/Force\|Force]] |
+| Horned | [[srd/pf2e/compendium/rules-elements/traits/player-core/Primal\|Primal]] | [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison\|Poison]] |
+| Mirage | [[srd/pf2e/compendium/rules-elements/traits/player-core/Arcane\|Arcane]] | [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental\|Mental]] |
+| Omen | [[srd/pf2e/compendium/rules-elements/traits/player-core/Occult\|Occult]] | [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental\|Mental]] |
 
 
 

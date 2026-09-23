@@ -26,7 +26,7 @@ You conjure an exploding glass container filled with a sightstealing poison and 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes 3d6 {{traits 669 "poison"}} damage.
+**Success** The creature takes 3d6 [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]] damage.
 
 **Failure** The creature is afflicted with blinding poison at stage 1.
 

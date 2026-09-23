@@ -21,8 +21,22 @@ Your training focused on Crafting one particular kind of item. Select one of the
 
 ## Specialty Crafting
 
-**Specialty****Applicable Items** Alchemy*Alchemical items such as elixirs ArtistryFine art, including jewelry BlacksmithingDurable metal goods, including metal armor BookmakingBooks and paper GlassmakingGlass, including glassware and windows LeatherworkingLeather goods, including leather armor PotteryCeramic goods ShipbuildingShips and boats StonemasonryStone goods and structures TailoringClothing WeavingTextiles, baskets, and rugs WoodworkingWooden goods and structures
- * Requires {{feats 5117 "Alchemical Crafting"}} to Craft.
+| **Specialty** | **Applicable Items** |
+| --- | --- |
+| Alchemy* | Alchemical items such as elixirs |
+| Artistry | Fine art, including jewelry |
+| Blacksmithing | Durable metal goods, including metal armor |
+| Bookmaking | Books and paper |
+| Glassmaking | Glass, including glassware and windows |
+| Leatherworking | Leather goods, including leather armor |
+| Pottery | Ceramic goods |
+| Shipbuilding | Ships and boats |
+| Stonemasonry | Stone goods and structures |
+| Tailoring | Clothing |
+| Weaving | Textiles, baskets, and rugs |
+| Woodworking | Wooden goods and structures |
+
+ * Requires [[srd/pf2e/compendium/feats/player-core/skill/Alchemical Crafting|Alchemical Crafting]] to Craft.
 
 ### Specialty Crafting leads to...
 

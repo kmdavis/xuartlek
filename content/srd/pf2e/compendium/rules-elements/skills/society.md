@@ -24,98 +24,21 @@ You understand the people and systems that make civilization run, and you know t
 
 ### Item Bonuses for Society
 
-Item
-Bonus
-Level
-Category
-Consumable
-Note
-
-Essence Charm
-+1
-4
-Other Worn Items
-No
-Item bonus to a check of the crafter's choice
-
-Kols's Oath
-+1
-5
-Clan Dagger Filigrees
-No
-Item bonus to Society checks
-
-[[srd/pf2e/compendium/equipment/worn-items/Pristine Epaulets|Pristine Epaulets]]
-+1
-5
-Other Worn Items
-No
-Item bonus to Society
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Lesser)]]
-+1
-1
-Alchemical Elixirs
-Yes
-
-[[srd/pf2e/compendium/equipment/worn-items/Humbug Pocket|Humbug Pocket]]
-+2
-9
-Worn Items
-No
-
-Greater Kols's Oath
-+2
-11
-Clan Dagger Filigrees
-No
-Item bonus to Society checks
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
-+2
-11
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Moderate)]]
-+2
-3
-Alchemical Elixirs
-Yes
-
-[[srd/pf2e/compendium/equipment/worn-items/Humbug Pocket|Humbug Pocket (Greater)]]
-+3
-17
-Worn Items
-No
-Checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Conceal an Object|Conceal an Object]]
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
-+3
-18
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-Draconal Mask
-+3
-19
-Apex Items
-No
-item bonus to Society checks
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Greater)]]
-+3
-11
-Alchemical Elixirs
-Yes
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Major)]]
-+4
-17
-Alchemical Elixirs
-Yes
+| Item | Bonus | Level | Category | Consumable | Note |
+| --- | --- | --- | --- | --- | --- |
+| Essence Charm | +1 | 4 | Other Worn Items | No | Item bonus to a check of the crafter's choice |
+| Kols's Oath | +1 | 5 | Clan Dagger Filigrees | No | Item bonus to Society checks |
+| [[srd/pf2e/compendium/equipment/worn-items/Pristine Epaulets\|Pristine Epaulets]] | +1 | 5 | Other Worn Items | No | Item bonus to Society |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Lesser)]] | +1 | 1 | Alchemical Elixirs | Yes | |
+| [[srd/pf2e/compendium/equipment/worn-items/Humbug Pocket\|Humbug Pocket]] | +2 | 9 | Worn Items | No | |
+| Greater Kols's Oath | +2 | 11 | Clan Dagger Filigrees | No | Item bonus to Society checks |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal]] | +2 | 11 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Moderate)]] | +2 | 3 | Alchemical Elixirs | Yes | |
+| [[srd/pf2e/compendium/equipment/worn-items/Humbug Pocket\|Humbug Pocket (Greater)]] | +3 | 17 | Worn Items | No | Checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Conceal an Object\|Conceal an Object]] |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal (Greater)]] | +3 | 18 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| Draconal Mask | +3 | 19 | Apex Items | No | item bonus to Society checks |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Greater)]] | +3 | 11 | Alchemical Elixirs | Yes | |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Major)]] | +4 | 17 | Alchemical Elixirs | Yes | |
 
 ### Related Feats
 

@@ -26,18 +26,8 @@ When you encounter particularly archaic or esoteric texts, the GM might require 
 
 ### Item Bonuses for Decipher Writing
 
-Item
-Bonus
-Level
-Category
-Consumable
-Note
-
-Ring of Fair Assessment
-+1
-7
-Other Worn Items
-No
-that’s primarily numerical or mathematical in nature
+| Item | Bonus | Level | Category | Consumable | Note |
+| --- | --- | --- | --- | --- | --- |
+| Ring of Fair Assessment | +1 | 7 | Other Worn Items | No | that’s primarily numerical or mathematical in nature |
 
 *Source: Player Core p. 228*

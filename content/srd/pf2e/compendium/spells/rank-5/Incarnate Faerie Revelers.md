@@ -26,7 +26,7 @@ You extend an invitation to a faerie revel, a ceaseless celebration of mischief 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is {{conditions 94 "stupefied"}} 1 and {{conditions 61 "clumsy"}} 1 for 1 round.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied|stupefied]] 1 and [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy]] 1 for 1 round.
 
 **Failure** The creature is stupefied 2 and clumsy 2 for 1 round.
 

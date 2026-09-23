@@ -30,7 +30,15 @@ You can build a divine warden from the ground up using the standard rules for mo
 
  Select the deity who empowered the divine warden. This deity is the divine warden's patron deity. Increase the creature's level by 1 and change its statistics as follows. 
 It gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Uncommon|uncommon]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]] traits.Increase AC, attack bonuses, DCs, saving throws, and skill modifiers by 1. If the creature didn't have any listed DCs, use the moderate DC for a creature of its level for any new abilities that require a DC.Increase its Hit Points as shown on the table below. 
-**Starting Level** **HP Increase** 1 or lower10 2–4 15 5–19 20 20+ 30 Divine Warden Abilities A divine warden retains any abilities it had previously, and it gains the abilities listed below. You might need to adjust or remove other abilities that conflict with the construct's new theme as a divine warden.
+
+| **Starting Level** | **HP Increase** |
+| --- | --- |
+| 1 or lower | 10 |
+| 2–4 | 15 |
+| 5–19 | 20 |
+| 20+ | 30 |
+
+ Divine Warden Abilities A divine warden retains any abilities it had previously, and it gains the abilities listed below. You might need to adjust or remove other abilities that conflict with the construct's new theme as a divine warden.
 
  **Divine Destruction** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Spirit|spirit]]) When the divine warden is reduced to 0 HP, it erupts with divine energy in a 30-foot emanation, dealing 1d6 spirit damage per level. Each creature in the area must attempt a Will save with the following outcomes.
  **Critical Success** The creature takes half damage.

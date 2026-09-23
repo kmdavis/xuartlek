@@ -61,29 +61,28 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 You gain these features as Alchemist. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
-
-1Ancestry and background, attribute boosts, initial proficiencies, alchemy, research field, alchemist feat
-2Alchemist feat, skill feat
-3General feat, skill increase
-4Alchemist feat, skill feat
-5Attribute boosts, ancestry feat, field discovery, powerful alchemy, skill increase
-6Alchemist feat, skill feat
-7Alchemical weapon expertise, general feat, skill increase, will expertise
-8Alchemist feat, skill feat
-9Alchemical expertise, ancestry feat, double brew, perception expertise, skill increase
-10Attribute boosts, alchemist feat, skill feat
-11Advanced vials, chemical hardiness, general feat, skill increase
-12Alchemist feat, skill feat
-13Ancestry feat, greater field discovery, medium armor expertise, skill increase, weapon specialization
-14Alchemist feat, skill feat
-15Attribute boosts, alchemical weapon mastery,explosion dodger, general feat, skill increase
-16Alchemist feat, skill feat
-17Abundant vials, alchemical mastery, ancestry feat, skill increase
-18Alchemist feat, skill feat
-19General feat, medium armor mastery, skill increase
-20Attribute boosts, alchemist feat, skill feat
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, alchemy, research field, alchemist feat |
+| 2 | Alchemist feat, skill feat |
+| 3 | General feat, skill increase |
+| 4 | Alchemist feat, skill feat |
+| 5 | Attribute boosts, ancestry feat, field discovery, powerful alchemy, skill increase |
+| 6 | Alchemist feat, skill feat |
+| 7 | Alchemical weapon expertise, general feat, skill increase, will expertise |
+| 8 | Alchemist feat, skill feat |
+| 9 | Alchemical expertise, ancestry feat, double brew, perception expertise, skill increase |
+| 10 | Attribute boosts, alchemist feat, skill feat |
+| 11 | Advanced vials, chemical hardiness, general feat, skill increase |
+| 12 | Alchemist feat, skill feat |
+| 13 | Ancestry feat, greater field discovery, medium armor expertise, skill increase, weapon specialization |
+| 14 | Alchemist feat, skill feat |
+| 15 | Attribute boosts, alchemical weapon mastery,explosion dodger, general feat, skill increase |
+| 16 | Alchemist feat, skill feat |
+| 17 | Abundant vials, alchemical mastery, ancestry feat, skill increase |
+| 18 | Alchemist feat, skill feat |
+| 19 | General feat, medium armor mastery, skill increase |
+| 20 | Attribute boosts, alchemist feat, skill feat |
 
 | | |
 | --- | --- |

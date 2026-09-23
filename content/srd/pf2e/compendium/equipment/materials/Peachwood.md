@@ -17,9 +17,19 @@ socialImage: og-image.png
 
 Peachwood, often cultivated by Pharasmin priests, can ward against undead—even incorporeal ones. However, the wood loses its magical properties when it comes in contact with metal, requiring advanced carpentry to make full use of it. 
 
-## 
+| Peachwood Items | Hardness | HP | BT |
+| --- | --- | --- | --- |
+| **Thin Items** | | | |
+| Standard-grade | 4 | 16 | 6 |
+| High-grade | 24 | 32 | 12 |
+| **Items** | | | |
+| Standard-grade | 5 | 20 | 10 |
+| High-grade | 8 | 32 | 16 |
+| **Structures** | | | |
+| Standard-grade | 12 | 48 | 24 |
+| High-grade | 18 | 64 | 32 |
 
-Peachwood ItemsHardnessHPBT**Thin Items**Standard-grade4166High-grade243212**Items**Standard-grade52010High-grade83216**Structures**Standard-grade124824High-grade186432 
+ 
 
 #### Material Uses
 

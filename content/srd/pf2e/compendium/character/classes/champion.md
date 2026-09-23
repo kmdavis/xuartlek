@@ -67,29 +67,28 @@ Trained in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
 You gain these features as Champion. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
-
-1Ancestry and background, attribute boosts, initial proficiencies, deity, cause, devotion spells, champion feat, shield block
-2Champion feat, skill feat
-3Blessing of the devoted, general feat, skill increase
-4Champion feat, skill feat
-5Attribute boosts, ancestry feat, skill increase, weapon expertise
-6Champion feat, skill feat
-7Armor expertise, general feat, skill increase, weapon specialization
-8Champion feat, skill feat
-9Ancestry feat, champion expertise, reflex expertise, relentless reaction, sacred body, skill increase
-10Attribute boosts, champion feat, skill feat
-11Divine will, exalted reaction, general feat, perception expertise, skill increase
-12Champion feat, skill feat
-13Ancestry feat, armor mastery, skill increase weapon mastery
-14Champion feat, skill feat
-15Attribute boosts, general feat, greater weapon specialization, skill increase
-16Champion feat, skill feat
-17Ancestry feat, champion mastery, legendary armor, skill increase
-18Champion feat, skill feat
-19General feat, hero’s defiance, skill increase
-20Attribute boosts, champion feat, skill feat
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, deity, cause, devotion spells, champion feat, shield block |
+| 2 | Champion feat, skill feat |
+| 3 | Blessing of the devoted, general feat, skill increase |
+| 4 | Champion feat, skill feat |
+| 5 | Attribute boosts, ancestry feat, skill increase, weapon expertise |
+| 6 | Champion feat, skill feat |
+| 7 | Armor expertise, general feat, skill increase, weapon specialization |
+| 8 | Champion feat, skill feat |
+| 9 | Ancestry feat, champion expertise, reflex expertise, relentless reaction, sacred body, skill increase |
+| 10 | Attribute boosts, champion feat, skill feat |
+| 11 | Divine will, exalted reaction, general feat, perception expertise, skill increase |
+| 12 | Champion feat, skill feat |
+| 13 | Ancestry feat, armor mastery, skill increase weapon mastery |
+| 14 | Champion feat, skill feat |
+| 15 | Attribute boosts, general feat, greater weapon specialization, skill increase |
+| 16 | Champion feat, skill feat |
+| 17 | Ancestry feat, champion mastery, legendary armor, skill increase |
+| 18 | Champion feat, skill feat |
+| 19 | General feat, hero’s defiance, skill increase |
+| 20 | Attribute boosts, champion feat, skill feat |
 
 | | |
 | --- | --- |

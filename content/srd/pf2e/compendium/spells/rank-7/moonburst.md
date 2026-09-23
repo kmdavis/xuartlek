@@ -32,7 +32,7 @@ A powerful globe of chilling moonlight explodes in the area, dealing 8d10 [[srd/
 
 **Failure** The creature takes full damage.
 
-**Critical Failure** The creature takes full damage and becomes {{conditions 59 "blinded"}} permanently.
+**Critical Failure** The creature takes full damage and becomes [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] permanently.
 
 If the globe overlaps with an area of magical [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Perception and Detection#Darkness|darkness]], _moonburst_ attempts to [[srd/pf2e/books/player-core/chapter-7-spells/Counteracting|counteract]] the darkness effect.
 

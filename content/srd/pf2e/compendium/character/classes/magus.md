@@ -74,31 +74,51 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 You gain these features as Magus. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, magus spellcasting, Spellstrike, Arcane Cascade, hybrid study, conflux spells |
+| 2 | Magus feat, skill feat |
+| 3 | 2nd-rank spells, general feat, skill increase |
+| 4 | Magus feat, skill feat |
+| 5 | 3rd-rank spells, ancestry feat, attribute boosts, reflex expertise, skill increase, weapon expertise |
+| 6 | Magus feat, skill feat |
+| 7 | 4th-rank spells, general feat, skill increase, studious spells, weapon specialization |
+| 8 | Magus feat, skill feat |
+| 9 | 5th-rank spells, ancestry feat, expert spellcaster, perception expertise, skill increase, twofold will |
+| 10 | Attribute boosts, magus feat, skill feat |
+| 11 | 6th-rank spells, general feat, medium armor expertise, skill increase |
+| 12 | Magus feat, skill feat |
+| 13 | 7th-rank spells, ancestry feat, skill increase, weapon mastery |
+| 14 | Magus feat, skill feat |
+| 15 | 8th-rank spells, attribute boosts, general feat, greater weapon specialization, skill increase, spell-tempered body |
+| 16 | Magus feat, skill feat |
+| 17 | 9th-rank spells, ancestry feat, master spellcaster, medium armor mastery, skill increase |
+| 18 | Magus feat, skill feat |
+| 19 | Double Spellstrike, general feat, skill increase |
+| 20 | Attribute boosts, magus feat, skill feat |
 
-1Ancestry and background, attribute boosts, initial proficiencies, magus spellcasting, Spellstrike, Arcane Cascade, hybrid study, conflux spells
-2Magus feat, skill feat
-32nd-rank spells, general feat, skill increase
-4Magus feat, skill feat
-53rd-rank spells, ancestry feat, attribute boosts, reflex expertise, skill increase, weapon expertise
-6Magus feat, skill feat
-74th-rank spells, general feat, skill increase, studious spells, weapon specialization
-8Magus feat, skill feat
-95th-rank spells, ancestry feat, expert spellcaster, perception expertise, skill increase, twofold will
-10Attribute boosts, magus feat, skill feat
-116th-rank spells, general feat, medium armor expertise, skill increase
-12Magus feat, skill feat
-137th-rank spells, ancestry feat, skill increase, weapon mastery
-14Magus feat, skill feat
-158th-rank spells, attribute boosts, general feat, greater weapon specialization, skill increase, spell-tempered body
-16Magus feat, skill feat
-179th-rank spells, ancestry feat, master spellcaster, medium armor mastery, skill increase
-18Magus feat, skill feat
-19Double Spellstrike, general feat, skill increase
-20Attribute boosts, magus feat, skill feat
-
-Your LevelCantrips1st2nd3rd4th5th6th7th8th9th151————————252————————3521———————4522———————55221——————65222——————752221—————852222—————9522221————10522222————115222221———125222222———1352222221——1452222222——15522222221—16522222222—175222222221185222222222195222222222205222222222
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 5 | 1 | — | — | — | — | — | — | — | — |
+| 2 | 5 | 2 | — | — | — | — | — | — | — | — |
+| 3 | 5 | 2 | 1 | — | — | — | — | — | — | — |
+| 4 | 5 | 2 | 2 | — | — | — | — | — | — | — |
+| 5 | 5 | 2 | 2 | 1 | — | — | — | — | — | — |
+| 6 | 5 | 2 | 2 | 2 | — | — | — | — | — | — |
+| 7 | 5 | 2 | 2 | 2 | 1 | — | — | — | — | — |
+| 8 | 5 | 2 | 2 | 2 | 2 | — | — | — | — | — |
+| 9 | 5 | 2 | 2 | 2 | 2 | 1 | — | — | — | — |
+| 10 | 5 | 2 | 2 | 2 | 2 | 2 | — | — | — | — |
+| 11 | 5 | 2 | 2 | 2 | 2 | 2 | 1 | — | — | — |
+| 12 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | — | — | — |
+| 13 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | — | — |
+| 14 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | — | — |
+| 15 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | — |
+| 16 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | — |
+| 17 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 |
+| 18 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+| 19 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+| 20 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
 | | |
 | --- | --- |

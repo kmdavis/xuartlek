@@ -30,155 +30,29 @@ You can use this skill to create and repair items.
 
 ### Item Bonuses for Crafting
 
-Item
-Bonus
-Level
-Category
-Consumable
-Note
-
-[[srd/pf2e/compendium/equipment/worn-items/Alchemist Goggles|Alchemist Goggles]]
-+1
-0
-Other Worn Items
-No
-Crafting checks to Craft alchemical items
-
-[[srd/pf2e/compendium/equipment/adventuring-gear/Artisan's Toolkit|Artisan's Toolkit (Sterling)]]
-+1
-3
-Adventuring Gear
-No
-Crafting checks to Craft
-
-[[srd/pf2e/compendium/equipment/adventuring-gear/Repair Toolkit|Repair Toolkit (Superb)]]
-+1
-3
-Adventuring Gear
-No
-Crafting checks to Repair
-
-[[srd/pf2e/compendium/equipment/worn-items/Aeon Stone|Aeon Stone (Formulating)]]
-+1
-4
-Other Worn Items
-No
-Item bonus to crafting checks
-
-[[srd/pf2e/compendium/equipment/worn-items/Aeon Stone|Aeon Stone (Repairing)]]
-+1
-4
-Other Worn Items
-No
-Item bonus to crafting checks
-
-Essence Charm
-+1
-4
-Other Worn Items
-No
-Item bonus to a check of the crafter's choice
-
-Azlanti Diamond
-+1
-8
-Artifacts
-No
-Item bonus to Crafting.
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Lesser)]]
-+1
-1
-Alchemical Elixirs
-Yes
-
-[[srd/pf2e/compendium/equipment/worn-items/Alchemist Goggles|Alchemist Goggles]]
-+2
-0
-Other Worn Items
-No
-Crafting checks to Craft alchemical items
-
-Schematic Scanner
-+2
-6
-Other Worn Items
-No
-Item bonus to Crafting checks to cradt an item whose formula is stored in the _schematic scanner_.
-
-Azlanti Diamond
-+2
-8
-Artifacts
-No
-Item bonus to Crafting when the item reaches the 9th level.
-
-[[srd/pf2e/compendium/equipment/armor/Laboratory Coat|Laboratory Coat]]
-+2
-9
-Specific Magic Armor
-No
-Item bonus to Crafting checks and an escape route should one’s experiments go awry.
-
-[[srd/pf2e/compendium/equipment/worn-items/Ring of Maniacal Devices|Ring of Maniacal Devices]]
-+2
-11
-Worn Items
-No
-Crafting checks to Craft and Repair snares and traps.
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
-+2
-11
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Moderate)]]
-+2
-3
-Alchemical Elixirs
-Yes
-
-[[srd/pf2e/compendium/equipment/worn-items/Alchemist Goggles|Alchemist Goggles]]
-+3
-0
-Other Worn Items
-No
-Crafting checks to Craft alchemical items
-
-Azlanti Diamond
-+3
-8
-Artifacts
-No
-Item bonus to Crafting when the item reaches the 17th level.
-
-[[srd/pf2e/compendium/equipment/worn-items/Ring of Maniacal Devices|Ring of Maniacal Devices (Greater)]]
-+3
-18
-Worn Items
-No
-Crafting checks to Craft and Repair snares and traps.
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
-+3
-18
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Greater)]]
-+3
-11
-Alchemical Elixirs
-Yes
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Major)]]
-+4
-17
-Alchemical Elixirs
-Yes
+| Item | Bonus | Level | Category | Consumable | Note |
+| --- | --- | --- | --- | --- | --- |
+| [[srd/pf2e/compendium/equipment/worn-items/Alchemist Goggles\|Alchemist Goggles]] | +1 | 0 | Other Worn Items | No | Crafting checks to Craft alchemical items |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Artisan's Toolkit\|Artisan's Toolkit (Sterling)]] | +1 | 3 | Adventuring Gear | No | Crafting checks to Craft |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Repair Toolkit\|Repair Toolkit (Superb)]] | +1 | 3 | Adventuring Gear | No | Crafting checks to Repair |
+| [[srd/pf2e/compendium/equipment/worn-items/Aeon Stone\|Aeon Stone (Formulating)]] | +1 | 4 | Other Worn Items | No | Item bonus to crafting checks |
+| [[srd/pf2e/compendium/equipment/worn-items/Aeon Stone\|Aeon Stone (Repairing)]] | +1 | 4 | Other Worn Items | No | Item bonus to crafting checks |
+| Essence Charm | +1 | 4 | Other Worn Items | No | Item bonus to a check of the crafter's choice |
+| Azlanti Diamond | +1 | 8 | Artifacts | No | Item bonus to Crafting. |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Lesser)]] | +1 | 1 | Alchemical Elixirs | Yes | |
+| [[srd/pf2e/compendium/equipment/worn-items/Alchemist Goggles\|Alchemist Goggles]] | +2 | 0 | Other Worn Items | No | Crafting checks to Craft alchemical items |
+| Schematic Scanner | +2 | 6 | Other Worn Items | No | Item bonus to Crafting checks to cradt an item whose formula is stored in the _schematic scanner_. |
+| Azlanti Diamond | +2 | 8 | Artifacts | No | Item bonus to Crafting when the item reaches the 9th level. |
+| [[srd/pf2e/compendium/equipment/armor/Laboratory Coat\|Laboratory Coat]] | +2 | 9 | Specific Magic Armor | No | Item bonus to Crafting checks and an escape route should one’s experiments go awry. |
+| [[srd/pf2e/compendium/equipment/worn-items/Ring of Maniacal Devices\|Ring of Maniacal Devices]] | +2 | 11 | Worn Items | No | Crafting checks to Craft and Repair snares and traps. |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal]] | +2 | 11 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Moderate)]] | +2 | 3 | Alchemical Elixirs | Yes | |
+| [[srd/pf2e/compendium/equipment/worn-items/Alchemist Goggles\|Alchemist Goggles]] | +3 | 0 | Other Worn Items | No | Crafting checks to Craft alchemical items |
+| Azlanti Diamond | +3 | 8 | Artifacts | No | Item bonus to Crafting when the item reaches the 17th level. |
+| [[srd/pf2e/compendium/equipment/worn-items/Ring of Maniacal Devices\|Ring of Maniacal Devices (Greater)]] | +3 | 18 | Worn Items | No | Crafting checks to Craft and Repair snares and traps. |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal (Greater)]] | +3 | 18 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Greater)]] | +3 | 11 | Alchemical Elixirs | Yes | |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Major)]] | +4 | 17 | Alchemical Elixirs | Yes | |
 
 ### Related Feats
 

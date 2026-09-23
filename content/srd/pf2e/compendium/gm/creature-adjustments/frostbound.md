@@ -17,8 +17,11 @@ Add a resistance to [[srd/pf2e/compendium/rules-elements/traits/player-core/Cold
  **Arctic Steps** The creature ignores uneven ground and difficult terrain caused by ice and the difficult terrain caused by snow (reducing greater difficult terrain from ice or snow to ordinary difficult terrain).
 **Snow Spray** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") **Requirements** The creature is standing on or adjacent to loose snow; **Effect** The frostbound creature kicks up the snow, becoming concealed to all creatures that are not adjacent to it until it moves or the end of its next turn.
 
-## 
-
-**Level****Resistance/Weakness** 3 or lower 3 4–8 5 9–13 10 14+ 15
+| **Level** | **Resistance/Weakness** |
+| --- | --- |
+| 3 or lower | 3 |
+| 4–8 | 5 |
+| 9–13 | 10 |
+| 14+ | 15 |
 
 *Source: Howl of the Wild p. 122*

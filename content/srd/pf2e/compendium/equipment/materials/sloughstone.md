@@ -19,7 +19,14 @@ Weapons made from sloughstone exploit [[srd/pf2e/bestiary/war-of-immortals/aberr
 
 ## Sloughstone
 
-**Sloughstone Items****Hardness****HP****BT** Thin Items Standard-grade83618 High-grade114824 Items Standard-grade125025 High-grade156231
+| **Sloughstone Items** | **Hardness | **HP** | **BT** |
+| --- | --- | --- | --- |
+| Thin Items | | | |
+| Standard-grade | 8 | 36 | 18 |
+| High-grade | 11 | 48 | 24 |
+| Items | | | |
+| Standard-grade | 12 | 50 | 25 |
+| High-grade | 15 | 62 | 31 |
 
 ### Sloughstone Chunk
 

@@ -70,29 +70,28 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 You gain these features as Exemplar. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
-
-1Ancestry and background, attribute boosts, initial proficiencies, divine spark and ikons, exemplar feat, humble strikes, Shield Block
-2Exemplar feat, skill feat
-3General feat, root epithet, skill increase
-4Exemplar feat, skill feat
-5Attribute boosts, ancestry feat, skill increase, weapon expertise
-6Exemplar feat, skill feat
-7Dominion epithet, general feat, skill increase, spirit striking, unassailable soul
-8Exemplar feat, skill feat
-9Ancestry feat, divine premonition, godly expertise, perception expertise, skill increase
-10Attribute boosts, exemplar feat, skill feat
-11General feat, skill increase
-12Exemplar feat, skill feat
-13Ancestry feat, burnished armor expertise, divine weapon mastery, greater unassailable soul, skill increase
-14Exemplar feat, skill feat
-15Attribute boosts, general feat, greater spirit striking, mortality reforged, sovereignty epithet, skill increase
-16Exemplar feat, skill feat
-17Ancestry feat, deific mastery, perception mastery, skill increase
-18Exemplar feat, skill feat
-19Burnished armor mastery, general feat, skill increase
-20Attribute boosts, exemplar feat, skill feat
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, divine spark and ikons, exemplar feat, humble strikes, Shield Block |
+| 2 | Exemplar feat, skill feat |
+| 3 | General feat, root epithet, skill increase |
+| 4 | Exemplar feat, skill feat |
+| 5 | Attribute boosts, ancestry feat, skill increase, weapon expertise |
+| 6 | Exemplar feat, skill feat |
+| 7 | Dominion epithet, general feat, skill increase, spirit striking, unassailable soul |
+| 8 | Exemplar feat, skill feat |
+| 9 | Ancestry feat, divine premonition, godly expertise, perception expertise, skill increase |
+| 10 | Attribute boosts, exemplar feat, skill feat |
+| 11 | General feat, skill increase |
+| 12 | Exemplar feat, skill feat |
+| 13 | Ancestry feat, burnished armor expertise, divine weapon mastery, greater unassailable soul, skill increase |
+| 14 | Exemplar feat, skill feat |
+| 15 | Attribute boosts, general feat, greater spirit striking, mortality reforged, sovereignty epithet, skill increase |
+| 16 | Exemplar feat, skill feat |
+| 17 | Ancestry feat, deific mastery, perception mastery, skill increase |
+| 18 | Exemplar feat, skill feat |
+| 19 | Burnished armor mastery, general feat, skill increase |
+| 20 | Attribute boosts, exemplar feat, skill feat |
 
 | | |
 | --- | --- |

@@ -26,129 +26,26 @@ The secrets of deities, dogma, faith, and the realms of divine creatures both su
 
 ### Item Bonuses for Religion
 
-Item
-Bonus
-Level
-Category
-Consumable
-Note
-
-[[srd/pf2e/compendium/equipment/staves/Staff of Providence|Staff of Providence]]
-+1
-0
-Staves
-No
-Religion checks to Recall Knowledge.
-
-[[srd/pf2e/compendium/equipment/worn-items/Shining Symbol|Shining Symbol]]
-+1
-3
-Worn Items
-No
-
-[[srd/pf2e/compendium/equipment/worn-items/Symbol of Conflict|Symbol of Conflict]]
-+1
-4
-Worn Items
-No
-
-Essence Charm
-+1
-4
-Other Worn Items
-No
-Item bonus to a check of the crafter's choice
-
-Essence Forge (Lesser)
-+1
-6
-Other
-No
-Item Bonus
-
-[[srd/pf2e/compendium/equipment/worn-items/Shining Symbol|Shining Symbol (Greater)]]
-+2
-9
-Worn Items
-No
-
-[[srd/pf2e/compendium/equipment/held-items/Fulu Compendium|Fulu Compendium]]
-+2
-9
-Held Items
-No
-Item bonus to determine a fulu's function or authenticity.
-
-[[srd/pf2e/compendium/equipment/worn-items/Symbol of Conflict|Symbol of Conflict (Greater)]]
-+2
-10
-Worn Items
-No
-
-[[srd/pf2e/compendium/equipment/worn-items/Prognostic Veil|Prognostic Veil]]
-+2
-10
-Worn Items
-No
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
-+2
-11
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-Essence Forge (Moderate)
-+2
-12
-Other
-No
-Item Bonus
-
-Runic Skullcap
-+2
-15
-Other Worn Items
-No
-
-[[srd/pf2e/compendium/equipment/worn-items/Shining Symbol|Shining Symbol (Major)]]
-+3
-17
-Worn Items
-No
-
-[[srd/pf2e/compendium/equipment/worn-items/Symbol of Conflict|Symbol of Conflict (Major)]]
-+3
-18
-Worn Items
-No
-
-[[srd/pf2e/compendium/equipment/worn-items/Prognostic Veil|Prognostic Veil (Greater)]]
-+3
-18
-Worn Items
-No
-
-Essence Forge (Greater)
-+3
-18
-Other
-No
-Item Bonus
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
-+3
-18
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-[[srd/pf2e/compendium/equipment/apex-items/Sage's Lash|Sage's Lash]]
-+3
-18
-Apex Items
-No
-Item bonus while wearing the lash.
+| Item | Bonus | Level | Category | Consumable | Note |
+| --- | --- | --- | --- | --- | --- |
+| [[srd/pf2e/compendium/equipment/staves/Staff of Providence\|Staff of Providence]] | +1 | 0 | Staves | No | Religion checks to Recall Knowledge. |
+| [[srd/pf2e/compendium/equipment/worn-items/Shining Symbol\|Shining Symbol]] | +1 | 3 | Worn Items | No | |
+| [[srd/pf2e/compendium/equipment/worn-items/Symbol of Conflict\|Symbol of Conflict]] | +1 | 4 | Worn Items | No | |
+| Essence Charm | +1 | 4 | Other Worn Items | No | Item bonus to a check of the crafter's choice |
+| Essence Forge (Lesser) | +1 | 6 | Other | No | Item Bonus |
+| [[srd/pf2e/compendium/equipment/worn-items/Shining Symbol\|Shining Symbol (Greater)]] | +2 | 9 | Worn Items | No | |
+| [[srd/pf2e/compendium/equipment/held-items/Fulu Compendium\|Fulu Compendium]] | +2 | 9 | Held Items | No | Item bonus to determine a fulu's function or authenticity. |
+| [[srd/pf2e/compendium/equipment/worn-items/Symbol of Conflict\|Symbol of Conflict (Greater)]] | +2 | 10 | Worn Items | No | |
+| [[srd/pf2e/compendium/equipment/worn-items/Prognostic Veil\|Prognostic Veil]] | +2 | 10 | Worn Items | No | |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal]] | +2 | 11 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| Essence Forge (Moderate) | +2 | 12 | Other | No | Item Bonus |
+| Runic Skullcap | +2 | 15 | Other Worn Items | No | |
+| [[srd/pf2e/compendium/equipment/worn-items/Shining Symbol\|Shining Symbol (Major)]] | +3 | 17 | Worn Items | No | |
+| [[srd/pf2e/compendium/equipment/worn-items/Symbol of Conflict\|Symbol of Conflict (Major)]] | +3 | 18 | Worn Items | No | |
+| [[srd/pf2e/compendium/equipment/worn-items/Prognostic Veil\|Prognostic Veil (Greater)]] | +3 | 18 | Worn Items | No | |
+| Essence Forge (Greater) | +3 | 18 | Other | No | Item Bonus |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal (Greater)]] | +3 | 18 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| [[srd/pf2e/compendium/equipment/apex-items/Sage's Lash\|Sage's Lash]] | +3 | 18 | Apex Items | No | Item bonus while wearing the lash. |
 
 ### Related Feats
 

@@ -21,27 +21,19 @@ socialImage: og-image.png
 
 You brandish your sentinel weapon, summoning the image of your constellation above your head. The constellation then releases a powerful blast that deals 2d10 damage to all enemies in either a 30-foot line or 15-foot cone, with a basic save against your arcane spell DC. Enemies that critically fail are [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] until the start of your next turn. The damage type, traits, area, and saving throw are determined by your zodiac constellation (see below). 
 
-## 
-
-ConstellationAttack (Area, Save, Damage Type; Traits)
-Underworld DragonVolcanic Vents (line, Reflex, fire)
-Ogre
-Wild club swing (cone, Fortitude, bludgeoning)
-SwordswomanFalling blades of light (line, Reflex,
-piercing)Forest Dragon
-Swarm of Insects (cone, Fortitude, poison)
-Sea Dragon
-Pressurized seawater (line, Reflex, piercing; {{traits 732 "water"}} trait)
-BlossomStorming petals and pollen (line, Fortitude; {{traits 669 "poison"}}, {{traits 668 "plant"}}, {{traits 508 "wood"}})
-SwallowWind gust (cone, Reflex, slashing; {{traits 527 "air"}})
-DogA biting dog (line, Reflex, slashing)
-Ox
-A trampling ox (line, Reflex, bludgeoning)
-Sky Dragon
-Draconic lightning (line, Reflex, electricity)
-Sovereign Dragon
-Psychic roar (cone, Will, mental)
-ArcherHail of silver Arrows (piercing, cone, Reflex)
+| Constellation | Attack (Area, Save, Damage Type; Traits) | | |
+| --- | --- | --- | --- |
+| Underworld Dragon | Volcanic Vents (line, Reflex, fire) | | |
+| Ogre | Wild club swing (cone, Fortitude, bludgeoning) | Swordswoman | Falling blades of light (line, Reflex, piercing) |
+| Forest Dragon | Swarm of Insects (cone, Fortitude, poison) | | |
+| Sea Dragon | Pressurized seawater (line, Reflex, piercing; [[srd/pf2e/compendium/rules-elements/traits/player-core/Water\|water]] trait) | | |
+| Blossom | Storming petals and pollen (line, Fortitude; [[srd/pf2e/compendium/rules-elements/traits/player-core/Poison\|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Plant\|plant]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Wood\|wood]]) | | |
+| Swallow | Wind gust (cone, Reflex, slashing; [[srd/pf2e/compendium/rules-elements/traits/player-core/Air\|air]]) | | |
+| Dog | A biting dog (line, Reflex, slashing) | | |
+| Ox | A trampling ox (line, Reflex, bludgeoning) | | |
+| Sky Dragon | Draconic lightning (line, Reflex, electricity) | | |
+| Sovereign Dragon | Psychic roar (cone, Will, mental) | | |
+| Archer | Hail of silver Arrows (piercing, cone, Reflex) | | |
 
 ---
 **Heightened (+1)** The damage increases by 1d10.

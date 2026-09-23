@@ -82,29 +82,28 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 You gain these features as Kineticist. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
-
-1Ancestry and background, attribute boosts, initial proficiencies, kinetic gate, kinetic aura, impulses (Elemental Blast, Base Kinesis), kineticist feat
-2Kineticist feat, skill feat
-3Extract Element, general feat, skill increase, Will expertise
-4Kineticist feat, skill feat
-5Ancestry feat, attribute boosts, gate's threshold, skill increase
-6Kineticist feat, skill feat
-7General feat, kinetic durability, kinetic expertise, skill increase
-8Kineticist feat, skill feat
-9Ancestry feat, gate's threshold, perception expertise, skill increase
-10Attribute boosts, kineticist feat, skill feat
-11General feat, kinetic quickness, reflow elements, skill increase, weapon expertise
-12Kineticist feat, skill feat
-13Ancestry feat, gate's threshold, light armor expertise, skill increase, weapon specialization
-14Kineticist feat, skill feat
-15Attribute boosts, general feat, greater kinetic durability, kinetic mastery, skill increase
-16Kineticist feat, skill feat
-17Ancestry feat, double reflow, gate's threshold, skill increase
-18Kineticist feat, skill feat
-19Final gate, general feat, kinetic legend, light armor mastery, skill increase
-20Attribute boosts, kineticist feat, skill feat
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, kinetic gate, kinetic aura, impulses (Elemental Blast, Base Kinesis), kineticist feat |
+| 2 | Kineticist feat, skill feat |
+| 3 | Extract Element, general feat, skill increase, Will expertise |
+| 4 | Kineticist feat, skill feat |
+| 5 | Ancestry feat, attribute boosts, gate's threshold, skill increase |
+| 6 | Kineticist feat, skill feat |
+| 7 | General feat, kinetic durability, kinetic expertise, skill increase |
+| 8 | Kineticist feat, skill feat |
+| 9 | Ancestry feat, gate's threshold, perception expertise, skill increase |
+| 10 | Attribute boosts, kineticist feat, skill feat |
+| 11 | General feat, kinetic quickness, reflow elements, skill increase, weapon expertise |
+| 12 | Kineticist feat, skill feat |
+| 13 | Ancestry feat, gate's threshold, light armor expertise, skill increase, weapon specialization |
+| 14 | Kineticist feat, skill feat |
+| 15 | Attribute boosts, general feat, greater kinetic durability, kinetic mastery, skill increase |
+| 16 | Kineticist feat, skill feat |
+| 17 | Ancestry feat, double reflow, gate's threshold, skill increase |
+| 18 | Kineticist feat, skill feat |
+| 19 | Final gate, general feat, kinetic legend, light armor mastery, skill increase |
+| 20 | Attribute boosts, kineticist feat, skill feat |
 
 | | |
 | --- | --- |

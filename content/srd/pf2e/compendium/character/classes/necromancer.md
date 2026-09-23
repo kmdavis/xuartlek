@@ -72,31 +72,52 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 You gain these features as Necromancer. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, necromancer spellcasting, grave spells, fatal method, grim fascination, mastery of life and death, undead lore |
+| 2 | Necromancer feat, skill feat |
+| 3 | 2nd-rank spells, general feat, Inevitable Return, mental wards, skill increase |
+| 4 | Necromancer feat, skill feat |
+| 5 | 3rd-rank spells, attribute boosts, ancestry feat, reflex expertise, skill increase |
+| 6 | Necromancer feat, skill feat |
+| 7 | 4th-rank spells, expert necromancy, general feat, perception expertise, skill increase |
+| 8 | Necromancer feat, skill feat |
+| 9 | 5th-rank spells, ancestry feat, skill increase |
+| 10 | Attribute boosts, necromancer feat, skill feat |
+| 11 | 6th-rank spells, general feat, skill increase, unnatural fortitude, weapon expertise |
+| 12 | Necromancer feat, skill feat |
+| 13 | 7th-rank spells, ancestry feat, light armor expertise, skill increase, weapon specialization |
+| 14 | Necromancer feat, skill feat |
+| 15 | 8th-rank spells, attribute boosts, general feat, master necromancy, skill increase |
+| 16 | Necromancer feat, skill feat |
+| 17 | 9th-rank spells, ancestry feat, skill increase, undying resilience |
+| 18 | Necromancer feat, skill feat |
+| 19 | Epitaph, general feat, legendary necromancy, skill increase |
+| 20 | Attribute boosts, necromancer feat, skill feat |
 
-1Ancestry and background, attribute boosts, initial proficiencies, necromancer spellcasting, grave spells, fatal method, grim fascination, mastery of life and death, undead lore
-2Necromancer feat, skill feat
-32nd-rank spells, general feat, Inevitable Return, mental wards, skill increase
-4Necromancer feat, skill feat
-53rd-rank spells, attribute boosts, ancestry feat, reflex expertise, skill increase
-6Necromancer feat, skill feat
-74th-rank spells, expert necromancy, general feat, perception expertise, skill increase
-8Necromancer feat, skill feat
-95th-rank spells, ancestry feat, skill increase
-10Attribute boosts, necromancer feat, skill feat
-116th-rank spells, general feat, skill increase, unnatural fortitude, weapon expertise
-12Necromancer feat, skill feat
-137th-rank spells, ancestry feat, light armor expertise, skill increase, weapon specialization
-14Necromancer feat, skill feat
-158th-rank spells, attribute boosts, general feat, master necromancy, skill increase
-16Necromancer feat, skill feat
-179th-rank spells, ancestry feat, skill increase, undying resilience
-18Necromancer feat, skill feat
-19Epitaph, general feat, legendary necromancy, skill increase
-20Attribute boosts, necromancer feat, skill feat
-
-Your LevelCantrips1st2nd3rd4th5th6th7th8th9th10th151—————————252—————————3521————————4522————————55221———————65222———————752221——————852222——————9522221—————10522222—————115222221————125222222————1352222221———1452222222———15522222221——16522222222——175222222221—185222222222—1952222222221†2052222222221† † The epitaph class feature gives you a 10th-level spell slot that works a bit differently from other spell slots.
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 5 | 1 | — | — | — | — | — | — | — | — | — |
+| 2 | 5 | 2 | — | — | — | — | — | — | — | — | — |
+| 3 | 5 | 2 | 1 | — | — | — | — | — | — | — | — |
+| 4 | 5 | 2 | 2 | — | — | — | — | — | — | — | — |
+| 5 | 5 | 2 | 2 | 1 | — | — | — | — | — | — | — |
+| 6 | 5 | 2 | 2 | 2 | — | — | — | — | — | — | — |
+| 7 | 5 | 2 | 2 | 2 | 1 | — | — | — | — | — | — |
+| 8 | 5 | 2 | 2 | 2 | 2 | — | — | — | — | — | — |
+| 9 | 5 | 2 | 2 | 2 | 2 | 1 | — | — | — | — | — |
+| 10 | 5 | 2 | 2 | 2 | 2 | 2 | — | — | — | — | — |
+| 11 | 5 | 2 | 2 | 2 | 2 | 2 | 1 | — | — | — | — |
+| 12 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | — | — | — | — |
+| 13 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | — | — | — |
+| 14 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | — | — | — |
+| 15 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | — | — |
+| 16 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | — | — |
+| 17 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | — |
+| 18 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | — |
+| 19 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1† |
+| 20 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1† |
+| † The epitaph class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | | | | | | | | | | | |
 
 | | |
 | --- | --- |

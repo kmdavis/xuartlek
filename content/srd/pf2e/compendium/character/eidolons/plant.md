@@ -63,6 +63,6 @@ Your eidolon extends their roots underground to entangle and possibly damage all
 
 **Failure** The enemy takes half damage, takes a –10-foot circumstance penalty to its Speeds, and at the end of each of its turns, takes half damage again.
 
-**Critical Failure** The enemy is {{conditions 81 "immobilized"}}, takes full damage, and at the end of each of its turns, takes full damage again.
+**Critical Failure** The enemy is [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]], takes full damage, and at the end of each of its turns, takes full damage again.
 
 *Source: Impossible Magic p. 76*

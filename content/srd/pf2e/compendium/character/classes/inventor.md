@@ -70,29 +70,28 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 You gain these features as Inventor. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
-
-1Ancestry and background, initial proficiencies, overdrive, innovation, explode, peerless inventor, shield block, inventor feat
-2Inventor feat, skill feat
-3Expert overdrive, general feat, reconfigure, skill increase
-4Inventor feat, skill feat
-5Attribute boosts, ancestry feat, inventor weapon expertise, skill increase
-6Inventor feat, skill feat
-7Breakthrough innovation, general feat, reflex expertise, master overdrive, skill increase, weapon specialization
-8Inventor feat, skill feat
-9Ancestry feat, inventive expertise, offensive boost, skill increase
-10Attribute boosts, inventor feat, skill feat
-11General feat, medium armor expertise, resolve, skill increase
-12Inventor feat, skill feat
-13Alertness, ancestry feat, complete reconfiguration, inventor weapon mastery, skill increase
-14Inventor feat, skill feat
-15Attribute boosts, general feat, greater weapon specialization, legendary overdrive, revolutionary innovation, skill increase
-16Inventor feat, skill feat
-17Ancestry feat, inventive mastery, juggernaut, skill increase
-18Inventor feat, skill feat
-19General feat, infinite invention, medium armor mastery, skill increase
-20Attribute boosts, inventor feat, skill feat
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, initial proficiencies, overdrive, innovation, explode, peerless inventor, shield block, inventor feat |
+| 2 | Inventor feat, skill feat |
+| 3 | Expert overdrive, general feat, reconfigure, skill increase |
+| 4 | Inventor feat, skill feat |
+| 5 | Attribute boosts, ancestry feat, inventor weapon expertise, skill increase |
+| 6 | Inventor feat, skill feat |
+| 7 | Breakthrough innovation, general feat, reflex expertise, master overdrive, skill increase, weapon specialization |
+| 8 | Inventor feat, skill feat |
+| 9 | Ancestry feat, inventive expertise, offensive boost, skill increase |
+| 10 | Attribute boosts, inventor feat, skill feat |
+| 11 | General feat, medium armor expertise, resolve, skill increase |
+| 12 | Inventor feat, skill feat |
+| 13 | Alertness, ancestry feat, complete reconfiguration, inventor weapon mastery, skill increase |
+| 14 | Inventor feat, skill feat |
+| 15 | Attribute boosts, general feat, greater weapon specialization, legendary overdrive, revolutionary innovation, skill increase |
+| 16 | Inventor feat, skill feat |
+| 17 | Ancestry feat, inventive mastery, juggernaut, skill increase |
+| 18 | Inventor feat, skill feat |
+| 19 | General feat, infinite invention, medium armor mastery, skill increase |
+| 20 | Attribute boosts, inventor feat, skill feat |
 
 | | |
 | --- | --- |

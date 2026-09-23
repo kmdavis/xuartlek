@@ -30,9 +30,9 @@ With a gleeful cackle, you seize an individual's voice and swallow it. For the d
 
 **Critical Success** The creature is unaffected.
 
-**Success** You take on the target’s appearance, with the same effects of a 3rd-rank {{spells 1568 "_illusory disguise_"}} spell, and the target can’t speak, with the same effects of a 2nd-rank {{spells 1674 "_silence_"}} spell.
+**Success** You take on the target’s appearance, with the same effects of a 3rd-rank [[srd/pf2e/compendium/spells/rank-1/Illusory Disguise|_illusory disguise_]] spell, and the target can’t speak, with the same effects of a 2nd-rank [[srd/pf2e/compendium/spells/rank-2/Silence|_silence_]] spell.
 
-**Failure** As success, but the target also takes 4d6 {{traits 647 "mental"}} damage from the transformation.
+**Failure** As success, but the target also takes 4d6 [[srd/pf2e/compendium/rules-elements/traits/player-core/Mental|mental]] damage from the transformation.
 
 **Critical Failure** As success, but the target also takes 8d6 mental damage from the transformation.
 

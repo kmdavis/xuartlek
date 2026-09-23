@@ -67,31 +67,52 @@ Trained in [[srd/pf2e/compendium/rules-elements/skills/Occultism|Occultism]]
 
 You gain these features as Bard. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, bard spellcasting, initial proficiencies, spell repertoire, composition spells, muse |
+| 2 | Bard feat, skill feat |
+| 3 | 2nd-rank spells, general feat, reflex expertise, signature spells, skill increase |
+| 4 | Bard feat, skill feat |
+| 5 | 3rd-rank spells, attribute boosts, ancestry feat, skill increase |
+| 6 | Bard feat, skill feat |
+| 7 | 4th-rank spells, expert spellcaster, general feat, skill increase |
+| 8 | Bard feat, skill feat |
+| 9 | 5th-rank spells, ancestry feat, fortitude expertise, performer’s heart, skill increase |
+| 10 | Attribute boosts, bard feat, skill feat |
+| 11 | 6th-rank spells, bard weapon expertise, general feat, skill increase, perception mastery |
+| 12 | Bard feat, skill feat |
+| 13 | 7th-rank spells, ancestry feat, light armor expertise, skill increase, weapon specialization |
+| 14 | Bard feat, skill feat |
+| 15 | 8th-rank spells, attribute boosts, general feat, master spellcaster, skill increase |
+| 16 | Bard feat, skill feat |
+| 17 | 9th-rank spells, ancestry feat, greater performer’s heart, skill increase |
+| 18 | Bard feat, skill feat |
+| 19 | General feat, legendary spellcaster, magnum opus, skill increase |
+| 20 | Attribute boosts, bard feat, skill feat |
 
-1Ancestry and background, attribute boosts, bard spellcasting, initial proficiencies, spell repertoire, composition spells, muse
-2Bard feat, skill feat
-32nd-rank spells, general feat, reflex expertise, signature spells, skill increase
-4Bard feat, skill feat
-53rd-rank spells, attribute boosts, ancestry feat, skill increase
-6Bard feat, skill feat
-74th-rank spells, expert spellcaster, general feat, skill increase
-8Bard feat, skill feat
-95th-rank spells, ancestry feat, fortitude expertise, performer’s heart, skill increase
-10Attribute boosts, bard feat, skill feat
-116th-rank spells, bard weapon expertise, general feat, skill increase, perception mastery
-12Bard feat, skill feat
-137th-rank spells, ancestry feat, light armor expertise, skill increase, weapon specialization
-14Bard feat, skill feat
-158th-rank spells, attribute boosts, general feat, master spellcaster, skill increase
-16Bard feat, skill feat
-179th-rank spells, ancestry feat, greater performer’s heart, skill increase
-18Bard feat, skill feat
-19General feat, legendary spellcaster, magnum opus, skill increase
-20Attribute boosts, bard feat, skill feat
-
-Your LevelCantrips1st2nd3rd4th5th6th7th8th9th10th152—————————253—————————3532————————4533————————55332———————65333———————753332——————853333——————9533332—————10533333—————115333332————125333333————1353333332———1453333333———15533333332——16533333333——175333333332—185333333333—1953333333331*2053333333331* * The magnum opus class feature gives you a 10th-rank spell slot that works a bit differently from other spell slots.
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 5 | 2 | — | — | — | — | — | — | — | — | — |
+| 2 | 5 | 3 | — | — | — | — | — | — | — | — | — |
+| 3 | 5 | 3 | 2 | — | — | — | — | — | — | — | — |
+| 4 | 5 | 3 | 3 | — | — | — | — | — | — | — | — |
+| 5 | 5 | 3 | 3 | 2 | — | — | — | — | — | — | — |
+| 6 | 5 | 3 | 3 | 3 | — | — | — | — | — | — | — |
+| 7 | 5 | 3 | 3 | 3 | 2 | — | — | — | — | — | — |
+| 8 | 5 | 3 | 3 | 3 | 3 | — | — | — | — | — | — |
+| 9 | 5 | 3 | 3 | 3 | 3 | 2 | — | — | — | — | — |
+| 10 | 5 | 3 | 3 | 3 | 3 | 3 | — | — | — | — | — |
+| 11 | 5 | 3 | 3 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 12 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | — | — | — | — |
+| 13 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — | — | — |
+| 14 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — | — | — |
+| 15 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — | — |
+| 16 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — | — |
+| 17 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — |
+| 18 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — |
+| 19 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1* |
+| 20 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1* |
+| * The magnum opus class feature gives you a 10th-rank spell slot that works a bit differently from other spell slots. | | | | | | | | | | | |
 
 | | |
 | --- | --- |

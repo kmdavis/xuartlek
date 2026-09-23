@@ -27,7 +27,7 @@ You assault the target's faith, riddling the creature with doubt and mental turm
 
 **Success** The target takes half damage.
 
-**Failure** The target takes full damage; if the target can cast divine spells, it's {{conditions 37 "stupefied 1"}} for 1 round.
+**Failure** The target takes full damage; if the target can cast divine spells, it's stupefied 1 for 1 round.
 
 **Critical Failure** The target takes double damage, is stupefied 1 for 1 round, and can't cast divine spells for 1 round.
 

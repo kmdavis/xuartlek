@@ -26,11 +26,11 @@ You invoke an ancient wraith to appear and fight by your side. This specter may 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature kneels, dropping {{conditions 88 "prone"}} as a free action.
+**Success** The creature kneels, dropping [[srd/pf2e/compendium/rules-elements/Conditions#Prone|prone]] as a free action.
 
-**Failure** As success, and the creature can’t {{actions 2303 "Stand"}} for the duration of the spell.
+**Failure** As success, and the creature can’t [[srd/pf2e/compendium/rules-elements/actions/player-core#Stand|Stand]] for the duration of the spell.
 
-**Critical Failure** As failure, and the creature also bows its head, becoming {{conditions 65 "dazzled"}} for the duration of the spell.
+**Critical Failure** As failure, and the creature also bows its head, becoming [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] for the duration of the spell.
 
 **Depart** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Emotion|emotion]], mental) _Listen and Weep_ The specter speaks, and though its words have no meaning, they convey a terrible tragedy. All living enemies that have both eyes and blood (or a reasonable equivalent) within a 30-foot emanation begin to weep tears of blood. They take 4d6 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent bleed damage]] with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Fortitude save. On a failure, a creature is also [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled|dazzled]] for as long as they take the persistent bleed damage.
 

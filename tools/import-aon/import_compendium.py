@@ -516,6 +516,60 @@ def synthetic(d: dict, parents: dict[str, str]) -> str | None:
 # The label may itself contain brackets: AoN embeds literal action tokens
 # such as "[free-action]" inside link labels.
 
+# AoN leaves two kinds of unrendered markup in its markdown that the generic
+# tag stripper below turns into mush.
+#
+# HTML tables: "<table><tr><td>Beak</td><td>1d6 P</td>..." loses every cell
+# boundary and comes out as "Beak1d6 P", one unreadable line per row. The
+# awakened animal attack table is eleven rows of that.
+#
+# Template markers: '{{traits 602 "Finesse"}}' is AoN's own macro for a link it
+# did not expand. Printed raw it is noise; the label inside it is the content.
+HTML_TABLE = re.compile(r"<table[^>]*>(.*?)</table>", re.S | re.I)
+TABLE_ROW = re.compile(r"<tr[^>]*>(.*?)</tr>", re.S | re.I)
+TABLE_CELL = re.compile(r"<(t[dh])[^>]*>(.*?)</\1>", re.S | re.I)
+TEMPLATE = re.compile(r'\{\{\s*(\w+)\s+(\d+)\s+"([^"]*)"\s*\}\}')
+
+
+def expand_templates(text: str) -> str:
+    """'{{traits 602 "Finesse"}}' -> a link to the trait, or just its label."""
+    def repl(m: re.Match) -> str:
+        db, raw_id, label = m.group(1), m.group(2), m.group(3)
+        if LINKS is not None:
+            # The macro names an AoN database in lowercase plural, which is the
+            # same key the bare-link map uses once capitalised.
+            target = LINKS.lookup(db.capitalize(), int(raw_id))
+            if target:
+                return f"[[{target}|{label}]]"
+        return label
+    return TEMPLATE.sub(repl, text)
+
+
+def htmltables_to_markdown(text: str) -> str:
+    """Convert AoN's HTML tables to markdown so the cells survive stripping."""
+    def one(m: re.Match) -> str:
+        rows = []
+        for rm in TABLE_ROW.finditer(m.group(1)):
+            cells = [
+                re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", c.group(2))).strip()
+                # An unescaped pipe would split the cell it sits in.
+                .replace("|", r"\|")
+                for c in TABLE_CELL.finditer(rm.group(1))
+            ]
+            if cells:
+                rows.append(cells)
+        if not rows:
+            return ""
+        width = max(len(r) for r in rows)
+        rows = [r + [""] * (width - len(r)) for r in rows]
+        head, *body = rows
+        out = ["| " + " | ".join(head) + " |",
+               "|" + "|".join([" --- "] * width) + "|"]
+        out += ["| " + " | ".join(r) + " |" for r in body]
+        return "\n\n" + "\n".join(out) + "\n\n"
+    return HTML_TABLE.sub(one, text)
+
+
 # A link whose label is bold -- "[**Troop Defenses**](/url)" or its mirror
 # "**[Troop Defenses](/url)**" -- has to lose the link before field labels are
 # parsed, or the "**" markers get split across the link and strand its tail.
@@ -577,6 +631,12 @@ def strip_markup(text: str, keep_bold: bool = True, already_linked: bool = False
         text,
     )
     text = re.sub(r"<trait[^>]*label=\"([^\"]+)\"[^>]*/?>", r"\1", text)
+    # Templates first: they expand into wikilinks whose alias pipe would split
+    # a table cell, and the cell builder below is what escapes pipes. Doing
+    # this the other way round silently drops every column after the traits.
+    text = expand_templates(text)
+    # Before the blanket tag strip, or the cells are lost.
+    text = htmltables_to_markdown(text)
     text = re.sub(r"</?(?:row|column|traits|spoilers|document|aside|br|hr|title)[^>]*/?>", "\n", text)
     text = re.sub(r"<[^>]+>", "", text)
     # Appended sections carry their own Source line, often citing a legacy book.
@@ -592,6 +652,9 @@ def strip_markup(text: str, keep_bold: bool = True, already_linked: bool = False
         text = re.sub(r"\*\*([^*]+)\*\*", r"\1", text)
     text = text.replace("&amp;", "&").replace("&nbsp;", " ").replace("\u00a0", " ")
     text = re.sub(r"[ \t]+", " ", text)
+    # AoN emits a bare "##  " above some tables. It renders as an empty
+    # heading and adds a phantom entry to the table of contents.
+    text = re.sub(r"^#{1,6}[ \t]*$", "", text, flags=re.M)
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
 

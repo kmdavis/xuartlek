@@ -35,7 +35,11 @@ You can alter XP from one adventure to the next to get a different feel. During 
 
 ## Advancement Speeds
 
- **Advancement Speed****XP to Level Up** Fast800 XP Medium1,000 XP Slow1,200 XP 
+| **Advancement Speed** | **XP to Level Up** |
+| --- | --- |
+| Fast | 800 XP |
+| Medium | 1,000 XP |
+| Slow | 1,200 XP |
 
 #### Story-Based Leveling
 
@@ -289,7 +293,21 @@ Strong walls, such as well-maintained masonry or hewn stone, can't be broken wit
 
 ## Doors, Gates, and Walls
 
- **Door****Climb DC****Hardness, HP (BT)** Wood2010, 40 (20) Stone3014, 56 (28) Reinforced wood1515, 60 (30) Iron3018, 72 (36) **Wall****Climb DC****Hardness, HP (BT)** Crumbling masonry1510, 40 (20) Wooden slats1510, 40 (20) Masonry2014, 56 (28) Hewn stone3014, 56 (28) Iron4018, 72 (36) **Portcullis****Climb DC****Hardness, HP (BT)** Wood1010, 40 (20) Iron1018, 72 (36)
+| **Door** | **Climb DC** | **Hardness, HP (BT)** |
+| --- | --- | --- |
+| Wood | 20 | 10, 40 (20) |
+| Stone | 30 | 14, 56 (28) |
+| Reinforced wood | 15 | 15, 60 (30) |
+| Iron | 30 | 18, 72 (36) |
+| **Wall** | **Climb DC** | **Hardness, HP (BT)** |
+| Crumbling masonry | 15 | 10, 40 (20) |
+| Wooden slats | 15 | 10, 40 (20) |
+| Masonry | 20 | 14, 56 (28) |
+| Hewn stone | 30 | 14, 56 (28) |
+| Iron | 40 | 18, 72 (36) |
+| **Portcullis** | **Climb DC** | **Hardness, HP (BT)** |
+| Wood | 10 | 10, 40 (20) |
+| Iron | 10 | 18, 72 (36) |
 
 *Source: GM Core p. 92*
 
@@ -391,7 +409,13 @@ Structures that can be opened—such as doors, gates, and windows—can be Force
 
 ## Forcing Open
 
- **Structure****Force Open DC** Stuck door or window15 Exceptionally stuck20 Lift wooden portcullis20 Lift iron portcullis30 Bend metal bars30
+| **Structure** | **Force Open DC** |
+| --- | --- |
+| Stuck door or window | 15 |
+| Exceptionally stuck | 20 |
+| Lift wooden portcullis | 20 |
+| Lift iron portcullis | 30 |
+| Bend metal bars | 30 |
 
 *Source: GM Core p. 92*
 

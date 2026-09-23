@@ -59,9 +59,9 @@ Your eidolon's attacks are corrupted by the Outer Rifts and imbued with pure mal
 
 **Success** The target can't use reactions.
 
-**Failure** The target is {{conditions 92 "slowed"}} 1 and can't use reactions.
+**Failure** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed]] 1 and can't use reactions.
 
-**Critical Failure** As failure, and the target is also {{conditions 63 "confused"}} for 1 round. The confusion can't be extended, but the other effects can.
+**Critical Failure** As failure, and the target is also [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]] for 1 round. The confusion can't be extended, but the other effects can.
 
 ### Blasphemous Decree
 

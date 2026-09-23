@@ -77,29 +77,28 @@ Trained in [[srd/pf2e/compendium/rules-elements/skills/Crafting|Crafting]]
 
 You gain these features as Runesmith. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
-
-1Ancestry and background, attribute boosts, initial proficiencies, runes, runic repertoire, Shield Block, runesmith feat
-2Runesmith feat, runic crafter, skill feat
-3General feat, skill increase
-4Runesmith feat, skill feat
-5Ancestry feat, attribute boosts, skill increase, weapon expertise
-6Runesmith feat, skill feat
-7Expert runes, general feat, reflex expertise, runic optimization, skill increase
-8Runesmith feat, skill feat
-9Ancestry feat, assured runic crafter, skill increase
-10Attribute boosts, runesmith feat, skill feat
-11General feat, forged endurance, skill increase
-12Runesmith feat, skill feat
-13Ancestry feat, medium armor expertise, perception expertise, skill increase, weapon mastery
-14Runesmith feat, skill feat
-15Attribute boosts, general feat, greater runic optimization, masterful runes, skill increase
-16Runesmith feat, skill feat
-17Ancestry feat, skill increase
-18Runesmith feat, skill feat
-19General feat, legendary runes, medium armor mastery, skill increase
-20Attribute boosts, runesmith feat, skill feat
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, runes, runic repertoire, Shield Block, runesmith feat |
+| 2 | Runesmith feat, runic crafter, skill feat |
+| 3 | General feat, skill increase |
+| 4 | Runesmith feat, skill feat |
+| 5 | Ancestry feat, attribute boosts, skill increase, weapon expertise |
+| 6 | Runesmith feat, skill feat |
+| 7 | Expert runes, general feat, reflex expertise, runic optimization, skill increase |
+| 8 | Runesmith feat, skill feat |
+| 9 | Ancestry feat, assured runic crafter, skill increase |
+| 10 | Attribute boosts, runesmith feat, skill feat |
+| 11 | General feat, forged endurance, skill increase |
+| 12 | Runesmith feat, skill feat |
+| 13 | Ancestry feat, medium armor expertise, perception expertise, skill increase, weapon mastery |
+| 14 | Runesmith feat, skill feat |
+| 15 | Attribute boosts, general feat, greater runic optimization, masterful runes, skill increase |
+| 16 | Runesmith feat, skill feat |
+| 17 | Ancestry feat, skill increase |
+| 18 | Runesmith feat, skill feat |
+| 19 | General feat, legendary runes, medium armor mastery, skill increase |
+| 20 | Attribute boosts, runesmith feat, skill feat |
 
 | | |
 | --- | --- |
@@ -145,7 +144,28 @@ The collection of runes that you know is called your runic repertoire. At 1st le
 
 ## Runesmith Runic Repertoire
 
-Your LevelRunic RepertoireMax Etched Runes1422423424425636637638639841084118412841310514105151051610517126181261912620126
+| Your Level | Runic Repertoire | Max Etched Runes |
+| --- | --- | --- |
+| 1 | 4 | 2 |
+| 2 | 4 | 2 |
+| 3 | 4 | 2 |
+| 4 | 4 | 2 |
+| 5 | 6 | 3 |
+| 6 | 6 | 3 |
+| 7 | 6 | 3 |
+| 8 | 6 | 3 |
+| 9 | 8 | 4 |
+| 10 | 8 | 4 |
+| 11 | 8 | 4 |
+| 12 | 8 | 4 |
+| 13 | 10 | 5 |
+| 14 | 10 | 5 |
+| 15 | 10 | 5 |
+| 16 | 10 | 5 |
+| 17 | 12 | 6 |
+| 18 | 12 | 6 |
+| 19 | 12 | 6 |
+| 20 | 12 | 6 |
 
 | | |
 | --- | --- |

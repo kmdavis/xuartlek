@@ -27,7 +27,7 @@ The origins of the notorious _Dullahan Codex_ are shrouded in mystery. Some lege
 
 **Success** The codex fuses to you.
 
-**Failure** The codex fuses to you, and you become {{conditions 9 "doomed 1"}}.
+**Failure** The codex fuses to you, and you become doomed 1.
 
 **Critical Failure** As failure, but you're doomed 2.
 

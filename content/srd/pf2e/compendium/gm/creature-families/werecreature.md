@@ -22,7 +22,15 @@ You can either create a werecreature using the [[srd/pf2e/books/gm-core/chapter-
 
  Increase the creature's level by 1 and change its statistics as follows. 
 It gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Beast|beast]] and [[srd/pf2e/compendium/gm/creature-families/Werecreature|werecreature]] traits.Increase its size by one category if the animal is a larger size than the base humanoid.Increase its AC, attack bonuses, DCs, saving throws, and skill modifiers by 1.Increase its damage with Strikes and other offensive abilities by 1. If the werecreature is limited in how often it can use an ability (such as magical breath), increase the damage by 2 instead.Increase its HP by the amount shown on the table. This HP increase is more than typical in order to compensate for the creature's weakness to [[srd/pf2e/compendium/equipment/materials/Silver|silver]].The creature gains weakness to silver as shown on the table. 
-**Starting Level** **HP Increase** **Weakness to Silver** 4 or lower +25 5 5–7 +35 7 8–14 +50 10 15+ +75 15 
+
+| **Starting Level** | **HP Increase** | **Weakness to Silver** |
+| --- | --- | --- |
+| 4 or lower | +25 | 5 |
+| 5–7 | +35 | 7 |
+| 8–14 | +50 | 10 |
+| 15+ | +75 | 15 |
+
+ 
 
 ### Werecreature Abilities
 

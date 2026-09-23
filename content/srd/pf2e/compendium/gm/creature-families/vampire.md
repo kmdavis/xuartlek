@@ -38,7 +38,15 @@ You can turn an existing living creature into a vampire using the following step
 
  Increase the creature's level by 1 and change its statistics as follows. 
 It gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]] and [[srd/pf2e/compendium/rules-elements/traits/monster-core/Vampire|vampire]]traits, and usually the [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]]trait.Increase AC, attack bonuses, DCs, saving throws, and skill modifiers by 1.Increase its damage with Strikes and other offensive abilities by 1. If an ability can be used only a limited or infrequent number of times (such as a dragon's breath), increase the damage by 2 instead.Reduce its HP by the amount listed on the table.The vampire gains fast healing and resistance to physical damage (except [[srd/pf2e/compendium/equipment/materials/Silver|silver]]) as indicated in the table. These abilities are the reason the vampire has fewer Hit Points. 
-Starting LevelHP DecreaseFast Healing/Resistance 3–4–205 5–7–307 8–14–4010 15+–6015 
+
+| Starting Level | HP Decrease | Fast Healing/Resistance |
+| --- | --- | --- |
+| 3–4 | –20 | 5 |
+| 5–7 | –30 | 7 |
+| 8–14 | –40 | 10 |
+| 15+ | –60 | 15 |
+
+ 
 
 ### Basic Vampire Abilities
 

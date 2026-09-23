@@ -17,9 +17,14 @@ Some strange creatures defy what's expected from others of their kind due to a p
  You can turn an existing, living creature into a mutant cryptid by completing the following steps. Increase the creature's level by 1 and change its statistics as follows.
 Add the [[srd/pf2e/compendium/rules-elements/traits/player-core/Rare|rare]] trait.Increase the creature's AC, attack bonuses, DCs, Perception modifier, saving throws, and skill modifiers by 1.Increase the damage of its Strikes and other offensive abilities by 1. If an ability can be used only a small number of times (such as a dragon's breath), increase the damage by 2 instead.Increase the creature's HP by the amount listed on the table. 
 
-## 
+| Starting Level | HP Increase |
+| --- | --- |
+| 1 or lower | 10 |
+| 2–4 | 15 |
+| 5–19 | 20 |
+| 20+ | 30 |
 
-Starting LevelHP Increase 1 or lower10 2–415 5–1920 20+30
+
 
 ### Mutant Cryptid Abilities
 

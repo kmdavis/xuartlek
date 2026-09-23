@@ -14,187 +14,49 @@ The fury of a wild predator fills you when you Rage, granting you ferocious unar
 
 ## Animal Instincts
 
- 
+| Animal | Attack | Damage | Traits |
+| --- | --- | --- | --- |
+| Ape | Fist | 1d10 B | [[srd/pf2e/compendium/rules-elements/traits/player-core/Grapple\|Grapple]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Bear | Jaws | 1d10 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|Unarmed]] |
+| Claw | 1d6 S | [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile\|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] | |
+| Bull | Horn | 1d10 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Shove\|Shove]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Cat | Jaws | 1d10 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|Unarmed]] |
+| Claw | 1d6 S | [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile\|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] | |
+| Deer | Antler | 1d10 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Grapple\|Grapple]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Frog | Jaws | 1d10 B | [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|Unarmed]] |
+| Tongue | 1d6 B | [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile\|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] | |
+| Shark | Jaws | 1d10 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Grapple\|Grapple]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Snake | Fangs | 1d10 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Grapple\|Grapple]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Wolf | Jaws | 1d10 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip\|Trip]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
 
- Animal
- Attack
- Damage
- Traits
-
-
- Ape
- Fist
- 1d10 B
- {{traits 619 "Grapple"}}, {{traits 719 "unarmed"}}
-
-
- Bear
- Jaws
- 1d10 P
- {{traits 719 "Unarmed"}}
-
-
-
- Claw
- 1d6 S
- {{traits 526 "Agile"}}, {{traits 719 "unarmed"}}
-
-
- Bull
- Horn
- 1d10 P
- {{traits 694 "Shove"}}, {{traits 719 "unarmed"}}
-
-
- Cat
- Jaws
- 1d10 P
- {{traits 719 "Unarmed"}}
-
-
-
- Claw
- 1d6 S
- {{traits 526 "Agile"}}, {{traits 719 "unarmed"}}
-
-
- Deer
- Antler
- 1d10 P
- {{traits 619 "Grapple"}}, {{traits 719 "unarmed"}}
-
-
- Frog
- Jaws
- 1d10 B
- {{traits 719 "Unarmed"}}
-
-
-
- Tongue
- 1d6 B
- {{traits 526 "Agile"}}, {{traits 719 "unarmed"}}
-
-
- Shark
- Jaws
- 1d10 P
- {{traits 619 "Grapple"}}, {{traits 719 "unarmed"}}
-
-
- Snake
- Fangs
- 1d10 P
- {{traits 619 "Grapple"}}, {{traits 719 "unarmed"}}
-
-
- Wolf
- Jaws
- 1d10 P
- {{traits 716 "Trip"}}, {{traits 719 "unarmed"}}
 
 
 ## Howl of the Wild Animal Instinct Options
 
- Animal
- Attack
- Damage
- Traits
+| Animal | Attack | Damage | Traits |
+| --- | --- | --- | --- |
+| Ankylosaurus | Tail | 1d10 B | [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Razing\|Razing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Ant | Mandibles | 1d10 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Grapple\|Grapple]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Bat | Fangs | 1d10 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|Unarmed]] |
+| Wings | 1d4 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Parry\|Parry]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] | |
+| Bird | Beak | 1d10 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|Unarmed]] |
+| Talon | 1d6 S | [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile\|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] | |
+| Brontosaurus | Tail | 1d10 B | [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip\|Trip]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Crab | Big Claw | 1d10 B | [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Razing\|Razing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Claw | 1d4 S | [[srd/pf2e/compendium/rules-elements/traits/player-core/Parry\|Parry]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] | |
+| Crocodile | Jaws | 1d10 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|Unarmed]] |
+| Tail | 1d6 B | [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile\|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] | |
+| Orca | Jaws | 1d8 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Forceful\|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Scorpion | Stinger | 1d6 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Reach\|Reach]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]], [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Venomous\|venomous]] |
+| Pincer | 1d4 S | [[srd/pf2e/compendium/rules-elements/traits/player-core/Parry\|Parry]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] | |
+| Seal | Jaws | 1d10 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Grapple\|Grapple]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Spider | Fangs | 1d8 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Grapple\|Grapple]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]], [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Venomous\|venomous]] |
+| Web | Special* | Range increment 15 feet | |
+| Tyrannosaurus | Jaws | 1d8 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly\|Deadly d12]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Tail | 1d6 B | [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile\|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] | |
+| Wasp | Stinger | 1d4 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Backstabber\|Backstabber]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Deadly\|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]], [[srd/pf2e/compendium/rules-elements/traits/player-core-2/Venomous\|venomous]] |
 
- Ankylosaurus
- Tail
- 1d10 B
- {{traits 784 "Razing"}}, {{traits 719 "unarmed"}}
-
- Ant
- Mandibles
- 1d10 P
- {{traits 619 "Grapple"}}, {{traits 719 "unarmed"}}
-
- Bat
- Fangs
- 1d10 P
- {{traits 719 "Unarmed"}}
-
- Wings
- 1d4 P
- {{traits 667 "Parry"}}, {{traits 719 "unarmed"}}
-
- Bird
- Beak
- 1d10 P
- {{traits 719 "Unarmed"}}
-
- Talon
- 1d6 S
- {{traits 526 "Agile"}}, {{traits 719 "unarmed"}}
-
- Brontosaurus
- Tail
- 1d10 B
- {{traits 716 "Trip"}}, {{traits 719 "unarmed"}}
-
- Crab
- Big Claw
- 1d10 B
- {{traits 784 "Razing"}}, {{traits 719 "unarmed"}}
-
- Claw
- 1d4 S
- {{traits 667 "Parry"}}, {{traits 719 "unarmed"}}
-
- Crocodile
- Jaws
- 1d10 P
- {{traits 719 "Unarmed"}}
-
- Tail
- 1d6 B
- {{traits 526 "Agile"}}, {{traits 719 "unarmed"}}
-
- Orca
- Jaws
- 1d8 P
- {{traits 611 "Forceful"}}, {{traits 719 "unarmed"}}
-
- Scorpion
- Stinger
- 1d6 P
- {{traits 684 "Reach"}}, {{traits 719 "unarmed"}}, {{traits 785 "venomous"}}
-
- Pincer
- 1d4 S
- {{traits 667 "Parry"}}, {{traits 719 "unarmed"}}
-
- Seal
- Jaws
- 1d10 P
- {{traits 619 "Grapple"}}, {{traits 719 "unarmed"}}
-
- Spider
- Fangs
- 1d8 P
- {{traits 619 "Grapple"}}, {{traits 719 "unarmed"}}, {{traits 785 "venomous"}}
-
- Web
- Special*
- {{traits 248 "Range increment 15 feet"}}
-
- Tyrannosaurus
- Jaws
- 1d8 P
- {{traits 570 "Deadly d12"}}, {{traits 719 "unarmed"}}
-
- Tail
- 1d6 B
- {{traits 526 "Agile"}}, {{traits 719 "unarmed"}}
-
- Wasp
- Stinger
- 1d4 P
- {{traits 544 "Backstabber"}}, {{traits 570 "deadly d8"}}, {{traits 719 "unarmed"}}, {{traits 785 "venomous"}}
-
-* The spider’s web attack deals no damage, but the target takes a –10-foot circumstance penalty to its Speeds for 1 round on a hit. If a target is hit a second time by the same character’s web attack while they have this penalty, they’re instead {{conditions 81 "immobilized"}} until they succeed at a check to {{actions 2296 "Escape"}} against your class DC.
+* The spider’s web attack deals no damage, but the target takes a –10-foot circumstance penalty to its Speeds for 1 round on a hit. If a target is hit a second time by the same character’s web attack while they have this penalty, they’re instead [[srd/pf2e/compendium/rules-elements/Conditions#Immobilized|immobilized]] until they succeed at a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] against your class DC.
 
 ### Instinct Ability—Bestial Rage
 

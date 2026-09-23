@@ -17,8 +17,11 @@ Add a resistance to [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire
  **Desert Steps** The creature ignores uneven ground and difficult terrain caused by sand (reducing greater difficult terrain from sand to ordinary difficult terrain).
  **Sand Burst** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") **Requirements** The sandbound creature is burrowed in loose sand or earth; **Effect** The creature [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrows]] twice, then makes a melee Strike. If it was [[srd/pf2e/compendium/rules-elements/Conditions#Undetected|undetected]] at the start of its movement, it remains undetected until after the attack.
 
-## 
-
-**Level****Resistance/Weakness** 3 or lower 3 4–8 5 9–13 10 14+ 15
+| **Level** | **Resistance/Weakness** |
+| --- | --- |
+| 3 or lower | 3 |
+| 4–8 | 5 |
+| 9–13 | 10 |
+| 14+ | 15 |
 
 *Source: Howl of the Wild p. 123*

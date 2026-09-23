@@ -62,31 +62,52 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 You gain these features as Sorcerer. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, bloodline, sorcerer spellcasting, spell repertoire, sorcerous potency |
+| 2 | Skill feat, sorcerer feat |
+| 3 | 2nd-rank spells, general feat, signature spells, skill increase |
+| 4 | Skill feat, sorcerer feat |
+| 5 | 3rd-rank spells, attribute boosts, ancestry feat, magical fortitude, skill increase |
+| 6 | Skill feat, sorcerer feat |
+| 7 | 4th-rank spells, expert spellcaster, general feat, skill increase |
+| 8 | Skill feat, sorcerer feat |
+| 9 | 5th-rank spells, ancestry feat, reflex expert, skill increase |
+| 10 | Attribute boosts, skill feat, sorcerer feat |
+| 11 | 6th-rank spells, general feat, perception expert, skill increase, weapon expertise |
+| 12 | Skill feat, sorcerer feat |
+| 13 | 7th-rank spells, ancestry feat, defensive robes, skill increase, weapon specialization |
+| 14 | Skill feat, sorcerer feat |
+| 15 | 8th-rank spells, attribute boosts, general feat, master spellcaster, skill increase |
+| 16 | Skill feat, sorcerer feat |
+| 17 | 9th-rank spells, ancestry feat, majestic will, skill increase |
+| 18 | Skill feat, sorcerer feat |
+| 19 | Bloodline paragon, general feat, legendary spellcaster, skill increase |
+| 20 | Attribute boosts, skill feat, sorcerer feat |
 
-1Ancestry and background, attribute boosts, initial proficiencies, bloodline, sorcerer spellcasting, spell repertoire, sorcerous potency
-2Skill feat, sorcerer feat
-32nd-rank spells, general feat, signature spells, skill increase
-4Skill feat, sorcerer feat
-53rd-rank spells, attribute boosts, ancestry feat, magical fortitude, skill increase
-6Skill feat, sorcerer feat
-74th-rank spells, expert spellcaster, general feat, skill increase
-8Skill feat, sorcerer feat
-95th-rank spells, ancestry feat, reflex expert, skill increase
-10Attribute boosts, skill feat, sorcerer feat
-116th-rank spells, general feat, perception expert, skill increase, weapon expertise
-12Skill feat, sorcerer feat
-137th-rank spells, ancestry feat, defensive robes, skill increase, weapon specialization
-14Skill feat, sorcerer feat
-158th-rank spells, attribute boosts, general feat, master spellcaster, skill increase
-16Skill feat, sorcerer feat
-179th-rank spells, ancestry feat, majestic will, skill increase
-18Skill feat, sorcerer feat
-19Bloodline paragon, general feat, legendary spellcaster, skill increase
-20Attribute boosts, skill feat, sorcerer feat
-
-Your LevelCantrips1st2nd3rd4th5th6th7th8th9th10th153—————————254—————————3543————————4544————————55443———————65444———————754443——————854444——————9544443—————10544444—————115444443————125444444————1354444443———1454444444———15544444443——16544444444——175444444443—185444444444—1954444444441*2054444444441* * The bloodline paragon class feature gives you a 10th-level spell slot that works a bit differently from other spell slots.
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 5 | 3 | — | — | — | — | — | — | — | — | — |
+| 2 | 5 | 4 | — | — | — | — | — | — | — | — | — |
+| 3 | 5 | 4 | 3 | — | — | — | — | — | — | — | — |
+| 4 | 5 | 4 | 4 | — | — | — | — | — | — | — | — |
+| 5 | 5 | 4 | 4 | 3 | — | — | — | — | — | — | — |
+| 6 | 5 | 4 | 4 | 4 | — | — | — | — | — | — | — |
+| 7 | 5 | 4 | 4 | 4 | 3 | — | — | — | — | — | — |
+| 8 | 5 | 4 | 4 | 4 | 4 | — | — | — | — | — | — |
+| 9 | 5 | 4 | 4 | 4 | 4 | 3 | — | — | — | — | — |
+| 10 | 5 | 4 | 4 | 4 | 4 | 4 | — | — | — | — | — |
+| 11 | 5 | 4 | 4 | 4 | 4 | 4 | 3 | — | — | — | — |
+| 12 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | — | — | — | — |
+| 13 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | — | — | — |
+| 14 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | — | — | — |
+| 15 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | — | — |
+| 16 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | — | — |
+| 17 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | — |
+| 18 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | — |
+| 19 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 1* |
+| 20 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 1* |
+| * The bloodline paragon class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | | | | | | | | | | | |
 
 | | |
 | --- | --- |

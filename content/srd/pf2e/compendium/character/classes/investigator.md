@@ -65,29 +65,28 @@ Trained in [[srd/pf2e/compendium/rules-elements/skills/Society|Society]]
 
 You gain these features as Investigator. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
-
-1Ancestry and background, attribute boosts, initial proficiencies, on the case, Devise A Stratagem, methodology, investigator feat, strategic strike 1d6
-2Investigator feat, skill feat, skill increase
-3General feat, keen recollection, skill increase, skillful lesson
-4Investigator feat, skill feat, skill increase
-5Ancestry feat, attribute boosts, skill increase, skillful lesson, strategic strike 2d6, weapon expertise
-6Investigator feat, skill feat, skill increase
-7General feat, skill increase, skillful lesson, vigilant senses, weapon specialization
-8Investigator feat, skill feat, skill increase
-9Ancestry feat, fortitude expertise, investigator expertise, skill increase, skillful lesson, strategic strike 3d6
-10Attribute boosts, investigator feat, skill feat, skill increase
-11Deductive improvisation, dogged will, general feat, skill increase, skillful lesson
-12Investigator feat, skill feat, skill increase
-13Ancestry feat, incredible senses, light armor expertise, skill increase, skillful lesson, strategic strike 4d6, weapon mastery
-14Investigator feat, skill feat, skill increase
-15Attribute boosts, general feat, greater weapon specialization, savvy reflexes, skill increase, skillful lesson
-16Investigator feat, skill feat, skill increase
-17Ancestry feat, greater dogged will, skill increase, skillful lesson, strategic strike 5d6
-18Investigator feat, skill feat, skill increase
-19General feat, light armor mastery, master detective, skill increase, skillful lesson
-20Attribute boosts, investigator feat, skill feat, skill increase
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, on the case, Devise A Stratagem, methodology, investigator feat, strategic strike 1d6 |
+| 2 | Investigator feat, skill feat, skill increase |
+| 3 | General feat, keen recollection, skill increase, skillful lesson |
+| 4 | Investigator feat, skill feat, skill increase |
+| 5 | Ancestry feat, attribute boosts, skill increase, skillful lesson, strategic strike 2d6, weapon expertise |
+| 6 | Investigator feat, skill feat, skill increase |
+| 7 | General feat, skill increase, skillful lesson, vigilant senses, weapon specialization |
+| 8 | Investigator feat, skill feat, skill increase |
+| 9 | Ancestry feat, fortitude expertise, investigator expertise, skill increase, skillful lesson, strategic strike 3d6 |
+| 10 | Attribute boosts, investigator feat, skill feat, skill increase |
+| 11 | Deductive improvisation, dogged will, general feat, skill increase, skillful lesson |
+| 12 | Investigator feat, skill feat, skill increase |
+| 13 | Ancestry feat, incredible senses, light armor expertise, skill increase, skillful lesson, strategic strike 4d6, weapon mastery |
+| 14 | Investigator feat, skill feat, skill increase |
+| 15 | Attribute boosts, general feat, greater weapon specialization, savvy reflexes, skill increase, skillful lesson |
+| 16 | Investigator feat, skill feat, skill increase |
+| 17 | Ancestry feat, greater dogged will, skill increase, skillful lesson, strategic strike 5d6 |
+| 18 | Investigator feat, skill feat, skill increase |
+| 19 | General feat, light armor mastery, master detective, skill increase, skillful lesson |
+| 20 | Attribute boosts, investigator feat, skill feat, skill increase |
 
 | | |
 | --- | --- |

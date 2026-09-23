@@ -182,7 +182,7 @@ You take advantage of an opening from your enemy's fumbled attack. You either ma
 
 You ask a question that charms or needles someone in just the right way. Ask a question of a non-allied creature that you can see. Attempt a Diplomacy check against the creature’s Will DC. The creature is then temporarily immune for 1 hour. 
 
-**Critical Success** The target must directly answer your question. It doesn't have to answer truthfully, but you gain a +4 circumstance bonus to your Perception DC if the creature attempts to {{actions 2389 "Lie"}} to you. Whether it answers truthfully or not, you glean something from its body language, and it is {{conditions 58 "off-guard"}} to the Strike you make using Devise a Stratagem against it before the end of your turn.
+**Critical Success** The target must directly answer your question. It doesn't have to answer truthfully, but you gain a +4 circumstance bonus to your Perception DC if the creature attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]] to you. Whether it answers truthfully or not, you glean something from its body language, and it is [[srd/pf2e/compendium/rules-elements/Conditions#Off-Guard|off-guard]] to the Strike you make using Devise a Stratagem against it before the end of your turn.
 
 **Success** As critical success, but the circumstance bonus to your Perception DC is +2.
 

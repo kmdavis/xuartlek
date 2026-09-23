@@ -66,32 +66,52 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 You gain these features as Psychic. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, psychic spellcasting, spell repertoire, psi cantrips and psi amps, Unleash Psyche, subconscious mind, conscious mind |
+| 2 | Psychic feat, skill feat |
+| 3 | 2nd-rank spells, general feat, signature spells, skill increase |
+| 4 | Psychic feat, skill feat |
+| 5 | 3rd-rank spells, attribute boosts, ancestry feat, clarity of focus, precognitive reflexes, skill increase |
+| 6 | Psychic feat, skill feat |
+| 7 | 4th-rank spells, expert spellcaster, general feat, skill increase |
+| 8 | Psychic feat, skill feat |
+| 9 | 5th-rank spells, ancestry feat, fortitude expertise, skill increase |
+| 10 | Attribute boosts, psychic feat, skill feat |
+| 11 | 6th-rank spells, extrasensory perception, general feat, skill increase, walls of will, weapon expertise |
+| 12 | Psychic feat, skill feat |
+| 13 | 7th-rank spells, ancestry feat, personal barrier, skill increase, weapon specialization |
+| 14 | Psychic feat, skill feat |
+| 15 | 8th-rank spells, attribute boosts, general feat, master spellcaster, skill increase |
+| 16 | Psychic feat, skill feat |
+| 17 | 9th-rank spells, ancestry feat, fortress of will, skill increase |
+| 18 | Psychic feat, skill feat |
+| 19 | General feat, infinite mind, legendary spellcaster, skill increase |
+| 20 | Attribute boosts, psychic feat, skill feat |
 
-1Ancestry and background, attribute boosts, initial proficiencies, psychic spellcasting, spell repertoire, psi cantrips and psi amps, Unleash Psyche, subconscious mind, conscious mind
-2Psychic feat, skill feat
-32nd-rank spells, general feat, signature spells, skill increase
-4Psychic feat, skill feat
-53rd-rank spells, attribute boosts, ancestry feat, clarity of focus, precognitive reflexes, skill increase
-6Psychic feat, skill feat
-74th-rank spells, expert spellcaster, general feat, skill increase
-8Psychic feat, skill feat
-95th-rank spells, ancestry feat, fortitude expertise, skill increase
-10Attribute boosts, psychic feat, skill feat
-116th-rank spells, extrasensory perception, general feat, skill increase, walls of will, weapon expertise
-12Psychic feat, skill feat
-137th-rank spells, ancestry feat, personal barrier, skill increase, weapon specialization
-14Psychic feat, skill feat
-158th-rank spells, attribute boosts, general feat, master spellcaster, skill increase
-16Psychic feat, skill feat
-179th-rank spells, ancestry feat, fortress of will, skill increase
-18Psychic feat, skill feat
-19General feat, infinite mind, legendary spellcaster, skill increase
-20Attribute boosts, psychic feat, skill feat
-
-Your LevelCantrips1st2nd3rd4th5th6th7th8th9th10th23*2—————————33*21————————43*22————————53*221———————63*222———————73*2221——————83*2222——————93*22221—————103*22222—————113*222221————123*222222————133*2222221———143*2222222———153*22222221——163*22222222——173*222222221—183*222222222—193*2222222221†203*2222222221†13*1————————— * Your conscious mind gives you three additional cantrips with amps. One cantrip is unique to your conscious mind.
- † The infinite mind class feature gives you a 10th-rank spell slot that works a bit differently from other spell slots.
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | 3* | 2 | — | — | — | — | — | — | — | — | — |
+| 3 | 3* | 2 | 1 | — | — | — | — | — | — | — | — |
+| 4 | 3* | 2 | 2 | — | — | — | — | — | — | — | — |
+| 5 | 3* | 2 | 2 | 1 | — | — | — | — | — | — | — |
+| 6 | 3* | 2 | 2 | 2 | — | — | — | — | — | — | — |
+| 7 | 3* | 2 | 2 | 2 | 1 | — | — | — | — | — | — |
+| 8 | 3* | 2 | 2 | 2 | 2 | — | — | — | — | — | — |
+| 9 | 3* | 2 | 2 | 2 | 2 | 1 | — | — | — | — | — |
+| 10 | 3* | 2 | 2 | 2 | 2 | 2 | — | — | — | — | — |
+| 11 | 3* | 2 | 2 | 2 | 2 | 2 | 1 | — | — | — | — |
+| 12 | 3* | 2 | 2 | 2 | 2 | 2 | 2 | — | — | — | — |
+| 13 | 3* | 2 | 2 | 2 | 2 | 2 | 2 | 1 | — | — | — |
+| 14 | 3* | 2 | 2 | 2 | 2 | 2 | 2 | 2 | — | — | — |
+| 15 | 3* | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | — | — |
+| 16 | 3* | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | — | — |
+| 17 | 3* | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | — |
+| 18 | 3* | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | — |
+| 19 | 3* | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1† |
+| 20 | 3* | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1† |
+| 1 | 3* | 1 | — | — | — | — | — | — | — | — | — |
+| * Your conscious mind gives you three additional cantrips with amps. One cantrip is unique to your conscious mind. † The infinite mind class feature gives you a 10th-rank spell slot that works a bit differently from other spell slots. | | | | | | | | | | | |
 
 | | |
 | --- | --- |

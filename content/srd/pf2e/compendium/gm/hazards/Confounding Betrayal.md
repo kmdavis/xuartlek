@@ -41,7 +41,7 @@ DC 28 [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] (expert)
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is {{conditions 63 "confused"}} for 1 round.
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Confused|confused]] for 1 round.
 
 **Critical Failure** The creature is confused for 1 minute.
 

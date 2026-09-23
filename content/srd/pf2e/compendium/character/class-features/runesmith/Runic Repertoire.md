@@ -19,6 +19,27 @@ The collection of runes that you know is called your runic repertoire. At 1st le
 
 ## Runesmith Runic Repertoire
 
-Your LevelRunic RepertoireMax Etched Runes1422423424425636637638639841084118412841310514105151051610517126181261912620126
+| Your Level | Runic Repertoire | Max Etched Runes |
+| --- | --- | --- |
+| 1 | 4 | 2 |
+| 2 | 4 | 2 |
+| 3 | 4 | 2 |
+| 4 | 4 | 2 |
+| 5 | 6 | 3 |
+| 6 | 6 | 3 |
+| 7 | 6 | 3 |
+| 8 | 6 | 3 |
+| 9 | 8 | 4 |
+| 10 | 8 | 4 |
+| 11 | 8 | 4 |
+| 12 | 8 | 4 |
+| 13 | 10 | 5 |
+| 14 | 10 | 5 |
+| 15 | 10 | 5 |
+| 16 | 10 | 5 |
+| 17 | 12 | 6 |
+| 18 | 12 | 6 |
+| 19 | 12 | 6 |
+| 20 | 12 | 6 |
 
 *Source: Impossible Magic p. 43*

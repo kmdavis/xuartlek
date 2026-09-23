@@ -19,7 +19,17 @@ Mined from rocks that fell from the heavens, adamantine is one of the hardest me
 
 ## Adamantine Items
 
- **Adamantine Items****Hardness****HP****BT** **Thin Items** Standard-grade104020 High-grade135226 **Items** Standard-grade145628 High-grade176834 **Structure** Standard-grade2811256 High-grade3413668 
+| **Adamantine Items** | **Hardness** | **HP** | **BT** |
+| --- | --- | --- | --- |
+| **Thin Items** | | | |
+| Standard-grade | 10 | 40 | 20 |
+| High-grade | 13 | 52 | 26 |
+| **Items** | | | |
+| Standard-grade | 14 | 56 | 28 |
+| High-grade | 17 | 68 | 34 |
+| **Structure** | | | |
+| Standard-grade | 28 | 112 | 56 |
+| High-grade | 34 | 136 | 68 |
 
 #### Material Uses
 

@@ -27,7 +27,7 @@ Plants in the area grow rapidly, taking on carnivorous characteristics as they s
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is grabbed until the beginning of its next turn or it {{actions 2296 "Escapes"}}.
+**Success** The creature is grabbed until the beginning of its next turn or it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]].
 
 **Failure** The creature is grabbed until the spell ends or it Escapes.
 

@@ -59,29 +59,28 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 You gain these features as Guardian. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
-
-1Ancestry and background, attribute boosts, initial proficiencies, guardian feat, guardian’s armor, Shield Block, Taunt, guardian’s techniques
-2Guardian feat, skill feat
-3General feat, skill increase, tough to kill
-4Guardian feat, skill feat
-5Ancestry feat, attribute boosts, skill increase, unbreakable expertise, weapon expertise
-6Guardian feat, skill feat
-7General feat, reaction time, reflex expertise, skill increase
-8Guardian feat, skill feat
-9Ancestry feat, battle hardened, guardian expertise, skill increase
-10Attribute boosts, guardian feat, skill feat
-11General feat, skill increase, unbreakable mastery, weapon specialization
-12Guardian feat, skill feat
-13Ancestry feat, skill increase, weapon mastery
-14Guardian feat, skill feat
-15Attribute boosts, general feat, skill increase, unbreakable legend
-16Guardian feat, skill feat
-17Ancestry feat, greater weapon specialization, skill increase, unyielding resolve
-18Guardian feat, skill feat
-19General feat, guardian mastery, skill increase
-20Attribute boosts, guardian feat, skill feat
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, guardian feat, guardian’s armor, Shield Block, Taunt, guardian’s techniques |
+| 2 | Guardian feat, skill feat |
+| 3 | General feat, skill increase, tough to kill |
+| 4 | Guardian feat, skill feat |
+| 5 | Ancestry feat, attribute boosts, skill increase, unbreakable expertise, weapon expertise |
+| 6 | Guardian feat, skill feat |
+| 7 | General feat, reaction time, reflex expertise, skill increase |
+| 8 | Guardian feat, skill feat |
+| 9 | Ancestry feat, battle hardened, guardian expertise, skill increase |
+| 10 | Attribute boosts, guardian feat, skill feat |
+| 11 | General feat, skill increase, unbreakable mastery, weapon specialization |
+| 12 | Guardian feat, skill feat |
+| 13 | Ancestry feat, skill increase, weapon mastery |
+| 14 | Guardian feat, skill feat |
+| 15 | Attribute boosts, general feat, skill increase, unbreakable legend |
+| 16 | Guardian feat, skill feat |
+| 17 | Ancestry feat, greater weapon specialization, skill increase, unyielding resolve |
+| 18 | Guardian feat, skill feat |
+| 19 | General feat, guardian mastery, skill increase |
+| 20 | Attribute boosts, guardian feat, skill feat |
 
 | | |
 | --- | --- |

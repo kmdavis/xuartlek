@@ -15,6 +15,11 @@ Increase the creature’s level by 1; if the creature is level –1 or 0, instea
 
 ## Elite Adjustment
 
- **Starting Level****HP Increase** 1 or lower10 2-415 5-1920 20+30
+| **Starting Level** | **HP Increase** |
+| --- | --- |
+| 1 or lower | 10 |
+| 2-4 | 15 |
+| 5-19 | 20 |
+| 20+ | 30 |
 
 *Source: Monster Core p. 6*

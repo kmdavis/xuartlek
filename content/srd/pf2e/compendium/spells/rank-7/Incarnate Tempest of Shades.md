@@ -26,7 +26,7 @@ You channel the forces of undeath to briefly call forth an amalgam of the vengef
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is {{conditions 68 "drained 1"}}.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained 1]].
 
 **Failure** The creature is drained 2.
 
@@ -36,10 +36,10 @@ You channel the forces of undeath to briefly call forth an amalgam of the vengef
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is {{conditions 76 "frightened 1"}}.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Frightened|frightened 1]].
 
 **Failure** The creature is frightened 3.
 
-**Critical Failure** The creature is frightened 3. It’s also {{conditions 74 "fleeing"}} for 1 round or until it’s no longer frightened, whichever comes first.
+**Critical Failure** The creature is frightened 3. It’s also [[srd/pf2e/compendium/rules-elements/Conditions#Fleeing|fleeing]] for 1 round or until it’s no longer frightened, whichever comes first.
 
 *Source: Impossible Magic p. 148*

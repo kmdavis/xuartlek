@@ -20,12 +20,12 @@ socialImage: og-image.png
 
 Dragonhide shields are each immune to one damage type based on the tradition associated with the dragon. 
 
-## 
-
-Dragon Tradition
-DamageArcaneForceDivineSpirit
-OccultMental
-PrimalPoison
+| Dragon Tradition | Damage |
+| --- | --- |
+| Arcane | Force |
+| Divine | Spirit |
+| Occult | Mental |
+| Primal | Poison |
 
 ### Dragonhide Buckler (Standard-Grade)
 

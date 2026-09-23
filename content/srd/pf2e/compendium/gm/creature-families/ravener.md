@@ -38,7 +38,13 @@ Any [[srd/pf2e/compendium/rules-elements/traits/player-core/Dragon|dragon]] of a
 
  Increase the dragon's level by 2 and change their statistics as follows. 
 They gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/Undead|undead]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/Unholy|unholy]] traits, as well as the [[srd/pf2e/compendium/rules-elements/Languages#Necril|Necril]] language.Increase their AC, attack bonuses, DCs, saving throws, and skill modifiers by 2.They gain weakness to [[srd/pf2e/compendium/rules-elements/traits/player-core/Holy|holy]] damage and more HP (see below).The ravener's melee strikes deal an additional 2d6 void damage, and their damaging breath abilities deal an additional 4d6 void damage. 
-**Starting Level****HP Increase****Weakness** 13–205015 21 or greater8020 
+
+| **Starting Level** | **HP Increase** | **Weakness** |
+| --- | --- | --- |
+| 13–20 | 50 | 15 |
+| 21 or greater | 80 | 20 |
+
+ 
 
 ### Ravener Abilities
 

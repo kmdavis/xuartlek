@@ -71,29 +71,28 @@ Trained in [[srd/pf2e/compendium/rules-elements/skills/Nature|Nature]]
 
 You gain these features as Ranger. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
-
-1Ancestry and background, attribute boosts, initial proficiencies, hunt prey, hunter’s edge, ranger feat
-2Ranger feat, skill feat
-3General feat, will expertise, skill increase
-4Ranger feat, skill feat
-5Attribute boosts, ancestry feat, ranger weapon expertise, skill increase, trackless journey
-6Ranger feat, skill feat
-7General feat, natural reflexes, skill increase, perception mastery, weapon specialization
-8Ranger feat, skill feat
-9Ancestry feat, nature’s edge, ranger expertise, skill increase
-10Attribute boosts, ranger feat, skill feat
-11General feat, warden’s endurance, medium armor expertise, skill increase, unimpeded journey
-12Ranger feat, skill feat
-13Ancestry feat, skill increase, martial weapon mastery
-14Ranger feat, skill feat
-15Attribute boosts, general feat, greater natural reflexes, greater weapon specialization, perception legend, skill increase
-16Ranger feat, skill feat
-17Ancestry feat, masterful hunter, skill increase
-18Ranger feat, skill feat
-19General feat, medium armor mastery, skill increase, swift prey
-20Attribute boosts, ranger feat, skill feat
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, hunt prey, hunter’s edge, ranger feat |
+| 2 | Ranger feat, skill feat |
+| 3 | General feat, will expertise, skill increase |
+| 4 | Ranger feat, skill feat |
+| 5 | Attribute boosts, ancestry feat, ranger weapon expertise, skill increase, trackless journey |
+| 6 | Ranger feat, skill feat |
+| 7 | General feat, natural reflexes, skill increase, perception mastery, weapon specialization |
+| 8 | Ranger feat, skill feat |
+| 9 | Ancestry feat, nature’s edge, ranger expertise, skill increase |
+| 10 | Attribute boosts, ranger feat, skill feat |
+| 11 | General feat, warden’s endurance, medium armor expertise, skill increase, unimpeded journey |
+| 12 | Ranger feat, skill feat |
+| 13 | Ancestry feat, skill increase, martial weapon mastery |
+| 14 | Ranger feat, skill feat |
+| 15 | Attribute boosts, general feat, greater natural reflexes, greater weapon specialization, perception legend, skill increase |
+| 16 | Ranger feat, skill feat |
+| 17 | Ancestry feat, masterful hunter, skill increase |
+| 18 | Ranger feat, skill feat |
+| 19 | General feat, medium armor mastery, skill increase, swift prey |
+| 20 | Attribute boosts, ranger feat, skill feat |
 
 | | |
 | --- | --- |

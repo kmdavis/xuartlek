@@ -34,53 +34,13 @@ To remember useful information on a topic, you can attempt to Recall Knowledge. 
 
 ### Item Bonuses for Recall Knowledge
 
-Item
-Bonus
-Level
-Category
-Consumable
-Note
-
-Mnemonic Feather
-+1
-3
-Held Items
-No
-Attempts to Recall Knowledge about a topic contained within the book that the feather is placed in
-
-[[srd/pf2e/compendium/equipment/adventuring-gear/Hoax-Hunter's Kit|Hoax-Hunter's Kit]]
-+1
-3
-Adventuring Gear
-No
-Recall Knowledge about a creature you are studying
-
-Echo Token
-+1
-1
-Other Consumables
-Yes
-A specific type of Lore
-
-Krasovnatype
-+1
-4
-Gadgets
-Yes
-Recall Knowledge check regarding the creature imprinted.
-
-Memory Ribbon
-+2
-4
-Other Consumables
-Yes
-Item bonus to Recall Knowledge
-
-Dream Hunter's Lodge
-+3
-17
-Structures
-No
-the next skill check they make in the next 24 hours to Recall Knowledge about any creature with the dream trait.
+| Item | Bonus | Level | Category | Consumable | Note |
+| --- | --- | --- | --- | --- | --- |
+| Mnemonic Feather | +1 | 3 | Held Items | No | Attempts to Recall Knowledge about a topic contained within the book that the feather is placed in |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Hoax-Hunter's Kit\|Hoax-Hunter's Kit]] | +1 | 3 | Adventuring Gear | No | Recall Knowledge about a creature you are studying |
+| Echo Token | +1 | 1 | Other Consumables | Yes | A specific type of Lore |
+| Krasovnatype | +1 | 4 | Gadgets | Yes | Recall Knowledge check regarding the creature imprinted. |
+| Memory Ribbon | +2 | 4 | Other Consumables | Yes | Item bonus to Recall Knowledge |
+| Dream Hunter's Lodge | +3 | 17 | Structures | No | the next skill check they make in the next 24 hours to Recall Knowledge about any creature with the dream trait. |
 
 *Source: Player Core p. 231*

@@ -30,7 +30,7 @@ You release a plague of terrible undead mosquitoes over a massive area that expo
 
 **Critical Success** The creature is unaffected.
 
-**Success** The target is afflicted with necrotic blood at stage 1. It automatically recovers from the disease after 1 round, except that any {{conditions 91 "sickened"}} condition it has remains.
+**Success** The target is afflicted with necrotic blood at stage 1. It automatically recovers from the disease after 1 round, except that any [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] condition it has remains.
 
 **Failure** The target is afflicted with necrotic blood at stage 1.
 

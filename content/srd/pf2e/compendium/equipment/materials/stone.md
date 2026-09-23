@@ -15,7 +15,13 @@ Stone was one of the earliest materials used to create tools, and crafters can s
 
 ## Stone Objects
 
- **Hardness** **HP** **BT** Thin Items 4 16 8 Items 7 24 12 Structures 14 48 24 
+| | **Hardness** | **HP** | **BT** |
+| --- | --- | --- | --- |
+| Thin Items | 4 | 16 | 8 |
+| Items | 7 | 24 | 12 |
+| Structures | 14 | 48 | 24 |
+
+ 
 
 ### Stone Object (Low-Grade)
 

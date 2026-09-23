@@ -17,9 +17,14 @@ A secret society member is an NPC or creature that belongs to a covert organizat
  You can turn an existing creature into a secret society member by completing the following steps. This adjustment is best applied to NPCs and other humanoid creatures rather than beasts or other monsters. Increase the creature's level by 1 and change its statistics as follows. 
 Increase AC, attack bonuses, DCs, the Perception modifier, saving throws, and skill modifiers by 1.Increase [[srd/pf2e/compendium/rules-elements/skills/Deception|Deception]] and [[srd/pf2e/compendium/rules-elements/skills/Society|Society]] to be [[srd/pf2e/books/gm-core/chapter-2-building-games/Building Creatures#Skills|primary skills]] for the creature's new level.Increase either [[srd/pf2e/compendium/rules-elements/skills/Diplomacy|Diplomacy]] or [[srd/pf2e/compendium/rules-elements/skills/Intimidation|Intimidation]] to be a primary skill for the creature's new level, and the other to be a secondary skill.Increase damage with Strikes and other offensive abilities by 1. If an ability can be used only a small number of times (such as a dragon's breath), increase the damage by 2 instead.Increase HP by the amount listed on the table. 
 
-## 
+| Starting Level | HP Increase |
+| --- | --- |
+| 1 or lower | 10 |
+| 2–4 | 15 |
+| 5–19 | 20 |
+| 20+ | 30 |
 
-Starting LevelHP Increase 1 or lower10 2–415 5–1920 20+30
+
 
 ### Secret Society Member Special Abilities
 

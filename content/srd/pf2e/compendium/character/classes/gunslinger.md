@@ -83,29 +83,28 @@ Expert in simple firearms and crossbows
 
 You gain these features as Gunslinger. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
-
-1Ancestry and background, initial proficiencies, gunslinger's way, initial deed, gunslinger feat, slinger’s precision
-2Gunslinger feat, skill feat
-3General feat, skill increase, stubborn
-4Gunslinger feat, skill feat
-5Attribute boosts, ancestry feat, gunslinger weapon mastery, skill increase
-6Gunslinger feat, skill feat
-7General feat, perception mastery, skill increase, weapon specialization
-8Gunslinger feat, skill feat
-9Advanced deed, ancestry feat, gunslinger expertise, skill increase
-10Attribute boosts, gunslinger feat, skill feat
-11Blast dodger, general feat, skill increase
-12Gunslinger feat, skill feat
-13Ancestry feat, gunslinging legend, medium armor expertise, skill increase
-14Gunslinger feat, skill feat
-15Attribute boosts, general feat, greater deed, greater weapon specialization, skill increase
-16Gunslinger feat, skill feat
-17Ancestry feat, lead constitution, shootist's edge, skill increase
-18Gunslinger feat, skill feat
-19General feat, medium armor mastery, perception legend, skill increase
-20Attribute boosts, gunslinger feat, skill feat
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, initial proficiencies, gunslinger's way, initial deed, gunslinger feat, slinger’s precision |
+| 2 | Gunslinger feat, skill feat |
+| 3 | General feat, skill increase, stubborn |
+| 4 | Gunslinger feat, skill feat |
+| 5 | Attribute boosts, ancestry feat, gunslinger weapon mastery, skill increase |
+| 6 | Gunslinger feat, skill feat |
+| 7 | General feat, perception mastery, skill increase, weapon specialization |
+| 8 | Gunslinger feat, skill feat |
+| 9 | Advanced deed, ancestry feat, gunslinger expertise, skill increase |
+| 10 | Attribute boosts, gunslinger feat, skill feat |
+| 11 | Blast dodger, general feat, skill increase |
+| 12 | Gunslinger feat, skill feat |
+| 13 | Ancestry feat, gunslinging legend, medium armor expertise, skill increase |
+| 14 | Gunslinger feat, skill feat |
+| 15 | Attribute boosts, general feat, greater deed, greater weapon specialization, skill increase |
+| 16 | Gunslinger feat, skill feat |
+| 17 | Ancestry feat, lead constitution, shootist's edge, skill increase |
+| 18 | Gunslinger feat, skill feat |
+| 19 | General feat, medium armor mastery, perception legend, skill increase |
+| 20 | Attribute boosts, gunslinger feat, skill feat |
 
 | | |
 | --- | --- |

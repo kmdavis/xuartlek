@@ -18,303 +18,50 @@ Athletics allows you to perform deeds of physical prowess. Most Athletics action
 
 ### Item Bonuses for Athletics
 
-Item
-Bonus
-Level
-Category
-Consumable
-Note
-
-[[srd/pf2e/compendium/equipment/spellhearts/Beastmaster's Sigil|Beastmaster's Sigil]]
-+1
-0
-Spellhearts
-No
-Item bonus to Athletic checks to Trip
-
-[[srd/pf2e/compendium/equipment/worn-items/Magical Medals|Medal of Gorilla’s Might]]
-+1
-3
-Worn Items
-No
-Item bonus to Athletics checks to Climb, Force Open, High Jump, and Long Jump.
-
-[[srd/pf2e/compendium/equipment/adventuring-gear/Crowbar|Crowbar (Levered)]]
-+1
-3
-Adventuring Gear
-No
-to Force Open anything that can be pried open.
-
-Essence Charm
-+1
-4
-Other Worn Items
-No
-Item bonus to a check of the crafter's choice
-
-[[srd/pf2e/compendium/equipment/worn-items/Grippy Gloves|Grippy Gloves]]
-+1
-4
-Other Worn Items
-No
-Item bonus to Athletics Check to Climb, Grapple, and Reposition.
-
-[[srd/pf2e/compendium/equipment/worn-items/Sailor's Collar|Sailor’s Collar]]
-+1
-4
-Worn Items
-No
-Item bonus to Athletics Checks to Climb, Force Open, High Jump, and Long Jump.
-
-Coral Aspect
-+1
-4
-Other Worn Items
-No
-Item bonus to Swim
-
-[[srd/pf2e/compendium/equipment/armor/Mariner's Splint|Mariner's Splint]]
-+1
-5
-Armor
-No
-Athletics checks toClimb or Swim
-
-Trudd's Strength
-+1
-5
-Clan Dagger Filigrees
-No
-Item bonus to Athletics checks
-
-Injigo's Loving Embrace
-+1
-9
-Held Items
-No
-Item bonus to Athletics check to Grapple with the net. 
-
-Kinburi's Sandals of Bounding
-+1
-9
-Other Worn Items
-No
-Item bonus to Athletics checks to High Jump and Long Jump
-
-Dread Ampoule (Greater)
-+1
-11
-Alchemical Bombs
-No
-Item bonus to Athletic checks to Force Open
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Bestial Mutagen|Bestial Mutagen (Lesser)]]
-+1
-1
-Alchemical Elixirs
-Yes
-Item bonus to Athletics checks 
-
-[[srd/pf2e/compendium/equipment/consumables/Bronze Bull Pendant|Bronze Bull Pendant]]
-+1
-2
-Talismans
-Yes
-Athletics to Shove
-
-[[srd/pf2e/compendium/equipment/consumables/Monkey Pin|Monkey Pin]]
-+1
-2
-Talismans
-Yes
-Athletics to Climb
-
-[[srd/pf2e/compendium/equipment/consumables/Savior Spike|Savior Spike]]
-+1
-2
-Talismans
-Yes
-Athletics to Grab an Edge
-
-Energizing Tea
-+1
-4
-Tea
-Yes
-Item bonus to Athletics
-
-Mantis Embrace
-+2
-0
-Other Worn Items
-No
-Athletics checks to Grapple or Shove
-
-Zarothrask's Contract
-+2
-9
-Other Contracts
-No
-Disarm manufactured items and to Grapple
-
-Kinburi's Sandals of Bounding
-+2
-9
-Other Worn Items
-No
-Item bonus to Athletics checks to High Jump and Long Jump when activated
-
-[[srd/pf2e/compendium/equipment/worn-items/Fire-Jump Ring|Fire-Jump Ring]]
-+2
-10
-Other Worn Items
-No
-
-[[srd/pf2e/compendium/equipment/worn-items/Sash of Prowess|Sash of Prowess]]
-+2
-10
-Worn Items
-No
-
-[[srd/pf2e/compendium/equipment/worn-items/Sailor's Collar|Greater Sailor’s Collar]]
-+2
-10
-Worn Items
-No
-Item bonus to Athletics Checks to Climb, Force Open, High Jump, and Long Jump.
-
-Gloves of Precision
-+2
-10
-Worn Items
-No
-Item bonus to Climb
-
-Kinetic Wraps of Strength
-+2
-10
-Worn Items
-No
-Item bonus to Force Open, Reposition, and Shove
-
-Greater Trudd's Strength
-+2
-11
-Clan Dagger Filigrees
-No
-Item bonus to Athletics checks
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
-+2
-11
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-Helm of the Tides
-+2
-11
-Other Worn Items
-No
-Item bonus to Swim
-
-[[srd/pf2e/compendium/equipment/worn-items/Stampede Medallion|Stampede Medallion]]
-+2
-12
-Eidolon Items
-No
-Item bonus to Athletics checks to Shove or Trip.
-
-[[srd/pf2e/compendium/equipment/worn-items/Stampede Medallion|Greater Stampede Medallion]]
-+2
-15
-Eidolon Items
-No
-Item bonus to Athletics checks to Shove or Trip.
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Bestial Mutagen|Bestial Mutagen (Moderate)]]
-+2
-3
-Alchemical Elixirs
-Yes
-Item bonus to Athletics checks 
-
-[[srd/pf2e/compendium/equipment/worn-items/Sash of Prowess|Sash of Prowess (Greater)]]
-+3
-17
-Worn Items
-No
-
-Jaws of the Grogrisant
-+3
-17
-Apex Items
-No
-Item bonus to Perception checks to Athletics
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
-+3
-18
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-Greater Gloves of Precision
-+3
-18
-Worn Items
-No
-Item bonus to Climb
-
-Greater Kinetic Wraps of Strength
-+3
-18
-Worn Items
-No
-Item bonus to Force Open, Reposition, and Shove
-
-[[srd/pf2e/compendium/equipment/apex-items/Titan's Grasp|Titan's Grasp]]
-+3
-18
-Apex Items
-No
-Item bonus to Athletics.
-
-[[srd/pf2e/compendium/equipment/worn-items/Stampede Medallion|Major Stampede Medallion]]
-+3
-18
-Eidolon Items
-No
-Item bonus to Athletics checks to Shove or Trip.
-
-Golden Gloves
-+3
-19
-Apex Items
-No
-item bonus to Athletics checks
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Bestial Mutagen|Bestial Mutagen (Greater)]]
-+3
-11
-Alchemical Elixirs
-Yes
-Item bonus to Athletics checks 
-
-Vyre's Bliss
-+3
-20
-Alchemical Poisons
-Yes
-item bonus to Athletics checks and Fortitude saves for 1 hour if applied to an elixir or potion.
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Bestial Mutagen|Bestial Mutagen (Major)]]
-+4
-17
-Alchemical Elixirs
-Yes
-Item bonus to Athletics checks 
+| Item | Bonus | Level | Category | Consumable | Note |
+| --- | --- | --- | --- | --- | --- |
+| [[srd/pf2e/compendium/equipment/spellhearts/Beastmaster's Sigil\|Beastmaster's Sigil]] | +1 | 0 | Spellhearts | No | Item bonus to Athletic checks to Trip |
+| [[srd/pf2e/compendium/equipment/worn-items/Magical Medals\|Medal of Gorilla’s Might]] | +1 | 3 | Worn Items | No | Item bonus to Athletics checks to Climb, Force Open, High Jump, and Long Jump. |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/Crowbar\|Crowbar (Levered)]] | +1 | 3 | Adventuring Gear | No | to Force Open anything that can be pried open. |
+| Essence Charm | +1 | 4 | Other Worn Items | No | Item bonus to a check of the crafter's choice |
+| [[srd/pf2e/compendium/equipment/worn-items/Grippy Gloves\|Grippy Gloves]] | +1 | 4 | Other Worn Items | No | Item bonus to Athletics Check to Climb, Grapple, and Reposition. |
+| [[srd/pf2e/compendium/equipment/worn-items/Sailor's Collar\|Sailor’s Collar]] | +1 | 4 | Worn Items | No | Item bonus to Athletics Checks to Climb, Force Open, High Jump, and Long Jump. |
+| Coral Aspect | +1 | 4 | Other Worn Items | No | Item bonus to Swim |
+| [[srd/pf2e/compendium/equipment/armor/Mariner's Splint\|Mariner's Splint]] | +1 | 5 | Armor | No | Athletics checks toClimb or Swim |
+| Trudd's Strength | +1 | 5 | Clan Dagger Filigrees | No | Item bonus to Athletics checks |
+| Injigo's Loving Embrace | +1 | 9 | Held Items | No | Item bonus to Athletics check to Grapple with the net. |
+| Kinburi's Sandals of Bounding | +1 | 9 | Other Worn Items | No | Item bonus to Athletics checks to High Jump and Long Jump |
+| Dread Ampoule (Greater) | +1 | 11 | Alchemical Bombs | No | Item bonus to Athletic checks to Force Open |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Bestial Mutagen\|Bestial Mutagen (Lesser)]] | +1 | 1 | Alchemical Elixirs | Yes | Item bonus to Athletics checks |
+| [[srd/pf2e/compendium/equipment/consumables/Bronze Bull Pendant\|Bronze Bull Pendant]] | +1 | 2 | Talismans | Yes | Athletics to Shove |
+| [[srd/pf2e/compendium/equipment/consumables/Monkey Pin\|Monkey Pin]] | +1 | 2 | Talismans | Yes | Athletics to Climb |
+| [[srd/pf2e/compendium/equipment/consumables/Savior Spike\|Savior Spike]] | +1 | 2 | Talismans | Yes | Athletics to Grab an Edge |
+| Energizing Tea | +1 | 4 | Tea | Yes | Item bonus to Athletics |
+| Mantis Embrace | +2 | 0 | Other Worn Items | No | Athletics checks to Grapple or Shove |
+| Zarothrask's Contract | +2 | 9 | Other Contracts | No | Disarm manufactured items and to Grapple |
+| Kinburi's Sandals of Bounding | +2 | 9 | Other Worn Items | No | Item bonus to Athletics checks to High Jump and Long Jump when activated |
+| [[srd/pf2e/compendium/equipment/worn-items/Fire-Jump Ring\|Fire-Jump Ring]] | +2 | 10 | Other Worn Items | No | |
+| [[srd/pf2e/compendium/equipment/worn-items/Sash of Prowess\|Sash of Prowess]] | +2 | 10 | Worn Items | No | |
+| [[srd/pf2e/compendium/equipment/worn-items/Sailor's Collar\|Greater Sailor’s Collar]] | +2 | 10 | Worn Items | No | Item bonus to Athletics Checks to Climb, Force Open, High Jump, and Long Jump. |
+| Gloves of Precision | +2 | 10 | Worn Items | No | Item bonus to Climb |
+| Kinetic Wraps of Strength | +2 | 10 | Worn Items | No | Item bonus to Force Open, Reposition, and Shove |
+| Greater Trudd's Strength | +2 | 11 | Clan Dagger Filigrees | No | Item bonus to Athletics checks |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal]] | +2 | 11 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| Helm of the Tides | +2 | 11 | Other Worn Items | No | Item bonus to Swim |
+| [[srd/pf2e/compendium/equipment/worn-items/Stampede Medallion\|Stampede Medallion]] | +2 | 12 | Eidolon Items | No | Item bonus to Athletics checks to Shove or Trip. |
+| [[srd/pf2e/compendium/equipment/worn-items/Stampede Medallion\|Greater Stampede Medallion]] | +2 | 15 | Eidolon Items | No | Item bonus to Athletics checks to Shove or Trip. |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Bestial Mutagen\|Bestial Mutagen (Moderate)]] | +2 | 3 | Alchemical Elixirs | Yes | Item bonus to Athletics checks |
+| [[srd/pf2e/compendium/equipment/worn-items/Sash of Prowess\|Sash of Prowess (Greater)]] | +3 | 17 | Worn Items | No | |
+| Jaws of the Grogrisant | +3 | 17 | Apex Items | No | Item bonus to Perception checks to Athletics |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal (Greater)]] | +3 | 18 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| Greater Gloves of Precision | +3 | 18 | Worn Items | No | Item bonus to Climb |
+| Greater Kinetic Wraps of Strength | +3 | 18 | Worn Items | No | Item bonus to Force Open, Reposition, and Shove |
+| [[srd/pf2e/compendium/equipment/apex-items/Titan's Grasp\|Titan's Grasp]] | +3 | 18 | Apex Items | No | Item bonus to Athletics. |
+| [[srd/pf2e/compendium/equipment/worn-items/Stampede Medallion\|Major Stampede Medallion]] | +3 | 18 | Eidolon Items | No | Item bonus to Athletics checks to Shove or Trip. |
+| Golden Gloves | +3 | 19 | Apex Items | No | item bonus to Athletics checks |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Bestial Mutagen\|Bestial Mutagen (Greater)]] | +3 | 11 | Alchemical Elixirs | Yes | Item bonus to Athletics checks |
+| Vyre's Bliss | +3 | 20 | Alchemical Poisons | Yes | item bonus to Athletics checks and Fortitude saves for 1 hour if applied to an elixir or potion. |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Bestial Mutagen\|Bestial Mutagen (Major)]] | +4 | 17 | Alchemical Elixirs | Yes | Item bonus to Athletics checks |
 
 ### Related Feats
 

@@ -14,310 +14,51 @@ You influence others through negotiation and flattery, or find out information t
 
 ### Item Bonuses for Diplomacy
 
-Item
-Bonus
-Level
-Category
-Consumable
-Note
-
-[[srd/pf2e/compendium/equipment/held-items/Feather of the Unfounded Bravado|Feather of the Unfounded Bravado]]
-+1
-2
-Held Items
-No
-Item bonus to Make an Impression
-
-Oathlamp of Accord
-+1
-3
-Held Items
-No
-
-Lesser Flowing Water
-+1
-3
-Tattoos
-No
-item bonus to Diplomacy checks made against orcs who honor the Flood Truce.
-
-[[srd/pf2e/compendium/equipment/held-items/Marshal's Baton|Marshal's Baton]]
-+1
-3
-Held Items
-No
-Item bonus to Diplomacy against troops, individual soldiers, and military leaders
-
-Hongrui's Gratitude
-+1
-3
-Held Items
-No
-Temporary item bonus to Diplomacy
-
-[[srd/pf2e/compendium/equipment/worn-items/Glasses of Sociability|Glasses of Sociability]]
-+1
-3
-Other Worn Items
-No
-Item bonus to Diplomacy.
-
-Three-Pillared Yang Na
-+1
-4
-Tattoos
-No
-
-Essence Charm
-+1
-4
-Other Worn Items
-No
-Item bonus to a check of the crafter's choice
-
-[[srd/pf2e/compendium/equipment/worn-items/Medic's Armband|Medic’s Armband]]
-+1
-4
-Worn Items
-No
-Item bonus to Diplomacy checks to change the attitudes of diseased, poisoned, and wounded creatures.
-
-Bolka's Blessing
-+1
-5
-Clan Dagger Filigrees
-No
-Item bonus to Diplomacy
-
-Kols's Oath
-+1
-5
-Clan Dagger Filigrees
-No
-Item bonus to Diplomacy checks to Request
-
-[[srd/pf2e/compendium/equipment/runes/Convincing|Convincing]]
-+1
-5
-Armor Property Runes
-No
-Item bonus to Diplomacy checks to Make an Impression and Request.
-
-Moderate Flowing Water
-+1
-7
-Tattoos
-No
-item bonus to Diplomacy checks made against orcs who honor the Flood Truce.
-
-Hairpin of Blooming Flowers
-+1
-7
-Other Worn Items
-No
-Item bonus to Diplomacy checks
-
-Ring of Fair Assessment
-+1
-7
-Other Worn Items
-No
-Make an Impression to convince others of the fairness or accuracy of your judgments.
-
-Cloak of Social Graces
-+1
-7
-Worn Items
-No
-Item bonus to Diplomacy checks
-
-[[srd/pf2e/compendium/equipment/worn-items/Aeon Stone|Aeon Stone (Eastern Star)]]
-+1
-7
-Other Worn Items
-No
-Item bonus to Diplomacy checks.
-
-Azlanti Diamond
-+1
-8
-Artifacts
-No
-Item bonus to Diplomacy.
-
-Greater Flowing Water
-+1
-11
-Tattoos
-No
-item bonus to Diplomacy checks made against orcs who honor the Flood Truce.
-
-Greater Cloak of Social Graces
-+1
-13
-Worn Items
-No
-Item bonus to Diplomacy checks
-
-Major Cloak of Social Graces
-+1
-19
-Worn Items
-No
-Item bonus to Diplomacy checks
-
-Covenant Tea
-+1
-3
-Tea
-Yes
-Item bonus to Diplomacy
-
-Conspirator's Cookie
-+1
-4
-Other Consumables
-Yes
-Make and Impression or Request
-
-[[srd/pf2e/compendium/equipment/armor/Warleader's Bulwark|Warleader's Bulwark]]
-+2
-0
-Armor
-No
-
-Shawl of Seasons
-+2
-5
-Other Worn Items
-No
-item bonus to Diplomacy checks to Make an Impression
-
-[[srd/pf2e/compendium/equipment/runes/Convincing|Greater Convincing]]
-+2
-8
-Armor Property Runes
-No
-Item bonus to Diplomacy checks to Make an Impression and Request.
-
-Azlanti Diamond
-+2
-8
-Artifacts
-No
-Item bonus to Diplomacy when the item reaches the 9th level.
-
-Needle of Undeath
-+2
-10
-Held Items
-No
-item bonus to Diplomacy checks against intelligent undead
-
-[[srd/pf2e/compendium/equipment/worn-items/Entertainer's Cincture|Entertainer's Cincture]]
-+2
-10
-Worn Items
-No
-Item bonus to Diplomacy if selected
-
-Skirmisher's Coat
-+2
-11
-Other Worn Items
-No
-item bonus to Diplomacy Checks to Make An Impression
-
-Greater Kols's Oath
-+2
-11
-Clan Dagger Filigrees
-No
-Item bonus to Diplomacy checks to Request
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
-+2
-11
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-Boots of the Blight
-+2
-12
-Other Worn Items
-No
-item bonus to Diplomacy Checks to Make An Impression
-
-Purgatory Emissary's Staff
-+2
-12
-Staves
-No
-Item bonus to adjust a psychopomp's or spirit's attitude
-
-[[srd/pf2e/compendium/equipment/armor/Holy Chain|Holy Chain]]
-+2
-13
-Armor
-No
-Diplomacy checks against all creatures except fiends.
-
-[[srd/pf2e/compendium/equipment/apex-items/Mask of Allure|Mask of Allure]]
-+2
-18
-Apex Items
-No
-Item bonus while wearing the mask.
-
-[[srd/pf2e/compendium/equipment/consumables/Conrasu Coin|Conrasu Coin (Arbiter)]]
-+2
-3
-Talismans
-Yes
-increases to a +3 circumstance bonus to Make an Impression on a creature with the aeon trait.
-
-Azlanti Diamond
-+3
-8
-Artifacts
-No
-Item bonus to Diplomacy when the item reaches the 17th level.
-
-[[srd/pf2e/compendium/equipment/runes/Convincing|Major Convincing]]
-+3
-16
-Armor Property Runes
-No
-Item bonus to Diplomacy checks to Make an Impression and Request.
-
-Jaws of the Grogrisant
-+3
-17
-Apex Items
-No
-Item bonus to Diplomacy checks
-
-[[srd/pf2e/compendium/equipment/worn-items/Entertainer's Cincture|Entertainer's Cincture (Greater)]]
-+3
-17
-Worn Items
-No
-Item bonus to Diplomacy if selected
-
-[[srd/pf2e/compendium/equipment/armor/Robe of Beneficence|Robe of Beneficence]]
-+3
-17
-Specific Magic Armor
-No
-Item bonus to Make an Impression and to Make Requests of creatures who are within your aura.
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
-+3
-18
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
+| Item | Bonus | Level | Category | Consumable | Note |
+| --- | --- | --- | --- | --- | --- |
+| [[srd/pf2e/compendium/equipment/held-items/Feather of the Unfounded Bravado\|Feather of the Unfounded Bravado]] | +1 | 2 | Held Items | No | Item bonus to Make an Impression |
+| Oathlamp of Accord | +1 | 3 | Held Items | No | |
+| Lesser Flowing Water | +1 | 3 | Tattoos | No | item bonus to Diplomacy checks made against orcs who honor the Flood Truce. |
+| [[srd/pf2e/compendium/equipment/held-items/Marshal's Baton\|Marshal's Baton]] | +1 | 3 | Held Items | No | Item bonus to Diplomacy against troops, individual soldiers, and military leaders |
+| Hongrui's Gratitude | +1 | 3 | Held Items | No | Temporary item bonus to Diplomacy |
+| [[srd/pf2e/compendium/equipment/worn-items/Glasses of Sociability\|Glasses of Sociability]] | +1 | 3 | Other Worn Items | No | Item bonus to Diplomacy. |
+| Three-Pillared Yang Na | +1 | 4 | Tattoos | No | |
+| Essence Charm | +1 | 4 | Other Worn Items | No | Item bonus to a check of the crafter's choice |
+| [[srd/pf2e/compendium/equipment/worn-items/Medic's Armband\|Medic’s Armband]] | +1 | 4 | Worn Items | No | Item bonus to Diplomacy checks to change the attitudes of diseased, poisoned, and wounded creatures. |
+| Bolka's Blessing | +1 | 5 | Clan Dagger Filigrees | No | Item bonus to Diplomacy |
+| Kols's Oath | +1 | 5 | Clan Dagger Filigrees | No | Item bonus to Diplomacy checks to Request |
+| [[srd/pf2e/compendium/equipment/runes/Convincing\|Convincing]] | +1 | 5 | Armor Property Runes | No | Item bonus to Diplomacy checks to Make an Impression and Request. |
+| Moderate Flowing Water | +1 | 7 | Tattoos | No | item bonus to Diplomacy checks made against orcs who honor the Flood Truce. |
+| Hairpin of Blooming Flowers | +1 | 7 | Other Worn Items | No | Item bonus to Diplomacy checks |
+| Ring of Fair Assessment | +1 | 7 | Other Worn Items | No | Make an Impression to convince others of the fairness or accuracy of your judgments. |
+| Cloak of Social Graces | +1 | 7 | Worn Items | No | Item bonus to Diplomacy checks |
+| [[srd/pf2e/compendium/equipment/worn-items/Aeon Stone\|Aeon Stone (Eastern Star)]] | +1 | 7 | Other Worn Items | No | Item bonus to Diplomacy checks. |
+| Azlanti Diamond | +1 | 8 | Artifacts | No | Item bonus to Diplomacy. |
+| Greater Flowing Water | +1 | 11 | Tattoos | No | item bonus to Diplomacy checks made against orcs who honor the Flood Truce. |
+| Greater Cloak of Social Graces | +1 | 13 | Worn Items | No | Item bonus to Diplomacy checks |
+| Major Cloak of Social Graces | +1 | 19 | Worn Items | No | Item bonus to Diplomacy checks |
+| Covenant Tea | +1 | 3 | Tea | Yes | Item bonus to Diplomacy |
+| Conspirator's Cookie | +1 | 4 | Other Consumables | Yes | Make and Impression or Request |
+| [[srd/pf2e/compendium/equipment/armor/Warleader's Bulwark\|Warleader's Bulwark]] | +2 | 0 | Armor | No | |
+| Shawl of Seasons | +2 | 5 | Other Worn Items | No | item bonus to Diplomacy checks to Make an Impression |
+| [[srd/pf2e/compendium/equipment/runes/Convincing\|Greater Convincing]] | +2 | 8 | Armor Property Runes | No | Item bonus to Diplomacy checks to Make an Impression and Request. |
+| Azlanti Diamond | +2 | 8 | Artifacts | No | Item bonus to Diplomacy when the item reaches the 9th level. |
+| Needle of Undeath | +2 | 10 | Held Items | No | item bonus to Diplomacy checks against intelligent undead |
+| [[srd/pf2e/compendium/equipment/worn-items/Entertainer's Cincture\|Entertainer's Cincture]] | +2 | 10 | Worn Items | No | Item bonus to Diplomacy if selected |
+| Skirmisher's Coat | +2 | 11 | Other Worn Items | No | item bonus to Diplomacy Checks to Make An Impression |
+| Greater Kols's Oath | +2 | 11 | Clan Dagger Filigrees | No | Item bonus to Diplomacy checks to Request |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal]] | +2 | 11 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| Boots of the Blight | +2 | 12 | Other Worn Items | No | item bonus to Diplomacy Checks to Make An Impression |
+| Purgatory Emissary's Staff | +2 | 12 | Staves | No | Item bonus to adjust a psychopomp's or spirit's attitude |
+| [[srd/pf2e/compendium/equipment/armor/Holy Chain\|Holy Chain]] | +2 | 13 | Armor | No | Diplomacy checks against all creatures except fiends. |
+| [[srd/pf2e/compendium/equipment/apex-items/Mask of Allure\|Mask of Allure]] | +2 | 18 | Apex Items | No | Item bonus while wearing the mask. |
+| [[srd/pf2e/compendium/equipment/consumables/Conrasu Coin\|Conrasu Coin (Arbiter)]] | +2 | 3 | Talismans | Yes | increases to a +3 circumstance bonus to Make an Impression on a creature with the aeon trait. |
+| Azlanti Diamond | +3 | 8 | Artifacts | No | Item bonus to Diplomacy when the item reaches the 17th level. |
+| [[srd/pf2e/compendium/equipment/runes/Convincing\|Major Convincing]] | +3 | 16 | Armor Property Runes | No | Item bonus to Diplomacy checks to Make an Impression and Request. |
+| Jaws of the Grogrisant | +3 | 17 | Apex Items | No | Item bonus to Diplomacy checks |
+| [[srd/pf2e/compendium/equipment/worn-items/Entertainer's Cincture\|Entertainer's Cincture (Greater)]] | +3 | 17 | Worn Items | No | Item bonus to Diplomacy if selected |
+| [[srd/pf2e/compendium/equipment/armor/Robe of Beneficence\|Robe of Beneficence]] | +3 | 17 | Specific Magic Armor | No | Item bonus to Make an Impression and to Make Requests of creatures who are within your aura. |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal (Greater)]] | +3 | 18 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
 
 ### Related Feats
 

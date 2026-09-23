@@ -14,7 +14,14 @@ This instinct option for barbarians allows you to channel elemental forces, bond
 
 ## Elemental Instincts
 
-**Element****Trait****Damage** AirAirElectricity or slashing EarthEarthBludgeoning or piercing FireFireFire MetalMetalPiercing or slashing WaterWaterBludgeoning or cold WoodWoodBludgeoning or piercing
+| **Element** | **Trait** | **Damage** |
+| --- | --- | --- |
+| Air | Air | Electricity or slashing |
+| Earth | Earth | Bludgeoning or piercing |
+| Fire | Fire | Fire |
+| Metal | Metal | Piercing or slashing |
+| Water | Water | Bludgeoning or cold |
+| Wood | Wood | Bludgeoning or piercing |
 
 ### Anathema
 

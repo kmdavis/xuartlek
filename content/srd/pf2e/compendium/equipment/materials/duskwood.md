@@ -19,7 +19,17 @@ Duskwood is a very lightweight wood found primarily in old-growth forests in sou
 
 ## Duskwood
 
- **Duskwood Items****Hardness****HP****BT** **Thin Items** Standard-grade52010 High-grade83216 **Items** Standard-grade72814 High-grade104020 **Structure** Standard-grade145628 High-grade208040 
+| **Duskwood Items** | **Hardness** | **HP** | **BT** |
+| --- | --- | --- | --- |
+| **Thin Items** | | | |
+| Standard-grade | 5 | 20 | 10 |
+| High-grade | 8 | 32 | 16 |
+| **Items** | | | |
+| Standard-grade | 7 | 28 | 14 |
+| High-grade | 10 | 40 | 20 |
+| **Structure** | | | |
+| Standard-grade | 14 | 56 | 28 |
+| High-grade | 20 | 80 | 40 |
 
 #### Material Uses
 

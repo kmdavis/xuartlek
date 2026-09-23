@@ -28,11 +28,11 @@ You conjure the rotting corpse of Deskari, previously Lord of the Locust Hosts, 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is {{conditions 91 "sickened"}} 2.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] 2.
 
-**Failure** The creature is sickened 3 and {{conditions 66 "deafened"}} for the duration.
+**Failure** The creature is sickened 3 and [[srd/pf2e/compendium/rules-elements/Conditions#Deafened|deafened]] for the duration.
 
-**Critical Failure** The creature is sickened 4, stunned 1, and {{conditions 66 "deafened"}} for the duration. 
+**Critical Failure** The creature is sickened 4, stunned 1, and [[srd/pf2e/compendium/rules-elements/Conditions#Deafened|deafened]] for the duration. 
 
 **Depart** ([[srd/pf2e/compendium/rules-elements/traits/player-core/Poison|poison]]) _Feast of the Locust Host_ The millions of insects and vermin feasting on Deskari pour out of its corpse and surge across the battlefield, consuming your enemies. This swarm deals 5d8 piercing damage and 5d8 poison damage to enemy creatures in a 60-foot emanation with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Checks#Basic Saving Throws|basic]] Reflex save. A creature that critically fails is additionally [[srd/pf2e/compendium/rules-elements/Conditions#Drained|drained]] 2.
 

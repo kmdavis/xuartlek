@@ -19,9 +19,13 @@ The insects known as broodpiercers are particularly insidious parasites that tar
  Increase the creature's level by 1 and change its statistics as follows. 
 If the creature's Intelligence modifier is –4 or lower, increase it to –3.Increase the creature's AC, attack bonuses, DCs, Perception modifier, saving throws, and skill modifiers by 1.Increase the damage of its Strikes and other offensive abilities by 1. If the creature has limits on how many times or how often it can use an ability (such as a spellcaster's spells or a dragon's breath), increase the damage by 2 instead.Increase the creature's HP by the amount listed on the table.
 
-## 
+| Starting Level | HP Increase |
+| --- | --- |
+| 1 or lower | 10 |
+| 2–4 | 15 |
+| 5–19 | 20 |
+| 20+ | 30 |
 
-Starting LevelHP Increase 1 or lower10 2–415 5–1920 20+30
  
 
 ### Broodpiercer Host Abilities

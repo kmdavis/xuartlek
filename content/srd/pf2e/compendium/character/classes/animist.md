@@ -73,34 +73,52 @@ Trained in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]] and e
 
 You gain these features as Animist. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, apparition attunement, animist & apparition spellcasting, animistic practice |
+| 2 | Animist feat, skill feat |
+| 3 | 2nd-rank spells, fortitude expertise, general feat, skill increase |
+| 4 | Animist feat, skill feat |
+| 5 | 3rd-rank spells, attribute boosts, ancestry feat, skill increase |
+| 6 | Animist feat, skill feat |
+| 7 | 4th-rank spells, expert spellcaster, general feat, skill increase, third apparition |
+| 8 | Animist feat, skill feat |
+| 9 | 5th-rank spells, ancestry feat, perception expertise, skill increase |
+| 10 | Attribute boosts, animist feat, skill feat |
+| 11 | 6th-rank spells, expert protections, general feat, simple weapon expertise, skill increase |
+| 12 | Animist feat, skill feat |
+| 13 | 7th-rank spells, ancestry feat, master of mind and spirit, skill increase, weapon specialization |
+| 14 | Animist feat, skill feat |
+| 15 | 8th-rank spells, attribute boosts, fourth apparition, general feat, master spellcaster, skill increase |
+| 16 | Animist feat, skill feat |
+| 17 | 9th-rank spells, ancestry feat, skill increase |
+| 18 | Animist feat, skill feat |
+| 19 | General feat, legendary spellcaster, skill increase, supreme incarnation |
+| 20 | Attribute boosts, animist feat, skill feat |
 
-1Ancestry and background, attribute boosts, initial proficiencies, apparition attunement, animist & apparition spellcasting, animistic practice
-2Animist feat, skill feat
-32nd-rank spells, fortitude expertise, general feat, skill increase
-4Animist feat, skill feat
-53rd-rank spells, attribute boosts, ancestry feat, skill increase
-6Animist feat, skill feat
-74th-rank spells, expert spellcaster, general feat, skill increase, third apparition
-8Animist feat, skill feat
-95th-rank spells, ancestry feat, perception expertise, skill increase
-10Attribute boosts, animist feat, skill feat
-116th-rank spells, expert protections, general feat, simple weapon expertise, skill increase
-12Animist feat, skill feat
-137th-rank spells, ancestry feat, master of mind and spirit, skill increase, weapon specialization
-14Animist feat, skill feat
-158th-rank spells, attribute boosts, fourth apparition, general feat, master spellcaster, skill increase
-16Animist feat, skill feat
-179th-rank spells, ancestry feat, skill increase
-18Animist feat, skill feat
-19General feat, legendary spellcaster, skill increase, supreme incarnation
-20Attribute boosts, animist feat, skill feat
-
-Your LevelCantrips1st2nd3rd4th5th6th7th8th9th12+21+1————————22+22+1————————32+22+11+1———————42+22+12+1———————52+22+12+11+1——————62+22+12+12+1——————72+32+12+12+11+1—————82+32+12+12+12+1—————92+32+12+12+12+11+1————102+32+22+22+22+12+1————112+32+22+22+22+22+11+1———122+32+22+22+22+22+12+1———132+32+22+22+22+22+22+11+1——142+32+22+22+22+22+22+12+1——152+42+22+22+22+22+22+22+11+1—162+42+22+22+22+22+22+22+12+1—172+42+22+22+22+22+22+22+22+11+1182+42+22+22+22+22+22+22+22+12+1192+42+22+22+22+22+22+22+22+22+1202+42+22+22+22+22+22+22+22+22+1 The number before a plus sign indicates your spell slots via animist spellcasting, and the number after it indicates your spell slots from apparition spellcasting.
- For instance, a 2nd-level animist has “2+1” 1st-rank spell slots, meaning they can prepare two 1st-rank spells via animist spellcasting,
- and they also have one spell slot to spontaneously cast an apparition spell.
- *The supreme apparition class feature gives you a 10th-rank apparition slot that works a bit differently from other spells.
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 2+2 | 1+1 | — | — | — | — | — | — | — | — |
+| 2 | 2+2 | 2+1 | — | — | — | — | — | — | — | — |
+| 3 | 2+2 | 2+1 | 1+1 | — | — | — | — | — | — | — |
+| 4 | 2+2 | 2+1 | 2+1 | — | — | — | — | — | — | — |
+| 5 | 2+2 | 2+1 | 2+1 | 1+1 | — | — | — | — | — | — |
+| 6 | 2+2 | 2+1 | 2+1 | 2+1 | — | — | — | — | — | — |
+| 7 | 2+3 | 2+1 | 2+1 | 2+1 | 1+1 | — | — | — | — | — |
+| 8 | 2+3 | 2+1 | 2+1 | 2+1 | 2+1 | — | — | — | — | — |
+| 9 | 2+3 | 2+1 | 2+1 | 2+1 | 2+1 | 1+1 | — | — | — | — |
+| 10 | 2+3 | 2+2 | 2+2 | 2+2 | 2+1 | 2+1 | — | — | — | — |
+| 11 | 2+3 | 2+2 | 2+2 | 2+2 | 2+2 | 2+1 | 1+1 | — | — | — |
+| 12 | 2+3 | 2+2 | 2+2 | 2+2 | 2+2 | 2+1 | 2+1 | — | — | — |
+| 13 | 2+3 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+1 | 1+1 | — | — |
+| 14 | 2+3 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+1 | 2+1 | — | — |
+| 15 | 2+4 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+1 | 1+1 | — |
+| 16 | 2+4 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+1 | 2+1 | — |
+| 17 | 2+4 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+1 | 1+1 |
+| 18 | 2+4 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+1 | 2+1 |
+| 19 | 2+4 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+1 |
+| 20 | 2+4 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+2 | 2+1 |
+| The number before a plus sign indicates your spell slots via animist spellcasting, and the number after it indicates your spell slots from apparition spellcasting. For instance, a 2nd-level animist has “2+1” 1st-rank spell slots, meaning they can prepare two 1st-rank spells via animist spellcasting, and they also have one spell slot to spontaneously cast an apparition spell. *The supreme apparition class feature gives you a 10th-rank apparition slot that works a bit differently from other spells. | | | | | | | | | | |
 
 | | |
 | --- | --- |

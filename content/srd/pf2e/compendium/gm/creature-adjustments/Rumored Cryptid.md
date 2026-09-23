@@ -20,9 +20,14 @@ As stories spread about a rumored cryptid, the weight of collective belief trans
 
 Increase the creature's level by 1 and change its statistics as follows. Add the [[srd/pf2e/compendium/rules-elements/traits/player-core/Rare|rare]] trait. If the creature was an animal, it loses the animal trait and gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Beast|beast]] trait. If the creature's Intelligence modifier is –4 or lower, increase it to –3. Add Stealth with a modifier equal to its highest skill modifier. Increase the creature's AC, attack bonuses, DCs, Perception modifier, saving throws, and skill modifiers by 1. Increase the damage of the creature's Strikes and other offensive abilities by 1. If an ability can be used only a small number of times (such as a dragon's breath), increase the damage by 2 instead. Increase the creature's HP by the amount listed on the table.
 
-## 
+| Starting Level | HP Increase |
+| --- | --- |
+| 1 or lower | 10 |
+| 2–4 | 15 |
+| 5–19 | 20 |
+| 20+ | 30 |
 
-Starting LevelHP Increase 1 or lower10 2–415 5–1920 20+30
+
 
  
 

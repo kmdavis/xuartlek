@@ -32,92 +32,20 @@ Academia LoreAccounting LoreArchitecture LoreArt LoreAstronomy LoreCarpentry Lor
 
 ### Item Bonuses for Lore
 
-Item
-Bonus
-Level
-Category
-Consumable
-Note
-
-Storied Skin
-+1
-3
-Tattoos
-No
-item bonus to chosen Lore skill. 
-
-Essence Charm
-+1
-4
-Other Worn Items
-No
-Item bonus to a check of the crafter's choice
-
-[[srd/pf2e/compendium/equipment/worn-items/Pristine Epaulets|Pristine Epaulets]]
-+1
-5
-Other Worn Items
-No
-Item bonus to Warfare Lore
-
-Lesser Mariner's Mien
-+1
-8
-Worn Items
-No
-Item bonus to Sailing Lore.
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Lesser)]]
-+1
-1
-Alchemical Elixirs
-Yes
-
-[[srd/pf2e/compendium/equipment/held-items/Thousand-Blade Thesis|Thousand-Blade Thesis]]
-+2
-9
-Held Items
-No
-Item bonus to Warfare Lore checks to Recall Knowledge.
-
-[[srd/pf2e/compendium/equipment/worn-items/Admiral's Bicorne|Admiral's Bicorne]]
-+2
-10
-Other Worn Items
-No
-Item bonus to Sailing Lore
-
-[[srd/pf2e/compendium/equipment/held-items/Sun Herald's Stylus|Sun Herald's Stylus]]
-+2
-14
-Held Items
-No
-Caligraphy Lore Bonus
-
-Moderate Mariner's Mien
-+2
-15
-Worn Items
-No
-Item bonus to Sailing Lore.
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Moderate)]]
-+2
-3
-Alchemical Elixirs
-Yes
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Greater)]]
-+3
-11
-Alchemical Elixirs
-Yes
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Major)]]
-+4
-17
-Alchemical Elixirs
-Yes
+| Item | Bonus | Level | Category | Consumable | Note |
+| --- | --- | --- | --- | --- | --- |
+| Storied Skin | +1 | 3 | Tattoos | No | item bonus to chosen Lore skill. |
+| Essence Charm | +1 | 4 | Other Worn Items | No | Item bonus to a check of the crafter's choice |
+| [[srd/pf2e/compendium/equipment/worn-items/Pristine Epaulets\|Pristine Epaulets]] | +1 | 5 | Other Worn Items | No | Item bonus to Warfare Lore |
+| Lesser Mariner's Mien | +1 | 8 | Worn Items | No | Item bonus to Sailing Lore. |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Lesser)]] | +1 | 1 | Alchemical Elixirs | Yes | |
+| [[srd/pf2e/compendium/equipment/held-items/Thousand-Blade Thesis\|Thousand-Blade Thesis]] | +2 | 9 | Held Items | No | Item bonus to Warfare Lore checks to Recall Knowledge. |
+| [[srd/pf2e/compendium/equipment/worn-items/Admiral's Bicorne\|Admiral's Bicorne]] | +2 | 10 | Other Worn Items | No | Item bonus to Sailing Lore |
+| [[srd/pf2e/compendium/equipment/held-items/Sun Herald's Stylus\|Sun Herald's Stylus]] | +2 | 14 | Held Items | No | Caligraphy Lore Bonus |
+| Moderate Mariner's Mien | +2 | 15 | Worn Items | No | Item bonus to Sailing Lore. |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Moderate)]] | +2 | 3 | Alchemical Elixirs | Yes | |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Greater)]] | +3 | 11 | Alchemical Elixirs | Yes | |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Major)]] | +4 | 17 | Alchemical Elixirs | Yes | |
 
 ### Related Feats
 

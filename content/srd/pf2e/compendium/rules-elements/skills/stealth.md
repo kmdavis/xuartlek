@@ -27,147 +27,28 @@ First, **Hide** behind something (either by taking advantage of cover or having 
 
 ### Item Bonuses for Stealth
 
-Item
-Bonus
-Level
-Category
-Consumable
-Note
-
-Essence Charm
-+1
-4
-Other Worn Items
-No
-Item bonus to a check of the crafter's choice
-
-[[srd/pf2e/compendium/equipment/worn-items/Underbrush Cloak|Underbrush Cloak]]
-+1
-5
-Other Worn Items
-No
-Item bonus to Stealth
-
-Resolute Mind Wrap
-+1
-7
-Other Worn Items
-No
-Item bonus to Stealth checks in forest or wooded area
-
-Shadewither Key
-+1
-22
-Artifacts
-No
-Item bonus to Stealth
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen|Quicksilver Mutagen]]
-+1
-0
-Alchemical Elixirs
-Yes
-
-Privacy Ward Fulu (Hallway)
-+1
-1
-Fulu
-Yes
-Item bonus to Stealth checks
-
-[[srd/pf2e/compendium/equipment/consumables/Onyx Panther|Onyx Panther]]
-+1
-2
-Talismans
-Yes
-Stealth to Sneak
-
-Privacy Ward Fulu (Room)
-+1
-5
-Fulu
-Yes
-Item bonus to Stealth checks
-
-[[srd/pf2e/compendium/equipment/worn-items/Humbug Pocket|Humbug Pocket]]
-+2
-9
-Worn Items
-No
-
-[[srd/pf2e/compendium/equipment/armor/Eagle Wing|Eagle Wing]]
-+2
-10
-Specific Magic Armor
-No
-Item bonus to Stealth checks you attempt while in the air.
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
-+2
-11
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen|Quicksilver Mutagen]]
-+2
-0
-Alchemical Elixirs
-Yes
-
-Unassuming Face Paint
-+2
-3
-Other Consumables
-Yes
-while blending into a crowd
-
-Privacy Ward Fulu (Chamber)
-+2
-9
-Fulu
-Yes
-Item bonus to Stealth checks
-
-[[srd/pf2e/compendium/equipment/worn-items/Humbug Pocket|Humbug Pocket (Greater)]]
-+3
-17
-Worn Items
-No
-Checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Conceal an Object|Conceal an Object]]
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
-+3
-18
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-[[srd/pf2e/compendium/equipment/apex-items/Mercurial Mantle|Mercurial Mantle]]
-+3
-18
-Apex Items
-No
-Item bonus to checks.
-
-Silvanshee Collar
-+3
-19
-Apex Items
-No
-item bonus to stealth checks
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen|Quicksilver Mutagen]]
-+3
-0
-Alchemical Elixirs
-Yes
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen|Quicksilver Mutagen]]
-+4
-0
-Alchemical Elixirs
-Yes
+| Item | Bonus | Level | Category | Consumable | Note |
+| --- | --- | --- | --- | --- | --- |
+| Essence Charm | +1 | 4 | Other Worn Items | No | Item bonus to a check of the crafter's choice |
+| [[srd/pf2e/compendium/equipment/worn-items/Underbrush Cloak\|Underbrush Cloak]] | +1 | 5 | Other Worn Items | No | Item bonus to Stealth |
+| Resolute Mind Wrap | +1 | 7 | Other Worn Items | No | Item bonus to Stealth checks in forest or wooded area |
+| Shadewither Key | +1 | 22 | Artifacts | No | Item bonus to Stealth |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen\|Quicksilver Mutagen]] | +1 | 0 | Alchemical Elixirs | Yes | |
+| Privacy Ward Fulu (Hallway) | +1 | 1 | Fulu | Yes | Item bonus to Stealth checks |
+| [[srd/pf2e/compendium/equipment/consumables/Onyx Panther\|Onyx Panther]] | +1 | 2 | Talismans | Yes | Stealth to Sneak |
+| Privacy Ward Fulu (Room) | +1 | 5 | Fulu | Yes | Item bonus to Stealth checks |
+| [[srd/pf2e/compendium/equipment/worn-items/Humbug Pocket\|Humbug Pocket]] | +2 | 9 | Worn Items | No | |
+| [[srd/pf2e/compendium/equipment/armor/Eagle Wing\|Eagle Wing]] | +2 | 10 | Specific Magic Armor | No | Item bonus to Stealth checks you attempt while in the air. |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal]] | +2 | 11 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen\|Quicksilver Mutagen]] | +2 | 0 | Alchemical Elixirs | Yes | |
+| Unassuming Face Paint | +2 | 3 | Other Consumables | Yes | while blending into a crowd |
+| Privacy Ward Fulu (Chamber) | +2 | 9 | Fulu | Yes | Item bonus to Stealth checks |
+| [[srd/pf2e/compendium/equipment/worn-items/Humbug Pocket\|Humbug Pocket (Greater)]] | +3 | 17 | Worn Items | No | Checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Conceal an Object\|Conceal an Object]] |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal (Greater)]] | +3 | 18 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| [[srd/pf2e/compendium/equipment/apex-items/Mercurial Mantle\|Mercurial Mantle]] | +3 | 18 | Apex Items | No | Item bonus to checks. |
+| Silvanshee Collar | +3 | 19 | Apex Items | No | item bonus to stealth checks |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen\|Quicksilver Mutagen]] | +3 | 0 | Alchemical Elixirs | Yes | |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen\|Quicksilver Mutagen]] | +4 | 0 | Alchemical Elixirs | Yes | |
 
 ### Related Feats
 

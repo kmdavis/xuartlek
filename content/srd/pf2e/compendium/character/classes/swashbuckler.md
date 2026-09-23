@@ -73,29 +73,28 @@ Trained in [[srd/pf2e/compendium/rules-elements/skills/Acrobatics|Acrobatics]]
 
 You gain these features as Swashbuckler. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
-
-1Ancestry and background, attribute boosts, initial proficiencies, panache, precise strike, stylish combatant, swashbuckler’s style, confident finisher, swashbuckler feat
-2Skill feat, swashbuckler feat
-3Fortitude expertise, general feat, opportune riposte, skill increase, stylish tricks, vivacious speed
-4Skill feat, swashbuckler feat
-5Attribute boosts, ancestry feat, precise strike 3 (3d6), skill increase, weapon expertise
-6Skill feat, swashbuckler feat
-7Confident evasion, general feat, skill increase, stylish tricks, vivacious speed, weapon specialization
-8Skill feat, swashbuckler feat
-9Ancestry feat, exemplary finisher, precise strike 4 (4d6), skill increase, swashbuckler expertise
-10Attribute boosts, skill feat, swashbuckler feat
-11Continuous flair, general feat, perception mastery, skill increase, vivacious speed
-12Skill feat, swashbuckler feat
-13Ancestry feat, assured evasion, light armor expertise, precise strike 5 (5d6), skill increase, weapon mastery
-14Skill feat, swashbuckler feat
-15Attribute boosts, general feat, greater weapon specialization, keen flair, skill increase, stylish tricks, vivacious speed
-16Skill feat, swashbuckler feat
-17Ancestry feat, precise strike 6 (6d6), reinforced ego, skill increase
-18Skill feat, swashbuckler feat
-19Eternal confidence, general feat, light armor mastery, skill increase, vivacious speed
-20Attribute boosts, skill feat, swashbuckler feat
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, panache, precise strike, stylish combatant, swashbuckler’s style, confident finisher, swashbuckler feat |
+| 2 | Skill feat, swashbuckler feat |
+| 3 | Fortitude expertise, general feat, opportune riposte, skill increase, stylish tricks, vivacious speed |
+| 4 | Skill feat, swashbuckler feat |
+| 5 | Attribute boosts, ancestry feat, precise strike 3 (3d6), skill increase, weapon expertise |
+| 6 | Skill feat, swashbuckler feat |
+| 7 | Confident evasion, general feat, skill increase, stylish tricks, vivacious speed, weapon specialization |
+| 8 | Skill feat, swashbuckler feat |
+| 9 | Ancestry feat, exemplary finisher, precise strike 4 (4d6), skill increase, swashbuckler expertise |
+| 10 | Attribute boosts, skill feat, swashbuckler feat |
+| 11 | Continuous flair, general feat, perception mastery, skill increase, vivacious speed |
+| 12 | Skill feat, swashbuckler feat |
+| 13 | Ancestry feat, assured evasion, light armor expertise, precise strike 5 (5d6), skill increase, weapon mastery |
+| 14 | Skill feat, swashbuckler feat |
+| 15 | Attribute boosts, general feat, greater weapon specialization, keen flair, skill increase, stylish tricks, vivacious speed |
+| 16 | Skill feat, swashbuckler feat |
+| 17 | Ancestry feat, precise strike 6 (6d6), reinforced ego, skill increase |
+| 18 | Skill feat, swashbuckler feat |
+| 19 | Eternal confidence, general feat, light armor mastery, skill increase, vivacious speed |
+| 20 | Attribute boosts, skill feat, swashbuckler feat |
 
 | | |
 | --- | --- |

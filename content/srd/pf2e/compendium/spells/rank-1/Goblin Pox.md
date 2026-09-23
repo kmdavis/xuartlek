@@ -26,7 +26,7 @@ Your touch afflicts the target with goblin pox, an irritating allergenic rash. T
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is {{conditions 34 "sickened 1"}}.
+**Success** The target is sickened 1.
 
 **Failure** The target is afflicted with goblin pox at stage 1.
 

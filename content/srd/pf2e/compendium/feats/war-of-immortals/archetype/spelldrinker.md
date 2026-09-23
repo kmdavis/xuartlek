@@ -20,9 +20,17 @@ socialImage: og-image.png
 
 You temporarily add a 3rd-rank spell to your spell repertoire, as determined by the type of creature whose blood you just drank. If the creature has more than one of the listed traits, choose one and gain the appropriate spell. If the granted spell is not on your chosen tradition’s list, you cast the spell as though it was from your chosen tradition. The spell is removed from your spell repertoire after 24 hours, the next time you use Spelldrinker, or when you next make your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/Running Exploration#Daily Preparations|daily preparations]], whichever comes first. 
 
-## 
-
-**Trait** **Spell** **Notes** {{traits 523 "Aberration"}} {{spells 1736 "_vampiric feast_"}} {{traits 531 "Animal"}}, {{traits 547 "beast"}} {{spells 1694 "_summon animal_"}}{{traits 706 "Summoned"}} creatures appear as otherworldly versions of the creature whose blood you drank. {{traits 551 "Celestial"}} {{spells 1557 "_holy light_"}} {{traits 581 "Dragon"}}{{spells 1450 "_blazing bolt_"}} Instead of {{traits 604 "fire"}} damage, this spell deals the same damage as the dragon breath of the dragon whose blood you drank (if applicable). {{traits 599 "Fey"}} {{spells 1752 "_wall of thorns_"}} {{traits 600 "Fiend"}}{{spells 1464 "_chilling darkness_"}} {{traits 616 "Giant"}}{{spells 1642 "_pummeling rubble_"}} {{traits 628 "Humanoid"}}{{spells 1478 "_crisis of faith_"}} {{traits 655 "Monitor"}}{{spells 929 "_impending doom_"}} 
+| **Trait** | **Spell** | **Notes** |
+| --- | --- | --- |
+| [[srd/pf2e/compendium/rules-elements/traits/player-core/Aberration\|Aberration]] | [[srd/pf2e/compendium/spells/rank-3/Vampiric Feast\|_vampiric feast_]] | |
+| [[srd/pf2e/compendium/rules-elements/traits/player-core/Animal\|Animal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Beast\|beast]] | [[srd/pf2e/compendium/spells/rank-1/Summon Animal\|_summon animal_]] | [[srd/pf2e/compendium/rules-elements/traits/player-core/Summoned\|Summoned]] creatures appear as otherworldly versions of the creature whose blood you drank. |
+| [[srd/pf2e/compendium/rules-elements/traits/player-core/Celestial\|Celestial]] | [[srd/pf2e/compendium/spells/rank-3/Holy Light\|_holy light_]] | |
+| [[srd/pf2e/compendium/rules-elements/traits/player-core/Dragon\|Dragon]] | [[srd/pf2e/compendium/spells/rank-2/Blazing Bolt\|_blazing bolt_]] | Instead of [[srd/pf2e/compendium/rules-elements/traits/player-core/Fire\|fire]] damage, this spell deals the same damage as the dragon breath of the dragon whose blood you drank (if applicable). |
+| [[srd/pf2e/compendium/rules-elements/traits/player-core/Fey\|Fey]] | [[srd/pf2e/compendium/spells/rank-3/Wall of Thorns\|_wall of thorns_]] | |
+| [[srd/pf2e/compendium/rules-elements/traits/player-core/Fiend\|Fiend]] | [[srd/pf2e/compendium/spells/rank-3/Chilling Darkness\|_chilling darkness_]] | |
+| [[srd/pf2e/compendium/rules-elements/traits/player-core/Giant\|Giant]] | [[srd/pf2e/compendium/spells/rank-1/Pummeling Rubble\|_pummeling rubble_]] | |
+| [[srd/pf2e/compendium/rules-elements/traits/player-core/Humanoid\|Humanoid]] | [[srd/pf2e/compendium/spells/rank-3/Crisis of Faith\|_crisis of faith_]] | |
+| [[srd/pf2e/compendium/rules-elements/traits/player-core/Monitor\|Monitor]] | _impending doom_ | |
 
 **Special** If you have [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Surging Blood Magic|Surging Blood Magic]], you can add the spell at 4th rank. If you have [[srd/pf2e/compendium/feats/war-of-immortals/archetype/Exultant Blood Magic|Exultant Blood Magic]], you can add the spell at 7th rank.
 

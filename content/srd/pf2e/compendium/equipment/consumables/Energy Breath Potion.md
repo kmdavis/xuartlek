@@ -24,15 +24,13 @@ Distilled from the energy of dangerous spells, an _energy breath potion_ grants 
 
 **Energy Breath** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") Each creature in an area takes damage depending on its basic saving throw. The damage amount and save DC depend on the potion's energy type. The damage type is the same as the potion's energy type. The area and save depend on the energy type, as seen in the table below. After you use Energy Breath, you can't do so again for 1d4 rounds. 
 
-## 
-
- Energy Type
- Area (Save) Acid 30-foot line (Reflex) 
- Cold 15-foot cone (Reflex) 
- Electricity 30-foot line (Reflex) 
- Fire 15-foot cone (Reflex) 
- Sonic 15-foot cone (Fortitude) 
- 
+| Energy Type | Area (Save) |
+| --- | --- |
+| Acid | 30-foot line (Reflex) |
+| Cold | 15-foot cone (Reflex) |
+| Electricity | 30-foot line (Reflex) |
+| Fire | 15-foot cone (Reflex) |
+| Sonic | 15-foot cone (Fortitude) |
 
 ### Energy Breath Potion (Lesser)
 

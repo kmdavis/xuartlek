@@ -19,7 +19,14 @@ The most rare and valuable skymetal, orichalcum is coveted for its incredible ti
 
 ## Orichalcum Items
 
- **Orichalcum Items****Hardness****HP****BT** **Thin Items** High-grade166432 **Items** High-grade187236 **Structure** High-grade3514070 
+| **Orichalcum Items** | **Hardness** | **HP** | **BT** |
+| --- | --- | --- | --- |
+| **Thin Items** | | | |
+| High-grade | 16 | 64 | 32 |
+| **Items** | | | |
+| High-grade | 18 | 72 | 36 |
+| **Structure** | | | |
+| High-grade | 35 | 140 | 70 |
 
 #### Material Uses
 

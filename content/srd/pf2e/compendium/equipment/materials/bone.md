@@ -15,7 +15,11 @@ A durable material when properly treated, bone can replace wood and metal when c
 
 ## Bone Objects
 
- **Hardness** **HP****BT** Thin Items 4 16 8 Items 6 24 12 Structures 12 48 24
+| | **Hardness** | **HP** | **BT** |
+| --- | --- | --- | --- |
+| Thin Items | 4 | 16 | 8 |
+| Items | 6 | 24 | 12 |
+| Structures | 12 | 48 | 24 |
 
 ### Bone Specimen
 

@@ -28,9 +28,9 @@ You proclaim that a foe has violated the sanctity of your realm and must die. Sp
 
 **Success** If the target is 14th level or lower, it drops to 1 Hit point. If the target is 15th level or higher, it takes 50 spirit damage.
 
-**Failure** If the target is 14th level or lower, it dies instantly. If the target is 15th level or higher, it takes 50 spirit damage; if this damage brings it to 0 Hit Points, it dies instantly. Otherwise, it gains {{rules 2317 "weakness"}} 20 to all damage for 1 minute.
+**Failure** If the target is 14th level or lower, it dies instantly. If the target is 15th level or higher, it takes 50 spirit damage; if this damage brings it to 0 Hit Points, it dies instantly. Otherwise, it gains [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Immunity, Weakness, and Resistance#Weakness|weakness]] 20 to all damage for 1 minute.
 
-**Critical Failure** As failure, but a target who survives the damage is {{conditions 93 "stunned"}} 1 for 1 minute.
+**Critical Failure** As failure, but a target who survives the damage is [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned]] 1 for 1 minute.
 
 When you speak a Decree of Execution, you can spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] as part of the action to remove the incapacitation trait.
 

@@ -415,7 +415,11 @@ Your armor’s statistics are based on the material it’s predominantly made fr
 
 ## Damaging Armor
 
-**Material****Hardness****HP****BT****Armors**Cloth142Explorer’s clothing, padded armorLeather4168Hide, leather, studded leatherMetal93618Breastplate, chain mail, chain shirt, full plate, half plate, scale mail, splint mail
+| **Material** | **Hardness** | **HP** | **BT** | **Armors** |
+| --- | --- | --- | --- | --- |
+| Cloth | 1 | 4 | 2 | Explorer’s clothing, padded armor |
+| Leather | 4 | 16 | 8 | Hide, leather, studded leather |
+| Metal | 9 | 36 | 18 | Breastplate, chain mail, chain shirt, full plate, half plate, scale mail, splint mail |
 
 *Source: Player Core p. 271*
 
@@ -820,7 +824,12 @@ Each magical tradition has a corresponding skill, as shown on the table below. Y
 
 ## Magical Traditions and Skills
 
-**Magical Tradition****Corresponding Skill** ArcaneArcana DivineReligion OccultOccultism PrimalNature
+| **Magical Tradition** | **Corresponding Skill** |
+| --- | --- |
+| Arcane | Arcana |
+| Divine | Religion |
+| Occult | Occultism |
+| Primal | Nature |
 
 *Source: Player Core p. 230*
 
@@ -842,46 +851,48 @@ The dragons from Lost Omens: Draconic Codex use the following specifications for
 
 ## Dragon Form
 
-**Dragon****Tradition****Speeds****Dragon Breath****Saving Throw**AdamantinePrimalBurrowCone of bludgeoningReflex
-BarrageArcane—Cone of forceReflex
-BogPrimalSwimCone of acidReflex
-BrinePrimalSwimLine of bludgeoningReflex
-CinderPrimal—Cone of fireReflex
-CloudPrimal—Cone of electricityReflex
-ConspiratorOccultClimbCone of poisonFortitude
-CoralPrimalSwimLine of bludgeoningReflex
-CrystalPrimal—Cone of piercingReflex
-DelightDivine—Cone of spiritReflex
-DespairOccult—Cone of sonicWill
-DiabolicDivine—Cone of fireReflex
-EmpyrealDivine—Cone of spiritReflex
-ExecutorDivine—Cone of sonicReflex
-ForestPrimal—Cone of piercingReflex
-FortuneArcane—Cone of forceReflex
-HornedPrimalSwimCone of poisonFortitude
-MagmaPrimalBurrowCone of fireReflex
-MirageArcaneClimbCone of mentalWill
-MockingOccult—Cone of bludgeoningReflex
-OathDivine—Cone of spiritWill
-OmenOccult—Cone of mentalWill
-PhaseArcane—Cone of forceReflex
-RequiemDivineSwimLine of spiritWill
-ResurrectionDivine—Cone of voidFortitude
-RimePrimalSwimCone of coldReflex
-RuneArcane—Cone of fireReflex
-SageOccult—Cone of mentalWill
-SeaArcaneSwimCone of bludgeoningReflex
-SkyDivine—Cone of electricityReflex
-SovereignOccult—Cone of mentalReflex
-StormcrownPrimal—Line of electricityReflex
-TimeArcane—Cone of forceWill
-UmbralOccult—Cone of voidReflex
-UnderworldArcaneBurrowCone of fireReflex
-VizirOccultSwimCone of fireReflex
-VorpalArcane—Cone of voidWill
-WailingArcane—Cone of sonicFortitude
-WhisperOccult—Cone of mentalWill
-WishArcaneClimbCone of mentalWill
+| **Dragon** | **Tradition** | **Speeds** | **Dragon Breath** | **Saving Throw** |
+| --- | --- | --- | --- | --- |
+| Adamantine | Primal | Burrow | Cone of bludgeoning | Reflex |
+| Barrage | Arcane | — | Cone of force | Reflex |
+| Bog | Primal | Swim | Cone of acid | Reflex |
+| Brine | Primal | Swim | Line of bludgeoning | Reflex |
+| Cinder | Primal | — | Cone of fire | Reflex |
+| Cloud | Primal | — | Cone of electricity | Reflex |
+| Conspirator | Occult | Climb | Cone of poison | Fortitude |
+| Coral | Primal | Swim | Line of bludgeoning | Reflex |
+| Crystal | Primal | — | Cone of piercing | Reflex |
+| Delight | Divine | — | Cone of spirit | Reflex |
+| Despair | Occult | — | Cone of sonic | Will |
+| Diabolic | Divine | — | Cone of fire | Reflex |
+| Empyreal | Divine | — | Cone of spirit | Reflex |
+| Executor | Divine | — | Cone of sonic | Reflex |
+| Forest | Primal | — | Cone of piercing | Reflex |
+| Fortune | Arcane | — | Cone of force | Reflex |
+| Horned | Primal | Swim | Cone of poison | Fortitude |
+| Magma | Primal | Burrow | Cone of fire | Reflex |
+| Mirage | Arcane | Climb | Cone of mental | Will |
+| Mocking | Occult | — | Cone of bludgeoning | Reflex |
+| Oath | Divine | — | Cone of spirit | Will |
+| Omen | Occult | — | Cone of mental | Will |
+| Phase | Arcane | — | Cone of force | Reflex |
+| Requiem | Divine | Swim | Line of spirit | Will |
+| Resurrection | Divine | — | Cone of void | Fortitude |
+| Rime | Primal | Swim | Cone of cold | Reflex |
+| Rune | Arcane | — | Cone of fire | Reflex |
+| Sage | Occult | — | Cone of mental | Will |
+| Sea | Arcane | Swim | Cone of bludgeoning | Reflex |
+| Sky | Divine | — | Cone of electricity | Reflex |
+| Sovereign | Occult | — | Cone of mental | Reflex |
+| Stormcrown | Primal | — | Line of electricity | Reflex |
+| Time | Arcane | — | Cone of force | Will |
+| Umbral | Occult | — | Cone of void | Reflex |
+| Underworld | Arcane | Burrow | Cone of fire | Reflex |
+| Vizir | Occult | Swim | Cone of fire | Reflex |
+| Vorpal | Arcane | — | Cone of void | Will |
+| Wailing | Arcane | — | Cone of sonic | Fortitude |
+| Whisper | Occult | — | Cone of mental | Will |
+| Wish | Arcane | Climb | Cone of mental | Will |
 
 *Source: Player Core p. 326*
 

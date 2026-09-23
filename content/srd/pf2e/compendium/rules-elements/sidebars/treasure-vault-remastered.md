@@ -49,14 +49,14 @@ Getting the opportunity to use a consumable is often one of the most exciting pa
 
 The _dragonclaw scutcheon_ and _[[srd/pf2e/compendium/equipment/consumables/Dragontooth Trophy|dragontooth trophy]]_ use a type of damage depending on what kind of dragon the claw or tooth came from. These items are typically made from the [[srd/pf2e/compendium/gm/creature-families/Dragon|dragons]] in Monster Core, but your GM might introduce uncommon or rare versions made from other types of dragons.
 
- 
-**Dragon Type** **Damage Type** 
-[[srd/pf2e/bestiary/monster-core/dragon/Young Adamantine Dragon|Adamantine]] Bludgeoning 
-[[srd/pf2e/bestiary/monster-core/dragon/Young Conspirator Dragon|Conspirator]] or [[srd/pf2e/bestiary/monster-core/dragon/Young Horned Dragon|horned]] Bludgeoning 
-[[srd/pf2e/bestiary/monster-core/dragon/Young Diabolic Dragon|Diabolic]] Fire 
-[[srd/pf2e/bestiary/monster-core/dragon/Young Empyreal Dragon|Empyreal]] Spirit 
-[[srd/pf2e/bestiary/monster-core/dragon/Young Fortune Dragon|Fortune]] Force 
-[[srd/pf2e/bestiary/monster-core/dragon/Young Mirage Dragon|Mirage]] or [[srd/pf2e/bestiary/monster-core/dragon/Young Omen Dragon|omen]] mental
+| **Dragon Type** | **Damage Type** |
+| --- | --- |
+| [[srd/pf2e/bestiary/monster-core/dragon/Young Adamantine Dragon\|Adamantine]] | Bludgeoning |
+| [[srd/pf2e/bestiary/monster-core/dragon/Young Conspirator Dragon\|Conspirator]] or [[srd/pf2e/bestiary/monster-core/dragon/Young Horned Dragon\|horned]] | Bludgeoning |
+| [[srd/pf2e/bestiary/monster-core/dragon/Young Diabolic Dragon\|Diabolic]] | Fire |
+| [[srd/pf2e/bestiary/monster-core/dragon/Young Empyreal Dragon\|Empyreal]] | Spirit |
+| [[srd/pf2e/bestiary/monster-core/dragon/Young Fortune Dragon\|Fortune]] | Force |
+| [[srd/pf2e/bestiary/monster-core/dragon/Young Mirage Dragon\|Mirage]] or [[srd/pf2e/bestiary/monster-core/dragon/Young Omen Dragon\|omen]] | mental |
 
 *Source: Treasure Vault (Remastered) p. 92*
 
@@ -66,14 +66,14 @@ The _dragonclaw scutcheon_ and _[[srd/pf2e/compendium/equipment/consumables/Drag
 
 The _[[srd/pf2e/compendium/equipment/consumables/Dragonclaw Scutcheon|dragonclaw scutcheon]]_ and _dragontooth trophy_ use a type of damage depending on what kind of dragon the claw or tooth came from. These items are typically made from the [[srd/pf2e/compendium/gm/creature-families/Dragon|dragons]] in Monster Core, but your GM might introduce uncommon or rare versions made from other types of dragons.
 
- 
-**Dragon Type** **Damage Type** 
-[[srd/pf2e/bestiary/monster-core/dragon/Young Adamantine Dragon|Adamantine]] Bludgeoning 
-[[srd/pf2e/bestiary/monster-core/dragon/Young Conspirator Dragon|Conspirator]] or [[srd/pf2e/bestiary/monster-core/dragon/Young Horned Dragon|horned]] Bludgeoning 
-[[srd/pf2e/bestiary/monster-core/dragon/Young Diabolic Dragon|Diabolic]] Fire 
-[[srd/pf2e/bestiary/monster-core/dragon/Young Empyreal Dragon|Empyreal]] Spirit 
-[[srd/pf2e/bestiary/monster-core/dragon/Young Fortune Dragon|Fortune]] Force 
-[[srd/pf2e/bestiary/monster-core/dragon/Young Mirage Dragon|Mirage]] or [[srd/pf2e/bestiary/monster-core/dragon/Young Omen Dragon|omen]] mental
+| **Dragon Type** | **Damage Type** |
+| --- | --- |
+| [[srd/pf2e/bestiary/monster-core/dragon/Young Adamantine Dragon\|Adamantine]] | Bludgeoning |
+| [[srd/pf2e/bestiary/monster-core/dragon/Young Conspirator Dragon\|Conspirator]] or [[srd/pf2e/bestiary/monster-core/dragon/Young Horned Dragon\|horned]] | Bludgeoning |
+| [[srd/pf2e/bestiary/monster-core/dragon/Young Diabolic Dragon\|Diabolic]] | Fire |
+| [[srd/pf2e/bestiary/monster-core/dragon/Young Empyreal Dragon\|Empyreal]] | Spirit |
+| [[srd/pf2e/bestiary/monster-core/dragon/Young Fortune Dragon\|Fortune]] | Force |
+| [[srd/pf2e/bestiary/monster-core/dragon/Young Mirage Dragon\|Mirage]] or [[srd/pf2e/bestiary/monster-core/dragon/Young Omen Dragon\|omen]] | mental |
 
 *Source: Treasure Vault (Remastered) p. 93*
 

@@ -26,7 +26,7 @@ You launch a small bomb enchanted with a fast-acting skin disease at your foes, 
 
 **Critical Success** The creature is unaffected and immune to blister pox for 1 week.
 
-**Success** The creature is {{conditions 91 "sickened"}} 2.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened]] 2.
 
 **Failure** The creature is afflicted with blister pox at stage 1.
 

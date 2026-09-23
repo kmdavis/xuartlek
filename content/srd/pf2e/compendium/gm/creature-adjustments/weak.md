@@ -15,6 +15,11 @@ Decrease the creature’s level by 1; if the creature is level 1, instead decrea
 
 ## Weak Adjustment
 
- **Starting Level****HP Decrease** 1-2-10 3-5-15 6-20-20 21+-30
+| **Starting Level** | **HP Decrease** |
+| --- | --- |
+| 1-2 | -10 |
+| 3-5 | -15 |
+| 6-20 | -20 |
+| 21+ | -30 |
 
 *Source: Monster Core p. 7*

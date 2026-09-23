@@ -60,31 +60,52 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 You gain these features as Wizard. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, wizard spellcasting, arcane thesis, arcane school, arcane bond |
+| 2 | Skill feat, wizard feat |
+| 3 | 2nd-rank spells, general feat, skill increase |
+| 4 | Skill feat, wizard feat |
+| 5 | 3rd-rank spells, attribute boosts, ancestry feat, reflex expertise, skill increase |
+| 6 | Skill feat, wizard feat |
+| 7 | 4th-rank spells, expert spellcaster, general feat, skill increase |
+| 8 | Skill feat, wizard feat |
+| 9 | 5th-rank spells, ancestry feat, magical fortitude, skill increase |
+| 10 | Attribute boosts, skill feat, wizard feat |
+| 11 | 6th-rank spells, general feat, perception expertise, skill increase, wizard weapon expertise |
+| 12 | Skill feat, wizard feat |
+| 13 | 7th-rank spells, ancestry feat, defensive robes, skill increase, weapon specialization |
+| 14 | Skill feat, wizard feat |
+| 15 | 8th-rank spells, attribute boosts, general feat, master spellcaster, skill increase |
+| 16 | Skill feat, wizard feat |
+| 17 | 9th-rank spells, ancestry feat, prodigious will, skill increase |
+| 18 | Skill feat, wizard feat |
+| 19 | Archwizard’s spellcraft, general feat, legendary spellcaster, skill increase |
+| 20 | Attribute boosts, skill feat, wizard feat |
 
-1Ancestry and background, attribute boosts, initial proficiencies, wizard spellcasting, arcane thesis, arcane school, arcane bond
-2Skill feat, wizard feat
-32nd-rank spells, general feat, skill increase
-4Skill feat, wizard feat
-53rd-rank spells, attribute boosts, ancestry feat, reflex expertise, skill increase
-6Skill feat, wizard feat
-74th-rank spells, expert spellcaster, general feat, skill increase
-8Skill feat, wizard feat
-95th-rank spells, ancestry feat, magical fortitude, skill increase
-10Attribute boosts, skill feat, wizard feat
-116th-rank spells, general feat, perception expertise, skill increase, wizard weapon expertise
-12Skill feat, wizard feat
-137th-rank spells, ancestry feat, defensive robes, skill increase, weapon specialization
-14Skill feat, wizard feat
-158th-rank spells, attribute boosts, general feat, master spellcaster, skill increase
-16Skill feat, wizard feat
-179th-rank spells, ancestry feat, prodigious will, skill increase
-18Skill feat, wizard feat
-19Archwizard’s spellcraft, general feat, legendary spellcaster, skill increase
-20Attribute boosts, skill feat, wizard feat
-
-Your LevelCantrips1st2nd3rd4th5th6th7th8th9th10th152—————————253—————————3532————————4533————————55332———————65333———————753332——————853333——————9533332—————10533333—————115333332————125333333————1353333332———1453333333———15533333332——16533333333——175333333332—185333333333—1953333333331*2053333333331* * The archwizard's spellcraft class feature gives you a 10th-level spell slot that works a bit differently from other spell slots._ Paizo ClarificationThe Wizard Spells Per Day table doesn't include the additional curriculum cantrip and curriculum spells you receive from your arcane school.
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 5 | 2 | — | — | — | — | — | — | — | — | — |
+| 2 | 5 | 3 | — | — | — | — | — | — | — | — | — |
+| 3 | 5 | 3 | 2 | — | — | — | — | — | — | — | — |
+| 4 | 5 | 3 | 3 | — | — | — | — | — | — | — | — |
+| 5 | 5 | 3 | 3 | 2 | — | — | — | — | — | — | — |
+| 6 | 5 | 3 | 3 | 3 | — | — | — | — | — | — | — |
+| 7 | 5 | 3 | 3 | 3 | 2 | — | — | — | — | — | — |
+| 8 | 5 | 3 | 3 | 3 | 3 | — | — | — | — | — | — |
+| 9 | 5 | 3 | 3 | 3 | 3 | 2 | — | — | — | — | — |
+| 10 | 5 | 3 | 3 | 3 | 3 | 3 | — | — | — | — | — |
+| 11 | 5 | 3 | 3 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 12 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | — | — | — | — |
+| 13 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — | — | — |
+| 14 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — | — | — |
+| 15 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — | — |
+| 16 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — | — |
+| 17 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — |
+| 18 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — |
+| 19 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1* |
+| 20 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1* |
+| * The archwizard's spellcraft class feature gives you a 10th-level spell slot that works a bit differently from other spell slots._ Paizo ClarificationThe Wizard Spells Per Day table doesn't include the additional curriculum cantrip and curriculum spells you receive from your arcane school. | | | | | | | | | | | |
 
 | | |
 | --- | --- |

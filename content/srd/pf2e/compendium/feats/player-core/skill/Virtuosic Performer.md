@@ -21,7 +21,17 @@ You have exceptional talent with one type of performance. You gain a +1 circumst
 
 ## Virtuosic Performer
 
-**Specialty****Examples** ActingDrama, pantomime, puppetry ComedyBuffoonery, joke telling, limericks DanceBallet, huara, jig, macru KeyboardsHarpsichord, organ, piano OratoryEpic, ode, poetry, storytelling PercussionChimes, drum, gong, xylophone SingingBallad, chant, melody, rhyming StringsFiddle, harp, lute, viol WindsBagpipe, flute, recorder, trumpet
+| **Specialty** | **Examples** |
+| --- | --- |
+| Acting | Drama, pantomime, puppetry |
+| Comedy | Buffoonery, joke telling, limericks |
+| Dance | Ballet, huara, jig, macru |
+| Keyboards | Harpsichord, organ, piano |
+| Oratory | Epic, ode, poetry, storytelling |
+| Percussion | Chimes, drum, gong, xylophone |
+| Singing | Ballad, chant, melody, rhyming |
+| Strings | Fiddle, harp, lute, viol |
+| Winds | Bagpipe, flute, recorder, trumpet |
 
 ### Virtuosic Performer leads to...
 

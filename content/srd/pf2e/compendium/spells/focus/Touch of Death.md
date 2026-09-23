@@ -26,7 +26,7 @@ Make a melee unarmed Strike. If you hit and the target is alive, anytime during 
 
 **Critical Success** The target survives, the spell ends, and the target is then temporarily immune for 24 hours.
 
-**Success** The target is {{conditions 93 "stunned 1"}} and takes 40 damage, the spell ends, and the target is then temporarily immune for 24 hours.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/Conditions#Stunned|stunned 1]] and takes 40 damage, the spell ends, and the target is then temporarily immune for 24 hours.
 
 **Failure** The target is stunned 3 and takes 80 damage. The spell's duration continues, but the target is then temporarily immune for 24 hours against being killed by _touch of death_.
 

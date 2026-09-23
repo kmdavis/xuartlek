@@ -16,7 +16,12 @@ Your innovation is a cutting-edge suit of medium armor with a variety of attache
 
 ## Table 2-2: Innovation Armor Statistics
 
-**Medium Armor****AC Bonus****Dex Cap****Check Penalty****Speed Penalty****Strength****Bulk****Group****Armor Traits** Power suit+5+1-2-5 feet32composite— Subterfuge suit+2+4-1—01composite—
+| **Medium Armor** | **AC Bonus** | **Dex Cap** | **Check Penalty** | **Speed Penalty** | **Strength** | **Bulk** | **Group** | **Armor Traits** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Power suit | +5 | +1 | -2 | -5 feet | 3 | 2 | composite | — |
+| Subterfuge suit | +2 | +4 | -1 | — | 0 | 1 | composite | — |
+
+
 
 Your innovation armor can have fundamental and property runes added to it in the same way as ordinary armor. Because of the unique features of your innovation, everyone except you is untrained in it, even if they would normally be trained (or better) in medium armor.
 

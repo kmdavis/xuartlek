@@ -24,8 +24,14 @@ You firmly believe in the technique of strengthening one's life force, spiritual
 
  The color of the light you choose determines the type of persistent damage from which you help the target recover.
 
-## 
-
- ColorDescription RedYou increase blood flow to heat the body, attempting to end persistent cold damage. OrangeYou cancel out electric charge, attempting to end persistent electricity damage. YellowYou reduce pain and mental stress, attempting to end persistent mental damage. GreenYou promote blood flow in a way that helps clot wounds, attempting to end persistent bleed damage. BlueYou cool the body, attempting to end persistent fire damage. IndigoYou render acids inert, attempting to end persistent acid damage. VioletYou purify the body, attempting to end persistent poison damage.
+| Color | Description |
+| --- | --- |
+| Red | You increase blood flow to heat the body, attempting to end persistent cold damage. |
+| Orange | You cancel out electric charge, attempting to end persistent electricity damage. |
+| Yellow | You reduce pain and mental stress, attempting to end persistent mental damage. |
+| Green | You promote blood flow in a way that helps clot wounds, attempting to end persistent bleed damage. |
+| Blue | You cool the body, attempting to end persistent fire damage. |
+| Indigo | You render acids inert, attempting to end persistent acid damage. |
+| Violet | You purify the body, attempting to end persistent poison damage. |
 
 *Source: Dark Archives (Remastered) p. 78*

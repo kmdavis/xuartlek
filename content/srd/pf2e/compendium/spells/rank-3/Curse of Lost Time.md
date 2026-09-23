@@ -33,7 +33,7 @@ You curse the target with rapid aging or erosion. The effect depends on whether 
 
 **Critical Success** The living creature is unaffected.
 
-**Success** The living creature briefly ages, becoming {{conditions 61 "clumsy 1"}} and {{conditions 71 "enfeebled 1"}} for 1 round.
+**Success** The living creature briefly ages, becoming [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy|clumsy 1]] and [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled|enfeebled 1]] for 1 round.
 
 **Failure** As success, with a duration of 1 hour.
 

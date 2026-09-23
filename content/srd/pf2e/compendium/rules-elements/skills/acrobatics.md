@@ -14,139 +14,27 @@ Acrobatics measures your ability to perform tasks requiring coordination and gra
 
 ### Item Bonuses for Acrobatics
 
-Item
-Bonus
-Level
-Category
-Consumable
-Note
-
-Essence Charm
-+1
-4
-Other Worn Items
-No
-Item bonus to a check of the crafter's choice
-
-[[srd/pf2e/compendium/equipment/worn-items/Tasset of Flexibility|Tasset of Flexibility]]
-+1
-4
-Other Worn Items
-No
-Item bonus to Acrobatics
-
-[[srd/pf2e/compendium/equipment/spellhearts/Five-Feather Wreath|Five-feather Wreath]]
-+1
-4
-Spellhearts
-No
-Item bonus to Acrobatics checks.
-
-[[srd/pf2e/compendium/equipment/spellhearts/Five-Feather Wreath|Greater Five-feather Wreath]]
-+1
-8
-Spellhearts
-No
-Item bonus to Acrobatics checks.
-
-[[srd/pf2e/compendium/equipment/spellhearts/Five-Feather Wreath|Major Five-feather Wreath]]
-+1
-12
-Spellhearts
-No
-Item bonus to Acrobatics checks.
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen|Quicksilver Mutagen]]
-+1
-0
-Alchemical Elixirs
-Yes
-
-Energizing Tea
-+1
-4
-Tea
-Yes
-Item bonus to Acrobatics
-
-[[srd/pf2e/compendium/equipment/worn-items/Sash of Prowess|Sash of Prowess]]
-+2
-10
-Worn Items
-No
-
-Talented Tap Shoes
-+2
-11
-Other Worn Items
-No
-Checks to Balance and Tumble Through an enemy’s space
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
-+2
-11
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-Tumbler's Belt
-+2
-13
-Held Items
-No
-The tumbler’s belt grants a +2 item bonus to Acrobatics checks, and whenever you critically succeed at a check to Tumble Through, you gain a +10-foot item bonus to your Speed until the end of your turn.
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen|Quicksilver Mutagen]]
-+2
-0
-Alchemical Elixirs
-Yes
-
-[[srd/pf2e/compendium/equipment/consumables/Cloud Buns|Cloud Buns (Greater)]]
-+2
-9
-Other Consumables
-Yes
-+2 to Acrobatics to Maneuver in the air
-
-[[srd/pf2e/compendium/equipment/worn-items/Sash of Prowess|Sash of Prowess (Greater)]]
-+3
-17
-Worn Items
-No
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
-+3
-18
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-[[srd/pf2e/compendium/equipment/apex-items/Mercurial Mantle|Mercurial Mantle]]
-+3
-18
-Apex Items
-No
-Item bonus to checks.
-
-Ashes of the War God
-+3
-20
-Other Consumables
-No
-item bonus to Acrobatics checks and never take falling damage
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen|Quicksilver Mutagen]]
-+3
-0
-Alchemical Elixirs
-Yes
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen|Quicksilver Mutagen]]
-+4
-0
-Alchemical Elixirs
-Yes
+| Item | Bonus | Level | Category | Consumable | Note |
+| --- | --- | --- | --- | --- | --- |
+| Essence Charm | +1 | 4 | Other Worn Items | No | Item bonus to a check of the crafter's choice |
+| [[srd/pf2e/compendium/equipment/worn-items/Tasset of Flexibility\|Tasset of Flexibility]] | +1 | 4 | Other Worn Items | No | Item bonus to Acrobatics |
+| [[srd/pf2e/compendium/equipment/spellhearts/Five-Feather Wreath\|Five-feather Wreath]] | +1 | 4 | Spellhearts | No | Item bonus to Acrobatics checks. |
+| [[srd/pf2e/compendium/equipment/spellhearts/Five-Feather Wreath\|Greater Five-feather Wreath]] | +1 | 8 | Spellhearts | No | Item bonus to Acrobatics checks. |
+| [[srd/pf2e/compendium/equipment/spellhearts/Five-Feather Wreath\|Major Five-feather Wreath]] | +1 | 12 | Spellhearts | No | Item bonus to Acrobatics checks. |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen\|Quicksilver Mutagen]] | +1 | 0 | Alchemical Elixirs | Yes | |
+| Energizing Tea | +1 | 4 | Tea | Yes | Item bonus to Acrobatics |
+| [[srd/pf2e/compendium/equipment/worn-items/Sash of Prowess\|Sash of Prowess]] | +2 | 10 | Worn Items | No | |
+| Talented Tap Shoes | +2 | 11 | Other Worn Items | No | Checks to Balance and Tumble Through an enemy’s space |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal]] | +2 | 11 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| Tumbler's Belt | +2 | 13 | Held Items | No | The tumbler’s belt grants a +2 item bonus to Acrobatics checks, and whenever you critically succeed at a check to Tumble Through, you gain a +10-foot item bonus to your Speed until the end of your turn. |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen\|Quicksilver Mutagen]] | +2 | 0 | Alchemical Elixirs | Yes | |
+| [[srd/pf2e/compendium/equipment/consumables/Cloud Buns\|Cloud Buns (Greater)]] | +2 | 9 | Other Consumables | Yes | +2 to Acrobatics to Maneuver in the air |
+| [[srd/pf2e/compendium/equipment/worn-items/Sash of Prowess\|Sash of Prowess (Greater)]] | +3 | 17 | Worn Items | No | |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal (Greater)]] | +3 | 18 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| [[srd/pf2e/compendium/equipment/apex-items/Mercurial Mantle\|Mercurial Mantle]] | +3 | 18 | Apex Items | No | Item bonus to checks. |
+| Ashes of the War God | +3 | 20 | Other Consumables | No | item bonus to Acrobatics checks and never take falling damage |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen\|Quicksilver Mutagen]] | +3 | 0 | Alchemical Elixirs | Yes | |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Quicksilver Mutagen\|Quicksilver Mutagen]] | +4 | 0 | Alchemical Elixirs | Yes | |
 
 ### Related Feats
 

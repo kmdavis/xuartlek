@@ -29,9 +29,9 @@ You breathe life into a mass of fiery critters. They swarm the target and create
 
 **Critical Success** The creature takes no damage.
 
-**Success** The creature takes half damage and is {{conditions 7 "dazzled"}} for 1 round.
+**Success** The creature takes half damage and is dazzled for 1 round.
 
-**Failure** The creature takes full damage and is {{conditions 1 "blinded"}} for 1 round. It's then temporarily immune to being blinded by cinder swarm for 24 hours.
+**Failure** The creature takes full damage and is blinded for 1 round. It's then temporarily immune to being blinded by cinder swarm for 24 hours.
 
 **Critical Failure** As failure, but double damage and blinded for 1 minute.
 

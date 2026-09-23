@@ -20,18 +20,8 @@ If you need to provide food and shelter, you can use the Subsist downtime activi
 
 ### Item Bonuses for Subsist
 
-Item
-Bonus
-Level
-Category
-Consumable
-Note
-
-Emperor's Peak Quartz Bracelet
-+1
-3
-Other Worn Items
-No
-Item bonus to Survival checks to Subsist. +3 if in mountainous terrain
+| Item | Bonus | Level | Category | Consumable | Note |
+| --- | --- | --- | --- | --- | --- |
+| Emperor's Peak Quartz Bracelet | +1 | 3 | Other Worn Items | No | Item bonus to Survival checks to Subsist. +3 if in mountainous terrain |
 
 *Source: Player Core p. 232*

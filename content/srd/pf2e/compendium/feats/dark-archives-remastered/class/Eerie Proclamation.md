@@ -34,8 +34,11 @@ You know there are places in the world that are just wrong— places where the b
 
 **Critical Failure** As failure, but the effect is astonishingly gruesome. Use the critical failure column, and the condition lasts for 1 minute.
 
-## 
-
-**d4****Failure****Critical Failure**1{{conditions 61 "Clumsy 2"}}Clumsy 32{{conditions 71 "Enfeebled 2"}}Enfeebled 33{{conditions 94 "Stupefied 2"}}Stupefied 34{{conditions 65 "Dazzled"}}{{conditions 59 "Blinded"}} for 1 round, then dazzled
+| **d4** | **Failure** | **Critical Failure** |
+| --- | --- | --- |
+| 1 | [[srd/pf2e/compendium/rules-elements/Conditions#Clumsy\|Clumsy 2]] | Clumsy 3 |
+| 2 | [[srd/pf2e/compendium/rules-elements/Conditions#Enfeebled\|Enfeebled 2]] | Enfeebled 3 |
+| 3 | [[srd/pf2e/compendium/rules-elements/Conditions#Stupefied\|Stupefied 2]] | Stupefied 3 |
+| 4 | [[srd/pf2e/compendium/rules-elements/Conditions#Dazzled\|Dazzled]] | [[srd/pf2e/compendium/rules-elements/Conditions#Blinded\|Blinded]] for 1 round, then dazzled |
 
 *Source: Dark Archives (Remastered) p. 65*

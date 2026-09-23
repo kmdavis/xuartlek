@@ -22,6 +22,10 @@ _Jabali's dice_ are two six-sided dice carved from evenly weighted stone to the 
 
 **Activate—Jabali's Gamble** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/Concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Manipulate|manipulate]]) **Frequency** once per day; **Effect** You call out the shuyookh's name and title, then roll the dice. The shuyookh appears briefly to provide for your defense. Roll 2d6 to determine the effect. Represented by the GM, the shuyookh chooses any effect's specifications, benefiting you according to the shuyookh's whims.
 
-**2–5**The shuyookh casts _mountain resilience_ on you. **6–9**The shuyookh casts [[srd/pf2e/compendium/spells/rank-4/Grasping Earth|_grasping earth_]], but you and your allies are immune to it. **10–11**The shuyookh casts _wall of stone_. The edges can pass through creatures, which are shunted to the side of the wall opposite that edge. **12**The shuyookh casts a DC 31 _petrify_ spell on a creature hostile and in proximity to you. If no appealing target exists, you receive a 10–11 result instead.
+| **2–5** | The shuyookh casts _mountain resilience_ on you. |
+| --- | --- |
+| **6–9** | The shuyookh casts [[srd/pf2e/compendium/spells/rank-4/Grasping Earth\|_grasping earth_]], but you and your allies are immune to it. |
+| **10–11** | The shuyookh casts _wall of stone_. The edges can pass through creatures, which are shunted to the side of the wall opposite that edge. |
+| **12** | The shuyookh casts a DC 31 _petrify_ spell on a creature hostile and in proximity to you. If no appealing target exists, you receive a 10–11 result instead. |
 
 *Source: Rage of Elements p. 99*

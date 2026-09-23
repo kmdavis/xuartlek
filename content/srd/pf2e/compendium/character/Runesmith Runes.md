@@ -460,11 +460,11 @@ This mighty, jagged rune is just one of several that keeps the Destroyer sealed 
 
 **Critical Success** The bearer is unaffected.
 
-**Success** The rune-bearer becomes {{conditions 92 "slowed 1"}} for 1 round.
+**Success** The rune-bearer becomes [[srd/pf2e/compendium/rules-elements/Conditions#Slowed|slowed 1]] for 1 round.
 
 **Failure** The rune-bearer becomes slowed 2 for 1 round.
 
-**Critical Failure** The bearer becomes {{conditions 90 "restrained"}} and {{conditions 59 "blinded"}} as it is trapped in a massive, compressed sphere of earth. While restrained, the bearer is also slowed 2. If the bearer is unable to escape the sphere within 3 rounds, it becomes petrified. Over the course of a year, the sphere forms a small hill around it, hiding its buried prisoner. At the top of the hill, a stone with the image of this rune remains. {{rules 3280 "Counteracting"}} the stone frees the prisoner.
+**Critical Failure** The bearer becomes [[srd/pf2e/compendium/rules-elements/Conditions#Restrained|restrained]] and [[srd/pf2e/compendium/rules-elements/Conditions#Blinded|blinded]] as it is trapped in a massive, compressed sphere of earth. While restrained, the bearer is also slowed 2. If the bearer is unable to escape the sphere within 3 rounds, it becomes petrified. Over the course of a year, the sphere forms a small hill around it, hiding its buried prisoner. At the top of the hill, a stone with the image of this rune remains. [[srd/pf2e/books/player-core/chapter-8-playing-the-game/Afflictions#Counteracting|Counteracting]] the stone frees the prisoner.
 
 *Source: Impossible Magic p. 61*
 

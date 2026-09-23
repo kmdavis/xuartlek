@@ -20,12 +20,12 @@ socialImage: og-image.png
 
 Dragonhide armor is immune to one damage type based on the type of dragon it's made from. Wearing armor made from dragonhide also grants you a +1 circumstance bonus to your AC and saving throws against attacks and spells that deal the corresponding damage type. 
 
-## 
-
-Dragon Tradition
-DamageArcaneForceDivineSpirit
-OccultMental
-PrimalPoison
+| Dragon Tradition | Damage |
+| --- | --- |
+| Arcane | Force |
+| Divine | Spirit |
+| Occult | Mental |
+| Primal | Poison |
 
 ### Dragonhide Armor (Standard-Grade)
 

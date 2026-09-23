@@ -33,7 +33,7 @@ Magical monkey spirits fill the area as they pile and climb on top of one anothe
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is {{conditions 8 "deafened"}} for 1 round.
+**Failure** The creature is deafened for 1 round.
 
 **Critical Failure** The creature is deafened for 1 minute.
 - **Tumultuous Gymnastics** The monkeys jump and climb all over creatures in the spell's area, interfering with complex movements. Each creature in the spell's area must attempt a Reflex save.
@@ -42,7 +42,7 @@ Magical monkey spirits fill the area as they pile and climb on top of one anothe
 
 **Success** The creature is unaffected.
 
-**Failure** For 1 round, the creature must succeed at a DC 5 flat check whenever it attempts a {{traits 104 "manipulate"}} action. If it fails this check, the action is disrupted.
+**Failure** For 1 round, the creature must succeed at a DC 5 flat check whenever it attempts a manipulate action. If it fails this check, the action is disrupted.
 
 **Critical Failure** As failure, but the monkeys cling to the creature tenaciously, and the effect lasts until the spell ends, even if the creature leaves the spell's area.
 

@@ -76,31 +76,52 @@ Trained in [[srd/pf2e/compendium/rules-elements/skills/Religion|Religion]]
 
 You gain these features as Oracle. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, oracle spellcasting, spell repertoire, mystery |
+| 2 | Oracle feat, skill feat |
+| 3 | 2nd-rank spells, general feat, signature spells, skill increase |
+| 4 | Oracle feat, skill feat |
+| 5 | 3rd-rank spells, attribute boosts, ancestry feat, skill increase |
+| 6 | Oracle feat, skill feat |
+| 7 | 4th-rank spells, expert spellcaster, general feat, mysterious resolve, skill increase |
+| 8 | Oracle feat, skill feat |
+| 9 | 5th-rank spells, ancestry feat, magical fortitude, skill increase |
+| 10 | Attribute boosts, oracle feat, skill feat |
+| 11 | 6th-rank spells, divine access, general feat, major curse, oracular senses, skill increase, weapon expertise |
+| 12 | Oracle feat, skill feat |
+| 13 | 7th-rank spells, ancestry feat, light armor expertise, premonition’s reflexes, skill increase, weapon specialization |
+| 14 | Oracle feat, skill feat |
+| 15 | 8th-rank spells, attribute boosts, general feat, master spellcaster, skill increase |
+| 16 | Oracle feat, skill feat |
+| 17 | 9th-rank spells, ancestry feat, extreme curse, greater mysterious resolve, skill increase |
+| 18 | Oracle feat, skill feat |
+| 19 | General feat, legendary spellcaster, oracular clarity, skill increase |
+| 20 | Attribute boosts, oracle feat, skill feat |
 
-1Ancestry and background, attribute boosts, initial proficiencies, oracle spellcasting, spell repertoire, mystery
-2Oracle feat, skill feat
-32nd-rank spells, general feat, signature spells, skill increase
-4Oracle feat, skill feat
-53rd-rank spells, attribute boosts, ancestry feat, skill increase
-6Oracle feat, skill feat
-74th-rank spells, expert spellcaster, general feat, mysterious resolve, skill increase
-8Oracle feat, skill feat
-95th-rank spells, ancestry feat, magical fortitude, skill increase
-10Attribute boosts, oracle feat, skill feat
-116th-rank spells, divine access, general feat, major curse, oracular senses, skill increase, weapon expertise
-12Oracle feat, skill feat
-137th-rank spells, ancestry feat, light armor expertise, premonition’s reflexes, skill increase, weapon specialization
-14Oracle feat, skill feat
-158th-rank spells, attribute boosts, general feat, master spellcaster, skill increase
-16Oracle feat, skill feat
-179th-rank spells, ancestry feat, extreme curse, greater mysterious resolve, skill increase
-18Oracle feat, skill feat
-19General feat, legendary spellcaster, oracular clarity, skill increase
-20Attribute boosts, oracle feat, skill feat
-
-Your LevelCantrips1st2nd3rd4th5th6th7th8th9th10th153—————————254—————————3543————————4544————————55443———————65444———————754443——————854444——————9544443—————10544444—————115444443————125444444————1354444443———1454444444———15544444443——16544444444——175444444443—185444444444—1954444444441*2054444444441* * The oracular clarity class feature gives you a 10th-level spell slot that works differently from other spell slots.
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 5 | 3 | — | — | — | — | — | — | — | — | — |
+| 2 | 5 | 4 | — | — | — | — | — | — | — | — | — |
+| 3 | 5 | 4 | 3 | — | — | — | — | — | — | — | — |
+| 4 | 5 | 4 | 4 | — | — | — | — | — | — | — | — |
+| 5 | 5 | 4 | 4 | 3 | — | — | — | — | — | — | — |
+| 6 | 5 | 4 | 4 | 4 | — | — | — | — | — | — | — |
+| 7 | 5 | 4 | 4 | 4 | 3 | — | — | — | — | — | — |
+| 8 | 5 | 4 | 4 | 4 | 4 | — | — | — | — | — | — |
+| 9 | 5 | 4 | 4 | 4 | 4 | 3 | — | — | — | — | — |
+| 10 | 5 | 4 | 4 | 4 | 4 | 4 | — | — | — | — | — |
+| 11 | 5 | 4 | 4 | 4 | 4 | 4 | 3 | — | — | — | — |
+| 12 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | — | — | — | — |
+| 13 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | — | — | — |
+| 14 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | — | — | — |
+| 15 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | — | — |
+| 16 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | — | — |
+| 17 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | — |
+| 18 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | — |
+| 19 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 1* |
+| 20 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 1* |
+| * The oracular clarity class feature gives you a 10th-level spell slot that works differently from other spell slots. | | | | | | | | | | | |
 
 | | |
 | --- | --- |

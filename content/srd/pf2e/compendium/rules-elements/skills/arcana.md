@@ -26,133 +26,26 @@ Arcana measures how much you know about arcane magic and creatures.
 
 ### Item Bonuses for Arcana
 
-Item
-Bonus
-Level
-Category
-Consumable
-Note
-
-[[srd/pf2e/compendium/equipment/worn-items/Mage's Hat|Mage's Hat]]
-+1
-3
-Worn Items
-No
-Arcana checks
-
-Essence Charm
-+1
-4
-Other Worn Items
-No
-Item bonus to a check of the crafter's choice
-
-Essence Forge (Lesser)
-+1
-6
-Other
-No
-Item Bonus
-
-Azlanti Diamond
-+1
-8
-Artifacts
-No
-Item bonus to Arcana.
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Lesser)]]
-+1
-1
-Alchemical Elixirs
-Yes
-
-Azlanti Diamond
-+2
-8
-Artifacts
-No
-Item bonus to Arcana when the item reaches the 9th level.
-
-[[srd/pf2e/compendium/equipment/worn-items/Mage's Hat|Mage's Hat (Greater)]]
-+2
-9
-Worn Items
-No
-Arcana checks
-
-[[srd/pf2e/compendium/equipment/held-items/Fulu Compendium|Fulu Compendium]]
-+2
-9
-Held Items
-No
-Item bonus to determine a fulu's function or authenticity.
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
-+2
-11
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-Essence Forge (Moderate)
-+2
-12
-Other
-No
-Item Bonus
-
-Stage Magician's Cloak
-+2
-13
-Held Items
-No
-When worn with the silvery blue lining facing out, it grants a +2 item bonus to Arcana checks.
-
-Runic Skullcap
-+2
-15
-Other Worn Items
-No
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Moderate)]]
-+2
-3
-Alchemical Elixirs
-Yes
-
-Azlanti Diamond
-+3
-8
-Artifacts
-No
-Item bonus to Arcana when the item reaches the 17th level.
-
-Essence Forge (Greater)
-+3
-18
-Other
-No
-Item Bonus
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
-+3
-18
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Greater)]]
-+3
-11
-Alchemical Elixirs
-Yes
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen|Cognitive Mutagen (Major)]]
-+4
-17
-Alchemical Elixirs
-Yes
+| Item | Bonus | Level | Category | Consumable | Note |
+| --- | --- | --- | --- | --- | --- |
+| [[srd/pf2e/compendium/equipment/worn-items/Mage's Hat\|Mage's Hat]] | +1 | 3 | Worn Items | No | Arcana checks |
+| Essence Charm | +1 | 4 | Other Worn Items | No | Item bonus to a check of the crafter's choice |
+| Essence Forge (Lesser) | +1 | 6 | Other | No | Item Bonus |
+| Azlanti Diamond | +1 | 8 | Artifacts | No | Item bonus to Arcana. |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Lesser)]] | +1 | 1 | Alchemical Elixirs | Yes | |
+| Azlanti Diamond | +2 | 8 | Artifacts | No | Item bonus to Arcana when the item reaches the 9th level. |
+| [[srd/pf2e/compendium/equipment/worn-items/Mage's Hat\|Mage's Hat (Greater)]] | +2 | 9 | Worn Items | No | Arcana checks |
+| [[srd/pf2e/compendium/equipment/held-items/Fulu Compendium\|Fulu Compendium]] | +2 | 9 | Held Items | No | Item bonus to determine a fulu's function or authenticity. |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal]] | +2 | 11 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| Essence Forge (Moderate) | +2 | 12 | Other | No | Item Bonus |
+| Stage Magician's Cloak | +2 | 13 | Held Items | No | When worn with the silvery blue lining facing out, it grants a +2 item bonus to Arcana checks. |
+| Runic Skullcap | +2 | 15 | Other Worn Items | No | |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Moderate)]] | +2 | 3 | Alchemical Elixirs | Yes | |
+| Azlanti Diamond | +3 | 8 | Artifacts | No | Item bonus to Arcana when the item reaches the 17th level. |
+| Essence Forge (Greater) | +3 | 18 | Other | No | Item Bonus |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal (Greater)]] | +3 | 18 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Greater)]] | +3 | 11 | Alchemical Elixirs | Yes | |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Cognitive Mutagen\|Cognitive Mutagen (Major)]] | +4 | 17 | Alchemical Elixirs | Yes | |
 
 ### Related Feats
 

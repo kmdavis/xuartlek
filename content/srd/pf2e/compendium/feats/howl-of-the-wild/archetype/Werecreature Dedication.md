@@ -25,18 +25,17 @@ You're a werecreature, able to shift between your humanoid shape, an animal shap
 
 ## Werecreature Types
 
- **Type****Speed****Attack****Damage****Traits****Special** Werebat10 feet, fly 15 feetFangs1d8 piercing—When Flying due to the fly speed granted by this form, you must begin and end your movement on a solid surface or immediately fall. Werebear25 feetJaws
-Claw1d8 piercing
-1d6 slashing—
-{{traits 526 "Agile"}}—
-— Wereboar30 feetTusk1d8 slashing{{traits 708 "Sweep"}}— Werecrocodile25 feet, swim 15 feetJaws1d8 piercing{{traits 619 "Grapple"}}You can {{rules 468 "hold your breath"}} for 2 hours in animal or hybrid shape. Weremoose25 feetAntler1d8 piercing{{traits 694 "Shove"}}— Wererat25 feetJaws
-Claw1d6 piercing
-1d4 slashing{{traits 602 "Finesse"}}
-{{traits 526 "Agile"}}, {{traits 602 "finesse"}}Your animal shape is Small in size. Wereshark15 feet, swim 25 feetJaws1d8 piercing{{traits 619 "Grapple"}}Your hybrid shape gains the {{traits 529 "amphibious"}} trait. In your animal shape, you lose your land Speed and your Swim speed increases to 35 feet, and you gain the {{traits 533 "aquatic"}} trait. Weretiger25 feetJaws
-Claw1d8 piercing
-1d6 slashing—
-{{traits 526 "Agile"}}—
-— Werewolf30 feetJaws1d8 piercing{{traits 716 "Trip"}}—
+| **Type** | **Speed** | **Attack** | **Damage** | **Traits** | **Special** |
+| --- | --- | --- | --- | --- | --- |
+| Werebat | 10 feet, fly 15 feet | Fangs | 1d8 piercing | — | When Flying due to the fly speed granted by this form, you must begin and end your movement on a solid surface or immediately fall. |
+| Werebear | 25 feet | JawsClaw | 1d8 piercing1d6 slashing | —[[srd/pf2e/compendium/rules-elements/traits/player-core/Agile\|Agile]] | —— |
+| Wereboar | 30 feet | Tusk | 1d8 slashing | [[srd/pf2e/compendium/rules-elements/traits/player-core/Sweep\|Sweep]] | — |
+| Werecrocodile | 25 feet, swim 15 feet | Jaws | 1d8 piercing | [[srd/pf2e/compendium/rules-elements/traits/player-core/Grapple\|Grapple]] | You can hold your breath for 2 hours in animal or hybrid shape. |
+| Weremoose | 25 feet | Antler | 1d8 piercing | [[srd/pf2e/compendium/rules-elements/traits/player-core/Shove\|Shove]] | — |
+| Wererat | 25 feet | JawsClaw | 1d6 piercing1d4 slashing | [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse\|Finesse]][[srd/pf2e/compendium/rules-elements/traits/player-core/Agile\|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse\|finesse]] | Your animal shape is Small in size. |
+| Wereshark | 15 feet, swim 25 feet | Jaws | 1d8 piercing | [[srd/pf2e/compendium/rules-elements/traits/player-core/Grapple\|Grapple]] | Your hybrid shape gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/Amphibious\|amphibious]] trait. In your animal shape, you lose your land Speed and your Swim speed increases to 35 feet, and you gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/Aquatic\|aquatic]] trait. |
+| Weretiger | 25 feet | JawsClaw | 1d8 piercing1d6 slashing | —[[srd/pf2e/compendium/rules-elements/traits/player-core/Agile\|Agile]] | —— |
+| Werewolf | 30 feet | Jaws | 1d8 piercing | [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip\|Trip]] | — |
 
 **Special** If you're a beastkin, you can use unarmed attacks from your hybrid shape while you're in your werecreature hybrid shape. These forms are otherwise separate.
 

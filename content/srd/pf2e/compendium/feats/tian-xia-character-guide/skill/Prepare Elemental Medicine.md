@@ -36,7 +36,17 @@ In addition, characters who have access to Prepare Elemental Medicine also have 
 
 ## Pei Zing Elemental Associations
 
-WoodFireEarthMetalWaterSeasonSpringEarly summerLate summerFallWinterTasteSourBitterSweetPungentSaltyVectorWindHeatDampDryColdColorGreenRedYellowWhiteBlackDragonForestUnderworldSovereignSkySeaEmotionAngerExuberanceAnxietyGriefFearOrgansEyes, liver, gallbladderTongue, Heart, small intestinesMouth, spleen, stomachNose, lungs, large intestinesEar, kidney, bladderElements to Treat ExcessFire, earth, metalEarth, metal, waterMetal, water, woodWater, wood, fireWood, fire, earthElements to Treat DeficiencyWater, woodWood, fireFire, earthEarth, metalMetal, water
+| | Wood | Fire | Earth | Metal | Water |
+| --- | --- | --- | --- | --- | --- |
+| Season | Spring | Early summer | Late summer | Fall | Winter |
+| Taste | Sour | Bitter | Sweet | Pungent | Salty |
+| Vector | Wind | Heat | Damp | Dry | Cold |
+| Color | Green | Red | Yellow | White | Black |
+| Dragon | Forest | Underworld | Sovereign | Sky | Sea |
+| Emotion | Anger | Exuberance | Anxiety | Grief | Fear |
+| Organs | Eyes, liver, gallbladder | Tongue, Heart, small intestines | Mouth, spleen, stomach | Nose, lungs, large intestines | Ear, kidney, bladder |
+| Elements to Treat Excess | Fire, earth, metal | Earth, metal, water | Metal, water, wood | Water, wood, fire | Wood, fire, earth |
+| Elements to Treat Deficiency | Water, wood | Wood, fire | Fire, earth | Earth, metal | Metal, water |
 
 ### Prepare Elemental Medicine leads to...
 

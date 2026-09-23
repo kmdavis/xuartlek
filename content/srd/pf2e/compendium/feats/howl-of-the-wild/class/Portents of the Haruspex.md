@@ -22,9 +22,16 @@ Although the divinations of a haruspex traditionally require organs and lengthy 
 
  Roll 1d12 to determine the damage type favored by your prediction. The next time before the end of your next turn that you or your allies deals that damage type to an enemy, that enemy has weakness equal to your level against that damage.
 
-## 
-
-
-**D12****Damage Type** 1 acid 2–3 bludgeoning 4 cold 5 electricity 6 fire 7 mental 8–9 piercing 10 poison 11–12 slashing
+| **D12** | **Damage Type** |
+| --- | --- |
+| 1 | acid |
+| 2–3 | bludgeoning |
+| 4 | cold |
+| 5 | electricity |
+| 6 | fire |
+| 7 | mental |
+| 8–9 | piercing |
+| 10 | poison |
+| 11–12 | slashing |
 
 *Source: Howl of the Wild p. 63*

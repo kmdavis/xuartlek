@@ -24,13 +24,17 @@ Magic items you create bear a stamp specific to your handiwork. When you success
 
 **Success** The item gains a random item quirk with any specifics selected by the GM. 
 
-## 
-
- d10
-
-QuirkDescription
- 1 Cavorting Dances in place when not in use. 2 Clean Remains pristine despite filth
- 3 Environmental Appearance changes to match its environment. 4 Filthy A layer of filth always remains. 5 Floating Slowly descends when dropped. 6 Glittering Shimmers and glows with light bright as a torch. 7 Invisible The item is invisible, but becomes visible for 1 round after being used. 8 Loyal Floats within 5 feet of its owner, as if on a tether (but can still be seized by someone else). 9 Mood coloration
- User's mood affects the item's color. 10 Skillful The item grants a +1 item bonus to one type of skill checks.
+| d10 | Quirk | Description |
+| --- | --- | --- |
+| 1 | Cavorting | Dances in place when not in use. |
+| 2 | Clean | Remains pristine despite filth |
+| 3 | Environmental | Appearance changes to match its environment. |
+| 4 | Filthy | A layer of filth always remains. |
+| 5 | Floating | Slowly descends when dropped. |
+| 6 | Glittering | Shimmers and glows with light bright as a torch. |
+| 7 | Invisible | The item is invisible, but becomes visible for 1 round after being used. |
+| 8 | Loyal | Floats within 5 feet of its owner, as if on a tether (but can still be seized by someone else). |
+| 9 | Mood coloration | User's mood affects the item's color. |
+| 10 | Skillful | The item grants a +1 item bonus to one type of skill checks. |
 
 *Source: Player Core 2 p. 233*

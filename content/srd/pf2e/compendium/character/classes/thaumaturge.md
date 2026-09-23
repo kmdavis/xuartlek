@@ -78,29 +78,28 @@ Trained in [[srd/pf2e/compendium/rules-elements/skills/Arcana|Arcana]], [[srd/pf
 
 You gain these features as Thaumaturge. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
-
-1Ancestry and background, attribute boosts, initial proficiencies, esoteric lore, first implement and esoterica, implement’s empowerment, thaumaturge feat
-2Skill feat, thaumaturge feat
-3General feat, reflex expertise, skill increase
-4Skill feat, thaumaturge feat
-5Ancestry feat, attribute boosts, second implement, skill increase, weapon expertise
-6Skill feat, thaumaturge feat
-7Disciplined mind, general feat, implement adept, skill increase, weapon specialization
-8Skill feat, thaumaturge feat
-9Ancestry feat, intensify vulnerability, perception expertise, skill increase, thaumaturgic expertise
-10Attribute boosts, skill feat, thaumaturge feat
-11General feat, medium armor expertise, second adept, skill increase
-12Skill feat, thaumaturge feat
-13Ancestry feat, perfected mind, skill increase, weapon mastery
-14Skill feat, thaumaturge feat
-15Attribute boosts, earned resilience, general feat, greater weapon specialization, skill increase, third implement
-16Skill feat, thaumaturge feat
-17Ancestry feat, implement paragon, skill increase, thaumaturgic mastery
-18Skill feat, thaumaturge feat
-19General feat, medium armor mastery, skill increase, unlimited esoterica
-20Attribute boosts, skill feat, thaumaturge feat
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, esoteric lore, first implement and esoterica, implement’s empowerment, thaumaturge feat |
+| 2 | Skill feat, thaumaturge feat |
+| 3 | General feat, reflex expertise, skill increase |
+| 4 | Skill feat, thaumaturge feat |
+| 5 | Ancestry feat, attribute boosts, second implement, skill increase, weapon expertise |
+| 6 | Skill feat, thaumaturge feat |
+| 7 | Disciplined mind, general feat, implement adept, skill increase, weapon specialization |
+| 8 | Skill feat, thaumaturge feat |
+| 9 | Ancestry feat, intensify vulnerability, perception expertise, skill increase, thaumaturgic expertise |
+| 10 | Attribute boosts, skill feat, thaumaturge feat |
+| 11 | General feat, medium armor expertise, second adept, skill increase |
+| 12 | Skill feat, thaumaturge feat |
+| 13 | Ancestry feat, perfected mind, skill increase, weapon mastery |
+| 14 | Skill feat, thaumaturge feat |
+| 15 | Attribute boosts, earned resilience, general feat, greater weapon specialization, skill increase, third implement |
+| 16 | Skill feat, thaumaturge feat |
+| 17 | Ancestry feat, implement paragon, skill increase, thaumaturgic mastery |
+| 18 | Skill feat, thaumaturge feat |
+| 19 | General feat, medium armor mastery, skill increase, unlimited esoterica |
+| 20 | Attribute boosts, skill feat, thaumaturge feat |
 
 | | |
 | --- | --- |

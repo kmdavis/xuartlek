@@ -32,7 +32,7 @@ A powerful globe of searing sunlight explodes in the area, dealing 8d10 fire dam
 
 **Failure** The creature takes full damage.
 
-**Critical Failure** The creature takes full damage and becomes {{conditions 1 "blinded"}} permanently. 
+**Critical Failure** The creature takes full damage and becomes blinded permanently. 
 
 If the globe overlaps with an area of magical [[srd/pf2e/compendium/rules-elements/traits/player-core/Darkness|darkness]], _sunburst_ attempts to counteract the darkness effect.
 

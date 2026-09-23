@@ -25,7 +25,7 @@ A tiny, bone-white moth emerges from your open mouth. It shakes itself off, spre
 
 **Critical Success** The target is unaffected.
 
-**Success** The moth only briefly brushes its wings against the target. The target is {{conditions 91 "sickened 1"}}.
+**Success** The moth only briefly brushes its wings against the target. The target is [[srd/pf2e/compendium/rules-elements/Conditions#Sickened|sickened 1]].
 
 **Failure** The moth lands on the target, kissing the spot with its fluttering. The target is afflicted with the bone moth's kiss at stage 1.
 

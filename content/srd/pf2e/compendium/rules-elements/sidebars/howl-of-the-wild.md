@@ -15,20 +15,19 @@ socialImage: og-image.png
 
 Your heritage gives you a special [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed|unarmed]] attack instead of the [[srd/pf2e/compendium/equipment/weapons/brawling/Fist|fist]] unarmed attack humanoids typically gain. This attack is in the [[srd/pf2e/compendium/rules-elements/Weapon Groups#Brawling|brawling]] weapon group. Work with your GM to determine which one you have, using the type of animal you are and suggestions in your heritage for guidance. For example, you might choose a beak, talon, or wing for an eagle, a fist or tail for a monkey, or a tongue or jaws for a toad.
 
-## 
-
-Unarmed AttackDamageTraits
-Antler1d6 P{{traits 602 "Finesse"}}, {{traits 719 "unarmed"}}
-Beak1d6 P{{traits 602 "Finesse"}}, {{traits 719 "unarmed"}}
-Claw1d4 S{{traits 526 "Agile"}}, {{traits 602 "finesse"}}, {{traits 719 "unarmed"}}
-Fangs1d6 P{{traits 602 "Finesse"}}, {{traits 719 "unarmed"}}
-Fist1d4 B{{traits 526 "Agile"}}, {{traits 602 "finesse"}}, {{traits 661 "nonlethal"}}, {{traits 719 "unarmed"}}
-Horn1d6 P{{traits 602 "Finesse"}}, {{traits 719 "unarmed"}}
-Jaws1d6 P{{traits 602 "Finesse"}}, {{traits 719 "unarmed"}}
-Tail1d6 B{{traits 602 "Finesse"}}, {{traits 716 "trip"}}, {{traits 719 "unarmed"}}
-Talon1d4 P{{traits 526 "Agile"}}, {{traits 602 "finesse"}}, {{traits 719 "unarmed"}}
-Tongue1d6 B{{traits 602 "Finesse"}}, {{traits 719 "unarmed"}}
-Wing1d4 B{{traits 526 "Agile"}}, {{traits 602 "finesse"}}, {{traits 719 "unarmed"}}
+| Unarmed Attack | Damage | Traits |
+| --- | --- | --- |
+| Antler | 1d6 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse\|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Beak | 1d6 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse\|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Claw | 1d4 S | [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile\|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse\|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Fangs | 1d6 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse\|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Fist | 1d4 B | [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile\|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse\|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Nonlethal\|nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Horn | 1d6 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse\|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Jaws | 1d6 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse\|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Tail | 1d6 B | [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse\|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Trip\|trip]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Talon | 1d4 P | [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile\|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse\|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Tongue | 1d6 B | [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse\|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
+| Wing | 1d4 B | [[srd/pf2e/compendium/rules-elements/traits/player-core/Agile\|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Finesse\|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/Unarmed\|unarmed]] |
 
 *Source: Howl of the Wild p. 22*
 

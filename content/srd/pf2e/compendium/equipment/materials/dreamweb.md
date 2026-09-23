@@ -19,7 +19,14 @@ Made from the webs spun from the thorax of the [[srd/pf2e/bestiary/war-of-immort
 
 ## Dreamweb
 
-Dreamweb ItemsHardnessHPBT Thin Items Standard-grade4168 High-grade72814 Items Standard-grade63216 High-grade94422
+| Dreamweb Items | Hardness | HP | BT |
+| --- | --- | --- | --- |
+| Thin Items | | | |
+| Standard-grade | 4 | 16 | 8 |
+| High-grade | 7 | 28 | 14 |
+| Items | | | |
+| Standard-grade | 6 | 32 | 16 |
+| High-grade | 9 | 44 | 22 |
 
 ### Dreamweb Bolt
 

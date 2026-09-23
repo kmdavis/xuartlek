@@ -47,9 +47,9 @@ DC 35 [[srd/pf2e/compendium/rules-elements/skills/Thievery|Thievery]] (master) t
 
 **Success** The creature is unaffected.
 
-**Failure** The creature takes full damage plus 1d10 {{conditions 86 "persistent bleed damage"}}.
+**Failure** The creature takes full damage plus 1d10 [[srd/pf2e/compendium/rules-elements/Conditions#Persistent Damage|persistent bleed damage]].
 
-**Critical Failure** The creature takes double damage and 1d10 persistent bleed damage. It also becomes {{conditions 99 "wounded"}} 1 (or increases its wounded value by 1, if it is already wounded).
+**Critical Failure** The creature takes double damage and 1d10 persistent bleed damage. It also becomes [[srd/pf2e/compendium/rules-elements/Conditions#Wounded|wounded]] 1 (or increases its wounded value by 1, if it is already wounded).
 
 ---
 **Reset**

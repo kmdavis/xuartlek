@@ -18,6 +18,11 @@ You bear scars or tattoos enhanced by the mark of your community’s prowess. Wh
 
 ## Hold Mark
 
-Hold Mark EmblemSkillTraditionBurning SunDiplomacyArcaneDeath’s HeadSurvivalPrimalDefiled CorpseReligionDivineEmpty HandIntimidationOccult
+| Hold Mark Emblem | Skill | Tradition |
+| --- | --- | --- |
+| Burning Sun | Diplomacy | Arcane |
+| Death’s Head | Survival | Primal |
+| Defiled Corpse | Religion | Divine |
+| Empty Hand | Intimidation | Occult |
 
 *Source: Player Core p. 72*

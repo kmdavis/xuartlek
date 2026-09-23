@@ -27,7 +27,28 @@ You grant intelligence to the target, transforming it into a beast. If it was pr
 
 ## Creature Creation Rituals
 
- **Creature Level****Ritual Rank****Required Cost** –1 or 0215 gp 1260 gp 23105 gp 33180 gp 44300 gp 54480 gp 65750 gp 751,080 gp 861,500 gp 962,100 gp 1073,000 gp 1174,200 gp 1286,000 gp 1389,000 gp 14913,500 gp 15919,500 gp 161030,000 gp 171045,000 gp 
+| **Creature Level** | **Ritual Rank** | **Required Cost** |
+| --- | --- | --- |
+| –1 or 0 | 2 | 15 gp |
+| 1 | 2 | 60 gp |
+| 2 | 3 | 105 gp |
+| 3 | 3 | 180 gp |
+| 4 | 4 | 300 gp |
+| 5 | 4 | 480 gp |
+| 6 | 5 | 750 gp |
+| 7 | 5 | 1,080 gp |
+| 8 | 6 | 1,500 gp |
+| 9 | 6 | 2,100 gp |
+| 10 | 7 | 3,000 gp |
+| 11 | 7 | 4,200 gp |
+| 12 | 8 | 6,000 gp |
+| 13 | 8 | 9,000 gp |
+| 14 | 9 | 13,500 gp |
+| 15 | 9 | 19,500 gp |
+| 16 | 10 | 30,000 gp |
+| 17 | 10 | 45,000 gp |
+
+
 
 **Critical Success** The target's Intelligence, Wisdom, and Charisma modifiers each increase to +2 if they were lower, and it becomes [[srd/pf2e/compendium/rules-elements/Conditions#Helpful|helpful]] to you for awakening it.
 

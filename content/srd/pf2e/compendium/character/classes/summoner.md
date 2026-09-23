@@ -64,31 +64,51 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 You gain these features as Summoner. Features gained at higher levels list the levels at which you gain them next to the features' names.
 
-Your Level
-Class Features
+| Your Level | Class Features |
+| --- | --- |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, eidolon, summoner spellcasting, spell repertoire, link spells, evolution feat |
+| 2 | Skill feat, summoner feat |
+| 3 | 2nd-rank spells, general feat, shared vigilance, signature spells, skill increase |
+| 4 | Skill feat, summoner feat |
+| 5 | 3rd-rank spells, ancestry feat, attribute boosts, eidolon unarmed expertise, skill increase |
+| 6 | Skill feat, summoner feat |
+| 7 | 4th-rank spells, eidolon symbiosis, eidolon weapon specialization, general feat, skill increase |
+| 8 | Skill feat, summoner feat |
+| 9 | 5th-rank spells, ancestry feat, expert spellcaster, shared reflexes, skill increase |
+| 10 | Attribute boosts, skill feat, summoner feat |
+| 11 | 6th-rank spells, eidolon defensive expertise, general feat, simple weapon expertise, skill increase, twin juggernauts |
+| 12 | Skill feat, summoner feat |
+| 13 | 7th-rank spells, ancestry feat, defensive robes, eidolon unarmed mastery, skill increase, weapon specialization |
+| 14 | Skill feat, summoner feat |
+| 15 | 8th-rank spells, attribute boosts, general feat, greater eidolon specialization, shared resolve, skill increase |
+| 16 | Skill feat, summoner feat |
+| 17 | 9th-rank spells, ancestry feat, eidolon transcendence, master spellcaster, skill increase |
+| 18 | Skill feat, summoner feat |
+| 19 | Eidolon defensive mastery, general feat, instant manifestation, skill increase |
+| 20 | Attribute boosts, skill feat, summoner feat |
 
-1Ancestry and background, attribute boosts, initial proficiencies, eidolon, summoner spellcasting, spell repertoire, link spells, evolution feat
-2Skill feat, summoner feat
-32nd-rank spells, general feat, shared vigilance, signature spells, skill increase
-4Skill feat, summoner feat
-53rd-rank spells, ancestry feat, attribute boosts, eidolon unarmed expertise, skill increase
-6Skill feat, summoner feat
-74th-rank spells, eidolon symbiosis, eidolon weapon specialization, general feat, skill increase
-8Skill feat, summoner feat
-95th-rank spells, ancestry feat, expert spellcaster, shared reflexes, skill increase
-10Attribute boosts, skill feat, summoner feat
-116th-rank spells, eidolon defensive expertise, general feat, simple weapon expertise, skill increase, twin juggernauts
-12Skill feat, summoner feat
-137th-rank spells, ancestry feat, defensive robes, eidolon unarmed mastery, skill increase, weapon specialization
-14Skill feat, summoner feat
-158th-rank spells, attribute boosts, general feat, greater eidolon specialization, shared resolve, skill increase
-16Skill feat, summoner feat
-179th-rank spells, ancestry feat, eidolon transcendence, master spellcaster, skill increase
-18Skill feat, summoner feat
-19Eidolon defensive mastery, general feat, instant manifestation, skill increase
-20Attribute boosts, skill feat, summoner feat
-
-Your LevelCantrips1st2nd3rd4th5th6th7th8th9th151————————252————————3521———————4522———————55221——————65222——————752221—————852222—————9522221————10522222————115222221———125222222———1352222221——1452222222——15522222221—16522222222—175222222221185222222222195222222222205222222222
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 5 | 1 | — | — | — | — | — | — | — | — |
+| 2 | 5 | 2 | — | — | — | — | — | — | — | — |
+| 3 | 5 | 2 | 1 | — | — | — | — | — | — | — |
+| 4 | 5 | 2 | 2 | — | — | — | — | — | — | — |
+| 5 | 5 | 2 | 2 | 1 | — | — | — | — | — | — |
+| 6 | 5 | 2 | 2 | 2 | — | — | — | — | — | — |
+| 7 | 5 | 2 | 2 | 2 | 1 | — | — | — | — | — |
+| 8 | 5 | 2 | 2 | 2 | 2 | — | — | — | — | — |
+| 9 | 5 | 2 | 2 | 2 | 2 | 1 | — | — | — | — |
+| 10 | 5 | 2 | 2 | 2 | 2 | 2 | — | — | — | — |
+| 11 | 5 | 2 | 2 | 2 | 2 | 2 | 1 | — | — | — |
+| 12 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | — | — | — |
+| 13 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | — | — |
+| 14 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | — | — |
+| 15 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | — |
+| 16 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | — |
+| 17 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 |
+| 18 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+| 19 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+| 20 | 5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
 | | |
 | --- | --- |

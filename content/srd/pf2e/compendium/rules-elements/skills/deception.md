@@ -14,182 +14,33 @@ You can trick and mislead others using disguises, lies, and other forms of subte
 
 ### Item Bonuses for Deception
 
-Item
-Bonus
-Level
-Category
-Consumable
-Note
-
-[[srd/pf2e/compendium/equipment/shields/Glamorous Buckler|Glamorous Buckler]]
-+1
-2
-Specific Shields
-No
-Deception checks to Feint
-
-[[srd/pf2e/compendium/equipment/worn-items/Aeon Stone|Aeon Stone (Western Star)]]
-+1
-3
-Other Worn Items
-No
-Item bonus to Deception checks.
-
-Lesser Cleft Head Marking
-+1
-4
-Tattoos
-No
-item bonus to deception checks to feint
-
-Essence Charm
-+1
-4
-Other Worn Items
-No
-Item bonus to a check of the crafter's choice
-
-Twilight Tattoo
-+1
-5
-Tattoos
-No
-
-Graverose Garland
-+1
-5
-Other Worn Items
-No
-against undead
-
-[[srd/pf2e/compendium/equipment/armor/Suit of False Impression|Suit of False Impression]]
-+1
-6
-Specific Magic Armor
-No
-Item bonus to Impersonate someone who would normally wear heavy armor.
-
-Mask of Shifting Monstrosity
-+1
-7
-Other Worn Items
-No
-Item bonus to Deception checks
-
-Illusionist's Hat
-+1
-8
-Other Worn Items
-No
-to Create a Diversion
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Silvertongue Mutagen|Silvertongue Mutagen (Lesser)]]
-+1
-1
-Alchemical Elixirs
-Yes
-
-[[srd/pf2e/compendium/equipment/cursed-items/Taleteller's Ring|Taleteller's Ring]]
-+2
-9
-Cursed Items
-No
-Deception checks to Lie and Deception DCs against Sense Motive
-
-Greater Cleft Head Marking
-+2
-10
-Tattoos
-No
-item bonus to deception checks to feint
-
-Needle of Undeath
-+2
-10
-Held Items
-No
-item bonus to Deception checks against intelligent undead
-
-[[srd/pf2e/compendium/equipment/worn-items/Entertainer's Cincture|Entertainer's Cincture]]
-+2
-10
-Worn Items
-No
-Item bonus to Deception if selected
-
-[[srd/pf2e/compendium/equipment/held-items/Semaphore of Slanders|Semaphore of Slanders]]
-+2
-11
-Held Items
-No
-Item bonus to Deception checks to send false signals to enemy forces
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal]]
-+2
-11
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-Crimson Bluff
-+2
-15
-Specific Magic Weapons
-No
-Create a Diversion
-
-[[srd/pf2e/compendium/equipment/apex-items/Mask of Allure|Mask of Allure]]
-+2
-18
-Apex Items
-No
-Item bonus while wearing the mask.
-
-Fake Blood Pack
-+2
-0
-Adventuring Gear
-Yes
-When faking an injury
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Silvertongue Mutagen|Silvertongue Mutagen (Moderate)]]
-+2
-3
-Alchemical Elixirs
-Yes
-
-Mask of Shifting Monstrosity
-+3
-7
-Other Worn Items
-No
-Item bonus to Deception checks to Impersonate
-
-[[srd/pf2e/compendium/equipment/worn-items/Entertainer's Cincture|Entertainer's Cincture (Greater)]]
-+3
-17
-Worn Items
-No
-Item bonus to Deception if selected
-
-[[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal|Helm of Zeal (Greater)]]
-+3
-18
-Worn Items
-No
-Item bonus of the associated Deity's Divine Skill
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Silvertongue Mutagen|Silvertongue Mutagen (Greater)]]
-+3
-11
-Alchemical Elixirs
-Yes
-
-[[srd/pf2e/compendium/equipment/alchemical-items/Silvertongue Mutagen|Silvertongue Mutagen (Major)]]
-+4
-17
-Alchemical Elixirs
-Yes
+| Item | Bonus | Level | Category | Consumable | Note |
+| --- | --- | --- | --- | --- | --- |
+| [[srd/pf2e/compendium/equipment/shields/Glamorous Buckler\|Glamorous Buckler]] | +1 | 2 | Specific Shields | No | Deception checks to Feint |
+| [[srd/pf2e/compendium/equipment/worn-items/Aeon Stone\|Aeon Stone (Western Star)]] | +1 | 3 | Other Worn Items | No | Item bonus to Deception checks. |
+| Lesser Cleft Head Marking | +1 | 4 | Tattoos | No | item bonus to deception checks to feint |
+| Essence Charm | +1 | 4 | Other Worn Items | No | Item bonus to a check of the crafter's choice |
+| Twilight Tattoo | +1 | 5 | Tattoos | No | |
+| Graverose Garland | +1 | 5 | Other Worn Items | No | against undead |
+| [[srd/pf2e/compendium/equipment/armor/Suit of False Impression\|Suit of False Impression]] | +1 | 6 | Specific Magic Armor | No | Item bonus to Impersonate someone who would normally wear heavy armor. |
+| Mask of Shifting Monstrosity | +1 | 7 | Other Worn Items | No | Item bonus to Deception checks |
+| Illusionist's Hat | +1 | 8 | Other Worn Items | No | to Create a Diversion |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Silvertongue Mutagen\|Silvertongue Mutagen (Lesser)]] | +1 | 1 | Alchemical Elixirs | Yes | |
+| [[srd/pf2e/compendium/equipment/cursed-items/Taleteller's Ring\|Taleteller's Ring]] | +2 | 9 | Cursed Items | No | Deception checks to Lie and Deception DCs against Sense Motive |
+| Greater Cleft Head Marking | +2 | 10 | Tattoos | No | item bonus to deception checks to feint |
+| Needle of Undeath | +2 | 10 | Held Items | No | item bonus to Deception checks against intelligent undead |
+| [[srd/pf2e/compendium/equipment/worn-items/Entertainer's Cincture\|Entertainer's Cincture]] | +2 | 10 | Worn Items | No | Item bonus to Deception if selected |
+| [[srd/pf2e/compendium/equipment/held-items/Semaphore of Slanders\|Semaphore of Slanders]] | +2 | 11 | Held Items | No | Item bonus to Deception checks to send false signals to enemy forces |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal]] | +2 | 11 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| Crimson Bluff | +2 | 15 | Specific Magic Weapons | No | Create a Diversion |
+| [[srd/pf2e/compendium/equipment/apex-items/Mask of Allure\|Mask of Allure]] | +2 | 18 | Apex Items | No | Item bonus while wearing the mask. |
+| Fake Blood Pack | +2 | 0 | Adventuring Gear | Yes | When faking an injury |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Silvertongue Mutagen\|Silvertongue Mutagen (Moderate)]] | +2 | 3 | Alchemical Elixirs | Yes | |
+| Mask of Shifting Monstrosity | +3 | 7 | Other Worn Items | No | Item bonus to Deception checks to Impersonate |
+| [[srd/pf2e/compendium/equipment/worn-items/Entertainer's Cincture\|Entertainer's Cincture (Greater)]] | +3 | 17 | Worn Items | No | Item bonus to Deception if selected |
+| [[srd/pf2e/compendium/equipment/worn-items/Helm of Zeal\|Helm of Zeal (Greater)]] | +3 | 18 | Worn Items | No | Item bonus of the associated Deity's Divine Skill |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Silvertongue Mutagen\|Silvertongue Mutagen (Greater)]] | +3 | 11 | Alchemical Elixirs | Yes | |
+| [[srd/pf2e/compendium/equipment/alchemical-items/Silvertongue Mutagen\|Silvertongue Mutagen (Major)]] | +4 | 17 | Alchemical Elixirs | Yes | |
 
 ### Related Feats
 
