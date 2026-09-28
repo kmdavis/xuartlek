@@ -36,6 +36,7 @@ perception:
 languages:
 - Amurrun
 - [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+- [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]]
 skills:
   acrobatics: +7
   athletics: +5
@@ -64,7 +65,7 @@ saves: # unrendered
 speed: 25 feet
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +7 (Agile, Finesse, Thrown 10, Versatile S) __Damage__ 1d4+1 piercing"
+    desc: "⬻ dagger +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|Thrown 10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|Versatile S]]) __Damage__ 1d4+1 piercing"
   - name: "Ranged"
     desc: "⬻ crossbow +7 __Range__ 120 ft.; __Reload__ 1; __Damage__ 1d8 piercing"
 ```
@@ -178,24 +179,24 @@ Tracking is second nature to you, and when necessary you can follow a trail with
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
 | [[srd/pf2e/compendium/rules-elements/Weapon Groups#Crossbow\|Crossbow]] |  | 1 | 3 gp |
-| [[srd/pf2e/compendium/equipment/weapons/knife/Dagger\|Dagger]] |  | 0.1 | 2 sp |
+| [[srd/pf2e/compendium/equipment/weapons/knife/dagger\|Dagger]] |  | 0.1 | 2 sp |
 
 ### Carried
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Backpack\|Backpack]] |  |  | 1 sp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Bedroll\|Bedroll]] |  | 0.1 | 2 cp |
-| [[srd/pf2e/compendium/equipment/weapons/crossbow/Bolts\|Bolts]] | 4 | 0.1 | 1 sp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Chalk\|Chalk]] | 10 |  | 1 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/backpack\|Backpack]] |  |  | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/bedroll\|Bedroll]] |  | 0.1 | 2 cp |
+| [[srd/pf2e/compendium/equipment/weapons/crossbow/bolts\|Bolts]] |  | 0.1 | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/chalk\|Chalk]] | 10 |  | 1 cp |
 | Fanged |  |  | 30 gp |
 | [[srd/pf2e/compendium/equipment/adventuring-gear/Flint and Steel\|Flint and Steel]] |  |  | 5 cp |
-| [[srd/pf2e/compendium/equipment/Armor#Leather Armor\|Leather Armor]] |  | 1 | 2 gp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Rations\|Rations]] | 2 | 0.1 | 4 sp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Rope\|Rope]] |  | 0.1 | 5 sp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Soap\|Soap]] |  |  | 2 cp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Torch\|Torch]] | 5 | 0.1 | 1 cp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Waterskin\|Waterskin]] |  | 0.1 | 5 cp |
+| [[srd/pf2e/compendium/equipment/armor#Leather Armor\|Leather Armor]] |  | 1 | 2 gp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/rations\|Rations]] | 2 | 0.1 | 4 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/rope\|Rope]] |  | 0.1 | 5 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/soap\|Soap]] |  |  | 2 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/torch\|Torch]] | 5 | 0.1 | 1 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/waterskin\|Waterskin]] |  | 0.1 | 5 cp |
 
 ## Companion: Drak
 

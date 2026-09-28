@@ -66,9 +66,9 @@ saves: # unrendered
 speed: 20 feet
 attacks:
   - name: "Melee"
-    desc: "⬻ shortsword +8 (Agile, Finesse, Versatile S) __Damage__ 1d6 piercing"
+    desc: "⬻ shortsword +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|Versatile S]]) __Damage__ 1d6 piercing"
   - name: "Ranged"
-    desc: "⬻ clan pistol +8 (Concussive, Dwarf, Fatal D10) __Range__ 80 ft.; __Reload__ 1; __Damage__ 1d6 piercing"
+    desc: "⬻ clan pistol +8 ([[srd/pf2e/compendium/rules-elements/traits/npc-core/concussive|Concussive]], [[srd/pf2e/compendium/rules-elements/traits/player-core/dwarf|Dwarf]], Fatal D10) __Range__ 80 ft.; __Reload__ 1; __Damage__ 1d6 piercing"
 ```
 
 ## Feats and Features
@@ -111,7 +111,7 @@ If you have gunslinging legend, you instead deal +3 additional precision damage 
 
 If you are using a combination weapon whose ranged form is a firearm or crossbow, you use your proficiency with firearms and crossbows for attacks made with the melee configuration of that weapon.
 
-[[srd/pf2e/compendium/character/Ways#Way of the Spellshot|**Way of the Spellshot**]] *Level 1*
+[[srd/pf2e/compendium/character/ways#Way of the Spellshot|**Way of the Spellshot**]] *Level 1*
 
 `gunslinger`
 
@@ -183,7 +183,7 @@ You can use the Craft activity to create alchemical items. When you select this 
 
 You can patch up wounds, even in combat. Attempt a Medicine check with the same DC as for Treat Wounds and restore the corresponding amount of HP; this doesn't remove the wounded condition. As with Treat Wounds, you can attempt checks against higher DCs if you have the minimum proficiency rank. The target is then immune to your Battle Medicine for 1 day. This does not make them immune to, or otherwise count as, Treat Wounds.
 
-[[srd/pf2e/compendium/feats/player-core/skill/Streetwise|**Streetwise**]] *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/streetwise|**Streetwise**]] *Level 1*
 
 `general`  `skill`
 
@@ -217,18 +217,18 @@ You know about life on the streets and feel the pulse of your local settlement. 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
 | [[srd/pf2e/compendium/equipment/adventuring-gear/Alchemist's Toolkit\|Alchemist's Toolkit]] |  | 1 | 3 gp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Backpack\|Backpack]] |  |  | 1 sp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Bedroll\|Bedroll]] |  | 0.1 | 2 cp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Caltrops\|Caltrops]] | 3 | 0.1 | 3 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/backpack\|Backpack]] |  |  | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/bedroll\|Bedroll]] |  | 0.1 | 2 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/caltrops\|Caltrops]] | 3 | 0.1 | 3 sp |
 | Elemental Ammunition (Lesser, Cold) | 4 |  | 3 gp |
 | Elemental Ammunition (Lesser, Electricity) | 4 |  | 3 gp |
 | [[srd/pf2e/compendium/equipment/adventuring-gear/Formula Book (Blank)\|Formula Book (Blank)]] |  | 0.1 | 1 gp |
 | [[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit\|Healer's Toolkit]] |  | 1 | 5 gp |
-| [[srd/pf2e/compendium/equipment/Armor#Leather Armor\|Leather Armor]] |  | 1 | 2 gp |
+| [[srd/pf2e/compendium/equipment/armor#Leather Armor\|Leather Armor]] |  | 1 | 2 gp |
 | [[srd/pf2e/compendium/equipment/alchemical-items/Ooze Ammunition\|Ooze Ammunition (Lesser)]] | 4 |  | 7 gp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Rations\|Rations]] |  | 0.1 | 4 sp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Rope\|Rope]] |  | 0.1 | 5 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/rations\|Rations]] |  | 0.1 | 4 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/rope\|Rope]] |  | 0.1 | 5 sp |
 | Rounds (Clan Pistol) | 10 | 0.1 | 1 sp |
 | Rounds (Clan Pistol) | 7 | 0.1 | 1 sp |
-| [[srd/pf2e/compendium/equipment/weapons/sword/Shortsword\|Shortsword]] |  | 0.1 | 9 sp |
+| [[srd/pf2e/compendium/equipment/weapons/sword/shortsword\|Shortsword]] |  | 0.1 | 9 sp |
 | [[srd/pf2e/compendium/equipment/adventuring-gear/Thieves' Toolkit\|Thieves' Toolkit]] |  | 0.1 | 3 gp |

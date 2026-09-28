@@ -69,6 +69,13 @@ def ability_mods(actor: dict) -> dict[str, int]:
 
     for kind in ("ancestry", "background"):
         sys = items.get(kind, {}).get("system", {})
+        # Alternate ancestry boosts are two free boosts taken instead of the
+        # ancestry's own boosts and flaws, never alongside them.
+        alternate = sys.get("alternateAncestryBoosts") if kind == "ancestry" else None
+        if alternate:
+            for a in alternate:
+                mods[a] = mods.get(a, 0) + 1
+            continue
         apply(sys.get("boosts"), +1)
         apply(sys.get("flaws"), -1)
 
@@ -90,6 +97,83 @@ def ability_mods(actor: dict) -> dict[str, int]:
 
 def level(actor: dict) -> int:
     return int(((actor["system"].get("details") or {}).get("level") or {}).get("value") or 1)
+
+
+SELECTION_REF = re.compile(r"^\{item\|flags\.system\.rulesSelections\.(\w+)(?:\.(\w+))?\}$")
+
+
+def resolve(item: dict, value):
+    """A rule's value, with a reference to one of the item's own choices resolved.
+
+    Awakened Animal chooses its size with a ChoiceSet, and its CreatureSize and
+    ancestry HP rules read the choice back as "{item|flags.system.rulesSelections
+    .choice.size}". The export keeps the choice on the ChoiceSet as `selection`.
+    """
+    m = SELECTION_REF.match(value) if isinstance(value, str) else None
+    if not m:
+        return value
+    for rule in item.get("system", {}).get("rules") or []:
+        if rule.get("key") == "ChoiceSet" and rule.get("flag") == m.group(1):
+            sel = rule.get("selection")
+            return sel.get(m.group(2)) if m.group(2) and isinstance(sel, dict) else sel
+    return None
+
+
+def _build_rules(actor: dict, key: str):
+    """(item, rule) for every unconditional rule of this key on ancestry or heritage.
+
+    A rule with a predicate is skipped rather than evaluated. Awakened Animal
+    raises land Speed to 20 unless the heritage is Swimming Animal, and every
+    other heritage sets 20 itself, so skipping loses nothing here.
+    """
+    items = build_items(actor)
+    for kind in ("ancestry", "heritage"):
+        item = items.get(kind, {})
+        for rule in item.get("system", {}).get("rules") or []:
+            if rule.get("key") == key and not rule.get("predicate"):
+                yield item, rule
+
+
+SIZES = {"tiny": "Tiny", "sm": "Small", "med": "Medium", "lg": "Large",
+         "small": "Small", "medium": "Medium", "large": "Large"}
+
+
+def size(actor: dict) -> str:
+    """The ancestry's size, unless a CreatureSize rule sets another."""
+    out = build_items(actor).get("ancestry", {}).get("system", {}).get("size") or "med"
+    for item, rule in _build_rules(actor, "CreatureSize"):
+        out = resolve(item, rule.get("value")) or out
+    return SIZES.get(str(out), "Medium")
+
+
+def land_speed(actor: dict) -> int:
+    """The ancestry's land Speed, raised by any BaseSpeed rule for land.
+
+    An awakened animal's ancestry says 5 feet; its heritage gives the real one.
+    """
+    speed = build_items(actor).get("ancestry", {}).get("system", {}).get("speed") or 25
+    for _item, rule in _build_rules(actor, "BaseSpeed"):
+        if rule.get("selector") == "land" and isinstance(rule.get("value"), (int, float)):
+            speed = max(speed, int(rule["value"]))
+    return speed
+
+
+def languages(actor: dict) -> list[str]:
+    """The ancestry's languages, then the ones the player chose, without repeats."""
+    anc = build_items(actor).get("ancestry", {}).get("system", {})
+    given = (anc.get("languages") or {}).get("value") or []
+    chosen = ((actor["system"].get("details") or {}).get("languages") or {}).get("value") or []
+    return list(dict.fromkeys([*given, *chosen]))
+
+
+def creature_traits(actor: dict) -> list[str]:
+    """The ancestry's name, then its other traits: Goblin, Humanoid."""
+    anc = build_items(actor).get("ancestry", {})
+    name = anc.get("name", "")
+    traits = (anc.get("system", {}).get("traits") or {}).get("value") or ["humanoid"]
+    own = name.lower().replace(" ", "-")
+    rest = [t.replace("-", " ").title() for t in traits if t != own]
+    return [name, *rest] if name else rest
 
 
 def max_hp(actor: dict, mods: dict[str, int]) -> int:
@@ -114,7 +198,7 @@ def apply_ancestry_hp_rules(actor: dict, base: int) -> int:
             if (rule.get("key") != "ActiveEffectLike"
                     or rule.get("path") != "system.attributes.ancestryhp"):
                 continue
-            val = rule.get("value")
+            val = resolve(i, rule.get("value"))
             if not isinstance(val, (int, float)):
                 continue
             mode = rule.get("mode")
@@ -352,6 +436,56 @@ def lores(actor: dict, mods: dict[str, int]) -> dict[str, int]:
     for i in actor.get("items", []):
         if i.get("type") == "lore":
             out[f"{i['name']} Lore"] = RANK_BONUS[1] + lvl + mods.get("int", 0)
+    return out
+
+
+def _chosen_options(actor: dict) -> set[str]:
+    """The roll options a character's choices set, such as "animal-attack:beak"."""
+    out = set()
+    for i in actor.get("items", []):
+        for rule in i.get("system", {}).get("rules") or []:
+            opt, sel = rule.get("rollOption"), rule.get("selection")
+            if rule.get("key") == "ChoiceSet" and opt and isinstance(sel, str):
+                out.add(f"{opt}:{sel}")
+    return out
+
+
+def _strike_name(rule: dict) -> str:
+    label = str(rule.get("label") or "")
+    if label.startswith("PF2E."):
+        label = label.rsplit(".", 1)[-1]
+    return label or str(rule.get("slug") or "strike").replace("-", " ").title()
+
+
+def rule_strikes(actor: dict) -> list[dict]:
+    """Strikes a feat grants through a rule rather than as a weapon item.
+
+    Awakened Animal's Animal Attack is the case that matters: it carries one
+    Strike rule per attack, each predicated on the choice that picks it, so
+    the goose's beak exists only as a rule. A rule counts when every term of
+    its predicate is one of the character's choices; anything else, such as
+    a torch's "not lit", is skipped rather than evaluated. The basic fist is
+    left out, as it is for everyone else. Each comes back shaped like a held
+    weapon item, so it is priced and printed as one.
+    """
+    chosen = _chosen_options(actor)
+    out = []
+    for i in actor.get("items", []):
+        for rule in i.get("system", {}).get("rules") or []:
+            pred = rule.get("predicate") or []
+            if rule.get("key") != "Strike" or rule.get("fist") or not pred:
+                continue
+            if not all(isinstance(p, str) and p in chosen for p in pred):
+                continue
+            base = (rule.get("damage") or {}).get("base") or {}
+            out.append({"type": "weapon", "name": _strike_name(rule), "system": {
+                "category": rule.get("category") or "unarmed",
+                "damage": {"dice": base.get("dice", 1), "die": base.get("die", "d4"),
+                           "damageType": base.get("damageType")},
+                "traits": {"value": list(rule.get("traits") or [])},
+                "range": rule.get("range"),
+                "equipped": {"carryType": "held"},
+            }})
     return out
 
 

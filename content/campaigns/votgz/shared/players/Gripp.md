@@ -38,6 +38,10 @@ languages:
 - [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 - [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]
 - [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]]
+- [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]]
+- [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]]
+- [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]]
+- [[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]]
 skills:
   acrobatics: +5
   crafting: +8
@@ -67,13 +71,13 @@ saves: # unrendered
 speed: 25 feet
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +5 (Agile, Finesse, Thrown 10, Versatile S) __Damage__ 1d4-1 piercing"
+    desc: "⬻ dagger +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|Thrown 10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|Versatile S]]) __Damage__ 1d4-1 piercing"
   - name: "Ranged"
-    desc: "⬻ versatile vial +1 (Acid, Alchemical, Bomb, Consumable, Infused, Splash) __Range__ 20 ft.; __Reload__ -; __Damage__ 1d6 acid"
+    desc: "⬻ versatile vial +1 ([[srd/pf2e/compendium/rules-elements/traits/player-core/acid|Acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|Alchemical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/bomb|Bomb]], [[srd/pf2e/compendium/rules-elements/traits/player-core/consumable|Consumable]], [[srd/pf2e/compendium/rules-elements/traits/player-core-2/infused|Infused]], [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|Splash]]) __Range__ 20 ft.; __Reload__ -; __Damage__ 1d6 acid"
   - name: "Ranged"
-    desc: "⬻ nail bomb (lesser) +1 (Alchemical, Bomb, Consumable, Splash) __Range__ 20 ft.; __Reload__ -; __Damage__ 2d4 piercing"
+    desc: "⬻ nail bomb (lesser) +1 ([[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|Alchemical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/bomb|Bomb]], [[srd/pf2e/compendium/rules-elements/traits/player-core/consumable|Consumable]], [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|Splash]]) __Range__ 20 ft.; __Reload__ -; __Damage__ 2d4 piercing"
   - name: "Ranged"
-    desc: "⬻ steelscour (lesser) +1 (Acid, Alchemical, Bomb, Consumable) __Range__ 20 ft.; __Reload__ -; __Damage__ 0 acid"
+    desc: "⬻ steelscour (lesser) +1 ([[srd/pf2e/compendium/rules-elements/traits/player-core/acid|Acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|Alchemical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/bomb|Bomb]], [[srd/pf2e/compendium/rules-elements/traits/player-core/consumable|Consumable]]) __Range__ 20 ft.; __Reload__ -; __Damage__ 0 acid"
 ```
 
 ## Feats and Features
@@ -92,7 +96,7 @@ You can Craft a number of alchemical items up to 4 + your Intelligence modifier.
 
 These items have the infused trait and remain potent for 24 hours or until your next daily preparations, whichever comes first.
 
-[[srd/pf2e/compendium/character/class-features/alchemist/Alchemy|**Alchemy**]] *Level 1*
+[[srd/pf2e/compendium/character/class-features/alchemist/alchemy|**Alchemy**]] *Level 1*
 
 `alchemist`
 
@@ -192,7 +196,7 @@ You can use the Craft activity to create alchemical items. When you select this 
 
 You can use the Craft activity to create alchemical items. When you select this feat, you immediately add the formulas for four common 1st-level alchemical items to your formula book.
 
-[[srd/pf2e/compendium/feats/player-core/skill/Hobnobber|**Hobnobber**]] *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/hobnobber|**Hobnobber**]] *Level 1*
 
 `general`  `skill`
 
@@ -204,7 +208,7 @@ You are skilled at learning information through conversation. The Gather Informa
 
 You can read lips of others nearby who you can clearly see. The language read must be one that you know. When you're at your leisure, you can do this automatically. In encounter mode or when attempting a more difficult feat of lipreading, you're Fascinated and Off-Guard during each round in which you focus on lip movements, and you must succeed at a Society check (DC determined by the GM) to successfully read someone's lips.
 
-[[srd/pf2e/compendium/feats/player-core/skill/Seasoned|**Seasoned**]] *Level 1*
+[[srd/pf2e/compendium/feats/player-core/skill/seasoned|**Seasoned**]] *Level 1*
 
 `general`  `skill`
 
@@ -212,7 +216,7 @@ You've mastered the preparation of many types of food and drink. You gain a +1 c
 
 ### General Feats
 
-[[srd/pf2e/compendium/feats/player-core/general/Pet|**Pet**]] *Level 1*
+[[srd/pf2e/compendium/feats/player-core/general/pet|**Pet**]] *Level 1*
 
 `general`
 
@@ -267,16 +271,16 @@ You have a pet--a Tiny animal of a type you choose, such as a cat, bird, or rode
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| [[srd/pf2e/compendium/equipment/Shields#Buckler\|Buckler]] |  | 0.1 | 1 gp |
-| [[srd/pf2e/compendium/equipment/weapons/knife/Dagger\|Dagger]] |  | 0.1 | 2 sp |
+| [[srd/pf2e/compendium/equipment/shields#Buckler\|Buckler]] |  | 0.1 | 1 gp |
+| [[srd/pf2e/compendium/equipment/weapons/knife/dagger\|Dagger]] |  | 0.1 | 2 sp |
 | Versatile Vial | 4 |  |  |
 
 ### Worn and Invested
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Backpack\|Backpack]] |  |  | 1 sp |
-| [[srd/pf2e/compendium/equipment/Armor#Leather Armor\|Leather Armor]] |  | 1 | 2 gp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/backpack\|Backpack]] |  |  | 1 sp |
+| [[srd/pf2e/compendium/equipment/armor#Leather Armor\|Leather Armor]] |  | 1 | 2 gp |
 
 ### Carried
 
@@ -284,13 +288,13 @@ You have a pet--a Tiny animal of a type you choose, such as a cat, bird, or rode
 |---|---|---|---|
 | [[srd/pf2e/compendium/equipment/adventuring-gear/Alchemist's Toolkit\|Alchemist's Toolkit]] |  | 1 | 3 gp |
 | Alcohol | 5 | 0.1 | 1 cp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Bedroll\|Bedroll]] |  | 0.1 | 2 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/bedroll\|Bedroll]] |  | 0.1 | 2 cp |
 | [[srd/pf2e/compendium/equipment/alchemical-items/Bravo's Brew\|Bravo's Brew (Lesser)]] |  | 0.1 | 7 gp |
 | [[srd/pf2e/compendium/equipment/adventuring-gear/Formula Book (Blank)\|Formula Book (Blank)]] |  | 0.1 | 1 gp |
 | Harrow Deck (Simple) |  | 0.1 | 1 gp |
 | Infiltrator's Elixir |  | 0.1 | 6 gp |
 | Nail Bomb (Lesser) |  | 0.1 | 8 gp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Rope\|Rope]] |  | 0.1 | 5 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/rope\|Rope]] |  | 0.1 | 5 sp |
 | Steelscour (Lesser) |  | 0.1 | 3 gp |
 
 ## Companion: Sir Pickles

@@ -65,18 +65,18 @@ saves: # unrendered
 speed: 25 feet
 attacks:
   - name: "Melee"
-    desc: "⬻ dogslicer +8 (Agile, Backstabber, Finesse, Goblin) __Damage__ 1d6+2 slashing"
+    desc: "⬻ dogslicer +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/backstabber|Backstabber]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/goblin|Goblin]]) __Damage__ 1d6+2 slashing"
   - name: "Ranged"
     desc: "⬻ hand crossbow +8 __Range__ 60 ft.; __Reload__ 1; __Damage__ 1d6 piercing"
   - name: "Ranged"
-    desc: "⬻ flick's explosive dogslicer +8 (Backstabber, Combination, Fatal D10, Goblin, Scatter 5) __Range__ 20 ft.; __Reload__ 1; __Damage__ 1d6 slashing"
+    desc: "⬻ flick's explosive dogslicer +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/backstabber|Backstabber]], [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/combination|Combination]], Fatal D10, [[srd/pf2e/compendium/rules-elements/traits/player-core/goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/traits/npc-core/scatter|Scatter 5]]) __Range__ 20 ft.; __Reload__ 1; __Damage__ 1d6 slashing"
 ```
 
 ## Feats and Features
 
 ### Class Features
 
-[[srd/pf2e/compendium/character/Styles#Braggart|**Braggart**]] *Level 1*
+[[srd/pf2e/compendium/character/styles#Braggart|**Braggart**]] *Level 1*
 
 `swashbuckler`
 
@@ -92,7 +92,7 @@ You gain an elegant finishing attack you can make when you have panache. The fin
 
 Some finisher actions also grant an effect on a failure. Effects added on a failure don't apply on a critical failure. If your finisher action succeeds, you can still choose to apply the failure effect instead. For example, you might do this when an attack deals no damage due to resistance.
 
-[[srd/pf2e/compendium/character/class-features/swashbuckler/Panache|**Panache**]] *Level 1*
+[[srd/pf2e/compendium/character/class-features/swashbuckler/panache|**Panache**]] *Level 1*
 
 `swashbuckler`
 
@@ -134,7 +134,7 @@ Your own distinctive style lets you gracefully handle any situation. Choose a sw
 
 **Swashbuckler** After downing a foe, you promise another that you're coming after them next. Attempt an Intimidation check with a +2 circumstance bonus to Demoralize a single creature that you can see and that can see you. If you're legendary in Intimidation, you can use this as a free action with the same trigger.
 
-[[srd/pf2e/compendium/feats/player-core-2/archetype/Antagonize|**Antagonize**]] *Level 2*
+[[srd/pf2e/compendium/feats/player-core-2/archetype/antagonize|**Antagonize**]] *Level 2*
 
 `swashbuckler`
 
@@ -184,23 +184,23 @@ The spells of those you have Demoralize are less effective on you. If you succee
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
 | [[srd/pf2e/compendium/equipment/adventuring-gear/Dueling Cape\|Dueling Cape]] |  | 0.1 | 5 sp |
-| [[srd/pf2e/compendium/equipment/Armor#Leather Armor\|Leather Armor]] |  | 1 | 2 gp |
+| [[srd/pf2e/compendium/equipment/armor#Leather Armor\|Leather Armor]] |  | 1 | 2 gp |
 
 ### Carried
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Backpack\|Backpack]] |  |  | 1 sp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Bedroll\|Bedroll]] |  | 0.1 | 2 cp |
-| [[srd/pf2e/compendium/equipment/weapons/crossbow/Bolts\|Bolts]] | 6 | 0.1 | 1 sp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Chalk\|Chalk]] | 10 |  | 1 cp |
-| [[srd/pf2e/compendium/equipment/weapons/sword/Dogslicer\|Dogslicer]] |  | 0.1 | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/backpack\|Backpack]] |  |  | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/bedroll\|Bedroll]] |  | 0.1 | 2 cp |
+| [[srd/pf2e/compendium/equipment/weapons/crossbow/bolts\|Bolts]] | 6 | 0.1 | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/chalk\|Chalk]] | 10 |  | 1 cp |
+| [[srd/pf2e/compendium/equipment/weapons/sword/dogslicer\|Dogslicer]] |  | 0.1 | 1 sp |
 | [[srd/pf2e/compendium/equipment/adventuring-gear/Flint and Steel\|Flint and Steel]] |  |  | 5 cp |
 | [[srd/pf2e/compendium/equipment/adventuring-gear/Grappling Hook\|Grappling Hook]] |  | 0.1 | 1 sp |
 | [[srd/pf2e/compendium/equipment/weapons/crossbow/Hand Crossbow\|Hand Crossbow]] |  | 0.1 | 3 gp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Rations\|Rations]] | 2 | 0.1 | 4 sp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Rope\|Rope]] |  | 0.1 | 5 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/rations\|Rations]] | 2 | 0.1 | 4 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/rope\|Rope]] |  | 0.1 | 5 sp |
 | Rounds (Explosive Dogslicer) | 8 | 0.1 | 1 sp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Soap\|Soap]] |  |  | 2 cp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Torch\|Torch]] | 5 | 0.1 | 1 cp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Waterskin\|Waterskin]] |  | 0.1 | 5 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/soap\|Soap]] |  |  | 2 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/torch\|Torch]] | 5 | 0.1 | 1 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/waterskin\|Waterskin]] |  | 0.1 | 5 cp |

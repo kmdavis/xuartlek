@@ -24,6 +24,7 @@ own character, so every row here is a hole that opens for a whole arc.
 | ~~[[campaigns/votgz/shared/players/Espera\|Espera]]~~ (retired) | Ellen | 18 | 30 | +7 | +7 | +9 | +5 |
 | [[campaigns/votgz/shared/players/Gteek\|Gteek]] | Calvin | 16 | 28 | +8 | +7 | +5 | +10 |
 | [[campaigns/votgz/shared/players/John Jacob Jingleheimer Schmidt\|John Jacob Jingleheimer Schmidt]] | Kevan | 19 | 30 | +8 | +8 | +10 | +6 |
+| [[campaigns/votgz/shared/players/Lorde Morthonk\|Lorde Morthonk]] | Joel | 18 | 24 | +6 | +7 | +6 | +6 |
 
 ## Contribution and absence
 
@@ -43,7 +44,7 @@ own character, so every row here is a hole that opens for a whole arc.
 
 **Brings.** Chirurgeon alchemist: healing, best Crafting (+8) and best Society (+8). Backs up Deception and Diplomacy at +7.
 
-**If absent.** Crafting drops from +8 to +6 and Society from +8 to +6, both onto Schmidt. If Gteek is also away there is **no healing whatsoever**.
+**If absent.** Crafting drops from +8 to +6 and Society from +8 to +6, both onto Schmidt. If Gteek is also away, healing falls to Battle Medicine and whatever Soothe Lorde Morthonk has prepared.
 
 ### Vaelendil
 
@@ -63,23 +64,27 @@ own character, so every row here is a hole that opens for a whole arc.
 
 ### Gteek
 
-**Brings.** Cloistered cleric: the only divine caster and the party's only real healing, the only Religion training, best Perception (+8) and best Will (+10). Sentinel Dedication keeps him in armour.
+**Brings.** Cloistered cleric: the only divine caster and the party's only real healing, best Religion (+8), best Perception (+8) and best Will (+10). Sentinel Dedication keeps him in armour.
 
-**If absent.** **No divine healing.** Religion goes uncovered, the party loses its best scout, and Will saves fall off sharply.
+**If absent.** **No divine healing.** Religion falls from +8 to +6, onto Lorde Morthonk alone, the party loses its best scout, and Will saves fall off sharply.
 
 ### John Jacob Jingleheimer Schmidt
 
-**Brings.** Gunslinger on the Way of the Spellshot. The only Arcana and the only Occultism on the roster, both +6, and the only ranged attacker. Matches Flick at +8 Thievery and +8 Stealth, and carries Battle Medicine as a second healer.
+**Brings.** Gunslinger on the Way of the Spellshot. Arcana and Occultism at +6, behind Lorde Morthonk's +8, and the only ranged weapon on the roster. Matches Flick at +8 Thievery and +8 Stealth, and carries Battle Medicine as a second healer.
 
-**If absent.** **Arcana and Occultism go back to zero** -- no identifying magic items, no reading wards or curses. The party loses its only reliable range and its backup healing, and Thievery and Stealth rest on Flick alone.
+**If absent.** Arcana and Occultism rest on Lorde Morthonk alone, and so do ranged damage, through its cantrips, and Battle Medicine. Thievery and Stealth rest on Flick alone.
+
+### Lorde Morthonk
+
+**Brings.** Occult prepared caster, a necromancer who fights through thralls it raises. The best Arcana and Occultism on the roster, +8 each, and ranged cantrips at +8 to hit or DC 18. Backs up Religion at +6, and carries Battle Medicine and a healer's toolkit, with Soothe among its spells.
+
+**If absent.** Arcana and Occultism fall from +8 to +6, onto Schmidt alone, and Religion rests on Gteek alone. The party loses its only occult magic, and Schmidt's pistol is its only ranged damage.
 
 ## Standing gaps
 
 Missing whoever is at the table:
 
-- **Ranged damage.** Schmidt's clan pistol is the only reliable ranged attack the party has, since Espera and Vaelendil both retired. Gripp throws the occasional bomb but is built as a healer, and everyone else is melee.
-- **Arcana and Occultism.** Covered by John Jacob Jingleheimer Schmidt alone, at +6 each. Both were uncovered between Vaelendil retiring and Schmidt joining, and both go dark again in any arc Schmidt's player is running the game.
-- **Religion.** Gteek alone. No other character is trained.
+- **Ranged damage.** Schmidt's clan pistol is the only ranged weapon the party has, since Espera and Vaelendil both retired, and Lorde Morthonk's cantrips are the only ranged spells. Gripp throws the occasional bomb but is built as a healer, and everyone else is melee.
 - **Performance.** Flick alone. No other character is trained.
 
 Arcana and Occultism are ordinary skills -- any class can train

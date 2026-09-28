@@ -44,6 +44,7 @@ ROSTER = {
     "espera-(ellen)": ("Espera", "Ellen", None),
     "gteek-(calvin)": ("Gteek", "Calvin", None),
     "john-jacob-jingleheimer-schmidt-(kevan)": ("John Jacob Jingleheimer Schmidt", "Kevan", None),
+    "lorde-morthonk-(joel)": ("Lorde Morthonk", "Joel", None),
     "sir-pickles-(gripp's-companion)": ("Sir Pickles", "Levi", "Gripp"),
     "drak-(ellen's-companion)": ("Drak", "Ellen", "Espera"),
 }
@@ -180,12 +181,9 @@ def statblock(actor: dict, name: str, mods: dict) -> list[str]:
     lvl = F.level(actor)
     sv = F.saves(actor, mods)
     sk = F.skills(actor, mods) | F.lores(actor, mods)
-    anc = items.get("ancestry", {}).get("name", "")
-    langs = ((items.get("ancestry", {}).get("system", {}).get("languages") or {}).get("value") or [])
-    speed = items.get("ancestry", {}).get("system", {}).get("speed") or 25
-    size_map = {"tiny": "Tiny", "sm": "Small", "med": "Medium", "lg": "Large"}
-    size = size_map.get((items.get("ancestry", {}).get("system", {})
-                         .get("size") or "med"), "Medium")
+    langs = F.languages(actor)
+    speed = F.land_speed(actor)
+    size = F.size(actor)
 
     lines = [
         "```statblock",
@@ -202,7 +200,7 @@ def statblock(actor: dict, name: str, mods: dict) -> list[str]:
         f"rare_04: {items.get('background', {}).get('name', '')} # background",
         f"size: {size}",
     ]
-    for n, t in enumerate([anc, "Humanoid"], start=1):
+    for n, t in enumerate(F.creature_traits(actor), start=1):
         if t:
             lines.append(f"trait_0{n}: {t}")
     perc = F.perception(actor, mods)
@@ -242,7 +240,8 @@ def statblock(actor: dict, name: str, mods: dict) -> list[str]:
         f"speed: {speed} feet",
     ]
     atks = []
-    for w in actor.get("items", []):
+    # A heritage's attack, such as the goose's beak, is a rule, not an item.
+    for w in [*actor.get("items", []), *F.rule_strikes(actor)]:
         if w.get("type") != "weapon":
             continue
         line = weapon_line(actor, w, mods)
@@ -547,17 +546,27 @@ CONTRIBUTION: dict[str, tuple[str, str]] = {
         "Chirurgeon alchemist: healing, best Crafting (+8) and best Society "
         "(+8). Backs up Deception and Diplomacy at +7.",
         "Crafting drops from +8 to +6 and Society from +8 to +6, both onto "
-        "Schmidt. If Gteek is also away there is **no healing whatsoever**.",
+        "Schmidt. If Gteek is also away, healing falls to Battle Medicine "
+        "and whatever Soothe Lorde Morthonk has prepared.",
     ),
     "John Jacob Jingleheimer Schmidt": (
-        "Gunslinger on the Way of the Spellshot. The only Arcana and the only "
-        "Occultism on the roster, both +6, and the only ranged attacker. "
-        "Matches Flick at +8 Thievery and +8 Stealth, and carries Battle "
-        "Medicine as a second healer.",
-        "**Arcana and Occultism go back to zero** -- no identifying magic "
-        "items, no reading wards or curses. The party loses its only reliable "
-        "range and its backup healing, and Thievery and Stealth rest on Flick "
-        "alone.",
+        "Gunslinger on the Way of the Spellshot. Arcana and Occultism at +6, "
+        "behind Lorde Morthonk's +8, and the only ranged weapon on the "
+        "roster. Matches Flick at +8 Thievery and +8 Stealth, and carries "
+        "Battle Medicine as a second healer.",
+        "Arcana and Occultism rest on Lorde Morthonk alone, and so do ranged "
+        "damage, through its cantrips, and Battle Medicine. Thievery and "
+        "Stealth rest on Flick alone.",
+    ),
+    "Lorde Morthonk": (
+        "Occult prepared caster, a necromancer who fights through thralls "
+        "it raises. The best Arcana and Occultism on the roster, +8 each, "
+        "and ranged cantrips at +8 to hit or DC 18. Backs up Religion at +6, "
+        "and carries Battle Medicine and a healer's toolkit, with Soothe "
+        "among its spells.",
+        "Arcana and Occultism fall from +8 to +6, onto Schmidt alone, and "
+        "Religion rests on Gteek alone. The party loses its only occult "
+        "magic, and Schmidt's pistol is its only ranged damage.",
     ),
     "Vaelendil": (
         "_Retired._ Was the party's arcane artillery, with the best Arcana "
@@ -573,23 +582,20 @@ CONTRIBUTION: dict[str, tuple[str, str]] = {
     ),
     "Gteek": (
         "Cloistered cleric: the only divine caster and the party's only real "
-        "healing, the only Religion training, best Perception (+8) and best "
+        "healing, best Religion (+8), best Perception (+8) and best "
         "Will (+10). Sentinel Dedication keeps him in armour.",
-        "**No divine healing.** Religion goes uncovered, "
-        "the party loses its best scout, and Will saves fall off sharply.",
+        "**No divine healing.** Religion falls from +8 to +6, onto Lorde "
+        "Morthonk alone, the party loses its best scout, and Will saves fall "
+        "off sharply.",
     ),
 }
 
 STANDING_GAPS = [
-    ("Ranged damage", "Schmidt's clan pistol is the only reliable ranged "
-     "attack the party has, since Espera and Vaelendil both retired. Gripp "
-     "throws the occasional bomb but is built as a healer, and everyone else "
-     "is melee."),
-    ("Arcana and Occultism", "Covered by John Jacob Jingleheimer Schmidt "
-     "alone, at +6 each. Both were uncovered between Vaelendil retiring and "
-     "Schmidt joining, and both go dark again in any arc Schmidt's player is "
-     "running the game."),
-    ("Religion", "Gteek alone. No other character is trained."),
+    ("Ranged damage", "Schmidt's clan pistol is the only ranged weapon "
+     "the party has, since Espera and Vaelendil both retired, and Lorde "
+     "Morthonk's cantrips are the only ranged spells. Gripp throws the "
+     "occasional bomb but is built as a healer, and everyone else is "
+     "melee."),
     ("Performance", "Flick alone. No other character is trained."),
 ]
 
@@ -662,7 +668,7 @@ def main() -> int:
     # gave every trained proficiency +3, and the output looked plausible.
     import subprocess
     probe = subprocess.run(
-        [sys.executable, str(HERE / "check_flick.py")],
+        [sys.executable, str(HERE / "check_flick.py"), str(args.downloads)],
         capture_output=True, text=True)
     if probe.returncode != 0:
         print(probe.stdout, file=sys.stderr)

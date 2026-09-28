@@ -36,6 +36,9 @@ perception:
 languages:
 - [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 - [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]]
+- Daemonic
+- [[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]]
+- [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]
 skills:
   arcana: +7
   athletics: +5
@@ -63,9 +66,9 @@ saves: # unrendered
 speed: 30 feet
 attacks:
   - name: "Melee"
-    desc: "⬻ elven branched spear +1 (Deadly D8, Elf, Finesse, Reach) __Damage__ 1d6+1 piercing"
+    desc: "⬻ elven branched spear +1 (Deadly D8, [[srd/pf2e/compendium/rules-elements/traits/player-core/elf|Elf]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|Reach]]) __Damage__ 1d6+1 piercing"
   - name: "Ranged"
-    desc: "⬻ boomerang +1 (Recovery, Thrown) __Range__ 60 ft.; __Reload__ -; __Damage__ 1d6 bludgeoning"
+    desc: "⬻ boomerang +1 ([[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/recovery|Recovery]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|Thrown]]) __Range__ 60 ft.; __Reload__ -; __Damage__ 1d6 bludgeoning"
 ```
 
 ## Feats and Features
@@ -236,11 +239,11 @@ You often smuggle things past the authorities. When the GM rolls your Stealth ch
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Bedroll\|Bedroll]] |  | 0.1 | 2 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/bedroll\|Bedroll]] |  | 0.1 | 2 cp |
 | Bloodeye Coffee |  | 0.1 | 5 sp |
-| [[srd/pf2e/compendium/equipment/weapons/club/Boomerang\|Boomerang]] |  | 0.1 | 2 sp |
+| [[srd/pf2e/compendium/equipment/weapons/club/boomerang\|Boomerang]] |  | 0.1 | 2 sp |
 | Elven Branched Spear |  | 1 | 3 gp |
 | [[srd/pf2e/compendium/equipment/adventuring-gear/Fishing Tackle\|Fishing Tackle]] |  | 1 | 8 sp |
-| [[srd/pf2e/compendium/equipment/Armor#Rattan Armor\|Rattan Armor]] |  | 1 | 2 gp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Soap\|Soap]] |  |  | 2 cp |
+| [[srd/pf2e/compendium/equipment/armor#Rattan Armor\|Rattan Armor]] |  | 1 | 2 gp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/soap\|Soap]] |  |  | 2 cp |
 | Spirit Trap |  | 0.1 | 5 gp |

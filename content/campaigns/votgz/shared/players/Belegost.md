@@ -62,11 +62,11 @@ saves: # unrendered
 speed: 25 feet
 attacks:
   - name: "Melee"
-    desc: "⬻ bo staff +4 (Monk, Parry, Reach, Trip) __Damage__ 1d8+4 bludgeoning"
+    desc: "⬻ bo staff +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/monk|Monk]], [[srd/pf2e/compendium/rules-elements/traits/player-core/parry|Parry]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|Reach]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d8+4 bludgeoning"
   - name: "Melee"
-    desc: "⬻ handwraps of mighty blows +1 +10 (Invested, Magical) __Damage__ 1d4+4 bludgeoning"
+    desc: "⬻ handwraps of mighty blows +1 +10 ([[srd/pf2e/compendium/rules-elements/traits/gm-core/invested|Invested]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 1d4+4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dart +6 (Agile, Thrown) __Range__ 20 ft.; __Reload__ -; __Damage__ 1d4 piercing"
+    desc: "⬻ dart +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|Thrown]]) __Range__ 20 ft.; __Reload__ -; __Damage__ 1d4 piercing"
   - name: "Ranged"
     desc: "⬻ heavy crossbow +6 __Range__ 120 ft.; __Reload__ 2; __Damage__ 1d10 piercing"
 ```
@@ -152,27 +152,27 @@ You can attempt to Disarm, Grapple, Reposition, Shove, or Trip creatures up to t
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| [[srd/pf2e/compendium/equipment/Armor#Gi\|Gi]] |  | 0.1 | 2 sp |
+| [[srd/pf2e/compendium/equipment/armor#Gi\|Gi]] |  | 0.1 | 2 sp |
 | Handwraps of Mighty Blows +1 |  |  | 35 gp |
 
 ### Carried
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Backpack\|Backpack]] |  |  | 1 sp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Bedroll\|Bedroll]] |  | 0.1 | 2 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/backpack\|Backpack]] |  |  | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/bedroll\|Bedroll]] |  | 0.1 | 2 cp |
 | [[srd/pf2e/compendium/equipment/weapons/club/Bo Staff\|Bo Staff]] |  | 2 | 2 sp |
-| [[srd/pf2e/compendium/equipment/weapons/crossbow/Bolts\|Bolts]] | 10 | 0.1 | 1 sp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Chalk\|Chalk]] | 50 |  | 1 cp |
+| [[srd/pf2e/compendium/equipment/weapons/crossbow/bolts\|Bolts]] | 10 | 0.1 | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/chalk\|Chalk]] | 50 |  | 1 cp |
 | [[srd/pf2e/compendium/equipment/adventuring-gear/Climbing Kit\|Climbing Kit]] |  | 1 | 5 sp |
 | [[srd/pf2e/compendium/rules-elements/Weapon Groups#Dart\|Dart]] | 10 | 0.1 | 1 cp |
 | [[srd/pf2e/compendium/equipment/adventuring-gear/Flint and Steel\|Flint and Steel]] |  |  | 5 cp |
 | [[srd/pf2e/compendium/equipment/adventuring-gear/Grappling Hook\|Grappling Hook]] |  | 0.1 | 1 sp |
 | [[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit\|Healer's Toolkit]] |  | 1 | 5 gp |
 | [[srd/pf2e/compendium/equipment/weapons/crossbow/Heavy Crossbow\|Heavy Crossbow]] |  | 2 | 4 gp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Rations\|Rations]] | 2 | 0.1 | 4 sp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Rope\|Rope]] |  | 0.1 | 5 sp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Soap\|Soap]] |  |  | 2 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/rations\|Rations]] | 2 | 0.1 | 4 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/rope\|Rope]] |  | 0.1 | 5 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/soap\|Soap]] |  |  | 2 cp |
 | [[srd/pf2e/compendium/equipment/adventuring-gear/Ten-Foot Pole\|Ten-Foot Pole]] |  | 1 | 1 cp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Torch\|Torch]] | 5 | 0.1 | 1 cp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Waterskin\|Waterskin]] |  | 0.1 | 5 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/torch\|Torch]] | 5 | 0.1 | 1 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/waterskin\|Waterskin]] |  | 0.1 | 5 cp |

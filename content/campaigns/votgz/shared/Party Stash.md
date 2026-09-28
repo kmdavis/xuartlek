@@ -17,10 +17,10 @@ inventories on each character sheet.
 
 | Denomination | Qty |
 |---|---|
-| Gold (gp) | 765 |
+| Gold (gp) | 900 |
 | Silver (sp) | 37 |
 | Copper (cp) | 9 |
-| **Total** | **768.79 gp** |
+| **Total** | **903.79 gp** |
 
 ## Trade Cargo
 
@@ -28,7 +28,7 @@ Freight carried by the *Grim Zephyr*. Face value **980 gp**.
 
 | Item | Qty | Bulk | Unit price |
 |---|---|---|---|
-| [[srd/pf2e/compendium/equipment/services/Beverages\|Beverages]] | 2 | 10 | 20 gp |
+| [[srd/pf2e/compendium/equipment/services/beverages\|Beverages]] | 2 | 10 | 20 gp |
 | Exotic Curiosities & Artifacts |  | 10 | 300 gp |
 | Luxury Apparel & Perfumes |  | 10 | 200 gp |
 | Medicines & Herbal Goods |  | 10 | 80 gp |
@@ -40,7 +40,7 @@ Freight carried by the *Grim Zephyr*. Face value **980 gp**.
 
 | Item | Qty | Bulk | Unit price |
 |---|---|---|---|
-| [[srd/pf2e/compendium/equipment/alchemical-items/Antidote\|Antidote (Lesser)]] |  | 0.1 | 3 gp |
+| [[srd/pf2e/compendium/equipment/alchemical-items/antidote\|Antidote (Lesser)]] |  | 0.1 | 3 gp |
 | [[srd/pf2e/compendium/rules-elements/Weapon Groups#Club\|Club]] |  | 1 |  |
 | Crewmen | 11 |  |  |
 | Elixir of Life (Minor) | 4 | 0.1 | 3 gp |

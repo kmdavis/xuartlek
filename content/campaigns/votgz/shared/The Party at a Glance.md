@@ -35,6 +35,10 @@ Gteek is a tripkee (grippli variant) cleric of Shumunue, a wood-domain deity. He
 
 John Jacob Jingleheimer Schmidt is a rock dwarf gunslinger on the Way of the Spellshot, and a detective by background. Spellshot Dedication loads a spell into his clan pistol, so Electric Arc arrives with a bullet behind it. Fake Out and Thoughtful Reload make him a setup artist rather than a finisher, and at Cha -1 he is not the one to send to negotiate.
 
+## [[Lorde Morthonk]]
+
+Lorde Morthonk is an awakened domestic goose and a necromancer, seven months awake and not once sorry about anything. It fights as a puppeteer, from behind a small flock of translucent, honking, extremely angry ghost geese: its thralls, which it raises and spends to fuel its spells. It is the party's occult caster and its best Arcana and Occultism, and it keeps the crew on their feet with Battle Medicine and Soothe out of spite rather than kindness, because they are its property and it maintains its property. Everything within reach is also its property, and giving anything back is against its principles, so do not hand shit anything you want to see again. It joins at level 2.
+
 
 ## Retired characters
 

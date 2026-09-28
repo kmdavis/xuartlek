@@ -35,7 +35,7 @@ perception:
     desc: "+8"
 languages:
 - [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
-- Grippli
+- [[srd/pf2e/compendium/rules-elements/languages#Tripkee|Tripkee]]
 skills:
   athletics: +4
   deception: +5
@@ -64,7 +64,7 @@ saves: # unrendered
 speed: 25 feet
 attacks:
   - name: "Melee"
-    desc: "⬻ club +4 (Thrown 10) __Damage__ 1d6 bludgeoning"
+    desc: "⬻ club +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|Thrown 10]]) __Damage__ 1d6 bludgeoning"
 ```
 
 ## Feats and Features
@@ -89,7 +89,7 @@ When you get spell slots of 2nd rank and higher, you can fill those slots with s
 Cantrips
 Some of your spells are cantrips. A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up--this is usually equal to the highest rank of cleric spell slot you have. For example, as a 1st-level cleric, your cantrips are 1st-rank spells, and as a 5th-level cleric, your cantrips are 3rd-rank spells.
 
-[[srd/pf2e/compendium/character/Doctrines#Cloistered Cleric|**Cloistered Cleric**]] *Level 1*
+[[srd/pf2e/compendium/character/doctrines#Cloistered Cleric|**Cloistered Cleric**]] *Level 1*
 
 `cleric`
 
@@ -135,7 +135,7 @@ Through your deity's blessing, you gain additional spells that channel either th
 
 **Harmful Font:** You gain 4 additional spell slots each day at your highest rank of cleric spell slots. You can prepare only *harm* spells in these slots. At 5th level, the number of additional slots increases to 5, and at 15th level, the total number of additional slots increases to 6.
 
-[[srd/pf2e/compendium/character/class-features/cleric/Doctrine|**Doctrine**]] *Level 1*
+[[srd/pf2e/compendium/character/class-features/cleric/doctrine|**Doctrine**]] *Level 1*
 
 `cleric`
 
@@ -199,8 +199,6 @@ You gain a +2 circumstance bonus to Athletics checks to Climb.
 
 [[srd/pf2e/compendium/feats/player-core-2/ancestry/Tripkee Lore|**Tripkee Lore**]] *Level 1*
 
-`grippli`
-
 You are well versed in tripkee culture and tactics. You gain the trained proficiency in Nature and Stealth. If you would automatically become trained in one of those skills, you instead become trained in a skill of your choice.
 
 You also gain the Additional Lore general feat for Tripkee Lore.
@@ -260,21 +258,21 @@ Your experience in navigating a certain type of terrain makes you supremely conf
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| [[srd/pf2e/compendium/equipment/Armor#Leather Armor\|Leather Armor]] |  | 1 | 2 gp |
+| [[srd/pf2e/compendium/equipment/armor#Leather Armor\|Leather Armor]] |  | 1 | 2 gp |
 
 ### Carried
 
 | Item | Qty | Bulk | Price |
 |---|---|---|---|
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Backpack\|Backpack]] |  |  | 1 sp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Bedroll\|Bedroll]] |  | 0.1 | 2 cp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Chalk\|Chalk]] | 10 |  | 1 cp |
-| [[srd/pf2e/compendium/equipment/Armor#Explorer's Clothing\|Explorer's Clothing]] |  | 0.1 | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/backpack\|Backpack]] |  |  | 1 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/bedroll\|Bedroll]] |  | 0.1 | 2 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/chalk\|Chalk]] | 10 |  | 1 cp |
+| [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing\|Explorer's Clothing]] |  | 0.1 | 1 sp |
 | [[srd/pf2e/compendium/equipment/adventuring-gear/Flint and Steel\|Flint and Steel]] |  |  | 5 cp |
 | [[srd/pf2e/compendium/equipment/adventuring-gear/Healer's Toolkit\|Healer's Toolkit]] |  | 1 | 5 gp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Rations\|Rations]] | 2 | 0.1 | 4 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/rations\|Rations]] | 2 | 0.1 | 4 sp |
 | Religious Symbol (Wooden) |  | 0.1 | 1 sp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Rope\|Rope]] |  | 0.1 | 5 sp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Soap\|Soap]] |  |  | 2 cp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Torch\|Torch]] | 5 | 0.1 | 1 cp |
-| [[srd/pf2e/compendium/equipment/adventuring-gear/Waterskin\|Waterskin]] |  | 0.1 | 5 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/rope\|Rope]] |  | 0.1 | 5 sp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/soap\|Soap]] |  |  | 2 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/torch\|Torch]] | 5 | 0.1 | 1 cp |
+| [[srd/pf2e/compendium/equipment/adventuring-gear/waterskin\|Waterskin]] |  | 0.1 | 5 cp |
