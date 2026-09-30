@@ -163,3 +163,24 @@ people developed psychology instead of enchantment, radio instead of sending sto
 aviation instead of levitation. When Xuartlek's portals opened, Emerraine's scientists
 faced an existential crisis--magic works everywhere else. The implications are still being
 debated in their universities.
+
+## Lodestone
+
+The ring is not the only place the material is. Lodestone occurs throughout the
+Lumiere system -- in the ring itself, in asteroid belts, in seams on both
+Emerraine and its sister bodies. It is heavy, dull, faintly iridescent at a
+certain angle, and magnetic enough to be a nuisance around instruments.
+
+Emerraine's physicists hold that lodestone is what kills magic here, and the
+ring is simply the largest deposit of it. That is the textbook answer, taught
+in every university in the system, and every off-world scholar who has looked
+at the problem agrees the reasoning is sound.
+
+What is not in dispute is the empirical finding, which the theory did not
+predict and does not explain: **lodestone holds magic.** Bring a worked piece
+through a portal into a place where magic functions, and it takes a charge. The
+charge is finite, it leaks, and it cannot be renewed on this side of the
+portal. But it is real, it is measurable, and about forty years ago an
+artificer in Rovigo worked out how to make it wearable.
+
+See [[Emerraine#Lodestone talismans]].

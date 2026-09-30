@@ -226,6 +226,62 @@ How do the portals bypass the Lodestone Ring's effects? Emerraine's scientists h
 * **Trade Exports**: Radios, precision instruments, diesel engines, medicines (antibiotics, vaccines), psychological services, scientific consulting, mechanical calculators, optical equipment, industrial chemicals, technical documentation
 * **Trade Imports**: Raw materials (rare earths, exotic metals from other worlds), magical artifacts for study, biological specimens, astronomical data, pure intellectual exchange
 
+## Lodestone talismans
+
+Magic does not work on Emerraine. It works inside the portal districts of
+[[Rodograd]] and [[Rovigo]], because a portal is a tunnel to somewhere that
+still has it -- step outside the district and your spells stop.
+
+A **lodestone talisman** is the workaround. Lodestone is native to the whole
+Lumiere system and, for reasons nobody here can explain, it will hold a charge
+of magic taken from off-world. Carried through a portal, charged on the far
+side, and worn against the skin, it keeps a single caster working for about a
+day beyond the district line. They are made in Rovigo, they are expensive, and
+they are the only reason an off-world crew can operate inland at all.
+
+They are not batteries you can top up locally. Once the charge is in, it is
+leaking, and nothing on this world will put it back.
+
+### At the table
+
+While a talisman has charge and is worn, nothing changes. Once it starts to
+fail, every spell needs a **flat check** -- a d20 against the DC below, with no
+modifiers of any kind. On a failure the spell fizzles: the actions are spent,
+the slot or focus point is spent, and nothing happens.
+
+| Situation | Flat check DC |
+|---|---|
+| Worn, under 24 hours | No check. It simply works |
+| Worn, 24 to 48 hours | **Hours elapsed minus 24** |
+| Worn, 48 hours or more | Automatic failure. The talisman is spent |
+| Not worn | **Add the distance in feet** between you and the talisman |
+
+The two effects stack. A talisman at 29 hours, five feet out of your hand, is
+DC 5 for the time plus 5 for the distance: **DC 10**.
+
+Worked examples:
+
+| | DC |
+|---|---|
+| 12 hours, worn | no check |
+| 29 hours, worn | 5 |
+| 40 hours, worn | 16 |
+| 12 hours, talisman one square (5 ft) away | 5 |
+| 12 hours, talisman four squares (20 ft) away | 20 |
+| 29 hours, talisman one square away | 10 |
+
+Because a flat check has no modifiers, **DC 20 needs a natural 20 and DC 21 is
+impossible**. In practice that means a talisman dies at 44 hours rather than
+48, and anything further than four squares from its wearer may as well be on
+another world. Both limits are deliberate: the talisman is a leash, and the
+length of the leash is the adventure.
+
+> [!warning] Losing it
+> A talisman is small, wearable, and the single most valuable thing an
+> off-world caster carries. Disarming it, stealing it, or simply knocking it
+> twenty-five feet across a room ends that character's magic for as long as it
+> takes to get it back.
+
 ## Maps
 
 ```zoommap
